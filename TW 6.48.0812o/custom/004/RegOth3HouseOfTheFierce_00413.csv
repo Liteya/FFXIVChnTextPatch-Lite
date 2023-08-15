@@ -1,0 +1,41 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_000","歡迎來到烈士庵。
+您有什麼想要知道的儘管問，我會知無不答的。"
+1,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，您沒事就好。
+我聽說您前去暗殺皇太子，甚是擔心……
+那麼，關於烈士庵您有什麼想要瞭解的嗎？"
+2,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_002","沒想到我能等到飛燕大人回來的這一天！
+這樣一來，解放祖國的勝算就更多一籌……
+那麼，關於烈士庵您有什麼想要瞭解的嗎？"
+3,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_003","這一天終於到來了……
+ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，祝您旗開得勝！
+……那麼，關於烈士庵您有什麼想要瞭解的嗎？"
+4,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，您可是解放多瑪的功臣！
+非常歡迎您來到烈士庵！
+關於烈士庵您有什麼想要瞭解的嗎？"
+5,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_Q1_000_000","想瞭解什麼？"
+6,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_A1_000_001","你是做什麼的？"
+7,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_A1_000_002","這裡是什麼地方？"
+8,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_A1_000_003","取消"
+9,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_010","我叫做昴，是對抗帝國的多瑪起義軍的一員。"
+10,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_011","為了從帝國的手中奪回多瑪，
+我們以烈士庵為據點，日夜進行反帝國運動。"
+11,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_020","我叫做昴，是對抗帝國的多瑪起義軍的一員。"
+12,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_021","多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，還有敖龍族、碧甲族，
+以及海賊眾和多瑪的大夥……祖國終於得到了解放！
+今後我們會致力於祖國的重建和復興！"
+13,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_100","這裡是烈士庵，
+原本是一位脫離世俗的隱者居住的「庵」。"
+14,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_101","在25年前，多瑪遭到帝國的侵略，
+一部分戰敗的同志潛伏在當時已經被廢棄的這裡，
+開始了反帝國運動。"
+15,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_102","之後，這裡就漸漸成為了對抗帝國的烈士們的聚集地。"
+16,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_110","這裡是烈士庵，
+原本是一位脫離世俗的隱者居住的「庵」。"
+17,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_111","在25年前，多瑪遭到帝國的侵略，
+一部分戰敗的同志潛伏在當時已經被廢棄的這裡，
+開始了反帝國運動。之後就一直作為烈士們的聚集地使用了。"
+18,"TEXT_REGOTH3HOUSEOFTHEFIERCE_00413_SUBARU_000_112","現在多瑪已經得到解放，這裡的作用也會跟著改變吧。
+從戰鬥據點，轉變為復興的據點……"

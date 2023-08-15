@@ -1,0 +1,26 @@
+﻿key,0,1,2,3,4,5,6
+#,,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,byte,Quest,str,str,str,bit&01,DescriptionSection
+3604480,0,0,"","","",False,0
+3604481,0,0,"","","",False,0
+3604482,0,68737,"多瑪方城戰","MAHJONG","多瑪方城戰解說",True,2
+3604483,0,0,"烈羽爭鋒","RIVAL WINGS","烈羽爭鋒解說",True,3
+3604484,0,0,"關於房屋","HOUSING","房屋解說",True,4
+3604485,0,0,"昔日重現模式","NEW GAME+","昔日重現模式解說",True,2
+3604486,0,0,"紛爭前線","FRONTLINE","紛爭前線解說",True,7
+3604487,0,0,"出海垂釣","OCEAN FISHING","出海垂釣解說",True,8
+3604488,0,0,"幻巧拼圖","FAUX HOLLOWS","幻巧拼圖解說",True,9
+3604489,0,0,"南方博茲雅戰線","THE BOZJAN SOUTHERN FRONT","南方博茲雅戰線解說",True,10
+3604490,0,0,"反抗軍等級","RESISTANCE RANK","反抗軍等級解說",True,11
+3604491,0,0,"失傳技能","LOST ACTION","失傳技能解說",True,13
+3604492,0,0,"博茲雅晶簇","BOZJA CLUSTER","博茲雅晶簇解說",True,12
+3604493,0,0,"九宮幻卡錦標賽","CARD TOURNAMENT","九宮幻卡錦標賽解說",True,14
+3604494,0,0,"","","",True,15
+3604495,0,0,"","","",True,16
+3604496,0,0,"反抗軍勳章","RESISTANCE HONORS","反抗軍勳章解說",True,17
+3604497,0,0,"札杜諾爾高原戰線","ZADNOR","札杜諾爾高原戰線解說",True,18
+3604498,0,0,"玩家對戰","PvP","玩家對戰解說",True,19
+3604499,0,0,"水晶衝突","CRYSTALLINE CONFLICT","水晶衝突解說",True,20
+3604500,2,0,"深層迷宮","DEEP DUNGEON","深層迷宮解說",True,25
+3604501,2,0,"深層迷宮","DEEP DUNGEON","深層迷宮解說",True,26
+3604502,2,0,"深層迷宮","DEEP DUNGEON","深層迷宮解說",True,27

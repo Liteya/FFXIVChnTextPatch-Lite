@@ -1,0 +1,113 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_000","看來你已經準備好要重鑄黃道武器了。
+那就讓我們快點開始吧！"
+1,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_001","黃道武器會擁有如下的能力，
+如果你下定決心，我們就開始進行再鑄！"
+2,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_TITLE","請選擇想要再鑄的黃道武器"
+3,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CHOICES","<If(Equal(IntegerParameter(1),9491))>將<Sheet(Item,8649,0)/>再鑄成<Sheet(Item,9491,0)/>、<Sheet(Item,8658,0)/>再鑄成<Sheet(Item,9500,0)/><Else/>將<Sheet(Item,IntegerParameter(2),0)/>再鑄成<Sheet(Item,IntegerParameter(1),0)/></If>"
+4,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CANCEL","取消"
+5,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_MESSAGE","<If(Equal(IntegerParameter(1),9491))>確定再鑄<Sheet(Item,9491,0)/>、<Sheet(Item,9500,0)/>？<Else/>確定再鑄<Sheet(Item,IntegerParameter(1),0)/>？</If>"
+6,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_YES","是"
+7,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_NO","否"
+8,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_030","唔，<If(Equal(IntegerParameter(1),8649))><Sheet(Item,8649,0)/>和<Sheet(Item,8658,0)/><Else/><Sheet(Item,IntegerParameter(1),0)/></If>在哪？
+沒有的話可無法開始再鑄。"
+9,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_031","製作黃道武器時，需要卸下上古武器．鎮魂，
+並放在兵裝庫或背包中，再和加爾贊對話。"
+10,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_040","唔，你身上沒有上古武器．鎮魂，無法開始再鑄。"
+11,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_050","咦……你好像還沒準備好呀。
+湊齊所有材料後，帶著它們來找我。"
+12,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_051","製作黃道武器所需要的材料是：
+<Sheet(Item,9506,0)/>、<Sheet(Item,9507,0)/>、
+«<Sheet(Item,9508,0)/>»、<Sheet(Item,9509,0)/>。"
+13,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_060","唔，黃道武器是一種特殊的武器。
+ ……不能持有兩把。"
+14,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_060","你已經擁有<Sheet(Item,IntegerParameter(1),0)/>了。"
+15,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_100_070","哎呀，你的背包已經滿了。
+還是整理一下再來吧。"
+16,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_100","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你終於走到了這一步。
+再鑄黃道武器的時刻來臨了！"
+17,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_101","把大家都叫來一起幫忙製作黃道武器吧！
+我這就聯繫繆塔米克斯，讓他過來這邊。"
+18,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_102","首先該我出場啊……
+看我為黃道武器打造出最棒的器身來。
+……開工！"
+19,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_103","呼……呼……
+做、做好了……這就是黃道武器的器身！
+只要再注入靈魂就大功告成了！"
+20,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_104","那麼，繆塔米克斯……
+能請你將 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的上古武器轉化為魔晶石嗎？"
+21,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_105","呼哧……呼哧……
+這個是 很厲害的 武器呀！
+裡面 滿載著 思念！"
+22,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_106","要轉化成 魔晶石 會有很高的 風險！
+如果 失敗了 的話 整個武器 都會 消失的呀？！
+我可 無法保證 絕對成功！"
+23,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_107","將相應的上古武器．鎮魂轉化為魔晶石。
+成功率為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.4%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+如果失敗，上古武器．鎮魂將會消失。"
+24,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q1_000_000","要將相應的上古武器．鎮魂轉化為魔晶石嗎？"
+25,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_001","是"
+26,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_002","否"
+27,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q2_000_000","成功率為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.4%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+如果失敗，上古武器．鎮魂將會消失。
+是否確定？"
+28,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A2_000_001","是"
+29,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A2_000_002","否"
+30,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q3_000_000","要放棄再鑄黃道武器嗎？"
+31,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A3_000_001","是"
+32,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A3_000_002","否"
+33,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_110","說得好！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+繆塔米克斯老爺子，上吧，看你的了！"
+34,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_111","喂！都走到這一步了難道你要夾著尾巴跑掉嗎？！
+世人常說<If(PlayerParameter(4))>女人<Else/>男人</If>要有勇氣！
+繆塔米克斯老爺子，沒關係！上吧，看你的了！"
+35,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_112","喂！你在猶豫什麼呀！
+現在需要的就是上古武器轉化出的魔晶石！
+繆塔米克斯老爺子，沒關係！上吧，看你的了！"
+36,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_113","這可是 你說的 那我上了！
+超高 風險的 作業！
+成功 失敗 聽天由命！"
+37,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_114","令人 驚訝的 成功！
+果然 船到橋頭 自然直！
+成功就好 萬歲！"
+38,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_115","……太棒了！
+不愧是繆塔米克斯老爺子，我就知道你能搞定！"
+39,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_116","接下來就剩將繆塔米克斯轉化出的魔晶石之力，
+注入蓋羅爾特製作的器身裡了！"
+40,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_150","把大家都叫來一起幫忙製作黃道武器吧！
+我這就聯繫繆塔米克斯，讓他過來這邊。"
+41,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_200","最後輪到我出場了……
+我要用這<Sheet(Item,9509,0)/>，
+將化為魔晶石的上古武器之力注入«<Sheet(Item,9508,0)/>»中！"
+42,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_201","這就是古時統治整個伊爾薩巴德大陸的偉大聖王之愛劍！"
+43,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_202","還有古時偉大聖王所持的不朽不壞神盾！"
+44,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_203","從前近東被災厄襲擊時，是一位勇士將人民從惡鬼手中拯救了出來。
+他就是最終建立起了帝國，愛民如子的皇帝米爾札。
+而這就是傳說中由惡鬼的雙爪所鑄成的，皇帝米爾札持有的鬥器！"
+45,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_204","據說這是古代的英雄從虛無界魔王手中奪來的兵器……
+它會根據持有者的才能改變形態，
+最早是大劍的樣子，之後才變化成了戰斧！"
+46,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_205","古代英雄朗基努斯曾經處刑過一名聖人，
+他對此追悔莫及，並最終踏上了懺悔之旅。
+而這就是他的佩槍，據傳因為沾染了聖人之血而寄宿著神力！"
+47,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_206","東方有一位傳說中的弓手名為與一，
+而這就是以與一的愛弓為模型重現出的長弓……
+傳說即使在暴風雨中，也能射穿興風作浪的海龍之眼！"
+48,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_207","這是近東一位偉大高僧隨身攜帶的木杖……
+高僧經過苦修終成正果之時，
+原本只是普通樹枝的木杖也擁有了靈性，從而產生了變化！"
+49,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_208","據傳這是妖異女王莉莉絲的魔杖……
+古代的大魔法師擊敗了出現在物質界的莉莉絲，
+而這魔杖，就是當時的戰利品。"
+50,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_209","這是古代不知何人所著的禁書……
+據傳上面用暗號記述著世界的終焉。
+心志不堅者只要看一眼就會精神崩潰！"
+51,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_210","這是尼姆海兵團的傳奇魔導書……
+第六靈災時從大洪水中拯救了許多人民的海兵團長，
+格爾巴斯．羅姆巴斯的愛書——最終寶典！"
+52,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_211","這是救民於水深火熱之中的傳奇忍者佐助的佩刀……
+佐助被認為是古代英雄的後裔，他的刀也在族中被代代流傳！"
+53,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_212","英雄的力量、靈魂的祝福、群星的閃耀匯聚一身！
+這就是黃道武器，也是你新的力量——<Sheet(Item,IntegerParameter(1),0)/>！"

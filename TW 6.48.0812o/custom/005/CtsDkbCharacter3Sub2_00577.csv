@@ -1,0 +1,29 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_000","你來得正好。
+真可憐啊……因為中毒呼吸也很急促，看起來它很痛苦。
+我們也會傾盡全力的，請你和貝斯里克一起治療它吧。"
+1,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_050","多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 製作的解毒藥餌，
+它的身體漸漸恢復過來了。"
+2,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_100","多虧了有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫助，
+跳跳體內的毒素好像已經全都排出來了。
+謝謝你。"
+3,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_150","你看！
+跳跳站起來了！
+太令人開心了！"
+4,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_200","你來看望跳跳了啊，
+它恢復得很順利，
+看起來它很喜歡 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 呢。"
+5,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_220","嗯，果然如此……
+跳跳看到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來了
+就會很高興。"
+6,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_250","聽說你們把它留在雲村了……
+但剛才它又回來了。
+這到底是怎麼回事呢？"
+7,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_300","居然是會說話的阿馬羅，真是驚人……
+我們也只是在傳說中聽說過而已。"
+8,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_320","能從跳跳的口中聽到它自己的願望真是太好了。"
+9,"TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_350"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+我代表聖林牧場感謝你。
+歡迎你隨時來玩。"

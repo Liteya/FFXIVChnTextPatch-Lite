@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_HOUFURPICTURE_00376_Q1_000_000","【繪畫作品：<Sheet(Item,IntegerParameter(1),0)/>】"
+1,"TEXT_HOUFURPICTURE_00376_Q1_000_001","【繪畫作品：無】"
+2,"TEXT_HOUFURPICTURE_00376_A1_000_002","新增繪畫作品"
+3,"TEXT_HOUFURPICTURE_00376_A1_000_003","取出繪畫作品"
+4,"TEXT_HOUFURPICTURE_00376_A1_000_004","取消"
+5,"TEXT_HOUFURPICTURE_00376_Q2_000_000","確定要取出<Sheet(Item,IntegerParameter(1),0)/>嗎？
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※下列道具將會被廢棄。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
