@@ -1,2 +1,2 @@
 # FFXIVChnTextPatch-Lite
-A tool to replace FFXIV in-game text (forked from https://github.com/GpointChen/FFXIVChnTextPatch-GP)
+FFXIV的中文漢化器。來源為GP版本https://github.com/GpointChen/FFXIVChnTextPatch-GP
