@@ -1,0 +1,12 @@
+﻿key,8,9,10,11,12
+#,,,,,
+offset,0,4,8,12,16
+int32,str,str,str,str,str
+0,mji,info,,,
+1,mji,setrank,,,
+2,mji,createlively,,,
+3,fishing,mode,reducecost,,
+4,satis,bias,server,,
+5,satis,bias,client,,
+6,satis,bias,disp,,
+7,mji,flags,,,
