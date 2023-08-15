@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDA312_02488_SEQ_21",""
 22,"TEXT_STMBDA312_02488_SEQ_22",""
 23,"TEXT_STMBDA312_02488_SEQ_23",""
-24,"TEXT_STMBDA312_02488_TODO_00","在絕鬼島附近和阿莉塞會合"
+24,"TEXT_STMBDA312_02488_TODO_00","在絕鬼島附近和阿莉塞匯合"
 25,"TEXT_STMBDA312_02488_TODO_01","在指定地點討伐紅甲族"
 26,"TEXT_STMBDA312_02488_TODO_02","在第2個指定地點討伐紅甲族"
 27,"TEXT_STMBDA312_02488_TODO_03","和莉瑟對話"
@@ -63,15 +63,15 @@ int32,str,str
 55,"TEXT_STMBDA312_02488_A1_000_015","阿莉塞，不要這麼緊張"
 56,"TEXT_STMBDA312_02488_ALISAIE_000_016","……嗯！
 你這一句話就讓我充滿了幹勁。
-那我們就一起潛水過去，在那個連接絕鬼島的海底洞窟前會合！"
+那我們就一起潛水過去，在那個連接絕鬼島的海底洞窟前匯合！"
 57,"TEXT_STMBDA312_02488_ALISAIE_000_017","我、我才……沒有緊張呢！
 只不過……對，只不過是想著絕對不能失敗，
 所以會比較謹慎！"
 58,"TEXT_STMBDA312_02488_ALISAIE_000_018","哈……真是的……謝謝你了。
 那我們就出發吧，
-一起潛水過去，在那個連接絕鬼島的海底洞窟前會合！"
+一起潛水過去，在那個連接絕鬼島的海底洞窟前匯合！"
 59,"TEXT_STMBDA312_02488_LYSE_000_020","游泳沒有消耗你太多體力吧？
-等到了島上應該也沒有休息的時間，
+等到了島上估計也沒有休息的時間，
 我們在這裡稍微調整一下吧！"
 60,"TEXT_STMBDA312_02488_ALISAIE_000_030","好，這下全員到齊了。
 這個洞窟連接著絕鬼島內部……
@@ -80,13 +80,13 @@ int32,str,str
 上了島具體要做些什麼呢？"
 62,"TEXT_STMBDA312_02488_ALISAIE_000_032","嗯……首先得分兩個人去搞點大動靜出來，吸引紅甲族，
 然後剩下那個人趁亂去解除寶物殿的封印……"
-63,"TEXT_STMBDA312_02488_ALISAIE_000_033","之後看準時機會合，3個人在寶物殿打防守戰，拖住他們。
+63,"TEXT_STMBDA312_02488_ALISAIE_000_033","之後看準時機匯合，3個人在寶物殿打防守戰，拖住他們。
 雖然方案有些單薄，不過就咱們這人數，也只能這樣了。"
 64,"TEXT_STMBDA312_02488_LYSE_000_034","那我申請負責吸引敵人……
 不不不，是一定要讓我來！"
 65,"TEXT_STMBDA312_02488_ALISAIE_000_035","……知道了，那就拜託你了，莉瑟。
 雖然我也想負責這邊，
-不過考慮到實力，還是交給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 比較適合……"
+不過考慮到實力，還是交給<Highlight>ObjectParameter(1)</Highlight>比較合適……"
 66,"TEXT_STMBDA312_02488_ALISAIE_000_036","那就這麼定了。
 你們倆一上岸，就立刻分散開，
 在據點各處各自大鬧一場。"
@@ -101,30 +101,30 @@ int32,str,str
 72,"TEXT_STMBDA312_02488_BALLOON_000_043","你想要幹什麼？！"
 73,"TEXT_STMBDA312_02488_LYSE_000_044","啊，看來你那邊也很順利啊！
 希望阿莉塞那邊也能一切順利……"
-74,"TEXT_STMBDA312_02488_ALISAIE_000_045","(-阿莉塞-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、莉瑟，能聽到嗎？！
+74,"TEXT_STMBDA312_02488_ALISAIE_000_045","(-阿莉塞-)<Highlight>ObjectParameter(1)</Highlight>、莉瑟，能聽到嗎？！
 謝謝你們把紅甲族全都引開了！"
 75,"TEXT_STMBDA312_02488_ALISAIE_000_046","(-阿莉塞-)我也順利找到寶物殿的入口了。
 就在島的西北邊，通道的最裡面。
 我已經解開封印了，你們快過來吧！"
 76,"TEXT_STMBDA312_02488_LYSE_000_050","好嘞，好戲才剛剛開始！
 儘管放馬過來吧！"
-77,"TEXT_STMBDA312_02488_ALISAIE_000_060","你們沒事吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+77,"TEXT_STMBDA312_02488_ALISAIE_000_060","你們沒事吧，<Highlight>ObjectParameter(1)</Highlight>！
 這扇門後面應該就是寶物殿了。"
-78,"TEXT_STMBDA312_02488_ALISAIE_000_061","還是蠻順利的嘛，
+78,"TEXT_STMBDA312_02488_ALISAIE_000_061","還是挺順利的嘛，
 我們就這樣衝進去，
 鬧紅甲族個人仰馬翻！"
-79,"TEXT_STMBDA312_02488_LYSE_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快躲起來！
+79,"TEXT_STMBDA312_02488_LYSE_000_070","<Highlight>ObjectParameter(1)</Highlight>，快躲起來！
 我們得趕緊開個緊急作戰會議！"
 80,"TEXT_STMBDA312_02488_ALISAIE_000_080","哈……哈……總算是逃出來了……
 這是怎麼回事啊？怎麼會突然出現蠻神？！"
 81,"TEXT_STMBDA312_02488_ALISAIE_000_081","……不，仔細想想的確是成立的。
-蓄積著龐大乙太的寶物，
+積攢著龐大乙太的寶物，
 加上甲人族想要守護寶物殿的願望。"
 82,"TEXT_STMBDA312_02488_ALISAIE_000_082","道理上算是講通了……
 但出現那種滑稽搞笑還有點隨便的蠻神也行？！
-應該算盤他們會知……"
+估計算盤他們會知……"
 83,"TEXT_STMBDA312_02488_ALISAIE_000_083","……知道才怪吧。
 他們也只是告訴我們小心點……"
 84,"TEXT_STMBDA312_02488_ALISAIE_000_084","真是的……如果說這也是緣分的話那正好！
 我們都闖關闖到這裡了，
-最後這個也給他打飛吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+最後這個也給他打飛吧，<Highlight>ObjectParameter(1)</Highlight>！"

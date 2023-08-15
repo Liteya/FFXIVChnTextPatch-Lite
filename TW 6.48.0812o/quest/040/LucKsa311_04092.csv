@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_LUCKSA311_04092_SEQ_21",""
 22,"TEXT_LUCKSA311_04092_SEQ_22",""
 23,"TEXT_LUCKSA311_04092_SEQ_23",""
-24,"TEXT_LUCKSA311_04092_TODO_00","和南部臺地的德米塔爾對話"
+24,"TEXT_LUCKSA311_04092_TODO_00","和南部台地的德米塔爾對話"
 25,"TEXT_LUCKSA311_04092_TODO_01",""
 26,"TEXT_LUCKSA311_04092_TODO_02",""
 27,"TEXT_LUCKSA311_04092_TODO_03",""
@@ -50,8 +50,8 @@ int32,str,str
 46,"TEXT_LUCKSA311_04092_TODO_22",""
 47,"TEXT_LUCKSA311_04092_TODO_23",""
 48,"TEXT_LUCKSA311_04092_SYSTEM_100_000","若要領取或繼續推進本任務，
-需要反抗軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
-49,"TEXT_LUCKSA311_04092_DMITAR_000_000","解放者閣下！感謝你在札杜諾爾高原做出的巨大貢獻！
+需要義軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
+49,"TEXT_LUCKSA311_04092_DMITAR_000_000","解放者閣下！感謝你在扎杜諾爾高原做出的巨大貢獻！
 裝置設定完成之後，仿製青龍壁也成功啟動了！"
 50,"TEXT_LUCKSA311_04092_DMITAR_000_002","防禦敵軍戰艦空襲的範圍得以擴大，
 我們也能把戰線向前推進了。"
@@ -68,5 +68,5 @@ int32,str,str
 直到從第四軍團手中奪回博茲雅的那一天！"
 56,"TEXT_LUCKSA311_04092_SYSTEM_000_030","由於戰場的範圍擴大，
 將會發生新的衝突戰和緊急遭遇戰！"
-57,"TEXT_LUCKSA311_04092_SYSTEM_000_031","另外，反抗軍等級達到「<Value>IntegerParameter(1)</Value>」以上時，
+57,"TEXT_LUCKSA311_04092_SYSTEM_000_031","另外，義軍等級達到「<Value>IntegerParameter(1)</Value>」以上時，
 可以從弗爾德尼斯前哨的水琴那裡領取下一個任務。"

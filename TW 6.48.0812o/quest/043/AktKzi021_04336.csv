@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_AKTKZI021_04336_SEQ_21",""
 22,"TEXT_AKTKZI021_04336_SEQ_22",""
 23,"TEXT_AKTKZI021_04336_SEQ_23",""
-24,"TEXT_AKTKZI021_04336_TODO_00","討伐<Sheet(BNpcName,10691,0)/>獲得<Sheet(EventItem,2003326,0)/>"
+24,"TEXT_AKTKZI021_04336_TODO_00","討伐<Sheet(BNpcName,10691,0)/>獲取<Sheet(EventItem,2003326,0)/>"
 25,"TEXT_AKTKZI021_04336_TODO_01","將<Sheet(EventItem,2003326,0)/>交給塔塔薩科"
 26,"TEXT_AKTKZI021_04336_TODO_02",""
 27,"TEXT_AKTKZI021_04336_TODO_03",""
@@ -60,12 +60,12 @@ int32,str,str
 51,"TEXT_AKTKZI021_04336_TATASAKO_000_003","我聽說你親眼見過月面的情況。
 所以希望你可以為此次計劃提供幫助。"
 52,"TEXT_AKTKZI021_04336_TATASAKO_000_004","能請你打倒<Sheet(BNpcName,10691,0)/>，
-獲得1個<Sheet(EventItem,2003326,0)/>嗎？"
+獲取1個<Sheet(EventItem,2003326,0)/>嗎？"
 53,"TEXT_AKTKZI021_04336_TATASAKO_000_005","哦哦，你願意幫忙嗎！
 為了月亮的未來，為了人類的未來，
 拜託你了！"
 54,"TEXT_AKTKZI021_04336_TATASAKO_000_006","請你打倒<Sheet(BNpcName,10691,0)/>，
-獲得1個<Sheet(EventItem,2003326,0)/>。
+獲取1個<Sheet(EventItem,2003326,0)/>。
 為了未來，拜託你了！"
 55,"TEXT_AKTKZI021_04336_TATASAKO_000_010","好快啊，這就回來了。
 那麼拿到<Sheet(EventItem,2003326,0)/>了嗎？"

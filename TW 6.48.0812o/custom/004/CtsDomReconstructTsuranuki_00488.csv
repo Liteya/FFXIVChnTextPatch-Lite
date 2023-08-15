@@ -5,10 +5,10 @@ int32,str,str
 那我希望有座自己的工房……不知道行不行啊……"
 1,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_010","我聽說重建工作會先從百貨市場開始進行啊。
 雖然有點不甘心，但是可以理解。
-我們也是沒辦法餓著肚子幹活的！"
+我們也是沒法餓著肚子幹活的！"
 2,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_020","接下來該重建的就是這裡的匠人街了吧？！
 這樣的話，基本上工具什麼的都可以自己製作了！"
-3,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_030","喲， <Highlight>ObjectParameter(1)</Highlight> ！
+3,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_030","喲，<Highlight>ObjectParameter(1)</Highlight>！
 你聽我說呀，我們的工房終於要重建了！
 車前會已經開始為此行動了！"
 4,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_031","真是的……沒想到還真能盼到這一天啊。
@@ -23,7 +23,7 @@ int32,str,str
 雖然我擅長的是鍛鐵，
 但是這個國家的建設首先是缺不了木材的啊。"
 8,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_035","畢竟，這個國家是與河流一同繁榮起來的，
-因為需要應對溼氣，所以對木材的使用很有心得。"
+因為需要應對濕氣，所以對木材的使用很有心得。"
 9,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_036","然後在這邊將建成我鍛鐵的地方！
 熔爐還有鐵砧……需要的東西還有很多，
 距離完成還需要些時日。"
@@ -55,7 +55,7 @@ int32,str,str
 20,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_070","哈！
 那個老狐狸！什麼時候加快了工房建設的進度？！
 要是這樣的話，那就比著幹啊！"
-21,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_080","這不是 <Highlight>ObjectParameter(1)</Highlight> 嗎！
+21,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_080","這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 聽說你又為匠人街的發展添了一份力啊。
 謝謝啊……我會銘記於心的！"
 22,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_081","多虧了你的幫忙，你來看怎麼樣！
@@ -64,15 +64,15 @@ int32,str,str
 但是刻木匠的工作場已經接近完成了。
 用不了多久就應該可以正式開工了吧。"
 24,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_HOZAN_000_083","(-？？？？-)貫師傅！
-還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+還有<Highlight>ObjectParameter(1)</Highlight>！"
 25,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_084","啊、你是……"
 26,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_085","這不是寶明的兒子嗎！
 等等……你們不是逃到西邊的大陸去了嗎？！"
 27,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_HOZAN_000_086","就在剛才……就在剛才我們回國了！
-當然，其他逃到艾奧傑亞的同胞們也在一起……"
+當然，其他逃到艾歐澤亞的同胞們也在一起……"
 28,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_087","連大人加上孩子，就在剛才他們都平安到達了。
-現在正在休息，應該不久之後這個城市就會熱鬧起來的吧。"
-29,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_088"," <Highlight>ObjectParameter(1)</Highlight> 幫忙完成的計劃，終於有了結果。
+現在正在休息，估計不久之後這個城市就會熱鬧起來的吧。"
+29,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_088","<Highlight>ObjectParameter(1)</Highlight>幫忙完成的計劃，終於有了結果。
 今天真是一個可喜可賀的日子！"
 30,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_HOZAN_000_089","我聽說你好像在為重建多瑪飛地而貢獻物資啊。"
 31,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_HOZAN_000_090","我對你真是有說不完道不盡的感謝！
@@ -93,15 +93,15 @@ int32,str,str
 為了進一步的發展而努力吧！"
 38,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_100","逃難的那些人能夠回來，真令人高興！
 可是這樣一來，也會需要更多的房屋與工具。
-那就再次拜託你了 <Highlight>ObjectParameter(1)</Highlight> ！"
+那就再次拜託你了<Highlight>ObjectParameter(1)</Highlight>！"
 39,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_110","快來看啊，刻木匠的工房基本完成了！
 這邊……我們就差造一個用於打鐵的、好使的熔爐了！"
-40,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_120","啊、是 <Highlight>ObjectParameter(1)</Highlight> 啊！
+40,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_120","啊、是<Highlight>ObjectParameter(1)</Highlight>啊！
 抱歉，請你稍等片刻！"
 41,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_121","喂！昨天收到的鐵瓶哪去了？
 就是把手斷開了，瓶口也變形了的那個……應該是收下了吧！"
 42,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SMITH00488_000_122","(-打鐵的青年-)啊，是川波家的那個！
-那個已經修好放在前臺了。"
+那個已經修好放在前台了。"
 43,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SMITH00488_000_123","(-打鐵的青年-)話說，應該有7把已經磨好的菜刀來著，
 但從剛才我就一直沒找到……"
 44,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_124","菜刀的話已經在裝刀柄了！
@@ -135,21 +135,21 @@ int32,str,str
 57,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_137","不、不管怎樣，剩下的就只差撈紙工房的建設了！
 車前會也會全力以赴，為了建設完成匠人街而不斷奔走的！"
 58,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SYSTEM_000_138","匠人街已經完成部分建設工作。
-有了貫他們的努力，民眾可以得到更高品質的工具。"
+有了貫他們的努力，民眾可以得到更優質的工具。"
 59,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SYSTEM_000_139","今後也請將物資放進<Sheet(EObj,2009567,0)/>，
 為了進一步的發展而努力吧！"
 60,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_140","多虧你的幫忙，我們的工房忙得不可開交！
 就算說成現在匠人街已經完工了，那也一點都不會感到奇怪！"
 61,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_150","你想問繼匠人街之後，下一個打算改建哪裡？
 你就安心交給我吧，絕不會有問題的！"
-62,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_108_050","哦，是 <Highlight>ObjectParameter(1)</Highlight> 啊！
+62,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_108_050","哦，是<Highlight>ObjectParameter(1)</Highlight>啊！
 我這沒什麼可以招待你的，你就隨便轉轉吧。
 現在忙得我都快把老命搭上了，真是愉快至極呀！"
 63,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_160","之前寶山和孩子們一起來找我來著，
 說是要靠自己湊齊學習用品。
-現在的孩子們真的是蠻上進的啊！"
+現在的孩子們真的是挺上進的啊！"
 64,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_170","這多瑪飛地的人是越來越多啊！
-託你的福，我這邊是訂單不斷啊！
+托你的福，我這邊是訂單不斷啊！
 這種忙的眼花繚亂的感覺真是讓人過癮啊！"
 65,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_180","真是變得夠熱鬧的了，叫人刮目相看啊！
 我也得玩命使喚這副老骨頭，拚命工作才行啊！

@@ -60,7 +60,7 @@ int32,str,str
 用你的力量超度它們……"
 51,"TEXT_CLSTHM021_00346_COCOBUKI_000_60","嘿嘿嘿……
 看來你已經消滅所有敵人了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你加入咒術師公會。"
+<Highlight>ObjectParameter(1)</Highlight>，歡迎你加入咒術師公會。"
 52,"TEXT_CLSTHM021_00346_COCOBUKI_000_62","這次你證明了自己所擁有的咒術師的魔力。
 決定你魔力大小的是流淌於你體內的「乙太量」……"
 53,"TEXT_CLSTHM021_00346_COCOBUKI_000_63","乙太乃生命之源，不論其量的大小，
@@ -73,4 +73,4 @@ int32,str,str
 就來這裡找我吧，嘿嘿嘿嘿……"
 56,"TEXT_CLSTHM021_00346_SYSTEM_000_100","開啟了「咒術師」的職業任務。
 等級達到「5級」以上時，才可以領取下一個任務。
-提高等級後再來公會。 "
+提高等級後再來公會。"

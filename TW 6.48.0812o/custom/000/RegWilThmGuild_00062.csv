@@ -2,15 +2,15 @@
 #,,
 int32,str,str
 0,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000","嘿嘿嘿……
-關於咒術，你有什麼想瞭解的嗎？"
-1,"TEXT_REGWILTHMGUILD_00062_Q1_000_1","想瞭解什麼？"
+關於咒術，你有什麼想了解的嗎？"
+1,"TEXT_REGWILTHMGUILD_00062_Q1_000_1","想了解什麼？"
 2,"TEXT_REGWILTHMGUILD_00062_A1_000_1","你是做什麼的？"
 3,"TEXT_REGWILTHMGUILD_00062_A1_000_2","什麼是「咒術」？"
 4,"TEXT_REGWILTHMGUILD_00062_A1_100_2","關於伊爾薩巴德救援隊"
 5,"TEXT_REGWILTHMGUILD_00062_A1_000_3","取消"
 6,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_010","我是可可布奇……
 人稱獨眼咒術師，可以自由操縱咒術華麗地破壞一切。
-還有，我最愛吃的東西是渡渡鳥蛋煎蛋包……"
+還有，我最愛吃的東西是渡渡鳥蛋煎蛋卷……"
 7,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_011","現在，咒術師公會的會長由我們五兄弟擔任，
 我是五兄弟中的老大。"
 8,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_012","我在此為那些崇拜強大破壞力的朋友，
@@ -32,7 +32,7 @@ int32,str,str
 也是身為公會會長的責任。"
 15,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_031","而且最重要的是，弟弟可可……"
 16,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_032","啊，沒什麼……請不要在意。"
-17,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_040","嘿嘿嘿……聽說是你透過破壞之力
+17,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_040","嘿嘿嘿……聽說是你通過破壞之力
 成功消滅了隱藏在巴別塔的威脅啊。
 不愧是我咒術師公會看中的人才。"
 18,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_041","對了，在出發前往加雷馬之前，
@@ -41,12 +41,12 @@ int32,str,str
 19,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_042","不過喝下之後不知為何，體內的乙太過熱導致失控，
 那個時候感覺嘴裡都快能噴火了……"
 20,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_050","哎呀呀……
-受混沌的黑暗所引導的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊……
+受混沌的黑暗所引導的<Highlight>ObjectParameter(1)</Highlight>啊……
 你找我有什麼事嗎？"
 21,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_060","嘿嘿嘿……
 你學了黑魔法是吧？
 看到你乙太的變化，我就知道了哦……"
-22,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_061","果然， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是被選中的人。
+22,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_061","果然，<Highlight>ObjectParameter(1)</Highlight>是被選中的人。
 黑魔法是古老的破壞力，是十分美妙、蠱惑的魔法。
 希望你不要太過沉迷那個深淵……"
 23,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_070","嘿嘿嘿……你已經碰觸到了現世的陰暗啊。
@@ -68,7 +68,7 @@ int32,str,str
 這絕強的破壞之力
 是不是已經幫你粉碎了阻擋在面前的一次次危機？"
 29,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_074","一步步深入深淵的你已經完全可以用「暗影」這個詞來形容了。"
-30,"TEXT_REGWILTHMGUILD_00062_Q2_000_1","想瞭解什麼？"
+30,"TEXT_REGWILTHMGUILD_00062_Q2_000_1","想了解什麼？"
 31,"TEXT_REGWILTHMGUILD_00062_A2_000_1","最近怎麼樣？"
 32,"TEXT_REGWILTHMGUILD_00062_A2_000_2","什麼是「咒術」？"
 33,"TEXT_REGWILTHMGUILD_00062_A2_100_2","關於伊爾薩巴德救援隊"
@@ -79,15 +79,15 @@ int32,str,str
 36,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_101","嘿嘿嘿……真是的。
 人在戰勝危機後，所得到的成長，著實耐人尋味……
 看來«咒術的深淵»也非我能夠讀懂的……"
-37,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_102","說到成長的話，前幾個日子……
-可可布希做了渡渡鳥蛋煎蛋包給我，
-那鬆軟程度不是以前做的煎蛋包所能比的啊……"
+37,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_102","說到成長的話，前些日子……
+可可布希做了渡渡鳥蛋煎蛋卷給我，
+那鬆軟程度不是以前做的煎蛋卷所能比的啊……"
 38,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_104","近況嗎嘿嘿嘿……
 菈菈伊助祭對黑魔法的熱情實在是非同小可，
 甚至都比上從前的可可布希了。"
 39,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_105","前幾天她為了研究甚至想把一本封印著妖異的禁書拿出來，
 結果連帶著我都被雅雅凱導師訓了一頓。"
-40,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_106","說了多少次要事先得到許可才行，可她總是不放心上……
+40,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_106","說了多少次要事先得到許可才行，可她總是不往心裡去……
 應該還是不習慣公會的規矩吧，我會慢慢教導她的。"
 41,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_107","近況啊，嘿嘿嘿……
 在執行伊爾薩巴德救援隊的任務時，我們兄弟
@@ -98,7 +98,7 @@ int32,str,str
 43,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_109","好了，我們也不能輸給雅雅凱導師。
 現在需要重新審視一下過去、現在還有未來，
 並且考慮一下咒術師公會的出路。"
-44,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_100_109"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你隨時過來。
+44,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_100_109","<Highlight>ObjectParameter(1)</Highlight>，歡迎你隨時過來。
 我對你真的是非常感興趣。
 相信你肯定還隱藏著不為人知的實力。"
 45,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_110","那來複習一下咒術的基礎知識吧……
@@ -115,7 +115,7 @@ int32,str,str
 也是身為公會會長的責任。"
 50,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_121","而且最重要的是，弟弟可可……"
 51,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_122","啊，沒什麼……請不要在意。"
-52,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_130","嘿嘿嘿……聽說是你透過破壞之力
+52,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_130","嘿嘿嘿……聽說是你通過破壞之力
 成功消滅了隱藏在巴別塔的威脅啊。
 不愧是我咒術師公會看中的人才。"
 53,"TEXT_REGWILTHMGUILD_00062_COCOBUKI_000_131","對了，在出發前往加雷馬之前，

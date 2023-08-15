@@ -53,9 +53,9 @@ int32,str,str
 45,"TEXT_BANKJN405_02989_TODO_21",""
 46,"TEXT_BANKJN405_02989_TODO_22",""
 47,"TEXT_BANKJN405_02989_TODO_23",""
-48,"TEXT_BANKJN405_02989_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，快來幫幫我呀——
+48,"TEXT_BANKJN405_02989_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，快來幫幫我呀——
 獄之蓋出現了<Sheet(BNpcName,6879,0)/>！
-要是被那麼熱的火精襲擊的話，我們絕對會被烤成乾的——"
+要是被那麼熱的火精襲擊的話，我們絕對會被烤成幹的——"
 49,"TEXT_BANKJN405_02989_ZUKIN_000_001","但是在獄之蓋那邊能採到品質不錯的貝殼——
 對於我們的經商是必不可缺的，所以怎麼也不想放棄啊——"
 50,"TEXT_BANKJN405_02989_ZUKIN_000_002","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，還是麻煩你跑一趟吧——

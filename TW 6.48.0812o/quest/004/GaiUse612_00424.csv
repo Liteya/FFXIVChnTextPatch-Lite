@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_GAIUSE612_00424_SEQ_00","恬靜路營地的神經質的乙太學者希望繼續調查乙太濃度。"
 1,"TEXT_GAIUSE612_00424_SEQ_01","繼續保護神經質的乙太學者。調查地點選定為兀爾德泉。和南部林區兀爾德泉的神經質的乙太學者對話。"
 2,"TEXT_GAIUSE612_00424_SEQ_02","神經質的乙太學者開始測量乙太了。在兀爾德泉的<Sheet(EObj,2005068,0)/>監視，保護乙太學者。"
-3,"TEXT_GAIUSE612_00424_SEQ_03","正當神經質的乙太學者進行調查時，發現了失蹤的水晶義勇隊隊員威爾雷德的屍體。赫利．博爾達和庫爾特內在完成自己的任務後趕來，接手處理此事。回到喪靈鐘的石之家，向敏菲利亞報告。"
+3,"TEXT_GAIUSE612_00424_SEQ_03","正當神經質的乙太學者進行調查時，發現了失蹤的水晶義勇隊隊員威爾雷德的屍體。赫利·博爾達和庫爾特內在完成自己的任務後趕來，接手處理此事。回到喪靈鐘的石之家，向敏菲利亞報告。"
 4,"TEXT_GAIUSE612_00424_SEQ_04","向敏菲利亞報告完畢。此事將聯繫阿爾菲諾，交由水晶義勇隊處理。到底是誰殺害了威爾雷德……"
 5,"TEXT_GAIUSE612_00424_SEQ_05",""
 6,"TEXT_GAIUSE612_00424_SEQ_06",""
@@ -65,7 +65,7 @@ int32,str,str
 54,"TEXT_GAIUSE612_00424_SCIENTIST00423_000_014","……嗯？！"
 55,"TEXT_GAIUSE612_00424_SCIENTIST00423_000_015","這！這是什麼？！"
 56,"TEXT_GAIUSE612_00424_HOARYBOULDER_000_016","怎麼了？！"
-57,"TEXT_GAIUSE612_00424_COULTENET_000_017"," <Highlight>ObjectParameter(1)</Highlight> ，你怎麼來這裡了，害得我們好找。
+57,"TEXT_GAIUSE612_00424_COULTENET_000_017","<Highlight>ObjectParameter(1)</Highlight>，你怎麼來這裡了，害得我們好找。
 我們提前完成了任務，本想來接手你的任務的……"
 58,"TEXT_GAIUSE612_00424_HOARYBOULDER_000_018","……沒救了，
 他這傷並非被魔物、野獸襲擊所致，
@@ -77,7 +77,7 @@ int32,str,str
 61,"TEXT_GAIUSE612_00424_COULTENET_000_021","他就交給我吧。
 我會護送他平安回去的。"
 62,"TEXT_GAIUSE612_00424_HOARYBOULDER_000_022","那遺體的搬運工作就交給我吧……
- <Highlight>ObjectParameter(1)</Highlight> ，請你回到石之家報告情況。"
+<Highlight>ObjectParameter(1)</Highlight>，請你回到石之家報告情況。"
 63,"TEXT_GAIUSE612_00424_HOARYBOULDER_000_023","……我有一種不祥的預感。"
 64,"TEXT_GAIUSE612_00424_SCIENTIST00423_000_030","嚇、嚇死我了……
 啊哈哈，啊哈哈哈啊哈……"
@@ -87,12 +87,12 @@ int32,str,str
 66,"TEXT_GAIUSE612_00424_COULTENET_000_032","不忍直視……
 總之，這件事就交給我們處理吧，
 請你回去報告一下。"
-67,"TEXT_GAIUSE612_00424_MINFILIA_000_040","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+67,"TEXT_GAIUSE612_00424_MINFILIA_000_040","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>，
 辛苦你了。
 任務完成得如何啊？"
 68,"TEXT_GAIUSE612_00424_MINFILIA_000_041","……什、什麼？！
 水晶義勇隊的威爾雷德他？！"
-69,"TEXT_GAIUSE612_00424_MINFILIA_000_042","情況我都瞭解了。
+69,"TEXT_GAIUSE612_00424_MINFILIA_000_042","情況我都了解了。
 我馬上和阿爾菲諾取得聯繫，
 下一步調查就交給水晶義勇隊了。"
 70,"TEXT_GAIUSE612_00424_MINFILIA_000_043","為什麼會發生這種事……"

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ321_02717_SEQ_21",""
 22,"TEXT_STMBDZ321_02717_SEQ_22",""
 23,"TEXT_STMBDZ321_02717_SEQ_23",""
-24,"TEXT_STMBDZ321_02717_TODO_00","調查<Sheet(EObj,2008145,0)/> 獲得<Sheet(EventItem,2002105,0)/>"
+24,"TEXT_STMBDZ321_02717_TODO_00","調查<Sheet(EObj,2008145,0)/> 獲取<Sheet(EventItem,2002105,0)/>"
 25,"TEXT_STMBDZ321_02717_TODO_01","將<Sheet(EventItem,2002105,0)/>交給殘雪"
 26,"TEXT_STMBDZ321_02717_TODO_02",""
 27,"TEXT_STMBDZ321_02717_TODO_03",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ321_02717_TODO_21",""
 46,"TEXT_STMBDZ321_02717_TODO_22",""
 47,"TEXT_STMBDZ321_02717_TODO_23",""
-48,"TEXT_STMBDZ321_02717_ZANSETSU_000_000","唔，果然……一定要拿到那個啊。"
+48,"TEXT_STMBDZ321_02717_ZANSETSU_000_000","唔，果然……必須要拿到那個啊。"
 49,"TEXT_STMBDZ321_02717_ZANSETSU_000_001","呀，<If(PlayerParameter(4))>小姐<Else/>小哥</If>，你是旅行者嗎？
 啊，那真是從很遠的地方來的呢。
 那……那你能聽聽我的請求嗎？"
@@ -58,7 +58,7 @@ int32,str,str
 不過基本上都是些破爛……但那不重要。"
 51,"TEXT_STMBDZ321_02717_ZANSETSU_000_003","總之，我需要<Sheet(EventItem,2002105,0)/>。
 但它們的巢穴在這附近很高的地方，
-不會飛的話根本沒辦法找……"
+不會飛的話根本沒法找……"
 52,"TEXT_STMBDZ321_02717_ZANSETSU_000_004","就算是能去找了，要是運氣不好碰到有鳥蛋的巢穴，
 也會被想要保護孩子的大鳥攻擊……"
 53,"TEXT_STMBDZ321_02717_ZANSETSU_000_005","<If(PlayerParameter(4))>小姐<Else/>小哥</If>你能爬上高處嗎？

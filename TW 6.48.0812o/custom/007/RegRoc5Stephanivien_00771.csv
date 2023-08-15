@@ -8,7 +8,7 @@ int32,str,str
 4,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_000","只要裝備上機工兵器，就算是平民也能成為強大的戰力。
 所以不管是貴族還是平民，只要對機工技術感興趣，
 我們工房都會敞開大門歡迎。"
-5,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊！
+5,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了啊！
 其實澤梅爾家也曾有幾個人為了成為機工士
 而在這個工房中學習。"
 6,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_011","因為提達爾格蘭什曾是一位優秀的軍事家。
@@ -17,16 +17,16 @@ int32,str,str
 7,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_020","警備團雖然受到很多人的敵視，但同樣也有著諸多的盟友。
 你肯定想不到，那個澤梅爾家竟然是他們的盟友之一。
 聽說是提達爾格蘭什在中間做了很多工作。"
-8,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_021","伊修加爾德一定會不斷向著好的方向改變，
+8,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_021","伊修加德一定會不斷向著好的方向改變，
 希爾達他們正是站在這變革的風口浪尖之上。
-所以， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這次就拜託你幫助他們了。"
+所以，<Highlight>ObjectParameter(1)</Highlight>，這次就拜託你幫助他們了。"
 9,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_030","我現在還清晰地記得第一次見到希爾達時的情景。雖然為了她的
 名譽著想，具體我不方便多言，但那時的她真的是相當偏執。
 不過跟你一樣，她也是讓我的測量器產生劇烈反應的孩子。"
-10,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_031","現在看到希爾達站在伊修加爾德變革的最前線，實在是讓我
+10,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_031","現在看到希爾達站在伊修加德變革的最前沿，實在是讓我
 感慨萬千……想當年她滿心戒備，我苦口婆心費了好大力氣
 才將火槍交到了她的手裡。現在想來，當時的努力真是沒有白費。"
-11,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_040","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+11,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_040","呀，<Highlight>ObjectParameter(1)</Highlight>。
 你最近還那麼忙嗎？
 我倒是最近閒了不少。"
 12,"TEXT_REGROC5STEPHANIVIEN_00771_STEPHANIVIEN_000_041","現在機工士培訓完全不歸我管了，

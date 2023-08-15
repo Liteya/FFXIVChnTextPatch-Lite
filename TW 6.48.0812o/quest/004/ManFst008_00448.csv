@@ -49,9 +49,9 @@ int32,str,str
 45,"TEXT_MANFST008_00448_TODO_21",""
 46,"TEXT_MANFST008_00448_TODO_22",""
 47,"TEXT_MANFST008_00448_TODO_23",""
-48,"TEXT_MANFST008_00448_LEWIN_000_1"," <Highlight>ObjectParameter(1)</Highlight> ,
+48,"TEXT_MANFST008_00448_LEWIN_000_1","<Highlight>ObjectParameter(1)</Highlight>,
 你的表現不僅得到了大家的認可……"
-49,"TEXT_MANFST008_00448_LEWIN_000_2","就連嘉恩．艾大人也對你稱讚有加！"
+49,"TEXT_MANFST008_00448_LEWIN_000_2","就連嘉恩·艾大人也對你稱讚有加！"
 50,"TEXT_MANFST008_00448_LEWIN_000_3","而且，還成為了「大御靈祭典」的主角！
 身為外來者的你或許不明白這其中的含義，
 這可是莫大的光榮啊。"
@@ -60,13 +60,13 @@ int32,str,str
 你去和她談談，向她請教一下吧。"
 53,"TEXT_MANFST008_00448_LEWIN_000_6","沒有你這個主角在場，祭典也就無法開始，
 行了，你快去找她吧。"
-54,"TEXT_MANFST008_00448_MIOUNNE_000_10","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
-聽說嘉恩．艾大人邀請你參加「大御靈祭典」了。"
+54,"TEXT_MANFST008_00448_MIOUNNE_000_10","呀，<Highlight>ObjectParameter(1)</Highlight>。
+聽說嘉恩·艾大人邀請你參加「大御靈祭典」了。"
 55,"TEXT_MANFST008_00448_MIOUNNE_000_11","哎呀呀，我真的被你驚到了呢。"
 56,"TEXT_MANFST008_00448_MIOUNNE_000_12","「大御靈祭典」是為了加強人與元靈的交流，
 加深相互間羈絆的重要儀式。"
 57,"TEXT_MANFST008_00448_MIOUNNE_000_13","能讓你擔任這儀式的主角，
-也就說明嘉恩．艾大人希望你能成為元靈與人之間的「橋樑」。"
+也就說明嘉恩·艾大人希望你能成為元靈與人之間的「橋樑」。"
 58,"TEXT_MANFST008_00448_MIOUNNE_000_14","你並不是格里達尼亞的居民，
 卻被委以如此重任，這可是極少見的。"
 59,"TEXT_MANFST008_00448_MIOUNNE_000_15","好了，你快去準備吧。
@@ -77,7 +77,7 @@ int32,str,str
 我再告訴你之後的流程。"
 61,"TEXT_MANFST008_00448_BEATINE_000_20","啊……你就是繆恩說的那個……
 祭典的主角嗎？"
-62,"TEXT_MANFST008_00448_BEATINE_000_21","嘻嘻嘻。事情我已經瞭解……
+62,"TEXT_MANFST008_00448_BEATINE_000_21","嘻嘻嘻。事情我已經了解……
 現已準備好祭典所需的物品了。"
 63,"TEXT_MANFST008_00448_BEATINE_000_22","這是我精心製作的特訂物品，
 請你小心點，別弄壞了……

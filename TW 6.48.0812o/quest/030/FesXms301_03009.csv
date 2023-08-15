@@ -3,21 +3,21 @@
 int32,str,str
 0,"TEXT_FESXMS301_03009_SEQ_00","※本任務是特定期間內的任務。
 
-米．凱特露天劇場的阿姆．加蘭基希望冒險者協助舉辦星芒祭。"
+米·凱特露天劇場的阿姆·加蘭基希望冒險者協助舉辦星芒節。"
 1,"TEXT_FESXMS301_03009_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-阿姆．加蘭基委託冒險者協助舉辦星芒祭。向中央林區彎枝牧場的貝恩費爾德詢問詳情。"
-2,"TEXT_FESXMS301_03009_SEQ_02","與貝恩費爾德進行了交談。因為星芒祭的裝飾物被偷了，為了哄失落的小孩子們開心，他希望冒險者騎著熊去表演節目。為了方便騎乘，選擇一頭適合體型的熊進行交談。"
+阿姆·加蘭基委託冒險者協助舉辦星芒節。向中央林區彎枝牧場的貝恩費爾德詢問詳情。"
+2,"TEXT_FESXMS301_03009_SEQ_02","與貝恩費爾德進行了交談。因為星芒節的裝飾物被偷了，為了哄失落的小孩子們開心，他希望冒險者騎著熊去表演節目。為了方便騎乘，選擇一頭合適體型的熊進行交談。"
 3,"TEXT_FESXMS301_03009_SEQ_03","騎上了<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>。為了給孩子們表演節目，騎著<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>，對彎枝牧場的<Sheet(EObj,2008623,0)/>使用禮花筒。
 
-※和彎枝牧場的喜歡熊的星芒祭執行委員對話即可騎乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>。"
+※和彎枝牧場的喜歡熊的星芒節執行委員對話即可騎乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>。"
 4,"TEXT_FESXMS301_03009_SEQ_04","給孩子們表演了節目。為了給塔夫表演節目，騎著<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>，對彎枝牧場的第2個<Sheet(EObj,2008624,0)/>使用禮花筒。
 
-※和彎枝牧場的喜歡熊的星芒祭執行委員對話即可騎乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>。"
+※和彎枝牧場的喜歡熊的星芒節執行委員對話即可騎乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>。"
 5,"TEXT_FESXMS301_03009_SEQ_05","給塔夫表演了節目。他好像有話要對冒險者說。和彎枝牧場的塔夫談談。"
-6,"TEXT_FESXMS301_03009_SEQ_06","原來塔夫居然目擊到了偷走星芒祭裝飾物的犯人。從他那裡瞭解詳細情況，抓住犯人並取回被偷走的裝飾物。"
+6,"TEXT_FESXMS301_03009_SEQ_06","原來塔夫居然目擊到了偷走星芒節裝飾物的犯人。從他那裡了解詳細情況，抓住犯人並取回被偷走的裝飾物。"
 7,"TEXT_FESXMS301_03009_SEQ_07",""
 8,"TEXT_FESXMS301_03009_SEQ_08",""
 9,"TEXT_FESXMS301_03009_SEQ_09",""
@@ -36,7 +36,7 @@ int32,str,str
 22,"TEXT_FESXMS301_03009_SEQ_22",""
 23,"TEXT_FESXMS301_03009_SEQ_23",""
 24,"TEXT_FESXMS301_03009_TODO_00","和彎枝牧場的貝恩費爾德對話"
-25,"TEXT_FESXMS301_03009_TODO_01","和體型適合的熊對話"
+25,"TEXT_FESXMS301_03009_TODO_01","和體型合適的熊對話"
 26,"TEXT_FESXMS301_03009_TODO_02","騎著<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>對<Sheet(EObj,2008623,0)/>使用禮花筒"
 27,"TEXT_FESXMS301_03009_TODO_03","騎著<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北極星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北極星</If></Case><Case(7)>北極星</Case><Case(8)>帝星</Case></Switch>對第2個<Sheet(EObj,2008624,0)/>使用禮花筒"
 28,"TEXT_FESXMS301_03009_TODO_04","和塔夫對話"
@@ -60,22 +60,22 @@ int32,str,str
 46,"TEXT_FESXMS301_03009_TODO_22",""
 47,"TEXT_FESXMS301_03009_TODO_23",""
 48,"TEXT_FESXMS301_03009_AMHGARANJY_000_000","哎呀，你莫非是冒險者？！
-我是星芒祭執行委員長阿姆．加蘭基。
+我是星芒節執行委員長阿姆·加蘭基。
 其實，我有點事想拜託你……"
 49,"TEXT_FESXMS301_03009_AMHGARANJY_000_010","啊，冒險者！又遇見你了！
-我是你以前幫助過的星芒祭執行委員長阿姆。
+我是你以前幫助過的星芒節執行委員長阿姆。
 其實，我有點事想拜託你……"
-50,"TEXT_FESXMS301_03009_AMHGARANJY_000_020","我想你知道星芒祭是為了小孩子們舉辦的節日。
+50,"TEXT_FESXMS301_03009_AMHGARANJY_000_020","我想你知道星芒節是為了小孩子們舉辦的節日。
 我們執行委員為了讓孩子們過得開心，
 策劃了很多活動……"
 51,"TEXT_FESXMS301_03009_AMHGARANJY_000_021","可是最近偷盜事件頻發，為了應對此事，
 導致各個地方都是人手不足。
-為了能夠成功舉辦星芒祭，你能不能幫助我們？"
+為了能夠成功舉辦星芒節，你能不能幫助我們？"
 52,"TEXT_FESXMS301_03009_AMHGARANJY_000_022","非常感謝！
-你可以從彎枝牧場的貝恩費爾德那裡瞭解詳細情況……
+你可以從彎枝牧場的貝恩費爾德那裡了解詳細情況……
 那就拜託你了。"
-53,"TEXT_FESXMS301_03009_AMHGARANJY_000_023","因為偷盜事件頻發，導致這次人手不足……
-你可以從彎枝牧場的貝恩費爾德那裡瞭解詳細情況。"
+53,"TEXT_FESXMS301_03009_AMHGARANJY_000_023","因為偷盜事件頻發，導致這回人手不足……
+你可以從彎枝牧場的貝恩費爾德那裡了解詳細情況。"
 54,"TEXT_FESXMS301_03009_POLARIS_000_024","呼呼……"
 55,"TEXT_FESXMS301_03009_KOCHAB_000_025","嗷嗚！"
 56,"TEXT_FESXMS301_03009_PFERKAD_000_026","嗚嚕嚕？"
@@ -86,10 +86,10 @@ int32,str,str
 找我有什麼事嗎？"
 59,"TEXT_FESXMS301_03009_BAENFAELD_000_050","哦，好久不見啊！
 星芒鐘的那個時候真是幫大忙了。
-這次找我有什麼事嗎？"
-60,"TEXT_FESXMS301_03009_BAENFAELD_000_060","阿姆．加蘭基派人過來啦！
+這回找我有什麼事嗎？"
+60,"TEXT_FESXMS301_03009_BAENFAELD_000_060","阿姆·加蘭基派人過來啦！
 你能過來真是得救了。"
-61,"TEXT_FESXMS301_03009_BAENFAELD_000_061","最近連續發生了幾起星芒祭的裝飾物被偷盜的事件。
+61,"TEXT_FESXMS301_03009_BAENFAELD_000_061","最近連續發生了幾起星芒節的裝飾物被偷盜的事件。
 來幫忙裝飾的孩子們知道了這件事都很失落。"
 62,"TEXT_FESXMS301_03009_BAENFAELD_000_062","我們也想讓孩子們不要為此難過，
 但由於需要進行警備和事件的搜查，根本沒有多餘人手。
@@ -104,7 +104,7 @@ int32,str,str
 但是我們的表演真的能讓孩子們露出笑臉嗎……」
 它們是這樣說的哦，看表情就能知道了吧？"
 67,"TEXT_FESXMS301_03009_BAENFAELD_000_067","哎呀，話說回來我還沒給你介紹呢。
-這三隻可以騎乘的熊是為了星芒祭
+這三隻可以騎乘的熊是為了星芒節
 接受過投擲禮花筒的特殊表演訓練的棕熊三兄弟。"
 68,"TEXT_FESXMS301_03009_BAENFAELD_000_068","你從中選一頭騎上去，
 然後指揮它，給孩子們表演吧。"
@@ -124,7 +124,7 @@ int32,str,str
 78,"TEXT_FESXMS301_03009_BAENFAELD_000_140","「請多指教，冒險者。
 為了孩子們，我會竭盡全力的！」……它是這麼說的。
 你看它的表情多有幹勁啊，對吧？"
-79,"TEXT_FESXMS301_03009_BAENFAELD_000_141","嘿嘿，看來你們還蠻合得來，這我就放心了。
+79,"TEXT_FESXMS301_03009_BAENFAELD_000_141","嘿嘿，看來你們還挺合得來，這我就放心了。
 看來這裡沒我什麼事了。
 那我就繼續調查偷盜事件去了。"
 80,"TEXT_FESXMS301_03009_BAENFAELD_000_142","對了，你們也得來給我幫忙。
@@ -158,11 +158,11 @@ int32,str,str
 你能相信我說的不是謊話嗎？"
 95,"TEXT_FESXMS301_03009_TAFF_000_210","你願意相信我所說的話是嗎？
 嘿嘿……謝謝你，<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>！"
-96,"TEXT_FESXMS301_03009_TAFF_000_211","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>知道星芒祭的裝飾物被人偷走了的事情嗎？
+96,"TEXT_FESXMS301_03009_TAFF_000_211","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>知道星芒節的裝飾物被人偷走了的事情嗎？
 其實啊，我看見小偷了！"
 97,"TEXT_FESXMS301_03009_TAFF_000_212","但是我把這件事告訴了大人們，
 可他們都說這不可能，不要撒謊。
 所以我感到很失望……"
 98,"TEXT_FESXMS301_03009_TAFF_000_213","不過<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>你看起來和其他的大人不一樣。
 所以我會把我看見的都告訴你，拜託你去抓住小偷，
-把大家努力準備的星芒祭裝飾物拿回來！"
+把大家努力準備的星芒節裝飾物拿回來！"

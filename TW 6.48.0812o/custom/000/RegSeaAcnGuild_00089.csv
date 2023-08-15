@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_1","哎呀，歡迎你的到來。
 秘術在梅爾凡海關的業務環節裡可是不可或缺的一部分，
 如果你有什麼不懂的可以儘管來問我。"
-1,"TEXT_REGSEAACNGUILD_00089_Q1_000_1","想瞭解什麼？"
+1,"TEXT_REGSEAACNGUILD_00089_Q1_000_1","想了解什麼？"
 2,"TEXT_REGSEAACNGUILD_00089_A1_000_1","你是做什麼的？"
 3,"TEXT_REGSEAACNGUILD_00089_A1_000_2","什麼是「秘術」？"
 4,"TEXT_REGSEAACNGUILD_00089_A1_000_3","取消"
@@ -40,22 +40,22 @@ int32,str,str
 17,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_060","難題終於解決了啊。
 是你找到了拯救這個星球的最佳方法啊。
 真是太厲害了。"
-18,"TEXT_REGSEAACNGUILD_00089_Q2_000_1","想瞭解什麼？"
+18,"TEXT_REGSEAACNGUILD_00089_Q2_000_1","想了解什麼？"
 19,"TEXT_REGSEAACNGUILD_00089_A2_000_1","最近怎麼樣？"
 20,"TEXT_REGSEAACNGUILD_00089_A2_000_2","什麼是「秘術」？"
 21,"TEXT_REGSEAACNGUILD_00089_A2_000_3","取消"
-22,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_100","克．莉霞去旅行之後……
+22,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_100","克·莉霞去旅行之後……
 我就忙得不可開交，不僅公會的工作量增大，
 對梅爾凡海關的實際業務協助也增多了。"
 23,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_101","公會會長還是和原來一樣。
 雖然他會發來一些秘術的研究報告，
 但卻完全不清楚他的近況。"
-24,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_102","不知克．莉霞現在過得怎麼樣……
+24,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_102","不知克·莉霞現在過得怎麼樣……
 沒有消息，或許就是最好的消息吧。"
-25,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_105","說起來前幾天克．莉霞寄來了信。
+25,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_105","說起來前幾天克·莉霞寄來了信。
 說她已經順利再次見到了行長，
 目前正在新天地努力修行。"
-26,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_106","她也很掛念 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+26,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_106","她也很掛念<Highlight>ObjectParameter(1)</Highlight>。
 說自己為了創造出期望的現實要努力訓練……
 問你有沒有創造出你期望的現實……"
 27,"TEXT_REGSEAACNGUILD_00089_THUBYRGEIM_000_107","如果傳授給你的秘術在你那漫長的旅途當中

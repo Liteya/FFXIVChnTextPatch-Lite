@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_000","這裡是最近才清理乾淨的。
 如你所見現在還是一片荒蕪的土地，
 我想著能不能試著種植水稻……"
-1,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_010","麻煩讓你專門跑這裡一趟，真是對不起。
+1,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_010","麻煩讓你專門跑這裡一趟，真是對不住。
 我只是想讓你看一看這片土地。"
 2,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_011","話說……
 你對這片土地有什麼看法？"
@@ -24,7 +24,7 @@ int32,str,str
 10,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_015","就連鋪路的石磚什麼的也都被撬走了，
 所以這裡就成了一片空地。"
 11,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_016","不過話說回來，
-這一帶很久以前本來就是閒靜的農村。"
+這一帶很久以前本來就是閑靜的農村。"
 12,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_017","而且土地的排水能力也很不錯，只要認真開墾，
 再稍微更換一下土壤，應該就能用來種水稻了。"
 13,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_018","不過耕地不是說開墾就能開墾的。
@@ -36,16 +36,16 @@ int32,str,str
 15,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_020","……啊！抱歉。
 一談到水稻種植的事情上，我就停不下來了。"
 16,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_021","總之，我當農夫多年的直覺在提醒著我，
-只要耐心努把力，絕對能在這片土地上種出好吃的稻米！
+只要耐心努把力，絕對能在這片土地上種出好吃的大米！
 所以還請你多多支援！"
 17,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SYSTEM_000_022","多瑪飛地的重建計劃再次開始了！
 將不再需要的道具出讓，
 為多瑪飛地的重建工作作出貢獻。"
-18,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_025","想要種出好吃的稻米最重要的是
+18,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_025","想要種出好吃的大米最重要的是
 準備出適合水稻生長的柔軟土壤。
 所以耕地必須仔細認真才行。"
-19,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_030","是 <Highlight>ObjectParameter(1)</Highlight> 你啊。
-託你的福，農具也齊全了，
+19,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_030","是<Highlight>ObjectParameter(1)</Highlight>你啊。
+托你的福，農具也齊全了，
 這才總算把地整完。"
 20,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_031","但這還不算開墾完成。
 如果小櫻能弄來我委託的東西的話……"
@@ -71,7 +71,7 @@ int32,str,str
 29,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_BROWN00527_000_040","原來製作飯糰的原材料是在這個池塘種植的。
 草原雖然與農業無緣，但農耕真是偉大。"
 30,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_RED00527_000_041","我說，大哥……
-要是在這幫助他們種植稻米什麼的，
+要是在這幫助他們種植大米什麼的，
 會不會在豐收的時候……分給咱們一點呢？"
 31,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_BROWN00527_000_042","你、你說什麼呢！
 莫非你想一直待在這裡不成！
@@ -85,19 +85,19 @@ int32,str,str
 35,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_BROWN00527_000_045","不過……可是……
 你們倆說的可能是有道理……"
 36,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_BROWN00527_000_046","田地的負責人啊，你能不能讓我們也來幫忙幹活呢。
-作為報酬我們只希望分到一些稻米就行了……"
+作為報酬我們只希望分到一些大米就行了……"
 37,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_047","那當然沒問題，來多少人都不嫌多。
-稻米的話，得等到收穫之後才能給你們，
+大米的話，得等到收穫之後才能給你們，
 這樣可以嗎?"
 38,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_BROWN00527_000_048","嗯，沒關係。
 反正要想得到飛燕，
 不論怎麼說都會變成長期戰。"
 39,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_BROWN00527_000_049","話說，仔細一瞧你的體格也相當強壯啊。
-等收穫完稻米之後，
+等收穫完大米之後，
 跟我們一起搬到太陽神草原居住……怎麼樣？"
 40,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_050","你、你說的我不太明白……
 我還有妻子呢，再說我除了水稻種植以外對別的也沒興趣。
-要我搬到沒辦法種水稻的地方住，那我可受不了。"
+要我搬到沒法種水稻的地方住，那我可受不了。"
 41,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SYSTEM_000_051","農耕地發展得很順利。
 幫忙種植水稻的人手也變多了，
 即將開始準備插秧。"
@@ -108,12 +108,12 @@ int32,str,str
 草原出身的人都很壯實，肯定很能幹活吧。"
 44,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_056","小哥們雖然有時候會溜出去，不知道去了哪裡……
 算了，我也不會多問的。"
-45,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_060"," <Highlight>ObjectParameter(1)</Highlight> ，受你照顧了。
+45,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_060","<Highlight>ObjectParameter(1)</Highlight>，受你照顧了。
 多虧了你，還建成了水車小屋。
 之後只需看著水稻成長就行了。"
 46,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_061","當然比如除雜草呀，施肥什麼的……
-一定要幹的事情還是得幹。
-肯下的工夫越多，種出稻米就會變得越美味。"
+必須要幹的事情還是得幹。
+肯下的工夫越多，種出大米就會變得越美味。"
 47,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_062","今天還有幾個孩子過來幫忙了呢。
 剛才還在這邊來著……"
 48,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_063","岩瀨叔叔！
@@ -125,7 +125,7 @@ int32,str,str
 50,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_MITSUBA_000_065","我給你們拿來了特製的肉醬飯糰哦！
 勞動的人一定要吃好點補充體力才行。
 來，多吃點吧！"
-51,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_MITSUBA_000_066","看來 <Highlight>ObjectParameter(1)</Highlight> 你還是一如既往來幫忙了呢。
+51,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_MITSUBA_000_066","看來<Highlight>ObjectParameter(1)</Highlight>你還是一如既往來幫忙了呢。
 正好，來一起吃吧！"
 52,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_067","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，好久不見！
 你為什麼會在這裡呢？！"
@@ -144,7 +144,7 @@ int32,str,str
 大家都在呢？"
 59,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOZAKURA_000_074","是小櫻啊，有什麼事嗎？
 還有你身旁這位是？"
-60,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOZAKURA_000_075","打擾了，我有事想跟 <Highlight>ObjectParameter(1)</Highlight> 和孩子們說，
+60,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOZAKURA_000_075","打擾了，我有事想跟<Highlight>ObjectParameter(1)</Highlight>和孩子們說，
 所以就特意來找你們了。"
 61,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOZAKURA_000_076","我想說的是需要重建的下一個設施已經定下來了。
 是一座名為栗齋學堂的學舍……"
@@ -153,7 +153,7 @@ int32,str,str
 63,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_078","啊！是水無月老師！
 難道是水無月老師來教我們讀書嗎？"
 64,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_KOHARU_000_079","老師你還好嗎？
-那個，我們之前到艾奧傑亞那邊避難去了，
+那個，我們之前到艾歐澤亞那邊避難去了，
 是在不久之前剛回來的。"
 65,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_080","哎呀……莫非大家都互相認識嗎？"
 66,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SHIUN_000_081","嗯，水無月老師呢，
@@ -193,15 +193,15 @@ int32,str,str
 80,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_100","多虧了你們，水稻在順利地生長。
 請期待收穫的時期吧。"
 81,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_105","快看這金黃色的稻穗！
-有了無二江高品質的水源還有你們的支援，
+有了無二江優質的水源還有你們的支援，
 總算種出了值得自豪的好米。"
 82,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_106","收割以後還需要脫殼、碾米、拋光……
 要幹的事情還有很多，
-不過一想到能吃上自己家種出的稻米，這些都算不上什麼。"
+不過一想到能吃上自己家種出的大米，這些都算不上什麼。"
 83,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_107","所以我才說不願意放棄水稻種植。
 你要是有興趣的話……來試試嗎？"
-84,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_110","這裡種出的稻米，茨菰村的那幫人也很喜歡。
-果然還是因為土地不同，所以種出的稻米的味道也不一樣。
+84,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_110","這裡種出的大米，茨菰村的那幫人也很喜歡。
+果然還是因為土地不同，所以種出的大米的味道也不一樣。
 現在可以算得上是不錯的競爭對手吧。"
 85,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_111","百貨市場的三葉在比對試吃後，
 非常開心地說「哪一種都好吃！」。"

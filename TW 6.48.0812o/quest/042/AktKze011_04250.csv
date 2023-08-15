@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_AKTKZE011_04250_SEQ_21",""
 22,"TEXT_AKTKZE011_04250_SEQ_22",""
 23,"TEXT_AKTKZE011_04250_SEQ_23",""
-24,"TEXT_AKTKZE011_04250_TODO_00","討伐<Sheet(BNpcName,10458,0)/>獲得<Sheet(EventItem,2003371,0)/>"
+24,"TEXT_AKTKZE011_04250_TODO_00","討伐<Sheet(BNpcName,10458,0)/>獲取<Sheet(EventItem,2003371,0)/>"
 25,"TEXT_AKTKZE011_04250_TODO_01","將<Sheet(EventItem,2003371,0)/>交給引領威"
 26,"TEXT_AKTKZE011_04250_TODO_02",""
 27,"TEXT_AKTKZE011_04250_TODO_03",""
@@ -50,19 +50,19 @@ int32,str,str
 45,"TEXT_AKTKZE011_04250_TODO_21",""
 46,"TEXT_AKTKZE011_04250_TODO_22",""
 47,"TEXT_AKTKZE011_04250_TODO_23",""
-48,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 我有個問題想要問你，你有時間嗎？
 幫手給的資料上有個地方我不太明白……"
 49,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_001","資料說現代的人類因為用不了創造魔法，
-所以會從各種生物上採集所需的素材，
+所以會從各種生物上採取所需的素材，
 生產製造東西，這是真的嗎？"
 50,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_002","原來是真的啊！
 那我也想要挑戰一下這樣製造東西……
 做衣服的話，果然還是應該試一下那個……"
 51,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_003","其實我一直在想，從嘆息海特有的物種上採集素材的話，
 用什麼材料做成什麼人類會更喜歡。
-其中我覺得比較適合的，想抓來研究看看的生物就是<Sheet(BNpcName,10458,0)/>。"
-52,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_004","可是，我並沒有狩獵怪物的經驗，很難獲得想要的素材。
+其中我覺得比較合適的，想抓來研究看看的生物就是<Sheet(BNpcName,10458,0)/>。"
+52,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_004","可是，我並沒有狩獵怪物的經驗，很難獲取想要的素材。
 所以我想麻煩你替我打敗一隻<Sheet(BNpcName,10458,0)/>，
 並且把它的屍體帶回來給我，你看可以嗎？"
 53,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_005","你太好了，謝謝你！
@@ -92,7 +92,7 @@ int32,str,str
 大家肯定都會喜歡這種衣服的！"
 71,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_015","啊，你說的有道理……
 我得想個辦法給材料染色，
-不然的話做了衣服沒辦法穿了。"
+不然的話做了衣服沒法穿了。"
 72,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_016","有什麼不對嗎？
 不管是拉伸還是摩擦，怎麼動都不會受損的材料，
 做出來的衣服肯定會很好穿吧？"

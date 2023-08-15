@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANANA305_03046_SEQ_22",""
 23,"TEXT_BANANA305_03046_SEQ_23",""
 24,"TEXT_BANANA305_03046_TODO_00","在提蒙河附近的<Sheet(EObj,2009327,0)/>張望
-從<Sheet(BNpcName,7021,0)/>身上獲得<Sheet(EventItem,2002434,0)/>"
+從<Sheet(BNpcName,7021,0)/>身上獲取<Sheet(EventItem,2002434,0)/>"
 25,"TEXT_BANANA305_03046_TODO_01","將<Sheet(EventItem,2002434,0)/>交給耶夏娜"
 26,"TEXT_BANANA305_03046_TODO_02",""
 27,"TEXT_BANANA305_03046_TODO_03",""
@@ -61,7 +61,7 @@ int32,str,str
 在地面爬行的我們的鱗片很容易被燙傷，導致各種不便。"
 50,"TEXT_BANANA305_03046_ESHANA_000_002","這樣下去會影響執行任務，所以我想請你幫個忙。
 請你在提蒙河的附近張望，從<Sheet(BNpcName,7021,0)/>身上
-獲得2個<Sheet(EventItem,2002434,0)/>回來。"
+獲取2個<Sheet(EventItem,2002434,0)/>回來。"
 51,"TEXT_BANANA305_03046_ESHANA_000_010","嘶——同志，等你好久了！
 拿到<Sheet(EventItem,2002434,0)/>了嗎？"
 52,"TEXT_BANANA305_03046_ESHANA_000_011","嘶——謝天謝地，總算鬆了一口氣。
@@ -71,5 +71,5 @@ int32,str,str
 就能緩解高溫帶來的疼痛，
 這樣的話長距離的步哨巡邏也能堅持下來了。"
 54,"TEXT_BANANA305_03046_ESHANA_000_013","<Sheet(BNpcName,7021,0)/>是最適合用來加工的。
-但是做成手巾以後就不夠結實了，沒辦法長久使用。
+但是做成手巾以後就不夠結實了，沒法長久使用。
 要是不夠用了的話，我會再次委託你幫忙，拜託了。"

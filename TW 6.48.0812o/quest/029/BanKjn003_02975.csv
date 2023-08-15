@@ -6,12 +6,12 @@ int32,str,str
 1,"TEXT_BANKJN003_02975_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-武盔委託冒險者陪同前往太陽神草原尋寶。和太陽神草原重逢市集的武盔交談。"
-2,"TEXT_BANKJN003_02975_SEQ_02","和武盔進行了交談。在重逢市集調查關於寶物的情報。"
-3,"TEXT_BANKJN003_02975_SEQ_03","找到了關於寶物的情報。一位名叫兀赤金的凱蘇提爾部人，持有能射中太陽的寶弓。和重逢市集的武盔進行交談。"
-4,"TEXT_BANKJN003_02975_SEQ_04","和武盔進行了交談。在重逢市集附近尋找名為兀赤金的凱蘇提爾部人。"
+武盔委託冒險者陪同前往太陽神草原尋寶。和太陽神草原重逢集市的武盔交談。"
+2,"TEXT_BANKJN003_02975_SEQ_02","和武盔進行了交談。在重逢集市調查關於寶物的情報。"
+3,"TEXT_BANKJN003_02975_SEQ_03","找到了關於寶物的情報。一位名叫兀赤金的凱蘇提爾部人，持有能射中太陽的寶弓。和重逢集市的武盔進行交談。"
+4,"TEXT_BANKJN003_02975_SEQ_04","和武盔進行了交談。在重逢集市附近尋找名為兀赤金的凱蘇提爾部人。"
 5,"TEXT_BANKJN003_02975_SEQ_05","和兀赤金進行了交談。他的弓被什麼人奪走了。在太陽神草原尋找強盜，奪回<Sheet(EventItem,2002427,0)/>。"
-6,"TEXT_BANKJN003_02975_SEQ_06","討伐了紅甲族並奪回了<Sheet(EventItem,2002427,0)/>。把<Sheet(EventItem,2002427,0)/>交還重逢市集的兀赤金。"
+6,"TEXT_BANKJN003_02975_SEQ_06","討伐了紅甲族並奪回了<Sheet(EventItem,2002427,0)/>。把<Sheet(EventItem,2002427,0)/>交還重逢集市的兀赤金。"
 7,"TEXT_BANKJN003_02975_SEQ_07","把<Sheet(EventItem,2002427,0)/>交給了兀赤金。因冒險者取回來寶弓，和凱蘇提爾部順利結緣了。和紅玉海碧玉水的武盔交談。"
 8,"TEXT_BANKJN003_02975_SEQ_08","和武盔進行了交談。武盔再一次因為依靠冒險者的幫助結緣而反省自己的實力不足。"
 9,"TEXT_BANKJN003_02975_SEQ_09",""
@@ -29,11 +29,11 @@ int32,str,str
 21,"TEXT_BANKJN003_02975_SEQ_21",""
 22,"TEXT_BANKJN003_02975_SEQ_22",""
 23,"TEXT_BANKJN003_02975_SEQ_23",""
-24,"TEXT_BANKJN003_02975_TODO_00","和重逢市集的武盔對話"
-25,"TEXT_BANKJN003_02975_TODO_01","在重逢市集調查關於寶物的情報"
+24,"TEXT_BANKJN003_02975_TODO_00","和重逢集市的武盔對話"
+25,"TEXT_BANKJN003_02975_TODO_01","在重逢集市調查關於寶物的情報"
 26,"TEXT_BANKJN003_02975_TODO_02","和武盔對話"
 27,"TEXT_BANKJN003_02975_TODO_03","尋找兀赤金"
-28,"TEXT_BANKJN003_02975_TODO_04","尋找強盜 獲得<Sheet(EventItem,2002427,0)/>"
+28,"TEXT_BANKJN003_02975_TODO_04","尋找強盜 獲取<Sheet(EventItem,2002427,0)/>"
 29,"TEXT_BANKJN003_02975_TODO_05","將<Sheet(EventItem,2002427,0)/>交給兀赤金"
 30,"TEXT_BANKJN003_02975_TODO_06","和碧玉水的武盔對話"
 31,"TEXT_BANKJN003_02975_TODO_07",""
@@ -54,17 +54,17 @@ int32,str,str
 46,"TEXT_BANKJN003_02975_TODO_22",""
 47,"TEXT_BANKJN003_02975_TODO_23",""
 48,"TEXT_BANKJN003_02975_SYSTEM_000_000","若要領取或繼續推進本任務，
-需完成「紅蓮的解放者主線任務」中的「風馳太陽神草原」。"
-49,"TEXT_BANKJN003_02975_KABUTO_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+需完成「紅蓮之狂潮主線任務」中的「風馳太陽神草原」。"
+49,"TEXT_BANKJN003_02975_KABUTO_000_001","<Highlight>ObjectParameter(1)</Highlight>閣下……
 鄙人想再度請你幫忙……"
 50,"TEXT_BANKJN003_02975_KABUTO_000_002","在西北方遙遠的太陽神草原上，
 據說有一個無價之寶……
 鄙人不習慣在內陸行動，希望你能陪同……"
 51,"TEXT_BANKJN003_02975_TSUKUMO_000_003","嗯，你終於用自己的話說出來了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，我也想請你一同前往。
+<Highlight>ObjectParameter(1)</Highlight>閣下，我也想請你一同前往。
 甲人族並不熟悉當地狀況。"
 52,"TEXT_BANKJN003_02975_TSUKUMO_000_004","哦哦，太好了！
-那就去一個叫重逢市集的地方，
+那就去一個叫重逢集市的地方，
 收集情報吧！"
 53,"TEXT_BANKJN003_02975_TSUKUMO_000_009","哦哦，你來了啊。
 這一帶風好大，快要被吹跑了。"
@@ -92,72 +92,72 @@ int32,str,str
 62,"TEXT_BANKJN003_02975_PERSONB02975_000_020","哎，又有一個好事之徒。
 寶物的主人是凱蘇提爾部的一個叫兀赤金的人。"
 63,"TEXT_BANKJN003_02975_PERSONB02975_100_020","如果想看到東西，就去找他本人吧。
-他經常在市集外練習弓術。"
+他經常在集市外練習弓術。"
 64,"TEXT_BANKJN003_02975_PERSONB02975_000_029","寶物的主人是凱蘇提爾部的一個叫兀赤金的人。
 如果想看到東西，就去找他本人吧。
-他經常在市集外練習弓術。"
+他經常在集市外練習弓術。"
 65,"TEXT_BANKJN003_02975_PERSONC02975_000_020","寶物的傳聞？
 你是說那個能射下太陽的弓嗎？
 那是謠言……其實只是一把普通的弓。"
 66,"TEXT_BANKJN003_02975_PERSONC02975_000_029","你是說那個能射下太陽的弓嗎？
 那是謠言……其實只是一把普通的弓。"
 67,"TEXT_BANKJN003_02975_TSUKUMO_000_029","哦哦，回來了啊。
-真想讓你也見識一下武盔和市集的人交流時的情景……
+真想讓你也見識一下武盔和集市的人交流時的情景……
 沒想到竟然會有人比武盔還沉默寡言。"
-68,"TEXT_BANKJN003_02975_KABUTO_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，回來了啊……
+68,"TEXT_BANKJN003_02975_KABUTO_000_030","<Highlight>ObjectParameter(1)</Highlight>閣下，回來了啊……
 凱蘇提爾部真是神奇……
-竟然不說話就能管理市集……"
+竟然不說話就能管理集市……"
 69,"TEXT_BANKJN003_02975_TSUKUMO_000_031","沒想到竟然會有人比武盔還沉默寡言。
 真想讓你也見識一下武盔和他們交流時的情景。"
-70,"TEXT_BANKJN003_02975_KABUTO_000_032","不說話究竟是怎麼管理市集的……"
+70,"TEXT_BANKJN003_02975_KABUTO_000_032","不說話究竟是怎麼管理集市的……"
 71,"TEXT_BANKJN003_02975_Q1_000_000","如何作答？"
-72,"TEXT_BANKJN003_02975_A1_000_001","因為他們透過行動獲得信任"
+72,"TEXT_BANKJN003_02975_A1_000_001","因為他們通過行動獲得信任"
 73,"TEXT_BANKJN003_02975_A1_000_002","因為這樣更有威嚴"
 74,"TEXT_BANKJN003_02975_KABUTO_000_033","確實，如果相互不信任，
 說多少漂亮話都沒有用……
-行動才是建構信任關係的關鍵啊……"
+行動才是構建信任關係的關鍵啊……"
 75,"TEXT_BANKJN003_02975_KABUTO_000_034","確實，由內而發的威嚴感，
-並不需要花裡胡哨的語言來展現……
-行動才是建構信任關係的關鍵啊……"
+並不需要花裡胡哨的語言來體現……
+行動才是構建信任關係的關鍵啊……"
 76,"TEXT_BANKJN003_02975_KABUTO_000_035","即便問了關於寶物的事，他們也不答話……
 可是，他們的眼神似乎在說，
 用自己的眼睛尋找真相。"
 77,"TEXT_BANKJN003_02975_TSUKUMO_000_036","就是讓我們自己確認傳聞的真假啊……
-話說， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下
+話說，<Highlight>ObjectParameter(1)</Highlight>閣下
 有沒有獲得什麼情報？"
 78,"TEXT_BANKJN003_02975_TSUKUMO_000_037","原來如此，凱蘇提爾部的兀赤金
 獲得了寶弓，提升了技藝嗎……
 不曉得他會不會讓給我們，不過倒是值得去看一看。"
-79,"TEXT_BANKJN003_02975_TSUKUMO_000_038","那我們就分頭到市集外面去找這個叫兀赤金的人吧。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下負責市集的西南邊！"
-80,"TEXT_BANKJN003_02975_UCHIKIN_000_040","…………。"
+79,"TEXT_BANKJN003_02975_TSUKUMO_000_038","那我們就分頭到集市外面去找這個叫兀赤金的人吧。
+<Highlight>ObjectParameter(1)</Highlight>閣下負責集市的西南邊！"
+80,"TEXT_BANKJN003_02975_UCHIKIN_000_040","……"
 81,"TEXT_BANKJN003_02975_SYSTEM_100_040","兀赤金似乎很失落。"
-82,"TEXT_BANKJN003_02975_UCHIKIN_101_040","…………。"
+82,"TEXT_BANKJN003_02975_UCHIKIN_101_040","……"
 83,"TEXT_BANKJN003_02975_SYSTEM_000_041","兀赤金忍住眼淚，指向了東南方。
 似乎有人奪走了他的弓，
 並逃向了他所指的方向。"
 84,"TEXT_BANKJN003_02975_Q2_000_000","如何作答？"
 85,"TEXT_BANKJN003_02975_A2_000_001","我會幫你奪回來的！"
 86,"TEXT_BANKJN003_02975_A2_000_002","等著！"
-87,"TEXT_BANKJN003_02975_UCHIKIN_000_043","…………。"
+87,"TEXT_BANKJN003_02975_UCHIKIN_000_043","……"
 88,"TEXT_BANKJN003_02975_SYSTEM_000_044","兀赤金似乎感激涕零。
 尋找強盜，奪回<Sheet(EventItem,2002427,0)/>。"
-89,"TEXT_BANKJN003_02975_UCHIKIN_000_048","…………。"
+89,"TEXT_BANKJN003_02975_UCHIKIN_000_048","……"
 90,"TEXT_BANKJN003_02975_SYSTEM_000_049","兀赤金指向了東南方向。
 奪走他的弓的賊人逃向了他所指的方向。
 尋找強盜，奪回<Sheet(EventItem,2002427,0)/>。"
-91,"TEXT_BANKJN003_02975_POP_MESSAGE_000_050","（★未使用／削除予定★）"
+91,"TEXT_BANKJN003_02975_POP_MESSAGE_000_050","（★未使用／預定刪除★）"
 92,"TEXT_BANKJN003_02975_BALLOON_000_050","你是誰——？！"
 93,"TEXT_BANKJN003_02975_BALLOON_000_051","寶物是我們的——！"
 94,"TEXT_BANKJN003_02975_BALLOON_000_052","看招吧——！"
-95,"TEXT_BANKJN003_02975_KABUTO_000_059"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+95,"TEXT_BANKJN003_02975_KABUTO_000_059","<Highlight>ObjectParameter(1)</Highlight>閣下，
 那把弓，莫非是……？！"
 96,"TEXT_BANKJN003_02975_TSUKUMO_000_059","我們找到了兀赤金閣下的父親，
 不過似乎是發生了什麼事？"
-97,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_058","…………。"
+97,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_058","……"
 98,"TEXT_BANKJN003_02975_SYSTEM_000_059","兀赤金的父親，似乎由衷感謝冒險者奪回了兒子所珍愛的弓。
 "
-99,"TEXT_BANKJN003_02975_UCHIKIN_000_060","…………。"
+99,"TEXT_BANKJN003_02975_UCHIKIN_000_060","……"
 100,"TEXT_BANKJN003_02975_UCHIKIN_000_061","(-兀赤金及其父-)……"
 101,"TEXT_BANKJN003_02975_TSUKUMO_000_062","看來，他們很感謝你幫忙奪回了弓。"
 102,"TEXT_BANKJN003_02975_TSUKUMO_000_063","我們和兀赤金閣下的父親相遇，
@@ -170,13 +170,13 @@ int32,str,str
 105,"TEXT_BANKJN003_02975_KABUTO_000_066","可是，這把弓……
 鄙人實在看不出究竟有多麼珍貴……
 雖然看起來確實很好用……"
-106,"TEXT_BANKJN003_02975_UCHIKIN_000_067","…………。"
+106,"TEXT_BANKJN003_02975_UCHIKIN_000_067","……"
 107,"TEXT_BANKJN003_02975_TSUKUMO_000_068","原來如此……
 這弓是父親贈送給兀赤金閣下的練習用弓。"
 108,"TEXT_BANKJN003_02975_KABUTO_000_069","也就是說，兀赤金閣下的弓術在短時間內迅速提升，
 以至於被傳言能射下太陽，其實不是因為弓特殊，
 而是他自身很有天賦……？"
-109,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_070","（★未使用／削除予定★）"
+109,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_070","（★未使用／預定刪除★）"
 110,"TEXT_BANKJN003_02975_TSUKUMO_100_070","看父親的樣子，似乎並非是兀赤金自身很有天賦……"
 111,"TEXT_BANKJN003_02975_TSUKUMO_000_071","武盔，仔細看兀赤金閣下的這把弓。
 尺寸和弓弦的堅韌程度，都非常適合少年使用……
@@ -184,20 +184,20 @@ int32,str,str
 112,"TEXT_BANKJN003_02975_TSUKUMO_000_072","父親為了兒子製作了易於使用的弓，
 而兒子為了回應父親的心意刻苦鍛鍊，珍愛著這把弓。
 對兀赤金閣下而言，這是名副其實的寶物！"
-113,"TEXT_BANKJN003_02975_UCHIKIN_000_073","（★未使用／削除予定★）"
+113,"TEXT_BANKJN003_02975_UCHIKIN_000_073","（★未使用／預定刪除★）"
 114,"TEXT_BANKJN003_02975_TSUKUMO_100_073","看看，兀赤金閣下也同意這個說法。
 我們不能拿走這麼貴重的東西。
 這次就當是來賞寶了，回家吧。"
-115,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_074","…………。"
+115,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_074","……"
 116,"TEXT_BANKJN003_02975_KABUTO_000_075","這是……？"
-117,"TEXT_BANKJN003_02975_TSUKUMO_000_076","看樣子，這是在重逢市集做買賣的許可證……"
+117,"TEXT_BANKJN003_02975_TSUKUMO_000_076","看樣子，這是在重逢集市做買賣的許可證……"
 118,"TEXT_BANKJN003_02975_TSUKUMO_100_076","這是在說，要和我們結緣嗎？"
-119,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_077","（★未使用／削除予定★）"
+119,"TEXT_BANKJN003_02975_UCHIKINPAPA_000_077","（★未使用／預定刪除★）"
 120,"TEXT_BANKJN003_02975_TSUKUMO_100_077","要和碧甲族做生意？！
 哎呀，真沒有枉費我們的辛苦啊！"
 121,"TEXT_BANKJN003_02975_KABUTO_000_078","太好了……
 又結下了新的緣分……！"
-122,"TEXT_BANKJN003_02975_TSUKUMO_000_079","委託 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下同行……
+122,"TEXT_BANKJN003_02975_TSUKUMO_000_079","委託<Highlight>ObjectParameter(1)</Highlight>閣下同行……
 是個……正確的……選擇……
 武、盔、也、是……"
 123,"TEXT_BANKJN003_02975_KABUTO_000_080","付、付喪？！"
@@ -209,40 +209,40 @@ int32,str,str
 沒事吧……？"
 127,"TEXT_BANKJN003_02975_TSUKUMO_000_084","想多了吧？
 不用擔心！"
-128,"TEXT_BANKJN003_02975_TSUKUMO_100_084","看，他要招待我們到市集去。
+128,"TEXT_BANKJN003_02975_TSUKUMO_100_084","看，他要招待我們到集市去。
 似乎還要經過一些手續。"
-129,"TEXT_BANKJN003_02975_TSUKUMO_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+129,"TEXT_BANKJN003_02975_TSUKUMO_000_085","<Highlight>ObjectParameter(1)</Highlight>閣下，
 這次尋寶就到此為止了。
-我們先去一趟市集，你就先回到碧玉水吧。"
+我們先去一趟集市，你就先回到碧玉水吧。"
 130,"TEXT_BANKJN003_02975_TSUKUMO_000_089","武盔這傢伙，都說了不用擔心了，還那麼驚慌。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也跟他說說吧。"
-131,"TEXT_BANKJN003_02975_KABUTO_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，回來了啊……
+<Highlight>ObjectParameter(1)</Highlight>閣下也跟他說說吧。"
+131,"TEXT_BANKJN003_02975_KABUTO_000_090","<Highlight>ObjectParameter(1)</Highlight>閣下，回來了啊……
 手續已經辦完了，也獲得了寶物……
 可是，回來的路上，付喪時不時地停止活動……"
 132,"TEXT_BANKJN003_02975_TSUKUMO_000_091","武盔啊，都說了不用擔心了！
 只是第一次出遠門，累了而已！！"
-133,"TEXT_BANKJN003_02975_TSUKUMO_000_092","這次也多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下的幫助，
+133,"TEXT_BANKJN003_02975_TSUKUMO_000_092","這次也多虧<Highlight>ObjectParameter(1)</Highlight>閣下的幫助，
 我們又增長了見識。
 相信凱蘇提爾部的風俗，對我們也有參考價值。"
 134,"TEXT_BANKJN003_02975_KABUTO_000_093","……的確，鄙人不善言辭，
-看到凱蘇提爾部不用語言就能管理市集，令人驚嘆……"
+看到凱蘇提爾部不用語言就能管理集市，令人驚嘆……"
 135,"TEXT_BANKJN003_02975_KABUTO_000_094","可是，這次旅途，
-還是一直仰賴 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+還是一直仰賴<Highlight>ObjectParameter(1)</Highlight>閣下……
 鄙人沒有派上用場……"
 136,"TEXT_BANKJN003_02975_TSUKUMO_000_095","哎，本以為有了一點自信，結果又開始消沉了……
 武盔，你可是碧玉尋寶眾的頭領啊。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也說點什麼啊。"
+<Highlight>ObjectParameter(1)</Highlight>閣下也說點什麼啊。"
 137,"TEXT_BANKJN003_02975_Q3_000_000","如何作答？"
 138,"TEXT_BANKJN003_02975_A3_000_001","遇到緊急情況時你會怎麼做？"
-139,"TEXT_BANKJN003_02975_A3_000_002","你一定可以的"
-140,"TEXT_BANKJN003_02975_KABUTO_000_096","…………。"
+139,"TEXT_BANKJN003_02975_A3_000_002","你一定能行的"
+140,"TEXT_BANKJN003_02975_KABUTO_000_096","……"
 141,"TEXT_BANKJN003_02975_TSUKUMO_000_097","哎……
 看來還要繼續麻煩閣下了。"
 142,"TEXT_BANKJN003_02975_SYSTEM_000_200","和凱蘇提爾部結了緣。
 碧玉尋寶眾供奉了寶物，
 寶物殿的寶物又變多了！"
 143,"TEXT_BANKJN003_02975_SYSTEM_000_201","與甲人族「碧玉尋寶眾」之間的關係程度到達了「尊敬」。
-透過結下新的緣分，受到了他們的尊敬。"
+通過結下新的緣分，受到了他們的尊敬。"
 144,"TEXT_BANKJN003_02975_SYSTEM_000_202","今後可以在碧玉水的頭巾處，
 接受新的友好部族日常任務。"
 145,"TEXT_BANKJN003_02975_SYSTEM_000_203","同時，作為獎勵，

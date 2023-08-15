@@ -13,11 +13,11 @@ int32,str,str
 雖然我們關係不怎麼好，
 但突然少了這個對手還是有些寂寞啊……"
 4,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_000","沒想到敵人會進攻基地……
-這帳遲早要找他們算清楚。"
-5,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_010","利奧法德和凱特．西終於把妖異們消滅了！
+這賬遲早要找他們算清楚。"
+5,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_010","利奧法德和凱特·西終於把妖異們消滅了！
 好嘞，讓我們舉辦宴會，喝酒慶祝吧！"
 6,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_020","能讓平時總喜歡裝酷的利奧法德流露出那種真情實感，
-這也是凱特．西的才能。
+這也是凱特·西的才能。
 聽著他們倆鬥嘴真是有意思！"
 7,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLENGINEER_000_100","飛空艇關係到空賊的性命，
 所以我們整備時也絕不能掉以輕心，
@@ -29,7 +29,7 @@ int32,str,str
 ……真是太氣人了！"
 10,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLENGINEER_100_110","雖然蕾米耶號沒能回來，這讓人很傷心，
 不過利奧法德能活著回來比什麼都強！"
-11,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLENGINEER_100_120","前幾天我去田園郡採購，
+11,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLENGINEER_100_120","前些天我去田園郡採購，
 沒想到一提起你的名字，哥布林族都興致勃勃的。
 本領高強的冒險者情報……這讓我砍價砍得非常成功！"
 12,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLCOOK_000_200","我的工作就是讓那些滿腦子尋寶、探險的傢伙，
@@ -47,14 +47,14 @@ int32,str,str
 16,"TEXT_REGABRSKYPIRATESDENSHARE_00346_LEOFARD_100_300","自從結束跟你一起的冒險之後，都沒什麼樂子了。
 雖然這種倦怠期也是下一場興奮冒險的過渡期……
 但要是再這麼無聊下去，我的槍都要生鏽了。"
-17,"TEXT_REGABRSKYPIRATESDENSHARE_00346_STACIA_000_400","凱特．西正在全力調查解放契約石全部力量的方法。
+17,"TEXT_REGABRSKYPIRATESDENSHARE_00346_STACIA_000_400","凱特·西正在全力調查解放契約石全部力量的方法。
 我打算利用這段時間好好摸清敵方的戰力和動向。"
 18,"TEXT_REGABRSKYPIRATESDENSHARE_00346_STACIA_100_400","聽說猛禽聯盟在未知的空域胡作非為。
 我們也不能輸給拉德莉亞啊！
 哼哼哼，這片天空還會更加熱鬧的！"
 19,"TEXT_REGABRSKYPIRATESDENSHARE_00346_CAITSITH_000_500","不論歲月怎樣變遷，世界依舊是如此美麗……
 不能讓它們在主人深愛的現世胡作非為。
-你說是不是， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下？"
+你說是不是，<Highlight>ObjectParameter(1)</Highlight>閣下？"
 20,"TEXT_REGABRSKYPIRATESDENSHARE_00346_CAITSITH_100_500","利奧法德那混蛋，眼睛裡只有錢和飾品，
 貴重的古籍轉眼就賣給收藏家去了！
 簡直氣死我了，那傢伙沒救了！"
@@ -63,6 +63,6 @@ int32,str,str
 我也要好好加油才行！"
 22,"TEXT_REGABRSKYPIRATESDENSHARE_00346_UTATA_100_605","其實並不是我不攔著利奧法德。
 是當我意識到的時候，他已經衝出基地了！"
-23,"TEXT_REGABRSKYPIRATESDENSHARE_00346_UTATA_100_600","凱特．西成為團員後我每天都好開心！
+23,"TEXT_REGABRSKYPIRATESDENSHARE_00346_UTATA_100_600","凱特·西成為團員後我每天都好開心！
 果然多一個同伴就多一份快樂。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也要經常到基地來玩啊！"
+<Highlight>ObjectParameter(1)</Highlight>也要經常到基地來玩啊！"

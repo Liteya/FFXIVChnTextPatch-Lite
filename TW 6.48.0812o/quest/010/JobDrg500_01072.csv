@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_JOBDRG500_01072_SEQ_00","雅伯里克神情緊張，坐立不安。"
-1,"TEXT_JOBDRG500_01072_SEQ_01","接受了雅伯里克的委託。去庫爾札斯中央高地的鋼衛塔，和埃斯蒂尼安會合。"
-2,"TEXT_JOBDRG500_01072_SEQ_02","埃斯蒂尼安和尼德霍格的黑色光芒一起消失了。回到阿德內爾占星臺，向雅伯里克報告。"
+1,"TEXT_JOBDRG500_01072_SEQ_01","接受了雅伯里克的委託。去庫爾札斯中央高地的鋼衛塔，和埃斯蒂尼安匯合。"
+2,"TEXT_JOBDRG500_01072_SEQ_02","埃斯蒂尼安和尼德霍格的黑色光芒一起消失了。回到阿德內爾占星台，向雅伯里克報告。"
 3,"TEXT_JOBDRG500_01072_SEQ_03","向雅伯里克報告完畢。黑色光芒和埃斯蒂尼安一同不見了蹤影，尼德霍格的氣息消失了，龍族的騷動也平息了下去。暫時可以不必擔心龍族的威脅了。為下次龍族來襲做準備，繼續磨練龍騎士的本領與精神。
 
-※滿足下列條件後，可以從阿德內爾占星臺的雅伯里克那裡領取新的特職任務。
+※滿足下列條件後，可以從阿德內爾占星台的雅伯里克那裡領取新的特職任務。
 完成「第七星曆主線任務」中「希望的燈火」。"
 4,"TEXT_JOBDRG500_01072_SEQ_04",""
 5,"TEXT_JOBDRG500_01072_SEQ_05",""
@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_JOBDRG500_01072_SEQ_21",""
 22,"TEXT_JOBDRG500_01072_SEQ_22",""
 23,"TEXT_JOBDRG500_01072_SEQ_23",""
-24,"TEXT_JOBDRG500_01072_TODO_00","和埃斯蒂尼安會合"
+24,"TEXT_JOBDRG500_01072_TODO_00","和埃斯蒂尼安匯合"
 25,"TEXT_JOBDRG500_01072_TODO_01","和雅伯里克對話"
 26,"TEXT_JOBDRG500_01072_TODO_02",""
 27,"TEXT_JOBDRG500_01072_TODO_03",""
@@ -61,12 +61,12 @@ int32,str,str
 50,"TEXT_JOBDRG500_01072_ALBERIC_000_003","而且，在和邪龍決戰之前，
 我要告訴他芬戴爾村一事的真相，
 以防他被邪龍尼德霍格迷惑。"
-51,"TEXT_JOBDRG500_01072_ESTINIEN_000_010","雅伯里克……到了算總帳的時候了。"
+51,"TEXT_JOBDRG500_01072_ESTINIEN_000_010","雅伯里克……到了算總賬的時候了。"
 52,"TEXT_JOBDRG500_01072_ESTINIEN_000_011","你在20年前，親自捨棄了龍之力，
 你懼怕邪龍尼德霍格，害怕丟掉性命，
 因此置我的故鄉芬戴爾村於毀滅而不顧。"
 53,"TEXT_JOBDRG500_01072_ESTINIEN_000_012","真是諷刺。我失去了家人、朋友……
-伊修加爾德已經沒有值得我去守護的東西了，
+伊修加德已經沒有值得我去守護的東西了，
 而我卻成為了蒼天之龍騎士。"
 54,"TEXT_JOBDRG500_01072_ESTINIEN_000_013","但也多虧了這樣，我才得知了真相。
 龍眼告訴了我，
@@ -80,7 +80,7 @@ int32,str,str
 想想你曾向長槍發的誓！"
 58,"TEXT_JOBDRG500_01072_ALBERIC_000_017","別被龍眼迷惑了！
 不可以為了復仇使用龍之力！"
-59,"TEXT_JOBDRG500_01072_ESTINIEN_000_018"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+59,"TEXT_JOBDRG500_01072_ESTINIEN_000_018","<Highlight>ObjectParameter(1)</Highlight>……"
 60,"TEXT_JOBDRG500_01072_ESTINIEN_000_019","……哼，你也是被龍眼選中的人，
 我還以為你會拋棄這膽小鬼，和我並肩戰鬥呢。"
 61,"TEXT_JOBDRG500_01072_ESTINIEN_000_020","看來是我看錯人了。
@@ -89,14 +89,14 @@ int32,str,str
 就讓我告訴你，誰才是真正的蒼天之龍騎士！"
 63,"TEXT_JOBDRG500_01072_DRAGON_000_030","(-傳入心中的聲音-)……弱者……想要力量嗎……"
 64,"TEXT_JOBDRG500_01072_DRAGON_000_031","(-傳入心中的聲音-)……想要把這憤怒……這憎恨……變成力量嗎……"
-65,"TEXT_JOBDRG500_01072_ESTINIEN_000_032","龍啊……帝龍尼德霍格啊…… "
+65,"TEXT_JOBDRG500_01072_ESTINIEN_000_032","龍啊……帝龍尼德霍格啊……"
 66,"TEXT_JOBDRG500_01072_ESTINIEN_000_033","將你那不屈之牙、之爪……
 將你那龍之血液賜予我吧……"
-67,"TEXT_JOBDRG500_01072_ESTINIEN_000_034","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+67,"TEXT_JOBDRG500_01072_ESTINIEN_000_034","……<Highlight>ObjectParameter(1)</Highlight>？！
 不……這身姿難道是……征龍將哈爾德拉斯？！"
 68,"TEXT_JOBDRG500_01072_ALBERIC_000_035","埃斯蒂尼安呢？
 難道和邪龍尼德霍格一起消失了麼？"
-69,"TEXT_JOBDRG500_01072_ALBERIC_000_036","……我們回阿德內爾占星臺吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。 "
+69,"TEXT_JOBDRG500_01072_ALBERIC_000_036","……我們回阿德內爾占星台吧，<Highlight>ObjectParameter(1)</Highlight>。"
 70,"TEXT_JOBDRG500_01072_ALBERIC_000_040","那時……當吞噬了埃斯蒂尼安的黑色光芒向我們襲來時……
 你的身影就好似是聖典中描繪的征龍將哈爾德拉斯一樣。"
 71,"TEXT_JOBDRG500_01072_ALBERIC_000_041","你可能不理解我在說什麼……
@@ -109,9 +109,9 @@ int32,str,str
 74,"TEXT_JOBDRG500_01072_ALBERIC_000_044","你應該已經可以披上最後一身鎧甲了。
 傳說征龍將哈爾德拉斯曾穿著它進行過戰鬥……
 它就是蒼天之龍騎士鎧！"
-75,"TEXT_JOBDRG500_01072_ALBERIC_000_045"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+75,"TEXT_JOBDRG500_01072_ALBERIC_000_045","<Highlight>ObjectParameter(1)</Highlight>，
 你真是個不可思議的人。
-難道說你是…… "
+難道說你是……"
 76,"TEXT_JOBDRG500_01072_ALBERIC_000_046","不好意思，忘了我說的吧。
 這鎧甲一定是征龍將哈爾德拉斯
 為回應你的正義與勇氣之心，而送給你的。"
@@ -120,21 +120,21 @@ int32,str,str
 這些又是否與你的覺醒有關呢……"
 78,"TEXT_JOBDRG500_01072_ALBERIC_000_048","現在我能做到的，
 就是祈禱你的力量能傳達到埃斯蒂尼安的心中……
-希望他能夠平安無事。 "
+希望他能夠平安無事。"
 79,"TEXT_JOBDRG500_01072_ALBERIC_000_049","不管他多麼恨我，
 他都是我的弟子，我對他都視如己出……"
 80,"TEXT_JOBDRG500_01072_ALBERIC_000_050","接觸到那黑色光芒時，
 我有種似曾相識的感覺，
 但聽到的話語又和20年前的截然不同。"
 81,"TEXT_JOBDRG500_01072_ALBERIC_000_051","哀嘆的聲音……
-哀嘆伊修加爾德與龍族之間不可逾越的鴻溝……"
+哀嘆伊修加德與龍族之間不可逾越的鴻溝……"
 82,"TEXT_JOBDRG500_01072_ALBERIC_000_052","……也許有一天，你也會聽到這聲音。
 請你為了你所堅信的正義，使用你的力量。"
 83,"TEXT_JOBDRG500_01072_SYSTEM_100_000","「龍騎士」的故事到此告一段落！
 要開始接下來的「龍騎士」特職任務，
 需要滿足以下條件。"
 84,"TEXT_JOBDRG500_01072_SYSTEM_100_001","完成「第七星曆主線任務」中「希望的燈火」。"
-85,"TEXT_JOBDRG500_01072_SYSTEM_100_002","滿足條件後，和阿德內爾占星臺的雅伯里克對話，
+85,"TEXT_JOBDRG500_01072_SYSTEM_100_002","滿足條件後，和阿德內爾占星台的雅伯里克對話，
 即可開始新的特職任務！"
 86,"TEXT_JOBDRG500_01072_QIB_001_TODO_1","打倒埃斯蒂尼安！"
 87,"TEXT_JOBDRG500_01072_QIB_001_ESTINIEN_BATTLETALK_01","到底誰才是真正的蒼天之龍騎士……
@@ -144,7 +144,7 @@ int32,str,str
 89,"TEXT_JOBDRG500_01072_QIB_001_ESTINIEN_BATTLETALK_03","哼，龍眼的力量麼……有意思。
 既然使用的是相同的力量……
 那就要看誰的本領更高強了！"
-90,"TEXT_JOBDRG500_01072_QIB_001_ESTINIEN_BATTLETALK_04","全力上！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+90,"TEXT_JOBDRG500_01072_QIB_001_ESTINIEN_BATTLETALK_04","全力上！<Highlight>ObjectParameter(1)</Highlight>！"
 91,"TEXT_JOBDRG500_01072_QIB_001_ESTINIEN_BATTLETALK_05","力量……力量不夠……龍眼，再多賜給我些力量！
 讓我能夠破壞這一切！"
 92,"TEXT_JOBDRG500_01072_QIB_001_ALBERIC_BATTLETALK_06","埃斯蒂尼安，別被仇恨吞噬！

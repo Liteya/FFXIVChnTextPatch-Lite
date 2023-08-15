@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_000","我負責在這裡管理大家所使用的資材與物品。
 難得爺爺他們願意將工作交給我們年輕人……
 無論如何我都要做好！"
-1,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_010"," <Highlight>ObjectParameter(1)</Highlight> 歡迎你過來。
+1,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_010","<Highlight>ObjectParameter(1)</Highlight>歡迎你過來。
 這裡是車前會所！"
-2,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_Q1_000_011","想瞭解什麼？"
+2,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_Q1_000_011","想了解什麼？"
 3,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_012","多瑪飛地的情況如何？"
 4,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_013","關於出讓物資的方法"
 5,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_014","關於回購物資的方法"
@@ -35,8 +35,8 @@ int32,str,str
 超出部分的金額將不予支付，請多加注意。"
 17,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_026","出讓給我們的物資在決定用途之前
 會暫時存放在車前會所。
-在此期間可以進行退還……"
-18,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_027","透過<Sheet(EObj,2009567,0)/>出讓的道具，
+在此期間可以進行返還……"
+18,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_027","通過<Sheet(EObj,2009567,0)/>出讓的道具，
 可以從會所旁的<Sheet(EObj,2009568,0)/>處進行回購。"
 19,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_028","不過和通常商店的回購一樣，
 一旦退出遊戲或離開該區域，
@@ -62,7 +62,7 @@ int32,str,str
 29,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_080","多虧了你的幫助，百貨市場建設完成了！
 接下來該準備建設生產製作的中心區域——匠人街了！"
 30,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_081","這就是現在多瑪飛地的俯瞰圖。"
-31,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_090","如果 <Highlight>ObjectParameter(1)</Highlight> 你有空的話，
+31,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_090","如果<Highlight>ObjectParameter(1)</Highlight>你有空的話，
 能不能去找貫師傅聊聊？"
 32,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_100","我們正在繼續進行匠人街的建設工作。
 真的好想早日完成工房的建設，
@@ -79,7 +79,7 @@ int32,str,str
 請你去跟貫師傅聊聊吧。"
 38,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_140","因為匠人街的規模比百貨市場要大，
 開始起來就需要更多的物資，
- <Highlight>ObjectParameter(1)</Highlight> 是不是給你添加負擔了？"
+<Highlight>ObjectParameter(1)</Highlight>是不是給你添加負擔了？"
 39,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_141","這就是現在多瑪飛地的俯瞰圖。"
 40,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_150","來吧，你也來看看發展後的樣子吧！
 蘭師傅應該就在會所後面，
@@ -103,7 +103,7 @@ int32,str,str
 50,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_210","接下來玩家可以繼續出讓道具，
 但是在下一階段的重建計劃發表之前，城市不會有進一步的發展。
 請期待下一個版本來臨！"
-51,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_215"," <Highlight>ObjectParameter(1)</Highlight> ……
+51,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_215","<Highlight>ObjectParameter(1)</Highlight>……
 感謝你能過來。
 不過你應該很忙的吧？"
 52,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_216","我想肯定有人在等著你。
@@ -111,9 +111,9 @@ int32,str,str
 在此期間，這裡就先由我們想辦法管理多瑪飛地了。"
 53,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_217","想要推進今後的多瑪飛地重建任務，
 需要先完成主線任務「拂曉的少年」。"
-54,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_220"," <Highlight>ObjectParameter(1)</Highlight> ！
+54,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_220","<Highlight>ObjectParameter(1)</Highlight>！
 歡迎你過來。"
-55,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_221","就在前幾個日子，車前會決定了
+55,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_221","就在前些日子，車前會決定了
 今後多瑪飛地重建計劃的方針。
 我正想著要告訴你呢。"
 56,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_222","首先多虧了多瑪飛地的人們互相協助，
@@ -128,7 +128,7 @@ int32,str,str
 61,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_227","(-農夫大漢-)你還記得我嗎？
 被徵用到帝國河畔堡的時候，
 是你和忍者小姐一起救了我。"
-62,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_228","(-農夫大漢-)那個時候我也沒自我介紹，真是對不起了。
+62,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_228","(-農夫大漢-)那個時候我也沒自我介紹，真是對不住了。
 我叫岩瀨，
 是找車前會幫忙支援開墾農耕地的負責人。"
 63,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_229","如你所見，多瑪是一個水資源豐富的國家，
@@ -142,7 +142,7 @@ int32,str,str
 66,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_232","而且我還想讓來幫忙的你去看看農耕地。
 你能不能來趟西北邊的大空地？"
 67,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_233","……所以下一個計劃重建的場地就是農耕地了！"
-68,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_234","美味的稻米作為商品具有很高的價值，
+68,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_234","美味的大米作為商品具有很高的價值，
 如果能對外販賣的話，對於車前會來說也是好事。
 我很期待能夠開發完成！"
 69,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_235","岩瀨好像在等你，
@@ -153,7 +153,7 @@ int32,str,str
 可是不光是建材，就連農具和肥料之類的東西，
 都需要想辦法去籌備呢！"
 72,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_251","這就是現在多瑪飛地的俯瞰圖。"
-73,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_260"," <Highlight>ObjectParameter(1)</Highlight> ，請你去找岩瀨，
+73,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_260","<Highlight>ObjectParameter(1)</Highlight>，請你去找岩瀨，
 看看農耕地的情況吧！"
 74,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_280","岩瀨在農耕地等著你呢，
 請你去看一眼水田的情況。"
@@ -165,9 +165,9 @@ int32,str,str
 孩子們肯定會很高興的。"
 78,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_310","栗齋學堂現在還在建設中……
 不過好像已經開始授課了。
-水無月老師和孩子們都蠻有幹勁的呢。"
+水無月老師和孩子們都挺有幹勁的呢。"
 79,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_311","這就是現在多瑪飛地的俯瞰圖。"
-80,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_320"," <Highlight>ObjectParameter(1)</Highlight> ，請你去看看栗齋學堂吧。
+80,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_320","<Highlight>ObjectParameter(1)</Highlight>，請你去看看栗齋學堂吧。
 水無月老師在等著你呢。"
 81,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_340","來吧，咱們一起去趟栗齋學堂吧！
 水無月老師和孩子們都在等著咱們呢！"
@@ -175,7 +175,7 @@ int32,str,str
 現在正在進行巡邏隊駐所的建設工作。
 如果你樂意的話，就去看看那裡的情況吧！"
 83,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_351","這就是現在多瑪飛地的俯瞰圖。"
-84,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_360"," <Highlight>ObjectParameter(1)</Highlight> ，
+84,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_360","<Highlight>ObjectParameter(1)</Highlight>，
 請你去找巡邏隊駐所的孟冬聊聊吧！"
 85,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_370","巡邏隊駐所的建設工作進行得很順利。
 負責管理的孟冬哥……
@@ -204,7 +204,7 @@ int32,str,str
 簡直像是在做夢一樣。
 真的很期待庭園完成時的樣子！"
 97,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_441","這就是現在多瑪飛地的俯瞰圖。"
-98,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_450"," <Highlight>ObjectParameter(1)</Highlight> ，
+98,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_450","<Highlight>ObjectParameter(1)</Highlight>，
 咱們一起前往無二庭園吧！
 當藥在等著咱們呢！"
 99,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_460","多虧了你的援助，此次的重建計劃已經基本完成。

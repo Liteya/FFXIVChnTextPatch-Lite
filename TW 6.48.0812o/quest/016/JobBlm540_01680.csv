@@ -6,8 +6,8 @@ int32,str,str
 2,"TEXT_JOBBLM540_01680_SEQ_02","第269團募緣修士韃札提出了伏擊「叛逆法師」的作戰。在石綠湖的<Sheet(EObj,2005469,0)/>等待。"
 3,"TEXT_JOBBLM540_01680_SEQ_03","「叛逆法師」的領導人沃爾迪夫出現在了<Sheet(EObj,2005469,0)/>，並打算拉攏第269團募緣修士韃札加入他們的組織。面對拒絕加入的第269團募緣修士韃札，沃爾迪夫向自己的部下下達了滅口的指示。前往石綠湖討伐叛逆法師的成員。"
 4,"TEXT_JOBBLM540_01680_SEQ_04","成功討伐了叛逆法師的成員。前往石綠湖，救助第269團募緣修士韃札。"
-5,"TEXT_JOBBLM540_01680_SEQ_05","成功救助了第269團募緣修士韃札。此時扎伊．阿．尼爾哈趕到，並責怪冒險者沒有留下叛逆法師的成員活口。聽從扎伊．阿．尼爾哈的要求返回烏爾達哈，和密爾瓦內斯禮拜堂的菈菈伊對話。"
-6,"TEXT_JOBBLM540_01680_SEQ_06","扎伊．阿．尼爾哈認為冒險者和「叛逆法師」所擁有的破壞之力的對抗，將有可能演變為第二次魔大戰，因而心存忌憚。然而菈菈伊卻對冒險者寄予信賴，並傳授給了冒險者新的黑魔法，以便在今後的戰鬥中能同「叛逆法師」相抗衡。
+5,"TEXT_JOBBLM540_01680_SEQ_05","成功救助了第269團募緣修士韃札。此時扎伊·阿·尼爾哈趕到，並責怪冒險者沒有留下叛逆法師的成員活口。聽從扎伊·阿·尼爾哈的要求返回烏爾達哈，和密爾瓦內斯禮拜堂的菈菈伊對話。"
+6,"TEXT_JOBBLM540_01680_SEQ_06","扎伊·阿·尼爾哈認為冒險者和「叛逆法師」所擁有的破壞之力的對抗，將有可能演變為第二次魔大戰，因而心存忌憚。然而菈菈伊卻對冒險者寄予信賴，並傳授給了冒險者新的黑魔法，以便在今後的戰鬥中能同「叛逆法師」相抗衡。
 
 ※黑魔法師的等級達到56級以上時，可以從密爾瓦內斯禮拜堂的菈菈伊那裡領取下一個黑魔法師任務。"
 7,"TEXT_JOBBLM540_01680_SEQ_07",""
@@ -51,21 +51,21 @@ int32,str,str
 45,"TEXT_JOBBLM540_01680_TODO_21",""
 46,"TEXT_JOBBLM540_01680_TODO_22",""
 47,"TEXT_JOBBLM540_01680_TODO_23",""
-48,"TEXT_JOBBLM540_01680_LALAI_000_000","黑魔法師 <Highlight>ObjectParameter(1)</Highlight> ！
+48,"TEXT_JOBBLM540_01680_LALAI_000_000","黑魔法師<Highlight>ObjectParameter(1)</Highlight>！
 知道嗎，那個第269團的募緣修士韃札，
-竟然透過郵差莫古利給我寄來了一封信！"
+竟然通過郵差莫古力給我寄來了一封信！"
 49,"TEXT_JOBBLM540_01680_LALAI_000_001","地靈族竟然會寄信過來，真是出乎意料……
 也就是說，一定是發生了什麼事情！"
-50,"TEXT_JOBBLM540_01680_LALAI_000_002","總之也把這封信的事情告訴一下扎伊．阿．尼爾哈好了。
+50,"TEXT_JOBBLM540_01680_LALAI_000_002","總之也把這封信的事情告訴一下扎伊·阿·尼爾哈好了。
 雖說我不覺得那個光說不練的傢伙能頂什麼用……
 不過他要是再嚷嚷起來，我可受不了。"
 51,"TEXT_JOBBLM540_01680_LALAI_000_003","韃札在信上說他人現在在石綠湖。
 就拜託你趕快出發去看看情況吧！"
-52,"TEXT_JOBBLM540_01680_LALAI_000_004","我去把這封信的事情告訴扎伊．阿．尼爾哈。
+52,"TEXT_JOBBLM540_01680_LALAI_000_004","我去把這封信的事情告訴扎伊·阿·尼爾哈。
 就拜託你趕快出發去石綠湖看看情況吧！"
-53,"TEXT_JOBBLM540_01680_DAZA_000_010","喲 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 好久不見啦！
+53,"TEXT_JOBBLM540_01680_DAZA_000_010","喲 <Highlight>ObjectParameter(1)</Highlight> 好久不見啦！
 看你 這麼有精神 我就 放心了！"
-54,"TEXT_JOBBLM540_01680_DAZA_000_011","我已經從 卡扎古．春 那裡 聽說了。
+54,"TEXT_JOBBLM540_01680_DAZA_000_011","我已經從 卡扎古·春 那裡 聽說了。
 好像 發生了什麼 大事呢。"
 55,"TEXT_JOBBLM540_01680_DAZA_000_012","那些傢伙 也來 我這裡了！
 說他們 是什麼 「叛逆法師」
@@ -96,11 +96,11 @@ int32,str,str
 這話可真是有趣……
 放心好了，你的對手是他們。"
 67,"TEXT_JOBBLM540_01680_WALDEVE_000_029","搶到記錄後，就殺了他。"
-68,"TEXT_JOBBLM540_01680_DAZA_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 好厲害喲！
+68,"TEXT_JOBBLM540_01680_DAZA_000_040","<Highlight>ObjectParameter(1)</Highlight> 好厲害喲！
 一眨眼的 工夫 就把他們 全部 打倒了！"
 69,"TEXT_JOBBLM540_01680_DAZA_000_041","可惜讓 沃爾迪夫 逃跑了……
 看來得 想想 其他辦法 引他出現 才行……"
-70,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_042"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你在這裡啊！
+70,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_042","<Highlight>ObjectParameter(1)</Highlight>，你在這裡啊！
 我一收到菈菈伊的聯繫，就趕緊過來了。
 看起來你們都平安無事。"
 71,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_043","這、這些人是……
@@ -109,16 +109,16 @@ int32,str,str
 你把他們都殺了嗎？！"
 73,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_045","果然，就像我擔心的那樣……
 毫無節制地濫用破壞之力，就會招致這樣的結果！"
-74,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_046"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，跟我回菈菈伊那裡去！
+74,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_046","<Highlight>ObjectParameter(1)</Highlight>，跟我回菈菈伊那裡去！
 這次你所做的事情，絕對無法原諒！"
-75,"TEXT_JOBBLM540_01680_DAZA_000_047"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 明明 抑制了 力量呀？
+75,"TEXT_JOBBLM540_01680_DAZA_000_047","<Highlight>ObjectParameter(1)</Highlight> 明明 抑制了 力量呀？
 那些 魔法師 之所以 會死
-真的是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的錯嗎？"
+真的是 <Highlight>ObjectParameter(1)</Highlight> 的錯嗎？"
 76,"TEXT_JOBBLM540_01680_DAZA_000_048","雖然 我 不明白真相……
-但多虧 有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在
+但多虧 有<Highlight>ObjectParameter(1)</Highlight>在
 我才能 平安無事 對嗎？"
 77,"TEXT_JOBBLM540_01680_DAZA_000_049","所以 我還是 要道謝。
-謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+謝謝你 <Highlight>ObjectParameter(1)</Highlight>。"
 78,"TEXT_JOBBLM540_01680_DAZA_000_050","總之 先回 烏爾達哈 去吧！
 放任 不管的話 那個 貓魅族
 肯定會 和菈菈伊 吵起來的。"
@@ -126,14 +126,14 @@ int32,str,str
 放任 不管的話 那個 貓魅族
 肯定會 和菈菈伊 吵起來的。"
 80,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_060","……來了嗎。"
-81,"TEXT_JOBBLM540_01680_LALAI_000_070","…… <Highlight>ObjectParameter(1)</Highlight> 啊。
+81,"TEXT_JOBBLM540_01680_LALAI_000_070","……<Highlight>ObjectParameter(1)</Highlight>啊。
 關於那邊那個繃著臉一直不肯吭聲的男人，
 能拜託你說一下他受了什麼刺激嗎？"
 82,"TEXT_JOBBLM540_01680_LALAI_000_071","這樣啊，敵人果然是黑魔法師嗎……
 想必是習得了«札爾之書»上所記述的黑魔法吧。"
 83,"TEXT_JOBBLM540_01680_LALAI_000_072","但是，那些叛逆法師成員的死，
-真的是 <Highlight>ObjectParameter(1)</Highlight> 所造成的嗎……"
-84,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_073","我可不想聽這些藉口！
+真的是<Highlight>ObjectParameter(1)</Highlight>所造成的嗎……"
+84,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_073","我可不想聽這些借口！
 我應該早就說過，不要妨礙我。"
 85,"TEXT_JOBBLM540_01680_ZHAIANELHAH_000_074","現在結果擺在眼前，你們總算該明白了吧。
 如果破壞之力互相衝突的話，
@@ -145,13 +145,13 @@ int32,str,str
 88,"TEXT_JOBBLM540_01680_LALAI_000_077","魔大戰……是指黑魔法的「破壞之力」，
 與白魔法的「治癒之力」等古代魔法相互對抗的一場可怕戰爭。
 在其衝擊之下，世間的法則與秩序都被擾亂……"
-89,"TEXT_JOBBLM540_01680_LALAI_000_078","這場遠古戰爭甚至被認為是第六靈災的導火線。
-那麼隸屬於幻術師公會的扎伊．阿．尼爾哈，
+89,"TEXT_JOBBLM540_01680_LALAI_000_078","這場遠古戰爭甚至被認為是第六靈災的導火索。
+那麼隸屬於幻術師公會的扎伊·阿·尼爾哈，
 會對其心存畏懼，倒也可以理解……"
-90,"TEXT_JOBBLM540_01680_LALAI_000_079","但是， <Highlight>ObjectParameter(1)</Highlight> 啊！
+90,"TEXT_JOBBLM540_01680_LALAI_000_079","但是，<Highlight>ObjectParameter(1)</Highlight>啊！
 我相信你並不是會犯下這等愚行的人！"
 91,"TEXT_JOBBLM540_01680_LALAI_000_080","令人憎惡的並不是黑魔法，而是叛逆法師！
-你該側耳傾聽的也不是扎伊．阿．尼爾哈的話，
+你該側耳傾聽的也不是扎伊·阿·尼爾哈的話，
 而是當時在現場袒護你的韃札所說的信賴之言！"
 92,"TEXT_JOBBLM540_01680_LALAI_000_081","由於力量失控而殺死敵人……
 我不認為身經百戰的你會出現這種失誤。

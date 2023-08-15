@@ -2,9 +2,9 @@
 #,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Talk[0],Talk[1],Talk[2],Talk[3],Talk[4],Talk[5],Talk[6],Talk[7]
 int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,int32,int32,int32,int32,int32,str,str,str,str,str,str,str,str
 0,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0","0","0","0","0","0","0","0"
-1,False,False,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,"向您問好，冒險者。要接受公會理符任務嗎？","很抱歉，我還不能提供公會理符任務給您這樣初出茅廬的冒險者。","您所接任務意義重大，願大地母神見證您的成功。","預備","有報酬！","還沒有加入任一大國防聯軍。","大國防聯軍階級尚未達到。","獲得賞金。"
+1,False,False,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,"向您問好，冒險者。要接受公會理符任務嗎？","很抱歉，我還不能提供公會理符任務給您這樣初出茅廬的冒險者。","您所接任務意義重大，願大地母神見證您的成功。","0","0","0","0","0"
 2,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡是公會理符受領處。
-一定可以為您找到一份適合的工作。","這裡是公會理符受領處。
+一定可以為您找到一份合適的工作。","這裡是公會理符受領處。
 冒險者公會的成員們都會到這裡來領取公會理符任務。
 <Unknown17/>如果您能在冒險者公會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
 我就可以給您介紹任務了。","那麼這個任務就拜託您了。","這裡是公會理符受領處。
@@ -52,7 +52,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 真是太了不起了。
 當然，你獲得的報酬也會有所追加。"
 6,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者們發行公會理符，
-任務內容基本是利姆薩．羅敏薩市民及周圍居民的一些委託。","你要是想找工作的話那就來對了。
+任務內容基本是利姆薩·羅敏薩市民及周圍居民的一些委託。","你要是想找工作的話那就來對了。
 這裡會為有實力的冒險者發行公會理符。
 <Unknown17/>不過得有冒險者公會的負責人<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
 這樣就可以為你提供各種各樣的工作了。","很好，祝你好運！","你要是想找工作的話那就來對了。
@@ -79,12 +79,12 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 ","喲，這位同志！
 這裡會為有實力的冒險者發行公會理符任務。
 <Unknown17/>不過你的實力得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的認可才行，
-不然可沒辦法交給你任務啊。","那就拜託給你了！","喲，這位同志！
+不然可沒法交給你任務啊。","那就拜託給你了！","喲，這位同志！
 這裡會為有實力的冒險者發行公會理符任務。
 <Unknown17/>不過你得有能力輕鬆打倒這附近的魔物才行，
-不然可沒辦法交給你任務啊。","很好很好，看來你完成任務了啊。
+不然可沒法交給你任務啊。","很好很好，看來你完成任務了啊。
 這下子委託人也能心滿意足了。
-久等了，這是你的報酬。","0","0","你連懸賞魔物都打倒了啊？蠻有本事的啊！
+久等了，這是你的報酬。","0","0","你連懸賞魔物都打倒了啊？挺有本事的啊！
 再多追加些報酬給你！恭喜你了！"
 9,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡會將枯骨一帶的委託作為公會理符發行。","你是冒險者公會的同志吧？
 這裡會為有一定經驗的冒險者發行公會理符任務。
@@ -130,7 +130,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 不過你看上去好像只是個剛出道的冒險者吧。
 <Unknown17/>想接公會理符任務，要先得到<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
 有了<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹，我們才能放心地將任務託付給你們。","看你的樣子，事情應該辦得不錯吧。
-看來你也蠻有兩下子的。
+看來你也挺有兩下子的。
 給，這是你的報酬，收下吧！","0","0","你也相當不簡單嘛，竟然把懸賞魔物消滅掉了。
 來，這是有加成的報酬，收下吧！"
 13,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行公會理符，
@@ -153,7 +153,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 讓你久等了，來，這是你的報酬。
 這可是委託人對你表示的感謝。","0","0","什麼？你把通緝中的懸賞魔物也打倒了？
 那麼得多給你些報酬才行了。"
-15,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我在這裡負責將阿德內爾占星臺附近的委託
+15,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我在這裡負責將阿德內爾占星台附近的委託
 作為公會理符發放給冒險者。","你看樣子是在找事做啊……
 沒錯，我是發行公會理符的人。
 
@@ -203,7 +203,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 我會給你準備好報酬的。","我的工作是將藍霧營地周邊的委託作為公會理符發放給冒險者。
 不過，你經驗上還是稍有欠缺。
 等你有能力輕鬆搞定這附近的魔物之後，我再把工作交給你。","這次任務取得成功……
-我也記錄下來了向冒險者公會提出的資料。
+我也記錄下來了向冒險者公會提出的數據。
 來，這是你的報酬。","0","0","這次的任務取得了大成功……
 不僅完成了任務，還打倒了懸賞魔物。
 按照公會規定，要支付給你額外的獎勵。"
@@ -254,7 +254,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 辛苦了……委託人一定也會很感激你的。
 來，這是你的報酬，收下吧。","0","0","原來如此，你在執行任務時還討伐了懸賞魔物啊。
 好，那報酬也要多給你一些才行。"
-23,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我叫克．蕾塔伊，被冒險者公會派遣到這裡發行公會理符。","哦，你是在找事做嗎？
+23,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我叫克·蕾塔伊，被冒險者公會派遣到這裡發行公會理符。","哦，你是在找事做嗎？
 那你可找對人了。
 我可是公會理符的發行人。
 不過，目前還不能交給你理符任務。
@@ -266,76 +266,76 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 等你有能力把這附近的魔物輕鬆打倒之後再來吧。","你回來了。
 你的表現一定會讓委託人感到滿意的。
 那麼，就請你收下這些報酬吧。","0","0","另外，你不僅完成了任務，還打倒了懸賞魔物！
-那報酬一定要多給你一些了。"
+那報酬必須要多給你一些了。"
 24,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"本人是黑渦團正漩士尤金。
 負責發行軍隊理符。","如果有執行過公會理符經驗的人，
 我倒可以把手中的任務派給他……
-但一定要向黑渦軍令部申請派兵！"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","如果有執行過公會理符經驗的人，
+但必須要向黑渦軍令部申請派兵！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","如果有執行過公會理符經驗的人，
 我倒可以把手中的任務派給他……
-但一定要向黑渦軍令部申請派兵！","確認任務已完成！
-按照規定，支付 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","本人是軍隊理符任務發行人。
+但必須要向黑渦軍令部申請派兵！","確認任務已完成！
+按照規定，支付<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","本人是軍隊理符任務發行人。
 請你在加入任意大國防聯軍之後再來。","0","0"
-25,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"本人是黑渦團正漩士卡．拉芙敏。
+25,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"本人是黑渦團正漩士卡·拉芙敏。
 負責發行軍隊理符。","如果有執行過公會理符經驗的人，
 我倒可以把手中的任務派給他……
-但一定要向黑渦軍令部申請派兵！"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","如果有執行過公會理符經驗的人，
+但必須要向黑渦軍令部申請派兵！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","如果有執行過公會理符經驗的人，
 我倒可以把手中的任務派給他……
-但一定要向黑渦軍令部申請派兵！","確認任務已完成！
-按照規定，支付 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","本人是軍隊理符任務發行人。
+但必須要向黑渦軍令部申請派兵！","確認任務已完成！
+按照規定，支付<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","本人是軍隊理符任務發行人。
 請你在加入任意大國防聯軍之後再來。","雖然可以將此任務交給有相應實力的人去做……
 但軍銜至少要在士官以上……","0"
 26,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"在下隸屬於雙蛇黨黃蛇隊。
 負責在此管理軍隊理符。","如果有執行過公會理符經驗的人，
 我倒可以把任務派給他……
-但一定要向蛇巢司令部申請增員！"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你……","如果有執行過公會理符經驗的人，
+但必須要向蛇巢司令部申請增員！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你……","如果有執行過公會理符經驗的人，
 我倒可以把任務派給他……
-但一定要向蛇巢司令部申請增員！","任務達成，辛苦你了！
-按照規定，支付 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","在下負責在此管理軍隊理符，
+但必須要向蛇巢司令部申請增員！","任務達成，辛苦你了！
+按照規定，支付<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","在下負責在此管理軍隊理符，
 向任意大國防聯軍成員發布特殊任務。","0","0"
 27,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"在下隸屬於雙蛇黨黃蛇隊。
 負責在此管理軍隊理符。","如果有執行過公會理符經驗的人，
 我倒可以把任務派給他……
-但一定要向蛇巢司令部申請增員！"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你……","如果有執行過公會理符經驗的人，
+但必須要向蛇巢司令部申請增員！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你……","如果有執行過公會理符經驗的人，
 我倒可以把任務派給他……
-但一定要向蛇巢司令部申請增員！","任務達成，辛苦你了！
-按照規定，支付 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","在下負責在此管理軍隊理符，
+但必須要向蛇巢司令部申請增員！","任務達成，辛苦你了！
+按照規定，支付<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","在下負責在此管理軍隊理符，
 向任意大國防聯軍成員發布特殊任務。","雖然可以將此任務交給有相應實力的人去做……
 但軍銜至少要在士官以上……","0"
 28,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是恆輝隊的琪琪麗正耀士！
 在此發行軍隊理符任務！","有執行過公會理符任務的經驗是很好……
-不過需要和恆輝作戰總部取得交涉才行。"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過公會理符任務的經驗是很好……
+不過需要和恆輝作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過公會理符任務的經驗是很好……
 不過需要和恆輝作戰總部取得交涉才行。","確認任務已完成！
 按照規定，支付你相應軍票！","我在此發行恆輝隊的軍隊理符！
 請你在加入任意大國防聯軍之後再來領取任務！","0","0"
-29,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是恆輝隊的布露．海靈正耀士！
+29,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是恆輝隊的布露·海靈正耀士！
 在此發行軍隊理符任務！","有執行過公會理符任務的經驗是很好……
-不過需要和恆輝作戰總部取得交涉才行。"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過公會理符任務的經驗是很好……
+不過需要和恆輝作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過公會理符任務的經驗是很好……
 不過需要和恆輝作戰總部取得交涉才行。","確認任務已完成！
 按照規定，支付你相應軍票！","我在此發行恆輝隊的軍隊理符！
 請你在加入任意大國防聯軍之後再來領取任務！","能勝任此任務是很好……
 不過軍銜至少要在士官以上才可以領取……","0"
 30,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"在下隸屬於雙蛇黨黃蛇隊。
-基於與伊修加爾德簽訂的協議，
-負責在此占星臺發行軍隊理符。","在下管理的任務都十分棘手……
-所以至少要是執行過公會理符的人才能領取……"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你！","在下管理的任務都十分棘手……
-所以一定要由有相應實力的兵將來完成。","確認任務完成，現在將 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>的任務解除。
+基於與伊修加德簽訂的協議，
+負責在此占星台發行軍隊理符。","在下管理的任務都十分棘手……
+所以至少要是執行過公會理符的人才能領取……","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你！","在下管理的任務都十分棘手……
+所以必須要由有相應實力的兵將來完成。","確認任務完成，現在將<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>的任務解除。
 辛苦你了，這是支付給你的軍票。","在下隸屬於雙蛇黨黃蛇隊。
 向各國大國防聯軍成員發放特殊任務。","在下管理的任務都十分棘手……
 所以軍銜至少要在士官以上才可以領取……","0"
 31,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是雙蛇黨黃蛇隊的洛蒂耶牙士長。
-基於與伊修加爾德簽訂的協議，
+基於與伊修加德簽訂的協議，
 在庫爾札斯發行軍隊理符。","白雲崖前哨一帶的任務大多比想像中要棘手。
-所以至少要是執行過公會理符的人才能領取……"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你！","白雲崖前哨一帶的任務大多比想像中要棘手。
-所以一定要由有相應實力的兵將來完成。","確認任務完成。
-辛苦你了， <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>。
+所以至少要是執行過公會理符的人才能領取……","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願諾菲卡女神保佑你！","白雲崖前哨一帶的任務大多比想像中要棘手。
+所以必須要由有相應實力的兵將來完成。","確認任務完成。
+辛苦你了，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>。
 按照規定，支付給你相應的軍票。","你是冒險者吧？
 你需要加入任意大國防聯軍後，
 才能領取我們所管理的任務。","白雲崖前哨一帶的任務大多比想像中要棘手。
 所以軍銜至少要在士官以上才可以領取……","0"
 32,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是隸屬於恆輝隊的艾伊德哈特耀士長！
 負責管理摩杜納地區的軍隊理符！","摩杜納地區的任務都比較棘手！
-必須是有公會理符執行經驗的人才能領取！"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","摩杜納地區的任務都比較棘手！
-沒有實力的人會必死無疑！","確認 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>已返回！
+必須是有公會理符執行經驗的人才能領取！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","摩杜納地區的任務都比較棘手！
+沒有實力的人會必死無疑！","確認<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>已返回！
 按照規定，支付給你相應軍票！
 辛苦你了！","在下負責發行軍隊理符！
 加入任意大國防聯軍後才可領取任務！","摩杜納地區的任務都比較棘手！
@@ -357,8 +357,8 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 給你，這是報酬！","0","0","0"
 36,False,False,False,False,False,2,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"一般那些委託給拾穗人總會的工作，
 我們都會以理符的形式發布出去，介紹給登記在冊工匠會員處理。
-你怎麼樣，有看中適合的任務嗎？","工作越堆越多。
+你怎麼樣，有看中合適的任務嗎？","工作越堆越多。
 要是能多幾個願意加入我們會員的工匠就好了……","你好呀，工作做的怎麼樣了？
-搞定了之後可別忘了去旁邊交貨啊。","工作越堆越多。
+搞定了之後可別忘了去邊上交貨啊。","工作越堆越多。
 要是能多幾個願意加入我們會員的工匠就好了……","你好呀，工作都完成啦！
 久等了，這些是給你的報酬，快收下吧！","0","0","0"

@@ -9,7 +9,7 @@ int32,str,str
 就可以和想要過招的冒險者一決勝負。"
 2,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_006","牢記我接下來要說的話，
 在和形形色色的對手交手的過程中，積累對戰經驗吧！"
-3,"TEXT_REGSEAPVPDUELGUIDE_00368_Q1_000_000","想瞭解什麼？"
+3,"TEXT_REGSEAPVPDUELGUIDE_00368_Q1_000_000","想了解什麼？"
 4,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_001","什麼是個人練習場"
 5,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_002","關於受限行為"
 6,"TEXT_REGSEAPVPDUELGUIDE_00368_A1_000_003","關於對戰申請"
@@ -50,7 +50,7 @@ int32,str,str
 24,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_041","如果對手陷入無法戰鬥狀態，則戰鬥勝利。
 但是，如果在對戰中途退出個人練習場的話會被視為敗北，
 留在練習場的一方為勝利。"
-25,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_042","除了透過移動的方式離開個人練習場之外，
-透過任務搜尋器或大型任務搜尋器離開個人練習場也會被視為敗北。"
+25,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_042","除了通過移動的方式離開個人練習場之外，
+通過任務搜尋器或大型任務搜尋器離開個人練習場也會被視為敗北。"
 26,"TEXT_REGSEAPVPDUELGUIDE_00368_DUELOFFICER_000_050","（★未使用／削除予定★）"
 27,"TEXT_REGSEAPVPDUELGUIDE_00368_SYSTEM_000_051","（★未使用／削除予定★）"

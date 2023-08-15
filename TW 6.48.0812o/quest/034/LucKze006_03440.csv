@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_LUCKZE006_03440_SEQ_21",""
 22,"TEXT_LUCKZE006_03440_SEQ_22",""
 23,"TEXT_LUCKZE006_03440_SEQ_23",""
-24,"TEXT_LUCKZE006_03440_TODO_00","在指定地點獲得<Sheet(EventItem,2002520,0)/>"
+24,"TEXT_LUCKZE006_03440_TODO_00","在指定地點獲取<Sheet(EventItem,2002520,0)/>"
 25,"TEXT_LUCKZE006_03440_TODO_01","將<Sheet(EventItem,2002520,0)/>交給哈維妮"
 26,"TEXT_LUCKZE006_03440_TODO_02",""
 27,"TEXT_LUCKZE006_03440_TODO_03",""
@@ -65,7 +65,7 @@ int32,str,str
 那附近據說有獨行食罪靈出沒。"
 53,"TEXT_LUCKZE006_03440_HARVENE_000_006","我不會使用武器，所以自己去不成……
 你要是肯去那就幫了大忙了！"
-54,"TEXT_LUCKZE006_03440_HARVENE_000_010","我想讓你從包裹胎果的大樹樹幹上採集<Sheet(EventItem,2002520,0)/>回來。
+54,"TEXT_LUCKZE006_03440_HARVENE_000_010","我想讓你從包裹胎果的大樹樹幹上採取<Sheet(EventItem,2002520,0)/>回來。
 從數量上來說，只要不傷及樹木本身就可以了。"
 55,"TEXT_LUCKZE006_03440_HARVENE_000_030","你平安拿回<Sheet(EventItem,2002520,0)/>了嗎？"
 56,"TEXT_LUCKZE006_03440_HARVENE_000_031","謝謝你，很完美！

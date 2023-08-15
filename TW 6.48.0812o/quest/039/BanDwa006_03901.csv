@@ -8,7 +8,7 @@ int32,str,str
 
 羅尼圖已經品味到了自己與同伴的努力正在開花結果的這份喜悅。為了參加慶功宴，和清融街的蘿拉希雅談談。"
 2,"TEXT_BANDWA006_03901_SEQ_02","在這小小的慶功宴上，眾人享受到了用矮人戰車從各地運來的美食。雷吉圖和卡魯圖再次向冒險者表達了感謝。接下來，和清融街的尤麗絲談談。"
-3,"TEXT_BANDWA006_03901_SEQ_03","尤麗絲和塞．琉柯由衷地感謝冒險者。遭遇過獨行食罪靈襲擊的工匠村如今也要正式開始重建了。接下來，和清融街的奧佐古談談。"
+3,"TEXT_BANDWA006_03901_SEQ_03","尤麗絲和塞·琉柯由衷地感謝冒險者。遭遇過獨行食罪靈襲擊的工匠村如今也要正式開始重建了。接下來，和清融街的奧佐古談談。"
 4,"TEXT_BANDWA006_03901_SEQ_04","奧佐古幹勁十足，下定決心要好好磨練自己的手藝。蘿拉希雅也十分期待矮人戰車能大有作為。回到沃茨之錘和羅尼圖談談。"
 5,"TEXT_BANDWA006_03901_SEQ_05","以羅尼圖為首的矮人族們已經邁出了一大步，他們今後也會繼續活躍在諾弗蘭特各地。作為他們的同伴，別忘了經常到沃茨之錘看看。屆時，性格開朗、悠然自得的矮人族們一定會張開他們熱情的懷抱。"
 6,"TEXT_BANDWA006_03901_SEQ_06",""
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANDWA006_03901_TODO_21",""
 46,"TEXT_BANDWA006_03901_TODO_22",""
 47,"TEXT_BANDWA006_03901_TODO_23",""
-48,"TEXT_BANDWA006_03901_RONITT_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！等你好久啦！"
+48,"TEXT_BANDWA006_03901_RONITT_000_000","<Highlight>ObjectParameter(1)</Highlight>！等你好久啦！"
 49,"TEXT_BANDWA006_03901_RONITT_000_001","嘿嘿，啦哩吼！"
 50,"TEXT_BANDWA006_03901_Q1_000_000","要說什麼？"
 51,"TEXT_BANDWA006_03901_A1_000_001","啦哩吼！"
@@ -85,7 +85,7 @@ int32,str,str
 63,"TEXT_BANDWA006_03901_RONITT_000_011","（★未使用／削除予定★）"
 64,"TEXT_BANDWA006_03901_LORATHIA_000_020","哎呀，你來得好早啊。
 稍等一下吧，我正在做準備。"
-65,"TEXT_BANDWA006_03901_RONITT_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！很高興你能來！"
+65,"TEXT_BANDWA006_03901_RONITT_000_100","<Highlight>ObjectParameter(1)</Highlight>！很高興你能來！"
 66,"TEXT_BANDWA006_03901_RONITT_000_101","你快看！
 這是從諾弗蘭特各地收集的「三大美食」！
 還有尤麗絲在工匠村做的工匠麥酒！"
@@ -95,7 +95,7 @@ int32,str,str
 70,"TEXT_BANDWA006_03901_LORATHIA_000_105","這世上的威脅並沒有徹底消失。
 你們製造的矮人戰車的確能為諾弗蘭特的和平做出貢獻。"
 71,"TEXT_BANDWA006_03901_LORATHIA_000_106","真是了不起啊！"
-72,"TEXT_BANDWA006_03901_EUELISS_000_107"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你還記得我們的約定嗎？"
+72,"TEXT_BANDWA006_03901_EUELISS_000_107","<Highlight>ObjectParameter(1)</Highlight>，你還記得我們的約定嗎？"
 73,"TEXT_BANDWA006_03901_EUELISS_000_108","等能用工匠村的麥子做出最好的小麥酒時，
 我們就一起乾杯……
 你是拯救了村子的人，所以我一定要先給你展示一下！"
@@ -119,19 +119,19 @@ int32,str,str
 但眾人依舊沉浸在慶功宴那無比熱鬧歡快的餘韻之中"
 82,"TEXT_BANDWA006_03901_REGITT_000_120","啦哩吼！
 嗝……你吃好了嗎啦哩？"
-83,"TEXT_BANDWA006_03901_KARUTT_000_121"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+83,"TEXT_BANDWA006_03901_KARUTT_000_121","<Highlight>ObjectParameter(1)</Highlight>！
 其實我、我對你……一直都……"
 84,"TEXT_BANDWA006_03901_KARUTT_000_122","呼呼……"
 85,"TEXT_BANDWA006_03901_REGITT_000_123","喂！
 快起來，卡魯圖！
 在這裡睡著的話會被大哥布林抓走啦哩！"
 86,"TEXT_BANDWA006_03901_REGITT_000_124","嗝……話說回來……
-託你的福，羅尼圖變得可靠多了啦哩。
+托你的福，羅尼圖變得可靠多了啦哩。
 成了我們的頭頭了！"
 87,"TEXT_BANDWA006_03901_KARUTT_000_125","嗯嗯！
 一開始他連招呼都不敢打，總是畏畏縮縮的……
 可現在，大家都很喜歡笨拙但努力的羅尼圖呢！"
-88,"TEXT_BANDWA006_03901_REGITT_000_126"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+88,"TEXT_BANDWA006_03901_REGITT_000_126","<Highlight>ObjectParameter(1)</Highlight>！
 我們要好好謝謝你才行，
 沒有你的話，我們是走不到今天這一步的啦哩！"
 89,"TEXT_BANDWA006_03901_KARUTT_000_127","謝謝你和羅尼圖做朋友，
@@ -139,9 +139,9 @@ int32,str,str
 90,"TEXT_BANDWA006_03901_REGITT_000_128","既然同為沃茨之錘的一員，
 今後我們也要互相多關照啦哩！"
 91,"TEXT_BANDWA006_03901_KARUTT_000_129","嗝……那我們就先回沃茨之錘了！
-回頭見， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-92,"TEXT_BANDWA006_03901_REGITT_000_130","回去之前，去跟尤麗絲和塞．琉柯也聊聊吧！"
-93,"TEXT_BANDWA006_03901_EUELISS_000_140"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+回頭見，<Highlight>ObjectParameter(1)</Highlight>！"
+92,"TEXT_BANDWA006_03901_REGITT_000_130","回去之前，去跟尤麗絲和塞·琉柯也聊聊吧！"
+93,"TEXT_BANDWA006_03901_EUELISS_000_140","<Highlight>ObjectParameter(1)</Highlight>！"
 94,"TEXT_BANDWA006_03901_SAILEWQ_000_141","我和尤麗絲正好說到你了！
 沒想到我們兩個今天也能被邀請，真是太謝謝你們了。"
 95,"TEXT_BANDWA006_03901_SAILEWQ_000_142","你喝不喝酒來著？
@@ -162,14 +162,14 @@ int32,str,str
 103,"TEXT_BANDWA006_03901_EUELISS_000_146","叔、叔叔！真是的……
 說清楚固然很好，但你也太直白了！"
 104,"TEXT_BANDWA006_03901_EUELISS_000_147","嗯……我一直都在想怎麼報答你，
-所以很高興前幾個日子能幫上你的忙。
+所以很高興前些日子能幫上你的忙。
 在今天這個特殊的日子裡能和大家一起碰杯，也讓我倍感自豪！"
 105,"TEXT_BANDWA006_03901_SAILEWQ_000_148","我也是。
 如果那時候你沒有向我們伸出援手，
 真不敢想像我們現在會變成什麼樣。"
 106,"TEXT_BANDWA006_03901_EUELISS_000_149","我能夠一點一點地接近父親的夢想，
 都是你和羅尼圖的功勞！
-總有一天，我會讓工匠村變回光之氾濫發生之前的樣子。"
+總有一天，我會讓工匠村變回光之泛濫發生之前的樣子。"
 107,"TEXT_BANDWA006_03901_SAILEWQ_000_150","是啊，工匠村是工匠們的村子。
 我們今後也要向你們學習，
 得好好考慮一下能為這個世界做點什麼了。"
@@ -182,10 +182,10 @@ int32,str,str
 111,"TEXT_BANDWA006_03901_SAILEWQ_000_154","我和尤麗絲正好說到你了！"
 112,"TEXT_BANDWA006_03901_OZOGG_000_155","太爽了！"
 113,"TEXT_BANDWA006_03901_RONITT_000_156","我才不是小朋友！"
-114,"TEXT_BANDWA006_03901_OZOGG_000_160","哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+114,"TEXT_BANDWA006_03901_OZOGG_000_160","哦，<Highlight>ObjectParameter(1)</Highlight>！
 好好享受慶功宴了沒？"
 115,"TEXT_BANDWA006_03901_LORATHIA_000_161","你們幾個，幹得真不錯！
-那個白色的蚯蚓是從安穆．艾蘭送來的吧？
+那個白色的蚯蚓是從安穆·艾蘭送來的吧？
 雖然看著怪噁心的，但味道卻相當高雅呢！"
 116,"TEXT_BANDWA006_03901_RONITT_100_162","是啊，那個很好吃呢！"
 117,"TEXT_BANDWA006_03901_OZOGG_000_162","嘔……不是吧……"
@@ -202,7 +202,7 @@ int32,str,str
 說不定就會在散步之餘順便幫你們搞搞焊接什麼的。"
 123,"TEXT_BANDWA006_03901_OZOGG_000_167","啊……
 那啥，又要說一次真是讓人怪害羞的……"
-124,"TEXT_BANDWA006_03901_OZOGG_000_168"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，是你讓我下定決心
+124,"TEXT_BANDWA006_03901_OZOGG_000_168","<Highlight>ObjectParameter(1)</Highlight>，是你讓我下定決心
 去追求幾乎已經放棄了的夢想。"
 125,"TEXT_BANDWA006_03901_OZOGG_000_169","你努力磨練的異國技術，
 在機緣巧合之下和我們的技術相互融合，
@@ -229,13 +229,13 @@ int32,str,str
 逗羅尼圖玩真是太有意思了！
 看來賭上沃茨的錘子的決鬥我贏定了！"
 139,"TEXT_BANDWA006_03901_OZOGG_000_183","正好慶功宴也差不多結束了，
-一起回去吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+一起回去吧，<Highlight>ObjectParameter(1)</Highlight>！
 回到我們的沃茨之錘！"
 140,"TEXT_BANDWA006_03901_LORATHIA_000_184","你們這些年輕人也是讓我久違地激動了一把呢。"
 141,"TEXT_BANDWA006_03901_LORATHIA_000_185","現在正是諾弗蘭特各地重新崛起之時。
 矮人戰車的用處肯定比我們想的更大、更多。
 所以你們可別鬆勁啊！"
-142,"TEXT_BANDWA006_03901_LORATHIA_000_186","以後就用矮人戰車把安穆．艾蘭的美食送過來好了。"
+142,"TEXT_BANDWA006_03901_LORATHIA_000_186","以後就用矮人戰車把安穆·艾蘭的美食送過來好了。"
 143,"TEXT_BANDWA006_03901_EUELISS_000_187","我們今後也會更加努力地讓工匠村復興的！"
 144,"TEXT_BANDWA006_03901_SAILEWQ_000_188","我過世的妻子和好友肯定也在天上看到了這幅光景吧。
 ……謝謝你，真的。"
@@ -255,7 +255,7 @@ int32,str,str
 真是的，不要再逗我了！"
 154,"TEXT_BANDWA006_03901_RONITT_000_195","算了……先不說那個了。"
 155,"TEXT_BANDWA006_03901_RONITT_000_196","雖然矮人戰車的事逐漸告一段落了，
-但我一定要再次向你道謝才行。"
+但我必須要再次向你道謝才行。"
 156,"TEXT_BANDWA006_03901_RONITT_000_197","在我受挫的時候，
 你總是在我身邊給予我勇氣。"
 157,"TEXT_BANDWA006_03901_RONITT_000_198","所以，如果某一天你也遭遇了挫折的話，
@@ -268,7 +268,7 @@ int32,str,str
 我想見你都不知道去哪找你才好！"
 160,"TEXT_BANDWA006_03901_RONITT_000_201","嘿嘿！
 到時候我們再一起做點什麼吧！
-真的很感謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+真的很感謝你，<Highlight>ObjectParameter(1)</Highlight>！"
 161,"TEXT_BANDWA006_03901_SYSTEM_000_210","與矮人族「沃茨之錘」之間的關係程度到達了「血誓」，
 作為不可或缺的同伴，冒險者得到了他們發自內心的信任！"
 162,"TEXT_BANDWA006_03901_SYSTEM_000_211","今後，矮人族「沃茨之錘」的友好部族日常任務中

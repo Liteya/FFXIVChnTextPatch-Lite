@@ -64,11 +64,11 @@ int32,str,str
 再和烏蘭對話。"
 57,"TEXT_JOBREL399_02334_SYSTEM_100_004","請先將想要進行重新調整的元靈武器劍與配套的盾裝備上，
 再和烏蘭對話。"
-58,"TEXT_JOBREL399_02334_ULAN_000_000","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+58,"TEXT_JOBREL399_02334_ULAN_000_000","呀，<Highlight>ObjectParameter(1)</Highlight>。
 你想對人造元靈的能力進行調整？"
 59,"TEXT_JOBREL399_02334_ULAN_000_001","好的，我可以幫你。
 不過要想重新調整，需要將人造元靈之前獲得的能力抹消掉。"
-60,"TEXT_JOBREL399_02334_ULAN_000_002","消失的能力需要透過重新餵食<Sheet(Item,15841,0)/>，
+60,"TEXT_JOBREL399_02334_ULAN_000_002","消失的能力需要通過重新餵食<Sheet(Item,15841,0)/>，
 令能力再一次成長起來。"
 61,"TEXT_JOBREL399_02334_ULAN_000_003","不過人造元靈畢竟已經經歷過一次成長，
 所以可以直接攝取經調整前的<Sheet(Item,15841,0)/>。

@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_CLSWDK010_00539_TODO_21",""
 46,"TEXT_CLSWDK010_00539_TODO_22",""
 47,"TEXT_CLSWDK010_00539_TODO_23",""
-48,"TEXT_CLSWDK010_00539_BEATINE_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_CLSWDK010_00539_BEATINE_000_001","<Highlight>ObjectParameter(1)</Highlight>！
 出、出大事了！怎、怎麼辦啊……"
 49,"TEXT_CLSWDK010_00539_BEATINE_000_002","蛇……蛇巢司令部回收了一批在戰場上損壞的武器，
 送到我們這裡來。
@@ -81,7 +81,7 @@ int32,str,str
 62,"TEXT_CLSWDK010_00539_BEATINE_000_026","他或許還活得好好的！
 那麼他肯定需要新的弓！
 嗯，絕對不會錯！"
-63,"TEXT_CLSWDK010_00539_BEATINE_000_027"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+63,"TEXT_CLSWDK010_00539_BEATINE_000_027","<Highlight>ObjectParameter(1)</Highlight>……
 是你讓我領會到了「成長」，
 請你聽聽我的請求……"
 64,"TEXT_CLSWDK010_00539_BEATINE_000_028","請你製作1把<Sheet(ItemHQ,　1942,0)/>，
@@ -94,7 +94,7 @@ int32,str,str
 67,"TEXT_CLSWDK010_00539_GAIRHARD_000_040","不行了……
 鳥人族的部隊已經逼近了。
 要是那把弓還在的話……"
-68,"TEXT_CLSWDK010_00539_GAIRHARD_000_041"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+68,"TEXT_CLSWDK010_00539_GAIRHARD_000_041","<Highlight>ObjectParameter(1)</Highlight>！
 為什麼你會來這裡……這把弓又是？"
 69,"TEXT_CLSWDK010_00539_GAIRHARD_000_042","這、這是……<Sheet(ItemHQ,　1942,0)/>！
 為什麼會……是你做的嗎？"
@@ -107,7 +107,7 @@ int32,str,str
 72,"TEXT_CLSWDK010_00539_GAIRHARD_000_045","我從沒見過這樣的弓……
 這是你……還有貝亞坦給我送來的弓……
 有了這個，我就能……"
-73,"TEXT_CLSWDK010_00539_GAIRHARD_000_046"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你看好了！"
+73,"TEXT_CLSWDK010_00539_GAIRHARD_000_046","<Highlight>ObjectParameter(1)</Highlight>，請你看好了！"
 74,"TEXT_CLSWDK010_00539_GAIRHARD_000_047","喔喔喔！"
 75,"TEXT_CLSWDK010_00539_GAIRHARD_000_050","多虧了你，我們才能勝利。
 十分感謝。
@@ -118,7 +118,7 @@ int32,str,str
 真是太感謝你了……"
 78,"TEXT_CLSWDK010_00539_BEATINE_000_052","在指導你學習刻木匠工作的時候……
 為師發現自己也得到了成長……"
-79,"TEXT_CLSWDK010_00539_BEATINE_000_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……你已經長成一顆挺拔的大樹了。
+79,"TEXT_CLSWDK010_00539_BEATINE_000_053","<Highlight>ObjectParameter(1)</Highlight>……你已經長成一顆挺拔的大樹了。
 我已經沒有什麼可以教你的了……"
 80,"TEXT_CLSWDK010_00539_BEATINE_000_054","不過只要身為刻木匠一天，我們就不能停止進步。
 今後也要繼續磨練本領啊……嘻嘻……"

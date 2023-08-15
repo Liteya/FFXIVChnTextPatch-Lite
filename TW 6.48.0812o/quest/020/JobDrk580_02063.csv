@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_JOBDRK580_02063_SEQ_00","忘憂騎士亭的希德勒格十分氣憤。"
-1,"TEXT_JOBDRK580_02063_SEQ_01","希德勒格建議冒險者去尋找老龍「身居天空彼岸的朋友」。和翻雲霧海莫古利之家的莫古琪談談。"
-2,"TEXT_JOBDRK580_02063_SEQ_02","和莫古琪進行了交談，看到前來會合的希德勒格和莉艾勒，莫古琪理解了暗黑騎士的奧義的含義。遵從莫古琪的指示，從莫古利之家周圍的<Sheet(EObj,2006346,0)/>收集4個<Sheet(EventItem,2001876,0)/>。"
-3,"TEXT_JOBDRK580_02063_SEQ_03","收集了<Sheet(EventItem,2001876,0)/>。將<Sheet(EventItem,2001876,0)/>交給莫古利之家的莫古琪。"
-4,"TEXT_JOBDRK580_02063_SEQ_04","將<Sheet(EventItem,2001876,0)/>交給了莫古琪，接受了新的試煉。在莫古利之家北邊的<Sheet(EObj,2006350,0)/>進行張望，討伐出現的<Sheet(BNpcName,4312,0)/>。"
+1,"TEXT_JOBDRK580_02063_SEQ_01","希德勒格建議冒險者去尋找老龍「身居天空彼岸的朋友」。和翻雲霧海莫古力之家的莫古琪談談。"
+2,"TEXT_JOBDRK580_02063_SEQ_02","和莫古琪進行了交談，看到前來匯合的希德勒格和莉艾勒，莫古琪理解了暗黑騎士的奧義的含義。遵從莫古琪的指示，從莫古力之家周圍的<Sheet(EObj,2006346,0)/>收集4個<Sheet(EventItem,2001876,0)/>。"
+3,"TEXT_JOBDRK580_02063_SEQ_03","收集了<Sheet(EventItem,2001876,0)/>。將<Sheet(EventItem,2001876,0)/>交給莫古力之家的莫古琪。"
+4,"TEXT_JOBDRK580_02063_SEQ_04","將<Sheet(EventItem,2001876,0)/>交給了莫古琪，接受了新的試煉。在莫古力之家北邊的<Sheet(EObj,2006350,0)/>進行張望，討伐出現的<Sheet(BNpcName,4312,0)/>。"
 5,"TEXT_JOBDRK580_02063_SEQ_05","討伐了<Sheet(BNpcName,4312,0)/>。和翻雲霧海贖罪天廊的希德勒格對話。"
-6,"TEXT_JOBDRK580_02063_SEQ_06","正在和希德勒格一起等待之時，遇見了自稱綁架莉艾勒的莫古利們。將其擊敗後，得知拐走莉艾勒只是他們胡說的。從莫古利們的歌中，得知暗黑騎士的奧義是其心中的「愛」。和贖罪天廊的希德勒格對話。"
+6,"TEXT_JOBDRK580_02063_SEQ_06","正在和希德勒格一起等待之時，遇見了自稱綁架莉艾勒的莫古力們。將其擊敗後，得知拐走莉艾勒只是他們胡說的。從莫古力們的歌中，得知暗黑騎士的奧義是其心中的「愛」。和贖罪天廊的希德勒格對話。"
 7,"TEXT_JOBDRK580_02063_SEQ_07","和希德勒格進行了交談，決定返回皇都。和忘憂騎士亭的希德勒格對話。"
 8,"TEXT_JOBDRK580_02063_SEQ_08","和希德勒格進行了交談。據他所說，歷史上第一個暗黑騎士，或許也曾為了愛戰鬥過。為了消化理解愛的意義，備戰決鬥。
 
@@ -27,13 +27,13 @@ int32,str,str
 21,"TEXT_JOBDRK580_02063_SEQ_21",""
 22,"TEXT_JOBDRK580_02063_SEQ_22",""
 23,"TEXT_JOBDRK580_02063_SEQ_23",""
-24,"TEXT_JOBDRK580_02063_TODO_00","和莫古利之家的莫古琪談談"
-25,"TEXT_JOBDRK580_02063_TODO_01","從<Sheet(EObj,2006346,0)/>獲得<Sheet(EventItem,2001876,0)/>"
+24,"TEXT_JOBDRK580_02063_TODO_00","和莫古力之家的莫古琪談談"
+25,"TEXT_JOBDRK580_02063_TODO_01","從<Sheet(EObj,2006346,0)/>獲取<Sheet(EventItem,2001876,0)/>"
 26,"TEXT_JOBDRK580_02063_TODO_02","將<Sheet(EventItem,2001876,0)/>交給莫古琪"
 27,"TEXT_JOBDRK580_02063_TODO_03","在<Sheet(EObj,2006350,0)/>張望 討伐<Sheet(BNpcName,4312,0)/>"
 28,"TEXT_JOBDRK580_02063_TODO_04","和贖罪天廊的希德勒格對話"
 29,"TEXT_JOBDRK580_02063_TODO_05","再次和贖罪天廊的希德勒格對話"
-30,"TEXT_JOBDRK580_02063_TODO_06","和伊修加爾德的希德勒格對話"
+30,"TEXT_JOBDRK580_02063_TODO_06","和伊修加德的希德勒格對話"
 31,"TEXT_JOBDRK580_02063_TODO_07",""
 32,"TEXT_JOBDRK580_02063_TODO_08",""
 33,"TEXT_JOBDRK580_02063_TODO_09",""
@@ -52,15 +52,15 @@ int32,str,str
 46,"TEXT_JOBDRK580_02063_TODO_22",""
 47,"TEXT_JOBDRK580_02063_TODO_23",""
 48,"TEXT_JOBDRK580_02063_SYSTEM_000_900","若要領取或繼續推進本任務，
-需完成「蒼天的伊修加爾德主線任務」中的「雲海莫古利族」。"
-49,"TEXT_JOBDRK580_02063_SIDURGU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……我把我們這陣子調查的結果、
+需完成「蒼穹之禁城主線任務」中的「雲海莫古力族」。"
+49,"TEXT_JOBDRK580_02063_SIDURGU_000_000","<Highlight>ObjectParameter(1)</Highlight>……我把我們這陣子調查的結果、
 莉艾勒的證言和暗中得到的情報串聯起來，
 終於理清了事情的來龍去脈。"
-50,"TEXT_JOBDRK580_02063_SIDURGU_000_001","這傢伙的全名叫做莉艾勒．德．科麗妮恩，
+50,"TEXT_JOBDRK580_02063_SIDURGU_000_001","這傢伙的全名叫做莉艾勒·德·科麗妮恩，
 科麗妮恩家是個聖職者及正教機關大人物輩出的貴族名門，
 而她正是科麗妮恩家的大小姐。"
 51,"TEXT_JOBDRK580_02063_SIDURGU_000_002","她的母親，
-也就是科麗妮恩家的女主人——伊斯特里德．德．科麗妮恩
+也就是科麗妮恩家的女主人——伊斯特里德·德·科麗妮恩
 與一個貴族入贅男人結婚，生下了莉艾勒。"
 52,"TEXT_JOBDRK580_02063_SIDURGU_000_003","而她萬萬沒想到，那個男人暗中是贊同異端者行為的激進派，
 並且曾經喝過龍血……"
@@ -75,11 +75,11 @@ int32,str,str
 56,"TEXT_JOBDRK580_02063_SIDURGU_000_007","不管怎樣，我們只需完成暗黑騎士的使命，
 也就是在決鬥中戰勝伊斯特里德即可。"
 57,"TEXT_JOBDRK580_02063_RIELLE_000_008","不能去決鬥……
-媽媽會……殺了希德勒格和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的。"
+媽媽會……殺了希德勒格和<Highlight>ObjectParameter(1)</Highlight>的。"
 58,"TEXT_JOBDRK580_02063_SIDURGU_000_009","閉嘴，輪不到你來操心。
 我本來就一肚子話要訓你，
 不要再惹我發火。"
-59,"TEXT_JOBDRK580_02063_SIDURGU_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，在決戰之前，我們需要積蓄一些力量。
+59,"TEXT_JOBDRK580_02063_SIDURGU_000_010","<Highlight>ObjectParameter(1)</Highlight>，在決戰之前，我們需要積蓄一些力量。
 你能幫我去找老龍所說的「身居天空彼岸的朋友」嗎？"
 60,"TEXT_JOBDRK580_02063_SIDURGU_000_011","或許他會知道暗黑騎士的奧義，
 這樣我們就能從他那裡得到力量，或者直接學到奧義了。
@@ -87,29 +87,29 @@ int32,str,str
 61,"TEXT_JOBDRK580_02063_SIDURGU_000_020","「身居天空彼岸的朋友」……
 既然是龍族的朋友，
 那應該在龍堡附近搜索比較好吧……"
-62,"TEXT_JOBDRK580_02063_RIELLE_000_025","………………。"
+62,"TEXT_JOBDRK580_02063_RIELLE_000_025","……"
 63,"TEXT_JOBDRK580_02063_MOGGIE_000_030","庫啵啵！
-你找莫古利之家第二博識的莫古琪有什麼事嗎庫啵？"
+你找莫古力之家第二博識的莫古琪有什麼事嗎庫啵？"
 64,"TEXT_JOBDRK580_02063_MOGGIE_000_031","……嗯嗯……庫啵庫啵，雖然暗黑騎士什麼的，
 莫古不太懂，不過有煩惱的話歡迎來找莫古商量庫啵！
 莫古琪老師一定會盡全力幫助你的庫啵！"
 65,"TEXT_JOBDRK580_02063_MOGGIE_000_032","龍族的老奶奶看了你們之後就明白了暗黑騎士的奧義庫啵？
 那你趕快把你的同伴叫到這裡來啊庫啵。"
-66,"TEXT_JOBDRK580_02063_MOGGIE_000_033","歡迎不遠千里來到莫古利之家庫啵！
+66,"TEXT_JOBDRK580_02063_MOGGIE_000_033","歡迎不遠千里來到莫古力之家庫啵！
 大個兒的是希德勒格啵，小個的是莉艾勒啵，對吧庫啵？"
 67,"TEXT_JOBDRK580_02063_SIDURGU_000_034","……啵？
 算了，我就是希德勒格，
-遵循老龍所說，來借助它的朋友的智慧了。"
-68,"TEXT_JOBDRK580_02063_RIELLE_000_035","………………。"
+遵循老龍所說，來藉助它的朋友的智慧了。"
+68,"TEXT_JOBDRK580_02063_RIELLE_000_035","……"
 69,"TEXT_JOBDRK580_02063_SIDURGU_000_036","喂，你倒是答應人家一句啊，
 難道我剛才叫你閉嘴，你就打算一輩子不說話了嗎？"
 70,"TEXT_JOBDRK580_02063_SIDURGU_000_037","莉艾勒，你可以說話了。
 趕快跟他說句話。"
-71,"TEXT_JOBDRK580_02063_RIELLE_000_038","………………。"
+71,"TEXT_JOBDRK580_02063_RIELLE_000_038","……"
 72,"TEXT_JOBDRK580_02063_SIDURGU_000_039","……喂！"
 73,"TEXT_JOBDRK580_02063_RIELLE_000_040","……不要。"
 74,"TEXT_JOBDRK580_02063_RIELLE_000_041","不管我說什麼，
-希德勒格都會生氣， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 都會很困擾……"
+希德勒格都會生氣，<Highlight>ObjectParameter(1)</Highlight>都會很困擾……"
 75,"TEXT_JOBDRK580_02063_RIELLE_000_042","媽媽本來也是很溫柔的人，
 是我害她變成那樣的。
 我不是個好孩子，不值得保護……"
@@ -121,17 +121,17 @@ int32,str,str
 78,"TEXT_JOBDRK580_02063_SIDURGU_000_045","喂，你突然說些什麼啊……"
 79,"TEXT_JOBDRK580_02063_RIELLE_000_046","我這種人，果然不該活在世上……
 最開始的時候被神殿騎士殺死就好了。"
-80,"TEXT_JOBDRK580_02063_RIELLE_000_047","希德勒格還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+80,"TEXT_JOBDRK580_02063_RIELLE_000_047","希德勒格還有<Highlight>ObjectParameter(1)</Highlight>，
 如果想學習暗黑騎士的奧義的話，
 去保護別的孩子不是更好！"
 81,"TEXT_JOBDRK580_02063_SIDURGU_000_048","你！你說什麼！
 我生氣不是因為這個，而是因為你……
 啊！氣死我了！"
-82,"TEXT_JOBDRK580_02063_SIDURGU_000_049","喂！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+82,"TEXT_JOBDRK580_02063_SIDURGU_000_049","喂！<Highlight>ObjectParameter(1)</Highlight>！
 你也說她兩句啊！"
 83,"TEXT_JOBDRK580_02063_MOGGIE_000_050","哈哈，原來如此庫啵……
 莫古明白龍族老奶奶的用意了庫啵。
-暗黑騎士的奧義，一定是「那個」沒錯了庫啵！"
+暗黑騎士的奧義，肯定是「那個」沒錯了庫啵！"
 84,"TEXT_JOBDRK580_02063_MOGGIE_000_051","「那個」東西真的能夠促使負面感情產生庫啵。
 聽說莫古的祖先在歌頌「那個」的時候，
 何止負面感情啊，連亡靈都出來了庫啵……"
@@ -152,7 +152,7 @@ int32,str,str
 這裡人類的追兵是不會來的，
 而且跟那個氣哄哄的男人在一起也一點不開心庫啵。"
 91,"TEXT_JOBDRK580_02063_SIDURGU_000_058","……隨你的便。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們走！"
+<Highlight>ObjectParameter(1)</Highlight>，我們走！"
 92,"TEXT_JOBDRK580_02063_MOGGIE_000_060","你們先去附近的<Sheet(EObj,2006346,0)/>，
 每人摘4個<Sheet(EventItem,2001876,0)/>庫啵！
 莉艾勒啵就留在這裡吧庫啵。"
@@ -162,12 +162,12 @@ int32,str,str
 <Sheet(EventItem,2001876,0)/>到底是哪個！"
 95,"TEXT_JOBDRK580_02063_SIDURGU_000_075","在和伊斯特里德決鬥之前，我們需要積蓄一些力量。
 去一趟翻雲霧海吧。"
-96,"TEXT_JOBDRK580_02063_RIELLE_000_080","莫古利族……軟軟的……"
-97,"TEXT_JOBDRK580_02063_MOGGIE_000_090","哎呀，看來 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啵先摘完了庫啵。"
+96,"TEXT_JOBDRK580_02063_RIELLE_000_080","莫古力族……軟軟的……"
+97,"TEXT_JOBDRK580_02063_MOGGIE_000_090","哎呀，看來<Highlight>ObjectParameter(1)</Highlight>啵先摘完了庫啵。"
 98,"TEXT_JOBDRK580_02063_MOGGIE_000_091","這<Sheet(EventItem,2001876,0)/>真棒庫啵！
 怎麼看都是一堆爛草庫啵！"
 99,"TEXT_JOBDRK580_02063_MOGGIE_000_092","那麼莫古就來給你新的試煉吧庫啵。
-你去打倒最近來莫古利之家找麻煩的<Sheet(BNpcName,4312,0)/>庫啵。"
+你去打倒最近來莫古力之家找麻煩的<Sheet(BNpcName,4312,0)/>庫啵。"
 100,"TEXT_JOBDRK580_02063_MOGGIE_000_093","莫古已經給你在地圖上標好了地點，
 去那裡找就能找到了庫啵。
 打倒它們之後就和希德勒格啵一起去贖罪天廊等著庫啵！"
@@ -175,9 +175,9 @@ int32,str,str
 你在找莉艾勒啵嗎庫啵？"
 102,"TEXT_JOBDRK580_02063_MOGGIE_000_095","啊……莫、莫古讓她去和同伴們玩了庫啵！
 哎呀你還真愛操心呀庫啵！"
-103,"TEXT_JOBDRK580_02063_MOGGIE_000_100","你去打倒最近來莫古利之家找麻煩的<Sheet(BNpcName,4312,0)/>庫啵。
+103,"TEXT_JOBDRK580_02063_MOGGIE_000_100","你去打倒最近來莫古力之家找麻煩的<Sheet(BNpcName,4312,0)/>庫啵。
 打倒它們之後就和希德勒格啵一起去贖罪天廊等著庫啵！"
-104,"TEXT_JOBDRK580_02063_SIDURGU_000_101"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也完成莫古琪所說的試煉了麼？
+104,"TEXT_JOBDRK580_02063_SIDURGU_000_101","<Highlight>ObjectParameter(1)</Highlight>，你也完成莫古琪所說的試煉了麼？
 我也剛完成，正在這裡等你呢。"
 105,"TEXT_JOBDRK580_02063_SIDURGU_000_102","但他讓我們做的這些……全都是雜活啊！
 這樣真的能明白暗黑騎士的奧義是什麼嗎？"
@@ -201,7 +201,7 @@ int32,str,str
 115,"TEXT_JOBDRK580_02063_SIDURGU_000_112","沒辦法，只好蠻力上了。
 我會讓你們為這過了頭的惡作劇後悔一輩子的！"
 116,"TEXT_JOBDRK580_02063_TANKMOOGLE02063_000_150","好疼好疼好疼……
-真、真倒楣啊庫啵。
+真、真倒霉啊庫啵。
 為什麼下手如此狠毒庫啵……"
 117,"TEXT_JOBDRK580_02063_SIDURGU_000_151","莉艾勒在哪裡，快說！
 再不說我就扒了你們的皮……"
@@ -228,14 +228,14 @@ int32,str,str
 126,"TEXT_JOBDRK580_02063_BUFFERMOOGLE02063_000_160","<Emphasis>你所尋找的 強者之心
 莫古稱之為 愛 庫啵！</Emphasis>"
 127,"TEXT_JOBDRK580_02063_MOGGIE_000_161","你真是太遲鈍了庫啵。
-不給你掰碎瞭解釋清楚，你就不明白嗎庫啵？"
+不給你掰碎了解釋清楚，你就不明白嗎庫啵？"
 128,"TEXT_JOBDRK580_02063_SIDURGU_000_162","莉艾勒！
 你沒事吧！"
 129,"TEXT_JOBDRK580_02063_MOGGIE_000_163","到了感人肺腑的再會時刻了庫啵，
 還不趕快飛奔到他懷裡去庫啵？
 ……莉艾勒啵？"
 130,"TEXT_JOBDRK580_02063_RIELLE_000_164","大家是我重要的寶貝……
-我被四處追殺，即使如此弗雷、希德勒格和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 
+我被四處追殺，即使如此弗雷、希德勒格和<Highlight>ObjectParameter(1)</Highlight>
 也願意保護我，你們都是我重要的寶貝。"
 131,"TEXT_JOBDRK580_02063_RIELLE_000_165","但是，正因為保護了我，你們才會遭遇各種危險……
 我好怕……我到底應該怎樣做才好……"
@@ -248,7 +248,7 @@ int32,str,str
 我是絕對不會放棄這希望的！"
 135,"TEXT_JOBDRK580_02063_RIELLE_000_170","對不起，讓你擔心了……
 我已經向莫古琪的朋友們道謝了。"
-136,"TEXT_JOBDRK580_02063_SIDURGU_000_180","竟然被莫古利族擺了一道。
+136,"TEXT_JOBDRK580_02063_SIDURGU_000_180","竟然被莫古力族擺了一道。
 綁架莉艾勒竟然是騙人的。"
 137,"TEXT_JOBDRK580_02063_SIDURGU_000_181","負面感情的源頭，強者之心……
 沒想到我所追尋的奧義的答案竟然是「愛」。
@@ -262,9 +262,9 @@ int32,str,str
 思前顧後卻不行動，這不合我的性子。"
 141,"TEXT_JOBDRK580_02063_SIDURGU_000_185","我們走，莉艾勒。
 ……不要再離開我了。"
-142,"TEXT_JOBDRK580_02063_RIELLE_000_190","你回來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+142,"TEXT_JOBDRK580_02063_RIELLE_000_190","你回來了，<Highlight>ObjectParameter(1)</Highlight>，
 希德勒格一直在想事情……"
-143,"TEXT_JOBDRK580_02063_SIDURGU_000_200","啊，你回來了啊 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+143,"TEXT_JOBDRK580_02063_SIDURGU_000_200","啊，你回來了啊<Highlight>ObjectParameter(1)</Highlight>……
 在回來的路上，
 我突然想起了初代暗黑騎士的事情。"
 144,"TEXT_JOBDRK580_02063_SIDURGU_000_201","他曾是一位名揚四方的騎士，
@@ -282,11 +282,11 @@ int32,str,str
 但如果我能用這雙手劍，用我的血來徹底保護住莉艾勒……
 也許那時，我就可以理解、掌握住這份力量了。"
 149,"TEXT_JOBDRK580_02063_SIDURGU_000_206","如果你也有和我一樣的感覺……
-就來和我一起戰鬥到底吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+就來和我一起戰鬥到底吧，<Highlight>ObjectParameter(1)</Highlight>。"
 150,"TEXT_JOBDRK580_02063_SIDURGU_000_207","……謝謝你。
-應該馬上就會有人來通知我們去決鬥了，
+估計馬上就會有人來通知我們去決鬥了，
 我們一定要贏！"
-151,"TEXT_JOBDRK580_02063_QIB_001_TODO_1","和希德勒格一起打倒莫古利！"
+151,"TEXT_JOBDRK580_02063_QIB_001_TODO_1","和希德勒格一起打倒莫古力！"
 152,"TEXT_JOBDRK580_02063_QIB_001_SIDURGU_BATTLETALK_DEAD","我……竟然會被這幫傢伙……
 我還要保護……莉艾勒……"
 153,"TEXT_JOBDRK580_02063_QIB_001_TANK_MOOGLE_BATTLETALK_DEAD","庫啵？！眼冒金星庫啵……"

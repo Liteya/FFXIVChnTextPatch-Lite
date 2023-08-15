@@ -6,8 +6,8 @@ int32,str,str
 1,"TEXT_BANVAN110_02180_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-穆納瓦努委託冒險者幫忙與尊杜族進行交易。在藍天窗的<Sheet(EObj,2006667,0)/>獲得<Sheet(EventItem,2001941,0)/>。"
-2,"TEXT_BANVAN110_02180_SEQ_02","獲得了<Sheet(EventItem,2001941,0)/>。對藍天窗的<Sheet(EObj,2006666,0)/>使用<Sheet(EventItem,2001941,0)/>，從<Sheet(BNpcName,4588,0)/>身上獲得2塊<Sheet(EventItem,2001909,0)/>。"
+穆納瓦努委託冒險者幫忙與尊杜族進行交易。在藍天窗的<Sheet(EObj,2006667,0)/>獲取<Sheet(EventItem,2001941,0)/>。"
+2,"TEXT_BANVAN110_02180_SEQ_02","獲得了<Sheet(EventItem,2001941,0)/>。對藍天窗的<Sheet(EObj,2006666,0)/>使用<Sheet(EventItem,2001941,0)/>，從<Sheet(BNpcName,4588,0)/>身上獲取2塊<Sheet(EventItem,2001909,0)/>。"
 3,"TEXT_BANVAN110_02180_SEQ_03","獲得了2塊<Sheet(EventItem,2001909,0)/>。用這肉可以從尊杜族那裡換到梳子。將<Sheet(EventItem,2001909,0)/>交給尊杜集落的古納瓦努。"
 4,"TEXT_BANVAN110_02180_SEQ_04","將<Sheet(EventItem,2001909,0)/>交給了古納瓦努。他非常高興地將<Sheet(EventItem,2001910,0)/>交給了冒險者。將<Sheet(EventItem,2001910,0)/>交給西風島的穆納瓦努。"
 5,"TEXT_BANVAN110_02180_SEQ_05","將<Sheet(EventItem,2001910,0)/>交給了穆納瓦努。瓦努族差不多要到換羽期了，為此需要用梳子好好整理羽毛才行。"
@@ -29,9 +29,9 @@ int32,str,str
 21,"TEXT_BANVAN110_02180_SEQ_21",""
 22,"TEXT_BANVAN110_02180_SEQ_22",""
 23,"TEXT_BANVAN110_02180_SEQ_23",""
-24,"TEXT_BANVAN110_02180_TODO_00","在<Sheet(EObj,2006667,0)/>獲得<Sheet(EventItem,2001941,0)/>"
+24,"TEXT_BANVAN110_02180_TODO_00","在<Sheet(EObj,2006667,0)/>獲取<Sheet(EventItem,2001941,0)/>"
 25,"TEXT_BANVAN110_02180_TODO_01","對<Sheet(EObj,2006666,0)/>使用<Sheet(EventItem,2001941,0)/>
-從出現的幼蟲身上獲得<Sheet(EventItem,2001909,0)/>"
+從出現的幼蟲身上獲取<Sheet(EventItem,2001909,0)/>"
 26,"TEXT_BANVAN110_02180_TODO_02","將<Sheet(EventItem,2001909,0)/>交給古納瓦努"
 27,"TEXT_BANVAN110_02180_TODO_03","將<Sheet(EventItem,2001910,0)/>交給穆納瓦努"
 28,"TEXT_BANVAN110_02180_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 46,"TEXT_BANVAN110_02180_TODO_22",""
 47,"TEXT_BANVAN110_02180_TODO_23",""
 48,"TEXT_BANVAN110_02180_MUNAVANU_000_000","明明、明明要到換羽期了……可……
-哎呀，你來得正好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+哎呀，你來得正好，<Highlight>ObjectParameter(1)</Highlight>。
 請務必幫我個忙！"
 49,"TEXT_BANVAN110_02180_MUNAVANU_000_001","其實、其實，村子裡的梳子有些不夠用了。
 我希望你能與豁達的尊杜族進行交易，換點梳子來，

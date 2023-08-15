@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANARK118_04568_TODO_21",""
 46,"TEXT_BANARK118_04568_TODO_22",""
 47,"TEXT_BANARK118_04568_TODO_23",""
-48,"TEXT_BANARK118_04568_MARU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我想請你幫個忙。
+48,"TEXT_BANARK118_04568_MARU_000_000","<Highlight>ObjectParameter(1)</Highlight>，我想請你幫個忙。
 有一頭河馬從我這裡跑掉了……"
 49,"TEXT_BANARK118_04568_MARU_000_001","那頭河馬食慾非常旺盛，
 為了保持健康，我給它調整了進食量……

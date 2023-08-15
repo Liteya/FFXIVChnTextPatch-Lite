@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC510_00998_SEQ_00","喪靈鐘的冒險者古奧爾蓋姆想要發一筆橫財。"
-1,"TEXT_GAIUSC510_00998_SEQ_01","<Sheet(EventItem,2000763,0)/>能夠作為夢幻之藥賣出高價。前往喪靈鐘西邊的迷霧溼原，從<Sheet(BNpcName,645,0)/>身上得到5份<Sheet(EventItem,2000763,0)/>。"
+1,"TEXT_GAIUSC510_00998_SEQ_01","<Sheet(EventItem,2000763,0)/>能夠作為夢幻之藥賣出高價。前往喪靈鐘西邊的迷霧濕原，從<Sheet(BNpcName,645,0)/>身上得到5份<Sheet(EventItem,2000763,0)/>。"
 2,"TEXT_GAIUSC510_00998_SEQ_02","獲得了<Sheet(EventItem,2000763,0)/>。將其交給喪靈鐘的古奧爾蓋姆。"
 3,"TEXT_GAIUSC510_00998_SEQ_03","將<Sheet(EventItem,2000763,0)/>交給了古奧爾蓋姆。關於藥的效力，好像還是不深究為妙……"
 4,"TEXT_GAIUSC510_00998_SEQ_04",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_GAIUSC510_00998_TODO_21",""
 46,"TEXT_GAIUSC510_00998_TODO_22",""
 47,"TEXT_GAIUSC510_00998_TODO_23",""
-48,"TEXT_GAIUSC510_00998_GUOLGEIM_000_000","你知道迷霧溼原的<Sheet(BNpcName,645,0)/>嗎？
+48,"TEXT_GAIUSC510_00998_GUOLGEIM_000_000","你知道迷霧濕原的<Sheet(BNpcName,645,0)/>嗎？
 它們身上的<Sheet(EventItem,2000763,0)/>是一種夢幻之藥，
 可以用很誇張的價格賣給有錢人。"
 49,"TEXT_GAIUSC510_00998_GUOLGEIM_000_001","甚至於有一些冒險者來這裡就是為了獲得這種藥。

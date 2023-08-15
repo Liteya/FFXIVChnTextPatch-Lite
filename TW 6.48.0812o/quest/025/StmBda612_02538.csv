@@ -56,23 +56,23 @@ int32,str,str
 51,"TEXT_STMBDA612_02538_ALPHINAUD_000_020","抱、抱歉……我一時激動……
 越是這種時候，越應該保持冷靜才對。"
 52,"TEXT_STMBDA612_02538_ALPHINAUD_000_021","勞班總帥決定撤退了啊。
-這裡的確還有再次受到炮擊的可能，太危險了……"
+這裡的確還有再次受到砲擊的可能，太危險了……"
 53,"TEXT_STMBDA612_02538_ALPHINAUD_000_022","由我們來搬運康拉德隊長的遺體吧。
 你就去跟阿莉塞說一聲，然後到阿拉基利去。
-我們之後在那裡會合，再重整態勢。"
+我們之後在那裡匯合，再重整態勢。"
 54,"TEXT_STMBDA612_02538_LYSE_000_025","好的……康拉德隊長就交給我們吧。"
 55,"TEXT_STMBDA612_02538_MNAAGO_000_030","嗚、嗚……"
 56,"TEXT_STMBDA612_02538_ALPHINAUD_000_035","你就去跟阿莉塞說一聲，然後到阿拉基利去。
-我們之後在那裡會合，再重整態勢。"
+我們之後在那裡匯合，再重整態勢。"
 57,"TEXT_STMBDA612_02538_ALISAIE_000_040","好了，快站起來，趕緊逃離這裡。"
 58,"TEXT_STMBDA612_02538_ALISAIE_000_041","損失真是慘重……
 話說你找到阿爾菲諾他們了嗎？"
 59,"TEXT_STMBDA612_02538_ALISAIE_000_042","康拉德隊長他……
-唔……我姑且瞭解情況了……"
+唔……我姑且了解情況了……"
 60,"TEXT_STMBDA612_02538_ALISAIE_000_043","那我們就前往阿拉基利吧。
 途中也要注意看一下有沒有需要救助的人。"
 61,"TEXT_STMBDA612_02538_WOUNDEDRESISTANCESOLDIER_000_050","唔……是、是誰……
-啊，你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下？！"
+啊，你是<Highlight>ObjectParameter(1)</Highlight>閣下？！"
 62,"TEXT_STMBDA612_02538_WOUNDEDRESISTANCESOLDIER_000_051","謝謝。
 我好像失血過多，意識有點模糊了。
 這樣一來我勉強也能自己走了，等休息一下就馬上撤退。"
@@ -106,7 +106,7 @@ int32,str,str
 希望盡可能多救一名傷員。"
 76,"TEXT_STMBDA612_02538_STORMOFFICER_000_085","簡直喪心病狂！
 一定要把帝國軍碎屍萬段！"
-77,"TEXT_STMBDA612_02538_ALPHINAUD_000_090","你到了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+77,"TEXT_STMBDA612_02538_ALPHINAUD_000_090","你到了，<Highlight>ObjectParameter(1)</Highlight>。
 我們總算是把康拉德隊長的遺體運回來了。
 等穩定了之後，一定要厚葬他才行……"
 78,"TEXT_STMBDA612_02538_ALPHINAUD_000_091","不過，不能總是沉浸在悲傷之中。

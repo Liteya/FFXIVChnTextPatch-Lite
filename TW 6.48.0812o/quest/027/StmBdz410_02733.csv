@@ -27,9 +27,9 @@ int32,str,str
 23,"TEXT_STMBDZ410_02733_SEQ_23",""
 24,"TEXT_STMBDZ410_02733_TODO_00","尋找稜線的孫子"
 25,"TEXT_STMBDZ410_02733_TODO_01","和狼人族落魄武者對話 對方發起攻擊的話就將其討伐"
-26,"TEXT_STMBDZ410_02733_TODO_02","從<Sheet(EObj,2008518,0)/>裡獲得<Sheet(EventItem,2002248,0)/>"
+26,"TEXT_STMBDZ410_02733_TODO_02","從<Sheet(EObj,2008518,0)/>裡獲取<Sheet(EventItem,2002248,0)/>"
 27,"TEXT_STMBDZ410_02733_TODO_03","將<Sheet(EventItem,2002248,0)/>交給稜線的孫子"
-28,"TEXT_STMBDZ410_02733_TODO_04","獲得<Sheet(EventItem,2002249,0)/>"
+28,"TEXT_STMBDZ410_02733_TODO_04","獲取<Sheet(EventItem,2002249,0)/>"
 29,"TEXT_STMBDZ410_02733_TODO_05","將<Sheet(EventItem,2002249,0)/>交給稜線的孫子"
 30,"TEXT_STMBDZ410_02733_TODO_06","向稜線報告"
 31,"TEXT_STMBDZ410_02733_TODO_07",""
@@ -62,7 +62,7 @@ int32,str,str
 52,"TEXT_STMBDZ410_02733_RYOSEN_000_004","聽說那裡有狼人族落魄武者出沒……
 能請你去無二江的河岸看一下嗎？
 我也在這附近繼續找找看……"
-53,"TEXT_STMBDZ410_02733_BOY02733_000_010","欸，爺爺在找我嗎？
+53,"TEXT_STMBDZ410_02733_BOY02733_000_010","誒，爺爺在找我嗎？
 怎麼辦……其實我是在收集東西，
 但收集的東西被搶走了，所以我想現在重新收集。"
 54,"TEXT_STMBDZ410_02733_BOY02733_000_011","我想要收集艾草，於是跑到這裡來採摘，

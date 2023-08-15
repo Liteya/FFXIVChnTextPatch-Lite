@@ -49,10 +49,10 @@ int32,str,str
 45,"TEXT_BANALL010_01465_TODO_21",""
 46,"TEXT_BANALL010_01465_TODO_22",""
 47,"TEXT_BANALL010_01465_TODO_23",""
-48,"TEXT_BANALL010_01465_SCARLET_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_BANALL010_01465_SCARLET_000_000","<Highlight>ObjectParameter(1)</Highlight>，
 你的活躍表現值得稱讚，同時，我也要向你表示感謝。"
 49,"TEXT_BANALL010_01465_SCARLET_000_001","你不僅與鳥人族建立了信賴關係，
-更是與艾奧傑亞最主要的5大蠻族都結下了友誼。
+更是與艾歐澤亞最主要的5大蠻族都結下了友誼。
 能達成此等壯舉，真令我佩服得五體投地。"
 50,"TEXT_BANALL010_01465_SCARLET_000_002","這都歸功於你非比尋常的人望。
 ……因此，我也想拜託你一件事。"
@@ -62,7 +62,7 @@ int32,str,str
 52,"TEXT_BANALL010_01465_SCARLET_000_005","我相信你一定能出色地完成這項任務。
 加文會告訴你任務的詳情的，
 他就在旁邊。"
-53,"TEXT_BANALL010_01465_GAVIN_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊！
+53,"TEXT_BANALL010_01465_GAVIN_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了啊！
 現在，雙蛇黨內人人都在談論關於你的話題。
 有時間請跟我也說說你與蠻族的冒險故事！"
 54,"TEXT_BANALL010_01465_GAVIN_000_011","……哎呀，不好意思，我太激動了。

@@ -8,7 +8,7 @@ int32,str,str
 4,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_TRAINING","進行中： <Sheet(GcArmyTraining,IntegerParameter(1),4)/>
 完成時間：<If(GreaterThan(IntegerParameter(2),0))>已完成<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>小時<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分後<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分後<Else/>不到1分鐘</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
 5,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_EXPEDITION","（★未使用／削除予定★）"
-6,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_001","開啟訓練菜單"
+6,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_001","打開訓練選單"
 7,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_002","中止進行中的訓練"
 8,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_003","查看分隊情報"
 9,"TEXT_COMARMGCARMYTRAINING_00344_TRAINING_ABORT_000","沒有進行中的訓練，
@@ -24,8 +24,8 @@ int32,str,str
 15,"TEXT_COMARMGCARMYTRAINING_00344_OFFICER_MESSAGE_020","（★未使用／削除予定★）"
 16,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_000","您是要馬上安排訓練嗎？
 那麼，就根據想要提高的能力
-選擇適合的訓練種類吧！"
-17,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_001","透過「訓練」，可以提升「分隊綜合能力」，
+選擇合適的訓練種類吧！"
+17,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_001","通過「訓練」，可以提升「分隊綜合能力」，
 即「綜合體能」、「綜合心智」、「綜合戰術」。"
 18,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_002","選擇不同的訓練種類，
 對分隊綜合能力的提升也會有所不同。
@@ -40,10 +40,10 @@ int32,str,str
 此後，想要提高某一項綜合能力時，
 其他綜合能力將會下降。"
 23,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_012","此外，「分隊綜合能力」的上限值，
-可以透過提升「分隊等級」來提高。
+可以通過提升「分隊等級」來提高。
 完成特殊的分隊任務，來提升等級吧。"
 24,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_013","但是，提升等級的分隊任務比其他任務難度更高。
-因此，先透過訓練和分隊任務提升分隊員的等級吧。"
+因此，先通過訓練和分隊任務提升分隊員的等級吧。"
 25,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_020","依下官所見，我們分隊順利地積累著經驗，
 已有了相當強的實力……
 接下來瞄準更高的目標，繼續進行訓練和執行分隊任務吧！"
@@ -51,10 +51,10 @@ int32,str,str
 此後，想要提高某一項綜合能力時，
 其他綜合能力將會下降。"
 27,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_022","此外，「分隊綜合能力」的上限值，
-可以透過提升「分隊等級」來提高。
+可以通過提升「分隊等級」來提高。
 完成特殊的分隊任務，來提升等級吧。"
 28,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_023","但是，提升等級的分隊任務比其他任務難度更高。
-因此，先透過訓練和分隊任務提升分隊員的等級吧。"
+因此，先通過訓練和分隊任務提升分隊員的等級吧。"
 29,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_030","依下官所見，我們分隊順利地積累著經驗，
 已有了相當強的實力……
 接下來瞄準更高的目標，繼續進行訓練和執行分隊任務吧！"
@@ -63,7 +63,7 @@ int32,str,str
 其他綜合能力將會下降。"
 31,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_000","您是要馬上安排訓練嗎？
 那麼，就根據想要提高的能力
-選擇適合的訓練種類吧！"
+選擇合適的訓練種類吧！"
 32,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_010","依下官所見，我們分隊順利地積累著經驗，
 已有了相當強的實力……
 接下來瞄準更高的目標，繼續進行訓練和執行分隊任務吧！"
@@ -78,7 +78,7 @@ int32,str,str
 其他綜合能力將會下降。"
 36,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_000","您是要馬上安排訓練嗎？
 那麼，就根據想要提高的能力
-選擇適合的訓練種類吧！"
+選擇合適的訓練種類吧！"
 37,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_010","依下官所見，我們分隊順利地積累著經驗，
 已有了相當強的實力……
 接下來瞄準更高的目標，繼續進行訓練和執行分隊任務吧！"

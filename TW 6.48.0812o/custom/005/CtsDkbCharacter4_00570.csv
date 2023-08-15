@@ -8,12 +8,12 @@ int32,str,str
 3,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_010","（★未使用／削除予定★）"
 4,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_011","（★未使用／削除予定★）"
 5,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_012","（★未使用／削除予定★）"
-6,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_020","繳納了委託品，
-科希．芮實際感受到你做出了貢獻。"
+6,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_020","交納了委託品，
+科希·芮實際感受到你做出了貢獻。"
 7,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_021","（★未使用／削除予定★）"
-8,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_022","今後也請繼續繳納委託品，
+8,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_022","今後也請繼續交納委託品，
 積累貢獻度！"
-9,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_030","你在安穆．艾蘭找到<Sheet(Item,26752,0)/>了嗎？
+9,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_030","你在安穆·艾蘭找到<Sheet(Item,26752,0)/>了嗎？
 鑑定的工作就交給我吧，嗚呵呵！"
 10,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_050","這個碎片是……身形比較小的生物的指甲嗎？
 不對，我感覺還混雜著沒見過的東西……
@@ -21,20 +21,20 @@ int32,str,str
 11,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_055","嗯嗯，這是……體型相當巨大的生物的指甲呢！
 我拿去分析看看是不是跟薩邁爾有關的未知生物！
 感謝你把這個採集回來！"
-12,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_100","我說， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-從你採集回來的樣本中，發現了一些讓人在意的東西！
+12,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_100","我說，<Highlight>ObjectParameter(1)</Highlight>！
+從你採取回來的樣本中，發現了一些讓人在意的東西！
 那些好像是指甲的一部分，但與已知生物的指甲形狀都不一樣。"
 13,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_101","想要繼續進行分析需要專家過來……
 我去把作物園藝館的研究員叫過來吧。
 你稍等一會！"
 14,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_102","讓你久等了！
-這傢伙是茂．拉德，
+這傢伙是茂·拉德，
 經常和雅拉娜一起幫我分析資源。"
 15,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_103","而且……
 他還是看到了薩邁爾的目擊者！"
 16,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_100_103","茂，你來說說那個時候的事情！"
 17,"TEXT_CTSDKBCHARACTER4_00570_MAOLADD_000_104","好、好的……
-那天我和採礦工一起前往了安穆．艾蘭，
+那天我和採礦工一起前往了安穆·艾蘭，
 因為我想確認一下那裡土地的採掘狀況……"
 18,"TEXT_CTSDKBCHARACTER4_00570_MAOLADD_000_105","然後正當我觀察採掘現場的時候……
 突然間有一個巨大到令人無法相信的生物的影子
@@ -49,16 +49,16 @@ int32,str,str
 怎麼能輕易迷信亡靈傳說之類的東西呢？"
 22,"TEXT_CTSDKBCHARACTER4_00570_MAOLADD_000_109","話、話雖是這麼說……
 可是……"
-23,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_110","你來看看 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 採集的這個<Sheet(Item,26752,0)/>！
+23,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_110","你來看看<Highlight>ObjectParameter(1)</Highlight>採集的這個<Sheet(Item,26752,0)/>！
 你看到的不是什麼亡靈，一定是薩邁爾本身！"
 24,"TEXT_CTSDKBCHARACTER4_00570_MAOLADD_000_111","這是……蜥蜴的指甲？
-不對，在安穆．艾蘭可沒有像這樣的巨大種類……
+不對，在安穆·艾蘭可沒有像這樣的巨大種類……
 如果假設它是用四肢行走的話，推測身高將是……"
 25,"TEXT_CTSDKBCHARACTER4_00570_MAOLADD_000_112","這、這個……能不能交給我保管？！
 我想拿回到研究所進行分析！"
 26,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_113","當然可以！
 那等你有了什麼結果就通知我吧！"
-27,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_114"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也聽到了，
+27,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_114","<Highlight>ObjectParameter(1)</Highlight>，你也聽到了，
 在分析結果出來之前，請你稍等等吧！"
 28,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_115","在這期間你可以去別的採集地看看！
 畢竟你是一個很神秘的外鄉人，
@@ -67,22 +67,22 @@ int32,str,str
 你一個人的採集量應該不會對諾弗蘭特整體的資源產生影響，
 所以不用將採集到的東西全都拿來給我。"
 30,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_170","大地資源部的貢獻等級提高了！
-科希．芮認為你是薩邁爾搜索隊的新任隊長！"
+科希·芮認為你是薩邁爾搜索隊的新任隊長！"
 31,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_130","你來得正好！
 茂得出分析結果了，
 我想快點告訴你！"
 32,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_135","採礦工或園藝工的等級達到73級以上時，
-可以從中庸工藝館的科希．芮那裡領取下一個繳納委託品的任務。"
-33,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+可以從中庸工藝館的科希·芮那裡領取下一個交納委託品的任務。"
+33,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_150","<Highlight>ObjectParameter(1)</Highlight>，
 你收集到的<Sheet(Item,26752,0)/>中的那個不可思議的樣本……"
 34,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_151","果然不屬於已知的生物！
-一定是某種巨大生物的指甲碎片，
+肯定是某種巨大生物的指甲碎片，
 說不定真的是薩邁爾的指甲呢！"
 35,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_152","只不過那個指甲從剝落後到現在，
 已經過了好幾月的時間……
 有點太舊了……"
 36,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_153","所以呢……該怎麼說呢……
-也就是說這個指甲的主人現在不一定還在安穆．艾蘭……"
+也就是說這個指甲的主人現在不一定還在安穆·艾蘭……"
 37,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_154","雖、雖然這聽起來好像沒有任何進展！
 不過卻探明了一直以來都沒弄清的棲息地，
 這對於分析來說是一個長足的進步！"
@@ -101,21 +101,21 @@ int32,str,str
 43,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_100_159","所以我想請你到不渴岸灘周圍尋找並收集生物的排泄……
 不對，是<Sheet(Item,26753,0)/>！"
 44,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_160","你別露出這樣的表情嘛！
-透過分析那個我們能獲得很多的情報，
+通過分析那個我們能獲得很多的情報，
 可是非常便利的哦！"
 45,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_161","所以，我無論如何都需要<Sheet(Item,26753,0)/>！
 拜託了，算我求你了！"
 46,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_162","你這意思是……願意嗎？太謝謝你了！
-真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，太可靠了！
+真不愧是<Highlight>ObjectParameter(1)</Highlight>，太可靠了！
 那我就在這裡邊幹活邊等你回來！"
 47,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_171","接到了新的委託，交貨列表已經更新。
-和科希．芮對話，查看新的交貨列表。"
-48,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_180","透過生物的糞……遺留物可以弄清楚很多事情。
+和科希·芮對話，查看新的交貨列表。"
+48,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_180","通過生物的糞……遺留物可以弄清楚很多事情。
 比如它們平時到底以什麼為食，現在的健康狀態之類的……
 不過負責分析的可不是我，而是雅拉娜啦！"
-49,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_181","所以我希望 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 到陰沉鄉那邊，
+49,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_181","所以我希望<Highlight>ObjectParameter(1)</Highlight>到陰沉鄉那邊，
 多收集點<Sheet(Item,26753,0)/>回來！"
-50,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_100_181","所以我希望 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 到不渴岸灘那邊，
+50,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_100_181","所以我希望<Highlight>ObjectParameter(1)</Highlight>到不渴岸灘那邊，
 多收集點<Sheet(Item,26753,0)/>回來！"
 51,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_200","一點都沒錯，這絕對是生物的遺留物！謝謝你啦！
 我相信著薩邁爾是實際存在的，
@@ -123,26 +123,26 @@ int32,str,str
 52,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_201","謝謝你啊，真的是很新鮮的遺留物呢！
 我相信著薩邁爾是實際存在的，
 趕緊將這個拿給雅拉娜去分析一下吧！"
-53,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_230"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_230","<Highlight>ObjectParameter(1)</Highlight>！
 遺留物已經收集得足夠多了！"
 54,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_231","我想差不多該有分析的結果了，
 咱們去雅拉娜那裡吧！"
-55,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_232","科希．芮部長！
+55,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_232","科希·芮部長！
 你來得正好！
 正好我剛整理完樣本的分析結果！"
-56,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_233","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也在啊？
-莫非你也是因為科希．芮部長的任性請求，
+56,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_233","哎呀，<Highlight>ObjectParameter(1)</Highlight>你也在啊？
+莫非你也是因為科希·芮部長的任性請求，
 不情願地陪著她呢？！"
 57,"TEXT_CTSDKBCHARACTER4_00570_Q1_000_000","如何作答？"
 58,"TEXT_CTSDKBCHARACTER4_00570_A1_000_001","嗯……是這樣"
 59,"TEXT_CTSDKBCHARACTER4_00570_A1_000_002","我是自願幫她的"
-60,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_234","真是的，該怎麼說你呢科希．芮部長！
+60,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_234","真是的，該怎麼說你呢科希·芮部長！
 光我就已經夠慘的了，
 我不是說過請你不要把別人也捲進這種麻煩事裡嗎？！"
 61,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_235","這、這麼奇特……
-科希．芮部長，你好好謝過人家了嗎？！
+科希·芮部長，你好好謝過人家了嗎？！
 居然會有這麼好心的人幫你……"
-62,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_236"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+62,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_236","<Highlight>ObjectParameter(1)</Highlight>，
 你要不願意或是有事要忙的話，
 可以隨時不幹哦！"
 63,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_237","像是部長這樣的人，
@@ -158,7 +158,7 @@ int32,str,str
 67,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_241","關於其生態方面，還是需要進一步分析才能得出結論。
 請再給些時間！"
 68,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_242","雅拉娜，你這人……
-平時都是我求著你，怎麼這次就這麼樂意啊！
+平時都是我求著你，怎麼這回就這麼樂意啊！
 部長我可是會嫉妒的哦！"
 69,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_243","你憑什麼嫉妒啊。
 對於這種不會把過分工作全扔給我的人，
@@ -172,30 +172,30 @@ int32,str,str
 72,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_246","我、我不是這個意思……
 算了，總之詳細的分析結果出來以後我會告訴你的，
 所以請部長你認真幹活！"
-73,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_247"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
-到時候我也會透過部長把分析結果傳達給你的！
+73,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_247","<Highlight>ObjectParameter(1)</Highlight>，
+到時候我也會通過部長把分析結果傳達給你的！
 請你期待著吧！"
 74,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_248","嗯嗯，話說回來，
 也不知道下回會跑去哪裡……
 所以在等待結果的這段時間，就麻煩你去磨練自己的採集能力吧！"
 75,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_320","大地資源部的貢獻等級提高了！
-科希．芮認為你是薩邁爾搜索隊可靠的隊長！"
+科希·芮認為你是薩邁爾搜索隊可靠的隊長！"
 76,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_260","哎呀！你來得正好！
 雅拉娜那邊好像有了好消息！
 在這裡等她過來吧！"
 77,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_265","採礦工或園藝工的等級達到75級以上時，
-可以從中庸工藝館的科希．芮那裡領取下一個繳納委託品的任務。"
-78,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_300","部長、 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+可以從中庸工藝館的科希·芮那裡領取下一個交納委託品的任務。"
+78,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_300","部長、<Highlight>ObjectParameter(1)</Highlight>！
 讓你們久等了！
 關於疑似薩邁爾的巨大生物的生態我有了新的發現！"
 79,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_301","我從這種生物的排泄物中居然發現了
 其他地域的植物種子和樹皮的殘骸！"
-80,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_302","我應該這種生物為了維持巨大身體所需的營養，
+80,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_302","我估計這種生物為了維持巨大身體所需的營養，
 會在不同季節前往諾弗蘭特的不同地方，
 這樣可以有效找到營養價值高的植物！"
 81,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_303","還有這種生物好像還會吞食小石子來輔助消化。
 除此之外，也會吃一些含有岩鹽的土壤。"
-82,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_304","而且在這次的樣本中，
+82,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_304","而且在這回的樣本中，
 解析出了很多生長在伊爾美格的植物！"
 83,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_305","原來如此！真是厲害啊！
 居然能分析得這麼仔細，真不愧是雅拉娜！
@@ -204,13 +204,13 @@ int32,str,str
 雖然想去調查……但是有點難辦啊……"
 85,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_307","你難道不知道伊爾美格有多危險嗎？！
 那裡是妖靈們的地盤，
-不管是水晶都還是遊末邦都不能插手的地方。"
+不管是水晶都還是游末邦都不能插手的地方。"
 86,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_308","我們會告知所屬的採礦工和園藝工，
 那裡過於危險勿要靠近。
-所以要是去採集樣本也就頂多只能到分界那裡……"
+所以要是去採取樣本也就頂多只能到分界那裡……"
 87,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_309","話說回來……聽說你好像跟妖靈有交情啊！
 這如果是真的，
-說不定你能不被妖靈迷惑前往伊爾美格呢！"
+沒準你能不被妖靈迷惑前往伊爾美格呢！"
 88,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_310","伊爾美格是處於妖靈支配下的危險地區……
 啊……難道！"
 89,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_311","最近水晶都中傳聞著有人踏入了伊爾美格……
@@ -222,20 +222,20 @@ int32,str,str
 多虧了你，不用解散搜索隊了！"
 92,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_314","薩邁爾搜索隊？
 你們做了一個這麼奇怪的組織嗎？"
-93,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_315"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 擔任隊長，
+93,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_315","<Highlight>ObjectParameter(1)</Highlight>擔任隊長，
 我是參謀……你和茂也是隊員哦！
-啊，你要是覺得不適合，你來當副隊長也行哦？"
-94,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_316","那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+啊，你要是覺得不合適，你來當副隊長也行哦？"
+94,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_316","那<Highlight>ObjectParameter(1)</Highlight>，
 如果可以的話，
-能請你去桃色床鋪尋找一下<Sheet(Item,26754,0)/>嗎？"
-95,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_317","到時候你就像往常一樣把東西交給中庸工藝館的科希．芮部長吧！
+能請你去桃色睡床尋找一下<Sheet(Item,26754,0)/>嗎？"
+95,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_317","到時候你就像往常一樣把東西交給中庸工藝館的科希·芮部長吧！
 得讓部長也好好幹活才行！"
 96,"TEXT_CTSDKBCHARACTER4_00570_YALANA_000_318","那我就先回作物園藝館了……
 要是收到了<Sheet(Item,26754,0)/>，
 一定要馬上給我送過來呀部長！"
 97,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_321","接到了新的委託，交貨列表已經更新。
-和科希．芮對話，查看新的交貨列表。"
-98,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_330","只要能證明桃色床鋪附近有<Sheet(Item,26754,0)/>……
+和科希·芮對話，查看新的交貨列表。"
+98,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_330","只要能證明桃色睡床附近有<Sheet(Item,26754,0)/>……
 現在薩邁爾的存在慢慢變得有真實性了！
 "
 99,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_350","謝謝你，這麼大的進食痕跡……
@@ -253,17 +253,17 @@ int32,str,str
 104,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_383","不過話說回來也真奇怪，
 只要找找就能發現這麼多的痕跡，
 但為什麼就是找不到薩邁爾的本體呢……"
-105,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_384","嗯——我沒辦法立刻想到原因，
+105,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_384","嗯——我沒法立刻想到原因，
 等以後再說吧！"
 106,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_450","大地資源部的貢獻等級提高了！
-科希．芮認為你是薩邁爾搜索隊精明能幹的隊長！"
+科希·芮認為你是薩邁爾搜索隊精明能幹的隊長！"
 107,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_390","此外，可以領取中庸工藝館交易的劇情任務了。
-和科希．芮對話即可接受任務。
+和科希·芮對話即可接受任務。
 完成任務後，交貨列表將會更新。"
-108,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_400"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正好！
+108,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_400","<Highlight>ObjectParameter(1)</Highlight>，你來得正好！
 我有事想拜託你。"
 109,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_405","採礦工或園藝工的等級達到78級以上時，
-可以從中庸工藝館的科希．芮那裡領取下一個繳納委託品的任務。"
+可以從中庸工藝館的科希·芮那裡領取下一個交納委託品的任務。"
 110,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_430","好了，那咱們就趕緊進入正題吧。
 當然是關於薩邁爾的事情。"
 111,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_431","薩邁爾因極少的目擊情報而被視為傳說中的生物，
@@ -287,9 +287,9 @@ int32,str,str
 薩邁爾為了尋求更加豐富的植物，很可能進行了遷徙！
 沒準咱們能在遷徙的目的地找到蛻下來的表皮！"
 118,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_438","這附近植被最茂密的地方當然非拉凱提卡大森林莫屬！
-我應該薩邁爾也會經過那裡，
+我估計薩邁爾也會經過那裡，
 從而留下某種痕跡！"
-119,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_439"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+119,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_439","<Highlight>ObjectParameter(1)</Highlight>，
 我想如果是你的話，
 一定能進入遠離人煙的維斯族的森林……"
 120,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_440","所以呢……
@@ -298,7 +298,7 @@ int32,str,str
 收集一下新鮮的<Sheet(Item,26755,0)/>！
 這次沒準就能找到薩邁爾了！"
 122,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_451","接到了新的委託，交貨列表已經更新。
-和科希．芮對話，查看新的交貨列表。"
+和科希·芮對話，查看新的交貨列表。"
 123,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_460","我想看薩邁爾、看薩邁爾、看薩邁爾啊！！
 為此，需要在拉凱提卡大森林的伊奇絲瑪雅艾禁林裡
 找到<Sheet(Item,26755,0)/>才行！這是絕對的前提！"
@@ -342,11 +342,11 @@ int32,str,str
 我一直認為它是一種巨大的生物……
 而你是說要從前提開始重新審視比較好是嗎？"
 141,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_511","謝謝你了，我會留作參考的！
-哎呀，我覺得其實你也蠻適合當研究者的！
+哎呀，我覺得其實你也挺適合當研究者的！
 總能換個方向思考，帶來意想不到的結果呢！"
 142,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_512","那我把<Sheet(Item,26755,0)/>交給雅拉娜他們的時候，
 就順便也把你的想法跟他們說一下吧！
-說不定能成為解決問題的契機呢！"
+沒準能成為解決問題的契機呢！"
 143,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_513","話說回來，
 你收集回來的痕跡既然有這麼多，
 那我拿一個去嘗嘗也……"
@@ -356,10 +356,10 @@ int32,str,str
 146,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_516","下回絕對要找到薩邁爾！
 請你也做好準備！"
 147,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_517","大地資源部的貢獻等級提高了！
-科希．芮認為你是薩邁爾搜索隊能力精湛的隊長！"
+科希·芮認為你是薩邁爾搜索隊能力精湛的隊長！"
 148,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_510","此外，可以領取中庸工藝館交易的劇情任務了。
 採礦工或園藝工的等級達到80級以上時，
-可以從中庸工藝館的科希．芮那裡領取任務。"
+可以從中庸工藝館的科希·芮那裡領取任務。"
 149,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_520","（★未使用／削除予定★）"
 150,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_530","哎呀！
 你找到了什麼珍稀的動植物或礦物了嗎？！
@@ -367,11 +367,11 @@ int32,str,str
 151,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_531","雖然我很想這麼說……
 不過要是偷懶偷過頭……
 會惹卡特莉絲生氣的……嘖。"
-152,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_540","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！大地資源部還是忙得不可開交，
+152,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_540","哎呀，<Highlight>ObjectParameter(1)</Highlight>！大地資源部還是忙得不可開交，
 又要研究新的對象，又得培育新人……
 雖然夜晚重新有了黑暗，但我們的未來卻是光明的！"
 153,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_550","背包已滿，
 無法獲得報酬。
-請整理背包後再次和科希．芮對話。"
+請整理背包後再次和科希·芮對話。"
 154,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_560","要和大地資源部進行交易，
 職業必須為採礦工或是園藝工。"

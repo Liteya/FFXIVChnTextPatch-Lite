@@ -79,7 +79,7 @@ int32,str,str
 你們沒事真是太好了……"
 59,"TEXT_AKTKMA111_04367_ALISAIE_000_025","母親？！"
 60,"TEXT_AKTKMA111_04367_AMELIANCE_000_026","初次見面，
-我是阿梅莉安絲．萊維耶勒爾。"
+我是阿梅莉安絲·萊韋耶勒爾。"
 61,"TEXT_AKTKMA111_04367_AMELIANCE_000_027","各位是拂曉血盟的人吧？
 我的孩子們平日裡承蒙你們照顧……
 能見到你們真是我的榮幸！"
@@ -88,7 +88,7 @@ int32,str,str
 要是別人看到我們在交談，會給您添麻煩的。"
 63,"TEXT_AKTKMA111_04367_AMELIANCE_000_029","哎呀，母親和孩子敘舊有什麼見不得人的！
 聽說你們和父親在鬧矛盾，
-我只想儘早見到你們！"
+我只想盡早見到你們！"
 64,"TEXT_AKTKMA111_04367_AMELIANCE_000_030","你們之後會跟我一起回一趟家吧？
 我有禮物要交給你們。"
 65,"TEXT_AKTKMA111_04367_YSHTOLA_000_031","那正好，我們需要結合桑克瑞德他們的報告
@@ -96,15 +96,15 @@ int32,str,str
 66,"TEXT_AKTKMA111_04367_YSHTOLA_000_032","那我們先回巴爾德西昂分館了，
 你們就回家裡看看吧。"
 67,"TEXT_AKTKMA111_04367_ALISAIE_000_033","可、可是……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你呢？"
-68,"TEXT_AKTKMA111_04367_AMELIANCE_000_034"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 呀？！"
+<Highlight>ObjectParameter(1)</Highlight>，你呢？"
+68,"TEXT_AKTKMA111_04367_AMELIANCE_000_034","<Highlight>ObjectParameter(1)</Highlight>！
+你就是<Highlight>ObjectParameter(1)</Highlight>呀？！"
 69,"TEXT_AKTKMA111_04367_AMELIANCE_000_035","很高興能見到你，今天真是幸運的一天！
 請你也務必來我家坐坐。"
 70,"TEXT_AKTKMA111_04367_AMELIANCE_000_036","既然決定了，就趕緊回去吧。
 要是我家那位回來了，他拿我倒是沒辦法，
 但傭人們可能會左右為難。"
-71,"TEXT_AKTKMA111_04367_AMELIANCE_000_037"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請陪同我的孩子們回家哦！"
+71,"TEXT_AKTKMA111_04367_AMELIANCE_000_037","<Highlight>ObjectParameter(1)</Highlight>，請陪同我的孩子們回家哦！"
 72,"TEXT_AKTKMA111_04367_ALISAIE_000_038","母親真是的……"
 73,"TEXT_AKTKMA111_04367_KRILE_000_039","那我們之後在巴爾德西昂分館見吧。
 你們三個回去慢慢聊！"
@@ -127,7 +127,7 @@ int32,str,str
 那接著朝我家走吧。"
 85,"TEXT_AKTKMA111_04367_SYSTEM_000_080","同行者還沒過來。
 迎接並帶他們來到附近，一起打聽消息吧。"
-86,"TEXT_AKTKMA111_04367_ALISAIE_000_088","別隻帶著我回去啊！
+86,"TEXT_AKTKMA111_04367_ALISAIE_000_088","別只帶著我回去啊！
 先去叫上阿爾菲諾再說！"
 87,"TEXT_AKTKMA111_04367_SYSTEM_000_089","在執行該任務時，需要與阿爾菲諾保持同行狀態。
 此外，阿爾菲諾應位於玩家附近。"
@@ -156,7 +156,7 @@ int32,str,str
 99,"TEXT_AKTKMA111_04367_ALISAIE_000_110","我們家就在漂流的終點北邊。
 從哲學家廣場順著階梯一直向下走不遠就是了。"
 100,"TEXT_AKTKMA111_04367_ALISAIE_000_111","先跟你打好招呼，可別太驚訝哦！"
-101,"TEXT_AKTKMA111_04367_ALISAIE_000_112","阿爾菲諾應該在哲學家廣場吧。
+101,"TEXT_AKTKMA111_04367_ALISAIE_000_112","阿爾菲諾應該在哲學家廣場呢吧。
 母親也在等著我們回去，快點去叫上他吧。"
 102,"TEXT_AKTKMA111_04367_ALPHINAUD_000_115","我和阿莉塞小時候
 能夠自由活動的範圍也就到這座橋為止。"
@@ -169,7 +169,7 @@ int32,str,str
 來這裡等待父親做完工作回來呢。"
 106,"TEXT_AKTKMA111_04367_ALISAIE_000_121","有一回，可能是會議延長了吧，
 左等右等父親還是不回來……
-我無聊地將身體探出了欄杆，眺望著小河。"
+我無聊地將身體探出了欄桿，眺望著小河。"
 107,"TEXT_AKTKMA111_04367_ALISAIE_000_122","就在那時，剛巧回來的父親大喊著「阿莉塞！」衝了過來。
 真是令人懷念啊。"
 108,"TEXT_AKTKMA111_04367_ALPHINAUD_000_125","啊，對了。

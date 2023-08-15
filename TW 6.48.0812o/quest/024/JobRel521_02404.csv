@@ -7,12 +7,12 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 ※另外，還需要裝備上真元靈武器才能讓任務繼續進行。
 
-阿爾達希爾表示，為了完善人造元靈的人格，首先需要人造元靈去瞭解情感的結晶。使用接受任務時的職業並裝備上元靈武器，回憶冒險者曾經歷過的蠻神戰。"
+阿爾達希爾表示，為了完善人造元靈的人格，首先需要人造元靈去了解情感的結晶。使用接受任務時的職業並裝備上元靈武器，回憶冒險者曾經歷過的蠻神戰。"
 2,"TEXT_JOBREL521_02404_SEQ_02","繼續使用接受任務時的職業並裝備上元靈武器，回憶冒險者曾經歷過的蠻神戰。"
 3,"TEXT_JOBREL521_02404_SEQ_03","繼續使用接受任務時的職業並裝備上元靈武器，回憶冒險者曾經歷過的蠻神戰。"
 4,"TEXT_JOBREL521_02404_SEQ_04","繼續使用接受任務時的職業並裝備上元靈武器，回憶冒險者曾經歷過的蠻神戰。"
 5,"TEXT_JOBREL521_02404_SEQ_05","蠻神戰回憶完畢。向魔大陸阿濟茲拉螺旋港的阿爾達希爾報告。"
-6,"TEXT_JOBREL521_02404_SEQ_06","向阿爾達希爾報告完畢。他委託冒險者找來一瓶<Sheet(Item,16934,0)/>用於施法。獲得<Sheet(Item,16934,0)/>交給阿爾達希爾。"
+6,"TEXT_JOBREL521_02404_SEQ_06","向阿爾達希爾報告完畢。他委託冒險者找來一瓶<Sheet(Item,16934,0)/>用於施法。獲取<Sheet(Item,16934,0)/>交給阿爾達希爾。"
 7,"TEXT_JOBREL521_02404_SEQ_07","將<Sheet(Item,16934,0)/>交給了阿爾達希爾。人造元靈回應冒險者的期望，覺醒了新的力量。今後，和人造元靈搭檔一起踏上新的旅程。"
 8,"TEXT_JOBREL521_02404_SEQ_08",""
 9,"TEXT_JOBREL521_02404_SEQ_09",""
@@ -37,9 +37,9 @@ int32,str,str
 26,"TEXT_JOBREL521_02404_TODO_02","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,15251,0)/>與<Sheet(Item,15264,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,15252,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,15253,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,15254,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,15255,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,15259,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,15260,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,15261,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,15262,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,15256,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,15258,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,15257,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,15263,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
 完成泰坦殲滅戰"
 27,"TEXT_JOBREL521_02404_TODO_03","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,15251,0)/>與<Sheet(Item,15264,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,15252,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,15253,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,15254,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,15255,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,15259,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,15260,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,15261,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,15262,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,15256,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,15258,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,15257,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,15263,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
-完成莫古利賢王殲滅戰"
+完成莫古力賢王殲滅戰"
 28,"TEXT_JOBREL521_02404_TODO_04","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,15251,0)/>與<Sheet(Item,15264,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,15252,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,15253,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,15254,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,15255,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,15259,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,15260,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,15261,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,15262,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,15256,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,15258,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,15257,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,15263,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
-完成利維坦殲滅戰"
+完成利維亞桑殲滅戰"
 29,"TEXT_JOBREL521_02404_TODO_05","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,15251,0)/>與<Sheet(Item,15264,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,15252,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,15253,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,15254,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,15255,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,15259,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,15260,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,15261,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,15262,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,15256,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,15258,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,15257,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,15263,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
 完成拉姆殲滅戰"
 30,"TEXT_JOBREL521_02404_TODO_06","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,15251,0)/>與<Sheet(Item,15264,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,15252,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,15253,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,15254,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,15255,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,15259,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,15260,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,15261,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,15262,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,15256,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,15258,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,15257,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,15263,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
@@ -75,7 +75,7 @@ int32,str,str
 51,"TEXT_JOBREL521_02404_TODO_23_A2_000_000","創造<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器"
 52,"TEXT_JOBREL521_02404_TODO_23_SYSTEM_000_001","接受任務「人造元靈搭檔」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 53,"TEXT_JOBREL521_02404_TODO_23_SYSTEM_000_002","請轉換為與所需元靈武器相應的特職，
 再次和阿爾達希爾對話。"
 54,"TEXT_JOBREL521_02404_TODO_23_SYSTEM_000_003","要接受任務「人造元靈搭檔」，
@@ -94,9 +94,9 @@ int32,str,str
 59,"TEXT_JOBREL521_02404_ARDASHIR_000_002","瑪托雅大師認為，蠻神是補完人造元靈人格的關鍵所在。
 蠻神依靠召喚者的強烈情感而顯現，
 因此某種程度上來說，它們正是「情感的結晶」。"
-60,"TEXT_JOBREL521_02404_ARDASHIR_000_003","我們要讓人造元靈去瞭解蠻神是帶著怎樣的情感、
+60,"TEXT_JOBREL521_02404_ARDASHIR_000_003","我們要讓人造元靈去了解蠻神是帶著怎樣的情感、
 怎樣去戰鬥的。"
-61,"TEXT_JOBREL521_02404_ARDASHIR_000_004","所以 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+61,"TEXT_JOBREL521_02404_ARDASHIR_000_004","所以<Highlight>ObjectParameter(1)</Highlight>，
 請你手持元靈武器，
 去回憶自己經歷過的蠻神戰吧。"
 62,"TEXT_JOBREL521_02404_ARDASHIR_000_005","這次我們也依靠瑪托雅大師的理論來完善人造元靈的人格吧！"
@@ -114,34 +114,34 @@ int32,str,str
 之後就差利用這些知識來進一步成長了……"
 68,"TEXT_JOBREL521_02404_ARDASHIR_000_022","據說瑪托雅大師為了將普通的青蛙點化成智蛙，
 先是給青蛙灌輸了各種知識，
-之後又透過一種「特殊的魔法」令青蛙開竅。"
+之後又通過一種「特殊的魔法」令青蛙開竅。"
 69,"TEXT_JOBREL521_02404_ARDASHIR_000_023","只要使用這種方法，
 我們就能將人造元靈在追憶之旅中學到的東西，
 深深刻進其靈魂深處。"
 70,"TEXT_JOBREL521_02404_ARDASHIR_000_024","不過施放這個魔法需要用到一些材料。
 其中大部分我都能湊到，但……"
 71,"TEXT_JOBREL521_02404_ARDASHIR_000_025","有一種叫<Sheet(Item,16934,0)/>的東西，
-由於製作方法在艾奧傑亞失傳了，
+由於製作方法在艾歐澤亞失傳了，
 導致我無法將它煉製出來。"
 72,"TEXT_JOBREL521_02404_ARDASHIR_000_026","不過聽說薩雷安那邊如今還有人在私下生產它。
 要是能找到做這種異國進出口貿易的商人，說不定……"
-73,"TEXT_JOBREL521_02404_ARDASHIR_000_027"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能麻煩你幫忙找到它嗎？"
+73,"TEXT_JOBREL521_02404_ARDASHIR_000_027","<Highlight>ObjectParameter(1)</Highlight>，能麻煩你幫忙找到它嗎？"
 74,"TEXT_JOBREL521_02404_ARDASHIR_000_028","非常感謝！
 <Sheet(Item,16934,0)/>有一瓶就夠了，
 其他材料由我來想辦法！"
 75,"TEXT_JOBREL521_02404_ARDASHIR_000_029","我們來將人造元靈在追憶之旅中學到的東西，
 刻進其靈魂深處吧。"
 76,"TEXT_JOBREL521_02404_ARDASHIR_000_030","任務還和從前一樣，
-請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你去找一瓶<Sheet(Item,16934,0)/>來！"
+請<Highlight>ObjectParameter(1)</Highlight>你去找一瓶<Sheet(Item,16934,0)/>來！"
 77,"TEXT_JOBREL521_02404_ARDASHIR_000_031","我會在你回來前準備好其他的材料！"
 78,"TEXT_JOBREL521_02404__SYSTEM_000_032","請和其他玩家互通情報，
-一起探索<Sheet(Item,16934,0)/>的獲得方式。"
+一起探索<Sheet(Item,16934,0)/>的獲取方式。"
 79,"TEXT_JOBREL521_02404_ARDASHIR_000_040","如何？找到<Sheet(Item,16934,0)/>了嗎？
 找到了的話，請將它和武器一起交給我吧。"
 80,"TEXT_JOBREL521_02404_ARDASHIR_000_041","我這邊一切都很順利，
-請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你去找一瓶<Sheet(Item,16934,0)/>來吧！"
+請<Highlight>ObjectParameter(1)</Highlight>你去找一瓶<Sheet(Item,16934,0)/>來吧！"
 81,"TEXT_JOBREL521_02404__SYSTEM_000_035","請和其他玩家互通情報，
-一起探索<Sheet(Item,16934,0)/>的獲得方式。"
+一起探索<Sheet(Item,16934,0)/>的獲取方式。"
 82,"TEXT_JOBREL521_02404_ARDASHIR_000_042","太好了，這下材料就都湊齊了！
 我這就以<Sheet(Item,16934,0)/>為基礎，
 加入我收集的材料進行調配！"
@@ -153,13 +153,13 @@ int32,str,str
 沒錯……很好……"
 86,"TEXT_JOBREL521_02404_ARDASHIR_000_046","呼，總算畫好了！
 最後只要把元靈武器放在魔紋上……"
-87,"TEXT_JOBREL521_02404_ARDASHIR_000_047","好了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你心中帶著對人造元靈的期望，
+87,"TEXT_JOBREL521_02404_ARDASHIR_000_047","好了<Highlight>ObjectParameter(1)</Highlight>，請你心中帶著對人造元靈的期望，
 將乙太灌注到元靈武器裡。"
 88,"TEXT_JOBREL521_02404_Q2_000_000","對人造元靈有何期望？"
 89,"TEXT_JOBREL521_02404_A2_000_001","自由自在"
 90,"TEXT_JOBREL521_02404_A2_000_002","並肩戰鬥"
-91,"TEXT_JOBREL521_02404_A2_000_003","…………"
-92,"TEXT_JOBREL521_02404_BUKINOSEIREI_000_048"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+91,"TEXT_JOBREL521_02404_A2_000_003","……"
+92,"TEXT_JOBREL521_02404_BUKINOSEIREI_000_048","<Highlight>ObjectParameter(1)</Highlight>……"
 93,"TEXT_JOBREL521_02404_BUKINOSEIREI_000_049","主人，感謝你將自己與蠻神戰鬥的記憶分享給我。
 自那之後，我就蠻神們強烈的情感思考了很多。"
 94,"TEXT_JOBREL521_02404_BUKINOSEIREI_000_050","蠻神的力量是在純粹的願望中誕生出來的，
@@ -201,8 +201,8 @@ int32,str,str
 108,"TEXT_JOBREL521_02404_GEROLT_000_064","元靈武器開始發光了！！
 光輝和上次相似，但又有些許不同！"
 109,"TEXT_JOBREL521_02404_ARDASHIR_000_065","這是……"
-110,"TEXT_JOBREL521_02404_ARDASHIR_100_066"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請將元靈武器拿起來！"
-111,"TEXT_JOBREL521_02404_ARDASHIR_000_066","這就是人造元靈回應 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的期望，
+110,"TEXT_JOBREL521_02404_ARDASHIR_100_066","<Highlight>ObjectParameter(1)</Highlight>，請將元靈武器拿起來！"
+111,"TEXT_JOBREL521_02404_ARDASHIR_000_066","這就是人造元靈回應<Highlight>ObjectParameter(1)</Highlight>的期望，
 人格大幅成長後登峰造極的樣子！
 元靈武器如此美麗，自然也有著與其相襯的名字……"
 112,"TEXT_JOBREL521_02404_ARDASHIR_000_067","其名為，<Sheet(Item,IntegerParameter(1),0)/>！！"
@@ -210,7 +210,7 @@ int32,str,str
 114,"TEXT_JOBREL521_02404_ARDASHIR_000_069","原來是這樣。
 在魔法的幫助下，你和人造元靈心心相印，
 引發了人造元靈的覺醒！"
-115,"TEXT_JOBREL521_02404_ARDASHIR_000_070","真是辛苦你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+115,"TEXT_JOBREL521_02404_ARDASHIR_000_070","真是辛苦你了，<Highlight>ObjectParameter(1)</Highlight>！
 在你的努力下，我們取得了喜人的成果。"
 116,"TEXT_JOBREL521_02404_ARDASHIR_000_071","不過像你這樣擁有蠻神討伐經驗的人畢竟是少數，
 想普遍將人造元靈的人格完善到這一高度，
@@ -238,4 +238,4 @@ int32,str,str
 125,"TEXT_JOBREL521_02404_ARDASHIR_000_080","今後請你和人造元靈一起去冒險吧！
 祝你能達成自己的心願！
 記得有空回來給我們講一講你的旅行趣聞。"
-126,"TEXT_JOBREL521_02404_SYSTEM_000_040","成功將「真元靈武器」強化為「真元靈武器．靈光」！"
+126,"TEXT_JOBREL521_02404_SYSTEM_000_040","成功將「真元靈武器」強化為「真元靈武器·靈光」！"

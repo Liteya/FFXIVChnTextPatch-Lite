@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ012_01737_SEQ_00","戈爾加涅牧場的怒不可遏的騎兵非常亢奮。"
-1,"TEXT_HEAVNZ012_01737_SEQ_01","怒不可遏的騎兵希望冒險者將<Sheet(EventItem,2001596,0)/>奪回來。前往庫爾札斯西部高地的戈爾加涅牧草地，討伐<Sheet(BNpcName,3476,0)/>，取得3個有一定機率獲得的<Sheet(EventItem,2001596,0)/>。"
+1,"TEXT_HEAVNZ012_01737_SEQ_01","怒不可遏的騎兵希望冒險者將<Sheet(EventItem,2001596,0)/>奪回來。前往庫爾札斯西部高地的戈爾加涅牧草地，討伐<Sheet(BNpcName,3476,0)/>，取得3個有一定機率獲取的<Sheet(EventItem,2001596,0)/>。"
 2,"TEXT_HEAVNZ012_01737_SEQ_02","獲得了所有的<Sheet(EventItem,2001596,0)/>。將<Sheet(EventItem,2001596,0)/>交還給戈爾加涅牧場的怒不可遏的騎兵。"
 3,"TEXT_HEAVNZ012_01737_SEQ_03","將<Sheet(EventItem,2001596,0)/>交還給了怒不可遏的騎兵。這個護身符是用冰之水晶加工成的，所以<Sheet(BNpcName,3476,0)/>把它當成了食物。"
 4,"TEXT_HEAVNZ012_01737_SEQ_04",""

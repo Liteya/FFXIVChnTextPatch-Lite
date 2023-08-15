@@ -5,7 +5,7 @@ int32,str,str
 創作者之家的克勒翁期待著冒險者的幫助。"
 1,"TEXT_AKTKZH102_04512_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
-來自亞馬烏羅提的訪客克勒翁很在意自己的創造生物蟾諸。蟾諸目前正在由麥拉的哥哥阿爾卡埃烏斯負責管理，和西風仄費羅斯的喝彩的阿爾卡埃烏斯會合。"
+來自亞馬烏羅提的訪客克勒翁很在意自己的創造生物蟾諸。蟾諸目前正在由麥拉的哥哥阿爾卡埃烏斯負責管理，和西風仄費羅斯的喝彩的阿爾卡埃烏斯匯合。"
 2,"TEXT_AKTKZH102_04512_SEQ_02","阿爾卡埃烏斯認為蟾諸存在問題。為了查看西風仄費羅斯的喝彩的蟾諸的情況，使用情感動作「戳指」。"
 3,"TEXT_AKTKZH102_04512_SEQ_03","蟾諸的問題在於反應遲鈍，不過在冒險者的建議下，克勒翁計劃為蟾諸增加新特性。和西風仄費羅斯的喝彩的克勒翁談談。"
 4,"TEXT_AKTKZH102_04512_SEQ_04","克勒翁非常感謝冒險者的建議。至於蟾蜍是否是原初世界的蟾蜍的本源這個問題，還是不要太過深究比較好……"
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_AKTKZH102_04512_TODO_21",""
 46,"TEXT_AKTKZH102_04512_TODO_22",""
 47,"TEXT_AKTKZH102_04512_TODO_23",""
-48,"TEXT_AKTKZH102_04512_KLEON_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_AKTKZH102_04512_KLEON_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 接下來就要去參觀我創造的生物了，
 你要不要也一起來？！"
 49,"TEXT_AKTKZH102_04512_MAIRA_000_001","那就大家一起出發吧。
@@ -68,7 +68,7 @@ int32,str,str
 54,"TEXT_AKTKZH102_04512_KLEON_000_015","啊，蟾諸！
 你平安無事真是太好了。"
 55,"TEXT_AKTKZH102_04512_SYSTEM_000_016","像蟾蜍一樣的生物安安靜靜地待在那裡……"
-56,"TEXT_AKTKZH102_04512_ALKAIOS_000_020","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+56,"TEXT_AKTKZH102_04512_ALKAIOS_000_020","你就是<Highlight>ObjectParameter(1)</Highlight>啊。
 我家麥拉真是受你照顧了。"
 57,"TEXT_AKTKZH102_04512_ALKAIOS_000_021","我叫阿爾卡埃烏斯。
 在這裡和妹妹一樣都是觀察者。"
@@ -77,19 +77,19 @@ int32,str,str
 59,"TEXT_AKTKZH102_04512_KLEON_000_023","是的！
 不知這孩子能否投放到自然界中呢……
 又圓又可愛，我非常喜歡它！"
-60,"TEXT_AKTKZH102_04512_ALKAIOS_000_024","目前對它的初步測試已經結束。
-最終將由多位測試人透過討論之後做出判斷……
+60,"TEXT_AKTKZH102_04512_ALKAIOS_000_024","目前對它的初步評測已經結束。
+最終將由多位評測人通過討論之後做出判斷……
 不過我個人認為希望不大。"
 61,"TEXT_AKTKZH102_04512_KLEON_000_025","怎、怎麼會！
 可以告訴我理由嗎？"
-62,"TEXT_AKTKZH102_04512_ALKAIOS_000_026"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+62,"TEXT_AKTKZH102_04512_ALKAIOS_000_026","<Highlight>ObjectParameter(1)</Highlight>，
 可以請你對這個蟾諸做一下「戳指」嗎？
-因為是和它初次見面，所以你最適合。"
+因為是和它初次見面，所以你最合適。"
 63,"TEXT_AKTKZH102_04512_ALKAIOS_000_030","可以請你對這個蟾諸做一下「戳指」嗎？
-因為是和它初次見面，所以你最適合。"
+因為是和它初次見面，所以你最合適。"
 64,"TEXT_AKTKZH102_04512_MAIRA_000_035","雖然應該不會有什麼危險，
 但還是要多加小心。"
-65,"TEXT_AKTKZH102_04512_KLEON_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+65,"TEXT_AKTKZH102_04512_KLEON_000_040","<Highlight>ObjectParameter(1)</Highlight>，
 它就拜託你了……"
 66,"TEXT_AKTKZH102_04512_SYSTEM_000_050","感受到了阿爾卡埃烏斯的目光……
 對蟾諸使用情感動作「戳指」。"
@@ -106,7 +106,7 @@ int32,str,str
 71,"TEXT_AKTKZH102_04512_KLEON_000_055","這、這樣啊……
 但這孩子圓滾滾的這麼可愛，我非常喜歡。
 真可惜……"
-72,"TEXT_AKTKZH102_04512_MAIRA_000_056"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+72,"TEXT_AKTKZH102_04512_MAIRA_000_056","<Highlight>ObjectParameter(1)</Highlight>，
 你肯定和阿謝姆大人一起走遍全世界了吧？"
 73,"TEXT_AKTKZH102_04512_MAIRA_000_057","難道就沒有什麼讓這孩子保持現狀的前提下，
 使它成為水源守護者的好方法嗎？
@@ -116,7 +116,7 @@ int32,str,str
 76,"TEXT_AKTKZH102_04512_A1_000_002","可以發動黏液拖延對方……"
 77,"TEXT_AKTKZH102_04512_A1_000_003","被撞一下可夠受的"
 78,"TEXT_AKTKZH102_04512_KLEON_000_058","對，就是這個！！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你真的很有想法啊！"
+<Highlight>ObjectParameter(1)</Highlight>，你真的很有想法啊！"
 79,"TEXT_AKTKZH102_04512_ALKAIOS_000_059","嗯，這想法不錯。
 如果能具備這種攻擊手段的話，
 應該就可以保證其存在意義了。"
@@ -128,11 +128,11 @@ int32,str,str
 我會將這些都留存在觀察記錄裡的。"
 83,"TEXT_AKTKZH102_04512_ALKAIOS_000_070","看來你有著豐富的經驗知識啊。
 嗯，很好。"
-84,"TEXT_AKTKZH102_04512_MAIRA_000_075","真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+84,"TEXT_AKTKZH102_04512_MAIRA_000_075","真不愧是<Highlight>ObjectParameter(1)</Highlight>。
 不錯不錯。"
 85,"TEXT_AKTKZH102_04512_MAIRA_000_076","克勒翁也很開心，真好。"
-86,"TEXT_AKTKZH102_04512_KLEON_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真的很感謝你！
-多虧了你，讓我的思緒徹底打開了！
+86,"TEXT_AKTKZH102_04512_KLEON_000_080","<Highlight>ObjectParameter(1)</Highlight>，真的很感謝你！
+多虧了你，讓我的思路徹底打開了！
 果然讓你一起來是正確的選擇。"
 87,"TEXT_AKTKZH102_04512_KLEON_000_081","真希望你可以成為我的使魔。
 阿謝姆大人沒有公開你的理念，

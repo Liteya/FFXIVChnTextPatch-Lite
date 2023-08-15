@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANKJN604_03000_SEQ_22",""
 23,"TEXT_BANKJN604_03000_SEQ_23",""
 24,"TEXT_BANKJN604_03000_TODO_00","調查水下冒險號附近的<Sheet(EObj,2009146,0)/>
-獲得<Sheet(EventItem,2002423,0)/>"
+獲取<Sheet(EventItem,2002423,0)/>"
 25,"TEXT_BANKJN604_03000_TODO_01","將<Sheet(EventItem,2002423,0)/>交給頭巾"
 26,"TEXT_BANKJN604_03000_TODO_02",""
 27,"TEXT_BANKJN604_03000_TODO_03",""
@@ -67,7 +67,7 @@ int32,str,str
 52,"TEXT_BANKJN604_03000_SYSTEM_000_011","調查寶箱後，發現了<Sheet(EventItem,2002423,0)/>！"
 53,"TEXT_BANKJN604_03000_ZUKIN_000_020","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，你回來了啊——
 寶箱捕捉到<Sheet(EventItem,2002423,0)/>了嗎？"
-54,"TEXT_BANKJN604_03000_ZUKIN_000_021","哦哦——真是隻新鮮的章魚啊——
+54,"TEXT_BANKJN604_03000_ZUKIN_000_021","哦哦——真是只新鮮的章魚啊——
 個頭這麼大，小鍛冶屋的人們肯定會很高興吧——"
 55,"TEXT_BANKJN604_03000_ZUKIN_000_023","說起來，我聽說越是舊到長海藻的寶箱，
 越容易捉住<Sheet(EventItem,2002423,0)/>——

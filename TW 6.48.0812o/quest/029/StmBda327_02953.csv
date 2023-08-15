@@ -26,8 +26,8 @@ int32,str,str
 22,"TEXT_STMBDA327_02953_SEQ_22",""
 23,"TEXT_STMBDA327_02953_SEQ_23",""
 24,"TEXT_STMBDA327_02953_TODO_00","尋找牛鬼的屍體 擊退攔路的敵人"
-25,"TEXT_STMBDA327_02953_TODO_01","從牛鬼的屍體身上獲得<Sheet(EventItem,2002387,0)/>"
-26,"TEXT_STMBDA327_02953_TODO_02","從牛鬼的屍體身上獲得<Sheet(EventItem,2002388,0)/>"
+25,"TEXT_STMBDA327_02953_TODO_01","從牛鬼的屍體身上獲取<Sheet(EventItem,2002387,0)/>"
+26,"TEXT_STMBDA327_02953_TODO_02","從牛鬼的屍體身上獲取<Sheet(EventItem,2002388,0)/>"
 27,"TEXT_STMBDA327_02953_TODO_03","將<Sheet(EventItem,2002387,0)/>和<Sheet(EventItem,2002388,0)/>交給加志加"
 28,"TEXT_STMBDA327_02953_TODO_04",""
 29,"TEXT_STMBDA327_02953_TODO_05",""
@@ -54,8 +54,8 @@ int32,str,str
 49,"TEXT_STMBDA327_02953_KAJIKA_000_001","我在西邊的海灘上射殺了一隻牛鬼，屍體還放在那裡。
 我希望你能把<Sheet(EventItem,2002387,0)/>從屍體上拔下來。"
 50,"TEXT_STMBDA327_02953_KAJIKA_000_002","如果能順便解剖了取些<Sheet(EventItem,2002388,0)/>回來就更好了。
-雖然這件工作聽上去蠻簡單……"
-51,"TEXT_STMBDA327_02953_KAJIKA_000_003","不過我射殺的是隻小牛鬼。
+雖然這件工作聽上去挺簡單……"
+51,"TEXT_STMBDA327_02953_KAJIKA_000_003","不過我射殺的是只小牛鬼。
 如果接近屍體，就會有憤怒的牛鬼襲擊過來為它報仇。
 ……不好意思，就拜託你了，高手！"
 52,"TEXT_STMBDA327_02953_KAJIKA_000_010","請從狩獵到的牛鬼身上取下<Sheet(EventItem,2002387,0)/>和<Sheet(EventItem,2002388,0)/>。"

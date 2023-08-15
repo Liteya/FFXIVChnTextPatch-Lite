@@ -3,12 +3,12 @@
 int32,str,str
 0,"TEXT_JOBPLD700_02575_SEQ_00","劍術師公會的密拉有事想告知冒險者。"
 1,"TEXT_JOBPLD700_02575_SEQ_01","和密拉進行了交談。她說鬥技場財團決定重新舉行決賽。和劍術師公會的鬥技大會的接待員對話出席決賽。"
-2,"TEXT_JOBPLD700_02575_SEQ_02","和劍術師公會的鬥技大會的接待員對話後出席了決賽，並成功擊敗了阿爾迪斯。比賽結束後，娜娜莫女王表示舉辦鬥技大會的目的是讓強大的劍士們互相切磋，促進劍術發展，為艾奧傑亞做出貢獻。回到烏爾達哈的劍術師公會。"
+2,"TEXT_JOBPLD700_02575_SEQ_02","和劍術師公會的鬥技大會的接待員對話後出席了決賽，並成功擊敗了阿爾迪斯。比賽結束後，娜娜莫女王表示舉辦鬥技大會的目的是讓強大的劍士們互相切磋，促進劍術發展，為艾歐澤亞做出貢獻。回到烏爾達哈的劍術師公會。"
 3,"TEXT_JOBPLD700_02575_SEQ_03","向劍術師公會的密拉報告勝利的消息。"
-4,"TEXT_JOBPLD700_02575_SEQ_04","和密拉進行了交談。娜娜莫女王撤回了阿爾迪斯的放逐，但阿爾迪斯表示要去學習未知的戰鬥方式，再次踏上了旅途。透過這次鬥技大會，冒險者的劍術又精進了一層。
+4,"TEXT_JOBPLD700_02575_SEQ_04","和密拉進行了交談。娜娜莫女王撤回了阿爾迪斯的放逐，但阿爾迪斯表示要去學習未知的戰鬥方式，再次踏上了旅途。通過這次鬥技大會，冒險者的劍術又精進了一層。
 
 ※滿足下列條件後，可以從烏爾達哈王政廳的傑林斯那裡領取新的特職任務。
-1.完成「漆黑的反叛者主線任務」中「漆黑的反叛者」。
+1.完成「暗影之逆焰主線任務」中「暗影之逆焰」。
 2.完成防護職業的「職能任務」。"
 5,"TEXT_JOBPLD700_02575_SEQ_05",""
 6,"TEXT_JOBPLD700_02575_SEQ_06",""
@@ -53,13 +53,13 @@ int32,str,str
 45,"TEXT_JOBPLD700_02575_TODO_21",""
 46,"TEXT_JOBPLD700_02575_TODO_22",""
 47,"TEXT_JOBPLD700_02575_TODO_23",""
-48,"TEXT_JOBPLD700_02575_MYLLA_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你聽我說！
+48,"TEXT_JOBPLD700_02575_MYLLA_000_000","<Highlight>ObjectParameter(1)</Highlight>，你聽我說！
 經過我們和鬥技場財團交涉……"
 49,"TEXT_JOBPLD700_02575_MYLLA_000_001","終於決定重新舉行決賽了！
 阿爾迪斯這個混蛋，淨給我添麻煩……
 另外幕後黑手歐德也已經被銅刃團抓到了。"
 50,"TEXT_JOBPLD700_02575_MYLLA_000_002","我已經告訴阿爾迪斯了。
-你就和他在最棒的舞臺上一較高下吧！"
+你就和他在最棒的舞台上一較高下吧！"
 51,"TEXT_JOBPLD700_02575_MYLLA_000_003","做好準備了就和以前一樣跟鬥技大會的接待員說一聲。
 我也會去看你和阿爾迪斯的決賽的！"
 52,"TEXT_JOBPLD700_02575_MYLLA_000_004","做好準備了就和以前一樣跟鬥技大會的接待員說一聲。
@@ -69,11 +69,11 @@ int32,str,str
 54,"TEXT_JOBPLD700_02575_ADRIEN_000_011","讓各位久等了！
 決賽終於要開始了！！"
 55,"TEXT_JOBPLD700_02575_CRAFTSMANVISITOR02575_100_011","比賽開始前我有一個問題！
-我聽說布萊克．羅塔斯就是阿爾迪斯，這是真的嗎？"
+我聽說布萊克·羅塔斯就是阿爾迪斯，這是真的嗎？"
 56,"TEXT_JOBPLD700_02575_ODDE_000_012","（★未使用／削除予定★）"
 57,"TEXT_JOBPLD700_02575_ODDE_000_013","（★未使用／削除予定★）"
 58,"TEXT_JOBPLD700_02575_DOURMEADOW_000_014","什麼？！
-摘掉你的頭盔，布萊克．羅塔斯！！"
+摘掉你的頭盔，布萊克·羅塔斯！！"
 59,"TEXT_JOBPLD700_02575_MERCHANTVISITOR02575_000_015","喂，真的是阿爾迪斯？！
 接下來會怎麼樣？"
 60,"TEXT_JOBPLD700_02575_CRAFTSMANVISITOR02575_000_016","會怎樣……
@@ -84,7 +84,7 @@ int32,str,str
 62,"TEXT_JOBPLD700_02575_ALDIS_110_016","(-阿爾迪斯-)我知道自己是被放逐之人。
 就算這場比賽不記入正式比賽也無所謂，
 是我人生中最後一場比賽也無所謂！"
-63,"TEXT_JOBPLD700_02575_ALDIS_120_016","(-阿爾迪斯-)但是，我只希望和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 交手！
+63,"TEXT_JOBPLD700_02575_ALDIS_120_016","(-阿爾迪斯-)但是，我只希望和<Highlight>ObjectParameter(1)</Highlight>交手！
 我保證會為觀眾獻上最精彩的一戰！"
 64,"TEXT_JOBPLD700_02575_MYLLA_000_017","比賽無效？！
 這可是傳說中的劍鬥士納爾之劍和大英雄的對決啊？
@@ -99,8 +99,8 @@ int32,str,str
 我希望讓比賽繼續進行！"
 68,"TEXT_JOBPLD700_02575_CRAFTSMANVISITOR02575_000_020","對啊！
 我從沒落下過一場阿爾迪斯的比賽！
-我想看阿爾迪斯和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的比賽！"
-69,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_021"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒有意見吧？"
+我想看阿爾迪斯和<Highlight>ObjectParameter(1)</Highlight>的比賽！"
+69,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_021","<Highlight>ObjectParameter(1)</Highlight>，你沒有意見吧？"
 70,"TEXT_JOBPLD700_02575_NANAMOULNAMO_100_021","朕也想看這兩人的決賽。
 至於劍士阿爾迪斯的處置，賽後再議。"
 71,"TEXT_JOBPLD700_02575_NANAMOULNAMO_110_021","阿爾迪斯，你沒意見吧？"
@@ -111,7 +111,7 @@ int32,str,str
 76,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_030","你在烏爾王盃鬥技大會上的表現十分精彩！
 朕都無法從你高超的劍技上移開視線了。"
 77,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_031","說起來，你聽說過這次大會的獎品是
-初代銀冑團總長秘傳劍術的奧義書嗎？"
+初代銀胄團總長秘傳劍術的奧義書嗎？"
 78,"TEXT_JOBPLD700_02575_NANAMOULNAMO_100_031","你也聽說了啊。
 帕帕夏恩，東西拿上來。"
 79,"TEXT_JOBPLD700_02575_PAPASHAN_110_031","陛下，恕我直言……"
@@ -141,22 +141,22 @@ int32,str,str
 91,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_041","（★未使用／削除予定★）"
 92,"TEXT_JOBPLD700_02575_PAPASHAN_000_042","但是有一點不同，
 這次不光是為了提升烏爾達哈的國力，
-更是為了艾奧傑亞的將來！"
+更是為了艾歐澤亞的將來！"
 93,"TEXT_JOBPLD700_02575_PAPASHAN_000_043","面對加雷馬帝國的威脅、企圖召喚蠻神的蠻族……
-艾奧傑亞面臨的威脅實在是過於巨大了……"
-94,"TEXT_JOBPLD700_02575_PAPASHAN_000_044","所以我認為只有磨練劍術才能守護艾奧傑亞！"
+艾歐澤亞面臨的威脅實在是過於巨大了……"
+94,"TEXT_JOBPLD700_02575_PAPASHAN_000_044","所以我認為只有磨練劍術才能守護艾歐澤亞！"
 95,"TEXT_JOBPLD700_02575_PAPASHAN_100_044","陛下，請原諒我隱瞞了奧義書的事。
 以陛下的公正仁慈，如果事先知道沒有獎品，
 想必不會舉辦這次大會……"
 96,"TEXT_JOBPLD700_02575_NANAMOULNAMO_110_044","你事前要是跟朕商量就好了……
 不過，既然沒有奧義書，那也要準備其它東西作為獎品才行。"
-97,"TEXT_JOBPLD700_02575_NANAMOULNAMO_120_044"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你想要什麼？
+97,"TEXT_JOBPLD700_02575_NANAMOULNAMO_120_044","<Highlight>ObjectParameter(1)</Highlight>，你想要什麼？
 只要是朕能辦到的，你儘管開口。"
 98,"TEXT_JOBPLD700_02575_Q1_000_000","如何作答？"
 99,"TEXT_JOBPLD700_02575_A1_000_001","希望取消阿爾迪斯的放逐令！"
 100,"TEXT_JOBPLD700_02575_A1_000_002","並沒有什麼想要的"
 101,"TEXT_JOBPLD700_02575_NANAMOULNAMO_130_044","原來如此。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 不愧是仁義之人，這的確是你會說出的提案呢。
+<Highlight>ObjectParameter(1)</Highlight>不愧是仁義之人，這的確是你會說出的提案呢。
 不過朕有件事要先確認。"
 102,"TEXT_JOBPLD700_02575_NANAMOULNAMO_140_044","既然這樣，那就看看第二名的阿爾迪斯有什麼想要的吧。"
 103,"TEXT_JOBPLD700_02575_NANAMOULNAMO_150_044","阿爾迪斯，你雖然輸了，但你的劍術十分高超。
@@ -170,24 +170,24 @@ int32,str,str
 109,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_049","朕正式宣布，從現在起你的放逐令取消了！"
 110,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_050","你的劍術應該用來守護民眾！
 放逐這樣的人才只是損失！"
-111,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_051","然後，勝者 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+111,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_051","然後，勝者<Highlight>ObjectParameter(1)</Highlight>……
 朕祝賀你的勝利！
 恭喜你成為冠軍！"
 112,"TEXT_JOBPLD700_02575_NANAMOULNAMO_000_052","雖然烏爾王盃鬥技大會已經結束了，
-但希望各位參賽選手能將艾奧傑亞的劍術發展下去！"
-113,"TEXT_JOBPLD700_02575_ALDIS_000_053","不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真厲害！"
+但希望各位參賽選手能將艾歐澤亞的劍術發展下去！"
+113,"TEXT_JOBPLD700_02575_ALDIS_000_053","不愧是<Highlight>ObjectParameter(1)</Highlight>，真厲害！"
 114,"TEXT_JOBPLD700_02575_DOURMEADOW_000_054","真是太厲害了！
 恭喜你獲得優勝！！"
-115,"TEXT_JOBPLD700_02575_CHILD02574_000_055"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>真的好強！
+115,"TEXT_JOBPLD700_02575_CHILD02574_000_055","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>真的好強！
 我也會跟阿爾迪斯大叔學習，
 總有一天會去挑戰你的！"
-116,"TEXT_JOBPLD700_02575_CHILD02574_100_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>真的好強！
+116,"TEXT_JOBPLD700_02575_CHILD02574_100_060","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>真的好強！
 我也會跟阿爾迪斯大叔學習，
 總有一天會去挑戰你的！"
 117,"TEXT_JOBPLD700_02575_MYLLA_000_060","真讓我吃驚……
 從今以後我們劍術師公會
-會繼續為守護陛下，守護烏爾達哈及艾奧傑亞而揮劍。"
-118,"TEXT_JOBPLD700_02575_ALDIS_000_061","我明明只是想和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一戰，結果竟然鬧出了這麼大的事，
+會繼續為守護陛下，守護烏爾達哈及艾歐澤亞而揮劍。"
+118,"TEXT_JOBPLD700_02575_ALDIS_000_061","我明明只是想和<Highlight>ObjectParameter(1)</Highlight>一戰，結果竟然鬧出了這麼大的事，
 不過沒想到一段時間不見，你竟然這麼強了……"
 119,"TEXT_JOBPLD700_02575_ALDIS_000_062","說起來陛下說過的那件事……
 我以後真的可以再次站在鬥技場上嗎？"
@@ -202,14 +202,14 @@ int32,str,str
 你不留在烏爾達哈，還要出去旅行嗎？！"
 124,"TEXT_JOBPLD700_02575_ALDIS_000_067","密拉，你也看了決賽了吧？
 就算我在旅途中學會了很多劍技，
-依然敵不過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
-125,"TEXT_JOBPLD700_02575_ALDIS_000_068","為了戰勝 <Highlight>ObjectParameter(1)</Highlight> ，我一定要積累更多經驗，
+依然敵不過<Highlight>ObjectParameter(1)</Highlight>……"
+125,"TEXT_JOBPLD700_02575_ALDIS_000_068","為了戰勝<Highlight>ObjectParameter(1)</Highlight>，我必須要積累更多經驗，
 學會更多戰鬥方式。
 你應該懂吧？"
 126,"TEXT_JOBPLD700_02575_MYLLA_000_069","話、話雖如此……"
 127,"TEXT_JOBPLD700_02575_ALDIS_000_070","放心吧，我會偶爾回來的。
 畢竟這裡還有一個想念我的女人。"
-128,"TEXT_JOBPLD700_02575_ALDIS_000_071"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，受你照顧了。
+128,"TEXT_JOBPLD700_02575_ALDIS_000_071","<Highlight>ObjectParameter(1)</Highlight>，受你照顧了。
 如果和我的戰鬥能讓你萌生新的靈感就好了……"
 129,"TEXT_JOBPLD700_02575_ALDIS_000_072","總之，謝謝你啦，自由騎士。
 下次和你再戰的時候可不會和這次一樣了！
@@ -217,7 +217,7 @@ int32,str,str
 130,"TEXT_JOBPLD700_02575_SYSTEM_100_100","「騎士」的故事到此告一段落！
 要開始接下來的「騎士」特職任務，
 需要滿足以下條件。"
-131,"TEXT_JOBPLD700_02575_SYSTEM_100_101","1.完成「漆黑的反叛者主線任務」中的「漆黑的反叛者」。"
+131,"TEXT_JOBPLD700_02575_SYSTEM_100_101","1.完成「暗影之逆焰主線任務」中的「暗影之逆焰」。"
 132,"TEXT_JOBPLD700_02575_SYSTEM_100_102","2.完成防護職業的「職能任務」。"
 133,"TEXT_JOBPLD700_02575_SYSTEM_100_103","滿足條件後，和烏爾達哈王政廳的傑林斯對話，
 即可開始新的特職任務！"

@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ514_01849_SEQ_00","天極白堊宮丟三落四的莫古利有些煩心事。"
-1,"TEXT_HEAVNZ514_01849_SEQ_01","和丟三落四的莫古利進行了交談。候鳥的雛鳥雖然離巢遷徙了，但留下的巢卻很影響景觀。在天極白堊宮獲得5個<Sheet(EventItem,2001679,0)/>。"
-2,"TEXT_HEAVNZ514_01849_SEQ_02","獲得了<Sheet(EventItem,2001679,0)/>。將<Sheet(EventItem,2001679,0)/>交給天極白堊宮丟三落四的莫古利。"
-3,"TEXT_HEAVNZ514_01849_SEQ_03","將<Sheet(EventItem,2001679,0)/>交給了丟三落四的莫古利。據說<Sheet(EventItem,2001679,0)/>可以燉成非常美味的湯。"
+0,"TEXT_HEAVNZ514_01849_SEQ_00","天極白堊宮丟三落四的莫古力有些煩心事。"
+1,"TEXT_HEAVNZ514_01849_SEQ_01","和丟三落四的莫古力進行了交談。候鳥的雛鳥雖然離巢遷徙了，但留下的巢卻很影響景觀。在天極白堊宮獲取5個<Sheet(EventItem,2001679,0)/>。"
+2,"TEXT_HEAVNZ514_01849_SEQ_02","獲得了<Sheet(EventItem,2001679,0)/>。將<Sheet(EventItem,2001679,0)/>交給天極白堊宮丟三落四的莫古力。"
+3,"TEXT_HEAVNZ514_01849_SEQ_03","將<Sheet(EventItem,2001679,0)/>交給了丟三落四的莫古力。據說<Sheet(EventItem,2001679,0)/>可以燉成非常美味的湯。"
 4,"TEXT_HEAVNZ514_01849_SEQ_04",""
 5,"TEXT_HEAVNZ514_01849_SEQ_05",""
 6,"TEXT_HEAVNZ514_01849_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNZ514_01849_SEQ_21",""
 22,"TEXT_HEAVNZ514_01849_SEQ_22",""
 23,"TEXT_HEAVNZ514_01849_SEQ_23",""
-24,"TEXT_HEAVNZ514_01849_TODO_00","獲得<Sheet(EventItem,2001679,0)/>"
-25,"TEXT_HEAVNZ514_01849_TODO_01","將<Sheet(EventItem,2001679,0)/>交給丟三落四的莫古利"
+24,"TEXT_HEAVNZ514_01849_TODO_00","獲取<Sheet(EventItem,2001679,0)/>"
+25,"TEXT_HEAVNZ514_01849_TODO_01","將<Sheet(EventItem,2001679,0)/>交給丟三落四的莫古力"
 26,"TEXT_HEAVNZ514_01849_TODO_02",""
 27,"TEXT_HEAVNZ514_01849_TODO_03",""
 28,"TEXT_HEAVNZ514_01849_TODO_04",""

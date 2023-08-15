@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMC108_03329_SEQ_00","蛇行枝的雅．修特拉要向大家公布石板的解讀成果。"
+0,"TEXT_LUCKMC108_03329_SEQ_00","蛇行枝的雅·修特拉要向大家公布石板的解讀成果。"
 1,"TEXT_LUCKMC108_03329_SEQ_01",""
 2,"TEXT_LUCKMC108_03329_SEQ_02",""
 3,"TEXT_LUCKMC108_03329_SEQ_03",""
@@ -25,15 +25,15 @@ int32,str,str
 21,"TEXT_LUCKMC108_03329_SEQ_21",""
 22,"TEXT_LUCKMC108_03329_SEQ_22",""
 23,"TEXT_LUCKMC108_03329_SEQ_23",""
-24,"TEXT_LUCKMC108_03329_TODO_00","和雅．修特拉對話"
+24,"TEXT_LUCKMC108_03329_TODO_00","和雅·修特拉對話"
 25,"TEXT_LUCKMC108_03329_TODO_01","尋找夜之民的監視員"
 26,"TEXT_LUCKMC108_03329_TODO_02","救助夜之民的監視員"
-27,"TEXT_LUCKMC108_03329_TODO_03","從<Sheet(EObj,2009874,0)/>獲得<Sheet(EventItem,2002547,0)/>和<Sheet(EventItem,2002548,0)/>"
+27,"TEXT_LUCKMC108_03329_TODO_03","從<Sheet(EObj,2009874,0)/>獲取<Sheet(EventItem,2002547,0)/>和<Sheet(EventItem,2002548,0)/>"
 28,"TEXT_LUCKMC108_03329_TODO_04","對第1處的<Sheet(EObj,2009875,0)/>使用<Sheet(EventItem,2002547,0)/>"
 29,"TEXT_LUCKMC108_03329_TODO_05","對第1處的<Sheet(EObj,2009875,0)/>使用<Sheet(EventItem,2002548,0)/>"
 30,"TEXT_LUCKMC108_03329_TODO_06","對第2處的<Sheet(EObj,2009876,0)/>使用<Sheet(EventItem,2002547,0)/>"
 31,"TEXT_LUCKMC108_03329_TODO_07","對第2處的<Sheet(EObj,2009876,0)/>使用<Sheet(EventItem,2002548,0)/>"
-32,"TEXT_LUCKMC108_03329_TODO_08","將<Sheet(EventItem,2002549,0)/>交給雅．修特拉"
+32,"TEXT_LUCKMC108_03329_TODO_08","將<Sheet(EventItem,2002549,0)/>交給雅·修特拉"
 33,"TEXT_LUCKMC108_03329_TODO_09",""
 34,"TEXT_LUCKMC108_03329_TODO_10",""
 35,"TEXT_LUCKMC108_03329_TODO_11",""
@@ -76,7 +76,7 @@ int32,str,str
 那上面的碑文主要是隆卡文字和古諾弗蘭特語的對譯表，
 而古諾弗蘭特語的解讀工作現在相對進行得比較順利。"
 61,"TEXT_LUCKMC108_03329_RYNE_000_030","那個石碑離這裡很遠嗎？"
-62,"TEXT_LUCKMC108_03329_YSHTOLA_000_031","不遠，石碑也在希秋亞溼原，
+62,"TEXT_LUCKMC108_03329_YSHTOLA_000_031","不遠，石碑也在希秋亞濕原，
 只是保管石碑的人比較棘手……"
 63,"TEXT_LUCKMC108_03329_YSHTOLA_000_032","他們被稱為永暗之子……
 原本也是夜之民，只不過他們對黑暗的信仰有著不同的理解，
@@ -110,7 +110,7 @@ int32,str,str
 76,"TEXT_LUCKMC108_03329_YSHTOLA_000_063","他們認為死亡就是最棒的黑暗……
 所以做起事來連自己的命都可以不要，
 也會對其他人……以要人悔改為由而發動攻擊。"
-77,"TEXT_LUCKMC108_03329_YSHTOLA_000_064","警惕他們的襲擊，從有臺階的路走吧。
+77,"TEXT_LUCKMC108_03329_YSHTOLA_000_064","警惕他們的襲擊，從有台階的路走吧。
 到了樹洞附近應該就能見到監視員。"
 78,"TEXT_LUCKMC108_03329_WATCHER03329_000_070","嗚！"
 79,"TEXT_LUCKMC108_03329_BALLOON_000_080","別礙事……"
@@ -143,7 +143,7 @@ int32,str,str
 永暗之子就不得不先去處理蜜蜂了。"
 93,"TEXT_LUCKMC108_03329_YSHTOLA_000_103","然後我們趁此機會溜進去……"
 94,"TEXT_LUCKMC108_03329_THANCRED_000_104","這辦法不錯。
-要活捉蜜蜂的話就用煙去燻蜂巢，
+要活捉蜜蜂的話就用煙去熏蜂巢，
 把蜜蜂都熏暈，這樣比較快……"
 95,"TEXT_LUCKMC108_03329_THANCRED_000_105","你這有沒有能弄出煙來的東西？
 還有我想要幾個大袋子。"

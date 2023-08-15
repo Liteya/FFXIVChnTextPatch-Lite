@@ -3,15 +3,15 @@
 int32,str,str
 0,"TEXT_FESSUM504_03666_SEQ_00","※本任務是特定期間內的任務。
 
-太陽海岸的紅蓮祭食品專員希爾德拉娜正在等待著烹調大會的參加者。"
+太陽海岸的紅蓮節食品專員希爾德拉娜正在等待著烹調大會的參加者。"
 1,"TEXT_FESSUM504_03666_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-聽希爾德拉娜對烹調大會進行說明，並按要求準備<Sheet(Item,10332,0)/>。獲得<Sheet(Item,10332,0)/>，交給太陽海岸的紅蓮祭食品專員希爾德拉娜。
+聽希爾德拉娜對烹調大會進行說明，並按要求準備<Sheet(Item,10332,0)/>。獲取<Sheet(Item,10332,0)/>，交給太陽海岸的紅蓮節食品專員希爾德拉娜。
 
-※<Sheet(Item,10332,0)/>可由烹調師製作，也可以透過市場布告板購買。"
-2,"TEXT_FESSUM504_03666_SEQ_02","將<Sheet(Item,10332,0)/>交給了希爾德拉娜。為了給紅蓮祭炒熱氣氛，可再次挑戰。"
+※<Sheet(Item,10332,0)/>可由烹調師製作，也可以通過市場布告板購買。"
+2,"TEXT_FESSUM504_03666_SEQ_02","將<Sheet(Item,10332,0)/>交給了希爾德拉娜。為了給紅蓮節炒熱氣氛，可再次挑戰。"
 3,"TEXT_FESSUM504_03666_SEQ_03",""
 4,"TEXT_FESSUM504_03666_SEQ_04",""
 5,"TEXT_FESSUM504_03666_SEQ_05",""
@@ -33,7 +33,7 @@ int32,str,str
 21,"TEXT_FESSUM504_03666_SEQ_21",""
 22,"TEXT_FESSUM504_03666_SEQ_22",""
 23,"TEXT_FESSUM504_03666_SEQ_23",""
-24,"TEXT_FESSUM504_03666_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲得<Sheet(Item,10332,0)/><Else/>將<Sheet(Item,10332,0)/>交給希爾德拉娜</If>"
+24,"TEXT_FESSUM504_03666_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,10332,0)/><Else/>將<Sheet(Item,10332,0)/>交給希爾德拉娜</If>"
 25,"TEXT_FESSUM504_03666_TODO_01",""
 26,"TEXT_FESSUM504_03666_TODO_02",""
 27,"TEXT_FESSUM504_03666_TODO_03",""
@@ -57,7 +57,7 @@ int32,str,str
 45,"TEXT_FESSUM504_03666_TODO_21",""
 46,"TEXT_FESSUM504_03666_TODO_22",""
 47,"TEXT_FESSUM504_03666_TODO_23",""
-48,"TEXT_FESSUM504_03666_HILDELANA_000_000","衷心感謝你參加紅蓮祭！
+48,"TEXT_FESSUM504_03666_HILDELANA_000_000","衷心感謝你參加紅蓮節！
 這裡是為了展現冒險者的製作技能
 而舉辦的烹調大會。"
 49,"TEXT_FESSUM504_03666_HILDELANA_000_001","規則十分簡單，
@@ -65,11 +65,11 @@ int32,str,str
 並提交給身為負責人的我就可以了！"
 50,"TEXT_FESSUM504_03666_HILDELANA_000_002","接下來，這次想請冒險者製作的菜品是……
 <Sheet(Item,10332,0)/>！"
-51,"TEXT_FESSUM504_03666_HILDELANA_000_003","這道菜在參加紅蓮祭的遊客之中，
+51,"TEXT_FESSUM504_03666_HILDELANA_000_003","這道菜在參加紅蓮節的遊客之中，
 也有很不錯的口碑！"
 52,"TEXT_FESSUM504_03666_HILDELANA_000_004","真誠感謝你再度參加烹調大會。
 那我就省略掉冗長的說明吧！"
-53,"TEXT_FESSUM504_03666_HILDELANA_000_005","那麼，就請你儘快準備<Sheet(Item,10332,0)/>吧！
+53,"TEXT_FESSUM504_03666_HILDELANA_000_005","那麼，就請你盡快準備<Sheet(Item,10332,0)/>吧！
 製作用的原材料<Sheet(Item,12990,0)/>可以找開朗的捕魚人購買！"
 54,"TEXT_FESSUM504_03666_HILDELANA_000_006","請準備<Sheet(Item,10332,0)/>吧！
 製作用的原材料<Sheet(Item,12990,0)/>可以找開朗的捕魚人購買！"

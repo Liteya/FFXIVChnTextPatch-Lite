@@ -7,8 +7,8 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 接受了穆納瓦努的委託，去幫助奇努瓦努。和西風島的木工奇努瓦努對話。"
-2,"TEXT_BANVAN301_02185_SEQ_02","奇努瓦努委託冒險者去和人類交換金屬釘子。為此，首先要準備好誘餌，以獲得奇納哈爾鳥妖的嫩肉。從藍天窗的<Sheet(EObj,2006676,0)/>獲得<Sheet(EventItem,2001912,0)/>。"
-3,"TEXT_BANVAN301_02185_SEQ_03","獲得了<Sheet(EventItem,2001912,0)/>。前往起源島，對<Sheet(EObj,2006675,0)/>使用<Sheet(EventItem,2001912,0)/>，從出現的<Sheet(BNpcName,4590,0)/>身上獲得2份<Sheet(EventItem,2001913,0)/>。"
+2,"TEXT_BANVAN301_02185_SEQ_02","奇努瓦努委託冒險者去和人類交換金屬釘子。為此，首先要準備好誘餌，以獲得奇納哈爾鳥妖的嫩肉。從藍天窗的<Sheet(EObj,2006676,0)/>獲取<Sheet(EventItem,2001912,0)/>。"
+3,"TEXT_BANVAN301_02185_SEQ_03","獲得了<Sheet(EventItem,2001912,0)/>。前往起源島，對<Sheet(EObj,2006675,0)/>使用<Sheet(EventItem,2001912,0)/>，從出現的<Sheet(BNpcName,4590,0)/>身上獲取2份<Sheet(EventItem,2001913,0)/>。"
 4,"TEXT_BANVAN301_02185_SEQ_04","獲得了2份<Sheet(EventItem,2001913,0)/>。將<Sheet(EventItem,2001913,0)/>交給雲頂營地的騎兵。"
 5,"TEXT_BANVAN301_02185_SEQ_05","將<Sheet(EventItem,2001913,0)/>交給了法布雷耶，換來了<Sheet(EventItem,2001914,0)/>。將<Sheet(EventItem,2001914,0)/>交給西風島的木工奇努瓦努。"
 6,"TEXT_BANVAN301_02185_SEQ_06","將<Sheet(EventItem,2001914,0)/>交給了奇努瓦努。瓦努族不會自己製作金屬釘子。有了釘子，他們便能更加順利地建造出新房子了。"
@@ -30,9 +30,9 @@ int32,str,str
 22,"TEXT_BANVAN301_02185_SEQ_22",""
 23,"TEXT_BANVAN301_02185_SEQ_23",""
 24,"TEXT_BANVAN301_02185_TODO_00","和木工奇努瓦努對話"
-25,"TEXT_BANVAN301_02185_TODO_01","從<Sheet(EObj,2006676,0)/>獲得<Sheet(EventItem,2001912,0)/>"
+25,"TEXT_BANVAN301_02185_TODO_01","從<Sheet(EObj,2006676,0)/>獲取<Sheet(EventItem,2001912,0)/>"
 26,"TEXT_BANVAN301_02185_TODO_02","對<Sheet(EObj,2006675,0)/>使用<Sheet(EventItem,2001912,0)/>
-從出現的<Sheet(BNpcName,4590,0)/>身上獲得<Sheet(EventItem,2001913,0)/>"
+從出現的<Sheet(BNpcName,4590,0)/>身上獲取<Sheet(EventItem,2001913,0)/>"
 27,"TEXT_BANVAN301_02185_TODO_03","將<Sheet(EventItem,2001913,0)/>交給雲頂營地的騎兵"
 28,"TEXT_BANVAN301_02185_TODO_04","將<Sheet(EventItem,2001914,0)/>交給木工奇努瓦努"
 29,"TEXT_BANVAN301_02185_TODO_05",""
@@ -54,7 +54,7 @@ int32,str,str
 45,"TEXT_BANVAN301_02185_TODO_21",""
 46,"TEXT_BANVAN301_02185_TODO_22",""
 47,"TEXT_BANVAN301_02185_TODO_23",""
-48,"TEXT_BANVAN301_02185_MUNAVANU_000_000","這不是、這不是， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+48,"TEXT_BANVAN301_02185_MUNAVANU_000_000","這不是、這不是，<Highlight>ObjectParameter(1)</Highlight>嘛！
 奇努瓦努正在為建房子的事情煩惱，
 你能不能去幫幫他呀？"
 49,"TEXT_BANVAN301_02185_GINUVANU_000_010","……我只是、我只是因為房子建不好，
@@ -64,7 +64,7 @@ int32,str,str
 用<Sheet(EventItem,2001913,0)/>跟人類換金屬釘子呢？"
 51,"TEXT_BANVAN301_02185_GINUVANU_000_012","奇納哈爾鳥妖上了歲數後，肉就會變得臭臭的，
 因此、因此，
-希望你能從年幼的奇納哈爾鳥妖身上獲得肉，交給人類。"
+希望你能從年幼的奇納哈爾鳥妖身上獲取肉，交給人類。"
 52,"TEXT_BANVAN301_02185_GINUVANU_100_012","年幼的奇納哈爾鳥妖棲息於一座浮島上，你們人類叫它起源島。
 只要用藍天窗的<Sheet(EventItem,2001912,0)/>當誘餌，
 就肯定能抓到它們。"
@@ -72,12 +72,12 @@ int32,str,str
 大概帶去兩份肉就夠了。
 我會像等待甘露的枯木一樣在這裡等待你的歸來！"
 54,"TEXT_BANVAN301_02185_GINUVANU_000_014","你在起源島使用<Sheet(EventItem,2001912,0)/>，
-打倒隨即出現的<Sheet(BNpcName,4590,0)/>，獲得它們的肉！"
+打倒隨即出現的<Sheet(BNpcName,4590,0)/>，獲取它們的肉！"
 55,"TEXT_BANVAN301_02185_GINUVANU_000_015","獲得肉後，就去南邊人類的陣地，和他們交換釘子。
 大概帶去兩份肉就夠了。
 我會像等待甘露的枯木一樣在這裡等待你的歸來！"
 56,"TEXT_BANVAN301_02185_GINUVANU_000_020","你在起源島使用<Sheet(EventItem,2001912,0)/>，
-打倒隨即出現的<Sheet(BNpcName,4590,0)/>，獲得它們的肉！"
+打倒隨即出現的<Sheet(BNpcName,4590,0)/>，獲取它們的肉！"
 57,"TEXT_BANVAN301_02185_GINUVANU_000_021","獲得肉後，就去南邊人類的陣地，和他們交換釘子。
 大概帶去兩份肉就夠了。
 我會像等待甘露的枯木一樣在這裡等待你的歸來！"
@@ -90,7 +90,7 @@ int32,str,str
 60,"TEXT_BANVAN301_02185_FABRELLET_000_032","我們這裡時時刻刻都缺肉。
 你要是有就隨時拿來，
 我會很樂意與你進行交換的。"
-61,"TEXT_BANVAN301_02185_GINUVANU_000_040","你回來了、你回來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+61,"TEXT_BANVAN301_02185_GINUVANU_000_040","你回來了、你回來了，<Highlight>ObjectParameter(1)</Highlight>！
 從人類那裡換來金屬釘子了麼？"
 62,"TEXT_BANVAN301_02185_GINUVANU_000_041","哇！就是這個、就是這個！
 這釘子有如扎根大地的巨樹，結實牢固！

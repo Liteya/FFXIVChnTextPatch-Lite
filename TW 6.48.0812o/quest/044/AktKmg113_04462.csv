@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKMG113_04462_SEQ_00","斯提格瑪．壹的阿爾菲諾似乎下定了決心。"
+0,"TEXT_AKTKMG113_04462_SEQ_00","斯提格瑪一的阿爾菲諾似乎下定了決心。"
 1,"TEXT_AKTKMG113_04462_SEQ_01",""
 2,"TEXT_AKTKMG113_04462_SEQ_02",""
 3,"TEXT_AKTKMG113_04462_SEQ_03",""
@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_AKTKMG113_04462_TODO_22",""
 47,"TEXT_AKTKMG113_04462_TODO_23",""
 48,"TEXT_AKTKMG113_04462_ALISAIE_000_000","大家都是傻瓜……傻瓜、傻瓜……傻瓜……"
-49,"TEXT_AKTKMG113_04462_ALPHINAUD_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……阿莉塞……
+49,"TEXT_AKTKMG113_04462_ALPHINAUD_000_010","<Highlight>ObjectParameter(1)</Highlight>……阿莉塞……
 一起找找吧……抵達那條水晶之路的方法……"
 50,"TEXT_AKTKMG113_04462_ALPHINAUD_000_011","我們必須前行。
 否則什麼都不會改變……不可挽回……
@@ -65,7 +65,7 @@ int32,str,str
 剛才我們在這裡打探消息時它還是關閉的……"
 54,"TEXT_AKTKMG113_04462_ALPHINAUD_000_031","上去吧，它一定會引導我們的。"
 55,"TEXT_AKTKMG113_04462_Q1_000_040","要接觸殘光的傳送門前進嗎？"
-56,"TEXT_AKTKMG113_04462_ALISAIE_000_045"," <Highlight>ObjectParameter(1)</Highlight> ，看上面。
+56,"TEXT_AKTKMG113_04462_ALISAIE_000_045","<Highlight>ObjectParameter(1)</Highlight>，看上面。
 其他星球的殘骸
 像要被死滅的太陽吸進去一樣……"
 57,"TEXT_AKTKMG113_04462_ALISAIE_000_046","我們要去的就是那個昏天黑地的無底洞吧……"
@@ -84,7 +84,7 @@ int32,str,str
 67,"TEXT_AKTKMG113_04462_ALPHINAUD_000_075","嗯，只要手腳還能動……
 不管幾次，我們都會並肩前行！"
 68,"TEXT_AKTKMG113_04462_SYSTEM_000_080","同行者還沒過來。
-迎接並帶他們來到附近，一起瞭解情況吧。"
+迎接並帶他們來到附近，一起了解情況吧。"
 69,"TEXT_AKTKMG113_04462_ALISAIE_000_090","先去和阿爾菲諾打聲招呼，
 然後三人一起行動吧……"
 70,"TEXT_AKTKMG113_04462_SYSTEM_000_091","與阿爾菲諾處於同行狀態，然後三人一起行動吧。"
@@ -134,8 +134,8 @@ int32,str,str
 萬物都是如此輪迴，無可避免……"
 93,"TEXT_AKTKMG113_04462_ALPHINAUD_000_150","真懷念大家一起同行的時光啊。
 桑克瑞德一直在我們前面留意周圍的情況，
-雅．修特拉和于里昂熱邊走邊交換意見……"
-94,"TEXT_AKTKMG113_04462_ALPHINAUD_000_151","最近古．拉哈會加入他們的討論，
+雅·修特拉和於里昂熱邊走邊交換意見……"
+94,"TEXT_AKTKMG113_04462_ALPHINAUD_000_151","最近古·拉哈會加入他們的討論，
 有時也會跟阿莉塞和我探討任務內容。"
 95,"TEXT_AKTKMG113_04462_ALPHINAUD_000_152","埃斯蒂尼安會在隊尾稍遠處，
 不露聲色地守望著大家。
@@ -174,7 +174,7 @@ int32,str,str
 三個人在一起時就應該三等分，對不對？"
 109,"TEXT_AKTKMG113_04462_ALPHINAUD_000_180","水晶之路走到頭了。
 我們是不是抵達下一個地方了……"
-110,"TEXT_AKTKMG113_04462_ALPHINAUD_000_181"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，前面可能有更難解決的問題，
+110,"TEXT_AKTKMG113_04462_ALPHINAUD_000_181","<Highlight>ObjectParameter(1)</Highlight>，前面可能有更難解決的問題，
 也許我們會力不從心。
 但是……"
 111,"TEXT_AKTKMG113_04462_ALPHINAUD_000_182","既然來了就絕不後悔。
@@ -191,8 +191,8 @@ int32,str,str
 116,"TEXT_AKTKMG113_04462_ALISAIE_000_188","當然不是說你弱小啦。
 這只是我的私心……
 你總是幫助我，我也想保護你一回。"
-117,"TEXT_AKTKMG113_04462_ALISAIE_000_190","這是至今為止重現出的
-最面熟的場景……"
+117,"TEXT_AKTKMG113_04462_ALISAIE_000_190","這是至今為止再現出的
+最眼熟的場景……"
 118,"TEXT_AKTKMG113_04462_SYSTEM_000_195","不能丟下阿莉塞不管……
 帶著她一起過來吧。"
 119,"TEXT_AKTKMG113_04462_ALPHINAUD_000_200","這是……"
@@ -211,7 +211,7 @@ int32,str,str
 你們可以找找看……
 反正你們還會回來的。"
 127,"TEXT_AKTKMG113_04462_ALISAIE_000_210","生命消失的城鎮……
-如果真是這樣，我們就沒辦法打探消息了……"
+如果真是這樣，我們就沒法打探消息了……"
 128,"TEXT_AKTKMG113_04462_ALPHINAUD_000_220","如果確實空無一人，
 那應該沒有想把這裡變成死路的情感……"
 129,"TEXT_AKTKMG113_04462_ALPHINAUD_000_221","但梅蒂恩說我們還會回來，

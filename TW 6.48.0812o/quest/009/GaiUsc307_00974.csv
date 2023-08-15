@@ -59,7 +59,7 @@ int32,str,str
 48,"TEXT_GAIUSC307_00974_MAERWYNN_000_000","嗯……<Sheet(EventItem,2000752,0)/>那頁在……有了。
 <Sheet(BNpcName,1981,0)/>的核心——<Sheet(EventItem,2000930,0)/>，
 就是用這種石頭做成的。"
-49,"TEXT_GAIUSC307_00974_MAERWYNN_000_001","但其一定要用<Sheet(EObj,2002194,0)/>的光輝施以淨化，才能變回原樣。
+49,"TEXT_GAIUSC307_00974_MAERWYNN_000_001","但其必須要用<Sheet(EObj,2002194,0)/>的光輝施以淨化，才能變回原樣。
 <Sheet(BNpcName,1981,0)/>出沒在百靈啼的泉水附近。
 你要是想要的話，就去走一趟吧。"
 50,"TEXT_GAIUSC307_00974_TODO_000_010","在指定地點等待，打倒出現的巨像兵，獲得珠石"

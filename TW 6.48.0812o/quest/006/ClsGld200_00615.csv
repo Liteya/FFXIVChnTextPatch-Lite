@@ -51,14 +51,14 @@ int32,str,str
 45,"TEXT_CLSGLD200_00615_TODO_21",""
 46,"TEXT_CLSGLD200_00615_TODO_22",""
 47,"TEXT_CLSGLD200_00615_TODO_23",""
-48,"TEXT_CLSGLD200_00615_SERENDIPITY_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你聽我說啊！
+48,"TEXT_CLSGLD200_00615_SERENDIPITY_000_1","<Highlight>ObjectParameter(1)</Highlight>，你聽我說啊！
 涅吉他太過分了！"
-49,"TEXT_CLSGLD200_00615_SERENDIPITY_000_2","他竟然擅自把我珍藏的蘋果塔吃掉了！
+49,"TEXT_CLSGLD200_00615_SERENDIPITY_000_2","他竟然擅自把我珍藏的蘋果撻吃掉了！
 說到底魔法人偶明明連味覺都沒有啊！"
 50,"TEXT_CLSGLD200_00615_SERENDIPITY_000_3","竟然還說什麼
 「賽倫再吃的話、手指就、太肥了！會無法雕金的！要注意！」
 真是太沒禮貌了！我哪有那麼胖！"
-51,"TEXT_CLSGLD200_00615_SERENDIPITY_000_4","那、那個， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+51,"TEXT_CLSGLD200_00615_SERENDIPITY_000_4","那、那個，<Highlight>ObjectParameter(1)</Highlight>！
 自上次之後，你雕金的手藝磨練得怎麼樣了？
 看樣子又進步了不少啊！"
 52,"TEXT_CLSGLD200_00615_SERENDIPITY_000_5","也差不多該向下一階段進發了！
@@ -75,17 +75,17 @@ int32,str,str
 因為這次只是練習，所以你鑲嵌哪種都可以。"
 58,"TEXT_CLSGLD200_00615_SERENDIPITY_000_12","如果你對魔晶石有什麼疑問的話，
 可以去中薩納蘭的「狼煙丘」。
-那裡住著對魔晶石非常瞭解的工匠。"
+那裡住著對魔晶石非常了解的工匠。"
 59,"TEXT_CLSGLD200_00615_SERENDIPITY_000_13","那麼就請你在<Sheet(Item,2111,0)/>上鑲嵌一塊魔晶石吧。
 我等著你！"
-60,"TEXT_CLSGLD200_00615_SERENDIPITY_000_14"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，怎麼樣？
+60,"TEXT_CLSGLD200_00615_SERENDIPITY_000_14","<Highlight>ObjectParameter(1)</Highlight>，怎麼樣？
 成功將魔晶石鑲嵌在<Sheet(Item,2111,0)/>上了嗎？"
 61,"TEXT_CLSGLD200_00615_GIGI_000_15","……嘰嘰……嘰嘰嘰嘰……
 魔、魔晶石！
 鑲嵌、魔晶石、莫著急！"
 62,"TEXT_CLSGLD200_00615_GIGI_000_16","……這是啥！相當不錯嘛！
 你這貨、是把頭蓋骨、敲破
-往腦漿裡、鑲了塊魔晶石嗎？！ "
+往腦漿裡、鑲了塊魔晶石嗎？！"
 63,"TEXT_CLSGLD200_00615_SERENDIPITY_000_17","涅吉，你淡定些！言辭太粗暴了！
 你、你不要介意啊！
 他這是在誇你呢！"

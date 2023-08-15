@@ -3,17 +3,17 @@
 int32,str,str
 0,"TEXT_FESVLT103_00523_SEQ_00","※本任務是特定期間內的任務。
 
-米．凱特露天劇場的奧爾特芬斯，希望冒險者在烏爾達哈尋找去向不明的告白對象。"
+米·凱特露天劇場的奧爾特芬斯，希望冒險者在烏爾達哈尋找去向不明的告白對象。"
 1,"TEXT_FESVLT103_00523_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-奧爾特芬斯委託冒險者在烏爾達哈尋找去向不明的告白對象。首先與烏爾達哈紅玉大路國際市場附近的愛情傳教士談談，讓他將委託任務的女性找來說明詳情。"
-2,"TEXT_FESVLT103_00523_SEQ_02","從<Switch(PlayerParameter(79))><Case(1)>為情所困的少女</Case><Case(2)>為情所困的少女</Case><Case(3)>為情所困的少女</Case><Case(4)>為情所困的少女</Case><Case(5)>為情所困的少女</Case><Case(6)>為情所困的少女</Case><Case(7)>為情所痴的少女</Case><Case(8)>為情所痴的少女</Case><Case(9)>為情所痴的少女</Case><Case(10)>為情所痴的少女</Case><Case(11)>為情所痴的少女</Case><Case(12)>為情所痴的少女</Case></Switch>處瞭解了詳情。尋找告白對象的線索，似乎只有他留下的「<Switch(PlayerParameter(79))><Case(1)>銅</Case><Case(2)>銅</Case><Case(3)>門</Case><Case(4)>門</Case><Case(5)>谷</Case><Case(6)>谷</Case><Case(7)>銀</Case><Case(8)>銀</Case><Case(9)>亭</Case><Case(10)>亭</Case><Case(11)>旭日路</Case><Case(12)>旭日路</Case></Switch>」一詞。找到少女的心上人，把<Sheet(EventItem,2001557,0)/>交給他。
+奧爾特芬斯委託冒險者在烏爾達哈尋找去向不明的告白對象。首先與烏爾達哈紅玉大路國際市場附近的愛情傳道士談談，讓他將委託任務的女性找來說明詳情。"
+2,"TEXT_FESVLT103_00523_SEQ_02","從<Switch(PlayerParameter(79))><Case(1)>為情所困的少女</Case><Case(2)>為情所困的少女</Case><Case(3)>為情所困的少女</Case><Case(4)>為情所困的少女</Case><Case(5)>為情所困的少女</Case><Case(6)>為情所困的少女</Case><Case(7)>為情所癡的少女</Case><Case(8)>為情所癡的少女</Case><Case(9)>為情所癡的少女</Case><Case(10)>為情所癡的少女</Case><Case(11)>為情所癡的少女</Case><Case(12)>為情所癡的少女</Case></Switch>處了解了詳情。尋找告白對象的線索，似乎只有他留下的「<Switch(PlayerParameter(79))><Case(1)>銅</Case><Case(2)>銅</Case><Case(3)>門</Case><Case(4)>門</Case><Case(5)>谷</Case><Case(6)>谷</Case><Case(7)>銀</Case><Case(8)>銀</Case><Case(9)>亭</Case><Case(10)>亭</Case><Case(11)>旭日路</Case><Case(12)>旭日路</Case></Switch>」一詞。找到少女的心上人，把<Sheet(EventItem,2001557,0)/>交給他。
 
 ※需要尋找的「少女的心上人」不會在地圖或角色名稱上加以註明。請和其他玩家互相交換資訊，努力尋找。"
-3,"TEXT_FESVLT103_00523_SEQ_03","將<Sheet(EventItem,2001557,0)/>交給了少女的心上人<Switch(PlayerParameter(79))><Case(1)>夏夏古恩</Case><Case(2)>夏夏古恩</Case><Case(3)>夏夏古恩</Case><Case(4)>夏夏古恩</Case><Case(5)>夏夏古恩</Case><Case(6)>夏夏古恩</Case><Case(7)>沃沃塔基</Case><Case(8)>沃沃塔基</Case><Case(9)>沃沃塔基</Case><Case(10)>沃沃塔基</Case><Case(11)>沃沃塔基</Case><Case(12)>沃沃塔基</Case></Switch>。向紅玉大路國際市場附近的愛情傳教士報告。"
-4,"TEXT_FESVLT103_00523_SEQ_04","向愛情傳教士報告完畢。在冒險者的幫助下，烏爾達哈<Switch(PlayerParameter(79))><Case(1)>為情所困的少女</Case><Case(2)>為情所困的少女</Case><Case(3)>為情所困的少女</Case><Case(4)>為情所困的少女</Case><Case(5)>為情所困的少女</Case><Case(6)>為情所困的少女</Case><Case(7)>為情所痴的少女</Case><Case(8)>為情所痴的少女</Case><Case(9)>為情所痴的少女</Case><Case(10)>為情所痴的少女</Case><Case(11)>為情所痴的少女</Case><Case(12)>為情所痴的少女</Case></Switch>告白成功了。另外還得知，奧爾特芬斯正在尋找一位「曾在伊修加爾德相遇的女性」。好像在薩納蘭並沒找到這樣的女性……"
+3,"TEXT_FESVLT103_00523_SEQ_03","將<Sheet(EventItem,2001557,0)/>交給了少女的心上人<Switch(PlayerParameter(79))><Case(1)>夏夏古恩</Case><Case(2)>夏夏古恩</Case><Case(3)>夏夏古恩</Case><Case(4)>夏夏古恩</Case><Case(5)>夏夏古恩</Case><Case(6)>夏夏古恩</Case><Case(7)>沃沃塔基</Case><Case(8)>沃沃塔基</Case><Case(9)>沃沃塔基</Case><Case(10)>沃沃塔基</Case><Case(11)>沃沃塔基</Case><Case(12)>沃沃塔基</Case></Switch>。向紅玉大路國際市場附近的愛情傳道士報告。"
+4,"TEXT_FESVLT103_00523_SEQ_04","向愛情傳道士報告完畢。在冒險者的幫助下，烏爾達哈<Switch(PlayerParameter(79))><Case(1)>為情所困的少女</Case><Case(2)>為情所困的少女</Case><Case(3)>為情所困的少女</Case><Case(4)>為情所困的少女</Case><Case(5)>為情所困的少女</Case><Case(6)>為情所困的少女</Case><Case(7)>為情所癡的少女</Case><Case(8)>為情所癡的少女</Case><Case(9)>為情所癡的少女</Case><Case(10)>為情所癡的少女</Case><Case(11)>為情所癡的少女</Case><Case(12)>為情所癡的少女</Case></Switch>告白成功了。另外還得知，奧爾特芬斯正在尋找一位「曾在伊修加德相遇的女性」。好像在薩納蘭並沒找到這樣的女性……"
 5,"TEXT_FESVLT103_00523_SEQ_05",""
 6,"TEXT_FESVLT103_00523_SEQ_06",""
 7,"TEXT_FESVLT103_00523_SEQ_07",""
@@ -33,9 +33,9 @@ int32,str,str
 21,"TEXT_FESVLT103_00523_SEQ_21",""
 22,"TEXT_FESVLT103_00523_SEQ_22",""
 23,"TEXT_FESVLT103_00523_SEQ_23",""
-24,"TEXT_FESVLT103_00523_TODO_00","和烏爾達哈的愛情傳教士對話"
+24,"TEXT_FESVLT103_00523_TODO_00","和烏爾達哈的愛情傳道士對話"
 25,"TEXT_FESVLT103_00523_TODO_01","尋找少女的心上人 將<Sheet(EventItem,2001557,0)/>交給他"
-26,"TEXT_FESVLT103_00523_TODO_02","向烏爾達哈的愛情傳教士報告"
+26,"TEXT_FESVLT103_00523_TODO_02","向烏爾達哈的愛情傳道士報告"
 27,"TEXT_FESVLT103_00523_TODO_03",""
 28,"TEXT_FESVLT103_00523_TODO_04",""
 29,"TEXT_FESVLT103_00523_TODO_05",""
@@ -58,14 +58,14 @@ int32,str,str
 46,"TEXT_FESVLT103_00523_TODO_22",""
 47,"TEXT_FESVLT103_00523_TODO_23",""
 48,"TEXT_FESVLT103_00523_HORTEFENSE_000_000","那請你去烏爾達哈尋找不知去向的告白對象吧！
-你最好先見見委託人，從她那裡瞭解一下具體情況。"
+你最好先見見委託人，從她那裡了解一下具體情況。"
 49,"TEXT_FESVLT103_00523_HORTEFENSE_000_001","等你到了烏爾達哈，
-先去找找在紅玉大路國際市場附近的愛情傳教士如何？
+先去找找在紅玉大路國際市場附近的愛情傳道士如何？
 他應該會幫你聯繫委託人，安排你們見面的。"
 50,"TEXT_FESVLT103_00523_HORTEFENSE_000_002","等你到了烏爾達哈，
-先去找找在紅玉大路國際市場附近的愛情傳教士如何？
+先去找找在紅玉大路國際市場附近的愛情傳道士如何？
 他應該會幫你聯繫委託人，安排你們見面的。"
-51,"TEXT_FESVLT103_00523_MISSIONARY00523_000_010","喔，你就是那個愛情傳教士的助手吧？
+51,"TEXT_FESVLT103_00523_MISSIONARY00523_000_010","喔，你就是那個愛情傳道士的助手吧？
 感謝你來這裡協助我的工作。
 我去把委託人帶過來，你先稍等。"
 52,"TEXT_FESVLT103_00523_GIRLA00523_000_011","你就是願意幫助我的冒險者對吧！
@@ -164,11 +164,11 @@ int32,str,str
 86,"TEXT_FESVLT103_00523_MISSIONARY00523_000_052","對了，如果你接下來要去找奧爾特芬斯大人報告，
 請你幫我帶個話好嗎？
 「您所尋找的那位女性，至今仍無消息」。"
-87,"TEXT_FESVLT103_00523_MISSIONARY00523_000_053","大人似乎正尋找一位曾在伊修加爾德相遇的女性。
+87,"TEXT_FESVLT103_00523_MISSIONARY00523_000_053","大人似乎正尋找一位曾在伊修加德相遇的女性。
 但她應該不會來到這麼遠的地方吧……
 奧爾特芬斯大人心裡其實應該也明白。"
 88,"TEXT_FESVLT103_00523_MISSIONARY00523_000_054","閒話說得多了些，請別介意。
 在烏爾達哈尋找告白對象的任務就此結束了！感謝你的協助！
-你作為愛情傳教士的助手所付出的努力，我會銘記在心的！"
-89,"TEXT_FESVLT103_00523_SYSTEM_000_060","協助了所有城邦的愛情傳教士！
-向格里達尼亞米．凱特露天劇場的奧爾特芬斯報告。"
+你作為愛情傳道士的助手所付出的努力，我會銘記在心的！"
+89,"TEXT_FESVLT103_00523_SYSTEM_000_060","協助了所有城邦的愛情傳道士！
+向格里達尼亞米·凱特露天劇場的奧爾特芬斯報告。"

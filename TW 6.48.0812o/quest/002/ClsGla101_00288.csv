@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSGLA101_00288_TODO_21",""
 46,"TEXT_CLSGLA101_00288_TODO_22",""
 47,"TEXT_CLSGLA101_00288_TODO_23",""
-48,"TEXT_CLSGLA101_00288_MYLLA_000_1","好久不見了， <Highlight>ObjectParameter(1)</Highlight> 。
+48,"TEXT_CLSGLA101_00288_MYLLA_000_1","好久不見了，<Highlight>ObjectParameter(1)</Highlight>。
 看來你這些日子一直在不懈鍛鍊啊。
 那麼接下來我們開始新的試煉，你準備好了麼？"
 49,"TEXT_CLSGLA101_00288_MYLLA_000_2","最近在城裡發生了專門針對持劍者的殺傷事件。
@@ -65,7 +65,7 @@ int32,str,str
 也就是說這次你的試煉，是和槍術師戰鬥。"
 52,"TEXT_CLSGLA101_00288_MYLLA_000_5","對方經常結伴出沒於棄石貧民窟周圍。
 開動腦筋，思考戰術。"
-53,"TEXT_CLSGLA101_00288_MYLLA_000_6","去吧， <Highlight>ObjectParameter(1)</Highlight> 。
+53,"TEXT_CLSGLA101_00288_MYLLA_000_6","去吧，<Highlight>ObjectParameter(1)</Highlight>。
 賭上公會的威信，打倒劍的仇人，
 證明劍才是最強的！"
 54,"TEXT_CLSGLA101_00288_NPCA_000_40","呀！
@@ -80,7 +80,7 @@ int32,str,str
 58,"TEXT_CLSGLA101_00288_MYLLA_000_62","(CUT)"
 59,"TEXT_CLSGLA101_00288_MYLLA_000_63","(CUT)"
 60,"TEXT_CLSGLA101_00288_MYLLA_000_64","他們一定是在故鄉難以生存下去，
-因此利慾薰心來到了薩納蘭地區。
+因此利慾熏心來到了薩納蘭地區。
 只要走錯一步，傭兵團就會變成盜賊團了。"
 61,"TEXT_CLSGLA101_00288_MYLLA_000_65","……不過還真是奇怪啊，
 為什麼他們專挑劍術師襲擊呢？
@@ -91,19 +91,19 @@ int32,str,str
 說那黑影之民的槍術傭兵團
 出現在黑塵近郊地區了！"
 65,"TEXT_CLSGLA101_00288_MYLLA_000_69","……嘖，他們不止一撥人麼……
-好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這事就由你負責到底。
+好，<Highlight>ObjectParameter(1)</Highlight>，這事就由你負責到底。
 我派你去討伐傭兵團。"
 66,"TEXT_CLSGLA101_00288_MYLLA_000_70","(CUT)"
 67,"TEXT_CLSGLA101_00288_MYLLA_000_71","(CUT)"
 68,"TEXT_CLSGLA101_00288_MYLLA_000_72","喂，布魯斯。
-這次只派 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一個人去我有點不放心。
+這次只派<Highlight>ObjectParameter(1)</Highlight>一個人去我有點不放心。
 你這個前輩陪著一起去，幫忙討伐。"
 69,"TEXT_CLSGLA101_00288_BRUCE_000_73","(CUT)"
 70,"TEXT_CLSGLA101_00288_BRUCE_000_74","(CUT)"
 71,"TEXT_CLSGLA101_00288_BRUCE_000_75","要輔助新人麼？
 我明白了。我會好好照顧新人的。"
-72,"TEXT_CLSGLA101_00288_MYLLA_000_76","聽好了， <Highlight>ObjectParameter(1)</Highlight> 。
-這次是敵我雙方都出現在戰場上的團隊作戰，
+72,"TEXT_CLSGLA101_00288_MYLLA_000_76","聽好了，<Highlight>ObjectParameter(1)</Highlight>。
+這回是敵我雙方都出現在戰場上的團隊作戰，
 別忘了將敵人的仇恨都集中到自己身上。"
 73,"TEXT_CLSGLA101_00288_MYLLA_000_77","(CUT)"
 74,"TEXT_CLSGLA101_00288_MYLLA_000_78","(CUT)"
@@ -120,7 +120,7 @@ int32,str,str
 81,"TEXT_CLSGLA101_00288_BRUCE_000_AFTER","幹得好！
 多虧了你牽制住敵人，讓我撿了一條命。
 快回去領表揚吧，嘿嘿。"
-82,"TEXT_CLSGLA101_00288_MYLLA_000_120","你幹得很棒， <Highlight>ObjectParameter(1)</Highlight> 。
+82,"TEXT_CLSGLA101_00288_MYLLA_000_120","你幹得很棒，<Highlight>ObjectParameter(1)</Highlight>。
 布魯斯已經向我彙報了你的表現。"
 83,"TEXT_CLSGLA101_00288_MYLLA_000_150","不過……
 他們襲擊劍術師是為了獎金對吧？
@@ -129,7 +129,7 @@ int32,str,str
 85,"TEXT_CLSGLA101_00288_A1_000_161","他們說了「阿爾迪斯」這個名字。"
 86,"TEXT_CLSGLA101_00288_A2_000_162","他們說了「納伊迪斯」這個名字。"
 87,"TEXT_CLSGLA101_00288_MYLLA_000_165","阿爾迪斯？！
-喂！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+喂！<Highlight>ObjectParameter(1)</Highlight>，
 剛才你說阿爾迪斯了吧？！"
 88,"TEXT_CLSGLA101_00288_MYLLA_000_166","……不可能。
 難道他……回來了麼……
@@ -138,8 +138,8 @@ int32,str,str
 不認識這個人啊。
 算了……不管這麼多了。"
 90,"TEXT_CLSGLA101_00288_SYSTEM_000_180","等級達到「15級」以上時，才可以領取下一個任務。
-提高等級後再來公會。 "
-91,"TEXT_CLSGLA101_00288_POP_MESSAGE","察覺到了敵人的氣息！ "
+提高等級後再來公會。"
+91,"TEXT_CLSGLA101_00288_POP_MESSAGE","察覺到了敵人的氣息！"
 92,"TEXT_CLSGLA101_00288_SCENE00005_INSTANCE_BATTLE_YESNO_TITLE","要開始「折斷長槍的劍光」的戰鬥嗎？"
 93,"TEXT_CLSGLA101_00288_SCENE00005_INSTANCE_BATTLE_YESNO_YES","是"
 94,"TEXT_CLSGLA101_00288_SCENE00005_INSTANCE_BATTLE_YESNO_NO","否"

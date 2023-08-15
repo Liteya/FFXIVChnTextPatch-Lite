@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE",""
-1,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_TITLE","飼養中的陸行鳥：<Value>IntegerParameter(1)</Value>隻
+1,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_TITLE","飼養中的陸行鳥：<Value>IntegerParameter(1)</Value>只
 鳥房的狀態：<Switch(IntegerParameter(2))><Case(1)>普通</Case><Case(2)>髒</Case><Case(3)>乾淨</Case></Switch>"
 2,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_LIST","陸行鳥一覽"
 3,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_MY_CHOCOBO","專屬陸行鳥"
@@ -69,7 +69,7 @@ int32,str,str
 38,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A1","有6種果實可以作為零食餵給陸行鳥。"
 39,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A2","可以作為零食的果實有塞爾法特爾沙果、多瑪青梅、
 輝鱗油梨、瓦爾醋栗、
-奧．哥摩羅漿果還有謝爾達萊鳳梨。"
+奧·哥摩羅漿果還有謝爾達萊鳳梨。"
 40,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A3","陸行鳥吃過零食後，
 在鳥房中經過6小時（地球時間），便會迎來換羽期。
 陸行鳥的羽毛顏色會根據吃過的零食發生變化。"

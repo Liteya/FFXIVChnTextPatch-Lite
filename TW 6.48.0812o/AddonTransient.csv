@@ -3,11 +3,11 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/>收回物品"
-2,"<CommandIcon(12)/>+ <CommandIcon(13)/>貼上  <CommandIcon(10)/>刪除  <If(PlayerParameter(94))><CommandIcon(11)/>軟鍵盤<Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+ <CommandIcon(13)/>黏貼  <CommandIcon(10)/>刪除  <If(PlayerParameter(94))><CommandIcon(11)/>軟鍵盤<Else/><Indent/></If>"
 3,"<CommandIcon(8)/>改變隊員排列順序  <CommandIcon(10)/>次級指令"
-4,"<CommandIcon(11)/>開始搜尋"
+4,"<CommandIcon(11)/>開始搜索"
 5,"<CommandIcon(10)/>次級指令 <CommandIcon(8)/>購買 <CommandIcon(11)/>選擇要出售的道具"
-6,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>文字指令一覽"
+6,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>文本指令一覽"
 7,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>寫新郵件"
 8,"<CommandIcon(10)/>次級指令"
 9,"<CommandIcon(8)/><CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回"
@@ -32,12 +32,12 @@ int32,str
 28,"<CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回"
 29,"<CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回"
 30,"<CommandIcon(8)/>確認接受  <CommandIcon(11)/>查看日誌  <CommandIcon(24)/>滾動查看詳細情報"
-31,"<CommandIcon(11)/>搜尋"
+31,"<CommandIcon(11)/>搜索"
 32,"<CommandIcon(10)/>次級指令  <CommandIcon(8)/>查看市場情況  <CommandIcon(9)/>返回"
 33,"<CommandIcon(10)/>次級指令  <CommandIcon(8)/>查看市場情況  <CommandIcon(9)/>返回  <CommandIcon(12)/><CommandIcon(13)/>翻頁"
 34,"<CommandIcon(8)/><CommandIcon(10)/>次級指令"
-35,"<CommandIcon(11)/>重新獲得隊員招募列表　<CommandIcon(10)/>次級指令　<CommandIcon(8)/>查看詳情"
-36,"<CommandIcon(11)/>開始搜尋"
+35,"<CommandIcon(11)/>重新獲取隊員招募列表　<CommandIcon(10)/>次級指令　<CommandIcon(8)/>查看詳情"
+36,"<CommandIcon(11)/>開始搜索"
 37,"<CommandIcon(10)/><CommandIcon(11)/>在各個職能間依次切換　<CommandIcon(8)/>指定具體職業"
 38,"<CommandIcon(10)/>次級指令  <CommandIcon(8)/>交換"
 39,"<CommandIcon(10)/>次級指令"
@@ -51,7 +51,7 @@ int32,str
 47,"<CommandIcon(8)/>選擇  <CommandIcon(11)/>返回列表"
 48,"<CommandIcon(8)/>解除選擇  <CommandIcon(11)/>切換到物品視窗"
 49,"<CommandIcon(11)/>切換到物品視窗"
-50,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>搜尋道具"
+50,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>搜索道具"
 51,"<CommandIcon(20)/>移動  <CommandIcon(25)/>旋轉  <CommandIcon(12)/>+ <CommandIcon(24)/>縮放"
 52,"<CommandIcon(12)/><CommandIcon(13)/>切換列表"
 53,"<CommandIcon(24)/>滾動查看詳細情報"
@@ -70,24 +70,24 @@ int32,str
 66,"<CommandIcon(10)/>次級指令"
 67,"<CommandIcon(10)/>次級指令  <CommandIcon(1)/>選擇聊天視窗  <CommandIcon(11)/>放大聊天視窗"
 68,"<CommandIcon(1)/>選擇聊天視窗  <CommandIcon(11)/>放大聊天視窗"
-69,"<CommandIcon(8)/>設定到擴充技能欄中"
+69,"<CommandIcon(8)/>設定到擴展技能欄中"
 70,"<CommandIcon(10)/>次級指令  <CommandIcon(8)/>選擇"
 71,"<CommandIcon(8)/>更換裝備  <CommandIcon(10)/>次級指令  <CommandIcon(12)/><CommandIcon(13)/>切換部位"
 72,"<CommandIcon(10)/>次級指令  <CommandIcon(1)/>選擇聊天視窗  <CommandIcon(2)/>切換所選分欄  <CommandIcon(11)/>放大聊天視窗"
 73,"<CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大聊天視窗"
 74,"<CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>將聊天視窗恢復原尺寸"
-75,"<CommandIcon(5)/>紀錄  <CommandIcon(12)/>+ <CommandIcon(13)/>貼上  <CommandIcon(10)/>刪除  <CommandIcon(13)/>定型文<If(PlayerParameter(94))>  <CommandIcon(11)/>軟鍵盤<Else/><Indent/></If>"
+75,"<CommandIcon(5)/>履歷  <CommandIcon(12)/>+ <CommandIcon(13)/>黏貼  <CommandIcon(10)/>刪除  <CommandIcon(13)/>定型文<If(PlayerParameter(94))>  <CommandIcon(11)/>軟鍵盤<Else/><Indent/></If>"
 76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前進  <CommandIcon(13)/>定型文"
 77,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>應用"
 78,"<CommandIcon(11)/>應用  <CommandIcon(10)/>刪除設定　"
 79,"<CommandIcon(8)/>跳過劇情  <CommandIcon(9)/>取消"
 80,"<CommandIcon(12)/><CommandIcon(13)/>選擇職業分類"
-81,"<CommandIcon(8)/><CommandIcon(10)/>次級指令  <CommandIcon(11)/>設定搜尋條件"
+81,"<CommandIcon(8)/><CommandIcon(10)/>次級指令  <CommandIcon(11)/>設定搜索條件"
 82,"<CommandIcon(5)/>順序移動  <CommandIcon(8)/>確定  <CommandIcon(9)/>取消"
 83,"<CommandIcon(7)/>移動  <CommandIcon(8)/>確定  <CommandIcon(9)/>取消"
 84,"<CommandIcon(11)/>編輯部隊公告"
 85,"<CommandIcon(10)/>次級指令"
-86,"<CommandIcon(8)/>獲得線上狀態  <CommandIcon(10)/>次級指令"
+86,"<CommandIcon(8)/>獲取線上狀態  <CommandIcon(10)/>次級指令"
 87,"<CommandIcon(11)/>應用"
 88,"<CommandIcon(11)/>應用"
 89,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>應用"
@@ -106,7 +106,7 @@ int32,str
 102,"<CommandIcon(10)/>裝備欄次級指令"
 103,"<CommandIcon(12)/><CommandIcon(13)/>選擇分類"
 104,"<CommandIcon(10)/>次級指令  <CommandIcon(3)/><CommandIcon(4)/>翻頁"
-105,"<CommandIcon(8)/>獲得線上狀態  <CommandIcon(10)/>次級指令  <CommandIcon(3)/><CommandIcon(4)/>翻頁"
+105,"<CommandIcon(8)/>獲取線上狀態  <CommandIcon(10)/>次級指令  <CommandIcon(3)/><CommandIcon(4)/>翻頁"
 106,"<CommandIcon(24)/>滾動查看詳細情報"
 107,"<CommandIcon(8)/>使用  <CommandIcon(10)/>次級指令"
 108,"<CommandIcon(10)/>設定熱鍵"
@@ -130,17 +130,17 @@ int32,str
 126,"<CommandIcon(11)/>應用"
 127,"<CommandIcon(11)/>選擇要放入的道具"
 128,"<CommandIcon(10)/>次級指令  <CommandIcon(1)/>選擇聊天視窗  <CommandIcon(11)/>將聊天視窗恢復原尺寸"
-129,"<Gui(17)/>縮放視窗  <CommandIcon(11)/>切換顯示內容"
+129,"<Gui(17)/>縮放窗口  <CommandIcon(11)/>切換顯示內容"
 130,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>查看內容"
 131,"<CommandIcon(8)/>顯示典型釣場"
 132,"<CommandIcon(23)/>滾動查看地圖"
-133,"<CommandIcon(23)/>滾動查看地圖  <CommandIcon(8)/>開啟魚類圖鑑"
+133,"<CommandIcon(23)/>滾動查看地圖  <CommandIcon(8)/>打開魚類圖鑑"
 134,"<CommandIcon(1)/>選擇聊天視窗  <CommandIcon(2)/>切換所選分欄  <CommandIcon(11)/>放大聊天視窗"
 135,"<CommandIcon(1)/>選擇聊天視窗  <CommandIcon(11)/>將聊天視窗恢復原尺寸"
 136,"<CommandIcon(11)/>選擇要放入的道具"
 137,"<CommandIcon(10)/>撤銷變更部分"
 138,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>家具列表"
-139,"<CommandIcon(10)/>次級指令 <CommandIcon(11)/>物品<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>切換已布置/倉庫切替<Else/></If>"
+139,"<CommandIcon(10)/>次級指令 <CommandIcon(11)/>物品 <CommandIcon(14)/><CommandIcon(15)/>切換已布置/倉庫"
 140,"<CommandIcon(11)/>移動"
 141,"<CommandIcon(20)/>移動  <CommandIcon(25)/>轉向  <CommandIcon(12)/>+ <CommandIcon(24)/>縮放"
 142,"<CommandIcon(10)/>裝備欄次級指令  <CommandIcon(20)/>移動  <CommandIcon(25)/>轉向  <CommandIcon(12)/>+ <CommandIcon(24)/>縮放"
@@ -148,7 +148,7 @@ int32,str
 144,"<CommandIcon(10)/>次級指令  <CommandIcon(1)/>選擇聊天視窗  <CommandIcon(2)/>切換所選分欄"
 145,"<CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回"
 146,"<CommandIcon(1)/>選擇聊天視窗  <CommandIcon(2)/>切換所選分欄"
-147,"<CommandIcon(12)/><CommandIcon(13)/>切換訊息欄"
+147,"<CommandIcon(12)/><CommandIcon(13)/>切換聊天欄"
 148,"<CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大聊天視窗"
 149,"<CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>將聊天視窗恢復原尺寸"
 150,"<CommandIcon(23)/>滾動  <CommandIcon(11)/>切換地圖類型  <CommandIcon(12)/>+ <CommandIcon(23)/>縮放"
@@ -239,10 +239,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 177,"<CommandIcon(9)/>取消  <CommandIcon(11)/>出發"
 178,"<CommandIcon(10)/>次級指令"
 179,"<CommandIcon(10)/>選擇 <CommandIcon(9)/>關閉 <CommandIcon(11)/>確定並關閉"
-180,"<CommandIcon(5)/>紀錄  <CommandIcon(12)/>+ <CommandIcon(13)/>貼上  <CommandIcon(10)/>刪除  <If(PlayerParameter(94))><CommandIcon(11)/>軟鍵盤<Else/><Indent/></If>"
-181,"<CommandIcon(10)/>次級指令 <CommandIcon(11)/>儲存更改並關閉"
-182,"<CommandIcon(9)/>儲存更改並關閉"
-183,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>開啟寵物一覽"
+180,"<CommandIcon(5)/>履歷  <CommandIcon(12)/>+ <CommandIcon(13)/>黏貼  <CommandIcon(10)/>刪除  <If(PlayerParameter(94))><CommandIcon(11)/>軟鍵盤<Else/><Indent/></If>"
+181,"<CommandIcon(10)/>次級指令 <CommandIcon(11)/>保存更改並關閉"
+182,"<CommandIcon(9)/>保存更改並關閉"
+183,"<CommandIcon(10)/>次級指令  <CommandIcon(11)/>打開寵物一覽"
 184,"<CommandIcon(8)/>召喚"
 185,"<CommandIcon(24)/>滾動查看幫助資訊"
 186,"<CommandIcon(10)/>設定熱鍵  <CommandIcon(11)/>編輯寵物熱鍵欄  <CommandIcon(8)/>召喚"
@@ -263,8 +263,8 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　遭到破壞之後，核石所受到的傷害會增加。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>關於設施的破壞與重啟<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　奧秘核石之外的設施在遭到攻擊時會暫時停止功能的執行。
-　經過一段時間之後會透過重啟來恢復原本的功能。
+　奧秘核石之外的設施在遭到攻擊時會暫時停止功能的運行。
+　經過一段時間之後會通過重啟來恢復原本的功能。
 　※重啟過程中將我方的寵物放到設施附近能夠縮短重啟的時間。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈活運用設施特效<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -273,8 +273,8 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>使用特殊技來瞬間逆轉<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　滿足下列兩個條件時可以發動特殊技。
-　　．附近聚集了4隻或更多的同一種寵物
-　　．聚集的4隻寵物都蓄積了特殊技點數
+　　·附近聚集了4隻或更多的同一種寵物
+　　·聚集的4隻寵物都積攢了特殊技點數
 　　（「特殊技點數」會隨時間經過而增加）
 　滿足條件之後選中某一隻寵物，
 　可以在選單裡選擇「發動特殊技」來發動。
@@ -290,7 +290,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　·選擇單個寵物
 　　　<CommandIcon(12)/>+ <CommandIcon(7)/>　：選擇寵物小隊列表中的寵物
 　　·選擇多個寵物
-　　　<CommandIcon(11)/>　　　：開啟選擇圈並選中圈內的寵物
+　　　<CommandIcon(11)/>　　　：打開選擇圈並選中圈內的寵物
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜特殊功能＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　　·整體操作
 　　　<Gui(17)/>　　　：切換萌寵之門
@@ -311,14 +311,14 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>滑鼠操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜選擇寵物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　　左鍵點擊：選擇單個寵物
-　　　　　　　　 ※左鍵點擊已選中的寵物時
+　　左鍵單擊：選擇單個寵物
+　　　　　　　　 ※左鍵單擊已選中的寵物時
 　　　　　　　　　 會選中附近的同種類寵物。
 　　左鍵拖曳：選擇範圍內的所有寵物
 <Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>滑鼠操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜選擇寵物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　　左鍵點擊：選擇單個寵物
-　　　　　　　　 ※左鍵點擊已選中的寵物時
+　　左鍵單擊：選擇單個寵物
+　　　　　　　　 ※左鍵單擊已選中的寵物時
 　　　　　　　　　 會選中附近的同種類寵物。
 　　左鍵拖曳：選擇範圍內的所有寵物
 
@@ -327,7 +327,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　·選擇單個寵物
 　　　<CommandIcon(12)/>+ <CommandIcon(7)/>　：選擇寵物小隊列表中的寵物
 　　·選擇多個寵物
-　　　<CommandIcon(11)/>　　　：開啟選擇圈並選中圈內的寵物
+　　　<CommandIcon(11)/>　　　：打開選擇圈並選中圈內的寵物
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜特殊功能＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　　·整體操作
 　　　<Gui(17)/>　　　：切換萌寵之門
@@ -353,7 +353,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　發動特殊技　　：熱鍵欄3的技能欄1
 　　發動陷阱　　　：熱鍵欄3的技能欄2
 　　返回　　　　　：熱鍵欄3的技能欄3
-</If>　　開啟選擇圈　　：跳躍
+</If>　　打開選擇圈　　：跳躍
 　　切換萌寵之門　：拔出/收回武器
 　　萌寵之王列表　：寵物一覽"
 188,"<CommandIcon(8)/>選擇  <CommandIcon(11)/>出港探索  <CommandIcon(24)/>滾動查看詳細情報"
@@ -387,7 +387,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 216,"<CommandIcon(10)/>次級指令"
 217,"<CommandIcon(10)/>次級指令"
 218,"<CommandIcon(10)/>次級指令"
-219,"<CommandIcon(14)/><CommandIcon(15)/>切換固定視角 <CommandIcon(18)/>顯示選單"
+219,"<CommandIcon(14)/><CommandIcon(15)/>定點カメラの切り替え <CommandIcon(18)/>メニュー表示"
 220,"<CommandIcon(8)/>移動到公寓房間  <CommandIcon(10)/>查看公寓房間資料"
 221,"<CommandIcon(10)/>次級指令"
 222,"<CommandIcon(10)/>次級指令"
@@ -395,7 +395,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 224,"<CommandIcon(10)/>次級指令"
 225,"<CommandIcon(10)/>次級指令 <CommandIcon(11)/>環境切換"
 226,"<CommandIcon(9)/>關閉 <CommandIcon(24)/>滾動"
-227,"<CommandIcon(12)/><CommandIcon(13)/>選擇分類 <CommandIcon(8)/>新增 <CommandIcon(10)/>次級指令"
+227,"<CommandIcon(12)/><CommandIcon(13)/>選擇分類 <CommandIcon(8)/>添加 <CommandIcon(10)/>次級指令"
 228,"<CommandIcon(10)/>次級指令"
 229,"<CommandIcon(10)/>次級指令"
 230,"<CommandIcon(10)/>裝備欄次級指令"
@@ -414,10 +414,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 243,"<CommandIcon(9)/>選擇關閉按鈕"
 244,"<CommandIcon(5)/>滾動 <CommandIcon(9)/>關閉"
 245,"<CommandIcon(11)/>組編分隊"
-246,"<CommandIcon(8)/>獲得線上狀態  <CommandIcon(10)/>次級指令"
-247,"禁止透過樂器演奏功能侵犯第三方的權利。
+246,"<CommandIcon(8)/>獲取線上狀態  <CommandIcon(10)/>次級指令"
+247,"禁止通過樂器演奏功能侵犯第三方的權利。
 
-玩家可在«Final Fantasy 14»版權與使用者協議的允許範圍內上傳自己的演奏作品，
+玩家可在«最終幻想14»著作權與用戶協議的允許範圍內上傳自己的演奏作品，
 但無權阻止他人散播或使用自己的作品。
 
 "
@@ -453,12 +453,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,"<CommandIcon(8)/>召喚/收回 <CommandIcon(10)/>次級指令 <CommandIcon(11)/>編輯寵物熱鍵欄"
 278,"<CommandIcon(8)/>召喚/收回 <CommandIcon(10)/>次級指令 <CommandIcon(11)/>移動常用列表中寵物的位置"
 279,"<CommandIcon(7)/>移動 <CommandIcon(11)/><CommandIcon(8)/>確定 <CommandIcon(9)/>取消"
-280,"<CommandIcon(5)/>紀錄 <CommandIcon(12)/>+ <CommandIcon(13)/>貼上 <CommandIcon(10)/>刪除<If(PlayerParameter(94))> <CommandIcon(11)/>軟鍵盤<Else/></If>"
+280,"<CommandIcon(5)/>履歷 <CommandIcon(12)/>+ <CommandIcon(13)/>黏貼 <CommandIcon(10)/>刪除<If(PlayerParameter(94))> <CommandIcon(11)/>軟鍵盤<Else/></If>"
 281,"<CommandIcon(5)/>移動 <CommandIcon(8)/>召喚/收回 <CommandIcon(10)/>次級指令"
 282,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>次級指令"
 283,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>次級指令 <CommandIcon(11)/>移動常用列表中坐騎的位置"
 284,"<CommandIcon(7)/>移動 <CommandIcon(11)/><CommandIcon(8)/>確定 <CommandIcon(9)/>取消"
-285,"<CommandIcon(5)/>紀錄 <CommandIcon(12)/>+ <CommandIcon(13)/>貼上 <CommandIcon(10)/>刪除<If(PlayerParameter(94))> <CommandIcon(11)/>軟鍵盤<Else/></If>"
+285,"<CommandIcon(5)/>履歷 <CommandIcon(12)/>+ <CommandIcon(13)/>黏貼 <CommandIcon(10)/>刪除<If(PlayerParameter(94))> <CommandIcon(11)/>軟鍵盤<Else/></If>"
 286,"<CommandIcon(5)/>移動 <CommandIcon(8)/>召喚 <CommandIcon(10)/>次級指令"
 287,"<CommandIcon(7)/>移動 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>確定 <CommandIcon(9)/>取消"
 288,"<CommandIcon(8)/>召喚/收回 <CommandIcon(10)/>次級指令"
@@ -481,13 +481,13 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 305,"<CommandIcon(10)/>刪除<If(PlayerParameter(94))> <CommandIcon(11)/>軟鍵盤<Else/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/>次級指令"
 307,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>設定熱鍵 <CommandIcon(11)/>編輯寵物熱鍵欄"
-308,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>設定熱鍵 "
-309,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>設定熱鍵 "
+308,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>設定熱鍵"
+309,"<CommandIcon(8)/>召喚 <CommandIcon(10)/>設定熱鍵"
 310,"<CommandIcon(12)/><CommandIcon(13)/>切換關卡資訊"
 311,"<CommandIcon(8)/>確定 <CommandIcon(24)/>滾動查看詳細情報"
 312,"<CommandIcon(8)/>確定"
 313,"<CommandIcon(10)/>鳴牌設定切換 <CommandIcon(11)/>輔助功能"
-314,"<CommandIcon(8)/>獲得線上狀態  <CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回"
+314,"<CommandIcon(8)/>獲取線上狀態  <CommandIcon(10)/>次級指令  <CommandIcon(9)/>返回"
 315,"<CommandIcon(12)/><CommandIcon(13)/>切換關卡資訊　<CommandIcon(8)/>確認有效的異常狀態"
 316,"<CommandIcon(8)/>選擇  <CommandIcon(10)/>次級指令"
 317,"<CommandIcon(8)/>選擇 <CommandIcon(10)/>次級指令"
@@ -559,17 +559,17 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/>快速滾動 <CommandIcon(10)/>次級指令"
-386,"<CommandIcon(5)/>紀錄  <CommandIcon(12)/>+ <CommandIcon(13)/>貼上  <CommandIcon(10)/>刪除  <If(PlayerParameter(94))><CommandIcon(11)/>軟鍵盤<Else/></If>"
+386,"<CommandIcon(5)/>履歷  <CommandIcon(12)/>+ <CommandIcon(13)/>黏貼  <CommandIcon(10)/>刪除  <If(PlayerParameter(94))><CommandIcon(11)/>軟鍵盤<Else/></If>"
 387,"<CommandIcon(8)/>領取獎勵  <CommandIcon(10)/>次級指令"
 388,"<CommandIcon(10)/>次級指令"
 389,"<CommandIcon(10)/>次級指令"
 390,"<CommandIcon(12)/><CommandIcon(13)/>選擇職業分類 <CommandIcon(10)/>次級指令"
-391,"<CommandIcon(12)/><CommandIcon(13)/>選擇職業分類  <CommandIcon(8)/>開啟地圖"
+391,"<CommandIcon(12)/><CommandIcon(13)/>選擇職業分類  <CommandIcon(8)/>打開地圖"
 392,"<CommandIcon(5)/>選擇目的地 <CommandIcon(8)/>傳送 <CommandIcon(23)/>轉為控制地圖"
 393,"<CommandIcon(23)/>滾動 <CommandIcon(7)/>轉為控制列表"
 394,"<CommandIcon(23)/>滾動 <CommandIcon(8)/>傳送 <CommandIcon(7)/>轉為控制列表"
-395,"<CommandIcon(10)/>在各個職能間依次切換  <CommandIcon(8)/>指定具體職業  <CommandIcon(11)/>開始搜尋"
-396,"<CommandIcon(10)/>全選/反選  <CommandIcon(11)/>開始搜尋"
+395,"<CommandIcon(10)/>在各個職能間依次切換  <CommandIcon(8)/>指定具體職業  <CommandIcon(11)/>開始搜索"
+396,"<CommandIcon(10)/>全選/反選  <CommandIcon(11)/>開始搜索"
 397,"<CommandIcon(10)/>切換職能/單一職業"
 398,"<CommandIcon(10)/>切換該區域全選/單一地點"
 399,"<CommandIcon(11)/>確定並關閉"
@@ -584,13 +584,13 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 408,"親信戰友"
 409,"主線任務中需要前往的71級以上的迷宮
 都可選擇與非玩家同伴角色的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幻體<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一同前往。
-幻體可透過攻略迷宮而獲得經驗、升級。
+幻體可通過攻略迷宮而獲得經驗、升級。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※使用「親信戰友」系統挑戰迷宮時部分寶箱中的內容會減少，
 另外擊敗部分怪物時將無法獲得獎勵。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 410,"投影"
 411,"等級達到80級的幻體會開放<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>投影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能。
-可以在同伴選擇畫面上透過次級指令中的投影選項
+可以在同伴選擇畫面上通過次級指令中的投影選項
 對幻體的外觀進行修改。
 投影開放後，同伴的詳細情報處的投影按鍵就會生效。"
 412,"幻體的限制"
@@ -598,40 +598,40 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 414,"進入迷宮的兩種方法"
 415,"進入迷宮有兩種方法，
 第一種是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>和輔助隊員組成小隊單獨進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
-第二種是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用配對功能與其他玩家組成小隊進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+第二種是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用匹配功能與其他玩家組成小隊進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 當然，玩家也可以在進入迷宮前，事先與其他玩家組成小隊共同參與迷宮挑戰。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不管以上述何種方式進入迷宮，均可參與迷宮挑戰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※和輔助隊員挑戰迷宮時，為了平衡報酬獲得量，部分寶箱中的內容會減少。
 另外擊敗部分怪物時將無法獲得獎勵。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-416,"任務支援者"
+416,"劇情輔助器"
 417,"作為玩家，你可以憑藉<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>輔助隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的協助，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>獨自挑戰迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-我們將這個系統稱呼為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務支援者<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+我們將這個系統稱呼為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-可以使用任務支援者的迷宮，在入口處會設有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>進入點和任務支援者可用的圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+可以使用劇情輔助器的迷宮，在入口處會設有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>進入點和劇情輔助器可用的圖標<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 訪問進入點，選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>和輔助隊員進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，
-將會開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務支援者視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+將會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>輔助隊員的職業或特職<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會根據你當前的職業或特職<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自動調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為最佳組合。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下進入按鈕後<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以與非玩家角色一同挑戰迷宮了！"
-418,"出發確認視窗"
-419,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>做好出發準備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+418,"出發確認窗口"
+419,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>做好出發準備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出發按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以進行挑戰了！
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若沒有在限制時間內出發，將會取消參加，需要重新進行選擇。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 420,"可以挑戰的任務"
 421,"隨著你的冒險不斷推進，可以挑戰的迷宮、討伐殲滅戰的數量也會不斷增加。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用任務支援者的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用劇情輔助器的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
 
-此外成功挑戰過的迷宮、討伐殲滅戰也可以重複進行挑戰。
+此外成功挑戰過的迷宮、討伐殲滅戰也可以重覆進行挑戰。
 可以從<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選單選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務支援者<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次進行挑戰。"
+或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次進行挑戰。"
 422,"編成小隊"
 423,"主線任務中需要前往的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>71級以上<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的迷宮、討伐殲滅戰
 都可在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>輔助隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一覽中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編成小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>並出發挑戰。
 
-可以透過點選小隊成員來開啟該任務<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>可同行的輔助隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗。"
+可以通過點擊小隊成員來打開該任務<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>可同行的輔助隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口。"
 424,""
 425,""
 426,""
@@ -640,31 +640,31 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 429,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是供<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不同玩家<UIGlow>01</UIGlow><UIForeground>01</UIForeground>組成小隊
 一起挑戰迷宮等任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>便利功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 訪問進入點，選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>與其他玩家一同進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，
-將會開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+將會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 430,"申請參加任務"
 431,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>勾選想要挑戰的迷宮名稱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，然後<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下參加按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 系統就會自動地將參加相同任務的玩家組成小隊。
-這個過程被稱為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>配對<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+這個過程被稱為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※最多只能同時申請參加5個任務。
 
 ※帶有鎖頭圖案的任務表示當前狀態沒有完全符合參加條件，無法申請參加。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 432,"申請的預約狀況"
-433,"開始申請之後，目的列表中會出現搜尋器的圖示，可以隨時查看<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>預約狀況<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+433,"開始申請之後，目的列表中會出現搜尋器的圖標，可以隨時查看<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>預約狀況<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-預約狀況視窗中會顯示當前的隊伍情況和伺服器預約情況。"
-434,"出發確認視窗"
-435,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>配對完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+預約狀況窗口中會顯示當前的隊伍情況和伺服器預約情況。"
+434,"出發確認窗口"
+435,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出發按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以進行挑戰了！
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若沒有在限制時間內出發，將會取消參加，需要重新進行選擇。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 436,"可以挑戰的迷宮"
 437,"隨著你的冒險不斷推進，可以挑戰的迷宮數量也會不斷增加。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用任務支援者的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用劇情輔助器的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
 
-此外成功挑戰過的迷宮也可以重複進行挑戰。
+此外成功挑戰過的迷宮也可以重覆進行挑戰。
 可以從<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選單選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務支援者<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次進行挑戰。"
+或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次進行挑戰。"
 438,"<CommandIcon(20)/>移動 <CommandIcon(25)/>旋轉 <CommandIcon(12)/>+ <CommandIcon(24)/>縮放"
 439,"<CommandIcon(10)/>次級指令"
 440,"<CommandIcon(10)/> 次級指令"
@@ -718,10 +718,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>3.以規定人數進入任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只有以規定人數進入任務時才能對任務進行記錄。
-※規定人數以下組隊配對進任務時無法進行記錄。
+※規定人數以下組隊匹配進任務時無法進行記錄。
 ※解除限制後，即便以規定人數進入任務也不會進行記錄。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>4.進行記錄準備確認<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-開始記錄任務前需要透過記錄準備確認來確認隊友們是否同意進行記錄。
+開始記錄任務前需要通過記錄準備確認來確認隊友們是否同意進行記錄。
 只有全員同意時才能開始記錄。
 ※記錄準備確認需要在進入任務後5分鐘內發起。
 
@@ -796,9 +796,9 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>結束回顧<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 結束回顧退出。"
 451,"<CommandIcon(10)/> 次級指令"
-452,"<CommandIcon(24)/>滾動文章"
-453,"<CommandIcon(8)/>開啟  <CommandIcon(24)/>滾動"
-454,"<CommandIcon(24)/>滾動查看詳細情報"
+452,"<CommandIcon(24)/>滾動"
+453,"<CommandIcon(8)/>打開  <CommandIcon(24)/>滾動"
+454,"<CommandIcon(24)/>滾動"
 455,"<CommandIcon(10)/> 次級指令"
 456,"<CommandIcon(8)/>放養寵物  <CommandIcon(10)/>次級指令 <CommandIcon(11)/>變更寵物"
 457,"<CommandIcon(10)/> 次級指令"
@@ -826,16 +826,16 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 479,"<CommandIcon(10)/>次級指令"
 480,""
 481,"<CommandIcon(18)/>無人島庭具の投影配置を終了する"
-482,"<Gui(13)/>＋<Gui(20)/>移動 <CommandIcon(14)/><CommandIcon(15)/>轉向 <CommandIcon(10)/>次級指令 <CommandIcon(11)/><If(IntegerParameter(1))>開啟網格移動調整功能<Else/>關閉網格移動調整功能</If>"
+482,"<Gui(13)/>＋<Gui(20)/>移動 <CommandIcon(14)/><CommandIcon(15)/>回転 <CommandIcon(10)/>サブコマンド <CommandIcon(11)/><If(IntegerParameter(1))>グリッドスナップ機能を有効にする<Else/>グリッドスナップ機能を無効にする</If>"
 483,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>無人島庭具リスト"
 484,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>所持品<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>登録済み/投影配置済み切替<Else/></If>"
 485,""
-486,"<CommandIcon(10)/>次級指令 <CommandIcon(11)/><If(IntegerParameter(1))>開啟網格移動調整功能<Else/>關閉網格移動調整功能</If>"
-487,"<CommandIcon(10)/>次級指令"
+486,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/><If(IntegerParameter(1))>グリッドスナップ機能を有効にする<Else/>グリッドスナップ機能を無効にする</If>"
+487,"<CommandIcon(10)/>サブコマンド"
 488,"<CommandIcon(18)/>庭具の染色を終了する"
 489,"<CommandIcon(18)/>庭具の配置を終了する"
-490,"<Gui(13)/>＋<Gui(20)/>移動 <CommandIcon(14)/><CommandIcon(15)/>轉向 <CommandIcon(11)/><If(IntegerParameter(1))>開啟網格移動調整功能<Else/>關閉網格移動調整功能</If>"
-491,"<CommandIcon(11)/><If(IntegerParameter(1))>開啟網格移動調整功能<Else/>關閉網格移動調整功能</If>"
+490,"<Gui(13)/>＋<Gui(20)/>移動 <CommandIcon(14)/><CommandIcon(15)/>回転 <CommandIcon(11)/><If(IntegerParameter(1))>グリッドスナップ機能を有効にする<Else/>グリッドスナップ機能を無効にする</If>"
+491,"<CommandIcon(11)/><If(IntegerParameter(1))>グリッドスナップ機能を有効にする<Else/>グリッドスナップ機能を無効にする</If>"
 492,""
 493,""
 494,""
@@ -845,8 +845,8 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 498,""
 499,""
 500,""
-1000,"報告傳送失敗。
-請重新傳送。"
+1000,"報告發送失敗。
+請重新發送。"
 1001,"<UIForeground>F20202</UIForeground>任務回顧中的基本操作<UIForeground>01</UIForeground>
 ※鍵位設定中可更改對應鍵盤滑鼠的按鍵。
 <If(Equal(PlayerParameter(78),99))>·調整視角
@@ -888,10 +888,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F20202</UIForeground>3.以規定人數進入任務<UIForeground>01</UIForeground>
 只有以規定人數進入任務時才能對任務進行記錄。
-※規定人數以下組隊配對進任務時無法進行記錄。
+※規定人數以下組隊匹配進任務時無法進行記錄。
 
 <UIForeground>F20202</UIForeground>4.進行記錄準備確認<UIForeground>01</UIForeground>
-開始記錄任務前需要透過記錄準備確認來確認隊友們是否同意進行記錄。
+開始記錄任務前需要通過記錄準備確認來確認隊友們是否同意進行記錄。
 只有全員同意時才能開始記錄。
 ※記錄準備確認需要在進入任務後5分鐘內發起。
 
@@ -963,9 +963,9 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 每個同好會最多可容納1000名成員。
 
 玩家可選擇自己建立同好會，
-也可透過邀請或同好招募召集同好或加入別人建立的同好會。
+也可通過邀請或同好招募召集同好或加入別人建立的同好會。
 同好會可跨服，每個角色最多可同時隸屬於10個同好會。
-在快捷指令的社群中可以看到同好招募選項。
+在快捷指令的社交中可以看到同好招募選項。
 
 同好會成員分為會長（建立同好會的玩家或被移交了會長許可權的玩家），
 會長任命的管理員，
@@ -993,7 +993,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1009,"關於「成員」"
 1010,"此為加入了當前同好會的成員一覽。
 
-透過次級指令可以對成員進行各種設定。
+通過次級指令可以對成員進行各種設定。
 會長可以任命管理員，也可以移交會長許可權。
 
 遭遇騷擾時會長可以將玩家加入同好會黑名單。
@@ -1016,11 +1016,11 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1013,"關於同好招募"
 1014,"在同好招募中可以看到當前正在招募成員的各同好會資訊。
 
-可以透過搜尋功能對同好會的主要活動等條件進行篩選查看。"
+可以通過搜索功能對同好會的主要活動等條件進行篩選查看。"
 1015,"樂器演奏的注意事項"
 1016,"<UIForeground>F20202</UIForeground>■樂器演奏的注意事項<UIForeground>01</UIForeground>
-禁止透過樂器演奏功能侵犯第三方的權利。
-玩家可在«Final Fantasy 14»版權與使用者協議的允許範圍內上傳自己的演奏作品，但無權阻止他人散播或使用自己的作品。"
+禁止通過樂器演奏功能侵犯第三方的權利。
+玩家可在«最終幻想14»著作權與用戶協議的允許範圍內上傳自己的演奏作品，但無權阻止他人散播或使用自己的作品。"
 1017,"合奏助手"
 1018,"<UIForeground>F20202</UIForeground>■什麼是合奏助手？<UIForeground>01</UIForeground>
 合奏助手是將隊內的演奏音整合起來播放給周圍玩家的功能。
@@ -1031,7 +1031,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 ※該選項不會影響周圍玩家的收聽模式。
 
 只聽自己：
-　遮蔽隊員的演奏音，只能聽見自己的演奏音。
+　屏蔽隊員的演奏音，只能聽見自己的演奏音。
 
 隊伍整體：
 　將隊內的演奏音在伺服器上同步後再進行播放，
@@ -1039,7 +1039,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F20202</UIForeground>■合奏助手的使用方法<UIForeground>01</UIForeground>
 合奏助手的使用方法如下：
- 1.點選節拍器的「合奏準備確認」，開啟設定介面
+ 1.點擊節拍器的「合奏準備確認」，打開設定介面
  2.勾選「使用合奏助手」後開始合奏準備確認
  3.合奏準備確認結束時合奏模式即會開啟
 
@@ -1055,7 +1055,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F20202</UIForeground>■演奏助手的使用方法<UIForeground>01</UIForeground>
 演奏助手的使用方法如下：
- 1.點選琴鍵邊的「演奏助手」
+ 1.點擊琴鍵邊的「演奏助手」
  2.選擇演奏的樂曲
  3.設定樂曲倍速與是否使用節拍器
 
@@ -1071,26 +1071,26 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 南方博茲雅戰線任務中，只要任意職業達到71級即可參加。
 在參加任務時，當前職業等級將被同步到80級。
-此外，不論現有裝備如何，都將被自動調整至最適合的品級，
+此外，不論現有裝備如何，都將被自動調整至最合適的品級，
 因此無需提前準備裝備。
 
 <UIForeground>0F</UIForeground>※參加任務的職業可以使用當前職業80級以內（包含80級）的全部技能。<UIForeground>01</UIForeground>"
-1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■獲得戰果提升反抗軍等級！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■獲得戰果提升義軍等級！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-南方博茲雅戰線任務中專門設定了一種反抗軍等級。
-戰果可以透過參加「衝突戰」、「緊急遭遇戰」等大規模作戰行動，
+南方博茲雅戰線任務中專門設定了一種義軍等級。
+戰果可以通過參加「衝突戰」、「緊急遭遇戰」等大規模作戰行動，
 並取得一定的評價後得到提升。
 
 <UIForeground>0F</UIForeground>※僅打倒魔獸或帝國兵無法獲得戰果。
 戰果將在作戰行動完成時獲得，敬請注意！<UIForeground>01</UIForeground>"
 1024,"戰果積累到一定程度時，
-可以向據點內的反抗軍司令部軍官（反抗軍等級）報告。
-當戰果達到一定程度，反抗軍等級將會提升。
+可以向據點內的義軍司令部軍官（義軍等級）報告。
+當戰果達到一定程度，義軍等級將會提升。
 
-隨著反抗軍等級的提升，行動的範圍會越來越廣，任務也會繼續推進。
-為了今後更為有利地展開作戰活動，請積極地提升反抗軍等級。
+隨著義軍等級的提升，行動的範圍會越來越廣，任務也會繼續推進。
+為了今後更為有利地展開作戰活動，請積極地提升義軍等級。
 
-<UIForeground>0F</UIForeground>※反抗軍等級必須經過戰果報告才能提升。
+<UIForeground>0F</UIForeground>※義軍等級必須經過戰果報告才能提升。
 當戰果積累到一定程度時，請不要忘記向軍官報告！<UIForeground>01</UIForeground>"
 1025,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■活用職業的等級同步規則！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -1111,20 +1111,20 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 收藏價值用於表示每個收藏品的價值。
 
-有時非玩家角色會要求玩家繳納收藏品，
+有時非玩家角色會要求玩家交納收藏品，
 同時也會標明需求的收藏品需要具備的收藏價值。
 
 請努力採集滿足指定收藏價值的收藏品。"
 1029,"如何獲得收藏品"
 1030,"採礦工以及園藝工獲得收藏品的方式不同於通常的採集，
-需要透過收藏品採集視窗進行採集。
+需要通過收藏品採集視窗進行採集。
 
-透過收藏品採集視窗
+通過收藏品採集視窗
 可以提升收藏品的價值並採集到具有該收藏價值的收藏品。"
 1031,"如何提高收藏價值"
 1032,"提升收藏價值時需要使用提純技能。
 
-透過收藏品採集視窗使用提純技能，
+通過收藏品採集視窗使用提純技能，
 可以除去收藏品的雜質，從而提升收藏價值。
 
 不過作為代價，將會消耗本次採集的耐久，
@@ -1155,9 +1155,9 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 ※提純技能的效果
 會隨著玩家獲得力的提高而上升，
-請透過裝備提升自己的獲得力。"
+請通過裝備提升自己的獲得力。"
 1035,"獲得收藏品"
-1036,"將收藏價值提升到目標數值後，可以透過使用收藏品採集技能，
+1036,"將收藏價值提升到目標數值後，可以通過使用收藏品採集技能，
 採集到1個擁有該收藏價值的收藏品。
 
 此時將會消耗1點耐久。
@@ -1174,15 +1174,15 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1038,"技能中除了提升收藏價值的提純技能以外，
 還有提供輔助效果的增幅技能。
 
-透過使用集中檢查，
+通過使用集中檢查，
 可以進一步增強提純技能提升收藏價值的效果。
 
 雖然使用增幅技能不會消耗耐久，
 但會消耗採集力，因此需要注意剩餘的採集力。
 
 ※集中檢查的效果
-會隨著玩家技術力的提高而上升，
-請透過裝備提升自己的技術力。"
+會隨著玩家鑑別力的提高而上升，
+請通過裝備提升自己的鑑別力。"
 1039,"價值提升"
 1040,"使用提純技能時，
 有可能會出現價值提升的效果。
@@ -1191,10 +1191,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 此時使用提純技能，將會比通常提升更多收藏價值。
 
 ※價值提升的發生率
-會隨著玩家技術力的提高而上升，
-請透過裝備提升自己的技術力。
+會隨著玩家鑑別力的提高而上升，
+請通過裝備提升自己的鑑別力。
 
-※增幅技能「收藏者的專注」也能提高價值提升的發生率。"
+※增幅技能「價值矚目」也能提高價值提升的發生率。"
 1041,"洞察"
 1042,"使用提純技能後，
 有時會對玩家賦予洞察的效果。
@@ -1210,17 +1210,17 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 除了提純技能、增幅技能，
 還可以使用以下的大地使者技能。
 
-．影響獲得率的技能
+·影響獲得率的技能
 採礦工（敏銳視野）、園藝工（環境探知）等
 
-．影響耐久/採集次數的技能
+·影響耐久/採集次數的技能
 採礦工（石工之理）、園藝工（農夫之智）
 
-這些技能均可透過熱鍵欄使用，
+這些技能均可通過熱鍵欄使用，
 請運用這些技能，高效地採集收藏品。"
 1045,"不定性道具與昇華"
 1046,"具有不定性性質的收藏品在收藏價值達到最大值的狀態下
-透過精選可以有一定機率獲得稀有的道具。
+通過精選可以有一定機率獲得稀有的道具。
 
 此外在收藏價值達到最大值的狀態下，
 採集具有不定性性質的收藏品時
@@ -1232,72 +1232,72 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 收藏品昇華的機率與玩家的獲得力有關，
 獲得力越高昇華的機率也會隨之提升。"
 1047,"收藏價值"
-1048,"收藏價值是一個展現收藏品所具價值的數值。
+1048,"收藏價值是一個體現收藏品所具價值的數值。
 
 採集收藏品時顯示的「所需收藏價值」正是交貨時需要的收藏價值基準，
 請以此數值為目標，提升收藏價值後進行採集。
 
 ※對於能夠進行精選的收藏品，
-只有達到「所需收藏價值」後，精選時才能獲得到水晶以外的道具。"
+只有達到「所需收藏價值」後，精選時才能獲取到水晶以外的道具。"
 1049,""
 1050,"探索特殊迷宮的方法"
 1051,"和專用的非玩家角色對話，或者選擇快捷指令「任務情報」內的
-「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊迷宮探索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」開啟專用的視窗，
+「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊迷宮探索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」打開專用的窗口，
 進入特殊迷宮探索任務。
 
-進入任務時所需的情報都會顯示在專用視窗內，
+進入任務時所需的情報都會顯示在專用窗口內，
 同時也可以進行各種設定。"
-1052,"異變迷宮"
-1053,"特殊迷宮探索之一的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異變迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1052,"多變迷宮"
+1053,"特殊迷宮探索之一的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>多變迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 可以以1～4人的任意人數進行探索，
 難度將會根據探索人數進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自動調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 單人進行探索時，難度可能會相對難一些。
 
 想要自己進行探索，或是僅與小隊同伴進行探索時，
-需要關閉<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行配對<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。
+需要關閉<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。
 （初期狀態為關閉）
 
-想要自動配對為4人小隊再進行探索時，
-需要開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行配對<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。"
-1054,"異變技能"
-1055,"在異變迷宮內可以使用「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」，
-以方便冒險者透過任意職業構成探索迷宮。
+想要自動匹配為4人小隊再進行探索時，
+需要打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。"
+1054,"多變技能"
+1055,"在多變迷宮內可以使用「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」，
+以方便冒險者通過任意職業構成探索迷宮。
 
 無論是防護職業還是進攻職業，
 都可以使用<UIForeground>0F</UIForeground>特殊的治療和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
 當然，其他的職業同樣也準備了不同的<UIForeground>0F</UIForeground>特殊技能<UIForeground>01</UIForeground>。
 
-探索時可以使用2種不同的異變技能。
-在專用的視窗選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設定異變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
-就可以隨時從顯示的異變技能一覽中挑選、設定異變技能了。"
+探索時可以使用2種不同的多變技能。
+在專用的窗口選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設定多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+就可以隨時從顯示的多變技能一覽中挑選、設定多變技能了。"
 1056,"找出迷宮內的故事"
-1057,"異變迷宮需要和相關人物一起探索
+1057,"多變迷宮需要和相關人物一起探索
 迷宮內的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>分歧路線<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 找出藏在迷宮內的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>故事<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 找到的故事會一個一個
-記載到異變迷宮專用的筆記或記錄冊上。
+記載到多變迷宮專用的筆記或記錄冊上。
 
-點選視窗內的人物，可以開啟專用的人物視窗，
-在人物視窗內可以閱讀已發現的故事。"
+點擊窗口內的人物，可以打開專用的人物窗口，
+在人物窗口內可以閱讀已發現的故事。"
 1058,"挑戰異聞迷宮"
 1059,"開放了特殊迷宮探索的高難度任務——<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-透過點選視窗上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
-可以將視窗內的資訊改為異聞迷宮的資訊。
+通過點擊窗口上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+可以將窗口內的資訊改為異聞迷宮的資訊。
 
 異聞迷宮中沒有同行的非玩家角色和分歧路線，
 也沒有發現故事等要素。
-異聞迷宮視窗內會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+異聞迷宮窗口內會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 以及在挑戰迷宮時可以獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>專用貨幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 1060,"異聞迷宮的限制"
-1061,"異聞迷宮與異變迷宮不同，
+1061,"異聞迷宮與多變迷宮不同，
 任務中無法進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職轉換<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 同時，復活等普通技能無法解除無法戰鬥狀態，
-只有專用的異變復活技能可以解除無法戰鬥狀態。
+只有專用的多變復活技能可以解除無法戰鬥狀態。
 
 此外，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>零式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>異聞迷宮中，
-將<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>異變技能。
+將<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>多變技能。
 
 零式異聞迷宮只有組滿4人且全員滿足條件後才可進入。"
 1062,""

@@ -3,14 +3,14 @@
 int32,str,str
 0,"TEXT_FESSUM302_02957_SEQ_00","※本任務是特定期間內的任務。
 
-永夏島的紅蓮祭執行委員佩．歐碧雅諾希望冒險者能幫忙點燃海上煙火。"
+永夏島的紅蓮節執行委員佩·歐碧雅諾希望冒險者能幫忙點燃海上煙火。"
 1,"TEXT_FESSUM302_02957_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-佩．歐碧雅諾委託冒險者點燃煙火。對永夏島附近的3處<Sheet(EObj,2009015,0)/>使用<Sheet(EventItem,2002395,0)/>。"
-2,"TEXT_FESSUM302_02957_SEQ_02","對<Sheet(EObj,2009015,0)/>使用了<Sheet(EventItem,2002395,0)/>，點燃了煙火。向永夏島的紅蓮祭執行委員佩．歐碧雅諾報告。"
-3,"TEXT_FESSUM302_02957_SEQ_03","向佩．歐碧雅諾進行了報告。如果有興趣的話，再來幫她放煙火似乎也是個不錯的選擇。"
+佩·歐碧雅諾委託冒險者點燃煙火。對永夏島附近的3處<Sheet(EObj,2009015,0)/>使用<Sheet(EventItem,2002395,0)/>。"
+2,"TEXT_FESSUM302_02957_SEQ_02","對<Sheet(EObj,2009015,0)/>使用了<Sheet(EventItem,2002395,0)/>，點燃了煙火。向永夏島的紅蓮節執行委員佩·歐碧雅諾報告。"
+3,"TEXT_FESSUM302_02957_SEQ_03","向佩·歐碧雅諾進行了報告。如果有興趣的話，再來幫她放煙火似乎也是個不錯的選擇。"
 4,"TEXT_FESSUM302_02957_SEQ_04",""
 5,"TEXT_FESSUM302_02957_SEQ_05",""
 6,"TEXT_FESSUM302_02957_SEQ_06",""
@@ -32,7 +32,7 @@ int32,str,str
 22,"TEXT_FESSUM302_02957_SEQ_22",""
 23,"TEXT_FESSUM302_02957_SEQ_23",""
 24,"TEXT_FESSUM302_02957_TODO_00","對<Sheet(EObj,2009015,0)/>使用<Sheet(EventItem,2002395,0)/>"
-25,"TEXT_FESSUM302_02957_TODO_01","向佩．歐碧雅諾報告"
+25,"TEXT_FESSUM302_02957_TODO_01","向佩·歐碧雅諾報告"
 26,"TEXT_FESSUM302_02957_TODO_02",""
 27,"TEXT_FESSUM302_02957_TODO_03",""
 28,"TEXT_FESSUM302_02957_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 45,"TEXT_FESSUM302_02957_TODO_21",""
 46,"TEXT_FESSUM302_02957_TODO_22",""
 47,"TEXT_FESSUM302_02957_TODO_23",""
-48,"TEXT_FESSUM302_02957_POBYANO_000_000","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_FESSUM302_02957_POBYANO_000_000","呀，<Highlight>ObjectParameter(1)</Highlight>！
 你要來幫忙嗎？
 那這次也麻煩你去點燃煙火吧。"
 49,"TEXT_FESSUM302_02957_POBYANO_000_001","想必你已經知道該怎麼做了，不過以防萬一我還是再說一下好了。
@@ -63,7 +63,7 @@ int32,str,str
 50,"TEXT_FESSUM302_02957_POBYANO_000_002","這次就不用去吉麗麗那裡了，
 不過要點燃的<Sheet(EObj,2009015,0)/>有3處。
 拜託了。"
-51,"TEXT_FESSUM302_02957_POBYANO_000_010","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+51,"TEXT_FESSUM302_02957_POBYANO_000_010","呀，<Highlight>ObjectParameter(1)</Highlight>！
 你要繼續來幫忙嗎？
 "
 52,"TEXT_FESSUM302_02957_POBYANO_000_011","那麼就按照上次那樣，

@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANARK125_04575_TODO_21",""
 46,"TEXT_BANARK125_04575_TODO_22",""
 47,"TEXT_BANARK125_04575_TODO_23",""
-48,"TEXT_BANARK125_04575_MARU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，可以找你幫個忙嗎？
+48,"TEXT_BANARK125_04575_MARU_000_001","<Highlight>ObjectParameter(1)</Highlight>，可以找你幫個忙嗎？
 這次不是使用河馬車運貨……"
 49,"TEXT_BANARK125_04575_MARU_000_002","其實，這次的運送物資請求來自於星戰士團。
 儘管河馬已經把重物都運送完了，

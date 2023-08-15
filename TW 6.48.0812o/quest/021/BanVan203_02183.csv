@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANVAN203_02183_TODO_21",""
 46,"TEXT_BANVAN203_02183_TODO_22",""
 47,"TEXT_BANVAN203_02183_TODO_23",""
-48,"TEXT_BANVAN203_02183_MUNAVANU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，艾努瓦努看起來有些憂慮不安，
+48,"TEXT_BANVAN203_02183_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight>，艾努瓦努看起來有些憂慮不安，
 可以的話能否請你幫幫他呢？
 請你像搬運種子的清風一般，速速前往。"
 49,"TEXT_BANVAN203_02183_EENUVANU_000_010","……你要來幫我忙？

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDB109_02970_SEQ_00","沙之家的娜娜莫．烏爾．娜莫想要開始下一步行動。"
+0,"TEXT_STMBDB109_02970_SEQ_00","沙之家的娜娜莫·烏爾·娜莫想要開始下一步行動。"
 1,"TEXT_STMBDB109_02970_SEQ_01",""
 2,"TEXT_STMBDB109_02970_SEQ_02",""
 3,"TEXT_STMBDB109_02970_SEQ_03",""
@@ -57,9 +57,9 @@ int32,str,str
 離難民歸國支援計劃的執行只剩一步之遙了……
 還請你多包涵。"
 51,"TEXT_STMBDB109_02970_NANAMOULNAMO_000_005","朕回烏爾達哈時你就不用陪著了，
-朕已經用通訊珠聯繫過帕帕夏恩前來迎接，
+朕已經用通訊珠聯絡過帕帕夏恩前來迎接，
 他現在一定急著找朕找得臉都嚇白了吧。"
-52,"TEXT_STMBDB109_02970_ARENVALD_000_010","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+52,"TEXT_STMBDB109_02970_ARENVALD_000_010","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>。
 怎麼樣，見到娜娜莫陛下了嗎？"
 53,"TEXT_STMBDB109_02970_ALPHINAUD_000_015","在等你回來的這段時間，我做好了廢王的黃金的目錄，
 並且已經為變賣它們做起了準備。
@@ -67,7 +67,7 @@ int32,str,str
 54,"TEXT_STMBDB109_02970_WISCAR_000_020","喲，好久不見，
 我剛完成偵察任務來向莉瑟隊長彙報。
 我會努力加油，不給梅弗里德蒙羞的！"
-55,"TEXT_STMBDB109_02970_LYSE_000_030","你回來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+55,"TEXT_STMBDB109_02970_LYSE_000_030","你回來了，<Highlight>ObjectParameter(1)</Highlight>。
 辛苦了……娜娜莫陛下找你有什麼事？"
 56,"TEXT_STMBDB109_02970_LYSE_000_031","……原來如此，勞班雖然決定要回烏爾達哈，
 但看上去還有些猶豫……"
@@ -78,7 +78,7 @@ int32,str,str
 看來娜娜莫陛下也真的是下定了決心。"
 59,"TEXT_STMBDB109_02970_ALPHINAUD_000_034","莉瑟，如果你們臨時政權想要接受這支援計劃的話，
 我有個提議。"
-60,"TEXT_STMBDB109_02970_ALPHINAUD_000_035","那就是將廢王的黃金作為營運資金，
+60,"TEXT_STMBDB109_02970_ALPHINAUD_000_035","那就是將廢王的黃金作為運營資金，
 阿拉米格方面也投資到這個項目中去。
 如果完全靠烏爾達哈投資，那就會失去主導權。"
 61,"TEXT_STMBDB109_02970_LYSE_000_036","在黃金港的時候也是這樣，
@@ -87,8 +87,8 @@ int32,str,str
 當然了，要先徵得鹽村村民的同意。"
 63,"TEXT_STMBDB109_02970_LYSE_000_038","維斯卡，能不能向你的外祖父傳達一下這次烏爾達哈的計劃？
 如果能獲得瓦特他們的同意，那我們就開始執行這個計劃。"
-64,"TEXT_STMBDB109_02970_WISCAR_000_039","瞭解，莉瑟隊長。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你和我一同去鹽村找瓦特外祖父吧。"
+64,"TEXT_STMBDB109_02970_WISCAR_000_039","了解，莉瑟隊長。
+<Highlight>ObjectParameter(1)</Highlight>，請你和我一同去鹽村找瓦特外祖父吧。"
 65,"TEXT_STMBDB109_02970_ALPHINAUD_000_040","我也和你們一起去。
 關於資金的具體說明就交給我吧。"
 66,"TEXT_STMBDB109_02970_ARENVALD_000_045","錢的事就交給你們了，
@@ -98,13 +98,13 @@ int32,str,str
 我也不能輸……
 為了讓大家過上好日子，我要盡自己所能！"
 68,"TEXT_STMBDB109_02970_ALPHINAUD_000_055","烏爾達哈與阿拉米格最好各出一半資金……
-對方可是那個百億富翁，可要好好籤訂契約，
+對方可是那個百億富翁，可要好好籤訂合同，
 不能讓他們把利益都搶跑……"
 69,"TEXT_STMBDB109_02970_WISCAR_000_060","來，向瓦特外祖父說明一下支援計劃吧！"
 70,"TEXT_STMBDB109_02970_WATT_000_070","……這麼多年輕人一起來，
 是有何貴幹啊？"
 71,"TEXT_STMBDB109_02970_WISCAR_000_071","外祖父，我帶來了個對鹽村有利的好消息。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請說明一下吧！"
+<Highlight>ObjectParameter(1)</Highlight>，請說明一下吧！"
 72,"TEXT_STMBDB109_02970_WATT_000_072","……原來如此，確實是個好消息。
 這個寂寥的村落既沒有錢也沒有人力，想要重建十分困難。
 如果逃亡到異國的同胞能夠回來，我們這邊是雙手贊成的！"
@@ -120,24 +120,24 @@ int32,str,str
 不過維斯卡，你戰鬥的實力提升得如何了？"
 77,"TEXT_STMBDB109_02970_WISCAR_000_077","當、當然已經很強了……
 只是我接受的訓練是以擊退帝國軍為前提的。"
-78,"TEXT_STMBDB109_02970_WISCAR_000_078"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+78,"TEXT_STMBDB109_02970_WISCAR_000_078","<Highlight>ObjectParameter(1)</Highlight>，
 你能不能觀察一下附近的魔物，
 告訴我它們的特徵，並教給我戰鬥方法呢？"
 79,"TEXT_STMBDB109_02970_WISCAR_000_079","謝謝你！
 那我就先去鹽湖了！"
 80,"TEXT_STMBDB109_02970_ALPHINAUD_000_080","在你們觀察魔物時
 我跟瓦特他們詳細解釋一下資金方面的問題。
-……等你們結束記得回鹽村。"
+……等你們完事記得回鹽村。"
 81,"TEXT_STMBDB109_02970_ALPHINAUD_000_085","資金方面的問題就交給我進行說明吧，
-一定要跟他們講清楚簽契約的重要性！"
+一定要跟他們講清楚簽合同的重要性！"
 82,"TEXT_STMBDB109_02970_WATT_000_090","一想到有這麼多年輕人在為了阿拉米格而奮鬥，
 我真是十分感動。"
-83,"TEXT_STMBDB109_02970_WISCAR_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你用這個望遠鏡觀察魔物，
+83,"TEXT_STMBDB109_02970_WISCAR_000_100","<Highlight>ObjectParameter(1)</Highlight>，請你用這個望遠鏡觀察魔物，
 然後告訴我它們的弱點等特徵，教給我戰鬥的方法。
 之後的實戰就交給我吧！"
 84,"TEXT_STMBDB109_02970_SYSTEM_000_101","開始用望遠鏡觀察。
 找出蝦蛄的弱點，在瞄準後
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察。"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察。"
 85,"TEXT_STMBDB109_02970_SYSTEM_100_101","蝦蛄全身被堅硬的甲殼覆蓋。
 但其頭部下方裸露著一部分柔軟的肉，
 應該是它的弱點所在。"
@@ -152,14 +152,14 @@ int32,str,str
 91,"TEXT_STMBDB109_02970_WISCAR_000_105","好、好的……
 我還以為你能給我點更詳細的建議……
 總之我先用力試試！"
-92,"TEXT_STMBDB109_02970_WISCAR_000_110","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+92,"TEXT_STMBDB109_02970_WISCAR_000_110","謝謝你，<Highlight>ObjectParameter(1)</Highlight>，
 照你說的做，真的打倒了蝦蛄！
 好了，就按這個節奏繼續吧！"
 93,"TEXT_STMBDB109_02970_WISCAR_000_120","去找找蝦蛄以外的魔物，
 教給我和它的戰鬥方法！"
 94,"TEXT_STMBDB109_02970_SYSTEM_000_121","開始用望遠鏡觀察。
 找出弗巴德的弱點，在瞄準後
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察。"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察。"
 95,"TEXT_STMBDB109_02970_SYSTEM_100_121","弗巴德雙手巨大，擁有怪力，
 但只要貫穿其操控鹽結晶的核心，便會使其失去力量。
 核心應該隱藏在其眼睛內部。"
@@ -167,7 +167,7 @@ int32,str,str
 要怎麼打倒它？"
 97,"TEXT_STMBDB109_02970_Q2_000_000","要怎麼打倒弗巴德？"
 98,"TEXT_STMBDB109_02970_A2_000_001","貫穿它眼睛內部的核心！"
-99,"TEXT_STMBDB109_02970_A2_000_002","用力！"
+99,"TEXT_STMBDB109_02970_A2_000_002","使勁！"
 100,"TEXT_STMBDB109_02970_WISCAR_000_124","它眼睛裡有核心？！
 知道了這個就好辦了，我感覺自己一定能打倒它！"
 101,"TEXT_STMBDB109_02970_WISCAR_000_125","好、好的……
@@ -182,18 +182,18 @@ int32,str,str
 要不然，瓦特外祖父該擔心了！"
 105,"TEXT_STMBDB109_02970_WISCAR_000_135","請你去向瓦特外祖父報告吧。
 記得提一下魔物是我打倒的啊！"
-106,"TEXT_STMBDB109_02970_ALPHINAUD_000_136","對烏爾達哈的商人來說，契約既是劍，又是保護自己的盾，
+106,"TEXT_STMBDB109_02970_ALPHINAUD_000_136","對烏爾達哈的商人來說，合同既是劍，又是保護自己的盾，
 如果想和他們站在對等的角度談判，就必須知道這一點。
 話說，魔物的事處理得如何了？"
 107,"TEXT_STMBDB109_02970_WATT_000_140","你們回來了啊……
 魔物討伐得如何了？"
 108,"TEXT_STMBDB109_02970_WISCAR_000_141","十分成功！
-多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的建議，讓我摸到了門路，
+多虧了<Highlight>ObjectParameter(1)</Highlight>的建議，讓我摸到了門路，
 今後會和夥伴們一起巡邏，保護鹽村的。"
 109,"TEXT_STMBDB109_02970_WATT_000_142","那真是太好了。
 沒想到你已經成長為這麼可靠的男子漢了啊，維斯卡……"
 110,"TEXT_STMBDB109_02970_WATT_000_143","聽說最近，阿拉米格城區內沸騰著一股勝利的狂潮，
-許多人都滿腦子想著復仇、算總帳。"
+許多人都滿腦子想著復仇、算總賬。"
 111,"TEXT_STMBDB109_02970_WATT_000_144","比起糾結這些過去，更重要的難道不是未來嗎？
 為了鹽村的明天，我要配合外孫和解放軍，
 為迎接同胞們歸來而做準備！"

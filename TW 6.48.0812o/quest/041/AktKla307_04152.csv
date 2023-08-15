@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_AKTKLA307_04152_TODO_21",""
 46,"TEXT_AKTKLA307_04152_TODO_22",""
 47,"TEXT_AKTKLA307_04152_TODO_23",""
-48,"TEXT_AKTKLA307_04152_DEBROYE_000_000","同志 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，等你很久了。
+48,"TEXT_AKTKLA307_04152_DEBROYE_000_000","同志<Highlight>ObjectParameter(1)</Highlight>，等你很久了。
 哲學家議會主辦的完美食料品評會終於要開始了！"
 49,"TEXT_AKTKLA307_04152_DEBROYE_000_001","我相信我們的梅爾凡因麵包一定能獲勝的。
 品評會的會場就在哲學家廣場，
@@ -91,7 +91,7 @@ int32,str,str
 製作效率確實非常重要。"
 66,"TEXT_AKTKLA307_04152_ELDERLYCOUNCILOR04152_000_065","的確，完美食料作為一款應急食品，
 食材加工環節越簡單越好。
-考慮到生產效率，健康麵包更加適合。"
+考慮到生產效率，健康麵包更加合適。"
 67,"TEXT_AKTKLA307_04152_FLAUGUSTERT_000_066","(-？？？？-)請聽我一句！"
 68,"TEXT_AKTKLA307_04152_ELDERLYCOUNCILOR04152_000_067","哦哦，這不是福樓居斯泰爾先生嗎。
 沒想到您居然會專門跑一趟。"
@@ -126,7 +126,7 @@ int32,str,str
 82,"TEXT_AKTKLA307_04152_FACILITATOR04152_000_081","健康麵包1票，梅爾凡因麵包5票，
 因此，議會將會採用醫學生德布羅依的方案！"
 83,"TEXT_AKTKLA307_04152_DEBROYE_000_082","教授，這也是多虧您的研究……"
-84,"TEXT_AKTKLA307_04152_DEBROYE_000_090","太好了，同志 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+84,"TEXT_AKTKLA307_04152_DEBROYE_000_090","太好了，同志<Highlight>ObjectParameter(1)</Highlight>！
 沒想到那個背水咖啡廳的常客居然是哲學家議會中
 頗有威望的前議員……"
 85,"TEXT_AKTKLA307_04152_DEBROYE_000_091","這樣一來，我們的目標就實現了，
@@ -196,10 +196,10 @@ int32,str,str
 爭取超越你們以我亡友之名命名的梅爾凡因麵包。"
 116,"TEXT_AKTKLA307_04152_DEBROYE_100_122","不，我們製作的梅爾凡因麵包，
 也是在教授開發的健康麵包的基礎上完成的。"
-117,"TEXT_AKTKLA307_04152_DEBROYE_100_123","我只是借助了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的力量，
+117,"TEXT_AKTKLA307_04152_DEBROYE_100_123","我只是藉助了<Highlight>ObjectParameter(1)</Highlight>的力量，
 在不損害健康麵包的營養價值的前提下，
 改良了它的味道而已。"
-118,"TEXT_AKTKLA307_04152_DEBROYE_100_124","梅爾凡因麵包不只是我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的作品，
+118,"TEXT_AKTKLA307_04152_DEBROYE_100_124","梅爾凡因麵包不只是我和<Highlight>ObjectParameter(1)</Highlight>的作品，
 其中也有加爾韋羅什教授您的心血結晶！"
 119,"TEXT_AKTKLA307_04152_DEBROYE_100_125","所以，請允許我繼續留在您的研究室吧！
 今後我想繼續研究如何提高梅爾凡因麵包的製作效率！"
@@ -223,7 +223,7 @@ int32,str,str
 製作效率！"
 128,"TEXT_AKTKLA307_04152_DEBROYE_100_134","哈哈，看來今後有的忙了。
 我會和教授一起研究如何提高製作效率的，還有……"
-129,"TEXT_AKTKLA307_04152_DEBROYE_000_133","同志 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+129,"TEXT_AKTKLA307_04152_DEBROYE_000_133","同志<Highlight>ObjectParameter(1)</Highlight>！
 感謝你一直以來的幫助！
 我會記住你這份大恩的。"
 130,"TEXT_AKTKLA307_04152_DEBROYE_000_134","你再來魔法大學時，也來找我玩玩啊。
@@ -236,7 +236,7 @@ int32,str,str
 133,"TEXT_AKTKLA307_04152_SYSTEM_000_150","（★未使用／削除予定★）"
 134,"TEXT_AKTKLA307_04152_SYSTEM_000_151","（★未使用／削除予定★）"
 135,"TEXT_AKTKLA307_04152_SYSTEM_000_160","此外，現在所有學系的交易均已完成！
-魔法大學的職員奇伊．阿里亞珀好像有事情想要拜託你。"
-136,"TEXT_AKTKLA307_04152_SYSTEM_000_161","請到魔法大學的綜合接待處與奇伊．阿里亞珀談談。"
+魔法大學的職員奇伊·阿里亞珀好像有事情想要拜託你。"
+136,"TEXT_AKTKLA307_04152_SYSTEM_000_161","請到魔法大學的綜合接待處與奇伊·阿里亞珀談談。"
 137,"TEXT_AKTKLA307_04152_SYSTEM_000_170","背包中留有在本次任務中製作出的普通品質道具。
-這種道具無法使用也無法出售給商店，儘早扔掉吧。"
+這種道具無法使用也無法出售給商店，盡早扔掉吧。"

@@ -9,10 +9,10 @@ int32,str,str
 前情回顧：
 利努瓦利委託冒險者幫忙重建袞杜族的新村落——納基袞杜集落。成功找出了藏在袞杜集落的利努瓦利的同伴，新村落也迎來了新的村民。就在這時，他們遭到了袞杜族的雜兵的襲擊，利努瓦利本想跳支示威用的太陽之舞驅趕敵人，可卻沒能順利跳出舞來。村子被入侵時的恐懼感使利努瓦利跳不出太陽之舞了。
 　　　　　　　　　　　　*　*　*
-據利努瓦利獲得的情報所說，她的青梅竹馬好像在溫杜屬本杜集落。前往阿巴拉提亞雲海的溫杜屬本杜集落，與入口附近的利努瓦利會合。"
-2,"TEXT_BANVAN003_02166_SEQ_02","與利努瓦利會合完畢。利努瓦利想出的作戰方案是設定路標，然後讓青梅竹馬沿著路標找到自己。在延伸至溫杜屬本杜集落內部的5處<Sheet(EObj,2006627,0)/>設定<Sheet(EventItem,2001901,0)/>。"
+據利努瓦利獲得的情報所說，她的青梅竹馬好像在溫杜屬本杜集落。前往阿巴拉提亞雲海的溫杜屬本杜集落，與入口附近的利努瓦利匯合。"
+2,"TEXT_BANVAN003_02166_SEQ_02","與利努瓦利匯合完畢。利努瓦利想出的作戰方案是設定路標，然後讓青梅竹馬沿著路標找到自己。在延伸至溫杜屬本杜集落內部的5處<Sheet(EObj,2006627,0)/>設定<Sheet(EventItem,2001901,0)/>。"
 3,"TEXT_BANVAN003_02166_SEQ_03","在5處<Sheet(EObj,2006627,0)/>設定了<Sheet(EventItem,2001901,0)/>。向溫杜屬本杜集落前的利努瓦利報告。"
-4,"TEXT_BANVAN003_02166_SEQ_04","向利努瓦利報告完畢。奇努瓦努沿著路標成功與利努瓦利會合。可是，附近正巧來了袞杜族的巡邏兵。利努瓦利下定決心，這次一定要用太陽之舞趕走敵人。對溫杜屬本杜集落前的利努瓦利做情感動作「跳舞」，為她打氣。"
+4,"TEXT_BANVAN003_02166_SEQ_04","向利努瓦利報告完畢。奇努瓦努沿著路標成功與利努瓦利匯合。可是，附近正巧來了袞杜族的巡邏兵。利努瓦利下定決心，這次一定要用太陽之舞趕走敵人。對溫杜屬本杜集落前的利努瓦利做情感動作「跳舞」，為她打氣。"
 5,"TEXT_BANVAN003_02166_SEQ_05","對利努瓦利跳了舞。利努瓦利勇氣大增，成功用太陽之舞趕走了袞杜族的巡邏兵。利努瓦利為了將新同伴介紹給索努瓦努長老而前往了尊杜集落。前往阿巴拉提亞雲海的尊杜集落，和索努瓦努談談。"
 6,"TEXT_BANVAN003_02166_SEQ_06","和索努瓦努進行了交談。利努瓦利將新的村民介紹給了索努瓦努。和西風島的利努瓦利談談。"
 7,"TEXT_BANVAN003_02166_SEQ_07","和利努瓦利進行了交談。成功跳出太陽之舞的她取回了自信，村子也變得熱鬧了起來。而袞杜族的領導者利努瓦利的哥哥利努瓦努還在被溫杜族囚禁著。等時機成熟後，就幫他們救出利努瓦努。"
@@ -32,7 +32,7 @@ int32,str,str
 21,"TEXT_BANVAN003_02166_SEQ_21",""
 22,"TEXT_BANVAN003_02166_SEQ_22",""
 23,"TEXT_BANVAN003_02166_SEQ_23",""
-24,"TEXT_BANVAN003_02166_TODO_00","和溫杜屬本杜集落前的利努瓦利會合"
+24,"TEXT_BANVAN003_02166_TODO_00","和溫杜屬本杜集落前的利努瓦利匯合"
 25,"TEXT_BANVAN003_02166_TODO_01","在<Sheet(EObj,2006627,0)/>使用<Sheet(EventItem,2001901,0)/>"
 26,"TEXT_BANVAN003_02166_TODO_02","向溫杜屬本杜集落前的利努瓦利報告"
 27,"TEXT_BANVAN003_02166_TODO_03","對溫杜屬本杜集落前的利努瓦利做「跳舞」的情感動作"
@@ -56,7 +56,7 @@ int32,str,str
 45,"TEXT_BANVAN003_02166_TODO_21",""
 46,"TEXT_BANVAN003_02166_TODO_22",""
 47,"TEXT_BANVAN003_02166_TODO_23",""
-48,"TEXT_BANVAN003_02166_LINUVALI_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_BANVAN003_02166_LINUVALI_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 自從艾努瓦努和拉努瓦利來了之後，
 我們和豁達的尊杜族之間的關係變得友好了些呢！"
 49,"TEXT_BANVAN003_02166_LINUVALI_000_001","這全都是、這全都是多虧了拉努瓦利幫尊杜集落種植花草，
@@ -67,15 +67,15 @@ int32,str,str
 51,"TEXT_BANVAN003_02166_LINUVALI_000_003","但是、但是，我這麼煩惱下去也不是個事。
 其實，拉努瓦利從關係較好的尊杜朋友那裡，
 聽到了一個很有價值的消息。"
-52,"TEXT_BANVAN003_02166_LINUVALI_000_004","據說他們在前往溫杜屬本杜集落繳納貢品的時候，
+52,"TEXT_BANVAN003_02166_LINUVALI_000_004","據說他們在前往溫杜屬本杜集落交納貢品的時候，
 看到了一名與他人爭執的袞杜族男子，
 那名男子一直在大聲地喊著「反對暴力」。"
 53,"TEXT_BANVAN003_02166_LINUVALI_000_005","這是、這是我的青梅竹馬「木工奇努瓦努」的口頭禪……
 我要想辦法把他救出來，然後讓他成為新的村民。"
-54,"TEXT_BANVAN003_02166_LINUVALI_000_006"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你這次也跟我一起去救人好不好？
+54,"TEXT_BANVAN003_02166_LINUVALI_000_006","<Highlight>ObjectParameter(1)</Highlight>，拜託你這次也跟我一起去救人好不好？
 我會在溫杜屬本杜集落前等你的。
 為了救出我的青梅竹馬，請你把力量借給我！"
-55,"TEXT_BANVAN003_02166_LINUVALI_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你能來！
+55,"TEXT_BANVAN003_02166_LINUVALI_000_010","<Highlight>ObjectParameter(1)</Highlight>，謝謝你能來！
 為了救出奇努瓦努，我準備了<Sheet(EventItem,2001901,0)/>，
 上面刻著只有我和他才能看得懂的秘密圖案。"
 56,"TEXT_BANVAN003_02166_LINUVALI_000_011","將<Sheet(EventItem,2001901,0)/>當做路標放到集落內部，
@@ -83,12 +83,12 @@ int32,str,str
 然後他定會隨著路標找到這裡。"
 57,"TEXT_BANVAN003_02166_LINUVALI_000_012","沒準他因為常年被威脅而變得懼怕冷酷的溫杜族了……
 但是、但是，即便如此，我也一定會說服他跟我一起走的。"
-58,"TEXT_BANVAN003_02166_LINUVALI_000_013","所以， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+58,"TEXT_BANVAN003_02166_LINUVALI_000_013","所以，<Highlight>ObjectParameter(1)</Highlight>。
 拜託你將5個<Sheet(EventItem,2001901,0)/>放到集落內部，
 真的、真的，拜託你了！"
 59,"TEXT_BANVAN003_02166_LINUVALI_000_015","請將刻有秘密圖案的<Sheet(EventItem,2001901,0)/>放到集落內部，
 差不多放5個就好了，相信奇努瓦努一定會察覺到的。"
-60,"TEXT_BANVAN003_02166_LINUVALI_000_020","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+60,"TEXT_BANVAN003_02166_LINUVALI_000_020","謝謝你，<Highlight>ObjectParameter(1)</Highlight>。
 接下來、接下來，就只需等奇努瓦努過來了。"
 61,"TEXT_BANVAN003_02166_GINUVANU_000_021","(-？？？？-)該死的逆賊！
 束手就擒吧！"
@@ -109,7 +109,7 @@ int32,str,str
 時間不對啊，這會兒他們應該不會來這裡才對啊！
 這麼下去的話，大家都會被抓住的！"
 68,"TEXT_BANVAN003_02166_LINUVALI_000_028","這、這次一定要跳出太陽之舞……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！能否讓我看眼你跳舞時的姿態？"
+<Highlight>ObjectParameter(1)</Highlight>！能否讓我看眼你跳舞時的姿態？"
 69,"TEXT_BANVAN003_02166_LINUVALI_000_029","能從你那裡獲得勇氣的話，相信我也能跳出舞來……
 所以，拜託你了！"
 70,"TEXT_BANVAN003_02166_LINUVALI_000_035","能從你那裡獲得勇氣的話，相信我也能跳出舞來……
@@ -117,7 +117,7 @@ int32,str,str
 71,"TEXT_BANVAN003_02166_LINUVALI_000_036","不對、不對！
 我想看的是你「跳舞」時的姿態！"
 72,"TEXT_BANVAN003_02166_LINUVALI_000_040","謝謝你，我感覺自己能跳出舞來了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你就在旁邊保佑我吧！
+<Highlight>ObjectParameter(1)</Highlight>，你就在旁邊保佑我吧！
 這次、這次一定能跳出舞來！"
 73,"TEXT_BANVAN003_02166_LINUVALI_000_041","……成功了、成功了！
 多虧了你那不可思議的舞蹈，我成功地克服了恐懼！

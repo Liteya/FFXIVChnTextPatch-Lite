@@ -5,13 +5,13 @@ int32,str,str
 1,"TEXT_LUCKBC011_03220_SEQ_01","前情回顧：
 冒險者與羅斯特恩斯塔爾成為了希爾達麾下火槍隊的教官，後隨火槍隊一起展開了對寶劍失竊案的調查。最終，冒險者和希爾達率領的火槍隊查出案件背後有著貴族的陰謀，在希爾達的異母弟弟——神殿騎士米斯卡丹的協助下，成功讓首謀梅莉西男爵夫人落網。
 　　　　　　　　　　　　*　*　*
-斯特凡尼維安委託冒險者調查近來有些反常的喬伊。在伊修加爾德基礎層聖蕾內特廣場的<Sheet(EObj,2009739,0)/>張望。"
+斯特凡尼維安委託冒險者調查近來有些反常的喬伊。在伊修加德基礎層聖蕾內特廣場的<Sheet(EObj,2009739,0)/>張望。"
 2,"TEXT_LUCKBC011_03220_SEQ_02","看到喬伊和希爾達碰頭，然後兩人攜手不知去向。從米斯卡丹口中得知最近常有人在隼巢見到她們兩人。向天鋼機工房的斯特凡尼維安報告。"
 3,"TEXT_LUCKBC011_03220_SEQ_03","向斯特凡尼維安報告完畢，決定一起去看看喬伊和希爾達在做什麼。前往庫爾札斯西部高地的隼巢，和斯特凡尼維安談談。"
 4,"TEXT_LUCKBC011_03220_SEQ_04","斯特凡尼維安打聽到喬伊和希爾達去了黑鐵大橋那邊。在庫爾札斯西部高地黑鐵大橋的<Sheet(EObj,2009740,0)/>張望。"
 5,"TEXT_LUCKBC011_03220_SEQ_05","發現了喬伊和希爾達，她們正在為了找出機工士前進的方向而努力特訓。斯特凡尼維安提議悄悄助她們一臂之力。在庫爾札斯西部高地交匯河營地的<Sheet(EObj,2009741,0)/>等待，討伐出現的<Sheet(BNpcName,8401,0)/>。"
-6,"TEXT_LUCKBC011_03220_SEQ_06","討伐了<Sheet(BNpcName,8401,0)/>。和黑鐵大橋附近的斯特凡尼維安會合。"
-7,"TEXT_LUCKBC011_03220_SEQ_07","和斯特凡尼維安順利會合。返回天鋼機工房和斯特凡尼維安談談。"
+6,"TEXT_LUCKBC011_03220_SEQ_06","討伐了<Sheet(BNpcName,8401,0)/>。和黑鐵大橋附近的斯特凡尼維安匯合。"
+7,"TEXT_LUCKBC011_03220_SEQ_07","和斯特凡尼維安順利匯合。返回天鋼機工房和斯特凡尼維安談談。"
 8,"TEXT_LUCKBC011_03220_SEQ_08","在和斯特凡尼維安談話時，喬伊和希爾達出現了。冒險者和斯特凡尼維安悄悄幫忙之事沒能瞞過她們二人，她們向冒險者道謝並表示一定要努力開創出機工士的前路。和斯特凡尼維安一起等待她們成功的那一天到來。"
 9,"TEXT_LUCKBC011_03220_SEQ_09",""
 10,"TEXT_LUCKBC011_03220_SEQ_10",""
@@ -33,7 +33,7 @@ int32,str,str
 26,"TEXT_LUCKBC011_03220_TODO_02","和隼巢的斯特凡尼維安對話"
 27,"TEXT_LUCKBC011_03220_TODO_03","在<Sheet(EObj,2009740,0)/>張望"
 28,"TEXT_LUCKBC011_03220_TODO_04","在<Sheet(EObj,2009741,0)/>等待 討伐出現的<Sheet(BNpcName,8401,0)/>"
-29,"TEXT_LUCKBC011_03220_TODO_05","和斯特凡尼維安會合"
+29,"TEXT_LUCKBC011_03220_TODO_05","和斯特凡尼維安匯合"
 30,"TEXT_LUCKBC011_03220_TODO_06","和天鋼機工房的斯特凡尼維安對話"
 31,"TEXT_LUCKBC011_03220_TODO_07",""
 32,"TEXT_LUCKBC011_03220_TODO_08",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_LUCKBC011_03220_TODO_21",""
 46,"TEXT_LUCKBC011_03220_TODO_22",""
 47,"TEXT_LUCKBC011_03220_TODO_23",""
-48,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 你的測量器永遠那麼精準，
 每次都在我有困難時出現在我面前！"
 49,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_001","實際上，最近喬伊她非常反常，
@@ -94,7 +94,7 @@ int32,str,str
 有事下次再說吧。"
 65,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_030","啊，歡迎回來？
 有什麼進展嗎？"
-66,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_031","欸？？
+66,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_031","誒？？
 喬伊和希爾達一起去了隼巢？
 她們這是去做什麼呀……"
 67,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_032","嗯……看來光靠我的測量器是得不出結論了，
@@ -103,7 +103,7 @@ int32,str,str
 這次我也去，麻煩你跟我一起跑一趟。"
 69,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_040","喬伊和希爾達……她們兩個會是在做什麼呢？
 總之先去隼巢看看吧。"
-70,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_050","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+70,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_050","呀，<Highlight>ObjectParameter(1)</Highlight>。
 喬伊和希爾達可真出名，
 隨便問個路人都認識她們。"
 71,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_051","聽說她們兩個往黑鐵大橋的方向去了，
@@ -125,7 +125,7 @@ int32,str,str
 78,"TEXT_LUCKBC011_03220_JOYE_000_304","但這麼久了居然還沒一點進展……
 要是能找少爺出出主意就好了。"
 79,"TEXT_LUCKBC011_03220_HILDA_000_305","不行，依靠他就失去意義了。
-我們要透過自己的力量來找到答案，對不對？"
+我們要通過自己的力量來找到答案，對不對？"
 80,"TEXT_LUCKBC011_03220_JOYE_000_306","……你說得對。
 那我們就繼續鍛鍊吧。
 走，去找下一個目標。"
@@ -157,19 +157,19 @@ int32,str,str
 93,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_340","有了！答案不就在我眼前嗎！
 擁有一張經歷諸多冒險磨鍊而成，
 最能刺激想像力的最佳設計圖之人！"
-94,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_341"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能讓她們見識一下你千錘百鍊的技藝嗎？
+94,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_341","<Highlight>ObjectParameter(1)</Highlight>，能讓她們見識一下你千錘百鍊的技藝嗎？
 這一定比什麼都更有參考價值。"
 95,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_342","好！那我去把附近的魔物驅趕過來，
 你負責解決它們。"
 96,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_343","聽到槍聲的話，她們兩個一定也會像我們剛才一樣，
 在遠處觀察一下發生了什麼。"
-97,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_344","將魔物全都解決後，我們再在這裡會合。
+97,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_344","將魔物全都解決後，我們再在這裡匯合。
 拜託你了！"
 98,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_350","怎麼了嗎？
 為了喬伊和希爾達，請將我驅趕過來的魔物擊斃吧！"
 99,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_360","魔物討伐辛苦了！
 我們先回到黑鐵大橋附近再說吧。"
-100,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_370","剛才辛苦你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+100,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_370","剛才辛苦你了，<Highlight>ObjectParameter(1)</Highlight>。
 我也看到了你戰鬥的樣子，實在是太厲害了！
 你怎麼練出來的？"
 101,"TEXT_LUCKBC011_03220_Q2_000_000","如何作答？"
@@ -192,7 +192,7 @@ int32,str,str
 怪不得。"
 112,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_383","你們來啦，為什麼這麼說？
 什麼怪不得？"
-113,"TEXT_LUCKBC011_03220_JOYE_000_384","當然是指 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>小姐<Else/>先生</If>恰巧在煩惱的我們面前
+113,"TEXT_LUCKBC011_03220_JOYE_000_384","當然是指<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>先生</If>恰巧在煩惱的我們面前
 與敵人一番大戰的事情啦。
 這是少爺安排的吧？"
 114,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_385","你們怎麼知道的！"
@@ -204,7 +204,7 @@ int32,str,str
 117,"TEXT_LUCKBC011_03220_HILDA_000_388","沒有人求助卻擅自跑來幫忙，
 你們還真是喜歡瞎操心啊。
 不過當然啦，我也非常感謝你們。"
-118,"TEXT_LUCKBC011_03220_JOYE_000_389","託你們的福，我們終於看清前進的方向了！
+118,"TEXT_LUCKBC011_03220_JOYE_000_389","托你們的福，我們終於看清前進的方向了！
 真的非常感謝。"
 119,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_390","看來我的測量器這次也很正確，
 精準地找到了你這張設計圖。"
@@ -215,7 +215,7 @@ int32,str,str
 孩子們總是會在不知不覺間悄悄長大，
 這點和機械完全不同啊。"
 123,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_394","我也該向你道謝才對，
-託你的福，她們兩個又向前邁進了一步。
+托你的福，她們兩個又向前邁進了一步。
 謝謝你。"
 124,"TEXT_LUCKBC011_03220_STEPHANIVIEN_000_395","有空時多來這裡露露臉吧。
 工房的大門永遠為你敞開。"

@@ -53,13 +53,13 @@ int32,str,str
 但她畢竟回答了我的問題，我當然也要出力。"
 49,"TEXT_AKTKMJ103_04672_ALISAIE_000_005","之前我一直好奇零是怎樣的人，
 她意外地坦率呢，我們一定很合得來！"
-50,"TEXT_AKTKMJ103_04672_ALPHINAUD_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、零，謝謝你們來幫忙。"
+50,"TEXT_AKTKMJ103_04672_ALPHINAUD_000_010","<Highlight>ObjectParameter(1)</Highlight>、零，謝謝你們來幫忙。"
 51,"TEXT_AKTKMJ103_04672_ALPHINAUD_000_011","碎璃營地中存放著救援隊利用飛空艇運來的
 糧食、生活必需品以及醫療用品等物資。"
 52,"TEXT_AKTKMJ103_04672_ALPHINAUD_000_012","將這些物資的一部分送往第三站就是我們平時的工作之一。
 你們誰願意來搭把手？"
 53,"TEXT_AKTKMJ103_04672_MYSTERIOUSPERSON_000_013","我來吧。"
-54,"TEXT_AKTKMJ103_04672_ALISAIE_000_014","那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就和我一起吧？"
+54,"TEXT_AKTKMJ103_04672_ALISAIE_000_014","那<Highlight>ObjectParameter(1)</Highlight>就和我一起吧？"
 55,"TEXT_AKTKMJ103_04672_ALISAIE_000_015","最近加雷馬附近的妖異逐漸變多，為了確保營地周邊安全，
 我們等下去艾布拉納冰原上巡邏一圈！"
 56,"TEXT_AKTKMJ103_04672_ALISAIE_000_020","之前收到報告，說在這一帶看到了妖異。

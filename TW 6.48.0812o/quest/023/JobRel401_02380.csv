@@ -2,19 +2,19 @@
 #,,
 int32,str,str
 0,"TEXT_JOBREL401_02380_SEQ_00","田園郡的安費莉絲有些在意地看著冒險者。"
-1,"TEXT_JOBREL401_02380_SEQ_01","安費莉絲表示冒險者可以用3章歷練冒險譚與她交換<Sheet(Item,16064,0)/>。完成「隨機任務：練級」，獲得<Sheet(EventItem,2002018,0)/>。
+1,"TEXT_JOBREL401_02380_SEQ_01","安費莉絲表示冒險者可以用3章歷練冒險譚與她交換<Sheet(Item,16064,0)/>。完成「隨機任務：練級」，獲取<Sheet(EventItem,2002018,0)/>。
 
 ※只有在接受任務的狀態下完成「隨機任務：練級」，才能獲得<Sheet(EventItem,2002018,0)/>。"
-2,"TEXT_JOBREL401_02380_SEQ_02","獲得了<Sheet(EventItem,2002018,0)/>。完成「隨機任務：練級」，獲得<Sheet(EventItem,2002024,0)/>。
+2,"TEXT_JOBREL401_02380_SEQ_02","獲得了<Sheet(EventItem,2002018,0)/>。完成「隨機任務：練級」，獲取<Sheet(EventItem,2002024,0)/>。
 
 ※只有在接受任務的狀態下完成「隨機任務：練級」，才能獲得<Sheet(EventItem,2002024,0)/>。"
-3,"TEXT_JOBREL401_02380_SEQ_03","獲得了<Sheet(EventItem,2002024,0)/>。完成「隨機任務：練級」，獲得<Sheet(EventItem,2002025,0)/>。
+3,"TEXT_JOBREL401_02380_SEQ_03","獲得了<Sheet(EventItem,2002024,0)/>。完成「隨機任務：練級」，獲取<Sheet(EventItem,2002025,0)/>。
 
 ※只有在接受任務的狀態下完成「隨機任務：練級」，才能獲得<Sheet(EventItem,2002025,0)/>。"
 4,"TEXT_JOBREL401_02380_SEQ_04","獲得了<Sheet(EventItem,2002025,0)/>。將3章歷練冒險譚交給田園郡的安費莉絲。"
 5,"TEXT_JOBREL401_02380_SEQ_05","將歷練冒險譚交給了安費莉絲，獲得了<Sheet(Item,16064,0)/>。安費莉絲是要參考歷練冒險譚撰寫詛咒詩集。在缺乏靈感時，她還會再次尋求冒險者的幫助。
 
-※本任務可重複進行。本任務每週最多可完成1次。完成後，該周無法再次接受。如接受任務後拖延到下週完成，則會消耗掉完成周的任務受理限額。
+※本任務可重覆進行。本任務每週最多可完成1次。完成後，該周無法再次接受。如接受任務後拖延到下週完成，則會消耗掉完成周的任務受理限額。
 
 ※每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）之後可以再次進行挑戰。請在重置前耐心等待。"
 6,"TEXT_JOBREL401_02380_SEQ_06",""
@@ -36,11 +36,11 @@ int32,str,str
 22,"TEXT_JOBREL401_02380_SEQ_22",""
 23,"TEXT_JOBREL401_02380_SEQ_23",""
 24,"TEXT_JOBREL401_02380_TODO_00","完成隨機任務：練級
-獲得<Sheet(EventItem,2002018,0)/>"
+獲取<Sheet(EventItem,2002018,0)/>"
 25,"TEXT_JOBREL401_02380_TODO_01","完成隨機任務：練級
-獲得<Sheet(EventItem,2002024,0)/>"
+獲取<Sheet(EventItem,2002024,0)/>"
 26,"TEXT_JOBREL401_02380_TODO_02","完成隨機任務：練級
-獲得<Sheet(EventItem,2002025,0)/>"
+獲取<Sheet(EventItem,2002025,0)/>"
 27,"TEXT_JOBREL401_02380_TODO_03","將歷練冒險譚交給田園郡的安費莉絲"
 28,"TEXT_JOBREL401_02380_TODO_04",""
 29,"TEXT_JOBREL401_02380_TODO_05",""
@@ -79,7 +79,7 @@ int32,str,str
 54,"TEXT_JOBREL401_02380_SYSTEM_000_000","完成「隨機任務：練級」後，
 可以得到「歷練冒險譚」。"
 55,"TEXT_JOBREL401_02380_AMPHELICE_000_020","讓淑女久等可不是什麼好習慣哦。
-儘快拿3章歷練冒險譚來給我吧。"
+盡快拿3章歷練冒險譚來給我吧。"
 56,"TEXT_JOBREL401_02380_SYSTEM_000_010","完成「隨機任務：練級」後，
 可以得到「歷練冒險譚」。"
 57,"TEXT_JOBREL401_02380_AMPHELICE_000_040","歡迎回來。

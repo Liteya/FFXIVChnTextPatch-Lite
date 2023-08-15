@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_RAIDGUIDEENTRANCE32_LIGHTKIX_000_000","呼哧……呼哧……
 我是監視員 工作是監視！
-迎擊 擊退 要另拿錢！"
+迎擊擊退 要另拿錢！"
 1,"TEXT_RAIDGUIDEENTRANCE32_Q1_000_010","要做什麼？"
 2,"TEXT_RAIDGUIDEENTRANCE32_A1_000_011","詢問「亞歷山大零式機神城律動之章」的開始條件"
 3,"TEXT_RAIDGUIDEENTRANCE32_A1_000_012","以通常的分配方式開始「<Sheet(InstanceContent,IntegerParameter(1),3)/>」"
@@ -25,7 +25,7 @@ int32,str,str
 14,"TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_053","開始「亞歷山大零式機神城律動之章」，
 需要8名等級達到
 60級以上的戰鬥菁英或魔法導師來組成隊伍。"
-15,"TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_054","另外，所有成員一定要領取並完成任務「英雄夢想詩：機神城之章」。"
+15,"TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_054","另外，所有成員必須要領取並完成任務「英雄夢想詩：機神城之章」。"
 16,"TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_055","「亞歷山大零式機神城律動之章」的開始地點
 取決於小隊隊長的進攻進度。"
 17,"TEXT_RAIDGUIDEENTRANCE32_SYSTEM_000_056","如果滿足開始條件，

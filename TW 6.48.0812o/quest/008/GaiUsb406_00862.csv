@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_GAIUSB406_00862_SEQ_21",""
 22,"TEXT_GAIUSB406_00862_SEQ_22",""
 23,"TEXT_GAIUSB406_00862_SEQ_23",""
-24,"TEXT_GAIUSB406_00862_TODO_00","獲得<Sheet(EventItem,2000669,0)/>"
-25,"TEXT_GAIUSB406_00862_TODO_01","獲得<Sheet(EventItem,2000929,0)/>"
+24,"TEXT_GAIUSB406_00862_TODO_00","獲取<Sheet(EventItem,2000669,0)/>"
+25,"TEXT_GAIUSB406_00862_TODO_01","獲取<Sheet(EventItem,2000929,0)/>"
 26,"TEXT_GAIUSB406_00862_TODO_02","將<Sheet(EventItem,2000669,0)/>和<Sheet(EventItem,2000929,0)/>交給斯威古雷爾"
 27,"TEXT_GAIUSB406_00862_TODO_03",""
 28,"TEXT_GAIUSB406_00862_TODO_04",""
@@ -58,12 +58,12 @@ int32,str,str
 就把那個<Sheet(EventItem,2000929,0)/>也拿回來！"
 51,"TEXT_GAIUSB406_00862_DUMMY_000_010","調查了迅猛龍的屍體，收集了3個鉤爪
 收集3支射中迅猛龍的箭"
-52,"TEXT_GAIUSB406_00862_TODO_000_010","（★未使用／削除予定★）"
+52,"TEXT_GAIUSB406_00862_TODO_000_010","（未使用/預計刪除）"
 53,"TEXT_GAIUSB406_00862_SWYGRAEL_000_020","喂喂，那邊的冒險者！
 你快去把<Sheet(EventItem,2000669,0)/>和<Sheet(EventItem,2000929,0)/>拿回來！"
 54,"TEXT_GAIUSB406_00862_SWYGRAEL_000_025","謝謝！地靈族十分擅長於冶金技術！
 我們一旦射出帶有金屬箭頭的箭，
-他們便會將其收集起來，重新熔鍊為武器。"
-55,"TEXT_GAIUSB406_00862_SWYGRAEL_000_026","長官命令說絕不能將物資留給他們。
+他們便會將其收集起來，重新熔煉為武器。"
+55,"TEXT_GAIUSB406_00862_SWYGRAEL_000_026","長官命令說決不能將物資留給他們。
 於是我便打算利用鉤爪製成箭頭！
 射出的箭也要全部回收，謹慎循環使用！"

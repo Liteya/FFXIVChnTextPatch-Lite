@@ -60,7 +60,7 @@ int32,str,str
 50,"TEXT_AKTKZA203_04491_OGUL_000_002","我們返回新港向勘恰娜報告的同時
 順便問問她還有沒有其他的委託吧。
 我們來比比誰先到那裡！"
-51,"TEXT_AKTKZA203_04491_KANCANA_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來。
+51,"TEXT_AKTKZA203_04491_KANCANA_000_005","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來。
 你是完成委託了嗎？那斡兀立她人呢？"
 52,"TEXT_AKTKZA203_04491_OGUL_000_006","錢、我的錢……"
 53,"TEXT_AKTKZA203_04491_OGUL_000_007","整個錢包都被人順走了！
@@ -69,19 +69,19 @@ int32,str,str
 54,"TEXT_AKTKZA203_04491_OGUL_000_008","嗚哇哇，我肚子餓了啊……"
 55,"TEXT_AKTKZA203_04491_KANCANA_000_009","哎呀哎呀，真是可憐……
 如果不在意的話，就來我家住宿吧。
-看你們委託完成得也蠻不錯的。"
+看你們委託完成得也挺不錯的。"
 56,"TEXT_AKTKZA203_04491_OGUL_000_015","真、真的可以嗎？！"
 57,"TEXT_AKTKZA203_04491_KANCANA_000_010","呵呵，你終於肯正臉看我了！
 是不是已經稍微適應了我們悌陽象族呢？"
 58,"TEXT_AKTKZA203_04491_OGUL_000_011","那是因為我流著眼淚看不清你啦！
 多虧我完成了幾次委託，多少習慣了和象魔族相處……"
-59,"TEXT_AKTKZA203_04491_KANCANA_000_012","這不是蠻好的嘛。
+59,"TEXT_AKTKZA203_04491_KANCANA_000_012","這不是挺好的嘛。
 你看你現在身無分文，遇到什麼事情的時候肯定不方便，
 我再借給你點錢吧。"
 60,"TEXT_AKTKZA203_04491_OGUL_000_013","嗚嗚，謝謝……"
 61,"TEXT_AKTKZA203_04491_KANCANA_000_014","還有你吃飯的問題我也包了。
-如果願意的話， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也來吧。"
-62,"TEXT_AKTKZA203_04491_KANCANA_000_020","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+如果願意的話，<Highlight>ObjectParameter(1)</Highlight>也來吧。"
+62,"TEXT_AKTKZA203_04491_KANCANA_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>！
 大事不好了。"
 63,"TEXT_AKTKZA203_04491_KANCANA_000_021","我家好像遭到了闖空門。
 就在我回來的時候看見有個男孩從窗戶跳了出去……
@@ -100,8 +100,8 @@ int32,str,str
 70,"TEXT_AKTKZA203_04491_OGUL_000_029","太好了！
 首先得要去調查犯人的線索。
 向這裡的居民打聽一下盜竊犯還有盜竊事件的情報吧。"
-71,"TEXT_AKTKZA203_04491_OGUL_000_030","這次重視速度，我們分頭行動吧。
-等結束以後就到勘恰娜那裡分享情報！
+71,"TEXT_AKTKZA203_04491_OGUL_000_030","這回重視速度，我們分頭行動吧。
+等完事以後就到勘恰娜那裡分享情報！
 一會見吧！"
 72,"TEXT_AKTKZA203_04491_ABDHI_100_035","啊，我聽說有好幾個人都遇到了扒手。
 最近這類事件突然增多了，
@@ -112,7 +112,7 @@ int32,str,str
 讓本就窮困的孩子被迫走上了行竊的道路吧……
 真是可悲啊。"
 75,"TEXT_AKTKZA203_04491_DARPASA_100_038","又出現盜竊事件了？
-前幾個日子就有不知誰家的孩子闖進了我的家裡。"
+前些日子就有不知誰家的孩子闖進了我的家裡。"
 76,"TEXT_AKTKZA203_04491_DARPASA_100_039","被我撞見以後喊了一句抱歉就跑掉了，
 所以我也就沒追出去……
 真是不好辦呢。"

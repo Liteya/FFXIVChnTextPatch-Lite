@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVNA331_01632_TODO_21",""
 46,"TEXT_HEAVNA331_01632_TODO_22",""
 47,"TEXT_HEAVNA331_01632_TODO_23",""
-48,"TEXT_HEAVNA331_01632_ALPHINAUD_100_000","席德現在還沒聯繫我們……
+48,"TEXT_HEAVNA331_01632_ALPHINAUD_100_000","西德現在還沒聯繫我們……
 看來距離破魔艇的完工還需要一段時間。
 該怎麼辦好呢……"
 49,"TEXT_HEAVNA331_01632_YUGIRI_101_000","看來娜娜莫陛下已經平安醒來了……真是太好了……"
@@ -61,19 +61,19 @@ int32,str,str
 剩餘的第三分隊士兵也都離開了。
 現在還留在石之家的都是願意服從閣下領導的人。"
 53,"TEXT_HEAVNA331_01632_ALPHINAUD_000_002","是嗎……還有人願意相信我呀。"
-54,"TEXT_HEAVNA331_01632_ALPHINAUD_100_002","在回伊修加爾德前，讓我們去一趟石之家吧。
+54,"TEXT_HEAVNA331_01632_ALPHINAUD_100_002","在回伊修加德前，讓我們去一趟石之家吧。
 我想向留下來的那些夥伴宣布水晶義勇隊解散的消息。"
-55,"TEXT_HEAVNA331_01632_ALPHINAUD_000_003"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能請你隨我一起去嗎？
+55,"TEXT_HEAVNA331_01632_ALPHINAUD_000_003","<Highlight>ObjectParameter(1)</Highlight>，能請你隨我一起去嗎？
 在身邊看著我劃出這個句號……"
-56,"TEXT_HEAVNA331_01632_YUGIRI_000_004","（★未使用／削除予定★）"
+56,"TEXT_HEAVNA331_01632_YUGIRI_000_004","空"
 57,"TEXT_HEAVNA331_01632_ALIANNE_000_010","阿、阿爾菲諾總帥？！"
-58,"TEXT_HEAVNA331_01632_RIOL_000_011","還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也在！
+58,"TEXT_HEAVNA331_01632_RIOL_000_011","還有<Highlight>ObjectParameter(1)</Highlight>也在！
 我就知道你們一定平安無事！"
 59,"TEXT_HEAVNA331_01632_ALPHINAUD_000_012","大家也沒事真是太好了。
 對不起，都怪我太不中用了……
 還連累你們被捲進了政變當中。"
 60,"TEXT_HEAVNA331_01632_RIOL_000_013","還留在這裡的同伴都沒有在意那件事。
-我們都是發過誓要為了艾奧傑亞而竭盡全力的人，
+我們都是發過誓要為了艾歐澤亞而竭盡全力的人，
 我說得沒錯吧？"
 61,"TEXT_HEAVNA331_01632_RIOL_000_014","(-剩下的隊員們-)對！"
 62,"TEXT_HEAVNA331_01632_ALPHINAUD_000_015","謝謝大家……
@@ -102,7 +102,7 @@ int32,str,str
 為此也要不斷向前才行……"
 72,"TEXT_HEAVNA331_01632_YUGIRI_000_033","不管在哪一片土地上，
 懷抱著同一理想的人們的身影都是同樣美麗呢……"
-73,"TEXT_HEAVNA331_01632_RIOL_000_040","有消息稱芙．拉敏女士在利姆薩．羅敏薩
+73,"TEXT_HEAVNA331_01632_RIOL_000_040","有消息稱芙·拉敏女士在利姆薩·羅敏薩
 遭到第三分隊的襲擊時順利逃脫了。
 我覺得她很可能藏在了遠洋商船上……"
 74,"TEXT_HEAVNA331_01632_ALIANNE_000_041","找人的事就交給我們吧。

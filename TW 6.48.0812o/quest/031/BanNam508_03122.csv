@@ -5,9 +5,9 @@ int32,str,str
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
 朵洛衣樓的光風院霽月想要創作名菜。"
-1,"TEXT_BANNAM508_03122_SEQ_01","和重逢市集的喜歡菜餚的鯰魚精談談"
+1,"TEXT_BANNAM508_03122_SEQ_01","和重逢集市的喜歡菜餚的鯰魚精談談"
 2,"TEXT_BANNAM508_03122_SEQ_02","將委託物品交給喜歡菜餚的鯰魚精"
-3,"TEXT_BANNAM508_03122_SEQ_03","將<Sheet(EventItem,2002478,0)/>交給重逢市集的也速亦"
+3,"TEXT_BANNAM508_03122_SEQ_03","將<Sheet(EventItem,2002478,0)/>交給重逢集市的也速亦"
 4,"TEXT_BANNAM508_03122_SEQ_04","向光風院霽月報告"
 5,"TEXT_BANNAM508_03122_SEQ_05",""
 6,"TEXT_BANNAM508_03122_SEQ_06",""
@@ -28,9 +28,9 @@ int32,str,str
 21,"TEXT_BANNAM508_03122_SEQ_21",""
 22,"TEXT_BANNAM508_03122_SEQ_22",""
 23,"TEXT_BANNAM508_03122_SEQ_23",""
-24,"TEXT_BANNAM508_03122_TODO_00","和重逢市集的喜歡菜餚的鯰魚精對話"
-25,"TEXT_BANNAM508_03122_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢市集南邊的石場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢市集南邊的草場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在涅木卡勒河釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢市集附近的喜歡菜餚的鯰魚精</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANNAM508_03122_TODO_02","將<Sheet(EventItem,2002478,0)/>交給重逢市集的也速亦"
+24,"TEXT_BANNAM508_03122_TODO_00","和重逢集市的喜歡菜餚的鯰魚精對話"
+25,"TEXT_BANNAM508_03122_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢集市南邊的石場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在重逢集市南邊的草場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在涅木卡勒河釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給重逢集市附近的喜歡菜餚的鯰魚精</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM508_03122_TODO_02","將<Sheet(EventItem,2002478,0)/>交給重逢集市的也速亦"
 27,"TEXT_BANNAM508_03122_TODO_03","向光風院霽月報告"
 28,"TEXT_BANNAM508_03122_TODO_04",""
 29,"TEXT_BANNAM508_03122_TODO_05",""
@@ -58,7 +58,7 @@ int32,str,str
 聽好了，我們要製作具有這次祭禮特色的名菜
 來招待參加祭禮的人們！"
 50,"TEXT_BANNAM508_03122_KOFUINSEIGETSU_000_002","因為遊客當中也包含人類的客人，所以也請你幫忙試著創作名菜。
-好了，既然都談妥了，那你就趕快去趟重逢市集吧。
+好了，既然都談妥了，那你就趕快去趟重逢集市吧。
 喜歡菜餚的鯰魚精應該就在那附近等著呢。"
 51,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_010","你是來幫忙製作我創作的名菜的嗎噗？
 因為我不太懂你們人類的口味，
@@ -77,13 +77,13 @@ int32,str,str
 素材就放在旁邊的貨箱裡了，希望你能用得上噗。"
 56,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_015","我希望採礦工你能去採集2個
 能和魚肉一起醃製的<Sheet(Item,22636,0)/>回來噗。
-在重逢市集的南邊應該能找到噗。"
+在重逢集市的南邊應該能找到噗。"
 57,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_016","我希望園藝工你能去採集2個
 用來給魚肉增香的<Sheet(Item,22662,0)/>回來噗。
-在重逢市集的南邊應該能找到噗。"
+在重逢集市的南邊應該能找到噗。"
 58,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_017","我希望捕魚人你能去採集1個
 用來製作醬汁高湯的名叫<Sheet(Item,22688,0)/>的貝類回來噗。
-在重逢市集的南邊使用<Sheet(Item,20613,0)/>應該能釣到噗。"
+在重逢集市的南邊使用<Sheet(Item,20613,0)/>應該能釣到噗。"
 59,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_018","主要食材的嗚噗噗的魚已經準備好了噗。
 你只要把需要的東西拿過來，
 咱們就可以開始製作烤鯰魚了噗！"
@@ -118,13 +118,13 @@ int32,str,str
 嗚噗嗚噗嗚噗噗地、轉一轉……"
 76,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_100_042","做好了噗！
 這就是我全力創作的名菜烤鯰魚噗！
-這次的調味，我覺得相當成功噗！"
-77,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_043","麻煩你把這個<Sheet(EventItem,2002478,0)/>交給重逢市集的也速亦噗。
+這回的調味，我覺得相當成功噗！"
+77,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_043","麻煩你把這個<Sheet(EventItem,2002478,0)/>交給重逢集市的也速亦噗。
 我想讓她嘗嘗，看味道到底適不適合太陽神草原的人們的口味噗。"
 78,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_100_043","我就繼續忙著改良醬汁了噗。
 如果你請也速亦試吃完了，
 就先回祭場向光風院霽月報告吧噗！"
-79,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_044","請你將烤鯰魚交給重逢市集的也速亦噗！"
+79,"TEXT_BANNAM508_03122_DAILYNAMAZUO03122_000_044","請你將烤鯰魚交給重逢集市的也速亦噗！"
 80,"TEXT_BANNAM508_03122_YESUI_000_050","找我有什麼事嗎？"
 81,"TEXT_BANNAM508_03122_YESUI_000_051","你說讓我試吃這個創作菜餚？
 感、感覺這個賣相要想吃還是需要有點勇氣的，

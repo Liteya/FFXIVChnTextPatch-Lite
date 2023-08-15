@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDA326_02935_SEQ_22",""
 23,"TEXT_STMBDA326_02935_SEQ_23",""
 24,"TEXT_STMBDA326_02935_TODO_00","在玄水連山尋找夕霧"
-25,"TEXT_STMBDA326_02935_TODO_01","在弓束官邸附近和夕霧會合"
+25,"TEXT_STMBDA326_02935_TODO_01","在弓束官邸附近和夕霧匯合"
 26,"TEXT_STMBDA326_02935_TODO_02",""
 27,"TEXT_STMBDA326_02935_TODO_03",""
 28,"TEXT_STMBDA326_02935_TODO_04",""
@@ -56,10 +56,10 @@ int32,str,str
 如果你覺得跟著夕霧或許能達成什麼，
 那就按照你自己的想法去做吧。"
 50,"TEXT_STMBDA326_02935_GOSETSU_000_002","她應該會為暗殺提前收集情報。
-你現在去找她的話，應該能在不遠處就找到她。"
+你現在去找她的話，估計能在不遠處就找到她。"
 51,"TEXT_STMBDA326_02935_GOSETSU_000_010","老夫不是說暗殺這件事是做不到的。
 只是，老夫認為主公的話語另有深意。"
-52,"TEXT_STMBDA326_02935_YUGIRI_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+52,"TEXT_STMBDA326_02935_YUGIRI_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下……
 難道是豪雪讓你來阻止在下的？"
 53,"TEXT_STMBDA326_02935_YUGIRI_000_021","原、原來不是啊……抱歉是在下誤會了。
 因為在下覺得誰都不會贊同在下的做法……"
@@ -68,8 +68,8 @@ int32,str,str
 收到了有關芝諾斯動向的情報。"
 55,"TEXT_STMBDA326_02935_YUGIRI_000_023","出乎在下的預料，
 到達多瑪城的芝諾斯今晚就要來大龍壁這邊進行視察了。"
-56,"TEXT_STMBDA326_02935_YUGIRI_000_024","那傢伙是功利主義，
-應該不想浪費一分一秒吧。
+56,"TEXT_STMBDA326_02935_YUGIRI_000_024","那傢伙是實利主義，
+估計不想浪費一分一秒吧。
 也正因為這樣，城內的準備可謂手忙腳亂。"
 57,"TEXT_STMBDA326_02935_YUGIRI_000_025","……月黑風高，而且慌忙中只有一支護衛部隊跟著他視察，
 再也沒有比現在這個機會更適合暗殺了。"
@@ -104,5 +104,5 @@ int32,str,str
 真的要暗殺那個……皇太子芝諾斯？"
 73,"TEXT_STMBDA326_02935_ISSE_000_041","簡直太亂來了，大笨蛋！
 如果失敗的話就……"
-74,"TEXT_STMBDA326_02935_YUGIRI_000_050","你來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+74,"TEXT_STMBDA326_02935_YUGIRI_000_050","你來了，<Highlight>ObjectParameter(1)</Highlight>閣下。
 那我們就來商討一下作戰內容吧。"

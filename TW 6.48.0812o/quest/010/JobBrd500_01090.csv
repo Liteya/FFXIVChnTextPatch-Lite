@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_JOBBRD500_01090_SEQ_00","讓泰爾想要把最後一件吟遊詩人戰裝交給冒險者。"
-1,"TEXT_JOBBRD500_01090_SEQ_01","接受了讓泰爾的委託。在庫爾札斯中央高地阿德內爾占星臺西邊的<Sheet(EObj,2002373,0)/>使用<Sheet(EventItem,2000953,0)/>。"
+1,"TEXT_JOBBRD500_01090_SEQ_01","接受了讓泰爾的委託。在庫爾札斯中央高地阿德內爾占星台西邊的<Sheet(EObj,2002373,0)/>使用<Sheet(EventItem,2000953,0)/>。"
 2,"TEXT_JOBBRD500_01090_SEQ_02","在<Sheet(EObj,2002373,0)/>使用了<Sheet(EventItem,2000953,0)/>。向庫爾札斯中央高地的讓泰爾報告。"
 3,"TEXT_JOBBRD500_01090_SEQ_03","向庫爾札斯中央高地的讓泰爾報告完畢。因為過去的陰影而一直無法射出箭矢的讓泰爾為了救冒險者，成功放出了一箭。讓泰爾唱出了對死去同伴的悼念之歌，實現了長年的夙願，並最終決定要協助神勇隊。讓泰爾會連同死去的同伴那份，努力活下去。
 
@@ -66,12 +66,12 @@ int32,str,str
 當我在烏爾達哈的市場上再次見到它的時候，很是意外。
 根本沒有想過時隔多年後還能和它重逢……"
 54,"TEXT_JOBBRD500_01090_JEHANTEL_000_006","我感到這是阿爾基克在指引我……
-要我培育出一位與此戰裝配對的後繼者，以此來贖罪。
+要我培育出一位與此戰裝匹配的後繼者，以此來贖罪。
 所以，我買下了這件戰裝。"
 55,"TEXT_JOBBRD500_01090_JEHANTEL_000_007","然而，我回到黑衣森林之後，
 來拜訪我的人全部都是來求我指導弓術的人。"
 56,"TEXT_JOBBRD500_01090_JEHANTEL_000_008","我懷疑是不是自己想錯了。
-甚至都不想去拜訪普庫諾．珀奇，
+甚至都不想去拜訪普庫諾·珀奇，
 準備再度離開黑衣森林。"
 57,"TEXT_JOBBRD500_01090_JEHANTEL_000_009","就在這時，你出現了。"
 58,"TEXT_JOBBRD500_01090_JEHANTEL_000_010","看來我買回這件戰裝是正確的。
@@ -96,7 +96,7 @@ int32,str,str
 66,"TEXT_JOBBRD500_01090_JEHANTEL_000_018","如今，與你相遇、相交之後，我覺得現在的我，
 終於可以唱出那樣的詩歌了。"
 67,"TEXT_JOBBRD500_01090_JEHANTEL_000_019","那首鎮魂歌應該在我釀成慘劇的地方……庫爾札斯中央高地響起。"
-68,"TEXT_JOBBRD500_01090_JEHANTEL_000_020","阿德內爾占星臺的西邊，依稀可以看到慘劇留下的痕跡，
+68,"TEXT_JOBBRD500_01090_JEHANTEL_000_020","阿德內爾占星台的西邊，依稀可以看到慘劇留下的痕跡，
 那裡還豎立著零星的墓碑。我希望你能陪我到那裡去。"
 69,"TEXT_JOBBRD500_01090_JEHANTEL_000_021","你和你的詩歌，都給予了我直面過去的勇氣。
 因此，我也希望你能聽一聽……
@@ -109,7 +109,7 @@ int32,str,str
 <Emphasis>按照您的意志 傳達給我 和這個人……</Emphasis>"
 72,"TEXT_JOBBRD500_01090_JEHANTEL_000_030","糟了，我們被包圍了！
 看來那些不是正規的鳥人部隊。"
-73,"TEXT_JOBBRD500_01090_JEHANTEL_000_031","可別死在這裡啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+73,"TEXT_JOBBRD500_01090_JEHANTEL_000_031","可別死在這裡啊，<Highlight>ObjectParameter(1)</Highlight>！
 我不想再因為我而失去同伴！"
 74,"TEXT_JOBBRD500_01090_JEHANTEL_000_040","我從未想過，我會再次站在這裡……
 我讓同伴們等得太久了……"
@@ -137,7 +137,7 @@ int32,str,str
 <Emphasis>將所有喜悅 按照您的意志</Emphasis>
 <Emphasis>傳達給我 和這個人……</Emphasis>"
 85,"TEXT_JOBBRD500_01090_JEHANTEL_000_051","<Emphasis>為逝去的親朋 為活著的一切生命 盡情歌唱……</Emphasis>"
-86,"TEXT_JOBBRD500_01090_JEHANTEL_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你一直陪著我這個老傢伙。"
+86,"TEXT_JOBBRD500_01090_JEHANTEL_000_060","<Highlight>ObjectParameter(1)</Highlight>，謝謝你一直陪著我這個老傢伙。"
 87,"TEXT_JOBBRD500_01090_JEHANTEL_000_061","你所演奏的戰歌，會振奮更多的人。
 今後也請你給予更多人希望。
 ……那麼，再會了。"
@@ -152,9 +152,9 @@ int32,str,str
 93,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_02","難道又要因為我，讓珍貴的生命消逝麼……"
 94,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_03","我不想再經歷和中央高地慘劇一樣的絕望了……"
 95,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_04","至少……我要盡我所能。"
-96,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_05"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！到我身邊來！"
+96,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_05","<Highlight>ObjectParameter(1)</Highlight>！到我身邊來！"
 97,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_06","不能再因為我的失敗，讓任何人死去！
 我會盡全力歌唱……保護你……我重要的同伴！"
-98,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_07"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！堅持住！不要倒下……
+98,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_07","<Highlight>ObjectParameter(1)</Highlight>！堅持住！不要倒下……
 傾聽我的歌聲，將它化為力量！"
 99,"TEXT_JOBBRD500_01090_QIB_001_JEHANTEL_BATTLETALK_DEAD","這樣，我也能得到解脫了吧……"

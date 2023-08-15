@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_STMBDZ704_02807_YOUNGERBROTHERSAMURAI_100_000","你要休息到什麼時候？
 快開始修行了。"
 49,"TEXT_STMBDZ704_02807_BIGBROTHERSAMURAI_000_000","莫非你是……
-大家都在說的身手高強的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？"
+大家都在說的身手高強的<Highlight>ObjectParameter(1)</Highlight>？"
 50,"TEXT_STMBDZ704_02807_BIGBROTHERSAMURAI_000_001","你來得正是時候，
 我這位朋友非常精通武藝，
 我已經完全不是他的對手了，所以在幫他找練習對手。"

@@ -6,8 +6,8 @@ int32,str,str
 1,"TEXT_BANVAN106_02176_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-為了解決用水不足的問題，穆納瓦努委託冒險者去獲得<Sheet(EventItem,2001908,0)/>。不過在此之前，需要獲得人類頭領的許可。和玫瑰園的拉妮艾特談談。"
-2,"TEXT_BANVAN106_02176_SEQ_02","和拉妮艾特進行了交談，得到了獲得<Sheet(EventItem,2001908,0)/>的許可。在沃仙曦染獲得3個<Sheet(EventItem,2001908,0)/>。"
+為了解決用水不足的問題，穆納瓦努委託冒險者去獲取<Sheet(EventItem,2001908,0)/>。不過在此之前，需要獲得人類頭領的許可。和玫瑰園的拉妮艾特談談。"
+2,"TEXT_BANVAN106_02176_SEQ_02","和拉妮艾特進行了交談，得到了獲取<Sheet(EventItem,2001908,0)/>的許可。在沃仙曦染獲取3個<Sheet(EventItem,2001908,0)/>。"
 3,"TEXT_BANVAN106_02176_SEQ_03","獲得了3個<Sheet(EventItem,2001908,0)/>。將<Sheet(EventItem,2001908,0)/>交給西風島的穆納瓦努。"
 4,"TEXT_BANVAN106_02176_SEQ_04","將<Sheet(EventItem,2001908,0)/>交給了穆納瓦努。據他所說，平時用的都是下雨天儲存下來的雨水，只有存水不足時，才會要用到<Sheet(EventItem,2001908,0)/>。"
 5,"TEXT_BANVAN106_02176_SEQ_05",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANVAN106_02176_SEQ_22",""
 23,"TEXT_BANVAN106_02176_SEQ_23",""
 24,"TEXT_BANVAN106_02176_TODO_00","和拉妮艾特對話"
-25,"TEXT_BANVAN106_02176_TODO_01","獲得<Sheet(EventItem,2001908,0)/>"
+25,"TEXT_BANVAN106_02176_TODO_01","獲取<Sheet(EventItem,2001908,0)/>"
 26,"TEXT_BANVAN106_02176_TODO_02","將<Sheet(EventItem,2001908,0)/>交給穆納瓦努"
 27,"TEXT_BANVAN106_02176_TODO_03",""
 28,"TEXT_BANVAN106_02176_TODO_04",""
@@ -55,25 +55,25 @@ int32,str,str
 47,"TEXT_BANVAN106_02176_TODO_23",""
 48,"TEXT_BANVAN106_02176_MUNAVANU_000_000","水、水……水不夠了……
 能請、能請你去人類所說的沃仙曦染那裡，
-獲得3個左右的<Sheet(EventItem,2001908,0)/>嗎？"
+獲取3個左右的<Sheet(EventItem,2001908,0)/>嗎？"
 49,"TEXT_BANVAN106_02176_MUNAVANU_000_001","人類也會將<Sheet(EventItem,2001908,0)/>作為水源來使用。
 雖然我們之前也用這些水晶作為水源，
 但現在擅自取用的話，也許會引起矛盾。"
 50,"TEXT_BANVAN106_02176_MUNAVANU_000_002","所以、所以，麻煩你去人類的陣地，
-取得人類頭領的許可後再去獲得水晶……
+取得人類頭領的許可後再去獲取水晶……
 這件事只能拜託給身為人類的你，真的拜託你了！！"
 51,"TEXT_BANVAN106_02176_LANIAITTE_000_010","袞杜族想要<Sheet(EventItem,2001908,0)/>？
 原來如此，沒問題，想拿多少拿多少。"
 52,"TEXT_BANVAN106_02176_LANIAITTE_000_011","說起來，袞杜族才是這裡的原住民們，
 也不需要獲得我們這些外來者的許可。
 請你幫我轉告袞杜族，謝謝他們考慮得如此周全。"
-53,"TEXT_BANVAN106_02176_LANIAITTE_000_015","既然 <Highlight>ObjectParameter(1)</Highlight> 在幫助袞杜族的話，
+53,"TEXT_BANVAN106_02176_LANIAITTE_000_015","既然<Highlight>ObjectParameter(1)</Highlight>在幫助袞杜族的話，
 那就代表我們有機會和袞杜族重歸當初的友好關係。
 畢竟我們也不想把關係鬧得那麼僵。"
-54,"TEXT_BANVAN106_02176_LANIAITTE_000_030","既然 <Highlight>ObjectParameter(1)</Highlight> 在幫助袞杜族的話，
+54,"TEXT_BANVAN106_02176_LANIAITTE_000_030","既然<Highlight>ObjectParameter(1)</Highlight>在幫助袞杜族的話，
 那就代表我們有機會和袞杜族重歸當初的友好關係。
 畢竟我們也不想把關係鬧得那麼僵。"
-55,"TEXT_BANVAN106_02176_MUNAVANU_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，等你好久了。
+55,"TEXT_BANVAN106_02176_MUNAVANU_000_040","<Highlight>ObjectParameter(1)</Highlight>，等你好久了。
 你取來<Sheet(EventItem,2001908,0)/>了嗎？"
 56,"TEXT_BANVAN106_02176_MUNAVANU_000_041","看起來、看起來裡面儲藏了很多水嘛！
 有了水量這麼充沛的<Sheet(EventItem,2001908,0)/>，

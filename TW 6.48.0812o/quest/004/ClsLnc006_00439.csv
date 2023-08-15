@@ -68,7 +68,7 @@ int32,str,str
 請、請快點派人去支援……"
 56,"TEXT_CLSLNC006_00439_EDDARD_000_9","唔……"
 57,"TEXT_CLSLNC006_00439_YWAIN_000_10","喂，你振作點！"
-58,"TEXT_CLSLNC006_00439_YWAIN_000_11","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+58,"TEXT_CLSLNC006_00439_YWAIN_000_11","……<Highlight>ObjectParameter(1)</Highlight>。
 我以前對你說過,試煉總會在適宜的時刻降臨。
 ……而現在，這個時刻來臨了。"
 59,"TEXT_CLSLNC006_00439_YWAIN_000_12","前往中央林區。
@@ -120,9 +120,9 @@ int32,str,str
 81,"TEXT_CLSLNC006_00439_FOULQUES_000_1003","別過來！"
 82,"TEXT_CLSLNC006_00439_YWAIN_000_40","看來你已經完成了試煉。
 ……歡迎回來。"
-83,"TEXT_CLSLNC006_00439_YWAIN_000_41"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+83,"TEXT_CLSLNC006_00439_YWAIN_000_41","<Highlight>ObjectParameter(1)</Highlight>。
 你以勇氣打敗了蠻勇的槍術師。
-我已經瞭解你的實力了。"
+我已經了解你的實力了。"
 84,"TEXT_CLSLNC006_00439_YWAIN_000_42","我讚揚你的勇氣，
 以槍術師公會會長伊維因之名，
 傳授你槍術師公會的秘技「猛槍」。"
@@ -150,7 +150,7 @@ int32,str,str
 98,"TEXT_CLSLNC006_00439_THIBAIN_BATTLETALK_01","我在這裡！求你了！快來幫幫我！"
 99,"TEXT_CLSLNC006_00439_THIBAIN_BATTLETALK_02","咳……這樣下去……"
 100,"TEXT_CLSLNC006_00439_THIBAIN_BATTLETALK_03","怎……怎麼能在這種地方……"
-101,"TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_04"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，來做個了結吧！
+101,"TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_04","<Highlight>ObjectParameter(1)</Highlight>，來做個了結吧！
 看看到底誰才擁有真正的勇氣！"
 102,"TEXT_CLSLNC006_00439_FOULQUES_BATTLETALK_05","……膽小鬼！
 吃我一招！"

@@ -25,12 +25,12 @@ int32,str,str
 21,"TEXT_AKTKMB109_04388_SEQ_21",""
 22,"TEXT_AKTKMB109_04388_SEQ_22",""
 23,"TEXT_AKTKMB109_04388_SEQ_23",""
-24,"TEXT_AKTKMB109_04388_TODO_00","與尤盧斯會合並討伐被控制的帝國兵"
+24,"TEXT_AKTKMB109_04388_TODO_00","與尤盧斯匯合併討伐被控制的帝國兵"
 25,"TEXT_AKTKMB109_04388_TODO_01","和尤盧斯對話"
-26,"TEXT_AKTKMB109_04388_TODO_02","與尤盧斯會合並討伐被控制的帝國兵"
+26,"TEXT_AKTKMB109_04388_TODO_02","與尤盧斯匯合併討伐被控制的帝國兵"
 27,"TEXT_AKTKMB109_04388_TODO_03","和尤盧斯對話"
-28,"TEXT_AKTKMB109_04388_TODO_04","和尤盧斯會合"
-29,"TEXT_AKTKMB109_04388_TODO_05","與尤盧斯會合並討伐被控制的帝國兵"
+28,"TEXT_AKTKMB109_04388_TODO_04","和尤盧斯匯合"
+29,"TEXT_AKTKMB109_04388_TODO_05","與尤盧斯匯合併討伐被控制的帝國兵"
 30,"TEXT_AKTKMB109_04388_TODO_06","和尤盧斯對話"
 31,"TEXT_AKTKMB109_04388_TODO_07","再次和尤盧斯對話"
 32,"TEXT_AKTKMB109_04388_TODO_08","繼續和尤盧斯對話"
@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_AKTKMB109_04388_ALPHINAUD_000_000","在這裡看，那座疑似魔導城的建築顯得更大了。
 不知那裡到底是……"
 49,"TEXT_AKTKMB109_04388_ALISAIE_000_005","也不知道尤盧斯他們的據點是怎樣的地方。
-應該是和封賞別墅一樣完好的建築吧。"
+估計是和封賞別墅一樣完好的建築吧。"
 50,"TEXT_AKTKMB109_04388_JULLUS_000_010","好了，我來說明一下路線。
 從這裡出發，沿著鐵道左側向東北方前進。"
 51,"TEXT_AKTKMB109_04388_JULLUS_000_011","我剛剛也提過了，
@@ -63,14 +63,14 @@ int32,str,str
 只有和自己一樣失去自我的「同類」和除此之外的異類。
 一旦被判定為異類，就會無差別地發動攻擊。"
 54,"TEXT_AKTKMB109_04388_JULLUS_000_014","因此，我們這趟路上免不了要跟他們對戰。
-不過即使受到襲擊，也只許 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 迎戰。
+不過即使受到襲擊，也只許<Highlight>ObjectParameter(1)</Highlight>迎戰。
 你們兩個還是不許使用武器。"
 55,"TEXT_AKTKMB109_04388_JULLUS_000_015","如果你們不聽話，就算你們殺了我，
 我也不會給你們帶路的。
 明白的話就走吧。"
 56,"TEXT_AKTKMB109_04388_BALLOON_000_020","為了……帝國……"
 57,"TEXT_AKTKMB109_04388_BALLOON_000_021","排除異類……"
-58,"TEXT_AKTKMB109_04388_ALPHINAUD_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒事吧？！"
+58,"TEXT_AKTKMB109_04388_ALPHINAUD_000_030","<Highlight>ObjectParameter(1)</Highlight>，你沒事吧？！"
 59,"TEXT_AKTKMB109_04388_ALISAIE_000_035","可惡，我們只能在旁邊看著！"
 60,"TEXT_AKTKMB109_04388_JULLUS_000_040","有這樣的身手，難怪他們會選你做代表。
 看來這趟路上應該會很順利。"
@@ -87,7 +87,7 @@ int32,str,str
 你們要是想活著到達交涉地點，就別那麼幼稚。
 ……走吧。"
 66,"TEXT_AKTKMB109_04388_BALLOON_000_050","為了陛下……"
-67,"TEXT_AKTKMB109_04388_ALPHINAUD_000_055","………………。"
+67,"TEXT_AKTKMB109_04388_ALPHINAUD_000_055","……"
 68,"TEXT_AKTKMB109_04388_ALISAIE_000_060","謝謝……
 抱歉，現在只能麻煩你了……"
 69,"TEXT_AKTKMB109_04388_JULLUS_000_070","看來暫時安全了。

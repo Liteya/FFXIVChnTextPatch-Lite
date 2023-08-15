@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_HEAVNA311_01612_SEQ_00","伊塞勒想通了骨頜族為何會召喚蠻神。"
 1,"TEXT_HEAVNA311_01612_SEQ_01","為討伐蠻神，先去收集骨頜族的情報。和龍堡參天高地尾羽集落的馬塞尚對話。"
-2,"TEXT_HEAVNA311_01612_SEQ_02","和馬塞尚進行了交談。為從離群的骨頜族那裡獲得情報，需要先為他們準備禮物。從寬慰河的<Sheet(BNpcName,3570,0)/>身上獲得3份<Sheet(EventItem,2001580,0)/>。"
+2,"TEXT_HEAVNA311_01612_SEQ_02","和馬塞尚進行了交談。為從離群的骨頜族那裡獲得情報，需要先為他們準備禮物。從寬慰河的<Sheet(BNpcName,3570,0)/>身上獲取3份<Sheet(EventItem,2001580,0)/>。"
 3,"TEXT_HEAVNA311_01612_SEQ_03","獲得了<Sheet(EventItem,2001580,0)/>。將<Sheet(EventItem,2001580,0)/>交給龍堡參天高地邪龍雕像北邊的阿爾菲諾。"
 4,"TEXT_HEAVNA311_01612_SEQ_04","將<Sheet(EventItem,2001580,0)/>交給了阿爾菲諾。大家各自出力，將禮物準備完畢。前去和離群的骨頜族交易。"
 5,"TEXT_HEAVNA311_01612_SEQ_05",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNA311_01612_SEQ_21",""
 22,"TEXT_HEAVNA311_01612_SEQ_22",""
 23,"TEXT_HEAVNA311_01612_SEQ_23",""
-24,"TEXT_HEAVNA311_01612_TODO_00","和尾羽集落的馬塞尚對話 "
-25,"TEXT_HEAVNA311_01612_TODO_01","從<Sheet(BNpcName,3570,0)/>身上獲得<Sheet(EventItem,2001580,0)/>"
+24,"TEXT_HEAVNA311_01612_TODO_00","和尾羽集落的馬塞尚對話"
+25,"TEXT_HEAVNA311_01612_TODO_01","從<Sheet(BNpcName,3570,0)/>身上獲取<Sheet(EventItem,2001580,0)/>"
 26,"TEXT_HEAVNA311_01612_TODO_02","將<Sheet(EventItem,2001580,0)/>交給阿爾菲諾"
 27,"TEXT_HEAVNA311_01612_TODO_03",""
 28,"TEXT_HEAVNA311_01612_TODO_04",""
@@ -61,7 +61,7 @@ int32,str,str
 為了完成我們的使命，也必須先討伐掉蠻神。"
 52,"TEXT_HEAVNA311_01612_ALPHINAUD_000_004","但我們掌握的情報太少，無法進行戰鬥。
 要先去看看骨頜族到底召喚了什麼樣的神，
-以及瞭解一下他們的信仰。"
+以及了解一下他們的信仰。"
 53,"TEXT_HEAVNA311_01612_ICEHEART_000_005","……你說得對。
 馬塞尚比較熟悉骨頜族的事，
 我們先回一趟尾羽集落，向他請教一下吧。"
@@ -99,7 +99,7 @@ int32,str,str
 我已經在地圖上給你標好了，你們把禮物放在那裡就成。"
 69,"TEXT_HEAVNA311_01612_ALPHINAUD_100_017","馬塞尚，感謝你為我們提供情報。"
 70,"TEXT_HEAVNA311_01612_ALPHINAUD_100_018","那我們就分頭去收集給骨頜族的禮物吧。
-找到了自己負責的東西之後就來交易地點會合。"
+找到了自己負責的東西之後就來交易地點匯合。"
 71,"TEXT_HEAVNA311_01612_MARCECHAMP_000_018","那你就負責<Sheet(EventItem,2001580,0)/>吧。
 去河邊狩獵<Sheet(BNpcName,3570,0)/>，
 收集3份柔軟的肉。"

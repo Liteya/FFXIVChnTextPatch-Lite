@@ -5,8 +5,8 @@ int32,str,str
 你能來真是幫大忙啦。"
 1,"TEXT_FESXMS2022OMAKE_00800_LAURENSSEN_000_001","我其實就是想拜託帶著閃電四處走走，
 把閃電的幻影帶給城裡的孩子們看看。"
-2,"TEXT_FESXMS2022OMAKE_00800_LAURENSSEN_000_002","現在正在以星芒祭執行委員會的各位為中心，
-召集了眾多志工來給孩子們分發禮物。
+2,"TEXT_FESXMS2022OMAKE_00800_LAURENSSEN_000_002","現在正在以星芒節執行委員會的各位為中心，
+召集了眾多志願者來給孩子們分發禮物。
 我想在這個時候為大家展示幻影，做個餘興節目形式的表演。"
 3,"TEXT_FESXMS2022OMAKE_00800_LAURENSSEN_000_003","不過只有我一個人去的話，根本不知道上哪去能找到孩子。
 所以我有些擔心，想請你陪我一起走一趟。"
@@ -42,7 +42,7 @@ int32,str,str
 22,"TEXT_FESXMS2022OMAKE_00800_CHILDA00800_000_016","原來如此！謝謝聖人的追隨者們！"
 23,"TEXT_FESXMS2022OMAKE_00800_BEATINE_000_017","唔……聽說是木材不開心，聽說是積木就高興了……
 真是不可思議，為師我可真是想不明白呀……嘻嘻嘻。"
-24,"TEXT_FESXMS2022OMAKE_00800_FUFUCHA_000_018","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+24,"TEXT_FESXMS2022OMAKE_00800_FUFUCHA_000_018","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 見到你很高興。"
 25,"TEXT_FESXMS2022OMAKE_00800_FUFUCHA_000_019","哎呀，冒險者。
 你是馴鹿先生的夥伴嗎？"
@@ -71,12 +71,12 @@ int32,str,str
 謝謝！謝謝！"
 36,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_032","哎呀，可真是個可愛的孩子呀。
 你覺得呢？"
-37,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_033"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也來給星芒祭幫忙啦？
+37,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_033","<Highlight>ObjectParameter(1)</Highlight>，你也來給星芒節幫忙啦？
 你這麼忙，還特地抽時間過來。
 辛苦你了。"
-38,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_034","冒險者，你也是來給星芒祭幫忙的？
+38,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_034","冒險者，你也是來給星芒節幫忙的？
 辛苦你啦。"
-39,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_035","我這也是正在給星芒祭執行委員幫忙呢。
+39,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_035","我這也是正在給星芒節執行委員幫忙呢。
 我家的孩子也受了他們不少照顧，
 我這也算是報恩吧。"
 40,"TEXT_FESXMS2022OMAKE_00800_GEVA_000_036","不過話說回來，能看到孩子們的一張張笑臉就是好的，
@@ -96,10 +96,10 @@ int32,str,str
 46,"TEXT_FESXMS2022OMAKE_00800_CHILDC00800_000_041","哇！禮物……是餅乾！
 好棒啊！謝謝聖人的追隨者！
 我這就去那邊嘗嘗！"
-47,"TEXT_FESXMS2022OMAKE_00800_MIOUNNE_000_042","哎呀！這不是 <Highlight>ObjectParameter(1)</Highlight> 嗎。
-你也是來給星芒祭幫忙的嗎？"
+47,"TEXT_FESXMS2022OMAKE_00800_MIOUNNE_000_042","哎呀！這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
+你也是來給星芒節幫忙的嗎？"
 48,"TEXT_FESXMS2022OMAKE_00800_MIOUNNE_000_043","我現在也在當聖人的追隨者呢。
-這次的星芒祭也有和魔女咖啡館合作的環節。"
+這次的星芒節也有和魔女咖啡館合作的環節。"
 49,"TEXT_FESXMS2022OMAKE_00800_MIOUNNE_000_044","當然啦，魔女咖啡館那邊也準備了很多東西呢。
 像是我們剛推出的面向孩子的限定選單之類的。
 機會難得嘛，節日就是越熱鬧越好。"
@@ -115,15 +115,15 @@ int32,str,str
 54,"TEXT_FESXMS2022OMAKE_00800_AYMERIC_000_050","(-？？？？-)在你享受幻影的時候打擾你真是不好意思。
 聖人的追隨者現在來到你的身邊。
 請你收下這份來自北方的禮物吧。"
-55,"TEXT_FESXMS2022OMAKE_00800_CHILDD00800_000_051","哇！禮物是伊修加爾德的外套！
+55,"TEXT_FESXMS2022OMAKE_00800_CHILDD00800_000_051","哇！禮物是伊修加德的外套！
 看起來好暖和呀！
 謝謝你的禮物！"
 56,"TEXT_FESXMS2022OMAKE_00800_AYMERIC_000_052","您好，沒想到能在這裡見到您。
-您也是來為星芒祭提供幫助的吧。"
+您也是來為星芒節提供幫助的吧。"
 57,"TEXT_FESXMS2022OMAKE_00800_AYMERIC_000_053","其實我也是抱著同樣的目的而來的。
-我作為出生在星芒祭發祥地伊修加爾德的人，
+我作為出生在星芒節發祥地伊修加德的人，
 想著也應該給鄰國的孩子們贈送一些禮物。"
-58,"TEXT_FESXMS2022OMAKE_00800_AYMERIC_000_054","當然，我其實是為了和嘉恩．艾閣下商討公務才來此地的。
+58,"TEXT_FESXMS2022OMAKE_00800_AYMERIC_000_054","當然，我其實是為了和嘉恩·艾閣下商討公務才來此地的。
 但能在這個過程中見到孩子們的笑臉總是讓人開心的。"
 59,"TEXT_FESXMS2022OMAKE_00800_AYMERIC_000_055","不過……我平日裡總是套著一身的藍衣服，
 穿著這麼一件紅色的外套總覺得有什麼不對……"
@@ -144,7 +144,7 @@ int32,str,str
 快來領取你的禮物吧！"
 66,"TEXT_FESXMS2022OMAKE_00800_CHILDE00800_000_061","哇……好漂亮的人偶……
 謝謝你的禮物。"
-67,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_062","(-？？？？-)哈？比起呆子貴族的禮物
+67,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_062","(-？？？？-)哈？比起傻帽貴族的禮物
 還是我的禮物比較好吧喂！"
 68,"TEXT_FESXMS2022OMAKE_00800_EMMANELLAIN_000_063","海、海盜！是你！"
 69,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_064","過來，小鬼！
@@ -160,12 +160,12 @@ int32,str,str
 73,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_070","想打架？討打啊？"
 74,"TEXT_FESXMS2022OMAKE_00800_EMMANELLAIN_000_071","我打不過你我才不打嘞！"
 75,"TEXT_FESXMS2022OMAKE_00800_CHILDE00800_000_072","人偶和平底鍋放在一起，
-就可以玩很有趣的家家酒啦……
+就可以玩很有趣的扮家家酒啦……
 嘻嘻……我要回家去玩啦！謝謝你們！"
-76,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_073","……………………。"
-77,"TEXT_FESXMS2022OMAKE_00800_EMMANELLAIN_000_074","……………………。"
+76,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_073","……"
+77,"TEXT_FESXMS2022OMAKE_00800_EMMANELLAIN_000_074","……"
 78,"TEXT_FESXMS2022OMAKE_00800_SICARD_000_075","……嘖，算你那禮物湊合吧。"
-79,"TEXT_FESXMS2022OMAKE_00800_EMMANELLAIN_000_076","……彼此彼此，你的禮物也還可以。"
+79,"TEXT_FESXMS2022OMAKE_00800_EMMANELLAIN_000_076","……彼此彼此，你的禮物也還行。"
 80,"TEXT_FESXMS2022OMAKE_00800_LAURENSSEN_000_080","辛苦啦！
 和聖人的追隨者們配合著贈送禮物的行動十分成功。
 閃電看起來也很滿意的樣子。"

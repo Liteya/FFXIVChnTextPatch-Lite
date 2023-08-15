@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_CLSACN100_00456_SEQ_00","秘術師公會的圖比爾蓋姆，希望冒險者展示鍛鍊的成果。"
 1,"TEXT_CLSACN100_00456_SEQ_01","秘術師公會代理會長圖比爾蓋姆要求冒險者展示鍛鍊的成果。前往西拉諾西亞，使用秘術討伐妖紅花和黑豺各3隻。"
 2,"TEXT_CLSACN100_00456_SEQ_02","討伐了指定的魔物。向秘術師公會的圖比爾蓋姆報告。"
-3,"TEXT_CLSACN100_00456_SEQ_03","圖比爾蓋姆認可了冒險者的鍛鍊成果。聽從其指示，接下來去協助克．莉霞審查貨物。前往秘術師公會的訓練場，向克．莉霞詢問詳細情況。"
-4,"TEXT_CLSACN100_00456_SEQ_04","克．莉霞告訴冒險者，如果遭受調查對象——哥布林商隊的博伊爾斯托克斯家族襲擊時，就立刻執行集中火力戰術。前往中拉諾西亞的岩鍋附近，和正在與商隊進行接觸的克．莉霞對話。"
-5,"TEXT_CLSACN100_00456_SEQ_05","成功逮捕了哥布林商隊的博伊爾斯托克斯家族。和中拉諾西亞岩鍋附近的克．莉霞對話，聽取下一個指示。"
-6,"TEXT_CLSACN100_00456_SEQ_06","克．莉霞告訴冒險者，認清自己對制定戰術有著重要的意義。將成功完成審查任務一事，向秘術師公會的圖比爾蓋姆報告。"
+3,"TEXT_CLSACN100_00456_SEQ_03","圖比爾蓋姆認可了冒險者的鍛鍊成果。聽從其指示，接下來去協助克·莉霞審查貨物。前往秘術師公會的訓練場，向克·莉霞詢問詳細情況。"
+4,"TEXT_CLSACN100_00456_SEQ_04","克·莉霞告訴冒險者，如果遭受調查對象——哥布林商隊的博伊爾斯托克斯家族襲擊時，就立刻執行集中火力戰術。前往中拉諾西亞的岩鍋附近，和正在與商隊進行接觸的克·莉霞對話。"
+5,"TEXT_CLSACN100_00456_SEQ_05","成功逮捕了哥布林商隊的博伊爾斯托克斯家族。和中拉諾西亞岩鍋附近的克·莉霞對話，聽取下一個指示。"
+6,"TEXT_CLSACN100_00456_SEQ_06","克·莉霞告訴冒險者，認清自己對制定戰術有著重要的意義。將成功完成審查任務一事，向秘術師公會的圖比爾蓋姆報告。"
 7,"TEXT_CLSACN100_00456_SEQ_07","向秘術師公會的圖比爾蓋姆報告後，她告訴冒險者下一次要協助參與大任務。為了能成功完成任務，繼續努力鍛鍊。
 
 ※秘術師的等級達到15級以上時，可以從圖比爾蓋姆那裡領取下一個秘術師任務。"
@@ -30,9 +30,9 @@ int32,str,str
 24,"TEXT_CLSACN100_00456_TODO_00","使用秘術討伐妖紅花"
 25,"TEXT_CLSACN100_00456_TODO_01","使用秘術討伐黑豺"
 26,"TEXT_CLSACN100_00456_TODO_02","向秘術師公會的圖比爾蓋姆報告"
-27,"TEXT_CLSACN100_00456_TODO_03","和秘術師公會的克．莉霞對話"
-28,"TEXT_CLSACN100_00456_TODO_04","和中拉諾西亞的克．莉霞對話"
-29,"TEXT_CLSACN100_00456_TODO_05","和克．莉霞對話"
+27,"TEXT_CLSACN100_00456_TODO_03","和秘術師公會的克·莉霞對話"
+28,"TEXT_CLSACN100_00456_TODO_04","和中拉諾西亞的克·莉霞對話"
+29,"TEXT_CLSACN100_00456_TODO_05","和克·莉霞對話"
 30,"TEXT_CLSACN100_00456_TODO_06","向秘術師公會的圖比爾蓋姆報告"
 31,"TEXT_CLSACN100_00456_TODO_07",""
 32,"TEXT_CLSACN100_00456_TODO_08",""
@@ -51,24 +51,24 @@ int32,str,str
 45,"TEXT_CLSACN100_00456_TODO_21",""
 46,"TEXT_CLSACN100_00456_TODO_22",""
 47,"TEXT_CLSACN100_00456_TODO_23",""
-48,"TEXT_CLSACN100_00456_THUBYRGEIM_000_000","你來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_CLSACN100_00456_THUBYRGEIM_000_000","你來啦，<Highlight>ObjectParameter(1)</Highlight>。
 你的身體狀況還好吧？
 擁有健康的身體，才能支撐起健全的思想哦。"
-49,"TEXT_CLSACN100_00456_THUBYRGEIM_000_001","你有遵循克．莉霞的指導，好好鍛鍊嗎？
+49,"TEXT_CLSACN100_00456_THUBYRGEIM_000_001","你有遵循克·莉霞的指導，好好鍛鍊嗎？
 請你展示下鍛鍊成果吧。"
 50,"TEXT_CLSACN100_00456_THUBYRGEIM_000_002","前往西拉諾西亞，討伐妖紅花和黑豺各3隻。
 不過，不要貿然胡亂進攻，那是不對的。"
-51,"TEXT_CLSACN100_00456_THUBYRGEIM_000_003","透過採取適當的戰術，
+51,"TEXT_CLSACN100_00456_THUBYRGEIM_000_003","通過採取適當的戰術，
 你也會更容易找到勝利的答案。
 要學會如何有效地在實戰中制定戰術。"
-52,"TEXT_CLSACN100_00456_THUBYRGEIM_000_010","你回來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+52,"TEXT_CLSACN100_00456_THUBYRGEIM_000_010","你回來啦，<Highlight>ObjectParameter(1)</Highlight>。
 戰勝強敵後的心情如何？
 呵呵，看你這股勁頭，迫切地想要完成更有難度的試煉吧？"
 53,"TEXT_CLSACN100_00456_THUBYRGEIM_000_012","那接下來，就請你完成一個更加接近實戰的試煉吧。
-去找梅爾凡海關的審查主任克．莉霞，
+去找梅爾凡海關的審查主任克·莉霞，
 協助她審查貨物。"
 54,"TEXT_CLSACN100_00456_THUBYRGEIM_000_013","向她學習如何在審查貨物時使用秘術。
-詳細情況就去問問樓下的克．莉霞吧。"
+詳細情況就去問問樓下的克·莉霞吧。"
 55,"TEXT_CLSACN100_00456_KLYHIA_000_020","恭候多時。
 我先跟你說明下這件事的詳細情況吧。
 這次需要調查哥布林商隊的「博伊爾斯托克斯家族」。"
@@ -93,7 +93,7 @@ int32,str,str
 63,"TEXT_CLSACN100_00456_GOBURIN_000_031","我們 最討厭 審查了。
 討厭的東西 統統 消滅掉！"
 64,"TEXT_CLSACN100_00456_KLYHIA_000_032","和預想的一樣，要開始戰鬥了。
-來！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+來！<Highlight>ObjectParameter(1)</Highlight>！
 請迅速執行集中火力戰術！"
 65,"TEXT_CLSACN100_00456_KLYHIA_000_040","幹得漂亮。
 看到你靈活運用自身特點的戰術，
@@ -121,8 +121,8 @@ int32,str,str
 順便制定些戰術。"
 76,"TEXT_CLSACN100_00456_KLYHIA_000_050","遇到「狀況甲」時，代入「戰術乙」……
 但如果碰到「前提條件丙」的話……"
-77,"TEXT_CLSACN100_00456_THUBYRGEIM_000_060","辛苦了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
-克．莉霞已經向我報告了審查的結果。"
+77,"TEXT_CLSACN100_00456_THUBYRGEIM_000_060","辛苦了，<Highlight>ObjectParameter(1)</Highlight>。
+克·莉霞已經向我報告了審查的結果。"
 78,"TEXT_CLSACN100_00456_THUBYRGEIM_000_061","那個女孩告訴你要「認清自己」麼？
 嗯，對秘術師而言，確實是很中肯的建議。"
 79,"TEXT_CLSACN100_00456_THUBYRGEIM_000_062","你可能需要積累一定的實戰經驗後，
@@ -139,20 +139,20 @@ int32,str,str
 83,"TEXT_CLSACN100_00456_SYSTEM_000_70","開放了「職業轉換系統」。
 前往其他職業的公會，與接待員對話後，
 可以領取新職業的任務。"
-84,"TEXT_CLSACN100_00456_SYSTEM_000_71","艾奧傑亞有各式各樣的職業供你選擇。
+84,"TEXT_CLSACN100_00456_SYSTEM_000_71","艾歐澤亞有各式各樣的職業供你選擇。
 熟練掌握目前所學的「秘術」之後，
 再學習其他職業的本領，這樣更能加深對職業的理解。"
 85,"TEXT_CLSACN100_00456_QIB_002_TODO_1","打倒哥布林商隊的博伊爾斯托克斯家族！"
-86,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_01"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請迅速執行集中火力戰術！"
+86,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_01","<Highlight>ObjectParameter(1)</Highlight>，請迅速執行集中火力戰術！"
 87,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_02","使用最強火力進攻！"
 88,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_03","決定使用哪種戰術時，
 記得把我說的前提條件也考慮在內。"
-89,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_04"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請求增援！
+89,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_04","<Highlight>ObjectParameter(1)</Highlight>，請求增援！
 改變戰術，立刻執行戰術2538——機動戰術！"
 90,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_06","優先考慮如何迴避敵方投擲的炸彈！"
 91,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_07","成功避開炸彈的話，
 維持優勢的機率會是90%！"
-92,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_08"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+92,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_08","<Highlight>ObjectParameter(1)</Highlight>，
 正確的判斷！"
 93,"TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_09","從你採用的戰術中，
 我又獲得了新的戰術靈感！"

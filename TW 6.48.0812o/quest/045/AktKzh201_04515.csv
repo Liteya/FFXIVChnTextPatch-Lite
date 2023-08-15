@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_AKTKZH201_04515_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
 麥拉的哥哥阿爾卡埃烏斯收到了來自醒悟天測園的救援請求。由於冒險者與園長等人相識，兩兄妹決定和冒險者一起前往醒悟天測園，和索克勒斯園長談談。"
-2,"TEXT_AKTKZH201_04515_SEQ_02","和索克勒斯園長進行了交談，瞭解到他希望阿爾卡埃烏斯用時魔法來為被呂卡翁殺死的急速妖鳥們送葬。前往安置亡骸的南風諾托斯的感嘆西南方和索克勒斯談談。"
+2,"TEXT_AKTKZH201_04515_SEQ_02","和索克勒斯園長進行了交談，了解到他希望阿爾卡埃烏斯用時魔法來為被呂卡翁殺死的急速妖鳥們送葬。前往安置亡骸的南風諾托斯的感嘆西南方和索克勒斯談談。"
 3,"TEXT_AKTKZH201_04515_SEQ_03","在安置亡骸的地方，冒險者接觸到了觀察者們關於送葬的思想。當聊起獻花的文化時，觀察者們表現出了興趣，決定要創造花朵進行獻花。前往南風諾托斯的感嘆和創造花朵的麥拉談談。"
 4,"TEXT_AKTKZH201_04515_SEQ_04","麥拉在泥土中創造出了用於祭奠的花。前往南風諾托斯的感嘆和麥拉一起收集<Sheet(EventItem,2003308,0)/>。"
 5,"TEXT_AKTKZH201_04515_SEQ_05","集齊了<Sheet(EventItem,2003308,0)/>。將<Sheet(EventItem,2003308,0)/>交給正在南風諾托斯的感嘆西南方等待的索克勒斯。"
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_AKTKZH201_04515_TODO_21",""
 46,"TEXT_AKTKZH201_04515_TODO_22",""
 47,"TEXT_AKTKZH201_04515_TODO_23",""
-48,"TEXT_AKTKZH201_04515_MAIRA_000_000","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_AKTKZH201_04515_MAIRA_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>。
 你去過醒悟天測園嗎？"
 49,"TEXT_AKTKZH201_04515_MAIRA_000_001","哦，你見過索克勒斯園長啊！
 其實是園長剛剛向哥哥尋求了幫助，
@@ -65,10 +65,10 @@ int32,str,str
 52,"TEXT_AKTKZH201_04515_ALKAIOS_000_005","你還有時間嗎？"
 53,"TEXT_AKTKZH201_04515_MAIRA_000_010","好久沒來到這座島了。"
 54,"TEXT_AKTKZH201_04515_ALKAIOS_000_015","會請我過來幫忙就意味著……"
-55,"TEXT_AKTKZH201_04515_CHARMION_000_020","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+55,"TEXT_AKTKZH201_04515_CHARMION_000_020","哎呀，<Highlight>ObjectParameter(1)</Highlight>？！
 真沒想到你居然會跟阿爾卡埃烏斯他們一起出現！"
 56,"TEXT_AKTKZH201_04515_SOKLES_000_030","阿爾卡埃烏斯，麥拉，
-還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+還有<Highlight>ObjectParameter(1)</Highlight>。
 長途跋涉真是辛苦了。"
 57,"TEXT_AKTKZH201_04515_ALKAIOS_000_031","你居然會親自尋求幫助……
 是發生了什麼事故嗎？"
@@ -77,10 +77,10 @@ int32,str,str
 但受其失控影響，急速妖鳥出現了意料之外的死亡。"
 59,"TEXT_AKTKZH201_04515_SOKLES_000_033","我也想讓它們逐一回歸大地，可惜人手不足。
 所以才想找阿爾卡埃烏斯幫忙。"
-60,"TEXT_AKTKZH201_04515_CHARMION_000_034"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你應該不知道吧？
+60,"TEXT_AKTKZH201_04515_CHARMION_000_034","<Highlight>ObjectParameter(1)</Highlight>你應該不知道吧？
 在厄爾庇斯，為了讓失去靈魂的亡骸加速循環，
 會施加時魔法。"
-61,"TEXT_AKTKZH201_04515_CHARMION_000_035","透過魔法來推進亡骸的時間……
+61,"TEXT_AKTKZH201_04515_CHARMION_000_035","通過魔法來推進亡骸的時間……
 從而讓它們成為厄爾庇斯大地的一部分。"
 62,"TEXT_AKTKZH201_04515_MAIRA_000_036","哥哥很擅長使用時魔法。
 很多創造生物因為意外事故死亡時，
@@ -100,7 +100,7 @@ int32,str,str
 只要有我們在，
 就不能讓它們的生命白費。"
 70,"TEXT_AKTKZH201_04515_CHARMION_000_063","尚未完成使命就倒下的生命實在讓人痛心。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你迄今為止
+<Highlight>ObjectParameter(1)</Highlight>，你迄今為止
 應該也見證過不少這樣的場面吧。"
 71,"TEXT_AKTKZH201_04515_CHARMION_000_064","每當這個時候……
 你都會想什麼，做什麼呢？"
@@ -117,10 +117,10 @@ int32,str,str
 如果是這種形式的話的確可以一直保存下去，
 但原本就空間有限的厄爾庇斯只會變得越來越擁擠……"
 78,"TEXT_AKTKZH201_04515_MAIRA_000_068","不過就像對活人送東西表達心意一樣……
-供奉一些東西應該也蠻好的。
+供奉一些東西應該也挺好的。
 獻花怎麼樣？"
 79,"TEXT_AKTKZH201_04515_MAIRA_000_069","機會難得，就試一下吧。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也一起來吧。"
+<Highlight>ObjectParameter(1)</Highlight>也一起來吧。"
 80,"TEXT_AKTKZH201_04515_ALKAIOS_000_080","麥拉那邊忙完了？
 在這裡一個人走散了會很危險的。"
 81,"TEXT_AKTKZH201_04515_CHARMION_000_085","你可真是個有趣的使魔！
@@ -152,21 +152,21 @@ int32,str,str
 這絕對會成為醒悟天測園歷史性的記錄。"
 95,"TEXT_AKTKZH201_04515_SOKLES_000_128","阿爾卡埃烏斯，這次也有勞你了。
 非常感謝你的幫助。"
-96,"TEXT_AKTKZH201_04515_SOKLES_000_129","麥拉， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+96,"TEXT_AKTKZH201_04515_SOKLES_000_129","麥拉，<Highlight>ObjectParameter(1)</Highlight>。
 多虧了你們，這次弔唁儀式真的很成功。"
 97,"TEXT_AKTKZH201_04515_CHARMION_000_130","後面的手續就交給我們吧！
 非常感謝你們從創作者之家
 舟車勞頓來到這裡幫助我們！"
-98,"TEXT_AKTKZH201_04515_CHARMION_000_131"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，再見啦！"
+98,"TEXT_AKTKZH201_04515_CHARMION_000_131","<Highlight>ObjectParameter(1)</Highlight>，再見啦！"
 99,"TEXT_AKTKZH201_04515_ALKAIOS_000_132","我們也回創作者之家吧。"
 100,"TEXT_AKTKZH201_04515_MAIRA_000_133","好的，哥哥。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們還想向你表示一下謝意，
+<Highlight>ObjectParameter(1)</Highlight>，我們還想向你表示一下謝意，
 可以請你一起過來嗎？"
 101,"TEXT_AKTKZH201_04515_ALKAIOS_000_140","雖然是第一次經歷那樣的弔唁，
 感覺……嗯，還不錯。"
 102,"TEXT_AKTKZH201_04515_MAIRA_000_150","你這次能來幫忙真的是太好了。
 正當我們接到委託之際你恰巧到來，
-也一定要感謝這份偶然才行。"
+也必須要感謝這份偶然才行。"
 103,"TEXT_AKTKZH201_04515_MAIRA_000_151","我們活的時間比較長，
 自以為未知的經驗會越來越少……"
 104,"TEXT_AKTKZH201_04515_MAIRA_000_152","可自從遇到你之後，
@@ -176,6 +176,6 @@ int32,str,str
 都靈活運用到今後的工作當中。"
 106,"TEXT_AKTKZH201_04515_ALKAIOS_000_154","我們也該回去工作了。
 先失陪了。"
-107,"TEXT_AKTKZH201_04515_MAIRA_000_155"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+107,"TEXT_AKTKZH201_04515_MAIRA_000_155","<Highlight>ObjectParameter(1)</Highlight>，
 希望今後有機會還能相見。
 再見了，我們可愛的朋友。"

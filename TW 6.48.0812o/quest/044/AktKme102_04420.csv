@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_AKTKME102_04420_TODO_21",""
 46,"TEXT_AKTKME102_04420_TODO_22",""
 47,"TEXT_AKTKME102_04420_TODO_23",""
-48,"TEXT_AKTKME102_04420_RYNE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，接下來你該去深慮室
+48,"TEXT_AKTKME102_04420_RYNE_000_000","<Highlight>ObjectParameter(1)</Highlight>，接下來你該去深慮室
 找艾里迪布斯問一些事了吧。"
 49,"TEXT_AKTKME102_04420_RYNE_000_001","我準備去和萊楠商量一下應對末日的辦法。"
 50,"TEXT_AKTKME102_04420_RYNE_000_002","所以我們就在此別過吧……
@@ -57,7 +57,7 @@ int32,str,str
 51,"TEXT_AKTKME102_04420_RYNE_000_010","我們不會輕易敗給末日的。
 因為這個世界雖然多次經歷滅頂之災，
 卻繼承了英雄們的意志，一路走到了今天！"
-52,"TEXT_AKTKME102_04420_CRYSTALGATEKEEPER_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，歡迎回來！"
+52,"TEXT_AKTKME102_04420_CRYSTALGATEKEEPER_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下，歡迎回來！"
 53,"TEXT_AKTKME102_04420_CRYSTALGATEKEEPER_000_021","萊楠團長已經跟我打好招呼了。
 需要我帶你到通往深慮室的觀星室嗎？"
 54,"TEXT_AKTKME102_04420_Q1_000_022","要前往觀星室嗎？"
@@ -70,14 +70,14 @@ int32,str,str
 也聽不到你的聲音。"
 59,"TEXT_AKTKME102_04420_SYSTEM_000_042","正如艾里迪布斯所說，
 你的存在感太薄弱了……"
-60,"TEXT_AKTKME102_04420_PROPYLAIONSTAFF_000_043","…………。"
+60,"TEXT_AKTKME102_04420_PROPYLAIONSTAFF_000_043","……"
 61,"TEXT_AKTKME102_04420_SYSTEM_000_050","一位穿著厚重的黑色長袍的男人。
 他的身高和在亞馬烏羅提還有嘆息海遇到的古代人幻影差不多。"
 62,"TEXT_AKTKME102_04420_SYSTEM_000_051","他戴著的遮住半張臉的白色面具，
 也和那些古代人幻影的面具非常相似。
 難道……你真的來到了過去的世界？"
 63,"TEXT_AKTKME102_04420_SYSTEM_000_052","你試著提高音量，但他連看都不看你一眼……"
-64,"TEXT_AKTKME102_04420_SOLON_000_053","…………。"
+64,"TEXT_AKTKME102_04420_SOLON_000_053","……"
 65,"TEXT_AKTKME102_04420_PROPYLAIONUSER04420_000_060","約好的地點應該就是這裡——前關門，沒錯吧？"
 66,"TEXT_AKTKME102_04420_SYSTEM_000_061","這個設施好像叫做「前關門」。
 名字有些奇怪……"
@@ -94,7 +94,7 @@ int32,str,str
 73,"TEXT_AKTKME102_04420_Q3_000_095","要繼續進行主線劇情嗎？"
 74,"TEXT_AKTKME102_04420_HYTHLODAEUS_000_100","這裡的環境真是讓人心曠神怡啊。
 天空近得彷彿一伸手就能夠到一樣！"
-75,"TEXT_AKTKME102_04420_HYTHLODAEUS_000_101","雖然不知道你對這裡有多少瞭解，
+75,"TEXT_AKTKME102_04420_HYTHLODAEUS_000_101","雖然不知道你對這裡有多少了解，
 不過作為嚮導，我還是給你稍微講講吧。"
 76,"TEXT_AKTKME102_04420_HYTHLODAEUS_000_102","我們所使用的創造魔法，
 是以理念為設計圖，用乙太來賦予實體的，

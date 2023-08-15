@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_STMBDZ411_02734_SEQ_21",""
 22,"TEXT_STMBDZ411_02734_SEQ_22",""
 23,"TEXT_STMBDZ411_02734_SEQ_23",""
-24,"TEXT_STMBDZ411_02734_TODO_00","從<Sheet(EObj,2008520,0)/>上獲得<Sheet(EventItem,2002250,0)/>"
-25,"TEXT_STMBDZ411_02734_TODO_01","獲得<Sheet(EventItem,2002251,0)/>"
+24,"TEXT_STMBDZ411_02734_TODO_00","從<Sheet(EObj,2008520,0)/>上獲取<Sheet(EventItem,2002250,0)/>"
+25,"TEXT_STMBDZ411_02734_TODO_01","獲取<Sheet(EventItem,2002251,0)/>"
 26,"TEXT_STMBDZ411_02734_TODO_02","將<Sheet(EventItem,2002250,0)/>和<Sheet(EventItem,2002251,0)/>交給魚袋"
 27,"TEXT_STMBDZ411_02734_TODO_03",""
 28,"TEXT_STMBDZ411_02734_TODO_04",""
@@ -74,7 +74,7 @@ int32,str,str
 唔噗噗噗噗噗，謝謝噗！"
 57,"TEXT_STMBDZ411_02734_GYOTAI_000_022","開始在這裡居住之後，
 我拚命地學習語言文字，來閱讀這座府邸裡的書噗。
-結果對在書上看到的賞花這件事變得十分痴迷噗！"
+結果對在書上看到的賞花這件事變得十分癡迷噗！"
 58,"TEXT_STMBDZ411_02734_GYOTAI_000_023","什麼花更好看之類的問題對我來說太難了搞不明白噗。
 但是但是，還是想要賞一次花看看噗，
 我這麼跟茨菰村的人說過噗。"

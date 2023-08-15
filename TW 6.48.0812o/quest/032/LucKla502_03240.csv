@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_LUCKLA502_03240_SEQ_00","中庸工藝館的弗里斯利克有話想要對冒險者說。"
-1,"TEXT_LUCKLA502_03240_SEQ_01","從弗里斯利克那裡瞭解了關於患有奇怪疾病的女性的事。為了調查這種病的具體情況，和博物陳列館的弗里斯利克談談。"
+1,"TEXT_LUCKLA502_03240_SEQ_01","從弗里斯利克那裡了解了關於患有奇怪疾病的女性的事。為了調查這種病的具體情況，和博物陳列館的弗里斯利克談談。"
 2,"TEXT_LUCKLA502_03240_SEQ_02","為了向其他捕魚人尋求幫助，決定要釣夢幻之魚。前往伊爾美格的沉沒教會和弗里斯利克談談。"
 3,"TEXT_LUCKLA502_03240_SEQ_03","伊爾美格的弗里斯利克對於要和冒險者一起釣魚一事感到很興奮。將<Sheet(Item,26750,0)/>交給水晶都中庸工藝館的羅布。<Sheet(Item,26750,0)/>可以在伊爾美格的身鏡湖使用水果蠕蟲等作為釣餌釣到。"
-4,"TEXT_LUCKLA502_03240_SEQ_04","將<Sheet(Item,26750,0)/>交給了羅布。繼續繳納用於食療的委託品，為改善水晶都的營養失調現狀做貢獻。"
+4,"TEXT_LUCKLA502_03240_SEQ_04","將<Sheet(Item,26750,0)/>交給了羅布。繼續交納用於食療的委託品，為改善水晶都的營養失調現狀做貢獻。"
 5,"TEXT_LUCKLA502_03240_SEQ_05",""
 6,"TEXT_LUCKLA502_03240_SEQ_06",""
 7,"TEXT_LUCKLA502_03240_SEQ_07",""
@@ -50,8 +50,8 @@ int32,str,str
 46,"TEXT_LUCKLA502_03240_TODO_22",""
 47,"TEXT_LUCKLA502_03240_TODO_23",""
 48,"TEXT_LUCKLA502_03240_SYSTEM_000_900","若要領取或繼續推進本任務，
-需完成「漆黑的反叛者主線任務」中的「美餐一頓」。"
-49,"TEXT_LUCKLA502_03240_FRITHRIK_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ,
+需完成「暗影之逆焰主線任務」中的「美餐一頓」。"
+49,"TEXT_LUCKLA502_03240_FRITHRIK_000_000","<Highlight>ObjectParameter(1)</Highlight>,
 能聽我說說嗎？"
 50,"TEXT_LUCKLA502_03240_FRITHRIK_000_001","羅布有個熟人患了令人擔心的疾病，
 他正準備跟我細說呢。"
@@ -65,14 +65,14 @@ int32,str,str
 能幫我查查看有沒有治癒的方法嗎？"
 54,"TEXT_LUCKLA502_03240_FRITHRIK_000_005","當然可以！
 那我們趕快出發，去博物陳列館找一找有關情報吧！"
-55,"TEXT_LUCKLA502_03240_FRITHRIK_000_006"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+55,"TEXT_LUCKLA502_03240_FRITHRIK_000_006","<Highlight>ObjectParameter(1)</Highlight>，
 你要是能一起來的話就幫大忙了！"
 56,"TEXT_LUCKLA502_03240_LOBB_000_009","我的病能好起來，
 真是多虧有你們啊……"
 57,"TEXT_LUCKLA502_03240_LOBB_000_010","弗里斯利克……
 總是在讀這麼難懂的書嗎……"
 58,"TEXT_LUCKLA502_03240_FRITHRIK_000_015","這附近的書應該能查到相關的情報……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+<Highlight>ObjectParameter(1)</Highlight>，
 你能幫我找一下嗎？"
 59,"TEXT_LUCKLA502_03240_MERVYL_000_016","啊！
 你們幾個，為什麼會在這裡？！"
@@ -121,7 +121,7 @@ int32,str,str
 知識和能力。"
 76,"TEXT_LUCKLA502_03240_FRITHRIK_000_033","<Sheet(Item,26750,0)/>啊……
 好，釣就釣！"
-77,"TEXT_LUCKLA502_03240_FRITHRIK_000_034"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能一起來嗎？"
+77,"TEXT_LUCKLA502_03240_FRITHRIK_000_034","<Highlight>ObjectParameter(1)</Highlight>，你能一起來嗎？"
 78,"TEXT_LUCKLA502_03240_FRITHRIK_100_034","根據水生資源部管理的垂釣記錄，
 這種魚之前好像在伊爾美格的沉沒教會附近釣到過，
 當時使用的魚餌是水果蠕蟲。"
@@ -132,7 +132,7 @@ int32,str,str
 沒有人做接待工作可就不好了。"
 81,"TEXT_LUCKLA502_03240_LOBB_000_037","弗里斯利克說要去的好像是……
 伊爾美格的沉沒教會吧？
-去那邊和他會合吧。"
+去那邊和他匯合吧。"
 82,"TEXT_LUCKLA502_03240_FRITHRIK_000_040","感謝你能來！
 你來之前我還一直擔心
 會被妖靈們襲擊呢。"
@@ -156,7 +156,7 @@ int32,str,str
 89,"TEXT_LUCKLA502_03240_LOBB_000_055","怎麼樣，釣到<Sheet(Item,26750,0)/>了嗎？"
 90,"TEXT_LUCKLA502_03240_LOBB_000_056","嗯，看這顏色和外觀……
 錯不了，這就是<Sheet(Item,26750,0)/>。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你可真厲害。"
+<Highlight>ObjectParameter(1)</Highlight>，你可真厲害。"
 91,"TEXT_LUCKLA502_03240_FRITHRIK_000_057","羅布，我也釣上來了！"
 92,"TEXT_LUCKLA502_03240_LOBB_000_058","這樣啊……
 你們兩個都做到了……
@@ -176,8 +176,8 @@ int32,str,str
 司書們的調查也差不多該有個結果了。"
 98,"TEXT_LUCKLA502_03240_FRITHRIK_000_065","好，那就趕快去調查一下……
 看看有沒有能治療羅布熟人的水產吧！"
-99,"TEXT_LUCKLA502_03240_FRITHRIK_000_066"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+99,"TEXT_LUCKLA502_03240_FRITHRIK_000_066","<Highlight>ObjectParameter(1)</Highlight>，
 如果有什麼發現我會告訴你的，
 到時候你還能來幫忙的話我會很開心……"
 100,"TEXT_LUCKLA502_03240_SYSTEM_000_067","捕魚人的等級達到78級以上時，
-可以從中庸工藝館的弗里斯利克那裡領取下一個繳納委託品的任務。"
+可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。"

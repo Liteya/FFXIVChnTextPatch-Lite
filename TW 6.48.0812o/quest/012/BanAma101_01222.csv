@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA101_01222_SEQ_00","灰陣營的菲布布．夏有事想要拜託冒險者。"
-1,"TEXT_BANAMA101_01222_SEQ_01","接受了菲布布．夏的委託。討伐贊拉克的<Sheet(BNpcName,243,0)/>，獲得1個<Sheet(EventItem,2001114,0)/>，並討伐<Sheet(BNpcName,912,0)/>，獲得2個<Sheet(EventItem,2001113,0)/>。"
-2,"TEXT_BANAMA101_01222_SEQ_02","討伐了魔物，獲得了<Sheet(EventItem,2001114,0)/>和<Sheet(EventItem,2001113,0)/>。將<Sheet(EventItem,2001114,0)/>和<Sheet(EventItem,2001113,0)/>交給灰陣營的菲布布．夏。"
-3,"TEXT_BANAMA101_01222_SEQ_03","將<Sheet(EventItem,2001114,0)/>和<Sheet(EventItem,2001113,0)/>交給了菲布布．夏。菲布布．夏對冒險者的表現感到很滿意。他說臨戰之際占卜凶吉是蜥蜴人族的傳統。下次決定戰策時再協助他。"
+0,"TEXT_BANAMA101_01222_SEQ_00","灰陣營的菲布布·夏有事想要拜託冒險者。"
+1,"TEXT_BANAMA101_01222_SEQ_01","接受了菲布布·夏的委託。討伐贊拉克的<Sheet(BNpcName,243,0)/>，獲取1個<Sheet(EventItem,2001114,0)/>，並討伐<Sheet(BNpcName,912,0)/>，獲取2個<Sheet(EventItem,2001113,0)/>。"
+2,"TEXT_BANAMA101_01222_SEQ_02","討伐了魔物，獲得了<Sheet(EventItem,2001114,0)/>和<Sheet(EventItem,2001113,0)/>。將<Sheet(EventItem,2001114,0)/>和<Sheet(EventItem,2001113,0)/>交給灰陣營的菲布布·夏。"
+3,"TEXT_BANAMA101_01222_SEQ_03","將<Sheet(EventItem,2001114,0)/>和<Sheet(EventItem,2001113,0)/>交給了菲布布·夏。菲布布·夏對冒險者的表現感到很滿意。他說臨戰之際占卜凶吉是蜥蜴人族的傳統。下次決定戰策時再協助他。"
 4,"TEXT_BANAMA101_01222_SEQ_04",""
 5,"TEXT_BANAMA101_01222_SEQ_05",""
 6,"TEXT_BANAMA101_01222_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_BANAMA101_01222_SEQ_23",""
 24,"TEXT_BANAMA101_01222_TODO_00","從<Sheet(BNpcName,243,0)/>身上得到<Sheet(EventItem,2001114,0)/>"
 25,"TEXT_BANAMA101_01222_TODO_01","從<Sheet(BNpcName,912,0)/>身上得到<Sheet(EventItem,2001113,0)/>"
-26,"TEXT_BANAMA101_01222_TODO_02","將占卜所需的物品交給菲布布．夏"
+26,"TEXT_BANAMA101_01222_TODO_02","將占卜所需的物品交給菲布布·夏"
 27,"TEXT_BANAMA101_01222_TODO_03",""
 28,"TEXT_BANAMA101_01222_TODO_04",""
 29,"TEXT_BANAMA101_01222_TODO_05",""

@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_LUCKZG015_03500_SEQ_21",""
 22,"TEXT_LUCKZG015_03500_SEQ_22",""
 23,"TEXT_LUCKZG015_03500_SEQ_23",""
-24,"TEXT_LUCKZG015_03500_TODO_00","獲得<Sheet(EventItem,2002897,0)/>"
+24,"TEXT_LUCKZG015_03500_TODO_00","獲取<Sheet(EventItem,2002897,0)/>"
 25,"TEXT_LUCKZG015_03500_TODO_01","將<Sheet(EventItem,2002897,0)/>交給大塊頭迦震族"
 26,"TEXT_LUCKZG015_03500_TODO_02","向安妮娜報告"
 27,"TEXT_LUCKZG015_03500_TODO_03",""
@@ -68,7 +68,7 @@ int32,str,str
 56,"TEXT_LUCKZG015_03500_ANNINE_000_040","歡迎回來。
 情況我都聽弟弟們說了。
 你幫他們收集了木材，真是十分感謝你！"
-57,"TEXT_LUCKZG015_03500_ANNINE_000_041","在滿是荒野的安穆．艾蘭，木材可是很貴重的。
+57,"TEXT_LUCKZG015_03500_ANNINE_000_041","在滿是荒野的安穆·艾蘭，木材可是很貴重的。
 這個聚落的建築物，還有礦山上的設施使用到的木材，
 全都是由代達羅斯公司從珂露西亞島上運過來的。"
 58,"TEXT_LUCKZG015_03500_ANNINE_000_042","現在代達羅斯公司撤走了，

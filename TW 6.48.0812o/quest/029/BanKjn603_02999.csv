@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN603_02999_TODO_21",""
 46,"TEXT_BANKJN603_02999_TODO_22",""
 47,"TEXT_BANKJN603_02999_TODO_23",""
-48,"TEXT_BANKJN603_02999_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，紅甲族的動向很奇怪——
+48,"TEXT_BANKJN603_02999_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，紅甲族的動向很奇怪——
 他們窩在絕鬼島內部，還搬出了帝國的武器，
 有種馬上要去襲擊哪裡的感覺——"
 49,"TEXT_BANKJN603_02999_ZUKIN_000_001","說不定這裡會成為他們的目標——

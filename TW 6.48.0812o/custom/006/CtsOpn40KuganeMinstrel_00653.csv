@@ -47,7 +47,7 @@ int32,str,str
 20,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_024","「西海英雄受挑戰，齊聚東海來應戰。
 白劍高舉臨陣前，管你神佛一樣撼。」"
 21,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_025","如何，是不是把須佐之男的悍勇表現得淋漓盡致？
-我還透過自己的想像將其修飾了一番，
+我還通過自己的想像將其修飾了一番，
 你有時間的話可以再去回顧一下當時的激戰。"
 22,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_026","……啥？我改的有點太誇張了？
 沒事沒事，誇張點演出來觀眾才高興！"
@@ -56,8 +56,8 @@ int32,str,str
 25,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_031","神龍……被冠以「神」字為名的龍嗎……
 為阿拉米格捐軀的有志之士們臨終時的絕望化作了這一蠻神，
 他們渴望著能夠毀滅加雷馬帝國的強大力量……"
-26,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_032","但這份力量卻最終落入敵手，和那個只有透過性命相搏才能
-理解他人的可悲男人——芝諾斯．耶．加爾烏斯一起，
+26,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_032","但這份力量卻最終落入敵手，和那個只有通過性命相搏才能
+理解他人的可悲男人——芝諾斯·耶·加爾烏斯一起，
 以最強敵人的身份阻擋了你收復阿拉米格的腳步。"
 27,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_033","「一男一心念救國，多年尋覓終得果。
 大好頭顱剜下來，只換神龍戮敵國。」"
@@ -86,12 +86,12 @@ int32,str,str
 37,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_045","「破月而出的災禍之龍，為獲新生而沉眠地底。
 追尋真相的勇敢之士，與龍之使者不期邂逅。」"
 38,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_046","「光之戰士被星球指引，甘冒大風險入侵地底。
-獲知真相瞭解真源後，英勇行下屠龍壯舉矣。」"
+獲知真相了解真源後，英勇行下屠龍壯舉矣。」"
 39,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_047","曾經威脅到整個星球的恐怖龍神與無名英雄在暗中殊死搏鬥……
 這個題材在黃金港一定備受歡迎。"
 40,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_048","哈哈，比起沉悶的真相，人們總是更喜歡從幻想中尋找震撼。
 這點不管是在西方還是在東方都一樣。
-謝謝，託你的福，我又想出了新的英雄敘事詩！"
+謝謝，托你的福，我又想出了新的英雄敘事詩！"
 41,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_050","所謂四聖獸是指無地鼓座演出的三大戲劇之一，
 「典膳驅鬼」中登場的4隻獸吧。"
 42,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_051","呵呵……你很奇怪我為什麼知道嗎？
@@ -125,9 +125,9 @@ int32,str,str
 也許能獲得一些與從前不同的靈感。
 所以就請你再講一次給我聽吧。"
 56,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_072","……不愧是被譽為究極幻想的最終兵器，
-你與它的曠世激戰每次聽聞都讓我心神激盪。
+你與它的曠世激戰每次聽聞都讓我心神激蕩。
 感謝你為我帶來如此美妙的故事。"
-57,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_073","託你的福，我腦中浮現出了不負究極之名的壯麗詩篇，
+57,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_073","托你的福，我腦中浮現出了不負究極之名的壯麗詩篇，
 你願意當我的聽眾嗎？"
 58,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_074","「漆黑之劍甦醒，噬三神之力蔽日遮天。」"
 59,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_075","「光之白刃阻攔，匯三國之力開創明天。」"
@@ -145,9 +145,9 @@ int32,str,str
 只為復仇而活的夜露請到自己身上的蠻神嗎……"
 65,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_082","我倒是聽說過從前多瑪代理總督夜露的種種暴政、惡行，
 卻沒想到她有著如此悲傷的背景。
-只看歷史表面可真是沒辦法瞭解這些背後的東西。"
+只看歷史表面可真是沒法了解這些背後的東西。"
 66,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_083","她未選擇重獲新生在多瑪做一個普通人，
-而是決定揹負自己的罪孽片片凋零。
+而是決定背負自己的罪孽片片凋零。
 ……那麼，請你聆聽吧，這就是我為她創作的哀傷短歌。"
 67,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_100_083","啊，所謂短歌就是遠東之國傳統的詩句。
 這是無地鼓座的人們教我的，
@@ -155,7 +155,7 @@ int32,str,str
 68,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_084","「弦月懸夜空 潔白花朵綻月下 靜謐放芳華
 奈何幽怨噬人心 凋零墜入黃泉下」"
 69,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_085","她戴在頭上的月下美人，
-是一種註定只能綻放一夜就會凋零的哀傷之花……
+是一種注定只能綻放一夜就會凋零的哀傷之花……
 也許她是用它替代彼岸花為自己送行吧。"
 70,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_086","夜露的屢屢罪行確實無法被寬恕，
 但誰都不是天生就是惡人，
@@ -243,6 +243,6 @@ int32,str,str
 也是機械之神將希望託付給一個「人」的故事。
 怎麼樣，你喜歡嗎？"
 108,"TEXT_CTSOPN40KUGANEMINSTREL_00653_WANDERINGMINSTREL_000_139","在遙遠西方廢都中展開的超時空決戰……
-落幕時審判者的電腦中卻是迸發出了剎那的喜悅之情。
+落幕時審判者的電腦中卻是迸發出了刹那的喜悅之情。
 無地鼓座的觀眾們也一定會以無比緊張的心情看完最終的結局吧！"
 109,"TEXT_CTSOPN40KUGANEMINSTREL_00653_MINSTREL_CANCEL_000","（★未使用／削除予定★）"

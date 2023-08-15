@@ -90,7 +90,7 @@ int32,str,str
 受過訓練的騰雲蛇應該沒問題的，不、不可怕！"
 64,"TEXT_HEAVNZ711_01915_GUNUVANU_000_033","果然、果然，還是不敢啊！
 你看騰雲蛇的那一口牙，我想想就覺得害怕啊！"
-65,"TEXT_HEAVNZ711_01915_GUNUVANU_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，剛才我突然就逃走了，很抱歉……
+65,"TEXT_HEAVNZ711_01915_GUNUVANU_000_040","<Highlight>ObjectParameter(1)</Highlight>，剛才我突然就逃走了，很抱歉……
 不過儀式那邊沒關係，放心吧，
 看我怎麼去說服祭司大人！"
 66,"TEXT_HEAVNZ711_01915_GUNUVANU_000_041","嗯……哼！
@@ -98,13 +98,13 @@ int32,str,str
 我帶來了通過儀式需要的有價值的東西！"
 67,"TEXT_HEAVNZ711_01915_AANUVANU_000_042","古努瓦努啊……我沒看到任何東西。你想做什麼？"
 68,"TEXT_HEAVNZ711_01915_GUNUVANU_000_043","我大發慈悲，特意將馴服騰雲蛇的方法
-教給了這邊這位 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+教給了這邊這位<Highlight>ObjectParameter(1)</Highlight>！"
 69,"TEXT_HEAVNZ711_01915_GUNUVANU_100_043","將知識無償地告訴旅人，
 這份善良、善良的心！
 ……正是最「有價值的東西」！"
 70,"TEXT_HEAVNZ711_01915_AANUVANU_000_044","……你以為這種鬼話可以騙誰啊！
 沒有實體的「心」要怎麼獻上？！
-這種東西我不承認，駁回駁回！"
+這種東西我不承認，打回打回！"
 71,"TEXT_HEAVNZ711_01915_GUNUVANU_000_045","唔唔……沒、沒想到竟然不能獻上「心」……
 這種規定我還是第一次聽到，而且我也沒有失敗，
 應該不算我失去資格吧？"

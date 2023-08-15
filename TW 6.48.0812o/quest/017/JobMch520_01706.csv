@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_JOBMCH520_01706_SEQ_00","天鋼機工房的斯特凡尼維安有事想拜託冒險者。"
 1,"TEXT_JOBMCH520_01706_SEQ_01","天鋼機工房的機工士們不得不在缺少喬伊的情況下參加與澤梅爾家的共同作戰。為了進行準備工作，前往摩杜納的帝國中央堡，調查<Sheet(EObj,2006269,0)/>，取得3個<Sheet(EventItem,2001816,0)/>。"
 2,"TEXT_JOBMCH520_01706_SEQ_02","獲得了<Sheet(EventItem,2001816,0)/>。將<Sheet(EventItem,2001816,0)/>交給天鋼機工房的斯特凡尼維安。"
-3,"TEXT_JOBMCH520_01706_SEQ_03","將<Sheet(EventItem,2001816,0)/>交給了斯特凡尼維安。趁他進行開發作業時，前往伊修加爾德基礎層的雲霧街打聽關於厲害的獵人的情報。"
+3,"TEXT_JOBMCH520_01706_SEQ_03","將<Sheet(EventItem,2001816,0)/>交給了斯特凡尼維安。趁他進行開發作業時，前往伊修加德基礎層的雲霧街打聽關於厲害的獵人的情報。"
 4,"TEXT_JOBMCH520_01706_SEQ_04","打聽到了情報。和天鋼機工房的斯特凡尼維安談談。"
 5,"TEXT_JOBMCH520_01706_SEQ_05","和斯特凡尼維安進行了交談。為了找到喬伊，前往庫爾札斯西部高地的隼巢，在<Sheet(EObj,2006272)/>進行張望。"
 6,"TEXT_JOBMCH520_01706_SEQ_06","雖然在隼巢發現了喬伊，但她卻並不打算回到工房。和天鋼機工房的斯特凡尼維安談談。"
@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_JOBMCH520_01706_SEQ_22",""
 23,"TEXT_JOBMCH520_01706_SEQ_23",""
 24,"TEXT_JOBMCH520_01706_TODO_00","調查帝國中央堡的<Sheet(EObj,2006269,0)/>
-獲得<Sheet(EventItem,2001816,0)/>"
+獲取<Sheet(EventItem,2001816,0)/>"
 25,"TEXT_JOBMCH520_01706_TODO_01","將<Sheet(EventItem,2001816,0)/>交給天鋼機工房的斯特凡尼維安"
 26,"TEXT_JOBMCH520_01706_TODO_02","打聽厲害的獵人的情報"
 27,"TEXT_JOBMCH520_01706_TODO_03","和斯特凡尼維安對話"
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_JOBMCH520_01706_TODO_21",""
 46,"TEXT_JOBMCH520_01706_TODO_22",""
 47,"TEXT_JOBMCH520_01706_TODO_23",""
-48,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_000","你來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_000","你來啦，<Highlight>ObjectParameter(1)</Highlight>。
 根據消息，不僅是喬伊，連喬伊的父親也消失不見了。"
 49,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_001","塞萊斯特雖然在查，但還沒有查出確切的情報……
 在等待情報的同時，共同作戰的開始日期也在不斷迫近，
@@ -81,7 +81,7 @@ int32,str,str
 58,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_011","謝謝，我研究一下這些東西應該就能提高開發速度了。
 之後就剩下等喬伊回來了……
 拜託了，能請你也幫忙去找找她嗎？"
-59,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_012","據說塞萊斯特被伊修加爾德雲霧街的情報網拒之門外了。
+59,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_012","據說塞萊斯特被伊修加德雲霧街的情報網拒之門外了。
 恐怕是有什麼人在背後搞鬼。"
 60,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_013","請你也去雲霧街打探一下關於喬伊那個厲害的獵人父親的行蹤吧。"
 61,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_019","希望能找到喬伊……"
@@ -106,7 +106,7 @@ int32,str,str
 又聽說雖然那人遊手好閒，但家境殷實。"
 71,"TEXT_JOBMCH520_01706_CELESTAUX_000_030","沒想到我竟然被雲霧街的情報網拒之門外了……
 看來是有人提前動了手腳讓所有人都不准向我開口。"
-72,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_030","你回來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+72,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_030","你回來啦，<Highlight>ObjectParameter(1)</Highlight>。
 在雲霧街打聽到什麼了嗎？"
 73,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_031","「厲害的獵人」找到了新工作出遠門了。
 女兒則是嫁給了隼巢一位名木匠的弟弟嗎……"
@@ -123,7 +123,7 @@ int32,str,str
 喬伊你突然不見了我們真的不知道該如何是好。
 如果方便的話，能請你們夫妻二人一起來工房工作嗎？"
 82,"TEXT_JOBMCH520_01706_JOYE_000_044","少爺……我做不到。
-為了父親和工房裡大夥的幸福，
+為了父親和工房裡大伙的幸福，
 只有喬伊放棄做機工士才是最好的選擇……"
 83,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_045","為了他人而放棄做機工士？
 喬伊你真的是這樣想的？！"
@@ -144,7 +144,7 @@ int32,str,str
 請你回工房去聽聽工房長要說什麼吧。
 有些事我很在意，要先調查一下再回去。"
 90,"TEXT_JOBMCH520_01706_CELESTAUX_000_060","你可算回來了……"
-91,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_061","你回來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+91,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_061","你回來啦，<Highlight>ObjectParameter(1)</Highlight>。
 在回工房的一路上我一直讓測量器全速運轉，
 跳出的答案是今後我應該專心為共同作戰做準備。"
 92,"TEXT_JOBMCH520_01706_CELESTAUX_000_062","你不想將喬伊找回來了？"
@@ -167,7 +167,7 @@ int32,str,str
 結果卻全都只是我的錯覺嗎？"
 99,"TEXT_JOBMCH520_01706_Q1_000_000","如何作答？"
 100,"TEXT_JOBMCH520_01706_A1_000_001","沒那回事"
-101,"TEXT_JOBMCH520_01706_A1_000_002","…………。"
+101,"TEXT_JOBMCH520_01706_A1_000_002","……"
 102,"TEXT_JOBMCH520_01706_STEPHANIVIEN_000_069","肯這麼說的人只有你了……
 說起來，我們不是約好用你找來的<Sheet(EventItem,2001816,0)/>
 為機工兵裝追加新機能的嗎。"

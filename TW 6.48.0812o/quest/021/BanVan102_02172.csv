@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANVAN102_02172_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-穆納瓦努委託冒險者從人類那裡換取柴火。首先，需要採集一些材料，好製作為換取柴火所需要的菜丸子。在尊杜集落附近獲得3個<Sheet(EventItem,2001904,0)/>。"
+穆納瓦努委託冒險者從人類那裡換取柴火。首先，需要採集一些材料，好製作為換取柴火所需要的菜丸子。在尊杜集落附近獲取3個<Sheet(EventItem,2001904,0)/>。"
 2,"TEXT_BANVAN102_02172_SEQ_02","獲得了3個<Sheet(EventItem,2001904,0)/>。將<Sheet(EventItem,2001904,0)/>交給西風島的穆納瓦努。"
 3,"TEXT_BANVAN102_02172_SEQ_03","將<Sheet(EventItem,2001904,0)/>交給了穆納瓦努。他立刻製作了菜丸子，並委託冒險者用其換取柴火。將<Sheet(EventItem,2001905,0)/>交給雲頂營地的卡里博。"
 4,"TEXT_BANVAN102_02172_SEQ_04","將<Sheet(EventItem,2001905,0)/>交給了卡里博。他非常高興地將柴火給了冒險者。將<Sheet(EventItem,2001906,0)/>交給西風島的穆納瓦努。"
@@ -29,7 +29,7 @@ int32,str,str
 21,"TEXT_BANVAN102_02172_SEQ_21",""
 22,"TEXT_BANVAN102_02172_SEQ_22",""
 23,"TEXT_BANVAN102_02172_SEQ_23",""
-24,"TEXT_BANVAN102_02172_TODO_00","獲得<Sheet(EventItem,2001904,0)/>"
+24,"TEXT_BANVAN102_02172_TODO_00","獲取<Sheet(EventItem,2001904,0)/>"
 25,"TEXT_BANVAN102_02172_TODO_01","將<Sheet(EventItem,2001904,0)/>交給穆納瓦努"
 26,"TEXT_BANVAN102_02172_TODO_02","將<Sheet(EventItem,2001905,0)/>交給卡里博"
 27,"TEXT_BANVAN102_02172_TODO_03","將<Sheet(EventItem,2001906,0)/>交給穆納瓦努"
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANVAN102_02172_TODO_21",""
 46,"TEXT_BANVAN102_02172_TODO_22",""
 47,"TEXT_BANVAN102_02172_TODO_23",""
-48,"TEXT_BANVAN102_02172_MUNAVANU_000_000","這不是、這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎。
+48,"TEXT_BANVAN102_02172_MUNAVANU_000_000","這不是、這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
 其實，村子裡的柴火有些不夠了，我正想從人類那裡換點來呢。
 能否請你幫幫忙，找他們換點柴火回來呢？"
 49,"TEXT_BANVAN102_02172_MUNAVANU_000_001","聽說人類的騎兵非常喜歡美食。
@@ -62,17 +62,17 @@ int32,str,str
 50,"TEXT_BANVAN102_02172_MUNAVANU_000_002","尊杜集落附近生長著<Sheet(EventItem,2001904,0)/>，
 能否、能否請你採點回來呢？3個左右就好。
 我會在此期間準備好其他材料。"
-51,"TEXT_BANVAN102_02172_MUNAVANU_000_010","你回來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+51,"TEXT_BANVAN102_02172_MUNAVANU_000_010","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 請問你順利採到<Sheet(EventItem,2001904,0)/>了嗎？"
 52,"TEXT_BANVAN102_02172_MUNAVANU_000_011","這、這野草聞起來香極了！
 用這野草肯定能做出如同旭日般完美的菜丸子！
 那麼、那麼，我這就……"
-53,"TEXT_BANVAN102_02172_MUNAVANU_000_012","做好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_BANVAN102_02172_MUNAVANU_000_012","做好了，<Highlight>ObjectParameter(1)</Highlight>！
 這就是、這就是<Sheet(EventItem,2001905,0)/>！"
 54,"TEXT_BANVAN102_02172_MUNAVANU_000_013","請你將這<Sheet(EventItem,2001905,0)/>交給雲頂營地的一名叫卡里博的人類。"
 55,"TEXT_BANVAN102_02172_MUNAVANU_000_014","那個人曾經和我們袞杜族做過交易，
 相信你把菜丸子交給他，就可以換到柴火了。
-那麼拜託你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+那麼拜託你了，<Highlight>ObjectParameter(1)</Highlight>。"
 56,"TEXT_BANVAN102_02172_CARIBAULT_000_020","……想要作為燃料的柴火？
 怎麼想也不可能免費給你吧……
 還是說你要拿別的東西來交換？"
@@ -81,12 +81,12 @@ int32,str,str
 58,"TEXT_BANVAN102_02172_CARIBAULT_000_022","明明是用野草做的丸子，
 卻有一種彈性十足的肉質感，十分美味。
 雖然不知道你是從哪裡得來的，不過還是謝謝你了，冒險者！"
-59,"TEXT_BANVAN102_02172_CARIBAULT_000_023","正好現在柴火有些剩餘，
+59,"TEXT_BANVAN102_02172_CARIBAULT_000_023","正好現在柴火有些富餘，
 雖然不能讓你隨便拿，但是稍微多拿些還是沒問題的。"
 60,"TEXT_BANVAN102_02172_CARIBAULT_000_024","<Sheet(EventItem,2001905,0)/>這口感……
 怎麼才能把野菜做成這口感的？
 好在意啊……不對，是相當在意！"
-61,"TEXT_BANVAN102_02172_MUNAVANU_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我等你很久了。
+61,"TEXT_BANVAN102_02172_MUNAVANU_000_030","<Highlight>ObjectParameter(1)</Highlight>，我等你很久了。
 怎麼樣，換到作為燃料的<Sheet(EventItem,2001906,0)/>了嗎？"
 62,"TEXT_BANVAN102_02172_MUNAVANU_000_031","沒錯、沒錯，我收下了。
 在雲海，樹木就像流淌在大地的泉水一樣貴重。
@@ -97,5 +97,5 @@ int32,str,str
 64,"TEXT_BANVAN102_02172_MUNAVANU_000_033","為了重現當年人類的笑顏，這次我也精心製作了菜丸子。
 作為材料的瓦魔蛾幼蟲肉也是經過嚴格篩選的，
 相信吃的人定會跟以前一樣笑容滿面。"
-65,"TEXT_BANVAN102_02172_MUNAVANU_000_034"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這次真是謝謝你了。
+65,"TEXT_BANVAN102_02172_MUNAVANU_000_034","<Highlight>ObjectParameter(1)</Highlight>，這次真是謝謝你了。
 等有機會了，一定請你吃一頓美味的菜丸子以作報答！"

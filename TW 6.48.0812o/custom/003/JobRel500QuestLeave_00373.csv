@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你想中止這次人造元靈研究，
+0,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_000","<Highlight>ObjectParameter(1)</Highlight>，你想中止這次人造元靈研究，
 好好休息一段時間嗎？"
 1,"TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_000","中止這次研究嗎？"
 2,"TEXT_JOBREL500QUESTLEAVE_00373_ARDASHIR_000_010","是、是嗎！！
@@ -18,7 +18,7 @@ int32,str,str
 7,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_001","放棄任務「人造元靈終綻放」，
 會導致人造元靈的靈魂凝聚度初始化。"
 8,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_002","即使以相同的職業再次領取任務，
-也不會重新退還當前的靈魂凝聚度。"
+也不會重新返還當前的靈魂凝聚度。"
 9,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_003","請認真考慮後再決定是否放棄任務「人造元靈終綻放」。"
 10,"TEXT_JOBREL500QUESTLEAVE_00373_Q1_000_010","真的要放棄任務「人造元靈終綻放」嗎？"
 11,"TEXT_JOBREL500QUESTLEAVE_00373_SYSTEM_000_010","取消了放棄任務的操作。"

@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_JOBMNK601_02426_SEQ_00","雕金匠公會的艾里克有事想請冒險者幫忙。"
 1,"TEXT_JOBMNK601_02426_SEQ_01","前情回顧：
-冒險者與維達蓋爾特得知了拉爾戈星導教中還有著名為太陰流的流派。太陰流的導師赫．拉哈．提亞讓自己的弟子德．傑恩茶和奧．夏可哈相互廝殺，活下來的人繼承自己的衣缽。冒險者在拯救兩人的戰鬥中打通了陰陽十四脈輪，擊敗了赫．拉哈．提亞。
+冒險者與維達蓋爾特得知了拉爾戈星導教中還有著名為太陰流的流派。太陰流的導師赫·拉哈·提亞讓自己的弟子德·傑恩茶和奧·夏可哈相互廝殺，活下來的人繼承自己的衣缽。冒險者在拯救兩人的戰鬥中打通了陰陽十四脈輪，擊敗了赫·拉哈·提亞。
 　　　　　　　　　　　　*　*　*
 和艾里克進行了交談。維達蓋爾特好像在煩惱什麼事情。前往喪靈鐘，和維達蓋爾特談談。"
 2,"TEXT_JOBMNK601_02426_SEQ_02","維達蓋爾特決定去回絕阿拉米格解放軍的邀請。前往南薩納蘭的小阿拉米格，和維達蓋爾特談談。"
@@ -54,7 +54,7 @@ int32,str,str
 45,"TEXT_JOBMNK601_02426_TODO_21",""
 46,"TEXT_JOBMNK601_02426_TODO_22",""
 47,"TEXT_JOBMNK601_02426_TODO_23",""
-48,"TEXT_JOBMNK601_02426_ERIK_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正是時候。
+48,"TEXT_JOBMNK601_02426_ERIK_000_001","<Highlight>ObjectParameter(1)</Highlight>，你來得正是時候。
 老朽有件事想要找你幫忙。"
 49,"TEXT_JOBMNK601_02426_ERIK_000_002","維達蓋爾特最近好像很是煩惱。
 我猜多半是和阿拉米格有關，
@@ -69,11 +69,11 @@ int32,str,str
 都是您教導有方。"
 54,"TEXT_JOBMNK601_02426_DZENTSA_000_013","對，我們還需要師父的教導才行。"
 55,"TEXT_JOBMNK601_02426_WIDARGELT_000_014","我的，教導……"
-56,"TEXT_JOBMNK601_02426_WIDARGELT_000_015","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+56,"TEXT_JOBMNK601_02426_WIDARGELT_000_015","啊，<Highlight>ObjectParameter(1)</Highlight>。
 你來看我們了嗎？
 我們還是一如既……唔，那件事也許能跟你說說……"
 57,"TEXT_JOBMNK601_02426_WIDARGELT_000_016","傑恩茶、夏可哈。
-我有話和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 說，你們先去收拾器械吧。"
+我有話和<Highlight>ObjectParameter(1)</Highlight>說，你們先去收拾器械吧。"
 58,"TEXT_JOBMNK601_02426_WIDARGELT_000_017","……我這兩個弟子都還不錯吧。
 脫離太陰流後她們都恢復了自己陽光的一面。"
 59,"TEXT_JOBMNK601_02426_WIDARGELT_000_018","看到兩個弟子的成長，
@@ -88,25 +88,25 @@ int32,str,str
 63,"TEXT_JOBMNK601_02426_WIDARGELT_000_022","唉，不能再向你發牢騷了。
 這還是要由我自己找到答案才行。"
 64,"TEXT_JOBMNK601_02426_WIDARGELT_000_023","好了，我得去將我的答覆告訴解放軍的同志才行。
-回頭見， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+回頭見，<Highlight>ObjectParameter(1)</Highlight>。
 謝謝你聽我發牢騷。"
 65,"TEXT_JOBMNK601_02426_OTCHAKHA_000_024","師父又在煩惱了呀……"
-66,"TEXT_JOBMNK601_02426_DZENTSA_000_025","是啊。我們也不爭氣，沒辦法幫師父什麼忙。
+66,"TEXT_JOBMNK601_02426_DZENTSA_000_025","是啊。我們也不爭氣，沒法幫師父什麼忙。
 不過他這個樣子真的能回絕解放軍的人嗎？"
 67,"TEXT_JOBMNK601_02426_OTCHAKHA_000_026","確實令人擔心……
-對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能請你跟去看看情況嗎？"
+對了，<Highlight>ObjectParameter(1)</Highlight>，能請你跟去看看情況嗎？"
 68,"TEXT_JOBMNK601_02426_Q1_000_000","如何作答？"
 69,"TEXT_JOBMNK601_02426_A1_000_001","既然是夏可哈的請求，我就去一趟"
 70,"TEXT_JOBMNK601_02426_A1_000_002","如果傑恩茶求我的話，我就去一趟"
 71,"TEXT_JOBMNK601_02426_OTCHAKHA_300_027","呵呵，太謝謝你了！"
 72,"TEXT_JOBMNK601_02426_DZENTSA_100_027","我，我嗎？！"
-73,"TEXT_JOBMNK601_02426_DZENTSA_200_027","那好吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+73,"TEXT_JOBMNK601_02426_DZENTSA_200_027","那好吧，<Highlight>ObjectParameter(1)</Highlight>。
 我也拜託你跟過去看看師父的情形。"
 74,"TEXT_JOBMNK601_02426_OTCHAKHA_000_027","如果師父是要見阿拉米格解放軍的人，
 那應該是去了小阿拉米格才對。
 拜託你去看看吧！"
 75,"TEXT_JOBMNK601_02426_ERIK_000_030","維達蓋爾特就拜託你了。"
-76,"TEXT_JOBMNK601_02426_WIDARGELT_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+76,"TEXT_JOBMNK601_02426_WIDARGELT_000_040","<Highlight>ObjectParameter(1)</Highlight>！
 你來見證我的決心嗎？
 放心，我不會讓你失望的。"
 77,"TEXT_JOBMNK601_02426_GUNDOBALD_000_041","維達蓋爾特，我今天能聽到你的答覆了嗎？"
@@ -124,7 +124,7 @@ int32,str,str
 83,"TEXT_JOBMNK601_02426_WIDARGELT_000_047","我想去個地方，先告辭了。"
 84,"TEXT_JOBMNK601_02426_GUNDOBALD_000_048","冒險者，看起來你和維達蓋爾特關係不淺。
 如果你們是朋友，還請你多幫幫他吧。"
-85,"TEXT_JOBMNK601_02426_WIDARGELT_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+85,"TEXT_JOBMNK601_02426_WIDARGELT_000_050","<Highlight>ObjectParameter(1)</Highlight>……
 沒想到你能找到這裡。"
 86,"TEXT_JOBMNK601_02426_WIDARGELT_000_051","這是十二神之一——破壞神拉爾戈的秘石。
 據說當年遭受到帝國侵略的阿拉米格人民
@@ -136,7 +136,7 @@ int32,str,str
 從始至終，我能為阿拉米格做的事只有一件才對！"
 89,"TEXT_JOBMNK601_02426_WIDARGELT_000_054","我要回傑恩茶和夏可哈那裡去了。
 有件事必須和她們商量一下。"
-90,"TEXT_JOBMNK601_02426_WIDARGELT_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，有件事我想要告訴你。"
+90,"TEXT_JOBMNK601_02426_WIDARGELT_000_060","<Highlight>ObjectParameter(1)</Highlight>，有件事我想要告訴你。"
 91,"TEXT_JOBMNK601_02426_WIDARGELT_000_061","我決定前往基拉巴尼亞重建拉爾戈星導教。
 這才是我的拳唯一應該完成的使命。"
 92,"TEXT_JOBMNK601_02426_DZENTSA_000_062","我們也會跟著師父一起去。
@@ -144,7 +144,7 @@ int32,str,str
 93,"TEXT_JOBMNK601_02426_ERIK_000_068","老朽這個超自然探求者自然也是要一同前往。
 故鄉基拉巴尼亞還有很多知識等待老朽前去發掘。
 老朽的知識與智慧也能為重建星導教出一份力。"
-94,"TEXT_JOBMNK601_02426_WIDARGELT_000_069"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能請你跟我們一同前往基拉巴尼亞，
+94,"TEXT_JOBMNK601_02426_WIDARGELT_000_069","<Highlight>ObjectParameter(1)</Highlight>，能請你跟我們一同前往基拉巴尼亞，
 幫忙重建星導教嗎？"
 95,"TEXT_JOBMNK601_02426_Q2_000_000","如何作答？"
 96,"TEXT_JOBMNK601_02426_A2_000_001","當然要去"
@@ -155,7 +155,7 @@ int32,str,str
 我一定會重建星導教，回報你的幫助！"
 100,"TEXT_JOBMNK601_02426_ERIK_000_071","那老朽先去為旅行做準備了。
 維達蓋爾特，不要忘了我之前和你說的事。"
-101,"TEXT_JOBMNK601_02426_WIDARGELT_000_072"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也去為出發做一些準備工作吧。
+101,"TEXT_JOBMNK601_02426_WIDARGELT_000_072","<Highlight>ObjectParameter(1)</Highlight>，你也去為出發做一些準備工作吧。
 我們之後見。"
 102,"TEXT_JOBMNK601_02426_SYSTEM_000_080","開啟了新的「武僧」任務。
 武僧的等級達到63級以上時，
@@ -164,5 +164,5 @@ int32,str,str
 確認下一個武僧特職任務的領取條件。"
 104,"TEXT_JOBMNK601_02426_ERIK_000_090","（★未使用／削除予定★）"
 105,"TEXT_JOBMNK601_02426_DZENTSA_000_091","看來師父已經下定決心了。"
-106,"TEXT_JOBMNK601_02426_OTCHAKHA_000_092"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，多虧了你，
+106,"TEXT_JOBMNK601_02426_OTCHAKHA_000_092","<Highlight>ObjectParameter(1)</Highlight>，多虧了你，
 師父找到了自己的道路。"

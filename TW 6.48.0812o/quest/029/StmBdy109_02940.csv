@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDY109_02940_TODO_21",""
 46,"TEXT_STMBDY109_02940_TODO_22",""
 47,"TEXT_STMBDY109_02940_TODO_23",""
-48,"TEXT_STMBDY109_02940_RESISTANCE02940_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正好。
+48,"TEXT_STMBDY109_02940_RESISTANCE02940_000_001","<Highlight>ObjectParameter(1)</Highlight>，你來得正好。
 有人說想和奪回阿拉米格的英雄談話。"
 49,"TEXT_STMBDY109_02940_RESISTANCE02940_000_002","他應該就在基拉巴尼亞邊區的條紋丘等著。
 從神拳痕出發馬上就到了，你有空就去見見他好了。
@@ -74,5 +74,5 @@ int32,str,str
 能讓我喜歡的那個女孩子也知道，
 你的勝利背後有我幫助你進行木人修行！"
 57,"TEXT_STMBDY109_02940_SYSTEM_000_018","可以挑戰「木人殲滅戰」了。
-此任務無法透過任務搜尋器來參加，
+此任務無法通過任務搜尋器來參加，
 與滿身傷痕的壯漢對話後可以開始任務。"

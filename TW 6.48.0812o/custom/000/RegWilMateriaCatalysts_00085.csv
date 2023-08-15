@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_1","如果你對修理裝備所必需的「催化劑」感興趣的話，
-我這個催化劑採集專家可以來指導指導你！"
-1,"TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000Q","想瞭解什麼？"
-2,"TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A1","什麼是催化劑"
+0,"TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_1","如果你對修理裝備所必需的「觸媒」感興趣的話，
+我這個觸媒採集專家可以來指導指導你！"
+1,"TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A1","什麼是觸媒"
 3,"TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A3","取消"
 4,"TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_10","你知道「暗物質」嗎？
 據說是從天而降的隕石的碎片，
@@ -13,9 +13,9 @@ int32,str,str
 不過，有的暗物質在不完全的狀態下就與其他物質融合了。"
 6,"TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_12","比如和碳化的有機物融合了的「碳化暗物質」。
 它就無法作為修理材料來使用。
-不過，卻可以用作鑲嵌魔晶石的催化劑。"
+不過，卻可以用作鑲嵌魔晶石的觸媒。"
 7,"TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_13","可惜隨著鑲嵌魔晶石技術的進步，
-自從研究出不需要催化劑也能鑲嵌魔晶石的方法後，
+自從研究出不需要觸媒也能鑲嵌魔晶石的方法後，
 它就再沒有什麼特別的用途了……"
 8,"TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A2","（★未使用／削除予定★）"
 9,"TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_20","（★未使用／削除予定★）"

@@ -11,7 +11,7 @@ int32,str,str
 3,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_003","歡迎回來。
 星球能獲救自然是好事，但能再次見到你才是最讓我高興的事。
 話說今天有什麼事嗎？"
-4,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_Q1_000_000","想瞭解什麼？"
+4,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_Q1_000_000","想了解什麼？"
 5,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_001","你是做什麼的？"
 6,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_002","這裡是什麼地方？"
 7,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_A1_000_003","取消"
@@ -29,5 +29,5 @@ int32,str,str
 其實農場是為了應對即將要逃往星外的大撤退而建立的，
 我們的主要目的就是研究在月球生產糧食的可能性。"
 13,"TEXT_REGNOT5MERYALLAGRONOMICS_00742_MNOGGYA_000_023","雖然現在已經不需要強求這個目的了，
-但是天氣惡劣和饑荒等情況卻是無法避免的。
+但是天氣惡劣和饑荒等情況卻是不可避免的。
 所以這項研究也就保留了下來。"

@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_AKTKZI007_04322_SEQ_21",""
 22,"TEXT_AKTKZI007_04322_SEQ_22",""
 23,"TEXT_AKTKZI007_04322_SEQ_23",""
-24,"TEXT_AKTKZI007_04322_TODO_00","將<Sheet(EventItem,2003311,0)/>交給瓦．頌吉吉"
-25,"TEXT_AKTKZI007_04322_TODO_01","在瓦．頌吉吉附近使用<Sheet(EventItem,2003312,0)/>"
+24,"TEXT_AKTKZI007_04322_TODO_00","將<Sheet(EventItem,2003311,0)/>交給瓦·頌吉吉"
+25,"TEXT_AKTKZI007_04322_TODO_01","在瓦·頌吉吉附近使用<Sheet(EventItem,2003312,0)/>"
 26,"TEXT_AKTKZI007_04322_TODO_02","和維伊爾塞姆對話"
 27,"TEXT_AKTKZI007_04322_TODO_03",""
 28,"TEXT_AKTKZI007_04322_TODO_04",""
@@ -50,34 +50,34 @@ int32,str,str
 45,"TEXT_AKTKZI007_04322_TODO_21",""
 46,"TEXT_AKTKZI007_04322_TODO_22",""
 47,"TEXT_AKTKZI007_04322_TODO_23",""
-48,"TEXT_AKTKZI007_04322_CWEILSAEM_000_000","你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+48,"TEXT_AKTKZI007_04322_CWEILSAEM_000_000","你是<Highlight>ObjectParameter(1)</Highlight>吧？
 來得正好，其實我正打算往可可羅工房那邊送東西，
 不過對方是你的忠實擁護者。"
 49,"TEXT_AKTKZI007_04322_CWEILSAEM_000_001","方便的話，可以請你幫我送過去嗎？
 相信她一定會很開心的。"
 50,"TEXT_AKTKZI007_04322_CWEILSAEM_000_002","謝謝！
 那就請將這個<Sheet(EventItem,2003311,0)/>
-送到可可羅工房的瓦．頌吉吉手裡吧！"
+送到可可羅工房的瓦·頌吉吉手裡吧！"
 51,"TEXT_AKTKZI007_04322_CWEILSAEM_000_005","請將這個<Sheet(EventItem,2003311,0)/>
-送到可可羅工房的瓦．頌吉吉手裡吧！
+送到可可羅工房的瓦·頌吉吉手裡吧！
 她是你的擁護者，相信一定會很開心的。"
 52,"TEXT_AKTKZI007_04322_WSONDIDI_000_010","哇哇！你、你是……"
 53,"TEXT_AKTKZI007_04322_WSONDIDI_000_011","要、要把這個給我？
-居然特地勞煩 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 做這種事，
+居然特地勞煩<Highlight>ObjectParameter(1)</Highlight>做這種事，
 那傢伙到底是怎麼想的……"
 54,"TEXT_AKTKZI007_04322_WSONDIDI_000_012","總、總之謝謝你！
 我得送你點東西以表感謝才行，那個……"
 55,"TEXT_AKTKZI007_04322_WSONDIDI_000_013","對了！
 你送來的東西裡有個<Sheet(EventItem,2003312,0)/>，
 不介意的話，能喝喝看嗎？"
-56,"TEXT_AKTKZI007_04322_WSONDIDI_000_014","這是能有效緩解身體疲勞的鍊金藥。
-對於奔走於世界各地的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來說正適合！"
+56,"TEXT_AKTKZI007_04322_WSONDIDI_000_014","這是能有效緩解身體疲勞的煉金藥。
+對於奔走於世界各地的<Highlight>ObjectParameter(1)</Highlight>來說正合適！"
 57,"TEXT_AKTKZI007_04322_WSONDIDI_000_015","來來，不要客氣……
 肯定能將你旅途的疲勞一掃而空的！"
 58,"TEXT_AKTKZI007_04322_WSONDIDI_000_018","就在這裡把<Sheet(EventItem,2003312,0)/>喝了吧！
 肯定能將你旅途的疲勞一掃而空的！"
-59,"TEXT_AKTKZI007_04322_SYSTEM_000_019","離瓦．頌吉吉太遠了。
-請在瓦．頌吉吉附近喝下<Sheet(EventItem,2003312,0)/>。"
+59,"TEXT_AKTKZI007_04322_SYSTEM_000_019","離瓦·頌吉吉太遠了。
+請在瓦·頌吉吉附近喝下<Sheet(EventItem,2003312,0)/>。"
 60,"TEXT_AKTKZI007_04322_SYSTEM_000_020","甘甜的味道讓表情很自然地舒緩了下來……"
 61,"TEXT_AKTKZI007_04322_Q1_000_000","要說什麼？"
 62,"TEXT_AKTKZI007_04322_A1_000_001","甘甜美味！"
@@ -87,7 +87,7 @@ int32,str,str
 65,"TEXT_AKTKZI007_04322_WSONDIDI_000_022","先別管味道，這藥有滋養健體的功效，
 對你的身體有莫大的好處！"
 66,"TEXT_AKTKZI007_04322_WSONDIDI_000_023","對了，為工房幫忙的
-你的同伴古．拉哈也喝過這藥。"
+你的同伴古·拉哈也喝過這藥。"
 67,"TEXT_AKTKZI007_04322_WSONDIDI_000_024","然後他感嘆道，
 這裡的營養劑是不是都像蜜一樣甜……
 也不知道他以前喝的都是些什麼東西？"
@@ -97,8 +97,8 @@ int32,str,str
 69,"TEXT_AKTKZI007_04322_WSONDIDI_000_028","請到維伊爾塞姆那邊多領一些報酬吧。
 今後我也會繼續為你加油的！"
 70,"TEXT_AKTKZI007_04322_CWEILSAEM_000_030","哦哦，你幫我送到了啊。
-瓦．頌吉吉最近一直在工作，肯定很疲勞，
-所以我才讓你幫忙送去了鍊金藥。"
+瓦·頌吉吉最近一直在工作，肯定很疲勞，
+所以我才讓你幫忙送去了煉金藥。"
 71,"TEXT_AKTKZI007_04322_CWEILSAEM_100_030","話說你一臉輕鬆愉悅的表情，發生什麼事了？"
 72,"TEXT_AKTKZI007_04322_CWEILSAEM_200_030","話說你的臉色看起來不太好啊，發生什麼事了？"
 73,"TEXT_AKTKZI007_04322_CWEILSAEM_000_031","什麼？你把金色糖漿給喝了？！

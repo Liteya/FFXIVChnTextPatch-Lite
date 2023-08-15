@@ -12,13 +12,13 @@ int32,str,str
 星星是這樣的美麗啊。"
 4,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_021","好了……歡迎你來到水晶都。
 你有什麼想要知道的事情嗎？"
-5,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_030","當我聽說遊末邦軍駐留在雷克蘭德的時候，
+5,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_030","當我聽說游末邦軍駐留在雷克蘭德的時候，
 還以為會發生什麼事情呢，還好沒出大事，
 總算暫且是能放心了。"
 6,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_031","好了……歡迎你來到水晶都。
 你有什麼想要知道的事情嗎？"
 7,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_040","關於食罪靈的大軍襲擊了過來一事，
-我想就算是食罪靈應該也沒辦法突破防衛機關……
+我想就算是食罪靈應該也沒法突破防衛機關……
 越是這種時候越應該冷靜行動才對。"
 8,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_041","好了……歡迎你來到水晶都。
 你有什麼想要知道的事情嗎？"
@@ -28,7 +28,7 @@ int32,str,str
 10,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_051","好了……歡迎你來到水晶都。
 你有什麼想要知道的事情嗎？"
 11,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_060","天空再次被光芒所覆蓋。
-難道沒辦法再次看到那美麗的星空了嗎？"
+難道沒法再次看到那美麗的星空了嗎？"
 12,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_061","好了……歡迎你來到水晶都。
 你有什麼想要知道的事情嗎？"
 13,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_070","水晶公已然不在的現在正是我們齊心協力之時……
@@ -42,7 +42,7 @@ int32,str,str
 16,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_090","這不是暗之戰士閣下嗎！
 歡迎回到水晶都！
 你有什麼想要知道的事情嗎？"
-17,"TEXT_REGNOR4THECRYSTARIUM_00606_Q1_000_000","想瞭解什麼？"
+17,"TEXT_REGNOR4THECRYSTARIUM_00606_Q1_000_000","想了解什麼？"
 18,"TEXT_REGNOR4THECRYSTARIUM_00606_A1_000_001","你是做什麼的？"
 19,"TEXT_REGNOR4THECRYSTARIUM_00606_A1_000_002","這裡是什麼地方？"
 20,"TEXT_REGNOR4THECRYSTARIUM_00606_A1_000_003","取消"
@@ -53,9 +53,9 @@ int32,str,str
 如果你有什麼想要知道的事情，請隨時來問我。"
 23,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_200","這裡是水晶都，
 以水晶公召喚出來的巨塔「水晶塔」為中心建設的都市。"
-24,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_201","光之氾濫後失去了故鄉的人們聚集在一起，
+24,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_201","光之泛濫後失去了故鄉的人們聚集在一起，
 為了逃避食罪靈的襲擊安全地生活下去，而建設了這裡。
 因此，這裡又被稱為「人類最後的反抗都市」。"
 25,"TEXT_REGNOR4THECRYSTARIUM_00606_BETHARD_000_202","過去這裡曾被稱為「人類最後的反抗都市」，
 現在食罪靈的威脅已然不在，這座都市也開始發生了變化。
-今後應該稱為「世界再生的據點」比較適合吧。"
+今後應該稱為「世界再生的據點」比較合適吧。"

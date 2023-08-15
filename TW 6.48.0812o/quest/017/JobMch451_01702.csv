@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMCH451_01702_SEQ_00","天鋼機工房的斯特凡尼維安有事想要拜託冒險者。"
-1,"TEXT_JOBMCH451_01702_SEQ_01","為了出發去進行演習，斯特凡尼維安委託冒險者催促在進行工作的喬伊。和伊修加爾德寶杖大街的喬伊談談。"
+1,"TEXT_JOBMCH451_01702_SEQ_01","為了出發去進行演習，斯特凡尼維安委託冒險者催促在進行工作的喬伊。和伊修加德寶杖大街的喬伊談談。"
 2,"TEXT_JOBMCH451_01702_SEQ_02","和喬伊進行了交談，看來她的工作還沒有結束。為了悄悄幫助喬伊，搬起寶杖大街的<Sheet(EObj,2006262,0)/>。"
-3,"TEXT_JOBMCH451_01702_SEQ_03","悄悄搬起了<Sheet(EObj,2006262,0)/>。將<Sheet(EObj,2006262,0)/>交給伊修加爾德艾因哈特伯爵府前的喬伊。"
+3,"TEXT_JOBMCH451_01702_SEQ_03","悄悄搬起了<Sheet(EObj,2006262,0)/>。將<Sheet(EObj,2006262,0)/>交給伊修加德艾因哈特伯爵府前的喬伊。"
 4,"TEXT_JOBMCH451_01702_SEQ_04","悄悄幫喬伊搬東西，令喬伊的工作完成了。和東拉諾西亞鮮血濱的斯特凡尼維安談談。"
 5,"TEXT_JOBMCH451_01702_SEQ_05","和斯特凡尼維安進行交談，完成了演習。和天鋼機工房的斯特凡尼維安談談。"
 6,"TEXT_JOBMCH451_01702_SEQ_06","和斯特凡尼維安進行了交談。努力訓練，彌補喬伊士氣低下帶來的損失。
@@ -55,7 +55,7 @@ int32,str,str
 抱歉，能請你去找找喬伊催她一下嗎，她應該在砥柱層的某處。"
 49,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_009","為了能在模擬戰上好好發揮，一定得認真進行演習才行。
 畢竟模擬戰上制勝的關鍵就在你身上。"
-50,"TEXT_JOBMCH451_01702_JOYE_000_010","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人。
+50,"TEXT_JOBMCH451_01702_JOYE_000_010","啊，<Highlight>ObjectParameter(1)</Highlight>大人。
 已經準備好出發了嗎？
 喬伊也是把這些貨物搬回伯爵府就可以出發了。"
 51,"TEXT_JOBMCH451_01702_JOYE_000_011","喬伊如果想將機工士的訓練繼續下去，
@@ -67,28 +67,28 @@ int32,str,str
 53,"TEXT_JOBMCH451_01702_Q1_000_000","要做什麼？"
 54,"TEXT_JOBMCH451_01702_A1_000_001","提出要幫忙"
 55,"TEXT_JOBMCH451_01702_A1_000_002","悄悄幫忙"
-56,"TEXT_JOBMCH451_01702_JOYE_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人真是好人。
+56,"TEXT_JOBMCH451_01702_JOYE_000_013","<Highlight>ObjectParameter(1)</Highlight>大人真是好人。
 那就請幫喬伊在這裡看一下貨物吧。
 喬伊先將一部分搬到宅子去！"
-57,"TEXT_JOBMCH451_01702_JOYE_000_014"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，請幫喬伊看一下貨物，
+57,"TEXT_JOBMCH451_01702_JOYE_000_014","<Highlight>ObjectParameter(1)</Highlight>大人，請幫喬伊看一下貨物，
 喬伊先將一部分搬到宅子去！"
 58,"TEXT_JOBMCH451_01702_BAURENDOUIN_000_019","啊，你將喬伊一個人搬不了的貨物搬過來了？"
-59,"TEXT_JOBMCH451_01702_JOYE_000_019"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人沒有幫喬伊看著貨物嗎？
+59,"TEXT_JOBMCH451_01702_JOYE_000_019","<Highlight>ObjectParameter(1)</Highlight>大人沒有幫喬伊看著貨物嗎？
 得、得、得立刻回去取才行！"
 60,"TEXT_JOBMCH451_01702_BAURENDOUIN_000_020","啊，你將喬伊一個人搬不了的貨物搬過來了？
 這下喬伊的工作就結束了，帶她到工房去吧。"
-61,"TEXT_JOBMCH451_01702_JOYE_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，謝謝你一直以來的幫助。
+61,"TEXT_JOBMCH451_01702_JOYE_000_030","<Highlight>ObjectParameter(1)</Highlight>大人，謝謝你一直以來的幫助。
 不光是搬運貨物這些事，喬伊也非常感謝你一直在全力幫助少爺。"
 62,"TEXT_JOBMCH451_01702_JOYE_000_031","老爺非常反對喬伊成為機工士，
 但卻沒有將喬伊趕走。
 因為老爺知道喬伊的父親身體不方便，只有喬伊能出來幹活。"
 63,"TEXT_JOBMCH451_01702_JOYE_000_032","喬伊對老爺非常感激，
 所以喬伊每次進行機工士訓練的時候，都會覺得很對不起老爺。"
-64,"TEXT_JOBMCH451_01702_JOYE_000_033","有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人作為機工士支撐著少爺的話，
+64,"TEXT_JOBMCH451_01702_JOYE_000_033","有<Highlight>ObjectParameter(1)</Highlight>大人作為機工士支撐著少爺的話，
 也許就不再需要喬伊拿起槍了……"
 65,"TEXT_JOBMCH451_01702_Q2_000_000","要跟她說什麼？"
 66,"TEXT_JOBMCH451_01702_A2_000_001","在模擬戰中取得勝利就是對博朗杜安的報恩"
-67,"TEXT_JOBMCH451_01702_A2_000_002","…………。"
+67,"TEXT_JOBMCH451_01702_A2_000_002","……"
 68,"TEXT_JOBMCH451_01702_JOYE_000_034","你說得對。
 我們去東拉諾西亞的鮮血濱吧。
 喬伊得加油才行！"
@@ -98,7 +98,7 @@ int32,str,str
 70,"TEXT_JOBMCH451_01702_JOYE_000_036","啊，拖得有點久了。
 快點前往東拉諾西亞的鮮血濱吧。"
 71,"TEXT_JOBMCH451_01702_BAURENDOUIN_000_021","（★未使用／削除予定★）"
-72,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_040","你來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+72,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_040","你來啦，<Highlight>ObjectParameter(1)</Highlight>。
 那我就開始進行演習的說明了。
 這次演習的目的是熟悉與騎士戰鬥的方法。"
 73,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_041","騎士只要不近身，就無法對機工士出手。
@@ -107,29 +107,29 @@ int32,str,str
 請將湧向它的魔物們當做衝鋒過來的騎士，
 進行迎擊戰的訓練。"
 75,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_044","放置在我方陣地的<Sheet(EObj,2006265,0)/>如果被破壞了就算失敗。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請找出最為有效的戰法，給喬伊好好示範一下吧！"
+<Highlight>ObjectParameter(1)</Highlight>，請找出最為有效的戰法，給喬伊好好示範一下吧！"
 76,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_045","（★未使用／削除予定★）"
 77,"TEXT_JOBMCH451_01702_QIB_001_TODO_1","保護大誘餌箱！"
 78,"TEXT_JOBMCH451_01702_QIB_001_TODO_2","打倒深海莫高海蛇！"
 79,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_01","在敵人到達<Sheet(EObj,2006265,0)/>前將它們全部殲滅！"
 80,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_02","又來了！不要鬆懈，繼續迎擊！"
-81,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_03","使用車式浮空炮塔減少敵人的數量！
+81,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_03","使用車式浮空砲塔減少敵人的數量！
 "
 82,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_04","這附近的魔物已經傾巢而出了！"
 83,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_05","很好，幹得漂亮！
 演習就到此結……"
 84,"TEXT_JOBMCH451_01702_QIB_001_STEPHANIVIEN_BATTLETALK_01","教官請稍等……那是什麼？！"
 85,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_06","看來有大傢伙被魔物的血吸引過來了！
-正好，擊敗它為演習畫上句號吧！"
+正好，擊敗它為演習劃上句號吧！"
 86,"TEXT_JOBMCH451_01702_QIB_001_JOYE_BATTLETALK_01","射……還沒有射夠呢……"
 87,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_07","這個樣子可贏不了模擬戰。"
 88,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_050","雖然被魔物突然闖過來嚇了一跳，但二位的表現都非常出色。
 也多虧了二位，我的測量器中又跳出了新的作戰計劃。"
 89,"TEXT_JOBMCH451_01702_JOYE_000_051","少、少爺……喬伊想說，
-有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人在的話，
+有<Highlight>ObjectParameter(1)</Highlight>大人在的話，
 模擬戰就不需要喬伊參加了吧？"
 90,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_052","還在在意自己的身份嗎？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和喬伊都是不可或缺的。"
+<Highlight>ObjectParameter(1)</Highlight>和喬伊都是不可或缺的。"
 91,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_053","就是要讓他們看看，
 不善於戰鬥的平民是如何讓騎士連接近都做不到就被擊潰，
 讓教皇廳改變想法。這將成為顛覆陳舊傳統的突破口。"
@@ -138,7 +138,7 @@ int32,str,str
 那喬伊也必須全力以赴才行……"
 93,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_055","拜託你了。
 好了，我們回工房吧。"
-94,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這次真是辛苦你了。
+94,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_060","<Highlight>ObjectParameter(1)</Highlight>，這次真是辛苦你了。
 喬伊的士氣下降很令人擔心，
 希望她拔出槍來後能把那些煩心事都忘記吧……"
 95,"TEXT_JOBMCH451_01702_SYSTEM_000_061","（★未使用／削除予定★）"

@@ -49,8 +49,8 @@ int32,str,str
 45,"TEXT_AKTKYR106_04175_TODO_21",""
 46,"TEXT_AKTKYR106_04175_TODO_22",""
 47,"TEXT_AKTKYR106_04175_TODO_23",""
-48,"TEXT_AKTKYR106_04175_OFPILONA_000_000","哦哦！你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
-我已經從羅薇娜大人那裡瞭解過你的事了。
+48,"TEXT_AKTKYR106_04175_OFPILONA_000_000","哦哦！你是<Highlight>ObjectParameter(1)</Highlight>吧？
+我已經從羅薇娜大人那裡了解過你的事了。
 聽說你是個超一流的工匠啊！"
 49,"TEXT_AKTKYR106_04175_OFPILONA_000_001","我叫奧弗皮隆娜，
 是羅薇娜商會拉札罕分店的分店長。

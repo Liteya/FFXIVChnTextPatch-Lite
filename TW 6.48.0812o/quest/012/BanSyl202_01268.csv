@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSYL202_01268_SEQ_00","妖精暫留地的頗妮希亞想要尋求乳根的極致調味。"
-1,"TEXT_BANSYL202_01268_SEQ_01","接受了頗妮希亞的委託。討伐妖精領的<Sheet(BNpcName,164,0)/>或<Sheet(BNpcName,68,0)/>，獲得4份<Sheet(EventItem,2001121,0)/>。"
+1,"TEXT_BANSYL202_01268_SEQ_01","接受了頗妮希亞的委託。討伐妖精領的<Sheet(BNpcName,164,0)/>或<Sheet(BNpcName,68,0)/>，獲取4份<Sheet(EventItem,2001121,0)/>。"
 2,"TEXT_BANSYL202_01268_SEQ_02","獲得了<Sheet(EventItem,2001121,0)/>。向頗妮希亞報告。"
 3,"TEXT_BANSYL202_01268_SEQ_03","完成了頗妮希亞的委託。他說塗上了<Sheet(EventItem,2001121,0)/>的乳根讓他心情大好，迫不及待地想要去教訓壞妖精。下次有機會再協助他。"
 4,"TEXT_BANSYL202_01268_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANSYL202_01268_SEQ_21",""
 22,"TEXT_BANSYL202_01268_SEQ_22",""
 23,"TEXT_BANSYL202_01268_SEQ_23",""
-24,"TEXT_BANSYL202_01268_TODO_00","討伐<Sheet(BNpcName,164,0)/>或<Sheet(BNpcName,68,0)/> 獲得蟾蜍油"
+24,"TEXT_BANSYL202_01268_TODO_00","討伐<Sheet(BNpcName,164,0)/>或<Sheet(BNpcName,68,0)/> 獲取蟾蜍油"
 25,"TEXT_BANSYL202_01268_TODO_01","向頗妮希亞報告"
 26,"TEXT_BANSYL202_01268_TODO_02",""
 27,"TEXT_BANSYL202_01268_TODO_03",""

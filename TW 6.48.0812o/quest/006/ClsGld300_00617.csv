@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSGLD300_00617_TODO_21",""
 46,"TEXT_CLSGLD300_00617_TODO_22",""
 47,"TEXT_CLSGLD300_00617_TODO_23",""
-48,"TEXT_CLSGLD300_00617_SERENDIPITY_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_CLSGLD300_00617_SERENDIPITY_000_1","<Highlight>ObjectParameter(1)</Highlight>！
 你來得正好！
 發生了件了不得的事啊。"
 49,"TEXT_CLSGLD300_00617_SERENDIPITY_000_2","之前雖然修理了涅吉的故障，
@@ -64,16 +64,16 @@ int32,str,str
 雖然我能理解那是他對「美」的執著……"
 52,"TEXT_CLSGLD300_00617_SERENDIPITY_000_5","可是……那也不能辱罵來到公會的客人啊！
 這全都怪我這個公會會長管教不嚴……"
-53,"TEXT_CLSGLD300_00617_SERENDIPITY_000_7"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你。
-我們一定要向那位被涅吉辱罵了的委託人謝罪，
+53,"TEXT_CLSGLD300_00617_SERENDIPITY_000_7","<Highlight>ObjectParameter(1)</Highlight>，拜託你。
+我們必須要向那位被涅吉辱罵了的委託人謝罪，
 彌補我們的過錯。"
 54,"TEXT_CLSGLD300_00617_SERENDIPITY_000_8","他是來訂購<Sheet(ItemHQ,4218,0)/>的。
-為了表示歉意，要盡可能提供高品質的耳墜……
+為了表示歉意，要盡可能提供優質的耳墜……
 所以請你製作最高級的<Sheet(ItemHQ,4218,0)/>。"
-55,"TEXT_CLSGLD300_00617_SERENDIPITY_000_9","畢竟你上次製作出了那種高品質<Sheet(ItemHQ,5064,0)/>，
+55,"TEXT_CLSGLD300_00617_SERENDIPITY_000_9","畢竟你上次製作出了那種優質<Sheet(ItemHQ,5064,0)/>，
 一定可以勝任這份工作的。
 所以，就拜託你了！"
-56,"TEXT_CLSGLD300_00617_SERENDIPITY_000_10"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+56,"TEXT_CLSGLD300_00617_SERENDIPITY_000_10","<Highlight>ObjectParameter(1)</Highlight>！
 你做出<Sheet(ItemHQ,4218,0)/>了嗎？"
 57,"TEXT_CLSGLD300_00617_SERENDIPITY_000_11","孔雀石是一種擁有獨特花紋的深綠色礦石。
 它的花紋類似一種棲息在東方名為「孔雀」的鳥的羽毛，
@@ -90,7 +90,7 @@ int32,str,str
 委託人現在在紅玉大路國際市場，叫羅羅特恩。"
 62,"TEXT_CLSGLD300_00617_SERENDIPITY_000_16","很抱歉總是麻煩你，
 還請將<Sheet(ItemHQ,4218,0)/>給他送過去。"
-63,"TEXT_CLSGLD300_00617_ROROTON_000_17","唉……真是好倒楣。
+63,"TEXT_CLSGLD300_00617_ROROTON_000_17","唉……真是好倒霉。
 我只不過是想要訂購耳墜而已嘛……"
 64,"TEXT_CLSGLD300_00617_ROROTON_000_18","你、你、你有什麼事？你是雕金匠公會的人？
 哦，如果是剛剛魔法人偶那件事的話，就不必……"
@@ -105,9 +105,9 @@ int32,str,str
 68,"TEXT_CLSGLD300_00617_ROROTON_000_22","天啊！
 這一定是命運！"
 69,"TEXT_CLSGLD300_00617_ROROTON_000_23","真是抱歉。我叫羅羅特恩，是個流浪寶石商人。
-我為了尋求絕佳的飾品，遊走於整個艾奧傑亞。"
+我為了尋求絕佳的飾品，游走於整個艾歐澤亞。"
 70,"TEXT_CLSGLD300_00617_ROROTON_000_24","同時，我為了尋找手藝高超的雕金匠，
-長期在艾奧傑亞各地闖蕩。"
+長期在艾歐澤亞各地闖蕩。"
 71,"TEXT_CLSGLD300_00617_ROROTON_000_25","然後今天……終於見到了……
 啊，對，就是你！"
 72,"TEXT_CLSGLD300_00617_ROROTON_000_26","請務必讓我這名寶石商人，經營出自你手的雕金製品。
@@ -116,16 +116,16 @@ int32,str,str
 我得感謝那個辱罵我的魔法人偶！"
 74,"TEXT_CLSGLD300_00617_ROROTON_000_28","對了，這是我的名片！
 那麼，我就敬候佳音了！"
-75,"TEXT_CLSGLD300_00617_SERENDIPITY_000_29"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來啦！
+75,"TEXT_CLSGLD300_00617_SERENDIPITY_000_29","<Highlight>ObjectParameter(1)</Highlight>，你回來啦！
 我也終於把涅吉修好了。
 不過好奇怪啊，沒發現有什麼問題……"
 76,"TEXT_CLSGLD300_00617_SERENDIPITY_000_30","先不說這些，你那邊情況怎麼樣？
 羅羅特恩接受耳墜了嗎？"
-77,"TEXT_CLSGLD300_00617_SERENDIPITY_000_31","好棒，這不是很厲害嘛！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+77,"TEXT_CLSGLD300_00617_SERENDIPITY_000_31","好棒，這不是很厲害嘛！<Highlight>ObjectParameter(1)</Highlight>！"
 78,"TEXT_CLSGLD300_00617_SERENDIPITY_000_32","涅吉果然沒有看錯！
-我就覺得 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你將來一定會成為一名出色的雕金匠的！"
+我就覺得<Highlight>ObjectParameter(1)</Highlight>你將來一定會成為一名出色的雕金匠的！"
 79,"TEXT_CLSGLD300_00617_SERENDIPITY_000_34","我一直堅信來著！
-因為從 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的作品裡，
+因為從<Highlight>ObjectParameter(1)</Highlight>的作品裡，
 我感受到了一種震撼心靈的神奇魅力。"
 80,"TEXT_CLSGLD300_00617_SERENDIPITY_000_35","那是蘊藏在雕金技藝中的力量，是無法用金錢買到的，
 是熱愛藝術的豐富內心……我覺得那是非常了不起的！"

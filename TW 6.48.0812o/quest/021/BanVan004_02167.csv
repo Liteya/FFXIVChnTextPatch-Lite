@@ -9,7 +9,7 @@ int32,str,str
 前情回顧：
 冒險者按照利努瓦利的方案，成功救出了她在溫杜屬本杜集落的青梅竹馬，並順利讓其成為了村民。同時，利努瓦利從冒險者的舞蹈中獲得了勇氣，成功跳出了示威用的太陽之舞，順利將袞杜族的巡邏兵趕走了。
 　　　　　　　　　　　　*　*　*
-據利努瓦利所說，溫杜族將她哥哥轉移至了曲石祭壇的籠子裡。這是救出她哥哥的好機會。前往阿巴拉提亞雲海的曲石祭壇，與利努瓦利會合。"
+據利努瓦利所說，溫杜族將她哥哥轉移至了曲石祭壇的籠子裡。這是救出她哥哥的好機會。前往阿巴拉提亞雲海的曲石祭壇，與利努瓦利匯合。"
 2,"TEXT_BANVAN004_02167_SEQ_02","討伐了圍住利努瓦利的溫杜族的雜兵。和曲石祭壇的利努瓦利談談。"
 3,"TEXT_BANVAN004_02167_SEQ_03","和利努瓦利進行了交談。看來利努瓦努的處刑是為了引出利努瓦利的陷阱。將逃脫用的<Sheet(EventItem,2001902,0)/>交給被關在曲石祭壇籠子裡的利努瓦努。"
 4,"TEXT_BANVAN004_02167_SEQ_04","將<Sheet(EventItem,2001902,0)/>交給了利努瓦努，他呼喚出了騰雲蛇成功從籠中逃脫。利努瓦努為了救出再次被溫杜族的雜兵包圍的妹妹而趕了過去。兄妹二人跳了支心有靈犀的太陽之舞，成功趕走了溫杜族的雜兵。利努瓦努為和長老索努瓦努打招呼而前往了尊杜集落。前往阿巴拉提亞雲海的尊杜集落，和索努瓦努談談。"
@@ -32,7 +32,7 @@ int32,str,str
 21,"TEXT_BANVAN004_02167_SEQ_21",""
 22,"TEXT_BANVAN004_02167_SEQ_22",""
 23,"TEXT_BANVAN004_02167_SEQ_23",""
-24,"TEXT_BANVAN004_02167_TODO_00","和曲石祭壇的利努瓦利會合"
+24,"TEXT_BANVAN004_02167_TODO_00","和曲石祭壇的利努瓦利匯合"
 25,"TEXT_BANVAN004_02167_TODO_01","和曲石祭壇的利努瓦利對話"
 26,"TEXT_BANVAN004_02167_TODO_02","將<Sheet(EventItem,2001902,0)/>交給利努瓦努"
 27,"TEXT_BANVAN004_02167_TODO_03","和索努瓦努對話"
@@ -56,7 +56,7 @@ int32,str,str
 45,"TEXT_BANVAN004_02167_TODO_21",""
 46,"TEXT_BANVAN004_02167_TODO_22",""
 47,"TEXT_BANVAN004_02167_TODO_23",""
-48,"TEXT_BANVAN004_02167_LINUVALI_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_BANVAN004_02167_LINUVALI_000_000","<Highlight>ObjectParameter(1)</Highlight>、<Highlight>ObjectParameter(1)</Highlight>！
 救出我哥哥利努瓦努的絕佳機會終於到了！
 豁達的尊杜族的人告訴了我一個重要的情報！"
 49,"TEXT_BANVAN004_02167_LINUVALI_000_001","說是溫杜族為了對我哥哥施加風吹雨打之酷刑，
@@ -74,8 +74,8 @@ int32,str,str
 能夠獲救都是多虧了你……謝謝、謝謝。"
 56,"TEXT_BANVAN004_02167_LINUVALI_000_012","哥哥好像就在下面的牢籠裡，
 只是，不管我多麼苗條，
-這個不可靠的牢籠也承載不了兩個瓦努族的重量……"
-57,"TEXT_BANVAN004_02167_LINUVALI_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託了。
+這個不靠譜的牢籠也承載不了兩個瓦努族的重量……"
+57,"TEXT_BANVAN004_02167_LINUVALI_000_013","<Highlight>ObjectParameter(1)</Highlight>，拜託了。
 請將這個<Sheet(EventItem,2001902,0)/>
 交給籠中的利努瓦努。"
 58,"TEXT_BANVAN004_02167_LINUVALI_000_014","這樣的話，哥哥就能騎著騰雲蛇逃離那個籠子了。
@@ -91,7 +91,7 @@ int32,str,str
 ……你有東西要交給我？"
 62,"TEXT_BANVAN004_02167_LINUVANU_000_032","……哦哦，這個角笛是……
 有了這個角笛，我就能喚出我的騰雲蛇了！
-我這就、我這就跟我妹妹會合去！"
+我這就、我這就跟我妹妹匯合去！"
 63,"TEXT_BANVAN004_02167_LINUVANU_000_040","利努瓦利，你沒事吧！"
 64,"TEXT_BANVAN004_02167_LINUVALI_000_041","……哥哥！"
 65,"TEXT_BANVAN004_02167_LINUVANU_100_040","該死……溫杜族的雜兵已經趕到了啊！"
@@ -105,7 +105,7 @@ int32,str,str
 69,"TEXT_BANVAN004_02167_LINUVANU_000_045","妹妹啊、妹妹啊，看到你平安無事我就放心了。
 你至今都藏在了哪裡啊？
 竟然沒有被冷酷的溫杜族發現。"
-70,"TEXT_BANVAN004_02167_LINUVALI_000_046","都是、都是多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+70,"TEXT_BANVAN004_02167_LINUVALI_000_046","都是、都是多虧了<Highlight>ObjectParameter(1)</Highlight>。
 是<If(PlayerParameter(4))>她<Else/>他</If>為我們與豁達的尊杜族牽線搭橋，
 我們最終獲得了一座小小的浮島。"
 71,"TEXT_BANVAN004_02167_LINUVANU_000_047","原來如此、原來如此，尊杜族的領地的話，
@@ -150,7 +150,7 @@ int32,str,str
 群雲利努瓦努簡直和已逝的烏努瓦努一模一樣呢。"
 88,"TEXT_BANVAN004_02167_SANUVANU_000_071","群雲利努瓦努……
 真是、真是個無禮的男人！"
-89,"TEXT_BANVAN004_02167_LINUVALI_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+89,"TEXT_BANVAN004_02167_LINUVALI_000_080","<Highlight>ObjectParameter(1)</Highlight>！
 多虧了你，哥哥才順利當上了村落的長老，
 這下納基袞杜集落也算是一個有模有樣的村子了。"
 90,"TEXT_BANVAN004_02167_LINUVALI_000_081","……呼，這下我終於能從重壓中解放出來了。
@@ -158,11 +158,11 @@ int32,str,str
 比如每天磨磨爪子和喙，然後再整理整理羽毛……"
 91,"TEXT_BANVAN004_02167_LINUVALI_000_082","可哥哥不喜歡尊杜族的這件事，
 讓我、讓我很是在意。"
-92,"TEXT_BANVAN004_02167_LINUVALI_000_083","我應該，其他人也都對豁達的尊杜族
+92,"TEXT_BANVAN004_02167_LINUVALI_000_083","我估計，其他人也都對豁達的尊杜族
 不反抗冷酷的溫杜族這件事抱有不滿吧。"
 93,"TEXT_BANVAN004_02167_LINUVALI_000_084","雖然我能理解他們的心情，
 不過我們能夠再建袞杜的家園，
-也都是多虧了繳納貢品保持獨立的尊杜族啊！"
+也都是多虧了交納貢品保持獨立的尊杜族啊！"
 94,"TEXT_BANVAN004_02167_LINUVALI_000_085","雖然哥哥回來了我很開心，
 可我不想因為哥哥而搞壞了兩氏族之間的關係……"
 95,"TEXT_BANVAN004_02167_LINUVALI_000_086","所以，我決定成為兩氏族友好建交的橋樑。

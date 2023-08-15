@@ -49,11 +49,11 @@ int32,str,str
 45,"TEXT_AKTKME114_04432_TODO_21",""
 46,"TEXT_AKTKME114_04432_TODO_22",""
 47,"TEXT_AKTKME114_04432_TODO_23",""
-48,"TEXT_AKTKME114_04432_VENAS_000_000","為了弄清楚荷米斯的想法，
+48,"TEXT_AKTKME114_04432_VENAS_000_000","為了弄清楚赫爾墨斯的想法，
 我們去他送走梅蒂恩的那座浮島看看吧。"
 49,"TEXT_AKTKME114_04432_VENAS_000_001","伽勒涅說她是在這座島東南方向的邊緣處看到那副景象的。"
 50,"TEXT_AKTKME114_04432_VENAS_000_002","我們先找到她當時的所在地，
-確認一下她看到的是哪座島吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+確認一下她看到的是哪座島吧，<Highlight>ObjectParameter(1)</Highlight>。"
 51,"TEXT_AKTKME114_04432_VENAS_000_010","這座島東南方向的邊緣，就是這一帶了吧。
 從這裡能看到的浮島……"
 52,"TEXT_AKTKME114_04432_VENAS_000_011","是那一座嗎？"
@@ -63,7 +63,7 @@ int32,str,str
 55,"TEXT_AKTKME114_04432_VENAS_000_014","阿爾戈斯，過來！"
 56,"TEXT_AKTKME114_04432_VENAS_000_015","阿爾戈斯，能拜託你製造分身，
 將我們兩個送到對面那座浮島上嗎？"
-57,"TEXT_AKTKME114_04432_ARGOS_000_016","…………。"
+57,"TEXT_AKTKME114_04432_ARGOS_000_016","……"
 58,"TEXT_AKTKME114_04432_VENAS_000_017","哎呀，這孩子……
 它和我一起四處旅行，是個非常值得信賴的搭檔，
 但是它對陌生人的態度非常冷漠……"
@@ -73,7 +73,7 @@ int32,str,str
 你在你那個時代，騎過阿爾戈斯？"
 61,"TEXT_AKTKME114_04432_VENAS_000_020","啊……是這樣啊……
 確實，那種可能性也不是沒有……"
-62,"TEXT_AKTKME114_04432_VENAS_000_021","這樣吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+62,"TEXT_AKTKME114_04432_VENAS_000_021","這樣吧，<Highlight>ObjectParameter(1)</Highlight>，
 我們來稍微比試一下怎麼樣？"
 63,"TEXT_AKTKME114_04432_VENAS_000_022","阿爾戈斯非常聰明，
 如果你能和我打得有來有回，
@@ -102,7 +102,7 @@ int32,str,str
 需要任意戰鬥職業達到87級以上，
 且當前職業為戰鬥菁英或者魔法導師。"
 78,"TEXT_AKTKME114_04432_VENAS_000_060","現在我們可以從空中過去了。
-荷米斯送走梅蒂恩的浮島……
+赫爾墨斯送走梅蒂恩的浮島……
 不知能否在那裡對他的想法一窺究竟。"
 79,"TEXT_AKTKME114_04432_VENAS_000_061","希望他並沒有在期盼著末日降臨……
 那樣的話我們就能借用他的智慧，

@@ -54,14 +54,14 @@ int32,str,str
 49,"TEXT_CLSROG001_00101_LONWOERD_000_010","這裡是雪絨花商會的倉庫，
 非工作人員，禁止入內……"
 50,"TEXT_CLSROG001_00101_LONWOERD_000_011","……咦，等等……
-看你的著裝……莫非是 <Highlight>ObjectParameter(1)</Highlight> ？"
+看你的著裝……莫非是<Highlight>ObjectParameter(1)</Highlight>？"
 51,"TEXT_CLSROG001_00101_LONWOERD_100_011","……咦，等等……
 看你的著裝……不像是單純的運貨人，
-莫非是 <Highlight>ObjectParameter(1)</Highlight> ？"
+莫非是<Highlight>ObjectParameter(1)</Highlight>？"
 52,"TEXT_CLSROG001_00101_LONWOERD_000_020","果真是這樣麼？
 我說怎麼感覺渾身散發著霸氣，不愧是討伐蠻神的勇者！"
 53,"TEXT_CLSROG001_00101_LONWOERD_000_021","其實你早就知道我們了，
-還記得討伐了蠻神利維坦後，提督說起的那個地下組織嗎？"
+還記得討伐了蠻神利維亞桑後，提督說起的那個地下組織嗎？"
 54,"TEXT_CLSROG001_00101_LONWOERD_000_022","沒錯，這裡就是那個地下組織——雙劍師公會的據點。
 畢竟是地下組織，所以對外稱這裡是雪絨花商會的倉庫。"
 55,"TEXT_CLSROG001_00101_LONWOERD_000_023","……關於你的傳聞我聽過不少。
@@ -78,7 +78,7 @@ int32,str,str
 60,"TEXT_CLSROG001_00101_LONWOERD_000_032","放心，不是叫你去做買賣。
 其實這雪絨花商會的倉庫只是偽裝……
 我們真正的身份則是雙劍師公會。"
-61,"TEXT_CLSROG001_00101_LONWOERD_000_033","我們雙劍師公會是利姆薩．羅敏薩不為人知的武裝組織，
+61,"TEXT_CLSROG001_00101_LONWOERD_000_033","我們雙劍師公會是利姆薩·羅敏薩不為人知的武裝組織，
 專門處理棘手工作……
 所以我們不能公開招募新人，但對優秀的人才還是很有興趣的。"
 62,"TEXT_CLSROG001_00101_LONWOERD_000_034","你願意成為隱蹤匿跡、手握短劍討伐敵人的雙劍師，

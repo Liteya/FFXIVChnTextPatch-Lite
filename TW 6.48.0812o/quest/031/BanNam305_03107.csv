@@ -57,7 +57,7 @@ int32,str,str
 他們懶惰而又容易厭倦，
 讓他們連續7年參加祭禮簡直難比登天啊。"
 49,"TEXT_BANNAM305_03107_KOFUINSEIGETSU_000_001","但是！如果有充滿魅力的禮品的話情況就不同了！
-因此，這裡就輪到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你出場了。
+因此，這裡就輪到<Highlight>ObjectParameter(1)</Highlight>你出場了。
 請你務必把匠人的能力為我所用。"
 50,"TEXT_BANNAM305_03107_KOFUINSEIGETSU_000_002","詳細情況請你去問太陽湖西北湖畔的呆呆的鯰魚精吧。
 那就拜託你了。"

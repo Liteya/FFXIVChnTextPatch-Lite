@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000","我認識你，你就是于里昂熱的朋友吧！
+0,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000","我認識你，你就是於里昂熱的朋友吧！
 非常歡迎你來這邊！請慢慢享受吧。
 不管是1天還是2天……不論待到多久都行。"
-1,"TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000","想瞭解什麼？"
+1,"TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000","想了解什麼？"
 2,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_001","你是做什麼的？"
 3,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_002","這裡是什麼地方？"
 4,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_003","取消"
@@ -12,7 +12,7 @@ int32,str,str
 6,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_101","比如在哪裡能找到美味的花蜜，如何能在草船競賽中獲勝，
 還有哪個岩石適合在捉迷藏時藏身……
 可是從外面來的人都只會問我如何才能離開這裡！"
-7,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_102","欸？你問我有沒有告訴他們離開這裡的路？
+7,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_102","誒？你問我有沒有告訴他們離開這裡的路？
 當然了，問過我的事情我可都告訴他們了哦！
 ……至於對不對那就得另說了呢，呵呵呵！"
 8,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_200","這裡是生活在妖靈鄉的仙子族居住的村子——群花館。

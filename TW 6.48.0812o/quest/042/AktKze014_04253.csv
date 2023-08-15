@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_AKTKZE014_04253_SEQ_23",""
 24,"TEXT_AKTKZE014_04253_TODO_00","和嘟嘟噥噥的兔兔族對話"
 25,"TEXT_AKTKZE014_04253_TODO_01","調查亞拉戈艦船殘骸"
-26,"TEXT_AKTKZE014_04253_TODO_02","和嘟嘟噥噥的兔兔族會合 討伐出現的敵人"
+26,"TEXT_AKTKZE014_04253_TODO_02","和嘟嘟噥噥的兔兔族匯合 討伐出現的敵人"
 27,"TEXT_AKTKZE014_04253_TODO_03","和嘟嘟噥噥的兔兔族對話"
 28,"TEXT_AKTKZE014_04253_TODO_04","將<Sheet(EventItem,2003261,0)/>交給嘟嘟噥噥的兔兔族"
 29,"TEXT_AKTKZE014_04253_TODO_05",""
@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_AKTKZE014_04253_TODO_21",""
 46,"TEXT_AKTKZE014_04253_TODO_22",""
 47,"TEXT_AKTKZE014_04253_TODO_23",""
-48,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_000","冒險者…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_000","冒險者……<Highlight>ObjectParameter(1)</Highlight>，
 你喜歡挑戰未知嗎？"
 49,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_001","那麼不出所料的話，
 你一定知道所謂的「亞拉戈」吧？！"
@@ -61,8 +61,8 @@ int32,str,str
 不，應該說不愧是冒險者什麼都知道！"
 54,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_003","其實我正要出發去調查那艘墜落的亞拉戈飛船。
 但那個區域的亞拉戈機器實在太多太危險了，
-我自己的話沒辦法過去……"
-55,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_004","但是，假如 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 能陪著我的話，
+我自己的話沒法過去……"
+55,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_004","但是，假如<Highlight>ObjectParameter(1)</Highlight>能陪著我的話，
 那種破銅爛鐵的襲擊就不足為懼了！
 所以拜託了！你能陪我一起去嗎？"
 56,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_005","謝謝你！
@@ -76,11 +76,11 @@ int32,str,str
 60,"TEXT_AKTKZE014_04253_SYSTEM_000_020","神秘的殘骸散落在地上……
 看起來並沒有帶回去的必要性。"
 61,"TEXT_AKTKZE014_04253_SYSTEM_000_021","亞拉戈系統似乎已經不再運轉了。
-像是可以帶回去給兔兔族的元件。"
+像是可以帶回去給兔兔族的部件。"
 62,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_030","得、得救了！
 要不是你這麼快就把報警蟲處理掉了，
 它可是會喊來一堆援軍的，那可就真是大事不妙了！"
-63,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_031","話說回來，你找到了什麼適合的零件嗎？"
+63,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_031","話說回來，你找到了什麼合適的零件嗎？"
 64,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_032","哇！
 你找到了什麼，能給我看看嗎？"
 65,"TEXT_AKTKZE014_04253_LOPORRIT04253_000_033","不、不對，還是先回去吧。

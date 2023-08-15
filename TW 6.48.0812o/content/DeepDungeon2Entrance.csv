@@ -15,7 +15,7 @@ int32,str,str
 10,"TEXT_DEEPDUNGEON2ENTRANCE_TEST_ENTER_FIXED_Q","確定以「固定隊伍」進入嗎？"
 11,"TEXT_DEEPDUNGEON2ENTRANCE_TEST_ENTER_MATCHING_Q","確定以「隨機組隊」進入嗎？"
 12,"TEXT_DEEPDUNGEON2ENTRANCE_KYUSEI_000_010","……您真的想要一個人前去探索嗎？
-就算是 <Highlight>ObjectParameter(1)</Highlight> 您，
+就算是<Highlight>ObjectParameter(1)</Highlight>您，
 我想也肯定會陷入苦戰，真的沒問題嗎？"
 13,"TEXT_DEEPDUNGEON2ENTRANCE_TEST_ENTER_SOLO","確定要單人進入「天之御柱」？"
 14,"TEXT_DEEPDUNGEON2ENTRANCE_ENTER_WHICH_Q","要從哪層開始進入？"

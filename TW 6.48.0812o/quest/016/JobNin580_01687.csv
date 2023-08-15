@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_JOBNIN580_01687_SEQ_00","碼頭小屋的朧取得了關於國寶的最新情報。"
-1,"TEXT_JOBNIN580_01687_SEQ_01","決定在灰犬家族將寶物運送給伊修加爾德豪商的途中進行奪還。為了進行準備工作，冒險者被委託取得<Sheet(EventItem,2001725,0)/>。前往利姆薩．羅敏薩的西國際商販路，將<Sheet(EventItem,2001800,0)/>交給括括盧恩。"
-2,"TEXT_JOBNIN580_01687_SEQ_02","成功買到<Sheet(EventItem,2001725,0)/>後，發現了來找雪回去的井之國人。雪和赤城被迫藏了起來，冒險者則必須去將灰犬家族使用的冥神香偷換成<Sheet(EventItem,2001725,0)/>。將<Sheet(EventItem,2001725,0)/>放到利姆薩．羅敏薩碼頭的<Sheet(EObj,2005934,0)/>。"
+1,"TEXT_JOBNIN580_01687_SEQ_01","決定在灰犬家族將寶物運送給伊修加德豪商的途中進行奪還。為了進行準備工作，冒險者被委託取得<Sheet(EventItem,2001725,0)/>。前往利姆薩·羅敏薩的西國際商販路，將<Sheet(EventItem,2001800,0)/>交給括括盧恩。"
+2,"TEXT_JOBNIN580_01687_SEQ_02","成功買到<Sheet(EventItem,2001725,0)/>後，發現了來找雪回去的井之國人。雪和赤城被迫藏了起來，冒險者則必須去將灰犬家族使用的冥神香偷換成<Sheet(EventItem,2001725,0)/>。將<Sheet(EventItem,2001725,0)/>放到利姆薩·羅敏薩碼頭的<Sheet(EObj,2005934,0)/>。"
 3,"TEXT_JOBNIN580_01687_SEQ_03","替換成功。在碼頭附近的<Sheet(EObj,2005935,0)/>等待。"
 4,"TEXT_JOBNIN580_01687_SEQ_04","確認了替換是否被識破。接下來就剩下等待<Sheet(EventItem,2001725,0)/>生效，奪回國寶了。前往龍堡參天高地的荒煙野地和雪談談。"
 5,"TEXT_JOBNIN580_01687_SEQ_05","雪會在搬運工沉睡時尋找國寶，冒險者則負責警戒工作。在龍堡參天高地荒煙野地的<Sheet(EObj,2005938,0)/>等待，討伐灰犬家族。"
@@ -51,17 +51,17 @@ int32,str,str
 45,"TEXT_JOBNIN580_01687_TODO_21",""
 46,"TEXT_JOBNIN580_01687_TODO_22",""
 47,"TEXT_JOBNIN580_01687_TODO_23",""
-48,"TEXT_JOBNIN580_01687_YUKI_000_000","要儘快……要儘快取回國寶才行。"
+48,"TEXT_JOBNIN580_01687_YUKI_000_000","要盡快……要盡快取回國寶才行。"
 49,"TEXT_JOBNIN580_01687_AKAGI_000_000","啊——，不用風餐露宿真是太好了！"
-50,"TEXT_JOBNIN580_01687_OBORO_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，情報來了。
+50,"TEXT_JOBNIN580_01687_OBORO_000_000","<Highlight>ObjectParameter(1)</Highlight>，情報來了。
 灰犬家族舉行了掠奪品拍賣會。"
-51,"TEXT_JOBNIN580_01687_OBORO_000_001","我們在追蹤的亂光包被住在伊修加爾德的豪商拍下了，
+51,"TEXT_JOBNIN580_01687_OBORO_000_001","我們在追蹤的亂光包被住在伊修加德的豪商拍下了，
 還要求了灰犬家族必須送貨上門才行。
 多半是小雪公主至今的行動讓買家也怕了。"
 52,"TEXT_JOBNIN580_01687_YUKI_000_002","我們就瞄準這次送貨的途中出手，
 對手是灰犬家族的話反而更好。
 問題就剩下如何突破他們的警戒網了……"
-53,"TEXT_JOBNIN580_01687_OBORO_000_003","說起來，之前 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 有提到過灰犬家族習慣使用冥神香吧。
+53,"TEXT_JOBNIN580_01687_OBORO_000_003","說起來，之前<Highlight>ObjectParameter(1)</Highlight>有提到過灰犬家族習慣使用冥神香吧。
 我們把它換成催人入夢的<Sheet(EventItem,2001725,0)/>如何？"
 54,"TEXT_JOBNIN580_01687_YUKI_000_004","忍者為什麼總是喜歡繞這麼大的圈子……
 這麼幹有些不太光明磊落吧？"
@@ -69,27 +69,27 @@ int32,str,str
 想在保護好自己生命的基礎上奪回國寶的話，
 這個減少戰鬥的方法就是最佳方案了。"
 56,"TEXT_JOBNIN580_01687_OBORO_000_006","灰犬家族是以拉諾西亞為據點進行活動的組織。
-他們一定會前往利姆薩．羅敏薩進行長途旅行的採購準備。
+他們一定會前往利姆薩·羅敏薩進行長途旅行的採購準備。
 我們現在要兵分兩路。"
 57,"TEXT_JOBNIN580_01687_OBORO_000_007","我和赤城閣下去尋找灰犬家族運輸的物資。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和小雪公主去弄到<Sheet(EventItem,2001725,0)/>。"
+<Highlight>ObjectParameter(1)</Highlight>和小雪公主去弄到<Sheet(EventItem,2001725,0)/>。"
 58,"TEXT_JOBNIN580_01687_OBORO_000_009","括括盧恩手裡應該有<Sheet(EventItem,2001725,0)/>。
-他就在利姆薩．羅敏薩的西國際商販路，去找他問問看就可以了。"
-59,"TEXT_JOBNIN580_01687_YUKI_000_010","買東西的話不需要 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫忙！
+他就在利姆薩·羅敏薩的西國際商販路，去找他問問看就可以了。"
+59,"TEXT_JOBNIN580_01687_YUKI_000_010","買東西的話不需要<Highlight>ObjectParameter(1)</Highlight>幫忙！
 我自己去就可以了。"
 60,"TEXT_JOBNIN580_01687_OBORO_000_011","哎呀呀，還真是老樣子呢。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你快去追上她吧。
-錢我已經準備好了，幫你拿去。"
+<Highlight>ObjectParameter(1)</Highlight>，你快去追上她吧。
+錢我已經準備好了，給你拿去。"
 61,"TEXT_JOBNIN580_01687_AKAGI_000_020","真是的，又一個人跑掉了……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，不好意思，公主殿下就拜託了。"
+<Highlight>ObjectParameter(1)</Highlight>閣下，不好意思，公主殿下就拜託了。"
 62,"TEXT_JOBNIN580_01687_OBORO_000_020","你還有身為忍者的任務在身吧？
 快去吧。"
-63,"TEXT_JOBNIN580_01687_YUKI_000_025","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+63,"TEXT_JOBNIN580_01687_YUKI_000_025","啊……<Highlight>ObjectParameter(1)</Highlight>！
 這個……那個……哈哈……"
 64,"TEXT_JOBNIN580_01687_KYOKYOROON_000_050","括括盧恩，非常困擾。
 這位客人，沒有閃閃金幣。"
 65,"TEXT_JOBNIN580_01687_KYOKYOROON_000_051","要和<Sheet(EventItem,2001725,0)/>，進行交換？
-這個這個，薰香能夠，引人入夢。
+這個這個，熏香能夠，引人入夢。
 吸了之後，能睡一天。"
 66,"TEXT_JOBNIN580_01687_YUKI_000_052","我……我身上沒有錢，真是慚愧。
 總、總之準備工作已經完成了吧？！
@@ -113,10 +113,10 @@ int32,str,str
 75,"TEXT_JOBNIN580_01687_OBORO_000_070","灰犬家族將行李都集中在了捕魚人公會附近。
 快趁著採購員還沒回來，把行李中的冥神香調包成<Sheet(EventItem,2001725,0)/>吧。"
 76,"TEXT_JOBNIN580_01687_ZOKUA01687_000_100","採購總算結束了。
-目的地是伊修加爾德吧？
+目的地是伊修加德吧？
 我們要怎麼運過去？"
 77,"TEXT_JOBNIN580_01687_ZOKUB01687_000_101","據說是不走黑衣森林。
-將船開向龍堡內陸低地，從西邊繞到伊修加爾德。"
+將船開向龍堡內陸低地，從西邊繞到伊修加德。"
 78,"TEXT_JOBNIN580_01687_ZOKUA01687_000_102","要穿過龍堡嗎……那可真有點遠。
 我們在荒煙野地那邊休息一下吧。
 在那吸些冥神香的話，應該就能堅持下去了。"
@@ -127,11 +127,11 @@ int32,str,str
 就等他們錯吸<Sheet(EventItem,2001725,0)/>後完蛋了。
 我們快趕去那個叫荒煙野地的地方吧。"
 81,"TEXT_JOBNIN580_01687_OBORO_000_105","龍堡那邊我完全沒去過……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你知道那邊的情況嗎？"
+<Highlight>ObjectParameter(1)</Highlight>，你知道那邊的情況嗎？"
 82,"TEXT_JOBNIN580_01687_OBORO_000_107","原來如此，知道這些就足夠了。
-放心吧，我和小雪公主都是經歷長途旅行抵達艾奧傑亞的，
-早就已經習慣走在陌生的土地上了……我們在那邊會合吧。"
-83,"TEXT_JOBNIN580_01687_YUKI_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來啦！
+放心吧，我和小雪公主都是經歷長途旅行抵達艾歐澤亞的，
+早就已經習慣走在陌生的土地上了……我們在那邊匯合吧。"
+83,"TEXT_JOBNIN580_01687_YUKI_000_150","<Highlight>ObjectParameter(1)</Highlight>，你來啦！
 看，他們全都睡得正香呢！
 看來朧的計策生效了！"
 84,"TEXT_JOBNIN580_01687_YUKI_000_151","不過千萬不能大意。
@@ -140,7 +140,7 @@ int32,str,str
 85,"TEXT_JOBNIN580_01687_YUKI_000_152","能請你在我翻找亂光包的時候負責警戒工作嗎？
 要是他們出現了的話，就全都幹掉。"
 86,"TEXT_JOBNIN580_01687_YUKI_000_153","北邊和東邊我分別拜託了赤城和朧盯著，南邊就拜託你了。
-警戒結束後就去和朧他們會合吧。"
+警戒結束後就去和朧他們匯合吧。"
 87,"TEXT_JOBNIN580_01687_YUKI_000_154","我再重申一遍，記得保護好你自己！
 萬一擋不住一定要跑！"
 88,"TEXT_JOBNIN580_01687_YUKI_000_170","真是的，帶的東西也太多了吧……究竟在哪？"
@@ -154,21 +154,21 @@ int32,str,str
 將它……只要將它拿回去，井之國就可以重建起來了！
 會順利的……一切都會順利的！"
 93,"TEXT_JOBNIN580_01687_OBORO_000_202","雖然想要為你慶賀……
-但似乎有點不對勁。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也發現了吧。"
+但貌似有點不對勁。
+<Highlight>ObjectParameter(1)</Highlight>，你也發現了吧。"
 94,"TEXT_JOBNIN580_01687_OBORO_000_203","有敵人，小心。"
 95,"TEXT_JOBNIN580_01687_REDWAY_000_204","找到你們了，只有我找到你們了……嗯。
-菸酒我都不碰……所以你們那點小手段對我不管用……嗯嗯。"
+煙酒我都不碰……所以你們那點小手段對我不管用……嗯嗯。"
 96,"TEXT_JOBNIN580_01687_REDWAY_000_205","三人和一隻雜魚……
 打上一場也不錯，嗯。
-但我是冷靜的男人……絕不會衝動……"
+但我是冷靜的男人……決不會衝動……"
 97,"TEXT_JOBNIN580_01687_REDWAY_000_206","我出現在這裡是為了交涉……
 大大咧咧地跑到拉諾西亞的井之國人已經被我們抓住了。
 不希望他們被殺掉的話，八劍雪就跟我來吧……"
 98,"TEXT_JOBNIN580_01687_OBORO_000_207","你說什麼？！"
 99,"TEXT_JOBNIN580_01687_YUKI_000_208","叢雲閉月風吹花落嗎……
 果然萬事都不會那麼順利呀。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、朧，將武器收起來吧。"
+<Highlight>ObjectParameter(1)</Highlight>、朧，將武器收起來吧。"
 100,"TEXT_JOBNIN580_01687_YUKI_000_209","……我跟你走。"
 101,"TEXT_JOBNIN580_01687_REDWAY_000_210","嘿嘿……啊哈哈哈，啊哈哈哈哈！我贏了！！
 忍村的忍者也不是我的對手！是我贏了，嗯！！"
@@ -179,7 +179,7 @@ int32,str,str
 104,"TEXT_JOBNIN580_01687_AKAGI_000_213","不、不行……不行！
 拜託了……請追上去，追上去救救公主殿下！
 你們不去的話，我就自己……唔！"
-105,"TEXT_JOBNIN580_01687_OBORO_000_214"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，暫時先忍一忍吧。
+105,"TEXT_JOBNIN580_01687_OBORO_000_214","<Highlight>ObjectParameter(1)</Highlight>，暫時先忍一忍吧。
 小雪公主唯一的命令就是讓我們照顧好赤城……
 我們必須認真完成才行。"
 106,"TEXT_JOBNIN580_01687_OBORO_000_215","雖然也可以選擇3人強攻雷德韋，
@@ -188,7 +188,7 @@ int32,str,str
 現在我們什麼也辦不到。"
 108,"TEXT_JOBNIN580_01687_OBORO_000_217","先回小屋吧……
 我會將受傷的赤城閣下帶回去。"
-109,"TEXT_JOBNIN580_01687_OBORO_000_300"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了啊。
+109,"TEXT_JOBNIN580_01687_OBORO_000_300","<Highlight>ObjectParameter(1)</Highlight>，你回來了啊。
 赤城閣下的治療就交給我吧。
 等他的傷治好後，照顧好赤城的這條命令就算完成了。"
 110,"TEXT_JOBNIN580_01687_OBORO_000_301","之後我們就去營救小雪公主！

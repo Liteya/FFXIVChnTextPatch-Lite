@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CTSOPN60NEMJIJI_00732_CFC_TO_INSTANCE_CONTENT","<Sheet(ContentFinderCondition,IntegerParameter(1),3)/>"
-1,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_000"," <Highlight>ObjectParameter(1)</Highlight> ！感謝你願意協助我們調查。
+1,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_000","<Highlight>ObjectParameter(1)</Highlight>！感謝你願意協助我們調查。
 你報告中的那些過去的創造生物……
 呵呵呵……我已經等不及想要開始推測它們的生態了！"
 2,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_005","我想厄爾庇斯一定也有保管資料的設施，
@@ -26,7 +26,7 @@ int32,str,str
 10,"TEXT_CTSOPN60NEMJIJI_00732_Q1_000_000","要做什麼？"
 11,"TEXT_CTSOPN60NEMJIJI_00732_A1_000_003","確認調查情況"
 12,"TEXT_CTSOPN60NEMJIJI_00732_A1_000_004","取消"
-13,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，稍微耽誤你一點時間可以嗎？
+13,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_100","<Highlight>ObjectParameter(1)</Highlight>，稍微耽誤你一點時間可以嗎？
 我想請你再詳細說說發生在過去世界的事。"
 14,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_101","水晶中發出的警告，還有萬魔殿的結局……
 總有一天，克勞狄恩老師會向學會報告
@@ -39,18 +39,18 @@ int32,str,str
 不過，那些真的都是解開水晶之謎所必需的資料嗎？"
 17,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_104","其中還有«水生生物的生態»和«各地的不死鳥傳說»等論文，
 都是和萬魔殿的創造生物有關的資料啊。"
-18,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_105","創造生物不是都已經被 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 打倒、重新封印起來了嗎？
+18,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_105","創造生物不是都已經被<Highlight>ObjectParameter(1)</Highlight>打倒、重新封印起來了嗎？
 沒必要再深入調查了吧……"
 19,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_106","沒有的事。
 從現代研究者的視角調查存在於遠古時期的創造生物，
 這可是有著重大意義的。"
 20,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_107","當然……我個人也對此非常感興趣……"
 21,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_108","果然是出於你的個人興趣啊……
-不過與這次的事情也不是沒有關係，所以我連論文也替你拿來了，
+不過與這回的事情也不是沒有關係，所以我連論文也替你拿來了，
 下次就拜託你自己收集了哦？"
 22,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_110","好了，我們言歸正傳。
 就請你講講那些十分危險的對手吧！"
-23,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_111","對了，變身後的厄裏克托尼俄斯
+23,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_111","對了，變身後的埃里克特翁尼亞斯
 和化身為半神的獄卒長也拜託你一起講一下。
 這些都是很有趣……不，是令人興趣頗深的現象。"
 24,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_112","嗯嗯，謝謝你願意給我講這些。
@@ -61,7 +61,7 @@ int32,str,str
 然後一起寫進記錄之中當作參考吧。"
 26,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_114","你知道嗎，現代的水生生物中，
 有的物種成年後能長到幼體的數十倍之大！"
-27,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_115","你遇到的馬頭魚尾獸說不定也只是幼體，
+27,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_115","你遇到的魚尾海馬怪說不定也只是幼體，
 還遠遠沒有長大呢！"
 28,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_116","哎呀，沒想到你會這麼吃驚……
 在尚未確定創造生物是否會成長之前，
@@ -73,8 +73,8 @@ int32,str,str
 31,"TEXT_CTSOPN60NEMJIJI_00732_A1_100_100","你要寫一份充滿妄想的記錄？"
 32,"TEXT_CTSOPN60NEMJIJI_00732_A2_100_100","聽起來很有趣"
 33,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_120","嘿嘿嘿，推測的內容我會標註上「待檢驗」的！
-來吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，和我一起展開想像的翅膀！"
-34,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_140"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，可以再佔用你一點時間嗎？
+來吧，<Highlight>ObjectParameter(1)</Highlight>，和我一起展開想像的翅膀！"
+34,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_140","<Highlight>ObjectParameter(1)</Highlight>，可以再佔用你一點時間嗎？
 方便的話，可以給我講講你在煉淨之獄和絕地之獄的戰鬥詳情嗎？"
 35,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_141","雖然富爾什諾大人要求的事件梗概的報告已經提交上去了，
 但我想盡可能地留下更詳細的的記錄。"
@@ -83,7 +83,7 @@ int32,str,str
 借閱了不少魔法生物和樹狀生物的論文。"
 37,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_144","哎呀，想要滿足自己好奇心這一點我不否認。
 但這也是為了克勞狄恩老師的研究嘛。
-我想 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一定也能理解的。"
+我想<Highlight>ObjectParameter(1)</Highlight>一定也能理解的。"
 38,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_145","嗯嗯……在煉淨之獄遇到的魔法生物
 居然和秘術師的寶石獸有共同點……
 或者說魔法生物這一概念也許就是從古代流傳下來的？"
@@ -91,13 +91,13 @@ int32,str,str
 不論什麼樣的生物，都可以成為半神的材料嗎？
 真是有意思……"
 40,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_148","你果然只是想仔細研究那些創造生物和半神吧？"
-41,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_149","沒辦法，都是因為 <Highlight>ObjectParameter(1)</Highlight> 的戰鬥太精彩了，
+41,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_149","沒辦法，都是因為<Highlight>ObjectParameter(1)</Highlight>的戰鬥太精彩了，
 我忍不住就興奮起來了！"
-42,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_150","不過聽 <Highlight>ObjectParameter(1)</Highlight> 描述那些創造生物、
+42,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_150","不過聽<Highlight>ObjectParameter(1)</Highlight>描述那些創造生物、
 半神的肉體特徵和戰鬥能力……
 感覺可以推測出很多東西！"
-43,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_100_150","比如說，赫菲斯托斯也許就在自己身上融入了
-「芬尼克斯」所擁有的再生和不死的概念……
+43,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_100_150","比如說，赫淮斯托斯也許就在自己身上融入了
+「菲尼克司」所擁有的再生和不死的概念……
 呵呵呵，我腦子裡的妄想快要停不下來了！"
 44,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_151","我不阻止你妄想，
 但這份記錄也是要作為報告提交給富爾什諾大人的。
@@ -111,12 +111,12 @@ int32,str,str
 49,"TEXT_CTSOPN60NEMJIJI_00732_A2_100_200","惹富爾什諾生氣一定很恐怖"
 50,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_155","你說得對！富爾什諾大人眼界卓絕，
 他的心胸也一定像星海一樣寬廣！"
-51,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_160","嗚嗚，連 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也這麼說。
+51,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_160","連<Highlight>ObjectParameter(1)</Highlight>也害怕富爾什諾大人啊……
 我明白了，我就只保留那些與報告內容有關的推測好了。"
 52,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_165","好了，接下來我就把從你這聽到的情報
 加上我自己的推測一起整理出一份記錄。"
 53,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_166","我會充分發揮想像力……然後等待推測被證實的那一天！
-來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也來一起暢想吧！"
+來，<Highlight>ObjectParameter(1)</Highlight>也來一起暢想吧！"
 54,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_200","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>様、少しよろしいでしょうか。
 星海に出現したパンデモニウムに関する戦闘について、
 証言をお願いしたいのです。"

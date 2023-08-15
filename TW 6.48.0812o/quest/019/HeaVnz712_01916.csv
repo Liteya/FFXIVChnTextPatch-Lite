@@ -3,14 +3,14 @@
 int32,str,str
 0,"TEXT_HEAVNZ712_01916_SEQ_00","尊杜集落的古努瓦努感到非常困擾。"
 1,"TEXT_HEAVNZ712_01916_SEQ_01","古努瓦努不知道該準備什麼供物來通過儀式。和尊杜集落的古納瓦努談談。"
-2,"TEXT_HEAVNZ712_01916_SEQ_02","古納瓦努提議入侵帝國軍駐地，偷取閃閃發光的東西。和阿巴拉提亞雲海瓦納溫杜集落的古努瓦努談談。"
-3,"TEXT_HEAVNZ712_01916_SEQ_03","古努瓦努希望入侵的時候冒險者能吸引帝國兵的注意力。在瓦納溫杜集落的帝國軍駐地討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>或<Sheet(BNpcName,3522,0)/>共3名。"
-4,"TEXT_HEAVNZ712_01916_SEQ_04","討伐了帝國兵。向帝國軍駐地附近的古努瓦努報告。"
-5,"TEXT_HEAVNZ712_01916_SEQ_05","古努瓦努希望冒險者再去打倒一批帝國兵。在帝國軍駐地討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>或<Sheet(BNpcName,3522,0)/>共3名。"
-6,"TEXT_HEAVNZ712_01916_SEQ_06","再次討伐了帝國兵。向帝國軍駐地附近的古努瓦努報告。"
-7,"TEXT_HEAVNZ712_01916_SEQ_07","古努瓦努希望冒險者接著去打倒一批帝國兵。在帝國軍駐地討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>或<Sheet(BNpcName,3522,0)/>共3名。"
-8,"TEXT_HEAVNZ712_01916_SEQ_08","又一次討伐了帝國兵。向帝國軍駐地附近的古努瓦努報告。"
-9,"TEXT_HEAVNZ712_01916_SEQ_09","古努瓦努平安地從帝國軍駐地裡偷出了某件東西。和尊杜集落的亞努瓦努談談。"
+2,"TEXT_HEAVNZ712_01916_SEQ_02","古納瓦努提議入侵帝國軍駐地EA275006，偷取閃閃發光的東西。和阿巴拉提亞雲海瓦納溫杜集落的古努瓦努談談。"
+3,"TEXT_HEAVNZ712_01916_SEQ_03","古努瓦努希望入侵的時候冒險者能吸引帝國兵的注意力。在瓦納溫杜集落的帝國軍駐地EA275006討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>或<Sheet(BNpcName,3522,0)/>共3名。"
+4,"TEXT_HEAVNZ712_01916_SEQ_04","討伐了帝國兵。向帝國軍駐地EA275006附近的古努瓦努報告。"
+5,"TEXT_HEAVNZ712_01916_SEQ_05","古努瓦努希望冒險者再去打倒一批帝國兵。在帝國軍駐地EA275006討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>或<Sheet(BNpcName,3522,0)/>共3名。"
+6,"TEXT_HEAVNZ712_01916_SEQ_06","再次討伐了帝國兵。向帝國軍駐地EA275006附近的古努瓦努報告。"
+7,"TEXT_HEAVNZ712_01916_SEQ_07","古努瓦努希望冒險者接著去打倒一批帝國兵。在帝國軍駐地EA275006討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>或<Sheet(BNpcName,3522,0)/>共3名。"
+8,"TEXT_HEAVNZ712_01916_SEQ_08","又一次討伐了帝國兵。向帝國軍駐地EA275006附近的古努瓦努報告。"
+9,"TEXT_HEAVNZ712_01916_SEQ_09","古努瓦努平安地從帝國軍駐地EA275006裡偷出了某件東西。和尊杜集落的亞努瓦努談談。"
 10,"TEXT_HEAVNZ712_01916_SEQ_10","和亞努瓦努進行了交談，看到了古努瓦努偷出來的東西。馴服了傳奇的黑色惡魔的古努瓦努終於成功通過了儀式的考驗。向尊杜集落的古納瓦努報告。"
 11,"TEXT_HEAVNZ712_01916_SEQ_11","將古努瓦努通過儀式的消息向古納瓦努報告完畢。古納瓦努真心希望自己的兄弟能逐漸成長起來，成為男子漢。"
 12,"TEXT_HEAVNZ712_01916_SEQ_12",""
@@ -27,11 +27,11 @@ int32,str,str
 23,"TEXT_HEAVNZ712_01916_SEQ_23",""
 24,"TEXT_HEAVNZ712_01916_TODO_00","和古納瓦努對話"
 25,"TEXT_HEAVNZ712_01916_TODO_01","和古努瓦努對話"
-26,"TEXT_HEAVNZ712_01916_TODO_02","討伐帝國軍駐地的帝國兵"
+26,"TEXT_HEAVNZ712_01916_TODO_02","討伐帝國軍駐地EA275006的帝國兵"
 27,"TEXT_HEAVNZ712_01916_TODO_03","向古努瓦努報告"
-28,"TEXT_HEAVNZ712_01916_TODO_04","討伐帝國軍駐地的帝國兵"
+28,"TEXT_HEAVNZ712_01916_TODO_04","討伐帝國軍駐地EA275006的帝國兵"
 29,"TEXT_HEAVNZ712_01916_TODO_05","向古努瓦努報告"
-30,"TEXT_HEAVNZ712_01916_TODO_06","討伐帝國軍駐地的帝國兵"
+30,"TEXT_HEAVNZ712_01916_TODO_06","討伐帝國軍駐地EA275006的帝國兵"
 31,"TEXT_HEAVNZ712_01916_TODO_07","向古努瓦努報告"
 32,"TEXT_HEAVNZ712_01916_TODO_08","和亞努瓦努對話"
 33,"TEXT_HEAVNZ712_01916_TODO_09","向古納瓦努報告"
@@ -53,7 +53,7 @@ int32,str,str
 唉，腦袋裡一片空白，毫無頭緒。"
 49,"TEXT_HEAVNZ712_01916_GUNUVANU_000_001","看來只能去找大哥談一談了……
 只是去問問建議而已，應該不算幫忙吧……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我希望你和我一起去！"
+<Highlight>ObjectParameter(1)</Highlight>，我希望你和我一起去！"
 50,"TEXT_HEAVNZ712_01916_GUNUVANU_000_005","來，我們一起問問大哥的意見吧！"
 51,"TEXT_HEAVNZ712_01916_GUNAVANU_000_010","這不是、這不是，善良的旅人嗎！
 這段時間的事情我都聽古努瓦努和我說過了。
@@ -76,26 +76,26 @@ int32,str,str
 57,"TEXT_HEAVNZ712_01916_GUNUVANU_000_016","……唔、唔。
 雖然很可怕，可這是我最後一次機會了……
 好、好……明白了，我會做的！"
-58,"TEXT_HEAVNZ712_01916_GUNUVANU_000_017","但、但是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也會一起跟來的吧？
+58,"TEXT_HEAVNZ712_01916_GUNUVANU_000_017","但、但是<Highlight>ObjectParameter(1)</Highlight>你也會一起跟來的吧？
 如果沒人吸引帝國兵的注意，我肯定偷不出來！
 我……我會盡力的！"
 59,"TEXT_HEAVNZ712_01916_GUNAVANU_000_018","真是麻煩你了……
 唉……希望這次能成功……"
-60,"TEXT_HEAVNZ712_01916_GUNUVANU_000_025"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+60,"TEXT_HEAVNZ712_01916_GUNUVANU_000_025","<Highlight>ObjectParameter(1)</Highlight>！<Highlight>ObjectParameter(1)</Highlight>！
 真的、真的，好可怕……
 不過我還是一個人來到了這裡……"
 61,"TEXT_HEAVNZ712_01916_GUNUVANU_000_026","那、那我去偷那個非常珍貴的寶貝，
- <Highlight>ObjectParameter(1)</Highlight> 就去吸引那些黑裝人的注意力吧！
+<Highlight>ObjectParameter(1)</Highlight>就去吸引那些黑裝人的注意力吧！
 嗯……就這樣吧，你去打倒3個「帝國兵」！"
 62,"TEXT_HEAVNZ712_01916_GUNUVANU_000_027","啊、啊，跟被巨大候鳥盯著一樣緊張……
 唔……好緊張！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，一起加油吧！"
-63,"TEXT_HEAVNZ712_01916_GUNUVANU_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就放開手大鬧一場，
+<Highlight>ObjectParameter(1)</Highlight>，一起加油吧！"
+63,"TEXT_HEAVNZ712_01916_GUNUVANU_000_030","<Highlight>ObjectParameter(1)</Highlight>就放開手大鬧一場，
 把那些「帝國兵」的注意力全都吸引過去！
 趁這個時候，我就去把寶貝偷出來！"
 64,"TEXT_HEAVNZ712_01916_GUNUVANU_000_040","吸……呼……吸……呼……
 深呼吸……深呼吸……"
-65,"TEXT_HEAVNZ712_01916_GUNUVANU_000_041","哎、 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+65,"TEXT_HEAVNZ712_01916_GUNUVANU_000_041","哎、<Highlight>ObjectParameter(1)</Highlight>？！
 你這就把帝國兵打倒了？！
 我、我還沒去把寶貝偷出來呢？！"
 66,"TEXT_HEAVNZ712_01916_GUNUVANU_000_042","我、我決定現在馬上去偷。真的，馬上去偷，相信我。
@@ -103,17 +103,17 @@ int32,str,str
 再打倒3個人就行！"
 67,"TEXT_HEAVNZ712_01916_GUNUVANU_000_050","你再去轉一圈，吸引那些「帝國兵」的注意力吧！
 我一定會偷出寶物的！"
-68,"TEXT_HEAVNZ712_01916_GUNUVANU_110_070","我一定可以……我一定可以……"
-69,"TEXT_HEAVNZ712_01916_GUNUVANU_110_071","……啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+68,"TEXT_HEAVNZ712_01916_GUNUVANU_110_070","我一定能行……我一定能行……"
+69,"TEXT_HEAVNZ712_01916_GUNUVANU_110_071","……啊，<Highlight>ObjectParameter(1)</Highlight>？
 你又已經打倒帝國兵了？
 我說，你打得太快了吧！"
 70,"TEXT_HEAVNZ712_01916_GUNUVANU_110_072","我剛準備去偷呢……
 哎，沒辦法了，請你再一次去吸引帝國兵的注意力吧！
-3個人左右就好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一定沒問題的！"
+3個人左右就好，<Highlight>ObjectParameter(1)</Highlight>一定沒問題的！"
 71,"TEXT_HEAVNZ712_01916_GUNUVANU_110_073","請你再一次去吸引帝國兵的注意力吧！
-3個人左右就好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一定沒問題的！"
+3個人左右就好，<Highlight>ObjectParameter(1)</Highlight>一定沒問題的！"
 72,"TEXT_HEAVNZ712_01916_GUNUVANU_000_060","我成功了、我成功了！
-在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 戰鬥之際！
+在<Highlight>ObjectParameter(1)</Highlight>戰鬥之際！
 我終於將寶貝偷出來了！"
 73,"TEXT_HEAVNZ712_01916_GUNUVANU_000_061","這下我的前途由陰轉晴了！
 有了這個我一定可以通過儀式！
@@ -128,7 +128,7 @@ int32,str,str
 就算是祭司大人也肯定會認同我的！"
 77,"TEXT_HEAVNZ712_01916_GUNUVANU_100_073","聽好了！聽好了！
 這是我從黑裝的「帝國兵」那裡偷過來的，
-又大又恐怖的……這什麼……是手！是隻手！"
+又大又恐怖的……這什麼……是手！是只手！"
 78,"TEXT_HEAVNZ712_01916_AANUVANU_000_074","沒想到、沒想到，古努瓦努啊……
 這真是、這真是，令人驚訝的寶貝……
 比那些用魔法操縱的圖騰更黑，更硬，更強大！"

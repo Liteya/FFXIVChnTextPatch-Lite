@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSA803_00787_SEQ_22",""
 23,"TEXT_GAIUSA803_00787_SEQ_23",""
 24,"TEXT_GAIUSA803_00787_TODO_00","對<Sheet(EObj,2001983,0)/>使用<Sheet(EventItem,2000616,0)/>"
-25,"TEXT_GAIUSA803_00787_TODO_01","獲得<Sheet(EventItem,2000617,0)/>"
+25,"TEXT_GAIUSA803_00787_TODO_01","獲取<Sheet(EventItem,2000617,0)/>"
 26,"TEXT_GAIUSA803_00787_TODO_02","向埃蒂恩報告"
 27,"TEXT_GAIUSA803_00787_TODO_03",""
 28,"TEXT_GAIUSA803_00787_TODO_04",""
@@ -58,7 +58,7 @@ int32,str,str
 這是我們工作中用的<Sheet(EventItem,2000616,0)/>，
 你用這個炸碎那塊石頭，把碎片帶回來給我看看吧。"
 51,"TEXT_GAIUSA803_00787_DUMMY_000_010","在指定地點使用炸藥"
-52,"TEXT_GAIUSA803_00787_DUMMY_000_020","獲得礦石碎片"
+52,"TEXT_GAIUSA803_00787_DUMMY_000_020","獲取礦石碎片"
 53,"TEXT_GAIUSA803_00787_AIDEEN_000_030","聚集了少女們怨念的岩石……
 因為太詭異大家都不敢靠近。
 不過今天也終於被毫無畏懼的冒險者給炸掉了！"

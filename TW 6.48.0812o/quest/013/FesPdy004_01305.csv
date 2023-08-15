@@ -65,24 +65,24 @@ int32,str,str
 45,"TEXT_FESPDY004_01305_TODO_21",""
 46,"TEXT_FESPDY004_01305_TODO_22",""
 47,"TEXT_FESPDY004_01305_TODO_23",""
-48,"TEXT_FESPDY004_01305_SERENDIPITY_000_000","哇， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 果然還是想要艾德薇雅公主人偶？
+48,"TEXT_FESPDY004_01305_SERENDIPITY_000_000","哇，<Highlight>ObjectParameter(1)</Highlight>果然還是想要艾德薇雅公主人偶？
 ……是吧，我就知道！"
 49,"TEXT_FESPDY004_01305_SERENDIPITY_000_001","至今為止，我接過很多很多人的訂單，
 做過很多很多的魔法人偶。"
 50,"TEXT_FESPDY004_01305_SERENDIPITY_000_002","也許就是這個緣故吧，
 最近能辨識出委託人是不是真心喜愛魔法人偶了！"
-51,"TEXT_FESPDY004_01305_SERENDIPITY_000_003","我一下子就看出來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你會珍惜人偶，
+51,"TEXT_FESPDY004_01305_SERENDIPITY_000_003","我一下子就看出來，<Highlight>ObjectParameter(1)</Highlight>你會珍惜人偶，
 所以我要把一般人不知道的方法告訴你！"
 52,"TEXT_FESPDY004_01305_SERENDIPITY_100_003","其實，烏爾達哈的熱門珠寶店「艾斯泰姆」的宣傳部，
 想要讓雕金匠公會製作的公主人偶在大賽中獲勝，
 然後以「榮譽魔法人偶」為賣點來高價出售。"
 53,"TEXT_FESPDY004_01305_SERENDIPITY_000_004","於是，我想將艾斯泰姆珠寶店的參賽公主人偶，
-寄放在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你那裡，去各大城邦做宣傳。"
+寄放在<Highlight>ObjectParameter(1)</Highlight>你那裡，去各大城邦做宣傳。"
 54,"TEXT_FESPDY004_01305_SERENDIPITY_000_005","因為「艾德薇雅公主人偶大賽」的排名，
 是由節日期間收集到的各大城邦淑女們的投票來決定的。"
 55,"TEXT_FESPDY004_01305_SERENDIPITY_000_006","也就是說，能否獲得優勝，關鍵在於宣傳力度。
 所以要努力向各大城邦的淑女們宣傳公主人偶的成品！"
-56,"TEXT_FESPDY004_01305_SERENDIPITY_000_007","於是，我想請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 帶著艾德薇雅公主人偶去各種地方，
+56,"TEXT_FESPDY004_01305_SERENDIPITY_000_007","於是，我想請<Highlight>ObjectParameter(1)</Highlight>帶著艾德薇雅公主人偶去各種地方，
 取悅很多很多淑女！"
 57,"TEXT_FESPDY004_01305_SERENDIPITY_000_008","你能充分享受女兒節，
 艾斯泰姆也能借宣傳之力更接近優勝。
@@ -102,32 +102,32 @@ int32,str,str
 63,"TEXT_FESPDY004_01305_SYSTEM_000_014","公主人偶消失後，
 和烏爾達哈雕金匠公會的賽倫蒂碧對話，
 即可再次帶公主人偶行走。"
-64,"TEXT_FESPDY004_01305_SERENDIPITY_000_020","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+64,"TEXT_FESPDY004_01305_SERENDIPITY_000_020","哎呀，<Highlight>ObjectParameter(1)</Highlight>，
 你是來迎接艾德薇雅公主人偶的吧？"
 65,"TEXT_FESPDY004_01305_Q1_000_001","要領取艾德薇雅公主人偶嗎？"
 66,"TEXT_FESPDY004_01305_A1_000_001","是"
 67,"TEXT_FESPDY004_01305_A2_000_002","否"
-68,"TEXT_FESPDY004_01305_SERENDIPITY_000_021"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，一路走好！
+68,"TEXT_FESPDY004_01305_SERENDIPITY_000_021","<Highlight>ObjectParameter(1)</Highlight>，一路走好！
 這個孩子就拜託你了！"
 69,"TEXT_FESPDY004_01305_SERENDIPITY_000_022","艾德薇雅公主人偶等你等得望眼欲穿。
-請儘快來迎接她哦！"
+請盡快來迎接她哦！"
 70,"TEXT_FESPDY004_01305_SERENDIPITY_000_023","遵循艾斯泰姆的宣傳策略，
 將<Sheet(EventItem,2001158,0)/>分發給格里達尼亞的喜歡八卦的女孩子！"
 71,"TEXT_FESPDY004_01305_CHARISMA_G1_100_030","你想叫我給艾德薇雅公主人偶大賽投票？
-話雖如此，可我沒見過你的人偶，沒辦法答應你呀。"
+話雖如此，可我沒見過你的人偶，沒法答應你呀。"
 72,"TEXT_FESPDY004_01305_CHARISMA_G1_000_030","艾德薇雅公主人偶大賽啊，
 我想把票投給重視女兒節傳統的人偶。"
 73,"TEXT_FESPDY004_01305_CHARISMA_G1_000_031","哇，這是<Sheet(EventItem,2001158,0)/>！
 謝謝你送給我如此應景的禮物！"
 74,"TEXT_FESPDY004_01305_CHARISMA_G1_000_032","據說艾德薇雅公主的失蹤事件是在桃花盛開的季節發生的，
 所以女兒節有裝飾桃花的傳統。"
-75,"TEXT_FESPDY004_01305_CHARISMA_G1_000_033","一定要重視這類傳統！
+75,"TEXT_FESPDY004_01305_CHARISMA_G1_000_033","必須要重視這類傳統！
 你的公主人偶也很尊重傳統呢，真好！
 我要投票給你的人偶！"
 76,"TEXT_FESPDY004_01305_CHARISMA_G1_000_034","……嗯？
 你說烏爾達哈的艾斯泰姆珠寶店準備發售這款人偶？
 我想買！"
-77,"TEXT_FESPDY004_01305_CHARISMA_G1_000_035","一定要重視這類傳統！
+77,"TEXT_FESPDY004_01305_CHARISMA_G1_000_035","必須要重視這類傳統！
 你的公主人偶也很尊重傳統呢，真好！
 我要投票給你的人偶！"
 78,"TEXT_FESPDY004_01305_CHARISMA_G2_100_040","艾德薇雅公主人偶大賽啊，
@@ -163,7 +163,7 @@ int32,str,str
 作為謝禮，我會投票給你的公主人偶。"
 89,"TEXT_FESPDY004_01305_CHARISMA_G3_000_055","你給了我美麗的奮鬥目標，
 作為謝禮，我會投票給你的公主人偶。"
-90,"TEXT_FESPDY004_01305_SERENDIPITY_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來，辛苦了！
+90,"TEXT_FESPDY004_01305_SERENDIPITY_000_060","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來，辛苦了！
 剛才第一階段的人氣投票統計結果送來了。"
 91,"TEXT_FESPDY004_01305_SERENDIPITY_000_061","啦啦！
 我家的艾德薇雅公主人偶名列前茅。

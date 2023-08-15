@@ -63,12 +63,12 @@ int32,str,str
 53,"TEXT_HEAVNA112_01591_EMMANELLAIN_000_010","什麼，拉妮艾特要請我出馬？
 那為什麼要找你傳話呀……
 我不就在旁邊嗎？直接對我說呀！"
-54,"TEXT_HEAVNA112_01591_EMMANELLAIN_000_011","唉，多半是在我面前害羞吧。
+54,"TEXT_HEAVNA112_01591_EMMANELLAIN_000_011","唉，多半是在我面前害羞呢吧。
 咿嘻嘻，真拿她沒辦法……她想請我做什麼？"
 55,"TEXT_HEAVNA112_01591_Q1_000_000","如何傳達？"
 56,"TEXT_HEAVNA112_01591_A1_000_001","監視雲海這項重任就交給你了"
 57,"TEXT_HEAVNA112_01591_A1_000_002","隨便在雲海放放哨吧"
-58,"TEXT_HEAVNA112_01591_A1_000_003","答不出來"
+58,"TEXT_HEAVNA112_01591_A1_000_003","……"
 59,"TEXT_HEAVNA112_01591_EMMANELLAIN_000_020","咦，真的嗎，這麼重要的任務就交給我了？！
 我真是太厲害了，深受拉妮艾特的信賴呀有沒有！
 好，我會去好好進行監視的！"
@@ -81,7 +81,7 @@ int32,str,str
 63,"TEXT_HEAVNA112_01591_LANIAITTE_000_032","唉，你可真是有點讓人同情，
 居然被塞了埃馬內蘭這麼一個大包袱……
 雖然很辛苦，但請務必堅持住……"
-64,"TEXT_HEAVNA112_01591_HONOROIT_000_040"," <Highlight>ObjectParameter(1)</Highlight> 大人，
+64,"TEXT_HEAVNA112_01591_HONOROIT_000_040","<Highlight>ObjectParameter(1)</Highlight>大人，
 請原諒我這麼晚才進行自我介紹。
 我叫奧諾魯瓦，是埃馬內蘭少爺的隨從，嗯。"
 65,"TEXT_HEAVNA112_01591_HONOROIT_000_041","……嗯？！

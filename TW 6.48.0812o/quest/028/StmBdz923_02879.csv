@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ923_02879_SEQ_21",""
 22,"TEXT_STMBDZ923_02879_SEQ_22",""
 23,"TEXT_STMBDZ923_02879_SEQ_23",""
-24,"TEXT_STMBDZ923_02879_TODO_00","獲得<Sheet(EObj,2008863,0)/>"
+24,"TEXT_STMBDZ923_02879_TODO_00","獲取<Sheet(EObj,2008863,0)/>"
 25,"TEXT_STMBDZ923_02879_TODO_01","將<Sheet(EventItem,2002361,0)/>交給斯菩里雅"
 26,"TEXT_STMBDZ923_02879_TODO_02",""
 27,"TEXT_STMBDZ923_02879_TODO_03",""
@@ -53,7 +53,7 @@ int32,str,str
 我有一個請求，能不能幫幫我呢？"
 49,"TEXT_STMBDZ923_02879_SUPRIYA_000_001","你知道一種叫雉雞的鳥嗎？
 我想要它身上的羽毛，
-不過上面下達了待機指令，我沒辦法去取。"
+不過上面下達了待機指令，我沒法去取。"
 50,"TEXT_STMBDZ923_02879_SUPRIYA_000_002","嘶——巡邏山地的同胞說
 在沿路上空看到了美麗的鳥。
 或許它的羽毛就掉在了那附近。"

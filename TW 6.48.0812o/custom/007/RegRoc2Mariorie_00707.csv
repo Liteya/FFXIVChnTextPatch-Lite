@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你過來！
+0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000","<Highlight>ObjectParameter(1)</Highlight>，歡迎你過來！
 你要是想舉辦蒼天街重建紀念演奏會的話，
 我馬上就給你安排！"
 1,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001","如果有興趣的話，
@@ -18,14 +18,14 @@ int32,str,str
 9,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004","蒼天街重建紀念演奏會中，
 在畫面上會隨著節奏顯示出提示符。
 抓對時機按下按鍵，讓演奏會取得圓滿成功吧！"
-10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","左邊的通常提示符：需要在光圈與提示符重合時點擊按鍵
+10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","左邊的通常提示符：需要在光圈與提示符重合時單擊按鍵
 中央的連擊提示符：需要重合之後在一定時間內連擊按鍵
 右邊的長按提示符：需要重合之後在一定時間內長按按鍵"
 11,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006","可用的按鍵如下："
-12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<If(Equal(PlayerParameter(80),0))>滑鼠：在畫面上任意位置點選滑鼠左鍵或滑鼠右鍵
-鍵盤：點選鍵盤上alt等特殊鍵之外的正常英文字母等標準按鍵
+12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<If(Equal(PlayerParameter(80),0))>滑鼠：在畫面上任意位置點擊滑鼠左鍵或滑鼠右鍵
+鍵盤：點擊鍵盤上alt等特殊鍵之外的正常英文字母等標準按鍵
 此外，在音樂會途中將無法使用直接聊天模式。<Else/><If(GreaterThan(PlayerParameter(75),0))>手把<Else/>手把</If>：按下除<CommandIcon(18)/>以外的所有按鍵皆可　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>等</If>"
-13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","透過按下<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>鍵或者<CommandIcon(18)/>鍵，
+13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","通過按下<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>鍵或者<CommandIcon(18)/>鍵，
 可以在中途結束蒼天街重建紀念演奏會。"
 14,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999","為了今後也能舉辦演奏會，
 我這邊也得去辦些手續，

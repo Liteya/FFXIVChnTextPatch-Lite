@@ -4,12 +4,12 @@ int32,str,str
 0,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_000","（★未使用／削除予定★）"
 1,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_005","多虧了你的援助，湊齊了授課需要的物品。
 孩子們真的是很熱心在學習呢。"
-2,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_010","哎呀， <Highlight>ObjectParameter(1)</Highlight> 。
-託你的福，
+2,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_010","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
+托你的福，
 現在授課的時候再也不用擔心風吹雨打了。"
 3,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_011","只不過教科書沒有我想像中的那麼齊全……
 目前只能靠著我口頭講課。"
-4,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_012","現在我正在教給孩子們有關栗齋大人的事蹟。
+4,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_012","現在我正在教給孩子們有關栗齋大人的事跡。
 你知道栗齋大人的事情嗎？"
 5,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_013","即便是<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>你也有不知道的事情啊。
 那就和我們一起聽聽老師講課吧！"
@@ -20,7 +20,7 @@ int32,str,str
 你如果願意的話，請聽我講解一下。"
 8,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_016","那麼我們開始吧。
 栗齋大人是一名以前侍奉過多瑪的著名武士。"
-9,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_017","傳說他對當時的主公十分忠誠，不僅精通炮術和兵法，
+9,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_017","傳說他對當時的主公十分忠誠，不僅精通砲術和兵法，
 而且還是一位飽讀詩書非常博識的人。"
 10,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_018","他因年事已高辭去公務以後，
 用自己攢下來的財富開設了私塾「栗齋學堂」。"
@@ -29,7 +29,7 @@ int32,str,str
 只要願意的話，不論是誰都能接受高等的教育。"
 12,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_020","後來有些人被栗齋大人的精神所打動，
 在他去世後繼承了他的遺志，
-繼續將栗齋學堂營運了下來。"
+繼續將栗齋學堂運營了下來。"
 13,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_021","那就是說，在很久以前有一座和這裡同名的私塾嗎？"
 14,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_022","……啊，是這樣啊！
 老師也是同樣繼承了栗齋大人遺志的人啊！"
@@ -57,8 +57,8 @@ int32,str,str
 今後可以出讓更多的物資！"
 25,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_035","多虧了你的援助，湊齊了授課需要的物品。
 孩子們非常熱心地聽我講課呢。"
-26,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_040"," <Highlight>ObjectParameter(1)</Highlight> ，歡迎你過來。
-託你的福，
+26,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_040","<Highlight>ObjectParameter(1)</Highlight>，歡迎你過來。
+托你的福，
 學舍轉眼間變得如此氣派了。"
 27,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_041","我們也收到了許多捐贈的書籍，
 不僅是外觀就連內部都充實起來了。"
@@ -71,12 +71,12 @@ int32,str,str
 但是研墨真的是很有意思呢。
 <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，下回也一起來吧？"
 31,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_045","我們去了趟蘭師傅那裡！
-拿回來了許多稍微有些殘破沒辦法作為商品的紙張！"
+拿回來了許多稍微有些殘破沒法作為商品的紙張！"
 32,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_046","蘭師傅還順便給了我一個小風車。"
 33,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_047","啊！這太不公平了！"
 34,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_048","從前他們就是很活潑的孩子們……
 一段時間未見，成長了好多啊。
-學會了自主思考，並付之行動……連大人們都不如他們啊。"
+學會了自主思考，並付諸行動……連大人們都不如他們啊。"
 35,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_049","我本以為他們是在不適應的難民生活中迫於艱苦，
 才會學會這些……
 不過看來還不全是呢。"
@@ -105,9 +105,9 @@ int32,str,str
 45,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_067","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，你們快來這邊！
 來看看這個！"
 46,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_068","這些是在離開喪靈鐘的時候，
-芙．拉敏阿姨給我們的。
-她跟我說過「即使回到多瑪，也不要忘記在艾奧傑亞的事情哦」。"
-47,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_069","我們想不論在何時都能想起艾奧傑亞的事情，
+芙·拉敏阿姨給我們的。
+她跟我說過「即使回到多瑪，也不要忘記在艾歐澤亞的事情哦」。"
+47,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_069","我們想不論在何時都能想起艾歐澤亞的事情，
 所以就拜託木匠先生幫忙給掛起來了。
 水無月老師要是也能喜歡就好了……"
 48,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_070","真是不錯的地圖啊。
@@ -117,9 +117,9 @@ int32,str,str
 也有守護並照顧你們的人啊。"
 50,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_072","話說回來，來自這些西方的物品真是精緻……
 是不是很貴重啊？
-不還禮適合嗎……"
-51,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_073","我們在收下東西的時候已經跟芙．拉敏阿姨說了好多聲謝謝。
-可是芙．拉敏阿姨卻說
+不還禮合適嗎……"
+51,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_073","我們在收下東西的時候已經跟芙·拉敏阿姨說了好多聲謝謝。
+可是芙·拉敏阿姨卻說
 這些都是已經不用的東西不用在意。"
 52,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_074","老師沒有見過這些東西嗎？
 在喪靈鐘和我成為朋友的小孩也有這些。"
@@ -128,7 +128,7 @@ int32,str,str
 比如用來占星的東西，還有放大鏡什麼的，
 總之我們拿了很多回來！"
 55,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_077","還有叫做陸行鳥的動物的玩偶呢！
-艾奧傑亞那邊有著很多的陸行鳥，
+艾歐澤亞那邊有著很多的陸行鳥，
 還能像牛或馬那樣拉貨車呢！"
 56,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_078","老師看看這個地圖！
 有沙漠的地方是烏爾達哈，喪靈鐘在山脈的北邊……
@@ -159,4 +159,4 @@ int32,str,str
 做自己力所能及的事情。"
 66,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_095","我很期待這些孩子們能夠健康成長，
 將來成為新時代的繼承人呢。"
-67,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_096","先走一步的丈夫也肯定在守望著孩子們吧。"
+67,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_096","先走一步的丈夫也肯定在守望著孩子們呢吧。"

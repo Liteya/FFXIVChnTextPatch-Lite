@@ -29,14 +29,14 @@ int32,str,str
 19,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_STATUS","確認潛水艇"
 20,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_TITLE","請輸入潛水艇的名字。"
 21,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_CAPTION","潛水艇的名字"
-22,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0","名稱中可以使用字母、數字、空格以及下列符號。
+22,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0","名稱中可以使用漢字、字母、數字、空格以及下列符號。
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>‘. , : ; ! ? & - _<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-．空格與下劃線無法連續使用。
-．空格無法用在開頭和結尾。
-．無法建立只使用符號的名稱。"
+·空格與下劃線無法連續使用。
+·空格無法用在開頭和結尾。
+·無法建立只使用符號的名稱。"
 23,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_TITLE","確定要對潛水艇<Highlight>StringParameter(1)</Highlight>進行解體嗎？
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>正在裝備的道具將會被退還，
-但不會退還潛水艇登記票。
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>正在裝備的道具將會被返還，
+但不會返還潛水艇登記票。
 潛水艇等級等情報也會被全部清空。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 24,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_CHECK","對潛水艇進行解體"
 25,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_1","要對潛水艇進行登記，

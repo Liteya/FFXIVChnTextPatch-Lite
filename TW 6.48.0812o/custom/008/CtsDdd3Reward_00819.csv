@@ -30,14 +30,14 @@ int32,str,str
 需要從經過實戰的武器裝備中提取足量的乙太。
 你所持的武器沒有可供提取的足量乙太。"
 14,"TEXT_CTSDDD3REWARD_00819_SYSTEM_000_051","想要製作<Sheet(Item,38943,0)/>，
-需要「聚魔裝備（武器．盾）」
+需要「聚魔裝備（武器·盾）」
 和「聚魔裝備（防具）」的強化值都在10以上。"
 15,"TEXT_CTSDDD3REWARD_00819_DD3ITEMSHOP_000_052","滴……滴滴……滴滴滴嘟！
-你已為聚魔裝備蓄積了足量乙太，
+你已為聚魔裝備積攢了足量乙太，
 是否要將乙太用於創造<Sheet(Item,38943,0)/>？"
 16,"TEXT_CTSDDD3REWARD_00819_Q2_000_053","確定要製作「<Sheet(Item,38943,0)/>」嗎？
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※「聚魔裝備（武器．盾）」和「聚魔裝備（防具）」的強化值都會減少10。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17,"TEXT_CTSDDD3REWARD_00819_Q3_000_060","想瞭解什麼？"
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※「聚魔裝備（武器·盾）」和「聚魔裝備（防具）」的強化值都會減少10。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+17,"TEXT_CTSDDD3REWARD_00819_Q3_000_060","想了解什麼？"
 18,"TEXT_CTSDDD3REWARD_00819_A3_000_061","關於道具交換"
 19,"TEXT_CTSDDD3REWARD_00819_A3_000_062","關於將聚魔裝備帶出迷宮"
 20,"TEXT_CTSDDD3REWARD_00819_A3_000_063","返回"
@@ -56,7 +56,7 @@ int32,str,str
 25,"TEXT_CTSDDD3REWARD_00819_SYSTEM_000_082","想要將正統裝備帶出迷宮，需要<Sheet(Item,38943,0)/>。
 能夠帶出的只有武器和盾。"
 26,"TEXT_CTSDDD3REWARD_00819_SYSTEM_000_083","想要製作<Sheet(Item,38943,0)/>，
-需要消耗「聚魔裝備（武器．盾）」和
+需要消耗「聚魔裝備（武器·盾）」和
 「聚魔裝備（防具）」的強化值各10點。"
 27,"TEXT_CTSDDD3REWARD_00819_SYSTEM_000_084","另外，想要製作<Sheet(Item,38943,0)/>或帶出正統裝備，
 必須先突破正統優雷卡的地下30層，

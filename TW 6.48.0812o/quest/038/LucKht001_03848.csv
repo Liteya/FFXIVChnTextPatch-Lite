@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_LUCKHT001_03848_SEQ_00","雲霧街的機工房的技師好像在尋找手藝高超的工匠。"
-1,"TEXT_LUCKHT001_03848_SEQ_01","得知天鋼機工房正在尋找工匠。和伊修加爾德天鋼機工房附近的技師內耶馬爾談談。"
+1,"TEXT_LUCKHT001_03848_SEQ_01","得知天鋼機工房正在尋找工匠。和伊修加德天鋼機工房附近的技師內耶馬爾談談。"
 2,"TEXT_LUCKHT001_03848_SEQ_02","內耶馬爾想要改良從工房中找到的天鋼工具，提高其性能。協助天鋼機工房的技師，對工具進行改良。"
 3,"TEXT_LUCKHT001_03848_SEQ_03",""
 4,"TEXT_LUCKHT001_03848_SEQ_04",""
@@ -51,10 +51,10 @@ int32,str,str
 47,"TEXT_LUCKHT001_03848_TODO_23",""
 48,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_000","這位<If(PlayerParameter(4))>小姐<Else/>老爺</If>，你是準備去蒼天街嗎？
 其實天鋼機工房目前正在尋找手藝高超的工匠……"
-49,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_005","啊，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？！
+49,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_005","啊，這不是<Highlight>ObjectParameter(1)</Highlight>嗎？！
 雖然我不是機工士，
 不過我曾經在工房看見斯特凡尼維安少爺和你相處得不錯呢。"
-50,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_015","啊，<If(PlayerParameter(4))>小姐<Else/>老爺</If>你莫非就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+50,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_015","啊，<If(PlayerParameter(4))>小姐<Else/>老爺</If>你莫非就是<Highlight>ObjectParameter(1)</Highlight>？
 那位拯救了皇都的大英雄？！
 這還真是讓我碰見了一位大人物呢！"
 51,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_020","那正好，<If(PlayerParameter(4))>小姐<Else/>老爺</If>你人脈一定很廣吧？
@@ -91,9 +91,9 @@ int32,str,str
 65,"TEXT_LUCKHT001_03848_NIMIE_000_064","按照圖紙的說明，我們找到的工具只不過是個雛形。
 據說當時的技師曾經和工匠合作，由工匠不斷使用工具，
 而技師則幫忙對工具進行改良。"
-66,"TEXT_LUCKHT001_03848_NIMIE_000_065","我們考慮了一下，決定重複這一嘗試。找一位正參與重建的工匠，
-幫他進行工具改良。這樣一來，不僅能提供高品質的工具答謝他幫忙
-重建伊修加爾德，還可以間接為重建工作做出貢獻。"
+66,"TEXT_LUCKHT001_03848_NIMIE_000_065","我們考慮了一下，決定重覆這一嘗試。找一位正參與重建的工匠，
+幫他進行工具改良。這樣一來，不僅能提供優質的工具答謝他幫忙
+重建伊修加德，還可以間接為重建工作做出貢獻。"
 67,"TEXT_LUCKHT001_03848_NEILLEMARD_000_066","如果你今後也打算繼續參與到重建工程中的話，
 能不能請你跟我們一起試著重現這個「天鋼工具」呢？"
 68,"TEXT_LUCKHT001_03848_NEILLEMARD_100_066","（★未使用／削除予定★）"

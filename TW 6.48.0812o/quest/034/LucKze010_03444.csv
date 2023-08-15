@@ -27,8 +27,8 @@ int32,str,str
 22,"TEXT_LUCKZE010_03444_SEQ_22",""
 23,"TEXT_LUCKZE010_03444_SEQ_23",""
 24,"TEXT_LUCKZE010_03444_TODO_00","在「說話」頻道下輸入「野玫瑰」
-和卡恩斯打招呼（tuktu）"
-25,"TEXT_LUCKZE010_03444_TODO_01","在指定地點調查並獲得<Sheet(EventItem,2002519,0)/>"
+和卡恩斯打招呼 (tuktu)"
+25,"TEXT_LUCKZE010_03444_TODO_01","在指定地點調查並獲取<Sheet(EventItem,2002519,0)/>"
 26,"TEXT_LUCKZE010_03444_TODO_02","將<Sheet(EventItem,2002519,0)/>交給卡恩斯"
 27,"TEXT_LUCKZE010_03444_TODO_03",""
 28,"TEXT_LUCKZE010_03444_TODO_04",""
@@ -57,7 +57,7 @@ int32,str,str
 一個人去了戈恩要塞！"
 50,"TEXT_LUCKZE010_03444_VARTHON_000_003","那裡雖說是我們的故鄉，
 但幾年前因為被食罪靈襲擊，現在只剩一片廢墟了。"
-51,"TEXT_LUCKZE010_03444_VARTHON_000_004","到現在都有凶猛的魔物將那裡劃為自己的地盤，
+51,"TEXT_LUCKZE010_03444_VARTHON_000_004","到現在都有兇猛的魔物將那裡劃為自己的地盤，
 瑪托雅大人幾次強調讓我們不要到那邊去。
 但是那傢伙總是很在意要塞到底怎樣了……"
 52,"TEXT_LUCKZE010_03444_VARTHON_000_005","拜託你，請你到戈恩要塞周圍幫忙尋找卡恩斯吧！

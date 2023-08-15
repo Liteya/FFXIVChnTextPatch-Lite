@@ -7,7 +7,7 @@ int32,str,str
 朵洛衣樓的光風院霽月好像有什麼想法。"
 1,"TEXT_BANNAM503_03117_SEQ_01","和昂薩哈凱爾的鯰魚精工匠交談"
 2,"TEXT_BANNAM503_03117_SEQ_02","和昂薩哈凱爾的鯰魚精工匠進行了交談
-繳納光風院霽月委託的東西"
+交納光風院霽月委託的東西"
 3,"TEXT_BANNAM503_03117_SEQ_03",""
 4,"TEXT_BANNAM503_03117_SEQ_04",""
 5,"TEXT_BANNAM503_03117_SEQ_05",""
@@ -126,7 +126,7 @@ int32,str,str
 看來我委託你去幫忙是很正確的判斷。"
 77,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_130_041","哦，居然能準備出用於太鼓皮革的<Sheet(Item,22685,0)/>啊。
 看來我委託你去幫忙是很正確的判斷。"
-78,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_041","有了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫忙，
+78,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_041","有了<Highlight>ObjectParameter(1)</Highlight>的幫忙，
 大鯰大祭肯定會越來越熱鬧。"
 79,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_042","問題是最近一段時間，
 熱鬧得過頭了，都快變成喧鬧了，

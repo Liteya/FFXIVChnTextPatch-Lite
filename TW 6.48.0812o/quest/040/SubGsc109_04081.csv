@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_SUBGSC109_04081_TODO_21",""
 46,"TEXT_SUBGSC109_04081_TODO_22",""
 47,"TEXT_SUBGSC109_04081_TODO_23",""
-48,"TEXT_SUBGSC109_04081_INFORMATION04081_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我找您好久了！
+48,"TEXT_SUBGSC109_04081_INFORMATION04081_000_000","<Highlight>ObjectParameter(1)</Highlight>，我找您好久了！
 我們老闆想見您一面……"
 49,"TEXT_SUBGSC109_04081_INFORMATION04081_000_001","我這就去叫他，您就在幻卡廣場那裡稍等片刻好嗎？
 拜託您了。"
@@ -76,7 +76,7 @@ int32,str,str
 看來就算是冒險者閣下也吃了不少苦啊！"
 62,"TEXT_SUBGSC109_04081_GODBERT_000_019","嚯嚯嚯！
 不愧是冒險者閣下啊！"
-63,"TEXT_SUBGSC109_04081_GODBERT_000_020","透過觀賞你的收藏，我明白了一件事情。"
+63,"TEXT_SUBGSC109_04081_GODBERT_000_020","通過觀賞你的收藏，我明白了一件事情。"
 64,"TEXT_SUBGSC109_04081_GODBERT_000_021","那就是九宮幻卡在世界中的普及度
 要遠遠地超乎我們的想像。"
 65,"TEXT_SUBGSC109_04081_GODBERT_000_022","除此之外，冒險者閣下的收藏也證明了

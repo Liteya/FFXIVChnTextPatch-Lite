@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_CLSBSM451_00301_SEQ_00","鍛鐵匠公會的布瑞賽爾十分感謝冒險者。"
-1,"TEXT_CLSBSM451_00301_SEQ_01","接受了布瑞賽爾的委託。和利姆薩．羅敏薩鍛鐵匠公會的費茲阿爾談談。"
+1,"TEXT_CLSBSM451_00301_SEQ_01","接受了布瑞賽爾的委託。和利姆薩·羅敏薩鍛鐵匠公會的費茲阿爾談談。"
 2,"TEXT_CLSBSM451_00301_SEQ_02","和費茲阿爾進行了交談。籌備<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>各1件，讓費茲阿爾查看。"
-3,"TEXT_CLSBSM451_00301_SEQ_03","讓費茲阿爾查看了<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>。將<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>交給利姆薩．羅敏薩阿斯塔利西亞號的繆麗爾。"
+3,"TEXT_CLSBSM451_00301_SEQ_03","讓費茲阿爾查看了<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>。將<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>交給利姆薩·羅敏薩阿斯塔利西亞號的繆麗爾。"
 4,"TEXT_CLSBSM451_00301_SEQ_04","將<Sheet(ItemHQ,　1723,0)/>、<Sheet(ItemHQ,　1796,0)/>和<Sheet(ItemHQ,　1659,0)/>交給了繆麗爾。繆麗爾收下了裝備，她為能和冒險者這樣真正的手藝人相遇而感動，覺得這是最大的收穫。用她的話激勵自己，繼續磨練自己的鍛鐵本領。
 
 ※鍛鐵匠的等級達到50級以上時，可以從布瑞賽爾那裡領取下一個鍛鐵匠任務。"
@@ -51,9 +51,9 @@ int32,str,str
 45,"TEXT_CLSBSM451_00301_TODO_21",""
 46,"TEXT_CLSBSM451_00301_TODO_22",""
 47,"TEXT_CLSBSM451_00301_TODO_23",""
-48,"TEXT_CLSBSM451_00301_BRITHAEL_000_000","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-最近公會的營運順風順水，都是託了你的福啊！"
-49,"TEXT_CLSBSM451_00301_BRITHAEL_000_001","嘻嘻嘻……我都沒辦法忍住笑意了。
+48,"TEXT_CLSBSM451_00301_BRITHAEL_000_000","喲，<Highlight>ObjectParameter(1)</Highlight>！
+最近公會的運營順風順水，都是託了你的福啊！"
+49,"TEXT_CLSBSM451_00301_BRITHAEL_000_001","嘻嘻嘻……我都沒法忍住笑意了。
 拉你進公會簡直就是我人生裡最大的功績。"
 50,"TEXT_CLSBSM451_00301_BRITHAEL_000_002","最近也不怎麼需要吃胃藥了，吃嘛嘛香。
 前兩天剛跟費茲阿爾一起吃了個飯。
@@ -64,7 +64,7 @@ int32,str,str
 52,"TEXT_CLSBSM451_00301_BRITHAEL_000_004","他希望這份工作也一定由你來完成。
 詳細的情況就請你去找費茲阿爾本人問問吧。
 就交給你了哦。"
-53,"TEXT_CLSBSM451_00301_FAEZAHL_000_010","正等你呢， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+53,"TEXT_CLSBSM451_00301_FAEZAHL_000_010","正等你呢，<Highlight>ObjectParameter(1)</Highlight>。
 這工作我只能拜託你了啊。"
 54,"TEXT_CLSBSM451_00301_FAEZAHL_000_011","說起要送給繆麗爾的禮物呢，
 那孩子在戰鬥這個領域上非常有靈性，沒有固定用某樣武器。"
@@ -85,7 +85,7 @@ int32,str,str
 61,"TEXT_CLSBSM451_00301_FAEZAHL_000_023","用這個打出的拳能有效地對敵人造成傷害。
 這精細的做工就像是你這個人的象徵啊。"
 62,"TEXT_CLSBSM451_00301_FAEZAHL_000_024","然後是這把<Sheet(ItemHQ,　1796,0)/>。
-這厚重的斧刃展現著蠻族們的狂野。"
+這厚重的斧刃體現著蠻族們的狂野。"
 63,"TEXT_CLSBSM451_00301_FAEZAHL_000_025","第一感覺是這根本不適合繆麗爾，
 但是這反差或許會激發出前所未有過的魅力啊。"
 64,"TEXT_CLSBSM451_00301_FAEZAHL_000_026","最後的是這<Sheet(ItemHQ,　1659,0)/>……
@@ -105,6 +105,6 @@ int32,str,str
 我還以為會是個很偏執嚴肅的人呢。"
 70,"TEXT_CLSBSM451_00301_MURIEL_000_033","嘿嘿，看來人不可貌相這句話，
 不管是在鬥士還是工匠們的世界裡，都是通用的呢。"
-71,"TEXT_CLSBSM451_00301_MURIEL_000_034","我答應叔叔的邀請來利姆薩．羅敏薩，
+71,"TEXT_CLSBSM451_00301_MURIEL_000_034","我答應叔叔的邀請來利姆薩·羅敏薩，
 本來也是為了練功……
 沒想到能遇上你這樣有「真本事」的人，這是我最大的收穫！"

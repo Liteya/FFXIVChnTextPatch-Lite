@@ -83,7 +83,7 @@ int32,str,str
 我馬上就把它丟掉了。<UIForeground>01</UIForeground>"
 59,"TEXT_LUCKZK003_03594_Q1_000_000","如何回應？"
 60,"TEXT_LUCKZK003_03594_A1_000_001","創造魔法也會失敗麼？"
-61,"TEXT_LUCKZK003_03594_A1_000_002","…………"
+61,"TEXT_LUCKZK003_03594_A1_000_002","……"
 62,"TEXT_LUCKZK003_03594_AMAUROTPEOPLEG03594_000_013","<UIForeground>F20223</UIForeground>呵呵，我明明是個大人了，
 但創造魔法還會失敗，是不是覺得不可思議？<UIForeground>01</UIForeground>"
 63,"TEXT_LUCKZK003_03594_AMAUROTPEOPLEG03594_000_014","<UIForeground>F20223</UIForeground>創造長袍的時候，
@@ -107,7 +107,7 @@ int32,str,str
 委託租用一下長袍的理念吧。
 先去創造管理局看看吧。<UIForeground>01</UIForeground>"
 71,"TEXT_LUCKZK003_03594_AMAUROTRECEPTION03594_000_030","<UIForeground>F20223</UIForeground>這裡是創造管理局的理念籌備窗口。
-你可以在這裡匯出想要創造的物品的理念。
+你可以在這裡導出想要創造的物品的理念。
 今天你想創造怎樣的創造物呢？<UIForeground>01</UIForeground>"
 72,"TEXT_LUCKZK003_03594_AMAUROTRECEPTION03594_000_031","<UIForeground>F20223</UIForeground>嗯，是平時用來穿的長袍啊。
 明白了，現在就為你準備。
@@ -123,7 +123,7 @@ int32,str,str
 你去捕獲能作為乙太來源的生物吧。<UIForeground>01</UIForeground>"
 76,"TEXT_LUCKZK003_03594_AMAUROTRECEPTION03594_000_035","<UIForeground>F20223</UIForeground><Sheet(EventItem,2002613,0)/>不能發揮出比使用者本身更大的力量。
 像你這樣的孩子，想要捕獲<Sheet(BNpcName,8621,0)/>，
-一定要先削弱它才行……祝你好運。<UIForeground>01</UIForeground>"
+必須要先削弱它才行……祝你好運。<UIForeground>01</UIForeground>"
 77,"TEXT_LUCKZK003_03594_AMAUROTRECEPTION03594_000_038","<UIForeground>F20223</UIForeground>捕獲<Sheet(BNpcName,8621,0)/>了嗎？
 使用<Sheet(EventItem,2002613,0)/>之前，
 要確實削弱了對方的體力才行哦。<UIForeground>01</UIForeground>"

@@ -6,7 +6,7 @@ int32,str,str
 2,"TEXT_JOBMCH501_01704_SEQ_02","和斯特凡尼維安進行了交談。和巨龍首營地的斯特凡尼維安談談，進行模擬戰的準備。"
 3,"TEXT_JOBMCH501_01704_SEQ_03","取得了模擬戰的勝利。和巨龍首營地的斯特凡尼維安談談。"
 4,"TEXT_JOBMCH501_01704_SEQ_04","和斯特凡尼維安進行了交談，分享了勝利的喜悅。和天鋼機工房的斯特凡尼維安談談。"
-5,"TEXT_JOBMCH501_01704_SEQ_05","和斯特凡尼維安進行了交談。透過模擬戰的勝利，斯特凡尼維安成為了天鋼機工房的工房長，冒險者的機工兵裝也得到了改良。好好利用改良後的機工兵裝，作為機工士和斯特凡尼維安一同努力。
+5,"TEXT_JOBMCH501_01704_SEQ_05","和斯特凡尼維安進行了交談。通過模擬戰的勝利，斯特凡尼維安成為了天鋼機工房的工房長，冒險者的機工兵裝也得到了改良。好好利用改良後的機工兵裝，作為機工士和斯特凡尼維安一同努力。
 
 ※可以繼續從天鋼機工房的斯特凡尼維安那裡領取新的特職任務。"
 6,"TEXT_JOBMCH501_01704_SEQ_06",""
@@ -29,7 +29,7 @@ int32,str,str
 23,"TEXT_JOBMCH501_01704_SEQ_23",""
 24,"TEXT_JOBMCH501_01704_TODO_00","和巨龍首營地的斯特凡尼維安對話"
 25,"TEXT_JOBMCH501_01704_TODO_01","再次和巨龍首營地的斯特凡尼維安對話"
-26,"TEXT_JOBMCH501_01704_TODO_02","與巨龍首營地的斯特凡尼維安會合"
+26,"TEXT_JOBMCH501_01704_TODO_02","與巨龍首營地的斯特凡尼維安匯合"
 27,"TEXT_JOBMCH501_01704_TODO_03","和天鋼機工房的斯特凡尼維安對話"
 28,"TEXT_JOBMCH501_01704_TODO_04",""
 29,"TEXT_JOBMCH501_01704_TODO_05",""
@@ -52,20 +52,20 @@ int32,str,str
 46,"TEXT_JOBMCH501_01704_TODO_22",""
 47,"TEXT_JOBMCH501_01704_TODO_23",""
 48,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_000","我這邊能做的已經都做了……
-接下來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+接下來，<Highlight>ObjectParameter(1)</Highlight>，
 就看你這個主力的表現了。"
-49,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_001","我們儘快趕往模擬戰的會場，
+49,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_001","我們盡快趕往模擬戰的會場，
 在其他幾家抵達前進行作戰調整吧。
 模擬戰的會場就在庫爾札斯中央高地的巨龍首營地。"
-50,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_009","我們儘快趕往模擬戰的會場，
+50,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_009","我們盡快趕往模擬戰的會場，
 在其他幾家抵達前進行作戰調整吧。
 模擬戰的會場就在庫爾札斯中央高地的巨龍首營地。"
-51,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_010","你來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+51,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_010","你來啦，<Highlight>ObjectParameter(1)</Highlight>。
 很幸運，其他幾家還沒來。
 我們趁現在確認一下會場，商量作戰計劃吧。"
-52,"TEXT_JOBMCH501_01704_BAURENDOUIN_000_011","(-博朗杜安．德．艾因哈特伯爵-)聽說你們受到了妨害？
+52,"TEXT_JOBMCH501_01704_BAURENDOUIN_000_011","(-博朗杜安·德·艾因哈特伯爵-)聽說你們受到了妨害？
 準備工作已經完成了嗎？"
-53,"TEXT_JOBMCH501_01704_BAURENDOUIN_000_012","(-博朗杜安．德．艾因哈特伯爵-)模擬戰可匯聚著整個皇都的視線。
+53,"TEXT_JOBMCH501_01704_BAURENDOUIN_000_012","(-博朗杜安·德·艾因哈特伯爵-)模擬戰可匯聚著整個皇都的視線。
 要是表現不堪入目的話，教皇廳很可能會切斷資金支援，
 對工房的未來造成不利影響。"
 54,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_013","能做的已經都做了。
@@ -84,7 +84,7 @@ int32,str,str
 59,"TEXT_JOBMCH501_01704_QIB_001_TODO001","確認我方的黑軍戰旗"
 60,"TEXT_JOBMCH501_01704_QIB_001_TODO002","確認敵方的紅軍戰旗"
 61,"TEXT_JOBMCH501_01704_QIB_001_TODO003","確認我方伏兵的位置"
-62,"TEXT_JOBMCH501_01704_QIB_001_TODO004","確認通知伏兵行動的訊號發射裝置"
+62,"TEXT_JOBMCH501_01704_QIB_001_TODO004","確認通知伏兵行動的信號發射裝置"
 63,"TEXT_JOBMCH501_01704_QIB_001_TODO005","和斯特凡尼維安對話開始模擬戰"
 64,"TEXT_JOBMCH501_01704_QIB_001_TODO006","破壞敵方的紅軍戰旗！"
 65,"TEXT_JOBMCH501_01704_QIB_COMPANION_FLAG_GAUGE_NAME","黑軍戰旗"
@@ -105,20 +105,20 @@ int32,str,str
 74,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_08","下面我來分配每個人的任務。"
 75,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_09","喬伊率領艾因哈特家的騎兵們攻擊敵方的<Sheet(EObj,2006370,0)/>。"
 76,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_10","我和剩下的機工士加福爾唐家的騎兵留在我方陣地保護<Sheet(EObj,2006369,0)/>。"
-77,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_11"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，希望實戰經驗豐富的你能夠隨機應變靈活行動。"
+77,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_11","<Highlight>ObjectParameter(1)</Highlight>，希望實戰經驗豐富的你能夠隨機應變靈活行動。"
 78,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_12","塞萊斯特請作為伏兵隱藏起來。
 隱藏地點在這邊，跟我來。"
 79,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_13","調查<Sheet(EObj,2005848,0)/>，確認一下周圍的環境。"
 80,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_14","塞萊斯特就隱藏在這裡，
-等看到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的訊號後，
+等看到<Highlight>ObjectParameter(1)</Highlight>的信號後，
 則開始進攻敵方陣地。"
 81,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_15","敵方先鋒羅什達萊性格好戰，
 看到<Sheet(EObj,2006369,0)/>有危險，
 他就一定會主動攻過來。"
 82,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_16","但這也等於是讓敵陣的防禦出現漏洞。
-你可以抓住這個好時機放出訊號，
+你可以抓住這個好時機放出信號，
 讓塞萊斯特他們大展身手。"
-83,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_17","我將放訊號用的訊號發射裝置設定在了乙太之光附近。"
+83,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_17","我將放信號用的信號發射裝置設定在了乙太之光附近。"
 84,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_18","來，我帶你過去。
 調查<Sheet(EObj,2006175,0)/>，確認一下附近的環境吧。"
 85,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_19","放在這裡可以防止被敵兵發現遭到破壞。
@@ -143,10 +143,10 @@ int32,str,str
 現在的我，興奮極了！"
 95,"TEXT_JOBMCH501_01704_QIB_DURENDAIRE_LEADER_BATTLETALK_24","機工士與垃圾無異！讓我們去把他們全部殲滅！"
 96,"TEXT_JOBMCH501_01704_QIB_ZEMAEL_LEADER_BATTLETALK_25","沒有比這種勝負一目瞭然的模擬戰更加無趣的東西了。"
-97,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_26","唔，敵軍似乎投入了很多醫師。"
+97,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_26","唔，敵軍貌似投入了很多醫師。"
 98,"TEXT_JOBMCH501_01704_QIB_DURENDAIRE_LEADER_BATTLETALK_27","時機到了……一舉突入敵陣！"
 99,"TEXT_JOBMCH501_01704_QIB_DURENDAIRE_LEADER_BATTLETALK_28","全跟我上！發動總攻的時候到了！"
-100,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_29"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請優先擊敗敵方的<Sheet(BNpcName,4213,0)/>。
+100,"TEXT_JOBMCH501_01704_QIB_STEPHANIVIEN_BATTLETALK_29","<Highlight>ObjectParameter(1)</Highlight>，請優先擊敗敵方的<Sheet(BNpcName,4213,0)/>。
 照這樣下去我方就要撐不住了！"
 101,"TEXT_JOBMCH501_01704_QIB_CELESTAUX_BATTLETALK_30","好，去攻擊敵陣的<Sheet(EObj,2006370,0)/>！"
 102,"TEXT_JOBMCH501_01704_QIB_CELESTAUX_BATTLETALK_31","羅什達萊竟然在這裡……
@@ -184,10 +184,10 @@ int32,str,str
 119,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_080","機工士將成為討伐龍族之槍、守護皇都之盾！
 為此，請各位助我一臂之力吧！
 讓我們射穿皇都古鏽的常識！"
-120,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦了。
+120,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_090","<Highlight>ObjectParameter(1)</Highlight>，辛苦了。
 這次都是多虧了你準確的行動才讓這場艱辛的戰鬥取得了勝利。"
 121,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_091","我也順利成為了名符其實的工房長。
-今後就可以更加積極自由地展開活動了。"
+今後就可以更加積極自由地開展活動了。"
 122,"TEXT_JOBMCH501_01704_STEPHANIVIEN_000_092","作為升任工房長後值得紀念的首次工作，
 就讓我改良一下你的機工兵裝吧。
 它也算是我對你的謝禮，請務必收下。"

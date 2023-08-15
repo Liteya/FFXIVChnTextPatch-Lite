@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA308_01249_SEQ_00","灰陣營的雅德夫．夏想要冒險者解除後顧之憂。"
-1,"TEXT_BANAMA308_01249_SEQ_01","接受了雅德夫．夏的委託。在不悔戰陣的<Sheet(EObj,2003087,0)/>等待，討伐出現的<Sheet(BNpcName,2304)/>，獲得3個<Sheet(EventItem,2001170,0)/>。"
+0,"TEXT_BANAMA308_01249_SEQ_00","灰陣營的雅德夫·夏想要冒險者解除後顧之憂。"
+1,"TEXT_BANAMA308_01249_SEQ_01","接受了雅德夫·夏的委託。在不悔戰陣的<Sheet(EObj,2003087,0)/>等待，討伐出現的<Sheet(BNpcName,2304)/>，獲取3個<Sheet(EventItem,2001170,0)/>。"
 2,"TEXT_BANAMA308_01249_SEQ_02","討伐了<Sheet(BNpcName,2304)/>，獲得了<Sheet(EventItem,2001170,0)/>。對贊拉克的<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用<Sheet(EventItem,2001170,0)/>。"
-3,"TEXT_BANAMA308_01249_SEQ_03","對<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用了<Sheet(EventItem,2001170,0)/>，解放了俘虜。向灰陣營的雅德夫．夏報告。"
-4,"TEXT_BANAMA308_01249_SEQ_04","向雅德夫．夏報告完畢。多虧了冒險者幫忙，可以後顧無憂地展開戰鬥了，雅德夫．夏對此感到很高興。看來他十分信賴冒險者。下次有機會再協助他。"
+3,"TEXT_BANAMA308_01249_SEQ_03","對<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用了<Sheet(EventItem,2001170,0)/>，解放了俘虜。向灰陣營的雅德夫·夏報告。"
+4,"TEXT_BANAMA308_01249_SEQ_04","向雅德夫·夏報告完畢。多虧了冒險者幫忙，可以後顧無憂地展開戰鬥了，雅德夫·夏對此感到很高興。看來他十分信賴冒險者。下次有機會再協助他。"
 5,"TEXT_BANAMA308_01249_SEQ_05",""
 6,"TEXT_BANAMA308_01249_SEQ_06",""
 7,"TEXT_BANAMA308_01249_SEQ_07",""
@@ -28,7 +28,7 @@ int32,str,str
 24,"TEXT_BANAMA308_01249_TODO_00","在不悔戰陣的<Sheet(EObj,2003087,0)/>等待
 從<Sheet(BNpcName,2304)/>身上得到<Sheet(EventItem,2001170,0)/>"
 25,"TEXT_BANAMA308_01249_TODO_01","對贊拉克的<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用<Sheet(EventItem,2001170,0)/>"
-26,"TEXT_BANAMA308_01249_TODO_02","向雅德夫．夏報告"
+26,"TEXT_BANAMA308_01249_TODO_02","向雅德夫·夏報告"
 27,"TEXT_BANAMA308_01249_TODO_03",""
 28,"TEXT_BANAMA308_01249_TODO_04",""
 29,"TEXT_BANAMA308_01249_TODO_05",""
@@ -59,7 +59,7 @@ int32,str,str
 51,"TEXT_BANAMA308_01249_YADOVVGAH_000_003","冒險者閣下……請你趕赴敵方陣營，
 打開<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>，解放俘虜。"
 52,"TEXT_BANAMA308_01249_YADOVVGAH_000_004","不悔戰陣的炎牙眾<Sheet(BNpcName,2304)/>身上帶有<Sheet(EventItem,2001170,0)/>。
-首先打倒敵人獲得鑰匙，而後再尋找鐵籠。"
+首先打倒敵人獲取鑰匙，而後再尋找鐵籠。"
 53,"TEXT_BANAMA308_01249_YADOVVGAH_000_005","我們的巨大身軀太醒目了，不便行動。
 而這樣的秘密行動正是閣下最擅長的領域。"
 54,"TEXT_BANAMA308_01249_YADOVVGAH_000_010","從<Sheet(BNpcName,2304)/>身上奪取<Sheet(EventItem,2001170,0)/>，

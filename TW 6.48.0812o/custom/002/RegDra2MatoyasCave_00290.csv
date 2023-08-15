@@ -4,12 +4,12 @@ int32,str,str
 0,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_000","呱呱……
 沒想到會有客人來到這個洞穴，真是太罕見了！
 不知你有何貴幹呱？"
-1,"TEXT_REGDRA2MATOYASCAVE_00290_Q1_000_050","想瞭解什麼？"
+1,"TEXT_REGDRA2MATOYASCAVE_00290_Q1_000_050","想了解什麼？"
 2,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_051","你是做什麼的？"
 3,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_052","這裡是什麼地方？"
 4,"TEXT_REGDRA2MATOYASCAVE_00290_A1_000_053","取消"
 5,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_070","呱呱……
-我是瑪托雅大人的使魔，名字叫特羅．羅格呱。"
+我是瑪托雅大人的使魔，名字叫特羅·羅格呱。"
 6,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_071","在瑪托雅大人的故鄉、知識之都薩雷安，
 有一種魔法可以給予沒有智慧的物品以智慧，
 用作使魔呱。"
@@ -29,5 +29,5 @@ int32,str,str
 還有那些愛乾淨的掃把們的本性，
 現在這裡比看上去要舒服得多呱。"
 13,"TEXT_REGDRA2MATOYASCAVE_00290_TOROROGGO_000_093","不過，只要有我們智蛙在，
-不管怎樣都是溼漉漉黏糊糊的呱。
+不管怎樣都是濕漉漉黏糊糊的呱。
 呱呱呱！"

@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_BANLOP112_04698_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-希望的貨艙的營運威希望冒險者能幫助一個兔兔族實現夢想。"
+希望的貨艙的運營威希望冒險者能幫助一個兔兔族實現夢想。"
 1,"TEXT_BANLOP112_04698_SEQ_01","和守病威對話"
-2,"TEXT_BANLOP112_04698_SEQ_02","將委託的物品交給營運威"
+2,"TEXT_BANLOP112_04698_SEQ_02","將委託的物品交給運營威"
 3,"TEXT_BANLOP112_04698_SEQ_03",""
 4,"TEXT_BANLOP112_04698_SEQ_04",""
 5,"TEXT_BANLOP112_04698_SEQ_05",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANLOP112_04698_SEQ_22",""
 23,"TEXT_BANLOP112_04698_SEQ_23",""
 24,"TEXT_BANLOP112_04698_TODO_00","和最佳威兔洞的守病威對話"
-25,"TEXT_BANLOP112_04698_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/></If></If></If></If></If></If></If></If>"
+25,"TEXT_BANLOP112_04698_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/></If></If></If></If></If></If></If></If>"
 26,"TEXT_BANLOP112_04698_TODO_02",""
 27,"TEXT_BANLOP112_04698_TODO_03",""
 28,"TEXT_BANLOP112_04698_TODO_04",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANLOP112_04698_TODO_21",""
 46,"TEXT_BANLOP112_04698_TODO_22",""
 47,"TEXT_BANLOP112_04698_TODO_23",""
-48,"TEXT_BANLOP112_04698_MANAGINGWAY_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，我有事想要和你談談。
+48,"TEXT_BANLOP112_04698_MANAGINGWAY_000_001","<Highlight>ObjectParameter(1)</Highlight>大人，我有事想要和你談談。
 是這樣，我有一位名叫守病威的夥伴，
 希望你能幫她實現夢想。"
 49,"TEXT_BANLOP112_04698_MANAGINGWAY_000_002","她的夢想是守護所有兔兔族的健康。
@@ -61,17 +61,17 @@ int32,str,str
 50,"TEXT_BANLOP112_04698_MANAGINGWAY_000_003","兔兔族們在月球表面工作時要是碰到了孢子，
 身上就可能會出現打噴嚏、流鼻涕、出疹子、掉毛等等症狀。
 她希望能夠盡可能地避免這種現狀。"
-51,"TEXT_BANLOP112_04698_MANAGINGWAY_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，感謝你再次來傾聽我的煩惱。
+51,"TEXT_BANLOP112_04698_MANAGINGWAY_000_004","<Highlight>ObjectParameter(1)</Highlight>大人，感謝你再次來傾聽我的煩惱。
 是這樣，守病威她希望能再次獲得幫助。"
 52,"TEXT_BANLOP112_04698_MANAGINGWAY_000_005","為了達成她守護兔兔族健康的目標，
-她想要量產前幾個日子開發出來的防孢子套裝。"
+她想要量產前些日子開發出來的防孢子套裝。"
 53,"TEXT_BANLOP112_04698_MANAGINGWAY_000_006","我希望能請你去最佳威兔洞和她談談，
 幫助她完成製作。
 麻煩你了。"
-54,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_007","哎呀，是人類，是營運威讓你來的嗎？
+54,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_007","哎呀，是人類，是運營威讓你來的嗎？
 謝謝你來幫忙！"
 55,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_008","我現在正在研究一款能夠防護進化菌類孢子的套裝。
-目前暫時沒有人手來製作元件。"
+目前暫時沒有人手來製作部件。"
 56,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_009","請你使用這些材料製作一些<Sheet(Item,38869,0)/>吧，
 有了這種卡扣做<Sheet(Item,38869,0)/>，防護衣就有了氣密性。
 製作過程中如果材料不夠的話，記得告訴我！"
@@ -81,24 +81,24 @@ int32,str,str
 58,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_011","請你使用這些材料製作一些<Sheet(Item,38869,0)/>吧，
 有了這種黏合劑做<Sheet(Item,38869,0)/>，防護衣就有了氣密性。
 製作過程中如果材料不夠的話，記得告訴我！"
-59,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_012","完成的元件請你交給營運威。
-等我回到機械臺，
-就可以用你做的元件完成防護衣啦！拜託你啦！"
+59,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_012","完成的部件請你交給運營威。
+等我回到機械台，
+就可以用你做的部件完成防護衣啦！拜託你啦！"
 60,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_013","哎呀，材料不夠了？
-請收……你這不是還有嗎！"
+請收……你這不是還有呢嗎！"
 61,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_014","哎呀，材料不夠了？
-請收……你這不是還有嗎！"
+請收……你這不是還有呢嗎！"
 62,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_015","哎呀，材料不夠了？
-請收……你這不是還有嗎！"
+請收……你這不是還有呢嗎！"
 63,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_016","哎呀，材料不夠了？
 請收下這些材料吧！"
 64,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_017","哎呀，材料不夠了？
 請收下這些材料吧！"
 65,"TEXT_BANLOP112_04698_PROTECTINGWAY_000_018","哎呀，材料不夠了？
 請收下這些材料吧！"
-66,"TEXT_BANLOP112_04698_MANAGINGWAY_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！
+66,"TEXT_BANLOP112_04698_MANAGINGWAY_000_020","<Highlight>ObjectParameter(1)</Highlight>大人！
 給守病威幫忙的事，進展怎麼樣？"
-67,"TEXT_BANLOP112_04698_MANAGINGWAY_000_021","這可真是漂亮的元件啊！
+67,"TEXT_BANLOP112_04698_MANAGINGWAY_000_021","這可真是漂亮的部件啊！
 守病威看見了一定會高興的！"
 68,"TEXT_BANLOP112_04698_MANAGINGWAY_000_022","不過……她到底為什麼非要做防護衣不可呢？
 想要避免孢子造成傷害的話，

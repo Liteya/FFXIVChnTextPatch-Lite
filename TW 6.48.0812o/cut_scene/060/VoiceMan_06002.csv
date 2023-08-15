@@ -38,7 +38,7 @@ int32,str,str
 19,"TEXT_VOICEMAN_06002_000200_URIANGER","所以你們才創造出了擁有暗之力……
 也就是活性之力的佐迪亞克。"
 20,"TEXT_VOICEMAN_06002_000210_URIANGER","如此一來不但可以增強整個星球的乙太流動，
-甚至還能透過他來進行控制。
+甚至還能通過他來進行控制。
 簡直就是重新塑造了行星之理。"
 21,"TEXT_VOICEMAN_06002_000220_WATCHEROFMOON","<UIForeground>F20223</UIForeground>沒錯。
 被創造出來的佐迪亞克和預測的一樣，
@@ -73,7 +73,7 @@ int32,str,str
 對於生活在行星上的人，
 她能做到的就只有告知危機，並給予回應她的人加護而已。<UIForeground>01</UIForeground>"
 36,"TEXT_VOICEMAN_06002_000340_WATCHEROFMOON","<UIForeground>F20223</UIForeground>對她來說，「光之戰士」的協助是必需的，
-所以她才會儘量避免說出以前那個世界的事吧。<UIForeground>01</UIForeground>"
+所以她才會盡量避免說出以前那個世界的事吧。<UIForeground>01</UIForeground>"
 37,"TEXT_VOICEMAN_06002_000350_WATCHEROFMOON","<UIForeground>F20223</UIForeground>因為海德林身上所寄託的期望，
 就是人應該放下過去，向前邁進……<UIForeground>01</UIForeground>"
 38,"TEXT_VOICEMAN_06002_000360_YSHTOLA","雖然海德林對我們有所隱瞞，
@@ -117,7 +117,7 @@ int32,str,str
 60,"TEXT_VOICEMAN_06002_000580_LIVINGWAY","(-？？？？-)終於輪到我們登場了！"
 61,"TEXT_VOICEMAN_06002_000590_LIVINGWAY","(-？？？？-)好了，我們要加快速度，趕快做好準備！"
 62,"TEXT_VOICEMAN_06002_000600_LIVINGWAY","(-？？？？-)請諸位仔細檢查自己負責的區域，以便接收人類。
-同時也不要忘記向地面的「他們」傳送訊號。"
+同時也不要忘記向地面的「他們」發送信號。"
 63,"TEXT_VOICEMAN_06002_000610_LIVINGWAY","(-？？？？-)有不明白的可以提問。
 有嗎？沒有吧？
 既然沒有，那就開始行動吧！"
@@ -136,7 +136,7 @@ int32,str,str
 不過我還有點沒搞懂狀況。"
 71,"TEXT_VOICEMAN_06002_000690_LIVINGWAY","我完全可以理解你們的困惑。
 沒關係，你們來這裡的理由我也大概推測出來了。"
-72,"TEXT_VOICEMAN_06002_000700_LIVINGWAY","一定是地面上的人類沒能阻止使佐迪亞克消失的危險分子。"
+72,"TEXT_VOICEMAN_06002_000700_LIVINGWAY","肯定是地面上的人類沒能阻止使佐迪亞克消失的危險分子。"
 73,"TEXT_VOICEMAN_06002_000710_LIVINGWAY","而你們的父母忙得不可開交，
 才只好讓你們這些小孩子來月球找我們，沒錯吧？"
 74,"TEXT_VOICEMAN_06002_000720_LIVINGWAY","不用擔心，我會一五一十地給你們講清楚的！"
@@ -146,10 +146,10 @@ int32,str,str
 77,"TEXT_VOICEMAN_06002_000750_LIVINGWAY","亞伊太利斯很快就會遭遇毀滅性的災難，
 成為一顆沒有任何生命存活的死亡之星。"
 78,"TEXT_VOICEMAN_06002_000760_URIANGER","月面監視者也對我們說了同樣的話。
-你們也認為末日的到來是無法避免的嗎？"
-79,"TEXT_VOICEMAN_06002_000770_LIVINGWAY","當然無法避免了。"
+你們也認為末日的到來是不可避免的嗎？"
+79,"TEXT_VOICEMAN_06002_000770_LIVINGWAY","當然不可避免了。"
 80,"TEXT_VOICEMAN_06002_000780_LIVINGWAY","請你們把亞伊太利斯想成是一根胡蘿蔔，
-而且被放在了悶熱潮溼的地方。"
+而且被放在了悶熱潮濕的地方。"
 81,"TEXT_VOICEMAN_06002_000790_LIVINGWAY","它最終會怎麼樣呢？必定會腐爛發臭！
 就算你們再怎麼祈禱，再怎麼提出不會腐爛的假設，
 這根胡蘿蔔的結果都是不會變的。"
@@ -160,7 +160,7 @@ int32,str,str
 我們會將盡可能多的生命和物資送到月球。"
 85,"TEXT_VOICEMAN_06002_000830_LIVINGWAY","然後帶大家前往可以移居的星球。"
 86,"TEXT_VOICEMAN_06002_000840_LIVINGWAY","雖說各個星球之間的距離十分遙遠，
-但透過我們對月球多年的改造和整備，
+但通過我們對月球多年的改造和整備，
 如今它已經搭載了空間跳躍裝置。"
 87,"TEXT_VOICEMAN_06002_000850_LIVINGWAY","只要使用這個，我們很快就可以到達目的地。"
 88,"TEXT_VOICEMAN_06002_000860_YSHTOLA","你們好厲害……
@@ -227,7 +227,7 @@ int32,str,str
 轉移地點將自動變更……啊！"
 121,"TEXT_VOICEMAN_06002_001190_URIANGER","那麼，你們想對我說什麼？"
 122,"TEXT_VOICEMAN_06002_001200_LIVINGWAY","其實我並不想問……
-但這是個嚴肅的問題，我有責任瞭解清楚。"
+但這是個嚴肅的問題，我有責任了解清楚。"
 123,"TEXT_VOICEMAN_06002_001210_LIVINGWAY","我們創造的環境，
 實際上並不能滿足人類，對嗎？
 請你實話實說……"
@@ -235,12 +235,12 @@ int32,str,str
 125,"TEXT_VOICEMAN_06002_001230_LIVINGWAY","看到你的同伴們的表情我就明白了。
 但令人沮喪的是，
 從來沒有人告訴我們究竟哪裡沒做好……"
-126,"TEXT_VOICEMAN_06002_001240_LIVINGWAY","我們想儘量改善所有不合理之處，
+126,"TEXT_VOICEMAN_06002_001240_LIVINGWAY","我們想盡量改善所有不合理之處，
 但是，現在已經沒有那麼多時間了。"
 127,"TEXT_VOICEMAN_06002_001250_LIVINGWAY","危機不會耐心地等我們改造完了才出現。
 一旦末日真正降臨，再想救出大家就晚了！"
 128,"TEXT_VOICEMAN_06002_001260_LIVINGWAY","所以……即便現在的環境無法盡如人意，
-我們也希望亞伊太利斯的人類能夠儘快登月。
+我們也希望亞伊太利斯的人類能夠盡快登月。
 因此，我們想要拜託你一件事。"
 129,"TEXT_VOICEMAN_06002_001270_LIVINGWAY","我們會告訴你有關幫手的情報，
 能請你先回到地面，和他們一起疏導人類嗎？"
@@ -257,7 +257,7 @@ int32,str,str
 讓盡可能多的人活下來才是正確的選擇。"
 135,"TEXT_VOICEMAN_06002_001330_URIANGER","我又只能……
 眼睜睜地看著他人犧牲嗎……"
-136,"TEXT_VOICEMAN_06002_001340_LIVINGWAY","于里昂熱先生？"
+136,"TEXT_VOICEMAN_06002_001340_LIVINGWAY","於里昂熱先生？"
 137,"TEXT_VOICEMAN_06002_001350_URIANGER","不，沒什麼。
 我明白你們的想法了。"
 138,"TEXT_VOICEMAN_06002_001360_URIANGER","我……"
@@ -278,7 +278,7 @@ int32,str,str
 146,"TEXT_VOICEMAN_06002_001440_URIANGER","水晶公曾經也找過我，
 讓我協助他那犧牲自己拯救世界的計劃。"
 147,"TEXT_VOICEMAN_06002_001450_URIANGER","將敏菲利亞送到第一世界也是我的主意，
-從桑克瑞德和芙．拉敏身邊奪走她的……
+從桑克瑞德和芙·拉敏身邊奪走她的……
 不是別人，正是我。"
 148,"TEXT_VOICEMAN_06002_001460_URIANGER","當然，無論是水晶公還是敏菲利亞，
 他們都有著高尚的品格和無私的精神，
@@ -317,7 +317,7 @@ int32,str,str
 只有你似乎從未動搖過……"
 166,"TEXT_VOICEMAN_06002_001600_URIANGER","這是……？"
 167,"TEXT_VOICEMAN_06002_001610_URIANGER","我就覺得從你口中聽到這種話有些奇怪，
-原來是天龍弗慄多對你說的……"
+原來是天龍弗栗多對你說的……"
 168,"TEXT_VOICEMAN_06002_001620_URIANGER","真是意外。
 原來你也有這種想法。"
 169,"TEXT_VOICEMAN_06002_001630_URIANGER","仔細想想，我們已相識許久，
@@ -374,7 +374,7 @@ int32,str,str
 197,"TEXT_VOICEMAN_06002_001910_LIVINGWAY","那些做得不夠好的地方，
 我們一定會改正的！"
 198,"TEXT_VOICEMAN_06002_001920_URIANGER","不，你們已經做得很好了。
-真正的問題在於你們還不夠瞭解人類。"
+真正的問題在於你們還不夠了解人類。"
 199,"TEXT_VOICEMAN_06002_001930_URIANGER","就拿你們的名字來說明吧。
 歌鳴威，你的名字並不是單純地指代按照節奏發出聲音。"
 200,"TEXT_VOICEMAN_06002_001940_URIANGER","在地面上有著無數的歌曲。
@@ -408,7 +408,7 @@ int32,str,str
 212,"TEXT_VOICEMAN_06002_002060_LIVINGWAY","我……不是很明白。"
 213,"TEXT_VOICEMAN_06002_002070_URIANGER","我也還在學習摸索，試圖找到自己的答案。
 不過請放心，在這段時間內，
-我會盡我所能讓你們更加瞭解我們。"
+我會盡我所能讓你們更加了解我們。"
 214,"TEXT_VOICEMAN_06002_002080_URIANGER","給你這個。"
 215,"TEXT_VOICEMAN_06002_002090_URIANGER","這是墨水，和亞伊太利斯有著一樣的顏色。
 雖然是臨時做出來的，但品質應該沒問題。"
@@ -438,7 +438,7 @@ int32,str,str
 你是怎麼得到它的？<UIForeground>01</UIForeground>"
 228,"TEXT_VOICEMAN_06002_002220_WATCHEROFMOON","<UIForeground>F20223</UIForeground>原來如此，果然是維涅斯會說出的話。<UIForeground>01</UIForeground>"
 229,"TEXT_VOICEMAN_06002_002230_WATCHEROFMOON","<UIForeground>F20223</UIForeground>那麼，只要繼續跟隨這朵花的指引，
-說不定你們就能瞭解到連我們也不曾知曉的她的真意。<UIForeground>01</UIForeground>"
+說不定你們就能了解到連我們也不曾知曉的她的真意。<UIForeground>01</UIForeground>"
 230,"TEXT_VOICEMAN_06002_002240_WATCHEROFMOON","<UIForeground>F20223</UIForeground>另外，希望你們能記住，
 在我們那個時代，這種花被稱為「厄爾庇斯」。<UIForeground>01</UIForeground>"
 231,"TEXT_VOICEMAN_06002_002250_LIVINGWAY","那個……都怪我們太著急了，
@@ -464,7 +464,7 @@ int32,str,str
 乃至關於整個世界未來的重大消息。"
 243,"TEXT_VOICEMAN_06002_002370_BARNIER","因此，我們特意採用過去的議會形式，
 盡可能讓全體市民都來到這裡集合。"
-244,"TEXT_VOICEMAN_06002_002380_BARNIER","近來，一個自稱終焉使徒的團夥正在國外興風作浪。
+244,"TEXT_VOICEMAN_06002_002380_BARNIER","近來，一個自稱終末使徒的團伙正在國外興風作浪。
 相信很多人對此都有所耳聞。"
 245,"TEXT_VOICEMAN_06002_002390_BARNIER","此事本身只是世間常見的動亂。
 但他們打出的「末日」這一口號，
@@ -480,11 +480,11 @@ int32,str,str
 251,"TEXT_VOICEMAN_06002_002450_LEGISLATORA","遮蔽我等言語之障壁，
 消失吧，束縛在此盡數解除。"
 252,"TEXT_VOICEMAN_06002_002460_BARNIER","這下終於可以將我們肩負的使命公之於眾了。
-接下來由你來說吧，萊維耶勒爾議員。"
+接下來由你來說吧，萊韋耶勒爾議員。"
 253,"TEXT_VOICEMAN_06002_002470_FOURCHENAULT","好的。"
 254,"TEXT_VOICEMAN_06002_002480_FOURCHENAULT","270年前，
 我們的祖先在龍堡內陸低地對星海進行過探索和研究。"
-255,"TEXT_VOICEMAN_06002_002490_FOURCHENAULT","我相信在場的各位或多或少都對這段歷史有所瞭解，
+255,"TEXT_VOICEMAN_06002_002490_FOURCHENAULT","我相信在場的各位或多或少都對這段歷史有所了解，
 但真正的研究成果，其實被議會隱瞞了下來。"
 256,"TEXT_VOICEMAN_06002_002500_FOURCHENAULT","他們在探索星海的過程中，
 成功接觸到了星球的意志——海德林。"
@@ -502,7 +502,7 @@ int32,str,str
 在發展國家的同時，收集起了準備運往月亮的知識。"
 262,"TEXT_VOICEMAN_06002_002560_SHARLAYANCITIZENA","那你們現在公布這件事，
 難道是因為災難就要降臨了？！"
-263,"TEXT_VOICEMAN_06002_002570_BARNIER","月亮上的朋友發來了時機已至的訊號。
+263,"TEXT_VOICEMAN_06002_002570_BARNIER","月亮上的朋友發來了時機已至的信號。
 這顆星球已經隨時都有可能滅亡。"
 264,"TEXT_VOICEMAN_06002_002580_BARNIER","因此，我們即將展開新的「大撤退」，
 離開這顆星球。"
@@ -537,9 +537,9 @@ int32,str,str
 又要勸我拿起武器不要逃避嗎？"
 283,"TEXT_VOICEMAN_06002_002740_ALPHINAUD","沒有，我們不反對哲學家議會的計劃。
 請帶著希望逃離的人安全撤離吧。"
-284,"TEXT_VOICEMAN_06002_002750_ALPHINAUD","您應該認識于里昂熱吧，他留在了月球上。
+284,"TEXT_VOICEMAN_06002_002750_ALPHINAUD","您應該認識於里昂熱吧，他留在了月球上。
 如果出現了什麼問題，
-可以透過他去和月球的船員協調。"
+可以通過他去和月球的船員協調。"
 285,"TEXT_VOICEMAN_06002_002760_FOURCHENAULT","那你們，有什麼打算？"
 286,"TEXT_VOICEMAN_06002_002770_ALPHINAUD","我們在各地旅行，接觸到了各式各樣的人與文化。"
 287,"TEXT_VOICEMAN_06002_002780_ALPHINAUD","不論哪裡，都充滿了時間與人們情感的沉澱。
@@ -578,8 +578,8 @@ int32,str,str
 305,"TEXT_VOICEMAN_06002_A4_000_001_NONE_VOICE","阿爾菲諾"
 306,"TEXT_VOICEMAN_06002_A4_000_002_NONE_VOICE","阿莉塞"
 307,"TEXT_VOICEMAN_06002_A4_000_003_NONE_VOICE","桑克瑞德"
-308,"TEXT_VOICEMAN_06002_A4_000_004_NONE_VOICE","雅．修特拉"
-309,"TEXT_VOICEMAN_06002_A4_000_005_NONE_VOICE","古．拉哈．提亞"
+308,"TEXT_VOICEMAN_06002_A4_000_004_NONE_VOICE","雅·修特拉"
+309,"TEXT_VOICEMAN_06002_A4_000_005_NONE_VOICE","古·拉哈·提亞"
 310,"TEXT_VOICEMAN_06002_A4_000_006_NONE_VOICE","埃斯蒂尼安"
 311,"TEXT_VOICEMAN_06002_002950_ALPHINAUD","呃……你還沒睡吧？"
 312,"TEXT_VOICEMAN_06002_002960_ALPHINAUD","那就好。
@@ -603,7 +603,7 @@ int32,str,str
 因此無論如何我都想表達一下感激之情。"
 321,"TEXT_VOICEMAN_06002_003050_ALPHINAUD","時間不早了，我就先回去了。
 要是為了道謝反而打擾到你休息的話，不就本末倒置了嘛。"
-322,"TEXT_VOICEMAN_06002_003060_ALPHINAUD","我給阿雷恩瓦爾德寫完信後也會儘早休息的。
+322,"TEXT_VOICEMAN_06002_003060_ALPHINAUD","我給阿雷恩瓦爾德寫完信後也會盡早休息的。
 明天見吧，晚安。"
 323,"TEXT_VOICEMAN_06002_003070_ALISAIE","嘿嘿，是不是以為我給你帶夜宵啦？
 很遺憾，雖然猶豫了一下，不過我還是決定空手來啦。"
@@ -618,7 +618,7 @@ int32,str,str
 就算是你，也一樣會遭遇危險。"
 328,"TEXT_VOICEMAN_06002_003120_ALISAIE","明明是個天經地義的道理，
 可我卻一直都沒認真地往那個方向考慮過……
-現在一回想起來就有些……有些害怕……"
+現在一回想起來就有些……有些後怕……"
 329,"TEXT_VOICEMAN_06002_003130_ALISAIE","所以，我就是想來說一句：
 在以後的戰鬥中，你一定要保護好自己！"
 330,"TEXT_VOICEMAN_06002_003140_ALISAIE","我是說過要戰鬥到底，
@@ -635,7 +635,7 @@ int32,str,str
 336,"TEXT_VOICEMAN_06002_003200_THANCRED","其實你也不用太緊張，不是什麼過分的請求。"
 337,"TEXT_VOICEMAN_06002_003210_THANCRED","現在的情況你也知道，
 我們接下來要對付的可能是整個星球的劫難。"
-338,"TEXT_VOICEMAN_06002_003220_THANCRED","正如于里昂熱所說，
+338,"TEXT_VOICEMAN_06002_003220_THANCRED","正如於里昂熱所說，
 我絕不會對第一世界……對琳見死不救。"
 339,"TEXT_VOICEMAN_06002_003230_THANCRED","所以我不敢斷言自己一定會做出冷靜的判斷，
 如果到最後真的不得不登上月球，
@@ -657,7 +657,7 @@ int32,str,str
 347,"TEXT_VOICEMAN_06002_003310_THANCRED","行了，我回去了，你也快休息吧。
 哦對了，我來找你的事記得保密啊。
 不然我肯定會被罵。"
-348,"TEXT_VOICEMAN_06002_003320_YSHTOLA","晚安，幸好你還沒睡。"
+348,"TEXT_VOICEMAN_06002_003320_YSHTOLA","晚上好，幸好你還沒睡。"
 349,"TEXT_VOICEMAN_06002_003330_YSHTOLA","總之你先站在那裡不要動。"
 350,"TEXT_VOICEMAN_06002_003340_YSHTOLA","嗯……似乎沒什麼問題。"
 351,"TEXT_VOICEMAN_06002_003350_YSHTOLA","沒什麼，我就是檢查一下。
@@ -695,7 +695,7 @@ int32,str,str
 365,"TEXT_VOICEMAN_06002_003490_GRAHATIA","每個人都有自己的極限。
 如果末日降臨，我真怕你會因為無法承受更多而倒下。"
 366,"TEXT_VOICEMAN_06002_003500_GRAHATIA","所以，我……"
-367,"TEXT_VOICEMAN_06002_003510_GRAHATIA","我希望你能把揹負的重擔分一些給我，
+367,"TEXT_VOICEMAN_06002_003510_GRAHATIA","我希望你能把背負的重擔分一些給我，
 不要全都自己一個人去承受。"
 368,"TEXT_VOICEMAN_06002_003520_GRAHATIA","在你感覺快要喘不過氣的時候，
 不要忘了身邊還有我。"
@@ -732,8 +732,8 @@ int32,str,str
 385,"TEXT_VOICEMAN_06002_003690_ESTINIEN","所以你不用有任何顧慮，
 儘管讓我去打倒敵人吧。
 我會讓他們後悔與我們為敵。"
-386,"TEXT_VOICEMAN_06002_003700_ESTINIEN","好了，我應該那對雙胞胎也差不多該追上來了。
-借用一下你的陽臺。"
+386,"TEXT_VOICEMAN_06002_003700_ESTINIEN","好了，我估計那對雙胞胎也差不多該追上來了。
+借用一下你的陽台。"
 387,"TEXT_VOICEMAN_06002_003710_ESTINIEN","要是他們問起我，你就說「沒見過」。"
 388,"TEXT_VOICEMAN_06002_003720_ESTINIEN","那明天見了，夥伴。"
 389,"TEXT_VOICEMAN_06002_003730_SYSTEM_NONE_VOICE","不久前 阿拉米格人居住區"
@@ -747,16 +747,16 @@ int32,str,str
 393,"TEXT_VOICEMAN_06002_003770_ALAMHIGANCITIZENA","可是，救援隊似乎從加雷馬帶回了大量被精煉的帝國人。
 真的沒問題嗎……"
 394,"TEXT_VOICEMAN_06002_003780_ALAMHIGANCITIZENB","聽勞班大人的意思，
-好像是艾奧傑亞各國會負責收治他們，
+好像是艾歐澤亞各國會負責收治他們，
 不過暫時還不會分配給阿拉米格。"
 395,"TEXT_VOICEMAN_06002_003790_ALAMHIGANCITIZENA","這樣啊……
 那我就放心了。"
 396,"TEXT_VOICEMAN_06002_003800_ALAMHIGANCITIZENA","那裡還有不少投奔帝國的阿拉米格人呢……
-我可沒辦法歡迎他們回來。"
+我可沒法歡迎他們回來。"
 397,"TEXT_VOICEMAN_06002_003810_ALAMHIGANCITIZENB","是啊……
 不過我聽說阿拉加納好像在準備什麼，
 可能會先集中在那邊吧……"
-398,"TEXT_VOICEMAN_06002_003820_SYSTEM_NONE_VOICE","同一時刻 伊修加爾德"
+398,"TEXT_VOICEMAN_06002_003820_SYSTEM_NONE_VOICE","同一時刻 伊修加德"
 399,"TEXT_VOICEMAN_06002_003830_ERENVILLE","這個委託可真是夠大膽的……"
 400,"TEXT_VOICEMAN_06002_003840_ERENVILLE","接下來該怎麼辦呢……"
 401,"TEXT_VOICEMAN_06002_003850_ERENVILLE","嗯？"

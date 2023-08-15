@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVNA308_01609_TODO_21",""
 46,"TEXT_HEAVNA308_01609_TODO_22",""
 47,"TEXT_HEAVNA308_01609_TODO_23",""
-48,"TEXT_HEAVNA308_01609_ICEHEART_000_000","光之戰士……不， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_HEAVNA308_01609_ICEHEART_000_000","光之戰士……不，<Highlight>ObjectParameter(1)</Highlight>，
 沒想到竟然會有一天與你共同踏上旅途……
 真是造化弄人。"
 49,"TEXT_HEAVNA308_01609_ICEHEART_000_001","出發吧。
@@ -80,12 +80,12 @@ int32,str,str
 58,"TEXT_HEAVNA308_01609_ESTINIEN_000_015","哼，隨你們的便吧。
 快點趕路吧，現在可不是閒聊的時候，
 龍族可不會那麼有耐心地等著我們……"
-59,"TEXT_HEAVNA308_01609_ALPHINAUD_000_016","我在«艾奧傑亞博物志»裡看到過。
+59,"TEXT_HEAVNA308_01609_ALPHINAUD_000_016","我在«艾歐澤亞博物志»裡看到過。
 書上說龍堡參天高地的陸行鳥之森裡棲息著野生的陸行鳥。"
 60,"TEXT_HEAVNA308_01609_ESTINIEN_000_017","我能感覺到龍的氣息……
 它們就在森林的西邊……"
 61,"TEXT_HEAVNA308_01609_MARCECHAMP_000_020","竟然有客人來這種邊境的獵人村落，還真是少見。"
-62,"TEXT_HEAVNA308_01609_MARCECHAMP_100_020","哎呀，我說看著怎麼這麼面熟呢，
+62,"TEXT_HEAVNA308_01609_MARCECHAMP_100_020","哎呀，我說看著怎麼這麼眼熟呢，
 這不是伊塞勒嘛！"
 63,"TEXT_HEAVNA308_01609_ICEHEART_000_021","好久不見了，馬塞尚，
 你還好嗎？"
@@ -101,10 +101,10 @@ int32,str,str
 怎麼連這個都不知道？"
 68,"TEXT_HEAVNA308_01609_MARCECHAMP_000_026","你看到這森林裡巨大的七天樹了嗎？
 它們繁茂的樹冠遮擋住了整個森林，所以龍族從上空看不到我們。"
-69,"TEXT_HEAVNA308_01609_MARCECHAMP_000_027","託這些樹的福，龍族不會將這裡劃為它們的地盤，
+69,"TEXT_HEAVNA308_01609_MARCECHAMP_000_027","托這些樹的福，龍族不會將這裡劃為它們的地盤，
 陸行鳥等野生動物也能安心生活在森林裡，
 我們這幫獵人也可以大膽來狩獵。"
 70,"TEXT_HEAVNA308_01609_ALPHINAUD_000_028","原、原來如此，受教了。"
-71,"TEXT_HEAVNA308_01609_MARCECHAMP_000_029","伊塞勒的性子我是最瞭解的了，
+71,"TEXT_HEAVNA308_01609_MARCECHAMP_000_029","伊塞勒的性子我是最了解的了，
 她一旦決定了什麼就誰也勸不回來。
 不過你們要往西走的話一定要小心，因為危險的不只有龍族。"

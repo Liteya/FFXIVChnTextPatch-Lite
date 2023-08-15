@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_JOBWHM580_01723_SEQ_00","尾羽集落的艾希娃得到了阿拉嘉的目擊情報。"
 1,"TEXT_JOBWHM580_01723_SEQ_01","據艾希娃說，阿拉嘉去了龍族居住的地域。前往龍堡參天高地的阿瓦隆尼亞古陸，和艾希娃談談。"
 2,"TEXT_JOBWHM580_01723_SEQ_02","和艾希娃分頭探索周邊。在阿瓦隆尼亞古陸北邊探索阿拉嘉的同時，如果發現了<Sheet(EObj,2005859,0)/>就將其鎮撫淨化。"
-3,"TEXT_JOBWHM580_01723_SEQ_03","鎮撫淨化了<Sheet(EObj,2005859,0)/>，但沒發現阿拉嘉。和前往了阿瓦隆尼亞古陸西邊的艾希娃會合。"
+3,"TEXT_JOBWHM580_01723_SEQ_03","鎮撫淨化了<Sheet(EObj,2005859,0)/>，但沒發現阿拉嘉。和前往了阿瓦隆尼亞古陸西邊的艾希娃匯合。"
 4,"TEXT_JOBWHM580_01723_SEQ_04","艾希娃遭受了阿拉嘉的攻擊。阿拉嘉唆使被汙穢乙太吸引而來的魔物發動攻擊後離去了。在阿瓦隆尼亞古陸討伐魔物，並鎮撫淨化<Sheet(EObj,2005861,0)/>。"
 5,"TEXT_JOBWHM580_01723_SEQ_05","鎮撫淨化了<Sheet(EObj,2005861,0)/>。救助阿瓦隆尼亞古陸的艾希娃。"
-6,"TEXT_JOBWHM580_01723_SEQ_06","為了調查掉落在地面的<Sheet(EventItem,2001687,0)/>，艾希娃決定請求心中一直牴觸的角尊，讓他們協助進行調查。"
+6,"TEXT_JOBWHM580_01723_SEQ_06","為了調查掉落在地面的<Sheet(EventItem,2001687,0)/>，艾希娃決定請求心中一直抵觸的角尊，讓他們協助進行調查。"
 7,"TEXT_JOBWHM580_01723_SEQ_07",""
 8,"TEXT_JOBWHM580_01723_SEQ_08",""
 9,"TEXT_JOBWHM580_01723_SEQ_09",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_JOBWHM580_01723_SEQ_23",""
 24,"TEXT_JOBWHM580_01723_TODO_00","和艾希娃對話"
 25,"TEXT_JOBWHM580_01723_TODO_01","找出並鎮撫淨化<Sheet(EObj,2005859,0)/>"
-26,"TEXT_JOBWHM580_01723_TODO_02","和艾希娃會合"
+26,"TEXT_JOBWHM580_01723_TODO_02","和艾希娃匯合"
 27,"TEXT_JOBWHM580_01723_TODO_03","鎮撫淨化<Sheet(EObj,2005861,0)/>"
 28,"TEXT_JOBWHM580_01723_TODO_04","救助艾希娃"
 29,"TEXT_JOBWHM580_01723_TODO_05",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_JOBWHM580_01723_TODO_21",""
 46,"TEXT_JOBWHM580_01723_TODO_22",""
 47,"TEXT_JOBWHM580_01723_TODO_23",""
-48,"TEXT_JOBWHM580_01723_ESCHIVA_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，好消息！
+48,"TEXT_JOBWHM580_01723_ESCHIVA_000_000","<Highlight>ObjectParameter(1)</Highlight>，好消息！
 我找到目擊了阿拉嘉的人了！"
 49,"TEXT_JOBWHM580_01723_ESCHIVA_000_0001","她還是全身散發著腐臭。
 她察覺到有人看著她，然後就往西邊跑去了……"
@@ -93,7 +93,7 @@ int32,str,str
 不過，這個實驗，既是知識的探究……同時也是報復……
 報復對象嘛，就是迫害我的所有愚蠢的人……"
 66,"TEXT_JOBWHM580_01723_ESCHIVA_000_038","我是不會讓你得逞的……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……快阻止她……"
+<Highlight>ObjectParameter(1)</Highlight>……快阻止她……"
 67,"TEXT_JOBWHM580_01723_ALAQA_000_039","你現在真的有時間阻止我嗎？自己看吧……"
 68,"TEXT_JOBWHM580_01723_ALAQA_000_040","它們是被汙穢乙太吸引而來的……
 就這樣，製作更多更多不淨之物，
@@ -111,7 +111,7 @@ int32,str,str
 75,"TEXT_JOBWHM580_01723_ESCHIVA_000_063","這可是重要的物證……雖然只有一部分……
 但上面依然殘留著汙穢乙太，
 相信傳承著古代知識的角尊們能查出些東西。"
-76,"TEXT_JOBWHM580_01723_ESCHIVA_000_064"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+76,"TEXT_JOBWHM580_01723_ESCHIVA_000_064","<Highlight>ObjectParameter(1)</Highlight>……
 咱們是否應該請求角尊呢？
 請求那些，什麼都不幹的人……"
 77,"TEXT_JOBWHM580_01723_Q1_000_000","如何作答？"

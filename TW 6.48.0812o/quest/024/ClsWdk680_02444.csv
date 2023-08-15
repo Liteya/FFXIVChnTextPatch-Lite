@@ -2,18 +2,18 @@
 #,,
 int32,str,str
 0,"TEXT_CLSWDK680_02444_SEQ_00","黃金港的琴風有東西想要交給冒險者。"
-1,"TEXT_CLSWDK680_02444_SEQ_01","從黃金港的琴風那裡收取了奇彌．基恩加爾寄來的信。和延夏茨菰村的奇彌．基恩加爾談談。"
-2,"TEXT_CLSWDK680_02444_SEQ_02","奇彌．基恩加爾為了完成貝亞坦交給她的課題，正在發奮圖強。在茨菰村尋找有困難的人。"
-3,"TEXT_CLSWDK680_02444_SEQ_03","靈山希望得到能讓多瑪飛地的人們安心用餐的家具。和茨菰村的居民們談談，調查瞭解多瑪的飲食文化。"
-4,"TEXT_CLSWDK680_02444_SEQ_04","據居民們所說，在多瑪飛地，進餐時的模樣是不能被外人看到的。和茨菰村的奇彌．基恩加爾談談。"
-5,"TEXT_CLSWDK680_02444_SEQ_05","和奇彌．基恩加爾進行了交談，決定了要製作什麼。用<Sheet(Item,17881,0)/>製作<Sheet(ItemHQ,17882,0)/>，並交給茨菰村的靈山。
+1,"TEXT_CLSWDK680_02444_SEQ_01","從黃金港的琴風那裡收取了奇彌·基恩加爾寄來的信。和延夏茨菰村的奇彌·基恩加爾談談。"
+2,"TEXT_CLSWDK680_02444_SEQ_02","奇彌·基恩加爾為了完成貝亞坦交給她的課題，正在發奮圖強。在茨菰村尋找有困難的人。"
+3,"TEXT_CLSWDK680_02444_SEQ_03","靈山希望得到能讓多瑪飛地的人們安心用餐的家具。和茨菰村的居民們談談，調查了解多瑪的飲食文化。"
+4,"TEXT_CLSWDK680_02444_SEQ_04","據居民們所說，在多瑪飛地，進餐時的模樣是不能被外人看到的。和茨菰村的奇彌·基恩加爾談談。"
+5,"TEXT_CLSWDK680_02444_SEQ_05","和奇彌·基恩加爾進行了交談，決定了要製作什麼。用<Sheet(Item,17881,0)/>製作<Sheet(ItemHQ,17882,0)/>，並交給茨菰村的靈山。
 
-※如果<Sheet(Item,17881,0)/>不足，可以與奇彌．基恩加爾對話重新獲得材料，並再次進行挑戰。"
+※如果<Sheet(Item,17881,0)/>不足，可以與奇彌·基恩加爾對話重新獲得材料，並再次進行挑戰。"
 6,"TEXT_CLSWDK680_02444_SEQ_06","靈山很高興，覺得放置<Sheet(ItemHQ,17882,0)/>後，多瑪飛地的居民們就可以安心用餐了。返回格里達尼亞的刻木匠公會。"
-7,"TEXT_CLSWDK680_02444_SEQ_07","回到刻木匠公會的奇彌．基恩加爾想起了當年為母親做過一張安樂椅的事，這才領悟到了什麼對工匠來說才是最重要的。和刻木匠公會前的奇彌．基恩加爾談談。"
-8,"TEXT_CLSWDK680_02444_SEQ_08","得到了成長的奇彌．基恩加爾再次啟程。為了親眼見證她改變後的模樣，等待貝亞坦發來委託。
+7,"TEXT_CLSWDK680_02444_SEQ_07","回到刻木匠公會的奇彌·基恩加爾想起了當年為母親做過一張安樂椅的事，這才領悟到了什麼對工匠來說才是最重要的。和刻木匠公會前的奇彌·基恩加爾談談。"
+8,"TEXT_CLSWDK680_02444_SEQ_08","得到了成長的奇彌·基恩加爾再次啟程。為了親眼見證她改變後的模樣，等待貝亞坦發來委託。
 
-※刻木匠的等級達到70級以上時，可以從刻木匠公會的奇彌．基恩加爾那裡領取下一個刻木匠任務。"
+※刻木匠的等級達到70級以上時，可以從刻木匠公會的奇彌·基恩加爾那裡領取下一個刻木匠任務。"
 9,"TEXT_CLSWDK680_02444_SEQ_09",""
 10,"TEXT_CLSWDK680_02444_SEQ_10",""
 11,"TEXT_CLSWDK680_02444_SEQ_11",""
@@ -29,13 +29,13 @@ int32,str,str
 21,"TEXT_CLSWDK680_02444_SEQ_21",""
 22,"TEXT_CLSWDK680_02444_SEQ_22",""
 23,"TEXT_CLSWDK680_02444_SEQ_23",""
-24,"TEXT_CLSWDK680_02444_TODO_00","和茨菰村的奇彌．基恩加爾對話"
+24,"TEXT_CLSWDK680_02444_TODO_00","和茨菰村的奇彌·基恩加爾對話"
 25,"TEXT_CLSWDK680_02444_TODO_01","尋找有困難的人"
 26,"TEXT_CLSWDK680_02444_TODO_02","和茨菰村的居民談談"
-27,"TEXT_CLSWDK680_02444_TODO_03","和奇彌．基恩加爾對話"
+27,"TEXT_CLSWDK680_02444_TODO_03","和奇彌·基恩加爾對話"
 28,"TEXT_CLSWDK680_02444_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17882,0)/><Else/>將<Sheet(ItemHQ,17882,0)/>交給靈山</If>"
 29,"TEXT_CLSWDK680_02444_TODO_05","返回刻木匠公會"
-30,"TEXT_CLSWDK680_02444_TODO_06","和奇彌．基恩加爾對話"
+30,"TEXT_CLSWDK680_02444_TODO_06","和奇彌·基恩加爾對話"
 31,"TEXT_CLSWDK680_02444_TODO_07",""
 32,"TEXT_CLSWDK680_02444_TODO_08",""
 33,"TEXT_CLSWDK680_02444_TODO_09",""
@@ -53,30 +53,30 @@ int32,str,str
 45,"TEXT_CLSWDK680_02444_TODO_21",""
 46,"TEXT_CLSWDK680_02444_TODO_22",""
 47,"TEXT_CLSWDK680_02444_TODO_23",""
-48,"TEXT_CLSWDK680_02444_KOTOKAZE_000_001","啊，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_CLSWDK680_02444_KOTOKAZE_000_001","啊，是<Highlight>ObjectParameter(1)</Highlight>。
 這裡正好有一封奇彌姑娘寄給你的信……
 喏，你快看看吧。"
-49,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_002","(-奇彌的信-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ：
-你好，我是奇彌．基恩加爾。
+49,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_002","(-奇彌的信-)<Highlight>ObjectParameter(1)</Highlight>：
+你好，我是奇彌·基恩加爾。
 我現在來到了延夏的一個叫茨菰村的地方。"
 50,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_003","(-奇彌的信-)多瑪的文化真是太迷人了。
 或許是因為他們使用的都是延夏地方特有的素材，
 很多東西我都是第一次見。"
 51,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_004","(-奇彌的信-)尤其是一種被叫做點心的類似包子的食物，
 我非常喜歡！"
-52,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_005","(-奇彌的信-)我也想請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘗嘗，
+52,"TEXT_CLSWDK680_02444_CEMIJINJAHLLATTER_000_005","(-奇彌的信-)我也想請<Highlight>ObjectParameter(1)</Highlight>嘗嘗，
 方便的話就請你到茨菰村來吧。
-食物獵人奇彌．基恩加爾"
-53,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_010","哇， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+食物獵人奇彌·基恩加爾"
+53,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_010","哇，<Highlight>ObjectParameter(1)</Highlight>！
 好久不見！"
-54,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也是來品嘗多瑪飯菜的嗎？
+54,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_011","<Highlight>ObjectParameter(1)</Highlight>也是來品嘗多瑪飯菜的嗎？
 我知道一家店做得很好吃，我帶你去！"
 55,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_012","討、討厭啦，我只是開個玩笑嘛！
 我已經把多瑪的刻木技術完全學會了！
 只是在休息的時候稍微吃點美食而已……"
 56,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_013","嗚！"
 57,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_014","好、好了！
-既然 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也到了，
+既然<Highlight>ObjectParameter(1)</Highlight>也到了，
 那我們就快點去尋找有困難的人吧！"
 58,"TEXT_CLSWDK680_02444_KOTOKAZE_000_015","奇彌姑娘好像對食物很有熱情呢。
 她是烹調師公會的廚師嗎？"
@@ -106,7 +106,7 @@ int32,str,str
 72,"TEXT_CLSWDK680_02444_REIZAN_000_055","我想在多瑪飛地開店，
 但那裡的用餐禮儀卻有些與眾不同。
 我想要能夠讓他們安心用餐的家具。"
-73,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_060","嗯嗯……對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+73,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_060","嗯嗯……對了，<Highlight>ObjectParameter(1)</Highlight>！
 只是我來打造家具的話怪沒意思的，
 不如我們來比一比吧？"
 74,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_065","我們把各自打好的家具拿給委託人，
@@ -119,7 +119,7 @@ int32,str,str
 78,"TEXT_CLSWDK680_02444_REIZAN_000_080","雖然我沒太聽懂你們在說什麼，不過一切就拜託你們了。
 如果你們不知道該打造什麼樣的家具，可以找村裡的居民打聽一下，
 這裡應該也有曾經在多瑪飛地居住過的人。"
-79,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，如果你決定好了要做什麼，
+79,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_085","<Highlight>ObjectParameter(1)</Highlight>，如果你決定好了要做什麼，
 就到我這裡來領材料吧！"
 80,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_086","有沒有人需要幫助……有沒有人需要幫助……
 ……這村子的人也太少了點吧……"
@@ -148,9 +148,9 @@ int32,str,str
 不過我膽子很小，沒有屏風之類的擋著就不敢說……"
 95,"TEXT_CLSWDK680_02444_COOK02444_000_096","（★未使用／削除予定★）"
 96,"TEXT_CLSWDK680_02444_REIZAN_000_096","你的同伴可真有精神啊……"
-97,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，如果你決定好了要做什麼，
+97,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_100","<Highlight>ObjectParameter(1)</Highlight>，如果你決定好了要做什麼，
 就到我這裡來領材料吧！"
-98,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_110","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+98,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_110","哎呀，<Highlight>ObjectParameter(1)</Highlight>！
 你決定好要做什麼了嗎？"
 99,"TEXT_CLSWDK680_02444_Q1_000_000","要製作什麼來一決勝負？"
 100,"TEXT_CLSWDK680_02444_Q1_000_001","乾脆直接做一個飯店"
@@ -164,20 +164,20 @@ int32,str,str
 我可不想在那種地方吃飯……"
 105,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_113","……屏風……是嗎？
 不是什麼更……嗯，別具匠心的家具？"
-106,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_114","難、難不成 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你……
+106,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_114","難、難不成<Highlight>ObjectParameter(1)</Highlight>你……
 故意想要輸給我？"
 107,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_115","沒想到你居然會這麼做！
 我對自己的手藝有著絕對的自信！
 你沒有必要故意讓我！"
 108,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_116","也、也是呢……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是一流的工匠，
+<Highlight>ObjectParameter(1)</Highlight>是一流的工匠，
 不可能做這種不公正的事……"
-109,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_117","對不起……我希望能儘快得到師父的認同，所以太急了些……
+109,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_117","對不起……我希望能盡快得到師父的認同，所乙太急了些……
 恐怕這次是向師父證明自己實力的最後機會了……
 如果得不到認同的話，說不定今後就再也得不到工作了吧……"
 110,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_118","我想快點成為合格的工匠，
 拯救財政困難的刻木匠公會……
-為此我要製作稍微複雜一些、精緻一些的高階物品……"
+為此我要製作稍微複雜一些、精緻一些的高級物品……"
 111,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_119","……啊！不好意思！
 你是要製作<Sheet(ItemHQ,17882,0)/>所需要的材料是吧？"
 112,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_120","給！
@@ -200,12 +200,12 @@ int32,str,str
 123,"TEXT_CLSWDK680_02444_BEATINE_000_133","嘻嘻嘻嘻……很漂亮的餐桌啊……
 完美重現了多瑪文化特有的絢麗裝飾……
 從中能感受到很高的水準，完全不像出自新人之手……"
-124,"TEXT_CLSWDK680_02444_BEATINE_000_134","接下來是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的作品……
+124,"TEXT_CLSWDK680_02444_BEATINE_000_134","接下來是<Highlight>ObjectParameter(1)</Highlight>的作品……
 嚯……多漂亮的屏風啊……
 巧妙地活用了材料的特性，真是做得太棒了……"
 125,"TEXT_CLSWDK680_02444_BEATINE_000_135","原來如此……這個也是很出眾的傑作……
 雖然沒有奇彌製作的餐桌那樣繁複的裝飾，
-但卻需要非常高級的技巧才能做出來……"
+但卻需要非常高端的技巧才能做出來……"
 126,"TEXT_CLSWDK680_02444_BEATINE_000_136","我個人的評價……就是這樣……
 不過，作品最終的選擇權在於委託人……
 請你決定要收下哪一個吧……"
@@ -215,8 +215,8 @@ int32,str,str
 這次的委託，我選擇的勝利者是……"
 129,"TEXT_CLSWDK680_02444_COOK02444_000_138","（★未使用／削除予定★）"
 130,"TEXT_CLSWDK680_02444_REIZAN_000_138","這邊！"
-131,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_139"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 做的屏風的、的確很完美……
-可是……我的水準應該也不差才是！！"
+131,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_139","<Highlight>ObjectParameter(1)</Highlight>做的屏風的、的確很完美……
+可是……我的水平應該也不差才是！！"
 132,"TEXT_CLSWDK680_02444_BEATINE_000_140","……委託人，為什麼你要選擇那邊呢？"
 133,"TEXT_CLSWDK680_02444_COOK02444_000_141","（★未使用／削除予定★）"
 134,"TEXT_CLSWDK680_02444_REIZAN_000_141","這是因為……多瑪飛地的人們很討厭用餐的時候被他人看到，
@@ -232,9 +232,9 @@ int32,str,str
 138,"TEXT_CLSWDK680_02444_BEATINE_000_144","你固執地想要證明自己的手藝，
 卻沒有真摯地與委託人進行心靈上的溝通……
 這樣是無法讓委託人滿意的……"
-139,"TEXT_CLSWDK680_02444_BEATINE_000_145","我想 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一定用自己的雙腳走了很多地方，
+139,"TEXT_CLSWDK680_02444_BEATINE_000_145","我想<Highlight>ObjectParameter(1)</Highlight>一定用自己的雙腳走了很多地方，
 與當地的人們進行了許多交流……"
-140,"TEXT_CLSWDK680_02444_BEATINE_000_146","這扇屏風能讓人感覺到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的真心，
+140,"TEXT_CLSWDK680_02444_BEATINE_000_146","這扇屏風能讓人感覺到<Highlight>ObjectParameter(1)</Highlight>的真心，
 的確是非常優秀的作品……"
 141,"TEXT_CLSWDK680_02444_BEATINE_000_147","好了，你們兩個學習異國文化的旅程到這裡就結束了……
 跟我回格里達尼亞的刻木匠公會去吧……"
@@ -280,7 +280,7 @@ int32,str,str
 但我在做它的時候，滿腦子想的都是母親。
 原來是這樣……要為了某個人而製作東西啊……"
 160,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_182","當年的我為了能讓母親輕鬆一些，
-才會焦躁地希望能快點獨當一面……
+才會焦躁地希望能快點獨擋一面……
 那種心情大概在不知不覺之間被我丟掉了……"
 161,"TEXT_CLSWDK680_02444_BEATINE_000_183","既然是丟掉了，那只要再撿起來就好……"
 162,"TEXT_CLSWDK680_02444_BEATINE_000_184","奇彌，以一個工匠來說，你的確迷失了某些重要的東西。
@@ -288,11 +288,11 @@ int32,str,str
 將來的你一定會成為一名優秀的工匠……"
 163,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_185","師父！！
 是，我會努力的！！"
-164,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_186","我也要謝謝 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+164,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_186","我也要謝謝<Highlight>ObjectParameter(1)</Highlight>，
 你一直支持著這麼不中用的我。
 我一定不會再迷失重要的東西了！"
 165,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_187","好，既然已經下定了決心，我就要開始加工木材了！
-奇彌．基恩加爾流派，刻木匠心得第一條！
+奇彌·基恩加爾流派，刻木匠心得第一條！
 好的作品要從好的木材開始！"
 166,"TEXT_CLSWDK680_02444_BEATINE_000_188","我也要向你道一聲謝……
 我雖然很擅長講述與樹木相關的事情，卻不擅長與人交流……
@@ -302,7 +302,7 @@ int32,str,str
 向公會入口的她打個招呼吧……"
 168,"TEXT_CLSWDK680_02444_REIZAN_000_195","謝謝你們幫了我這麼多。
 等我的店開張了，還請過來玩啊。"
-169,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_200","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+169,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_200","啊，<Highlight>ObjectParameter(1)</Highlight>！
 最近師父開始向我介紹委託人了！
 我想讓你看看脫胎換骨的我，所以請跟我一起來吧！"
 170,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_201","我打算趁著等委託人的時候，
@@ -311,7 +311,7 @@ int32,str,str
 171,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_202","嘻嘻……不是單純地製作，
 而是要邊想著遇到的人們邊製作……對吧！"
 172,"TEXT_CLSWDK680_02444_CEMIJINJAHL_000_203","嘻嘻嘻！
-好！鄙人奇彌．基恩加爾，要繼續努力了！！"
+好！鄙人奇彌·基恩加爾，要繼續努力了！！"
 173,"TEXT_CLSWDK680_02444_BEATINE_000_205","那孩子已經記起了對工匠來說最重要的事，
 她就像一株發芽的小樹苗，
 將來一定會長成一棵筆直的大樹……"

@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ804_02832_SEQ_22",""
 23,"TEXT_STMBDZ804_02832_SEQ_23",""
 24,"TEXT_STMBDZ804_02832_TODO_00","在<Sheet(EObj,2008851,0)/>張望
-從<Sheet(BNpcName,6280,0)/>身上獲得<Sheet(EventItem,2002346,0)/>"
+從<Sheet(BNpcName,6280,0)/>身上獲取<Sheet(EventItem,2002346,0)/>"
 25,"TEXT_STMBDZ804_02832_TODO_01","將<Sheet(EventItem,2002346,0)/>交給孤單的美女"
 26,"TEXT_STMBDZ804_02832_TODO_02",""
 27,"TEXT_STMBDZ804_02832_TODO_03",""
@@ -59,10 +59,10 @@ int32,str,str
 我本想放棄的時候，卻聽到解放軍的人聊天，
 說有1隻<Sheet(BNpcName,6280,0)/>跑到了前往邊境地區的小路附近。"
 51,"TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_003","請在那附近張望，找到<Sheet(BNpcName,6280,0)/>，
-然後從它身上獲得<Sheet(EventItem,2002346,0)/>。
+然後從它身上獲取<Sheet(EventItem,2002346,0)/>。
 我會給你報酬的，拜託了。"
 52,"TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_004","請在前往邊境地區的小路附近張望，找到<Sheet(BNpcName,6280,0)/>，
-然後從它身上獲得<Sheet(EventItem,2002346,0)/>。
+然後從它身上獲取<Sheet(EventItem,2002346,0)/>。
 我會給你報酬的，拜託了。"
 53,"TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_010","你搞到<Sheet(EventItem,2002346,0)/>了嗎？"
 54,"TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_011","啊，這角真雄偉。
@@ -72,7 +72,7 @@ int32,str,str
 相信這一定能守護即將離開此地的她。"
 56,"TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_013","那孩子以這裡的解放為契機，
 決定前往烏爾達哈開始做生意。
-我打從心裡尊敬她，支持她。"
+我打心底尊敬她，支持她。"
 57,"TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_014","我沒有離開這裡的勇氣。
 雖然有很多煩心事，不過也已經習慣了。
 與其要我再嘗一次那種心情……不如在這裡……"

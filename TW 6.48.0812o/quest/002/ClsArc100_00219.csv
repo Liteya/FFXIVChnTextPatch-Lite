@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_CLSARC100_00219_TODO_23",""
 48,"TEXT_CLSARC100_00219_LUCIANE_000_1","裝備上弓了嗎？
 嗯，很適合你嘛。"
-49,"TEXT_CLSARC100_00219_LUCIANE_000_2","那麼， <Highlight>ObjectParameter(1)</Highlight> 。
+49,"TEXT_CLSARC100_00219_LUCIANE_000_2","那麼，<Highlight>ObjectParameter(1)</Highlight>。
 在我認可你成為弓箭手公會的成員之前，
 你需要去完成一個「試煉」。"
 50,"TEXT_CLSARC100_00219_LUCIANE_000_3","討伐魔物「松鼠」、「花甲蟲」和「叢林魔菇」，
@@ -69,7 +69,7 @@ int32,str,str
 55,"TEXT_CLSARC100_00219_LUCIANE_000_11","很好。
 我認可你的實力，還有你真誠的態度……
 現在准許你成為我們弓箭手公會的一員。"
-56,"TEXT_CLSARC100_00219_LUCIANE_000_12"," <Highlight>ObjectParameter(1)</Highlight> ，
+56,"TEXT_CLSARC100_00219_LUCIANE_000_12","<Highlight>ObjectParameter(1)</Highlight>，
 作為一名弓箭手，與我們共同奮進吧。
 今後也請你多多關照了。"
 57,"TEXT_CLSARC100_00219_LUCIANE_000_13","不過呢……雖然你已經是公會的一員了，

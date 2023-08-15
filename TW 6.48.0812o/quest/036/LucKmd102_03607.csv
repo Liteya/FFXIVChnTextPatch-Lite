@@ -56,7 +56,7 @@ int32,str,str
 51,"TEXT_LUCKMD102_03607_ALISAIE_000_020","……阿爾菲諾他們正在給傷員進行治療。
 我接下來也要去幫忙轉移傷員了。"
 52,"TEXT_LUCKMD102_03607_ALISAIE_000_021","然而這次遇襲損失過於慘重，目前人手嚴重不足……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你要是還有力氣的話，
+<Highlight>ObjectParameter(1)</Highlight>，你要是還有力氣的話，
 麻煩你照顧一下傷員……"
 53,"TEXT_LUCKMD102_03607_ALISAIE_000_022","萊楠應該會在附近，
 你忙完後可以去找她問一下接下來的事。

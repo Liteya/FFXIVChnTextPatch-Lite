@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSA701_00774_SEQ_21",""
 22,"TEXT_GAIUSA701_00774_SEQ_22",""
 23,"TEXT_GAIUSA701_00774_SEQ_23",""
-24,"TEXT_GAIUSA701_00774_TODO_00","從<Sheet(BNpcName,4,0)/>身上獲得<Sheet(EventItem,2000612,0)/>"
+24,"TEXT_GAIUSA701_00774_TODO_00","從<Sheet(BNpcName,4,0)/>身上獲取<Sheet(EventItem,2000612,0)/>"
 25,"TEXT_GAIUSA701_00774_TODO_01","將<Sheet(EventItem,2000612,0)/>交給梅弗里德"
 26,"TEXT_GAIUSA701_00774_TODO_02","將<Sheet(EventItem,2000612,0)/>交給巴斯卡隆"
 27,"TEXT_GAIUSA701_00774_TODO_03","將<Sheet(EventItem,2000613,0)/>交給法拉蒙德"
@@ -56,7 +56,7 @@ int32,str,str
 所以冒險者，我有一事相求。"
 50,"TEXT_GAIUSA701_00774_MEFFRID_000_002","請你想辦法弄到<Sheet(EventItem,2000612,0)/>。
 在我的故鄉阿拉米格，這東西被稱為包治百病的藥。"
-51,"TEXT_GAIUSA701_00774_SYSTEM_000_000","打倒羚羊，獲得4個羚羊的角"
+51,"TEXT_GAIUSA701_00774_SYSTEM_000_000","打倒羚羊，獲取4個羚羊的角"
 52,"TEXT_GAIUSA701_00774_MEFFRID_000_010","你拿到<Sheet(EventItem,2000612,0)/>了嗎？"
 53,"TEXT_GAIUSA701_00774_MEFFRID_000_020","真是麻煩了，你幫上我大忙了！
 但是，這跟棲息在我故鄉的羚羊種類略有不同。

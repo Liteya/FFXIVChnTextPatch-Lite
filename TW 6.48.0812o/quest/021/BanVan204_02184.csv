@@ -55,7 +55,7 @@ int32,str,str
 45,"TEXT_BANVAN204_02184_TODO_21",""
 46,"TEXT_BANVAN204_02184_TODO_22",""
 47,"TEXT_BANVAN204_02184_TODO_23",""
-48,"TEXT_BANVAN204_02184_MUNAVANU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_BANVAN204_02184_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 能否請你去阻止一下胡作非為的冷酷溫杜族？
 可以的話，就請你去找艾努瓦努詢問詳情吧！"
 49,"TEXT_BANVAN204_02184_EENUVANU_000_010","你來了啊、你來了啊，人類的勇者。

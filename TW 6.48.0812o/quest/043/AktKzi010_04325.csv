@@ -82,7 +82,7 @@ int32,str,str
 可持續時間結束的話，搬運就會失敗。
 需要從開始地點重新開始挑戰。"
 61,"TEXT_AKTKZI010_04325_BALDESION04325_100_010","找我有什麼事嗎？"
-62,"TEXT_AKTKZI010_04325_BALDESION04325_000_010","你是拂曉的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+62,"TEXT_AKTKZI010_04325_BALDESION04325_000_010","你是拂曉的<Highlight>ObjectParameter(1)</Highlight>？
 這些都是非常貴重的資料啊！
 究竟是從哪裡來的？"
 63,"TEXT_AKTKZI010_04325_BALDESION04325_000_011","是小薩雷安的研究員寄來的？
@@ -97,7 +97,7 @@ int32,str,str
 67,"TEXT_AKTKZI010_04325_BIBLIOTHEC04325_000_021","就像我之前所說的，我們文獻管理委員會
 禁止一切對歷史的介入，
 是主張將觀察和記錄貫徹到底的派系。"
-68,"TEXT_AKTKZI010_04325_BIBLIOTHEC04325_000_022","為了觀察這個星球未來的走向，事無鉅細地都記錄下來，
+68,"TEXT_AKTKZI010_04325_BIBLIOTHEC04325_000_022","為了觀察這個星球未來的走向，事無巨細地都記錄下來，
 目前文獻管理委員已經被派到了各個地區。"
 69,"TEXT_AKTKZI010_04325_BIBLIOTHEC04325_000_023","我也被派到了東方。
 然後聽說了他們的……巴爾德西昂委員會的傳聞。

@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_WARPINNISHGARD_BAMPONCET_000_1","這裡是九霄雲舍。
 不過很抱歉，現在我們還沒開始營業……"
 1,"TEXT_WARPINNISHGARD_BAMPONCET_000_2","請您等開店後再來吧。"
-2,"TEXT_WARPINNISHGARD_00061_Q1_000_1","想瞭解什麼？"
+2,"TEXT_WARPINNISHGARD_00061_Q1_000_1","想了解什麼？"
 3,"TEXT_WARPINNISHGARD_A1_000_1","什麼是「九霄雲舍」？"
 4,"TEXT_WARPINNISHGARD_A1_000_2","取消"
-5,"TEXT_WARPINNISHGARD_BAMPONCET_000_3","「九霄雲舍」是皇都伊修加爾德的住宿設施，
+5,"TEXT_WARPINNISHGARD_BAMPONCET_000_3","「九霄雲舍」是皇都伊修加德的住宿設施，
 迎接各位旅行者的光臨。"
 6,"TEXT_WARPINNISHGARD_BAMPONCET_000_4","這裡備有柔軟的床鋪，
 躺上去就如同在九霄雲上一般，可以讓您度過美好而舒適的時刻。"
@@ -30,7 +30,7 @@ int32,str,str
 還望敬請諒解。"
 18,"TEXT_WARPINNISHGARD_SYSTEM_000_18","在旅店客房內，
 是不能進行「製作」「修理」等活動的。"
-19,"TEXT_WARPINNISHGARD_BAMPONCET_000_19","「九霄雲舍」是皇都伊修加爾德的住宿設施，
+19,"TEXT_WARPINNISHGARD_BAMPONCET_000_19","「九霄雲舍」是皇都伊修加德的住宿設施，
 迎接各位旅行者的光臨。"
 20,"TEXT_WARPINNISHGARD_BAMPONCET_000_20","這裡備有柔軟的床鋪，
 躺上去就如同在九霄雲上一般，可以讓您度過美好而舒適的時刻。"

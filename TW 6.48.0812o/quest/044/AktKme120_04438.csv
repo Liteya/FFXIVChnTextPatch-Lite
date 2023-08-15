@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKME120_04438_SEQ_00","朝露之庭前的維涅斯正靜靜地凝視著冒險者。"
+0,"TEXT_AKTKME120_04438_SEQ_00","汐沫庭前的維涅斯正靜靜地凝視著冒險者。"
 1,"TEXT_AKTKME120_04438_SEQ_01",""
 2,"TEXT_AKTKME120_04438_SEQ_02",""
 3,"TEXT_AKTKME120_04438_SEQ_03",""
@@ -49,9 +49,9 @@ int32,str,str
 45,"TEXT_AKTKME120_04438_TODO_21",""
 46,"TEXT_AKTKME120_04438_TODO_22",""
 47,"TEXT_AKTKME120_04438_TODO_23",""
-48,"TEXT_AKTKME120_04438_VENAS_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們現在要做的既不是指責荷米斯，
+48,"TEXT_AKTKME120_04438_VENAS_000_000","<Highlight>ObjectParameter(1)</Highlight>，我們現在要做的既不是指責赫爾墨斯，
 也不是去告訴愛梅特賽爾克和希斯拉德究竟發生了什麼。"
-49,"TEXT_AKTKME120_04438_VENAS_000_001","我們一定要證明，這段失去的時光確實存在過。"
+49,"TEXT_AKTKME120_04438_VENAS_000_001","我們必須要證明，這段失去的時光確實存在過。"
 50,"TEXT_AKTKME120_04438_VENAS_000_002","也就是說，我們要用得知的真相來對抗末日。"
 51,"TEXT_AKTKME120_04438_VENAS_000_003","我會在這個時代努力，
 你也要為你的時代而戰……"
@@ -64,9 +64,9 @@ int32,str,str
 56,"TEXT_AKTKME120_04438_Q1_000_008","要和維涅斯對話嗎？"
 57,"TEXT_AKTKME120_04438_Q1_000_010","要繼續進行主線劇情嗎？"
 58,"TEXT_AKTKME120_04438_TATARU_000_020","嗚嗚……
-真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+真不愧是<Highlight>ObjectParameter(1)</Highlight>，
 總是能在我們最需要你的時候出現！"
-59,"TEXT_AKTKME120_04438_KRILE_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+59,"TEXT_AKTKME120_04438_KRILE_000_030","<Highlight>ObjectParameter(1)</Highlight>？！
 你回來得正好！"
 60,"TEXT_AKTKME120_04438_KRILE_000_031","我聽大家說，你為了調查末日的事，
 前往第一世界了。"

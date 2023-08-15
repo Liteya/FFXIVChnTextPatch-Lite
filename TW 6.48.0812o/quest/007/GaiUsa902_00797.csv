@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA902_00797_SEQ_00","山人岩穴的開山工阿德馬爾想要籌備夜間工作的必備品。"
-1,"TEXT_GAIUSA902_00797_SEQ_01","在徹夜工作之前，油燈的燈油好像用光了。削弱<Sheet(BNpcName,2189,0)/>後，對其使用<Sheet(EventItem,2000627,0)/>，獲得<Sheet(EventItem,2000628,0)/>。"
+1,"TEXT_GAIUSA902_00797_SEQ_01","在徹夜工作之前，油燈的燈油好像用光了。削弱<Sheet(BNpcName,2189,0)/>後，對其使用<Sheet(EventItem,2000627,0)/>，獲取<Sheet(EventItem,2000628,0)/>。"
 2,"TEXT_GAIUSA902_00797_SEQ_02","獲得了<Sheet(EventItem,2000628,0)/>。交給山人岩穴的阿德馬爾。"
 3,"TEXT_GAIUSA902_00797_SEQ_03","阿德馬爾很感謝冒險者。開山工在夜間也不能休息……真是一份很考驗耐力的工作。"
 4,"TEXT_GAIUSA902_00797_SEQ_04",""

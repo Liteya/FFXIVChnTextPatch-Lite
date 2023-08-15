@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ815_01945_SEQ_00","田園郡的哈夫西克斯因檢修作業沒有進展而十分頭疼。"
-1,"TEXT_HEAVNZ815_01945_SEQ_01","和哈夫西克斯進行了交談。維護乙太之光需要的零件不夠了。前往龍堡內陸低地的宗匠大工房，從<Sheet(EObj,2005877,0)/>中獲得<Sheet(EventItem,2001696,0)/>。"
+1,"TEXT_HEAVNZ815_01945_SEQ_01","和哈夫西克斯進行了交談。維護乙太之光需要的零件不夠了。前往龍堡內陸低地的宗匠大工房，從<Sheet(EObj,2005877,0)/>中獲取<Sheet(EventItem,2001696,0)/>。"
 2,"TEXT_HEAVNZ815_01945_SEQ_02","獲得了<Sheet(EventItem,2001696,0)/>。將<Sheet(EventItem,2001696,0)/>交給田園郡的哈夫西克斯。"
 3,"TEXT_HEAVNZ815_01945_SEQ_03","將<Sheet(EventItem,2001696,0)/>交給了哈夫西克斯。現代使用的乙太之光，是應用古代的知識在學術城邦薩雷安製作而成的。"
 4,"TEXT_HEAVNZ815_01945_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ815_01945_SEQ_21",""
 22,"TEXT_HEAVNZ815_01945_SEQ_22",""
 23,"TEXT_HEAVNZ815_01945_SEQ_23",""
-24,"TEXT_HEAVNZ815_01945_TODO_00","從宗匠大工房的<Sheet(EObj,2005877,0)/>中獲得<Sheet(EventItem,2001696,0)/>"
+24,"TEXT_HEAVNZ815_01945_TODO_00","從宗匠大工房的<Sheet(EObj,2005877,0)/>中獲取<Sheet(EventItem,2001696,0)/>"
 25,"TEXT_HEAVNZ815_01945_TODO_01","將<Sheet(EventItem,2001696,0)/>交給田園郡的哈夫西克斯"
 26,"TEXT_HEAVNZ815_01945_TODO_02",""
 27,"TEXT_HEAVNZ815_01945_TODO_03",""
@@ -68,4 +68,4 @@ int32,str,str
 哥布非常 感謝你！"
 54,"TEXT_HEAVNZ815_01945_HALFSIX_000_022","乙太之光 應用了 古代的知識！
 是薩雷安人 掌握了知識 在大工房 製造出來的！
-重新利用 古老的零件 自己就能 維持運作！"
+重新利用 古老的零件 自己就能 維持運行！"

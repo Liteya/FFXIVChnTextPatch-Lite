@@ -6,7 +6,7 @@ int32,str,str
 2,"TEXT_JOBAOZ200_03195_SEQ_02","和馬丁進行了交談，冒險者需要前去討伐魔物。在無刺盆地的<Sheet(EObj,2009671,0)/>張望並討伐狂暴的鼴鼠。"
 3,"TEXT_JOBAOZ200_03195_SEQ_03","討伐了狂暴的鼴鼠。向無刺盆地的馬丁報告。"
 4,"TEXT_JOBAOZ200_03195_SEQ_04","向馬丁報告時，目睹了馬丁被要債的人圍堵。和烏爾達哈密爾瓦內斯禮拜堂附近的馬丁談談。"
-5,"TEXT_JOBAOZ200_03195_SEQ_05","和馬丁交談時，據稱是他老友的瓦斯特拉哈出現了。雖然馬丁是一個很丟人的師父，不過還是繼續鍛鍊蓄積經驗，學會青魔法「拍掌」後再去找馬丁吧。
+5,"TEXT_JOBAOZ200_03195_SEQ_05","和馬丁交談時，據稱是他老友的瓦斯特拉哈出現了。雖然馬丁是一個很丟人的師父，不過還是繼續鍛鍊積攢經驗，學會青魔法「拍掌」後再去找馬丁吧。
 
 ※青魔法師的等級達到30級以上並學會青魔法「拍掌」後，可以從密爾瓦內斯禮拜堂附近的馬丁那裡領取下一個青魔法師任務。"
 6,"TEXT_JOBAOZ200_03195_SEQ_06",""
@@ -51,12 +51,12 @@ int32,str,str
 45,"TEXT_JOBAOZ200_03195_TODO_21",""
 46,"TEXT_JOBAOZ200_03195_TODO_22",""
 47,"TEXT_JOBAOZ200_03195_TODO_23",""
-48,"TEXT_JOBAOZ200_03195_MARTYN_100_000","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBAOZ200_03195_MARTYN_100_000","好了，<Highlight>ObjectParameter(1)</Highlight>。
 我已經知道了你作為青魔法師成長了多少，
 不過你得至少先學會青魔法「精神衝擊」之後再來找我吧……"
 49,"TEXT_JOBAOZ200_03195_SYSTEM_100_001","學會青魔法「精神衝擊」之後，
 才能從馬丁那裡領取下一個青魔法師任務。"
-50,"TEXT_JOBAOZ200_03195_MARTYN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+50,"TEXT_JOBAOZ200_03195_MARTYN_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 看來你作為青魔法師又成長了一步啊。
 我想你也肯定學會了青魔法「精神衝擊」。"
 51,"TEXT_JOBAOZ200_03195_MARTYN_000_001","那咱們就開始進行下一個試煉，
@@ -128,8 +128,8 @@ int32,str,str
 你就全當是喪家之犬的哀鳴，
 聽完就忘掉吧。"
 80,"TEXT_JOBAOZ200_03195_MARTYN_000_041","好了，下一個需要你去學習的青魔法就是「拍掌」。
-學會這個魔法，進一步去蓄積作為青魔法師的經驗之後，
+學會這個魔法，進一步去積攢作為青魔法師的經驗之後，
 再來找我吧。"
 81,"TEXT_JOBAOZ200_03195_MARTYN_000_042","想成為獨當一面的青魔法師，
 要走的路途還很艱辛漫長，
-但不要停下你的腳步， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+但不要停下你的腳步，<Highlight>ObjectParameter(1)</Highlight>！"

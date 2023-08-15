@@ -51,8 +51,8 @@ int32,str,str
 47,"TEXT_LUCKYB006_03662_TODO_23",""
 48,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_001","哎呀，你莫非是……"
 49,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_002","嗯，果然是。
-你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 對吧？
-我聽說過不少關於你的事蹟。"
+你就是<Highlight>ObjectParameter(1)</Highlight>對吧？
+我聽說過不少關於你的事跡。"
 50,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_003","你這麼盯著我看，
 難道有什麼事情讓你很在意嗎？"
 51,"TEXT_LUCKYB006_03662_Q1_000_000","如何作答？"
@@ -60,10 +60,10 @@ int32,str,str
 53,"TEXT_LUCKYB006_03662_A1_000_002","你是從原初世界過來的？"
 54,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_005","我不懂你在說什麼……
 看來你在某個地方遇到過跟我長得很像的人物啊。"
-55,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_006","不過，要是你更加深入地瞭解我的話，
+55,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_006","不過，要是你更加深入地了解我的話，
 就一定能理解到我跟那個人物不是同一個人。"
 56,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_007","別看我這身打扮，我可是很喜愛詩歌的。
-我會從當事人那裡直接瞭解值得流傳於後世的偉大事蹟，
+我會從當事人那裡直接了解值得流傳於後世的偉大事跡，
 之後再用充滿了詩意的情感創造出新的作品。"
 57,"TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_008","對了，如果可以的話，能不能將你的冒險經歷講述給我聽聽？
 我希望你能夠允許我歌唱出你走過的旅程。"

@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_BANOMI101_04607_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-A4調查平臺的斯提格瑪．肆想處理來自卡雷利人的委託。"
-1,"TEXT_BANOMI101_04607_SEQ_01","將委託物品交給負責資材的卡雷利人"
-2,"TEXT_BANOMI101_04607_SEQ_02","向斯提格瑪．肆報告"
+A4調查平台的斯提格瑪四想處理來自卡列連人的委託。"
+1,"TEXT_BANOMI101_04607_SEQ_01","將委託物品交給負責資材的卡列連人"
+2,"TEXT_BANOMI101_04607_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI101_04607_SEQ_03",""
 4,"TEXT_BANOMI101_04607_SEQ_04",""
 5,"TEXT_BANOMI101_04607_SEQ_05",""
@@ -28,8 +28,8 @@ A4調查平臺的斯提格瑪．肆想處理來自卡雷利人的委託。"
 21,"TEXT_BANOMI101_04607_SEQ_21",""
 22,"TEXT_BANOMI101_04607_SEQ_22",""
 23,"TEXT_BANOMI101_04607_SEQ_23",""
-24,"TEXT_BANOMI101_04607_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土農業區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給負責資材的卡雷利人</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土農業區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給負責資材的卡雷利人</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土農業區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給負責資材的卡雷利人</If><Else/></If></If></If>"
-25,"TEXT_BANOMI101_04607_TODO_01","向斯提格瑪．肆報告"
+24,"TEXT_BANOMI101_04607_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土農業區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給負責資材的卡列連人</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土農業區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給負責資材的卡列連人</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土農業區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給負責資材的卡列連人</If><Else/></If></If></If>"
+25,"TEXT_BANOMI101_04607_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI101_04607_TODO_02",""
 27,"TEXT_BANOMI101_04607_TODO_03",""
 28,"TEXT_BANOMI101_04607_TODO_04",""
@@ -52,11 +52,11 @@ A4調查平臺的斯提格瑪．肆想處理來自卡雷利人的委託。"
 45,"TEXT_BANOMI101_04607_TODO_21",""
 46,"TEXT_BANOMI101_04607_TODO_22",""
 47,"TEXT_BANOMI101_04607_TODO_23",""
-48,"TEXT_BANOMI101_04607_STIGMA4_000_001","正在至福樂土進行農耕的卡雷利人發來了救援請求。
+48,"TEXT_BANOMI101_04607_STIGMA4_000_001","正在至福樂土進行農耕的卡列連人發來了救援請求。
 據說是那邊產生了大量雜草，對農業用地造成了危害。
 為了應對這一事態，本機合成了行星焦土化作戰用過的除草劑。"
-49,"TEXT_BANOMI101_04607_STIGMA4_000_002","不過這種優秀高效的方案卻被全身毛茸茸的咖啡廳老闆下令阻止。
-他主張利用當地素材來自主產生有機農藥，
+49,"TEXT_BANOMI101_04607_STIGMA4_000_002","不過這種優秀高效的方案卻被全身毛絨絨的咖啡廳老闆下令阻止。
+他主張利用當地素材來自主生成有機農藥，
 但實際上這種做法的效率是極其低下的。"
 50,"TEXT_BANOMI101_04607_STIGMA4_000_003","因此本機想勞煩同盟者幫忙籌集材料。
 請到新星的農業區採集<Sheet(Item,38281,0)/>。"
@@ -66,8 +66,8 @@ A4調查平臺的斯提格瑪．肆想處理來自卡雷利人的委託。"
 請到新星的農業區採集<Sheet(Item,38329,0)/>。
 釣餌方面推薦使用<Sheet(Item,36588,0)/>。"
 53,"TEXT_BANOMI101_04607_STIGMA4_000_006","有機農藥由奧密克戎基地的設備負責產出，
-請將其交給正在當地負責資材管理的卡雷利人。"
-54,"TEXT_BANOMI101_04607_KARELEAN04607_000_013","聽說受斯提格瑪．肆委託之人
+請將其交給正在當地負責資材管理的卡列連人。"
+54,"TEXT_BANOMI101_04607_KARELEAN04607_000_013","聽說受斯提格瑪四委託之人
 會負責將有機農藥的材料帶過來……"
 55,"TEXT_BANOMI101_04607_KARELEAN04607_000_014","哦哦，沒想到幫忙的人居然是你！
 謝謝，這下雜草的問題就可以迎刃而解了！"
@@ -87,14 +87,14 @@ A4調查平臺的斯提格瑪．肆想處理來自卡雷利人的委託。"
 61,"TEXT_BANOMI101_04607_STIGMA4_000_030","確認同盟者已返回。
 奧密克戎基地發來通知，
 有機農藥素材的採集工作已順利完成。"
-62,"TEXT_BANOMI101_04607_STIGMA4_000_031","目前已掌握這是來源於卡雷利人母星文明的文化活動。
-根據資料庫提供的資料顯示，在農地中刻意加入影像的行為
+62,"TEXT_BANOMI101_04607_STIGMA4_000_031","目前已掌握這是來源於卡列連人母星文明的文化活動。
+根據資料庫提供的數據顯示，在農地中刻意加入映像的行為
 被稱作「麥田怪圈」，這一現象已在多個文明圈中得到了確認。"
 63,"TEXT_BANOMI101_04607_STIGMA4_000_032","而且這作為吉兆的象徵還伴隨著美好的願望，本機著實無法理解。
 不過既然能夠為潛能量的運作帶來好的影響的話，
-那麼在咖啡廳營運方面自然應當受到歡迎。"
-64,"TEXT_BANOMI101_04607_STIGMA4_000_033","在農地中加入影像從而帶來了豐收，這種解釋雖然毫無根據，
-但對於提升卡雷利人的士氣卻是有幫助的。
+那麼在咖啡廳運營方面自然應當受到歡迎。"
+64,"TEXT_BANOMI101_04607_STIGMA4_000_033","在農地中加入映像從而帶來了豐收，這種解釋雖然毫無根據，
+但對於提升卡列連人的士氣卻是有幫助的。
 只要不會對咖啡廳的進貨方面造成困擾就沒問題。"
 65,"TEXT_BANOMI101_04607_STIGMA4_000_034","今後如果再有農藥素材方面的委託工作，屆時還會需要你的幫助。
 先收下這次的報酬吧。"

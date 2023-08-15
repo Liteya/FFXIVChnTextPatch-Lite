@@ -63,13 +63,13 @@ int32,str,str
 45,"TEXT_BANNAM306_03108_TODO_21",""
 46,"TEXT_BANNAM306_03108_TODO_22",""
 47,"TEXT_BANNAM306_03108_TODO_23",""
-48,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你知道什麼是文明嗎？
+48,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_000","<Highlight>ObjectParameter(1)</Highlight>，你知道什麼是文明嗎？
 文明既是文化，也代表著高度發達的社會。"
 49,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_001","社會……也就是人與人之間關係！
 如同名著«世間皆是惡鬼»中所說，
 如果輕視了鄰里關係，很可能會導致毀滅性的後果。"
 50,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_002","因此，我想給居住在附近洞穴中的維亞吉兒部準備一些禮品，
-希望 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你能夠幫忙。"
+希望<Highlight>ObjectParameter(1)</Highlight>你能夠幫忙。"
 51,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_003","親切的鯰魚精已經去喬爾艾恩石環做準備了，你去看看情況吧。
 我總有些不好的預感……拜託你了。"
 52,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_010","是光風院霽月找你來的嗎噗？
@@ -98,7 +98,7 @@ int32,str,str
 記得使用<Sheet(Item,20613,0)/>之類的用來釣淡水魚的魚餌，
 在塔奧卡勒河就能釣到，拜託你釣來噗！"
 61,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_019","準備好之後請你交給我噗。
-就拜託 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你了噗……等你的好消息噗！"
+就拜託<Highlight>ObjectParameter(1)</Highlight>你了噗……等你的好消息噗！"
 62,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_020","想要素材嗎噗？
 這個貨箱裡面放了許多，
 請你不要客氣儘管用噗！"
@@ -125,7 +125,7 @@ int32,str,str
 等你的好消息噗！"
 74,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_032","拜託你的東西在我告訴你的地方應該可以找得到噗。
 等你的好消息噗！"
-75,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你的東西你準備好了嗎噗？"
+75,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_040","<Highlight>ObjectParameter(1)</Highlight>，拜託你的東西你準備好了嗎噗？"
 76,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_041","哦，已經好了是吧噗！
 那麼就和我準備的東西噗噗地組合在一起……"
 77,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_042","做好了噗！
@@ -147,14 +147,14 @@ int32,str,str
 結果卻招致了滅亡的命運。"
 84,"TEXT_BANNAM306_03108_BAAVGAI_000_054","但是，如果是像這樣毫不吝嗇地向他族贈送禮物
 並祭祀祖先的鯰魚精們的話，
-一定是會走向繁榮的吧。"
+肯定是會走向繁榮的吧。"
 85,"TEXT_BANNAM306_03108_BAAVGAI_000_055","參加祭禮對我們來說是過於貪婪的慾望，
 因此只能在這洞窟當中祈禱祭禮的成功舉行了。
 請你替我向光風院霽月傳達謝意。"
 86,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_100_060","親切的鯰魚精他怎麼樣了？"
-87,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_060","是這樣啊，事情的經過我瞭解了。
+87,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_060","是這樣啊，事情的經過我了解了。
 維亞吉兒部在臨近各部族中確實是比較固執的一個。
 看來他們比名著«草海行記»中所記載的還要崇尚勤儉樸素……"
-88,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_061","不論如何，多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你的幫助，
+88,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_061","不論如何，多虧了<Highlight>ObjectParameter(1)</Highlight>你的幫助，
 總算讓他們收下了我們的禮物。
 感謝你幫我們構築了文明的鄰里關係！"

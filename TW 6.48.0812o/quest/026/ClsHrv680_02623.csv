@@ -61,9 +61,9 @@ int32,str,str
 希望冒險者也和我一起去……"
 51,"TEXT_CLSHRV680_02623_EDGYTH_000_003","謝謝您願意來，冒險者。
 讓我們聽聽弗弗茶大人有什麼意見……"
-52,"TEXT_CLSHRV680_02623_FUFUCHA_000_010","你來得正好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+52,"TEXT_CLSHRV680_02623_FUFUCHA_000_010","你來得正好，<Highlight>ObjectParameter(1)</Highlight>。
 想必你已經聽說雜交第一代枯死的事了吧？
-為了解決這個問題，我正想借助你的力量。"
+為了解決這個問題，我正想藉助你的力量。"
 53,"TEXT_CLSHRV680_02623_FUFUCHA_000_011","我認為，女王薯抵抗病蟲害能力較低，
 這一特徵遺傳到了雜交第一代，
 但具體是什麼原因尚未查清。"
@@ -75,7 +75,7 @@ int32,str,str
 並不知曉自然的一切。"
 56,"TEXT_CLSHRV680_02623_FUFUCHA_000_014","但是我還沒有放棄。
 我會嘗試各種方法繼續調查，找出原因。"
-57,"TEXT_CLSHRV680_02623_FUFUCHA_000_015"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，希望你也能來幫我。
+57,"TEXT_CLSHRV680_02623_FUFUCHA_000_015","<Highlight>ObjectParameter(1)</Highlight>，希望你也能來幫我。
 首先就請你去調查菜園吧。
 也許從冒險者的視角能發現什麼新東西也說不定。"
 58,"TEXT_CLSHRV680_02623_EDGYTH_000_016","啊，我也跟冒險者一起去。
@@ -113,7 +113,7 @@ int32,str,str
 74,"TEXT_CLSHRV680_02623_EDGYTH_000_043","我就去把這個<Sheet(EventItem,2002166,0)/>
 帶給弗弗茶和梭尼看，找他們商量對策。
 試劑就拜託您了！"
-75,"TEXT_CLSHRV680_02623_FUFUCHA_000_043"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你立了大功。
+75,"TEXT_CLSHRV680_02623_FUFUCHA_000_043","<Highlight>ObjectParameter(1)</Highlight>，你立了大功。
 恐怕艾德姬絲的猜想是正確的……
 等確定以後我再告訴你吧。"
 76,"TEXT_CLSHRV680_02623_GOLDWOX_000_050","呼哧……呼哧……
@@ -125,7 +125,7 @@ int32,str,str
 78,"TEXT_CLSHRV680_02623_GOLDWOX_000_070","呼哧……呼哧……
 原來如此 原來如此 你想要<Sheet(EventItem,2002168,0)/>！
 但是 現在 做不了！"
-79,"TEXT_CLSHRV680_02623_GOLDWOX_000_071","製作 一定要 稀少的<Sheet(Item,17947,0)/>！
+79,"TEXT_CLSHRV680_02623_GOLDWOX_000_071","製作 必須要 稀少的<Sheet(Item,17947,0)/>！
 現在 沒有 做不了！"
 80,"TEXT_CLSHRV680_02623_GOLDWOX_000_072","你是 園藝工？
 那就去 採20個<Sheet(Item,17947,0)/>！
@@ -169,15 +169,15 @@ int32,str,str
 但沒想到還有陷入休眠狀態的卵存活下來。
 而這次它們終於找到了新的宿主……"
 96,"TEXT_CLSHRV680_02623_FUFUCHA_000_107","原來如此……
-艾德姬絲你對這片土地的自然很瞭解呢。"
+艾德姬絲你對這片土地的自然很了解呢。"
 97,"TEXT_CLSHRV680_02623_EDGYTH_000_108","才，才沒有……偶然才注意到的……
 而且多虧了冒險者找到蟲卵……
 再說，還沒有找到解決辦法呢。"
 98,"TEXT_CLSHRV680_02623_SAWNEY_000_109","資料裡沒有寫對策。
 但既然已經把它們消滅了，應該有什麼方法才對……"
 99,"TEXT_CLSHRV680_02623_FUFUCHA_000_110","那麼，接下來就交給我吧。
-我會查詢其他線蟲害的案例，考慮最適合的對策。"
-100,"TEXT_CLSHRV680_02623_EDGYTH_000_111","我、我也會幫忙查詢薩雷安的資料的！
+我會查找其他線蟲害的案例，考慮最合適的對策。"
+100,"TEXT_CLSHRV680_02623_EDGYTH_000_111","我、我也會幫忙查找薩雷安的資料的！
 說不定能找到對策！"
 101,"TEXT_CLSHRV680_02623_SAWNEY_000_112","那我也來幫忙，畢竟我能做的只有這些了。"
 102,"TEXT_CLSHRV680_02623_FUFUCHA_000_113","等我們找到對策再來找你幫忙吧。

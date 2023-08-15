@@ -57,12 +57,12 @@ int32,str,str
 49,"TEXT_CLSTHM150_00350_COCOBUKI_000_3","今天，老四可可貝吉應該會教你
 下一章節的«咒術的深淵»，
 去學習「狂猛之危」吧。"
-50,"TEXT_CLSTHM150_00350_COCOBEZI_000_10","……是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 麼。
+50,"TEXT_CLSTHM150_00350_COCOBEZI_000_10","……是<Highlight>ObjectParameter(1)</Highlight>麼。
 我乃可可貝吉，負責講解「狂猛之危」的章節。
 那麼，請你仔細聽好了……"
 51,"TEXT_CLSTHM150_00350_COCOBEZI_000_11","「咒術的深淵：狂猛之危」
 嗚呼，吾釋放的魔力，如此絕倫。
-熱風捲豪炎、寒氣纏冰刃、閃光馳奔雷。"
+熱風卷豪炎、寒氣纏冰刃、閃光馳奔雷。"
 52,"TEXT_CLSTHM150_00350_COCOBEZI_000_12","嗚呼，不意遇敵之際，令人膽寒。
 豪炎暗濁、冰刃消散、奔雷匿跡。
 吾、需謹記此危。"
@@ -106,15 +106,15 @@ int32,str,str
 而聰明的咒術師則會使用策略，利用「催眠」讓敵人沉睡。"
 68,"TEXT_CLSTHM150_00350_COCOBEZI_000_58","鉗蠍幫正向枯骨東南方向移動。
 你去破壞他們匿藏的茉門之壺吧。"
-69,"TEXT_CLSTHM150_00350_COCOBUSI_000_60"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請等一下！
+69,"TEXT_CLSTHM150_00350_COCOBUSI_000_60","<Highlight>ObjectParameter(1)</Highlight>，請等一下！
 請讓我破壞那個壺吧！"
-70,"TEXT_CLSTHM150_00350_COCOBUSI_000_61","不好意思，因為我能幫到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話，
+70,"TEXT_CLSTHM150_00350_COCOBUSI_000_61","不好意思，因為我能幫到<Highlight>ObjectParameter(1)</Highlight>的話，
 我想哥哥們也一定會認同我的，
 所以我才會跟著你來……拜託了！"
 71,"TEXT_CLSTHM150_00350_TOUZOKU_000_63","喂！你們這些傢伙！
 趁我們不在的時候，做些什麼呢！"
 72,"TEXT_CLSTHM150_00350_COCOBUSI_000_64","嗚哇！怎、怎麼還有人在！"
-73,"TEXT_CLSTHM150_00350_COCOBUSI_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 使用的咒術好帥氣啊……
+73,"TEXT_CLSTHM150_00350_COCOBUSI_000_100","<Highlight>ObjectParameter(1)</Highlight>使用的咒術好帥氣啊……
 不過我沒有魔法的才能，只能在旁羨慕你了。"
 74,"TEXT_CLSTHM150_00350_COCOBUSI_001_102","我沒有才能……為了彌補魔力量少的短處，
 所以才試著製作魔力增幅藥，但還是行不通。
@@ -144,19 +144,19 @@ int32,str,str
 84,"TEXT_CLSTHM150_00350_COCOBUSI_000_115","……哼。
 什麼嘛，根本沒發生任何事情……
 哎呀呀，看來是被茉門欺騙了。"
-85,"TEXT_CLSTHM150_00350_COCOBUSI_000_117"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們回去吧。
+85,"TEXT_CLSTHM150_00350_COCOBUSI_000_117","<Highlight>ObjectParameter(1)</Highlight>，我們回去吧。
 ……啊，還要破壞壺對吧。"
 86,"TEXT_CLSTHM150_00350_COCOBUSI_000_118","好了，這樣就解決了！
 那我們……
 ……那我先回去了啊。"
-87,"TEXT_CLSTHM150_00350_COCOBEZI_000_130","……活生生的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 歸來了。
+87,"TEXT_CLSTHM150_00350_COCOBEZI_000_130","……活生生的<Highlight>ObjectParameter(1)</Highlight>歸來了。
 令人無比喜悅。"
-88,"TEXT_CLSTHM150_00350_COCOBEZI_000_131","我說， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+88,"TEXT_CLSTHM150_00350_COCOBEZI_000_131","我說，<Highlight>ObjectParameter(1)</Highlight>啊。
 方才看到了可可布希……
 但其舉止有些許奇怪，你知道其中的緣由嗎？"
 89,"TEXT_CLSTHM150_00350_Q1_000_1","要說什麼？"
 90,"TEXT_CLSTHM150_00350_A1_000_1","可可布希在試煉中途出現了"
-91,"TEXT_CLSTHM150_00350_A1_000_2","…………。"
+91,"TEXT_CLSTHM150_00350_A1_000_2","……"
 92,"TEXT_CLSTHM150_00350_COCOBEZI_000_135","你執意藏於心中的秘密與我弟弟有關，
 請你如實道來。"
 93,"TEXT_CLSTHM150_00350_COCOBEZI_000_140","什、什麼！

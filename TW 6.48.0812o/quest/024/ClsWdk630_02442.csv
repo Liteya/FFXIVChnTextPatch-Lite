@@ -2,17 +2,17 @@
 #,,
 int32,str,str
 0,"TEXT_CLSWDK630_02442_SEQ_00","刻木匠公會的貝亞坦有一件事想通知冒險者。"
-1,"TEXT_CLSWDK630_02442_SEQ_01","貝亞坦委託冒險者監督前往東方的奇彌．基恩加爾。和在黃金港潮風亭等待的奇彌．基恩加爾談談。"
-2,"TEXT_CLSWDK630_02442_SEQ_02","奇彌．基恩加爾打算開始做貝亞坦交給她的課題。前往黃金港的小金街，和正在尋找有困難的人的奇彌．基恩加爾談談。"
+1,"TEXT_CLSWDK630_02442_SEQ_01","貝亞坦委託冒險者監督前往東方的奇彌·基恩加爾。和在黃金港潮風亭等待的奇彌·基恩加爾談談。"
+2,"TEXT_CLSWDK630_02442_SEQ_02","奇彌·基恩加爾打算開始做貝亞坦交給她的課題。前往黃金港的小金街，和正在尋找有困難的人的奇彌·基恩加爾談談。"
 3,"TEXT_CLSWDK630_02442_SEQ_03","一名害羞的女子似乎正因自己的容貌而煩惱。在小金街和無地鼓座的演員們談談。"
-4,"TEXT_CLSWDK630_02442_SEQ_04","無地鼓座的演員們認為透過化妝改變了外表之後，就可以控制自己的情緒了。和潮風亭的奇彌．基恩加爾談談。"
-5,"TEXT_CLSWDK630_02442_SEQ_05","和奇彌．基恩加爾進行了交談，決定了要製作什麼。用<Sheet(Item,17877,0)/>製作<Sheet(ItemHQ,17878,0)/>，並將其交給潮風亭的害羞的女子。
+4,"TEXT_CLSWDK630_02442_SEQ_04","無地鼓座的演員們認為通過化妝改變了外表之後，就可以控制自己的情緒了。和潮風亭的奇彌·基恩加爾談談。"
+5,"TEXT_CLSWDK630_02442_SEQ_05","和奇彌·基恩加爾進行了交談，決定了要製作什麼。用<Sheet(Item,17877,0)/>製作<Sheet(ItemHQ,17878,0)/>，並將其交給潮風亭的害羞的女子。
 
-※如果<Sheet(Item,17877,0)/>不足的話，可以與奇彌．基恩加爾對話重新獲得材料，並再次進行挑戰。"
-6,"TEXT_CLSWDK630_02442_SEQ_06","收下<Sheet(ItemHQ,17878,0)/>的害羞的女子決心要努力改變自己。和潮風亭的奇彌．基恩加爾談談。"
-7,"TEXT_CLSWDK630_02442_SEQ_07","奇彌．基恩加爾為了成為一名合格的工匠，決定繼續努力。在等待她成長的期間，學習一下異國的文化。
+※如果<Sheet(Item,17877,0)/>不足的話，可以與奇彌·基恩加爾對話重新獲得材料，並再次進行挑戰。"
+6,"TEXT_CLSWDK630_02442_SEQ_06","收下<Sheet(ItemHQ,17878,0)/>的害羞的女子決心要努力改變自己。和潮風亭的奇彌·基恩加爾談談。"
+7,"TEXT_CLSWDK630_02442_SEQ_07","奇彌·基恩加爾為了成為一名合格的工匠，決定繼續努力。在等待她成長的期間，學習一下異國的文化。
 
-※刻木匠的等級達到65級以上時，可以從潮風亭的奇彌．基恩加爾那裡領取下一個刻木匠任務。"
+※刻木匠的等級達到65級以上時，可以從潮風亭的奇彌·基恩加爾那裡領取下一個刻木匠任務。"
 8,"TEXT_CLSWDK630_02442_SEQ_08",""
 9,"TEXT_CLSWDK630_02442_SEQ_09",""
 10,"TEXT_CLSWDK630_02442_SEQ_10",""
@@ -29,12 +29,12 @@ int32,str,str
 21,"TEXT_CLSWDK630_02442_SEQ_21",""
 22,"TEXT_CLSWDK630_02442_SEQ_22",""
 23,"TEXT_CLSWDK630_02442_SEQ_23",""
-24,"TEXT_CLSWDK630_02442_TODO_00","和黃金港的奇彌．基恩加爾對話"
-25,"TEXT_CLSWDK630_02442_TODO_01","和奇彌．基恩加爾對話"
+24,"TEXT_CLSWDK630_02442_TODO_00","和黃金港的奇彌·基恩加爾對話"
+25,"TEXT_CLSWDK630_02442_TODO_01","和奇彌·基恩加爾對話"
 26,"TEXT_CLSWDK630_02442_TODO_02","和無地鼓座的演員們對話"
-27,"TEXT_CLSWDK630_02442_TODO_03","和潮風亭的奇彌．基恩加爾對話"
+27,"TEXT_CLSWDK630_02442_TODO_03","和潮風亭的奇彌·基恩加爾對話"
 28,"TEXT_CLSWDK630_02442_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17878,0)/><Else/>將<Sheet(ItemHQ,17878,0)/>交給害羞的女子</If>"
-29,"TEXT_CLSWDK630_02442_TODO_05","和奇彌．基恩加爾對話"
+29,"TEXT_CLSWDK630_02442_TODO_05","和奇彌·基恩加爾對話"
 30,"TEXT_CLSWDK630_02442_TODO_06",""
 31,"TEXT_CLSWDK630_02442_TODO_07",""
 32,"TEXT_CLSWDK630_02442_TODO_08",""
@@ -53,14 +53,14 @@ int32,str,str
 45,"TEXT_CLSWDK630_02442_TODO_21",""
 46,"TEXT_CLSWDK630_02442_TODO_22",""
 47,"TEXT_CLSWDK630_02442_TODO_23",""
-48,"TEXT_CLSWDK630_02442_BEATINE_000_001","嗨， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
-奇彌發來了聯繫，說她已經順利抵達黃金港了……"
+48,"TEXT_CLSWDK630_02442_BEATINE_000_001","嗨，<Highlight>ObjectParameter(1)</Highlight>，
+奇彌發來了聯絡，說她已經順利抵達黃金港了……"
 49,"TEXT_CLSWDK630_02442_BEATINE_000_002","這趟旅途可真夠漫長的，
 她的信裡寫滿了路上的辛苦……
 不過有一半都是有關黃金港的食物的話題就是了……"
 50,"TEXT_CLSWDK630_02442_BEATINE_000_003","雖說是為師把她派出去學習東方文化的……
 但為師卻有點擔心，不知道她能不能做到。"
-51,"TEXT_CLSWDK630_02442_BEATINE_000_004","因此， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+51,"TEXT_CLSWDK630_02442_BEATINE_000_004","因此，<Highlight>ObjectParameter(1)</Highlight>，
 為師想誠懇地拜託你一件事。
 能請你前往黃金港監督那孩子嗎？"
 52,"TEXT_CLSWDK630_02442_BEATINE_000_005","為師希望你不光是守護她，還能幫她一起尋找有困難的人，
@@ -72,15 +72,15 @@ int32,str,str
 54,"TEXT_CLSWDK630_02442_BEATINE_000_007","嘻嘻嘻嘻……沒什麼可害羞的。
 她應該在黃金港的潮風亭附近……
 不好意思，麻煩你了……"
-55,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_010","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+55,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_010","哎呀，<Highlight>ObjectParameter(1)</Highlight>！
 沒想到能在這裡遇到你，真是太巧了！"
 56,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_011","為了學習東方的技術，
 我毅然決然地離開了故鄉格里達尼亞，
 但現在卻完全被遠東之國的文化迷住了！"
 57,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_012","或許是因為他們的持續鎖國才孕育了這樣獨特的傳統文化，
-那種纖細又感性的格調美，全是在艾奧傑亞看不到的！
+那種纖細又感性的格調美，全是在艾歐澤亞看不到的！
 雖然一朝一夕之間無法學會，但我一定會把它們變成自己的東西！"
-58,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_013","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為什麼會在這裡呢？"
+58,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_013","對了，<Highlight>ObjectParameter(1)</Highlight>為什麼會在這裡呢？"
 59,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_014","貝亞坦師父委託你來監督我？
 雖然我沒太聽懂，但我明白了！"
 60,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_015","師父讓我們尋找有困難的人，
@@ -95,7 +95,7 @@ int32,str,str
 63,"TEXT_CLSWDK630_02442_BEATINE_000_020","為師能感覺到那孩子的手藝裡有閃光點，
 無奈的是她身為工匠的態度還不太成熟……
 但願她能察覺到這一點……"
-64,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_030","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+64,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_030","啊……<Highlight>ObjectParameter(1)</Highlight>！
 我找到……有困難……的人了……"
 65,"TEXT_CLSWDK630_02442_WOMAN02442_000_031","我的確正在煩惱某些事。
 但這位姑娘卻聽都不聽我的煩惱，就自顧自地做起了東西……
@@ -111,7 +111,7 @@ int32,str,str
 69,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_035","不能讓委託人在這種地方等著，
 跟我一起去潮風亭等吧！
 走走，我帶你去！"
-70,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_036"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，不如去找無地鼓座的演員們
+70,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_036","<Highlight>ObjectParameter(1)</Highlight>，不如去找無地鼓座的演員們
 打聽一下有沒有樹立自信的秘訣，怎麼樣？"
 71,"TEXT_CLSWDK630_02442_CEMIJINJAHL_100_036","演員的氣質和給人的感覺都很與眾不同，
 只要一看就能看出來了！"
@@ -127,7 +127,7 @@ int32,str,str
 77,"TEXT_CLSWDK630_02442_SHIRANAMI_000_044","我想想啊……
 大概就是……改變自己吧。"
 78,"TEXT_CLSWDK630_02442_KIKUSUI_000_045","你問我怕不怕出現在別人面前？"
-79,"TEXT_CLSWDK630_02442_KIKUSUI_000_046","一開始是蠻怕的。
+79,"TEXT_CLSWDK630_02442_KIKUSUI_000_046","一開始是挺怕的。
 可是，化上妝之後就不一樣了，
 上妝後的我會變成另一個自己。"
 80,"TEXT_CLSWDK630_02442_WOMAN02442_000_045","嗚……那個人，看到我之後笑了？
@@ -136,7 +136,7 @@ int32,str,str
 81,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_050","不、不應該是這樣的啊……
 為什麼我不能像刻木匠公會的前輩們那樣
 帥氣地解決委託人的煩惱呢……"
-82,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！你知道要製作什麼才能解決委託人的煩惱了嗎？"
+82,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_060","<Highlight>ObjectParameter(1)</Highlight>！你知道要製作什麼才能解決委託人的煩惱了嗎？"
 83,"TEXT_CLSWDK630_02442_Q1_000_000","能夠解決委託人煩惱的是？"
 84,"TEXT_CLSWDK630_02442_A1_000_001","打倒敵人的長槍"
 85,"TEXT_CLSWDK630_02442_A1_000_002","改變外表的化妝盒"
@@ -145,8 +145,8 @@ int32,str,str
 原來如此……如果害怕走在外面的話，乾脆就把自己武裝起來！
 這個想法是不是太過激了啊？！"
 88,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_062","原、原來如此！！
-透過化妝改變外表，讓她得到自信！
-哎呀呀，真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！！"
+通過化妝改變外表，讓她得到自信！
+哎呀呀，真不愧是<Highlight>ObjectParameter(1)</Highlight>！！"
 89,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_063","那我就把製作<Sheet(ItemHQ,17878,0)/>需要用到的材料給你吧！
 這些都是用公會支付給我的研究費準備的，
 請不要客氣，隨便用！"
@@ -167,7 +167,7 @@ int32,str,str
 人的外表改變後，心裡也會變得不一樣。"
 98,"TEXT_CLSWDK630_02442_SHIRANAMI_200_065","樹立自信的方法……
 大概就是……改變自己吧。"
-99,"TEXT_CLSWDK630_02442_KIKUSUI_300_065","一開始我也蠻怕出現在別人面前的，
+99,"TEXT_CLSWDK630_02442_KIKUSUI_300_065","一開始我也挺怕出現在別人面前的，
 可是，化上妝之後就不一樣了，
 上妝後的我會變成另一個自己。"
 100,"TEXT_CLSWDK630_02442_WOMAN02442_000_080","這是……化妝盒？
@@ -180,12 +180,12 @@ int32,str,str
 我會加油改變自己的！"
 103,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_083","那個，能讓我也看看嗎？"
 104,"TEXT_CLSWDK630_02442_WOMAN02442_000_084","呀！"
-105,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_085","這、這就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的作品！
+105,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_085","這、這就是<Highlight>ObjectParameter(1)</Highlight>的作品！
 好厲害……連細節都做得這麼完美……
 真不愧是師父也認同的一流工匠！！"
-106,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_086","這種水準的東西……我的確做不出來。
+106,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_086","這種水平的東西……我的確做不出來。
 就算我再做下去，
-也沒辦法解決委託人的煩惱吧……"
+也沒法解決委託人的煩惱吧……"
 107,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_087","不好意思，給你添麻煩了，真不知道說什麼才好……"
 108,"TEXT_CLSWDK630_02442_WOMAN02442_000_088","沒事，沒事的。
 我也有錯，要是我能更自信一點的話，
@@ -197,18 +197,18 @@ int32,str,str
 111,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_095","<Sheet(ItemHQ,17878,0)/>好像做好了呢！
 那就請交給害羞的女子吧！
 我也好想看看成品啊……"
-112,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_100","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+112,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_100","啊……<Highlight>ObjectParameter(1)</Highlight>！
 這次真是辛苦你了！"
-113,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_101","我也想成為像 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 那樣擁有精湛手藝的合格工匠，
+113,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_101","我也想成為像<Highlight>ObjectParameter(1)</Highlight>那樣擁有精湛手藝的合格工匠，
 為此，我還要繼續在這裡努力修行！"
-114,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_102"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也來學學異國的文化怎麼樣？
+114,"TEXT_CLSWDK630_02442_CEMIJINJAHL_000_102","<Highlight>ObjectParameter(1)</Highlight>也來學學異國的文化怎麼樣？
 等我們的修行各自告一段落，再相互交流經驗吧！"
 115,"TEXT_CLSWDK630_02442_SYSTEM_000_102","在能工巧匠的職業任務中，
 需要使用任務裡獲得的材料進行製作。"
 116,"TEXT_CLSWDK630_02442_SYSTEM_000_103","如果製作失敗，
-可以透過和相關非玩家角色對話再次獲得材料。"
+可以通過和相關非玩家角色對話再次獲得材料。"
 117,"TEXT_CLSWDK630_02442_SYSTEM_000_104","讓我們來實際體驗一下吧！
-開啟「製作筆記」裡的「特殊配方」，
+打開「製作筆記」裡的「特殊配方」，
 從「職業故事」中選擇要製作的道具後，就可以開始製作了。"
 118,"TEXT_CLSWDK630_02442_SYSTEM_000_105","作為刻木匠提高了對東方文化的見識，
 學會了新的技能「品質精查」！"

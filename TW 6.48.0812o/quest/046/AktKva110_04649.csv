@@ -49,16 +49,16 @@ int32,str,str
 45,"TEXT_AKTKVA110_04649_TODO_21",""
 46,"TEXT_AKTKVA110_04649_TODO_22",""
 47,"TEXT_AKTKVA110_04649_TODO_23",""
-48,"TEXT_AKTKVA110_04649_KOKOSHU_000_001"," <Highlight>ObjectParameter(1)</Highlight> 閣下。
+48,"TEXT_AKTKVA110_04649_KOKOSHU_000_001","<Highlight>ObjectParameter(1)</Highlight>閣下。
 對閣下在希拉狄哈水道中找到的倉庫的調查，
 暫時告一段落了。"
-49,"TEXT_AKTKVA110_04649_KOKOSHU_000_002","娜娜莫陛下希望能讓你也瞭解到調查的結果。"
+49,"TEXT_AKTKVA110_04649_KOKOSHU_000_002","娜娜莫陛下希望能讓你也了解到調查的結果。"
 50,"TEXT_AKTKVA110_04649_KOKOSHU_000_003","陛下為此準備了一場茶會。
 不知是否有幸能請你來參加。"
 51,"TEXT_AKTKVA110_04649_KOKOSHU_000_004","非常感謝。
 那麼，我就去烏爾達哈御道等你。
 待你準備好了，還請告訴我一聲。"
-52,"TEXT_AKTKVA110_04649_KOKOSHU_000_010"," <Highlight>ObjectParameter(1)</Highlight> 閣下。
+52,"TEXT_AKTKVA110_04649_KOKOSHU_000_010","<Highlight>ObjectParameter(1)</Highlight>閣下。
 感謝你的到來。"
 53,"TEXT_AKTKVA110_04649_KOKOSHU_000_011","那麼，請允許我帶你拜見娜娜莫陛下。"
 54,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_012","朕這次特意叫你來，準備告訴你一件要……"
@@ -90,7 +90,7 @@ int32,str,str
 67,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_022","先王們一定也懷著同樣的期待吧。
 總有一天，蜥蜴人族將與烏爾達哈再度攜手，
 這些禮物將成為兩族融合的證明……"
-68,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_023","時間到了今天，透過支援帕戈爾贊一戰，
+68,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_023","時間到了今天，通過支援帕戈爾贊一戰，
 奇蹟再次降臨，兩族再次攜手……如今正是大好的機會。"
 69,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_024","願烏爾王室能為了民眾與近鄰繼承這一切……
 朕決定要依循這條宣言，成為民眾與近鄰間的橋樑，
@@ -102,7 +102,7 @@ int32,str,str
 多虧你願意陪著朕胡來踏上探索之旅，
 這將會是朕珍重一生的回憶。"
 72,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_027","謝謝你，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+<Highlight>ObjectParameter(1)</Highlight>。"
 73,"TEXT_AKTKVA110_04649_NANAMOULNAMO_000_028","抱歉，朕一個人獨自說了這麼多。
 現在，就讓你來給朕講講你最近的冒險吧？"
 74,"TEXT_AKTKVA110_04649_KOKOSHU_000_030","你和娜娜莫陛下的茶會怎麼樣？

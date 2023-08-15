@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_HEAVNA106_01585_SEQ_00","隼巢的羅思還有一項工作想拜託給冒險者。"
 1,"TEXT_HEAVNA106_01585_SEQ_01","接受了羅思的委託，去幫助一個叫蒂耶蒙的石匠。和庫爾札斯西部高地征龍像附近的蒂耶蒙對話。"
-2,"TEXT_HEAVNA106_01585_SEQ_02","接受了蒂耶蒙的委託，去收集修復石像所用的<Sheet(EventItem,2001572,0)/>。討伐征龍像附近的<Sheet(BNpcName,3471,0)/>，獲得3個<Sheet(EventItem,2001572,0)/>。"
+2,"TEXT_HEAVNA106_01585_SEQ_02","接受了蒂耶蒙的委託，去收集修復石像所用的<Sheet(EventItem,2001572,0)/>。討伐征龍像附近的<Sheet(BNpcName,3471,0)/>，獲取3個<Sheet(EventItem,2001572,0)/>。"
 3,"TEXT_HEAVNA106_01585_SEQ_03","獲得了3個<Sheet(EventItem,2001572,0)/>。將<Sheet(EventItem,2001572,0)/>交給征龍像附近的蒂耶蒙。"
 4,"TEXT_HEAVNA106_01585_SEQ_04","將<Sheet(EventItem,2001572,0)/>交給了蒂耶蒙。<Sheet(EventItem,2001572,0)/>原來是用來清除征龍像上的灰燼的。"
 5,"TEXT_HEAVNA106_01585_SEQ_05",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNA106_01585_SEQ_22",""
 23,"TEXT_HEAVNA106_01585_SEQ_23",""
 24,"TEXT_HEAVNA106_01585_TODO_00","和蒂耶蒙對話"
-25,"TEXT_HEAVNA106_01585_TODO_01","從<Sheet(BNpcName,3471,0)/>身上獲得<Sheet(EventItem,2001572,0)/>"
+25,"TEXT_HEAVNA106_01585_TODO_01","從<Sheet(BNpcName,3471,0)/>身上獲取<Sheet(EventItem,2001572,0)/>"
 26,"TEXT_HEAVNA106_01585_TODO_02","將<Sheet(EventItem,2001572,0)/>交給蒂耶蒙"
 27,"TEXT_HEAVNA106_01585_TODO_03",""
 28,"TEXT_HEAVNA106_01585_TODO_04",""
@@ -76,12 +76,12 @@ int32,str,str
 57,"TEXT_HEAVNA106_01585_THIERREMONT_000_021","啊！沒錯！就是這個！
 只要有這粗糙的<Sheet(EventItem,2001572,0)/>，
 就能磨掉附著在石像表面的灰燼了！"
-58,"TEXT_HEAVNA106_01585_THIERREMONT_000_022","這是伊修加爾德的建國英雄，
+58,"TEXT_HEAVNA106_01585_THIERREMONT_000_022","這是伊修加德的建國英雄，
 最初的蒼天之龍騎士哈爾德拉斯大人的石像。"
 59,"TEXT_HEAVNA106_01585_THIERREMONT_000_023","對龍族來說，它可是個眼中釘，肉中刺，
 因此被火焰吐息噴過好幾次，
 表面上沾上了一層灰燼……"
-60,"TEXT_HEAVNA106_01585_THIERREMONT_000_024","征龍像是伊修加爾德人民的驕傲，
+60,"TEXT_HEAVNA106_01585_THIERREMONT_000_024","征龍像是伊修加德人民的驕傲，
 只要把它打磨得煥然一新，士兵們的士氣也會隨之高漲，
 並且還能以此警告異端者我們前來奪回這片土地了。"
 61,"TEXT_HEAVNA106_01585_THIERREMONT_000_025","所以就算是再冷再累，

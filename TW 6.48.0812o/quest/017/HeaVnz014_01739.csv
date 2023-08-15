@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ014_01739_SEQ_00","玫瑰園的薔薇騎兵團的隨軍烹調師很辛苦地望著便當。"
-1,"TEXT_HEAVNZ014_01739_SEQ_01","薔薇騎兵團的隨軍烹調師拜託冒險者去送便當。獲得玫瑰園的<Sheet(EventItem,2001598,0)/>。"
+1,"TEXT_HEAVNZ014_01739_SEQ_01","薔薇騎兵團的隨軍烹調師拜託冒險者去送便當。獲取玫瑰園的<Sheet(EventItem,2001598,0)/>。"
 2,"TEXT_HEAVNZ014_01739_SEQ_02","收取了<Sheet(EventItem,2001598,0)/>。將<Sheet(EventItem,2001598,0)/>分發給玫瑰園的騎兵們。"
 3,"TEXT_HEAVNZ014_01739_SEQ_03","所有的便當都配發完畢了。向玫瑰園的薔薇騎兵團的隨軍烹調師報告。"
 4,"TEXT_HEAVNZ014_01739_SEQ_04","向薔薇騎兵團的隨軍烹調師報告完畢。阿巴拉提亞雲海和地上相比，空氣更加稀薄、人也更容易疲憊，所以她也考慮過引退。但還有許多人喜歡她的便當，於是她決定繼續堅持下去。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ014_01739_SEQ_21",""
 22,"TEXT_HEAVNZ014_01739_SEQ_22",""
 23,"TEXT_HEAVNZ014_01739_SEQ_23",""
-24,"TEXT_HEAVNZ014_01739_TODO_00","獲得<Sheet(EventItem,2001598,0)/>"
+24,"TEXT_HEAVNZ014_01739_TODO_00","獲取<Sheet(EventItem,2001598,0)/>"
 25,"TEXT_HEAVNZ014_01739_TODO_01","將<Sheet(EventItem,2001598,0)/>交給玫瑰園的騎兵"
 26,"TEXT_HEAVNZ014_01739_TODO_02","向薔薇騎兵團的隨軍烹調師報告"
 27,"TEXT_HEAVNZ014_01739_TODO_03",""
@@ -52,16 +52,16 @@ int32,str,str
 48,"TEXT_HEAVNZ014_01739_LUNCHCLERK01739_000_000","哎呀、你是……你能幫我個忙嗎？
 婆婆我為這裡的騎兵們做了便當想要送給他們，
 只是這把年紀了，要轉遍整個營地實在是辛苦……"
-49,"TEXT_HEAVNZ014_01739_LUNCHCLERK01739_000_001","但是大家都期待著吃上熱呼呼的便當，
+49,"TEXT_HEAVNZ014_01739_LUNCHCLERK01739_000_001","但是大家都期待著吃上熱乎乎的便當，
 也不能讓他們失望，你說對不對？
-所以想儘早地給大傢伙送去啊。"
+所以想盡早地給大傢伙送去啊。"
 50,"TEXT_HEAVNZ014_01739_LUNCHCLERK01739_000_002","你能不能代替婆婆幫忙送送便當？
 拜託你把那邊的<Sheet(EventItem,2001598,0)/>送給3個人。
 雖然沒什麼值錢的東西，但婆婆還是會獎勵你的。"
 51,"TEXT_HEAVNZ014_01739_LUNCHCLERK01739_000_010","你能不能代替婆婆幫忙送送便當？
 拜託你把那邊的<Sheet(EventItem,2001598,0)/>送給3個人。
 雖然沒什麼值錢的東西，但婆婆還是會獎勵你的。"
-52,"TEXT_HEAVNZ014_01739_LANIAITTE_000_020"," <Highlight>ObjectParameter(1)</Highlight> 閣下，您有什麼事嗎？
+52,"TEXT_HEAVNZ014_01739_LANIAITTE_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下，您有什麼事嗎？
 手上還拿著便當……"
 53,"TEXT_HEAVNZ014_01739_LANIAITTE_100_020","什麼？是給我送飯來的嗎？！
 居然讓您來幹這種雜務……真、真是抱歉。

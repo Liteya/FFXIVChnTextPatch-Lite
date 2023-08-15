@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKUA202_04729_SEQ_00","開拓據點的聯繫小員有事想要告訴冒險者。"
-1,"TEXT_AKTKUA202_04729_SEQ_01","和聯繫小員進行了交談。前往無人島西南方向的海灘，在<Sheet(EObj,2013296,0)/>等待塔塔露。"
+0,"TEXT_AKTKUA202_04729_SEQ_00","開拓據點的聯絡小員有事想要告訴冒險者。"
+1,"TEXT_AKTKUA202_04729_SEQ_01","和聯絡小員進行了交談。前往無人島西南方向的海灘，在<Sheet(EObj,2013296,0)/>等待塔塔露。"
 2,"TEXT_AKTKUA202_04729_SEQ_02","塔塔露和其日娜還有紗都一起來到了冒險者的島上。無人島的海灘正適合冒險者設宴招待好友。繼續開拓島嶼吧。"
 3,"TEXT_AKTKUA202_04729_SEQ_03",""
 4,"TEXT_AKTKUA202_04729_SEQ_04",""
@@ -55,30 +55,30 @@ int32,str,str
 請你像上次一樣，在西南方的海邊等待他們到達！"
 50,"TEXT_AKTKUA202_04729_OPERATORMAMMET_000_005","塔塔露帶著客人來島上啦！
 請你像上次一樣，在西南方的海邊等待他們到達！"
-51,"TEXT_AKTKUA202_04729_TATARU_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+51,"TEXT_AKTKUA202_04729_TATARU_000_010","<Highlight>ObjectParameter(1)</Highlight>！"
 52,"TEXT_AKTKUA202_04729_TATARU_100_010","謝謝你來接我們！"
-53,"TEXT_AKTKUA202_04729_CIRINA_000_011","好久不見， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_AKTKUA202_04729_CIRINA_000_011","好久不見，<Highlight>ObjectParameter(1)</Highlight>！
 抱歉，這麼唐突地跑過來……"
 54,"TEXT_AKTKUA202_04729_CIRINA_000_012","是我，其日娜。
 這身裝扮怎麼樣？有沒有讓你感到驚訝？
 還有紗都小姐也一起來了！"
 55,"TEXT_AKTKUA202_04729_SADU_000_013","你搞到一塊自己的土地這事居然是真的。
-哈，這地方還蠻像樣的。"
+哈，這地方還挺像樣的。"
 56,"TEXT_AKTKUA202_04729_CIRINA_000_014","是這樣……我們收到了莉瑟姐姐的邀請，
-她請我們來艾奧傑亞四處逛逛，
+她請我們來艾歐澤亞四處逛逛，
 說在這裡能看見不比草原差的美麗景色。"
 57,"TEXT_AKTKUA202_04729_TATARU_000_015","說是這麼說，莉瑟自己卻是有重任在身，抽不出空來。
-我就挺身而出，把這二位帶到艾奧傑亞最熱門的景點來啦。
+我就挺身而出，把這二位帶到艾歐澤亞最熱門的景點來啦。
 沒錯，就是我請她們來島上玩的！"
 58,"TEXT_AKTKUA202_04729_Q1_000_016","要說什麼？"
 59,"TEXT_AKTKUA202_04729_A1_000_017","來玩的只有她們倆？"
 60,"TEXT_AKTKUA202_04729_A1_000_018","瑪格奈呢？"
-61,"TEXT_AKTKUA202_04729_CIRINA_000_019","之前我們來艾奧傑亞都是有些救援任務什麼的，總是來去匆匆，
+61,"TEXT_AKTKUA202_04729_CIRINA_000_019","之前我們來艾歐澤亞都是有些救援任務什麼的，總是來去匆匆，
 這次總算是找到機會，能自由自在地玩個痛快了！"
 62,"TEXT_AKTKUA202_04729_SADU_000_020","其日娜她本來是想一個人來的。
 但是聽她這麼說，我可不放心……"
 63,"TEXT_AKTKUA202_04729_SADU_000_021","其日娜這種性格很容易被怪人盯上。
-只要我跟她一起來艾奧傑亞守著她，
+只要我跟她一起來艾歐澤亞守著她，
 說不定就能跟怪人大快人心地打一場了。"
 64,"TEXT_AKTKUA202_04729_CIRINA_000_022","……瑪格奈先生？"
 65,"TEXT_AKTKUA202_04729_CIRINA_000_023","那個……啊，你是想見他嗎？
@@ -90,7 +90,7 @@ int32,str,str
 蓄養動物也是開拓小島的一環。"
 68,"TEXT_AKTKUA202_04729_CIRINA_000_026","聽說這座島上還有羊？你有養羊嗎？
 這裡的羊和草原的羊長出來的毛皮是不是不太一樣？"
-69,"TEXT_AKTKUA202_04729_TATARU_000_027","對了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，返程的船還有一陣子才會到呢。
+69,"TEXT_AKTKUA202_04729_TATARU_000_027","對了<Highlight>ObjectParameter(1)</Highlight>，返程的船還有一陣子才會到呢。
 你帶著她們去島上看看羊吧？"
 70,"TEXT_AKTKUA202_04729_CIRINA_000_028","哇……可以嗎？
 那我就不客氣啦！麻煩你了！"
@@ -107,9 +107,9 @@ int32,str,str
 75,"TEXT_AKTKUA202_04729_CIRINA_000_033","這是我們平常穿的那種衣服。
 這件是專門定做的，在溫暖的地方穿起來也不會太熱。
 希望你能夠喜歡！"
-76,"TEXT_AKTKUA202_04729_CIRINA_000_034","那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 我們就不打擾你啦！
+76,"TEXT_AKTKUA202_04729_CIRINA_000_034","那<Highlight>ObjectParameter(1)</Highlight>我們就不打擾你啦！
 今天真是謝謝你了！"
 77,"TEXT_AKTKUA202_04729_SADU_000_035","下次你要是又搞到了好地方，記得再喊我們來看！
 到時候我們還會帶著禮物來看你的！"
-78,"TEXT_AKTKUA202_04729_TATARU_000_036"," <Highlight>ObjectParameter(1)</Highlight> ，我也要謝謝你！
+78,"TEXT_AKTKUA202_04729_TATARU_000_036","<Highlight>ObjectParameter(1)</Highlight>，我也要謝謝你！
 還有！過段時間我還會再來玩的！再見！"

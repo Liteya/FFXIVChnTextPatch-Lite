@@ -4,12 +4,12 @@ int32,str,str
 0,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_000","呼哧……呼哧……
 想讓哥布 告訴你 「烈羽爭鋒」 的事嗎——？
 那麼你就 把耳朵 挖乾淨 好好 聽著吧——！"
-1,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_Q1_000_001","關於烈羽爭鋒有什麼想瞭解的？"
+1,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_Q1_000_001","關於烈羽爭鋒有什麼想了解的？"
 2,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A1_000_002","什麼是「烈羽爭鋒」？"
 3,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A1_000_003","關於規則"
 4,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A1_000_004","關於報酬"
 5,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A1_000_005","取消"
-6,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_Q2_000_001","關於規則有什麼想瞭解的？"
+6,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_Q2_000_001","關於規則有什麼想了解的？"
 7,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A2_000_002","關於「核心」"
 8,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A2_000_003","關於「防禦塔」"
 9,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_A2_000_004","關於「動力發生器」"
@@ -23,7 +23,7 @@ int32,str,str
 驅使它們 針對 敵方的 「核心」 進行破壞——！"
 16,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_015","在烈羽爭鋒中，最多48名參加者，
 將被分為「獵隼」與「渡鴉」兩陣營互相對抗。"
-17,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_016","各陣營可以透過破壞掉設定在敵方據點內的「核心」,
+17,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_016","各陣營可以通過破壞掉設定在敵方據點內的「核心」,
 從而取得對戰的勝利。"
 18,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_017","若在規定時間內，雙方的核心都沒有被破壞的情況下，
 則對對方的核心與守護核心的被稱為「防禦塔」的設施
@@ -34,22 +34,22 @@ int32,str,str
 20,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_055","核心既是比賽的起始地點，
 也是設定在各陣營據點中的破壞目標。"
 21,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_056","在比賽的開始階段，核心被保護在
-由「防禦塔」產生的「魔導結界」中。"
+由「防禦塔」生成的「魔導結界」中。"
 22,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_057","因此，若想對敵方核心造成傷害，
 需要先破壞掉敵方的防禦塔以解除魔導結界。"
 23,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_070","防禦塔 沒事 的話 核心 也就 安全——！
 如何 有效地 對防禦塔 造成傷害
-就是 展現 各隊 本領 的時候——！"
+就是 體現 各隊 本領 的時候——！"
 24,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_075","防禦塔是核心的防禦裝置，每個陣營各有兩座防禦塔。"
 25,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_076","防禦塔還設定著能減輕塔本身與附近的我方隊員所受傷害的「塔結界」。"
 26,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_077","戰況不利的情況下，就請退到我方防禦塔的周圍，
 減輕所受到的敵方傷害，重整態勢吧。"
 27,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_090","呼哧……呼哧……
-能成功 佔領 「動力發生器」 的話
-「青磷水」 就會不斷 蓄積到 己方 陣營中！"
+能成功 佔領「動力發生器」 的話
+「青磷水」 就會不斷 積攢到 己方 陣營中！"
 28,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_095","動力發生器只在戰場的中央部分設定了一處。
-參戰者可以透過接觸，對其進行「佔領」。"
-29,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_096","透過佔領動力發生器，可以使自身所屬陣營的所有成員，
+參戰者可以通過接觸，對其進行「佔領」。"
+29,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_096","通過佔領動力發生器，可以使自身所屬陣營的所有成員，
 進入青磷水持續增加的狀態。"
 30,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_097","我方陣營各小隊的青磷水持續增加的話，
 機動兵器的運用也會更加便捷。
@@ -67,18 +67,18 @@ int32,str,str
 請到起始地點附近的「機庫終端」處，
 選擇想要搭乘的機體。"
 36,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_119","機動兵器不論機體的種類，能夠同時搭乘的，
-1個小隊只有1臺。"
+1個小隊只有1台。"
 37,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_120","但是，三種機體當中的「壓迫者」，
-每個陣營只能同時搭乘2臺。"
+每個陣營只能同時搭乘2台。"
 38,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_121","而「殘暴正義號」的搭乘權只會在己方防禦塔被破壞的時候產生。"
 39,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_122","因此，「殘暴正義號」在自陣營內的可同時搭乘數量
 即為損失的防禦塔數量。"
 40,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_130","機動兵器 雖然很強 可沒有 燃料的話 就動不了——
 想要啟動 就去找來 足夠量的 「青磷水」——！"
 41,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_135","想要搭乘機動兵器，需要使用青磷水。
-各小隊最大可以蓄積到100青磷水。"
+各小隊最大可以積攢到100青磷水。"
 42,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_136","青磷水可以從配置在戰場上各處的配置點取得，
-或是透過佔領動力發生器，或破壞敵方的自走人偶，
+或是通過佔領動力發生器，或破壞敵方的自走人偶，
 也可以取得青磷水。"
 43,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_137","青磷水是以小隊為單位所共有的，
 因此在搭乘機動兵器前，請先積極和小隊成員進行商討吧。"
@@ -91,7 +91,7 @@ int32,str,str
 並沿著既定的路線移動。
 經過一段時間後會自動消失。"
 47,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_157","移動中感知到敵方的自走人偶的話，
-將會自動展開攻擊直到該目標被破壞。"
+將會自動展開攻擊直到該對象被破壞。"
 48,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_158","自走人偶到達防禦塔或是核心的話，
 將會以自身的消滅為代價造成巨大傷害。"
 49,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_159","另外，自走人偶不會攻擊參戰的冒險者。"
@@ -105,7 +105,7 @@ int32,str,str
 53,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_167","另外，當檔數達到20時，
 狀態效果「氣勢」會變為「氣勢高昂」，
 變得更加強力。"
-54,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_168","氣勢的獲得方式為打倒敵方成員或破壞敵方防禦塔，
+54,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_168","氣勢的獲取方式為打倒敵方成員或破壞敵方防禦塔，
 陣營內每個小隊的氣勢是獨立的。"
 55,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_169","（★未使用／削除予定★）"
 56,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_200","呼哧……呼哧……

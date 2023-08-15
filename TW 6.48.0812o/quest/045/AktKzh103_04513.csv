@@ -5,8 +5,8 @@ int32,str,str
 西風仄費羅斯的喝彩的克勒翁還有很在意的生物。"
 1,"TEXT_AKTKZH103_04513_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
-克勒翁也很在意名為伊娥的生物的情況。和西風仄費羅斯的喝彩南方為冒險者等人指路的阿爾卡埃烏斯會合。"
-2,"TEXT_AKTKZH103_04513_SEQ_02","成功和阿爾卡埃烏斯會合，但是卻沒有看到伊娥。在西風仄費羅斯的喝彩附近分頭尋找伊娥。"
+克勒翁也很在意名為伊娥的生物的情況。和西風仄費羅斯的喝彩南方為冒險者等人指路的阿爾卡埃烏斯匯合。"
+2,"TEXT_AKTKZH103_04513_SEQ_02","成功和阿爾卡埃烏斯匯合，但是卻沒有看到伊娥。在西風仄費羅斯的喝彩附近分頭尋找伊娥。"
 3,"TEXT_AKTKZH103_04513_SEQ_03","成功找到了伊娥，不過要想將此創造生物投放到全世界也存在問題。伊娥由於視野不佳導致無法獲得充足的營養，對西風仄費羅斯的喝彩的伊娥使用<Sheet(EventItem,2003304,0)/>。"
 4,"TEXT_AKTKZH103_04513_SEQ_04","使用了<Sheet(EventItem,2003304,0)/>。向西風仄費羅斯的喝彩的克勒翁報告。"
 5,"TEXT_AKTKZH103_04513_SEQ_05","克勒翁對於未能賦予伊娥理想中的強大而懊悔。於是便向冒險者尋求建議，看看能為他做些什麼。"
@@ -53,7 +53,7 @@ int32,str,str
 46,"TEXT_AKTKZH103_04513_TODO_22",""
 47,"TEXT_AKTKZH103_04513_TODO_23",""
 48,"TEXT_AKTKZH103_04513_KLEON_000_000","啊，跨越了種族的友人，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+<Highlight>ObjectParameter(1)</Highlight>！"
 49,"TEXT_AKTKZH103_04513_KLEON_000_001","請繼續陪我一起參觀吧！
 其實還有一隻申請了理念登記的生物，
 也想讓你看一下……"
@@ -69,7 +69,7 @@ int32,str,str
 55,"TEXT_AKTKZH103_04513_KLEON_000_015","怎麼沒看到伊娥？
 那孩子身體很龐大，
 應該沒那麼容易弄丟才是。"
-56,"TEXT_AKTKZH103_04513_ALKAIOS_000_020","是蠻奇怪，這附近就是它的棲息地……"
+56,"TEXT_AKTKZH103_04513_ALKAIOS_000_020","是挺奇怪，這附近就是它的棲息地……"
 57,"TEXT_AKTKZH103_04513_MAIRA_000_021","是啊，它平時就是在這附近活動的。
 也許是因為害怕陌生的客人
 所以躲起來了吧……"
@@ -87,10 +87,10 @@ int32,str,str
 62,"TEXT_AKTKZH103_04513_SYSTEM_000_050","渾身毛茸茸的四足動物……
 這應該就是伊娥。"
 63,"TEXT_AKTKZH103_04513_KLEON_000_051","對對，就是它！
-感謝你幫忙找到它， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+感謝你幫忙找到它，<Highlight>ObjectParameter(1)</Highlight>！"
 64,"TEXT_AKTKZH103_04513_MAIRA_000_052","好了好了，乖孩子。
 已經沒事了，過來吧。"
-65,"TEXT_AKTKZH103_04513_MAIRA_000_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+65,"TEXT_AKTKZH103_04513_MAIRA_000_053","<Highlight>ObjectParameter(1)</Highlight>，
 這孩子似乎很喜歡你呢。"
 66,"TEXT_AKTKZH103_04513_ALKAIOS_000_054","話說……
 克勒翁閣下似乎很喜歡圓圓的生物呢。"
@@ -112,7 +112,7 @@ int32,str,str
 差不多也到了該使用<Sheet(EventItem,2003304,0)/>的時候。
 它跟你比較親近，這個任務就交給你怎麼樣？"
 74,"TEXT_AKTKZH103_04513_ALKAIOS_000_062","這個不是口服的，
-而是透過外皮來補給乙太。
+而是通過外皮來補給乙太。
 對著伊娥使用吧。"
 75,"TEXT_AKTKZH103_04513_ALKAIOS_000_070","伊娥由於視野不佳無法覓食，處於慢性的營養不足狀態。
 因此<Sheet(EventItem,2003304,0)/>是必不可少的。"
@@ -122,7 +122,7 @@ int32,str,str
 但我還是更想看到處在生態系統頂端的它。"
 78,"TEXT_AKTKZH103_04513_SYSTEM_000_090","<Sheet(EventItem,2003304,0)/>已經遍布全身……"
 79,"TEXT_AKTKZH103_04513_SYSTEM_000_095","感覺恢復了精神……"
-80,"TEXT_AKTKZH103_04513_KLEON_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+80,"TEXT_AKTKZH103_04513_KLEON_000_100","<Highlight>ObjectParameter(1)</Highlight>，
 那孩子真是受你照顧了，謝謝你。"
 81,"TEXT_AKTKZH103_04513_KLEON_000_101","或許伊娥成為家畜也不是壞事。
 但我果然還是希望能夠賦予那孩子

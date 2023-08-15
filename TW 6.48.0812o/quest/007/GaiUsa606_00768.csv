@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSA606_00768_SEQ_22",""
 23,"TEXT_GAIUSA606_00768_SEQ_23",""
 24,"TEXT_GAIUSA606_00768_TODO_00","和果樹園的農夫佛克斯對話"
-25,"TEXT_GAIUSA606_00768_TODO_01","驅除害蟲 獲得<Sheet(EventItem,2000608,0)/>"
+25,"TEXT_GAIUSA606_00768_TODO_01","驅除害蟲 獲取<Sheet(EventItem,2000608,0)/>"
 26,"TEXT_GAIUSA606_00768_TODO_02","將<Sheet(EventItem,2000608,0)/>交給佛克斯"
 27,"TEXT_GAIUSA606_00768_TODO_03",""
 28,"TEXT_GAIUSA606_00768_TODO_04",""
@@ -69,6 +69,6 @@ int32,str,str
 58,"TEXT_GAIUSA606_00768_FAWKES_000_020","呵呵，你採摘得怎麼樣了？
 是不是收穫了一大堆啊？"
 59,"TEXT_GAIUSA606_00768_FAWKES_000_030","幹得真不錯啊，你幫上大忙了。
-你要不要來當我的<If(PlayerParameter(4))>老婆<Else/>繼承人</If>，
+你要不要來當我的<If(PlayerParameter(4))>兒媳婦<Else/>繼承人</If>，
 與這個果樹園相伴一生啊？"
 60,"TEXT_GAIUSA606_00768_POP_MESSAGE_000","察覺到了敵人的氣息！"

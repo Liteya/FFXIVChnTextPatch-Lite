@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMNK630_02427_SEQ_00","喪靈鐘的維達蓋爾特非常煩惱。"
-1,"TEXT_JOBMNK630_02427_SEQ_01","維達蓋爾特在為星導教新教義的事而煩惱。前往基拉巴尼亞邊區的開宗堂和維達蓋爾特會合。"
-2,"TEXT_JOBMNK630_02427_SEQ_02","維達蓋爾特依舊在為星導教新教義的事而煩惱。前往基拉巴尼亞山區的阿拉加納和維達蓋爾特會合。"
+1,"TEXT_JOBMNK630_02427_SEQ_01","維達蓋爾特在為星導教新教義的事而煩惱。前往基拉巴尼亞邊區的開宗堂和維達蓋爾特匯合。"
+2,"TEXT_JOBMNK630_02427_SEQ_02","維達蓋爾特依舊在為星導教新教義的事而煩惱。前往基拉巴尼亞山區的阿拉加納和維達蓋爾特匯合。"
 3,"TEXT_JOBMNK630_02427_SEQ_03","維達蓋爾特終於決定了星導教的新教義。和阿拉加納的木人附近的維達蓋爾特談談。"
 4,"TEXT_JOBMNK630_02427_SEQ_04","和維達蓋爾特進行了交談。他希望冒險者為阿拉加納的居民展示武僧的技藝。首先對木人使用正拳。
 
-※「正拳」的發動條件可透過「演武」技能達成。"
+※「正拳」的發動條件可通過「演武」技能達成。"
 5,"TEXT_JOBMNK630_02427_SEQ_05","向阿拉加納的居民展示了武僧的正拳。接下來對木人使用雙龍腳。"
 6,"TEXT_JOBMNK630_02427_SEQ_06","向阿拉加納的居民展示了武僧的絕技雙龍腳。最後對木人使用連擊，點起重建星導教的狼煙。"
 7,"TEXT_JOBMNK630_02427_SEQ_07","維達蓋爾特向阿拉加納的居民們宣布了重建星導教的決定。和維達蓋爾特談談。"
@@ -29,8 +29,8 @@ int32,str,str
 21,"TEXT_JOBMNK630_02427_SEQ_21",""
 22,"TEXT_JOBMNK630_02427_SEQ_22",""
 23,"TEXT_JOBMNK630_02427_SEQ_23",""
-24,"TEXT_JOBMNK630_02427_TODO_00","和開宗堂的維達蓋爾特會合"
-25,"TEXT_JOBMNK630_02427_TODO_01","和阿拉加納的維達蓋爾特會合"
+24,"TEXT_JOBMNK630_02427_TODO_00","和開宗堂的維達蓋爾特匯合"
+25,"TEXT_JOBMNK630_02427_TODO_01","和阿拉加納的維達蓋爾特匯合"
 26,"TEXT_JOBMNK630_02427_TODO_02","和木人附近的維達蓋爾特對話"
 27,"TEXT_JOBMNK630_02427_TODO_03","對木人使用正拳"
 28,"TEXT_JOBMNK630_02427_TODO_04","對木人使用雙龍腳"
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_JOBMNK630_02427_TODO_21",""
 46,"TEXT_JOBMNK630_02427_TODO_22",""
 47,"TEXT_JOBMNK630_02427_TODO_23",""
-48,"TEXT_JOBMNK630_02427_WIDARGELT_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來啦。
+48,"TEXT_JOBMNK630_02427_WIDARGELT_000_001","<Highlight>ObjectParameter(1)</Highlight>，你來啦。
 旅行的準備工作都做好了嗎？"
 49,"TEXT_JOBMNK630_02427_WIDARGELT_000_002","艾里克博士為了調查基拉巴尼亞的形勢，
 已經先行出發，前往了名為阿拉加納的集落。"
@@ -71,7 +71,7 @@ int32,str,str
 55,"TEXT_JOBMNK630_02427_OTCHAKHA_000_008","傑恩茶真是的，不要這麼心急嘛！"
 56,"TEXT_JOBMNK630_02427_WIDARGELT_000_010","小時候我來過這裡幾次。
 我們星導教的武僧為了開啟脈輪，
-都會在這裡透過與魔物戰鬥來修行。"
+都會在這裡通過與魔物戰鬥來修行。"
 57,"TEXT_JOBMNK630_02427_WIDARGELT_000_011","本以為回到這裡看一看
 能為制定新教義帶來一些靈感……"
 58,"TEXT_JOBMNK630_02427_OTCHAKHA_000_012","唔……我記得從前星導教的教義是
@@ -82,7 +82,7 @@ int32,str,str
 您一定能想出來的。"
 61,"TEXT_JOBMNK630_02427_WIDARGELT_000_015","……你說得對。
 我們向東前往基拉巴尼亞山區，
-到阿拉加納和艾里克博士會合吧。"
+到阿拉加納和艾里克博士匯合吧。"
 62,"TEXT_JOBMNK630_02427_DZENTSA_000_020","嘿嘿，不知道為什麼，我的脈輪在隱隱發熱！"
 63,"TEXT_JOBMNK630_02427_OTCHAKHA_000_025","基拉巴尼亞自古一直戰亂不斷，
 這裡也是從前的一處古戰場。
@@ -90,14 +90,14 @@ int32,str,str
 64,"TEXT_JOBMNK630_02427_WIDARGELT_000_030","這個集落就是阿拉加納。
 來到這裡不禁讓我想起星導寺被燒的那天所發生的事……"
 65,"TEXT_JOBMNK630_02427_WIDARGELT_100_030","當時我像往常一樣在進行日常鍛鍊。
-結果一個武裝團夥突然衝進了寺中開始放火。"
+結果一個武裝團伙突然衝進了寺中開始放火。"
 66,"TEXT_JOBMNK630_02427_WIDARGELT_200_030","星導教的信徒們面對敵人的突襲，全都勇敢地站出來英勇作戰。
 當時尚且年幼的我與年紀相近的師兄們
 也都為了守護寺院和同伴拼盡了全力……"
 67,"TEXT_JOBMNK630_02427_WIDARGELT_300_030","但我們的抵抗只是徒勞，在那熊熊烈火中，
 師兄們一個接一個倒下了。"
 68,"TEXT_JOBMNK630_02427_WIDARGELT_400_030","最後只有我和零星幾個信徒大難不死，逃到了這集落當中。
-可惜這些人中，已沒有了阿德里師兄的身影……
+可惜這些人中，已沒有了阿德裡師兄的身影……
 他對我來說，就像是兄長一般……"
 69,"TEXT_JOBMNK630_02427_WIDARGELT_500_030","……唉，現在不是講這些心酸事的時候。
 我們快去找艾里克博士吧。"
@@ -141,21 +141,21 @@ int32,str,str
 86,"TEXT_JOBMNK630_02427_DZENTSA_000_047","但我們該怎麼做？"
 87,"TEXT_JOBMNK630_02427_WIDARGELT_000_048","就向他們展示我們的技藝吧。
 以此為標誌，正式宣布重建星導教。"
-88,"TEXT_JOBMNK630_02427_WIDARGELT_000_049"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這件事我想交給最強的你來完成。
+88,"TEXT_JOBMNK630_02427_WIDARGELT_000_049","<Highlight>ObjectParameter(1)</Highlight>，這件事我想交給最強的你來完成。
 作為起點的第一步一定要走好。"
 89,"TEXT_JOBMNK630_02427_ERIK_000_050","那老朽去把集落裡的人聚集過來，
 告訴他們說有精彩的表演。"
 90,"TEXT_JOBMNK630_02427_WIDARGELT_000_051","傑恩茶、夏可哈，你們去將木人擺到集落外面。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先凝神運氣，
+<Highlight>ObjectParameter(1)</Highlight>，你先凝神運氣，
 等調整好狀態之後來找我。"
 91,"TEXT_JOBMNK630_02427_DZENTSA_000_055","這裡真是蕭條啊……"
 92,"TEXT_JOBMNK630_02427_OTCHAKHA_000_060","是啊……"
 93,"TEXT_JOBMNK630_02427_SYSTEM_100_070","木人立在這裡……"
 94,"TEXT_JOBMNK630_02427_WIDARGELT_000_070","人來得沒有預想中多，不過終究是來了一些。"
-95,"TEXT_JOBMNK630_02427_WIDARGELT_000_071"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，展示你的武藝，為重建星導教點起狼煙吧！"
+95,"TEXT_JOBMNK630_02427_WIDARGELT_000_071","<Highlight>ObjectParameter(1)</Highlight>，展示你的武藝，為重建星導教點起狼煙吧！"
 96,"TEXT_JOBMNK630_02427_WIDARGELT_000_072","按順序對木人使用正拳、雙龍腳、連擊！"
-97,"TEXT_JOBMNK630_02427_SYSTEM_100_072","「正拳」的發動條件可透過「演武」技能達成。"
-98,"TEXT_JOBMNK630_02427_DZENTSA_000_075"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，往死裡打！"
+97,"TEXT_JOBMNK630_02427_SYSTEM_100_072","「正拳」的發動條件可通過「演武」技能達成。"
+98,"TEXT_JOBMNK630_02427_DZENTSA_000_075","<Highlight>ObjectParameter(1)</Highlight>，往死裡打！"
 99,"TEXT_JOBMNK630_02427_OTCHAKHA_000_080","傑恩茶，淑女一點！"
 100,"TEXT_JOBMNK630_02427_VILLAGER3333_000_100","喂，剛剛那個不是星導教的武技嗎？"
 101,"TEXT_JOBMNK630_02427_VILLAGER4444_000_101","我還以為武僧早就絕跡了，
@@ -174,10 +174,10 @@ int32,str,str
 為阿拉米格尋回希望嗎？"
 106,"TEXT_JOBMNK630_02427_VILLAGERA02427_000_106","我們才不會上當！
 你肯定也和鐵面什麼玩意一樣，
-是找藉口來給解放軍募兵的吧！"
+是找借口來給解放軍募兵的吧！"
 107,"TEXT_JOBMNK630_02427_WIDARGELT_000_107","……確實，從前的星導教武僧們
 沾染了阿拉米格的政治，淪為了國家的兵器。
-他們透過修行來獲得與敵人戰鬥的力量。"
+他們通過修行來獲得與敵人戰鬥的力量。"
 108,"TEXT_JOBMNK630_02427_WIDARGELT_000_108","但是，我建立的新星導教所修習的武藝，
 並不是為了對廢王一脈或帝國復仇。
 而是為了用自己的手，保護自己重要的東西。"
@@ -187,16 +187,16 @@ int32,str,str
 111,"TEXT_JOBMNK630_02427_WIDARGELT_000_111","我知道自己比不上從前建立星導教的偉大先輩們。
 但我身邊有著可靠的同伴們傾力相助！"
 112,"TEXT_JOBMNK630_02427_WIDARGELT_000_112","我親愛的徒弟傑恩茶和夏可哈！"
-113,"TEXT_JOBMNK630_02427_WIDARGELT_000_113","還有剛剛為諸位展示了精彩武技的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-114,"TEXT_JOBMNK630_02427_WIDARGELT_000_114","來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+113,"TEXT_JOBMNK630_02427_WIDARGELT_000_113","還有剛剛為諸位展示了精彩武技的<Highlight>ObjectParameter(1)</Highlight>！"
+114,"TEXT_JOBMNK630_02427_WIDARGELT_000_114","來，<Highlight>ObjectParameter(1)</Highlight>。
 你也來說一句。"
 115,"TEXT_JOBMNK630_02427_Q1_000_000","要說什麼？"
 116,"TEXT_JOBMNK630_02427_A1_000_001","一起加油吧！"
 117,"TEXT_JOBMNK630_02427_A1_000_002","有能跟上我們嚴酷訓練的人嗎？"
-118,"TEXT_JOBMNK630_02427_WIDARGELT_000_115","…… <Highlight>ObjectParameter(1)</Highlight> 只是開了個玩笑，
+118,"TEXT_JOBMNK630_02427_WIDARGELT_000_115","……<Highlight>ObjectParameter(1)</Highlight>只是開了個玩笑，
 實際上<If(PlayerParameter(4))>她<Else/>他</If>是非常好的人，諸位不必擔心。"
 119,"TEXT_JOBMNK630_02427_WIDARGELT_000_116","我們已經下定決心，發誓全心奉獻，為諸位帶來新的希望！"
-120,"TEXT_JOBMNK630_02427_WIDARGELT_000_120"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你的幫助。
+120,"TEXT_JOBMNK630_02427_WIDARGELT_000_120","<Highlight>ObjectParameter(1)</Highlight>，感謝你的幫助。
 多虧了你高超的武藝，
 我的聲音才得以傳達到了阿拉加納居民們的耳中。"
 121,"TEXT_JOBMNK630_02427_WIDARGELT_000_121","現在有很多人都對新星導教產生了興趣，
@@ -204,7 +204,7 @@ int32,str,str
 看來這第一次宣講教義的演說是成功了。"
 122,"TEXT_JOBMNK630_02427_WIDARGELT_100_121","如果我早逝的師兄們看到此情此景，一定會十分欣慰的……
 單是為了他們，我也要將星導教重建起來！"
-123,"TEXT_JOBMNK630_02427_WIDARGELT_000_122","為了儘快讓大家體會破壞神拉爾戈的教誨，
+123,"TEXT_JOBMNK630_02427_WIDARGELT_000_122","為了盡快讓大家體會破壞神拉爾戈的教誨，
 我打算讓他們先從最基礎的鍛鍊做起。"
 124,"TEXT_JOBMNK630_02427_WIDARGELT_000_123","等他們打好基礎之後，我們再進入下一階段的活動。
 在這之前，你先自己進行修行吧。

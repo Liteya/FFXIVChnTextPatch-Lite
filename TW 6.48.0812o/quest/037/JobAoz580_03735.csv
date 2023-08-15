@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_JOBAOZ580_03735_SEQ_00","烏爾達哈的馬丁希望冒險者陪他進行實證研究。"
-1,"TEXT_JOBAOZ580_03735_SEQ_01","和馬丁進行了交談，為了對「青魔法師萬能論」進行實證研究，決定前往百臂巨人族出沒的銅鈴銅山。為了和弟子們會合，與西薩納蘭地平關的馬丁談談。"
-2,"TEXT_JOBAOZ580_03735_SEQ_02","和馬丁進行了交談，與弟子們會合了。和西薩納蘭的銅鈴銅山入口附近的馬丁談談。"
+1,"TEXT_JOBAOZ580_03735_SEQ_01","和馬丁進行了交談，為了對「青魔法師萬能論」進行實證研究，決定前往百臂巨人族出沒的銅鈴銅山。為了和弟子們匯合，與西薩納蘭地平關的馬丁談談。"
+2,"TEXT_JOBAOZ580_03735_SEQ_02","和馬丁進行了交談，與弟子們匯合了。和西薩納蘭的銅鈴銅山入口附近的馬丁談談。"
 3,"TEXT_JOBAOZ580_03735_SEQ_03","和馬丁交談後得知他們遇到了在附近沒見過的妖異，並將其打倒了。好像還有其他的妖異，冒險者前去進行討伐。在銅鈴銅山入口附近的<Sheet(EObj,2010849,0)/>張望，討伐出現的妖異。"
 4,"TEXT_JOBAOZ580_03735_SEQ_04","討伐了妖異。和銅鈴銅山入口附近的馬丁談談。"
 5,"TEXT_JOBAOZ580_03735_SEQ_05","和馬丁進行交談時遇見了菲厄蓋斯和吉恩貝爾克，隨後蘿伊絲也出現了。原來是菲厄蓋斯將假面狂歡的魔物用作了兵器。蘿伊絲對此感到極度憤慨，結果雙方圍繞著天青鬥場的經營權產生了爭執。馬丁提出在藍色假面對齊格弗里德之戰中一決勝負，菲厄蓋斯接受了這個提案。和密爾瓦內斯禮拜堂附近的馬丁談談。"
-6,"TEXT_JOBAOZ580_03735_SEQ_06","和馬丁進行了交談。雖然不管怎麼看他都是一個不可靠的師父，不過在將青魔法師的實力磨鍊到極限，並學會青魔法「蛙腿」之後還是回來拜訪一下他。
+6,"TEXT_JOBAOZ580_03735_SEQ_06","和馬丁進行了交談。雖然不管怎麼看他都是一個不靠譜的師父，不過在將青魔法師的實力磨鍊到極限，並學會青魔法「蛙腿」之後還是回來拜訪一下他。
 
 ※青魔法師的等級達到60級以上並學會青魔法「蛙腿」後，可以從密爾瓦內斯禮拜堂附近的馬丁那裡領取下一個青魔法師任務。"
 7,"TEXT_JOBAOZ580_03735_SEQ_07",""
@@ -51,12 +51,12 @@ int32,str,str
 45,"TEXT_JOBAOZ580_03735_TODO_21",""
 46,"TEXT_JOBAOZ580_03735_TODO_22",""
 47,"TEXT_JOBAOZ580_03735_TODO_23",""
-48,"TEXT_JOBAOZ580_03735_MARTYN_100_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBAOZ580_03735_MARTYN_100_000","<Highlight>ObjectParameter(1)</Highlight>。
 看來你經過了嚴格的訓練啊，
 不過好像你還沒學會青魔法「蛻皮」？"
 49,"TEXT_JOBAOZ580_03735_SYSTEM_100_001","學會青魔法「蛻皮」之後，
 才能從馬丁那裡領取下一個青魔法師任務。"
-50,"TEXT_JOBAOZ580_03735_MARTYN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+50,"TEXT_JOBAOZ580_03735_MARTYN_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 看來你經過了嚴格的訓練，
 並且學會了青魔法「蛻皮」啊。"
 51,"TEXT_JOBAOZ580_03735_MARTYN_000_001","那你趕緊陪我去做實證研究吧。
@@ -66,17 +66,17 @@ int32,str,str
 可以同時擔任進攻、防護、治療三種職能的理論是正確的了。
 當然這對於弟子們來說也是一次不錯的修行。"
 53,"TEXT_JOBAOZ580_03735_MARTYN_000_003","正好我聽說銅鈴銅山因為有百臂巨人族出沒而引發了騷亂。
-咱們先去地平關和弟子們會合吧。"
+咱們先去地平關和弟子們匯合吧。"
 54,"TEXT_JOBAOZ580_03735_LATOOLJA_000_004","雖然大師嘴裡、說是為了研究、和訓練弟子、
 其實只是、為了面向比賽、想鍛鍊自己、而已。"
 55,"TEXT_JOBAOZ580_03735_LATOOLJA_000_005","麻煩你、就陪大師修行、一下吧。"
-56,"TEXT_JOBAOZ580_03735_LATOOLJA_000_008"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、麻煩你、就陪大師修行、一下吧。"
+56,"TEXT_JOBAOZ580_03735_LATOOLJA_000_008","<Highlight>ObjectParameter(1)</Highlight>、麻煩你、就陪大師修行、一下吧。"
 57,"TEXT_JOBAOZ580_03735_MARTYN_000_010","拉圖迦是不是又對你說了些多餘的話？
 不過算了，弟子們也差不多該到了……"
 58,"TEXT_JOBAOZ580_03735_MARTYN_000_011","喲，我等你們半天了……"
-59,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_012","好久不見， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+59,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_012","好久不見，<Highlight>ObjectParameter(1)</Highlight>！
 自從上次之後，我們也學會了許多青魔法！"
-60,"TEXT_JOBAOZ580_03735_PYANDIH_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的青魔法施法方式，
+60,"TEXT_JOBAOZ580_03735_PYANDIH_000_013","<Highlight>ObjectParameter(1)</Highlight>的青魔法施法方式，
 我也大致上能模仿出來了！"
 61,"TEXT_JOBAOZ580_03735_MARTYN_000_014","喂喂！別太得意忘形了！
 接下來咱們要去的可是巨人族跋扈的危險地帶！"
@@ -87,18 +87,18 @@ int32,str,str
 大師你怎麼樣啊？"
 64,"TEXT_JOBAOZ580_03735_MARTYN_000_017","我、我當然也是第一次去……
 你居然還事先調查了？"
-65,"TEXT_JOBAOZ580_03735_MARTYN_000_018","那、那你呢， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？"
+65,"TEXT_JOBAOZ580_03735_MARTYN_000_018","那、那你呢，<Highlight>ObjectParameter(1)</Highlight>？"
 66,"TEXT_JOBAOZ580_03735_Q1_000_000","要說什麼？"
 67,"TEXT_JOBAOZ580_03735_A1_000_001","去過無數次了十分簡單！"
 68,"TEXT_JOBAOZ580_03735_A1_000_002","已經充分做過事先調查了！"
-69,"TEXT_JOBAOZ580_03735_A1_000_003","…………"
+69,"TEXT_JOBAOZ580_03735_A1_000_003","……"
 70,"TEXT_JOBAOZ580_03735_MARTYN_000_019","是、是這樣啊……只有我一個是……
 總、總之出發前往銅鈴銅山吧！"
 71,"TEXT_JOBAOZ580_03735_MARTYN_000_020","看、看來咱們倆是一樣的啊……
 總、總之出發前往銅鈴銅山吧！"
 72,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_026","剛到這裡就被這附近沒見過的妖異襲擊了。"
-73,"TEXT_JOBAOZ580_03735_PYANDIH_000_027"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請多加小心。"
-74,"TEXT_JOBAOZ580_03735_MARTYN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，突然有妖異襲擊了過來，
+73,"TEXT_JOBAOZ580_03735_PYANDIH_000_027","<Highlight>ObjectParameter(1)</Highlight>，請多加小心。"
+74,"TEXT_JOBAOZ580_03735_MARTYN_000_030","<Highlight>ObjectParameter(1)</Highlight>，突然有妖異襲擊了過來，
 我剛把它打倒……"
 75,"TEXT_JOBAOZ580_03735_MARTYN_000_031","不過好像有一隻逃出了這個區域。
 麻煩你在那隻妖異傷及無辜之前找到並消滅它。"
@@ -107,9 +107,9 @@ int32,str,str
 77,"TEXT_JOBAOZ580_03735_NUTIBABUNTIBA_000_037","你已經打倒它了嗎？
 剛才戰鬥的時候我們完全不是它的對手……"
 78,"TEXT_JOBAOZ580_03735_PYANDIH_000_038","這麼快就打倒它了嗎？
-真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+真不愧是<Highlight>ObjectParameter(1)</Highlight>！"
 79,"TEXT_JOBAOZ580_03735_MARTYN_000_040","辛苦你了……
-不過話說回來，怪不得我看這妖異覺得面熟，
+不過話說回來，怪不得我看這妖異覺得眼熟，
 這傢伙就是假面狂歡中使用的妖異，絕對沒錯！"
 80,"TEXT_JOBAOZ580_03735_MARTYN_000_041","可是為什麼會在這種地方？"
 81,"TEXT_JOBAOZ580_03735_FYRGEISS_000_042","(-？？？？-)你們沒事吧？"
@@ -134,8 +134,8 @@ int32,str,str
 不過就算是這樣，我也不會原諒你將魔物用作兵器！
 這可是重大的違約行為！"
 92,"TEXT_JOBAOZ580_03735_FYRGEISS_000_053","哼……什麼違約啊。
-我已經對天青鬥場進行了鉅額的融資。
-目前營運費的一半以上都是由我們協會出的資……"
+我已經對天青鬥場進行了巨額的融資。
+目前運營費的一半以上都是由我們協會出的資……"
 93,"TEXT_JOBAOZ580_03735_FYRGEISS_000_054","也就是說我也擁有一半以上的經營權。
 所以包括魔物的利用方法在內，我都有權干涉。"
 94,"TEXT_JOBAOZ580_03735_ROYSE_000_055","的、的確你沒少出資，
@@ -153,10 +153,10 @@ int32,str,str
 101,"TEXT_JOBAOZ580_03735_MARTYN_000_062","我們青魔法師不受防護、攻擊、治療這類職能的限制，
 是一種萬能的戰鬥職業哦。"
 102,"TEXT_JOBAOZ580_03735_FYRGEISS_000_063","哼……終究不過是個半吊子，哪個都做不好吧？"
-103,"TEXT_JOBAOZ580_03735_MARTYN_000_064","我想透過我藍色假面與齊格弗里德的決戰，
+103,"TEXT_JOBAOZ580_03735_MARTYN_000_064","我想通過我藍色假面與齊格弗里德的決戰，
 一定能夠證明我的說法吧！"
 104,"TEXT_JOBAOZ580_03735_MARTYN_000_065","既然如此，那你與蘿伊絲小姐之間的爭執
-也透過這次比賽的結果來解決吧？"
+也通過這次比賽的結果來解決吧？"
 105,"TEXT_JOBAOZ580_03735_MARTYN_000_066","要是我輸了，天青鬥場的老闆之位就歸你了。
 同時也承認魔物可以作為兵器使用。"
 106,"TEXT_JOBAOZ580_03735_MARTYN_000_067","不過要是我贏了的話，天青鬥場的老闆就是蘿伊絲小姐。
@@ -173,7 +173,7 @@ int32,str,str
 111,"TEXT_JOBAOZ580_03735_MARTYN_000_072","兩位弟子就讓他們繼續去學習青魔法，
 咱們先回烏爾達哈吧。"
 112,"TEXT_JOBAOZ580_03735_FYRGEISS_000_076","呵呵呵……
-真是對不起啊，天青鬥場將要是我的了。"
+真是對不住啊，天青鬥場將要是我的了。"
 113,"TEXT_JOBAOZ580_03735_ZIRNBERK_000_077","你就是第二代藍色假面？
 呵呵呵……看起來比初代要強很多啊。"
 114,"TEXT_JOBAOZ580_03735_ROYSE_000_078","哎……
@@ -187,7 +187,7 @@ int32,str,str
 119,"TEXT_JOBAOZ580_03735_MARTYN_000_083","好了，接下來終於該輪到與齊格弗里德的決戰了。
 你作為後補到時候只能觀戰，
 不過在比賽開始之前誰也不知道究竟會發生什麼。"
-120,"TEXT_JOBAOZ580_03735_MARTYN_000_084","所以請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 學會青魔法「蛙腿」，
+120,"TEXT_JOBAOZ580_03735_MARTYN_000_084","所以請<Highlight>ObjectParameter(1)</Highlight>學會青魔法「蛙腿」，
 並將自己作為青魔法師的實力磨鍊到極限後，
 再來這裡找我吧。"
 121,"TEXT_JOBAOZ580_03735_MARTYN_000_085","第二代藍色假面啊！

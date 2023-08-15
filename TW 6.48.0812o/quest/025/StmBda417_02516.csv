@@ -51,14 +51,14 @@ int32,str,str
 47,"TEXT_STMBDA417_02516_TODO_23",""
 48,"TEXT_STMBDA417_02516_LYSE_000_000","大家一定都在等著你呢！"
 49,"TEXT_STMBDA417_02516_GOSETSU_000_005","其他參戰者也都回來了。"
-50,"TEXT_STMBDA417_02516_CIRINA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+50,"TEXT_STMBDA417_02516_CIRINA_000_010","<Highlight>ObjectParameter(1)</Highlight>……
 我們真的贏了呢！"
 51,"TEXT_STMBDA417_02516_DORBEI_000_020","唔……放心，我只是受了點小傷而已……
 孩子們會給我採來藥草的。"
 52,"TEXT_STMBDA417_02516_DORBEI_000_025","不過，如果戰鬥再延續那麼一會，
-我應該就沒辦法活著回來了。
+我估計就沒法活著回來了。
 ……謝謝你。"
-53,"TEXT_STMBDA417_02516_MOLA02514_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_STMBDA417_02516_MOLA02514_000_040","<Highlight>ObjectParameter(1)</Highlight>！
 太棒了！真是不敢相信！我們贏了！！"
 54,"TEXT_STMBDA417_02516_MOLB02514_000_045","哈……
 我已經累得一步都走不動了！"
@@ -71,18 +71,18 @@ int32,str,str
 58,"TEXT_STMBDA417_02516_HIEN_000_070","好了，也不能光我自己霸佔著你跟你說話，
 不然其他人可要吃醋了。"
 59,"TEXT_STMBDA417_02516_HIEN_000_071","得先去見見鐵木侖婆婆才行！
-然後好好為這次勝利感到喜悅和自豪吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+然後好好為這次勝利感到喜悅和自豪吧，<Highlight>ObjectParameter(1)</Highlight>！"
 60,"TEXT_STMBDA417_02516_LYSE_000_080","希望其他一起戰鬥的人都平安無事……"
 61,"TEXT_STMBDA417_02516_HIEN_000_085","鐵木侖婆婆，其日娜！
 我們回來了！"
 62,"TEXT_STMBDA417_02516_GOSETSU_000_090","你也快去打聲招呼吧！"
-63,"TEXT_STMBDA417_02516_TEMULUN_000_100","啊……歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+63,"TEXT_STMBDA417_02516_TEMULUN_000_100","啊……歡迎回來，<Highlight>ObjectParameter(1)</Highlight>。
 還有其他人，大家平安回來就好。"
 64,"TEXT_STMBDA417_02516_TEMULUN_000_101","我看到了你們在那達慕上的活躍表現。
 當你們取得勝利的那一瞬間，
 我激動地不禁老淚縱橫。"
 65,"TEXT_STMBDA417_02516_TEMULUN_000_102","真不知道該如何感謝你們才好……
-託你們的福，部落裡的其他人也都平安回來了。
+托你們的福，部落裡的其他人也都平安回來了。
 放心……一個都沒有少。"
 66,"TEXT_STMBDA417_02516_CIRINA_000_103","雖然不少人都受了重傷……
 不過大家都沉浸在勝利的喜悅中。"
@@ -90,7 +90,7 @@ int32,str,str
 他們一定都在迫不及待地等著你們！"
 68,"TEXT_STMBDA417_02516_LYSE_000_110","我們也有自己的目的，
 所以才選擇參加了那達慕的……
-不過因此而拯救了誰……這樣想是不是也蠻好的。"
+不過因此而拯救了誰……這樣想是不是也挺好的。"
 69,"TEXT_STMBDA417_02516_HIEN_000_115","啊哈哈！
 你到底是疼啊還是高興啊，能不能選一邊來啊！"
 70,"TEXT_STMBDA417_02516_GOSETSU_000_120","……老夫多久都沒有見過因勝利而露出笑顏的人了。
@@ -101,26 +101,26 @@ int32,str,str
 72,"TEXT_STMBDA417_02516_TEMULUN_000_130","向神明，向接受了你的大地……
 向所有為部落而戰的孩子們，
 獻上永久的感謝和祈禱。"
-73,"TEXT_STMBDA417_02516_MOLA02514_000_140"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+73,"TEXT_STMBDA417_02516_MOLA02514_000_140","<Highlight>ObjectParameter(1)</Highlight>！
 我們贏了，我們贏了！"
 74,"TEXT_STMBDA417_02516_MOLA02514_000_141","在戰鬥中，我面對著強敵幾乎就要倒下了。
 但是看到其日娜和其他人奮戰的樣子，
 就一跺腳咬著牙跟了上去，心想著拼了……"
 75,"TEXT_STMBDA417_02516_MOLA02514_000_142","啊，簡直太開心了！
 神靈一定是為了讓我們享受這個瞬間而下達的神諭！"
-76,"TEXT_STMBDA417_02516_MOLA02514_000_143","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+76,"TEXT_STMBDA417_02516_MOLA02514_000_143","對了，<Highlight>ObjectParameter(1)</Highlight>。
 你在大家面前展露一下勝者的雄姿，
 盡情地「歡呼勝利」吧！"
 77,"TEXT_STMBDA417_02516_MOLA02514_000_150","你在大家面前展露一下勝者的雄姿，
 盡情地「歡呼勝利」吧！"
-78,"TEXT_STMBDA417_02516_MOLC02514_000_160"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+78,"TEXT_STMBDA417_02516_MOLC02514_000_160","<Highlight>ObjectParameter(1)</Highlight>！
 你簡直太帥了，非常感謝你！"
 79,"TEXT_STMBDA417_02516_MOLA02514_000_161","為勇敢的旅行者和值得信賴的家人們獻上祈禱，
 願今後一切都風調雨順！"
 80,"TEXT_STMBDA417_02516_MOLD02514_000_162","啊，沒錯！
 願災害不再降臨，願家園繁榮昌盛！"
 81,"TEXT_STMBDA417_02516_LYSE_000_170","我都看到了哦！
-你還真是受大家喜愛呢， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+你還真是受大家喜愛呢，<Highlight>ObjectParameter(1)</Highlight>！"
 82,"TEXT_STMBDA417_02516_HIEN_000_175","沒想到大家會那麼開心，雖說是剛從戰場上下來，
 但大家根本沒有一點疲態啊！"
 83,"TEXT_STMBDA417_02516_GOSETSU_000_180","如同孩子會看著父親的背影成長，
@@ -146,7 +146,7 @@ int32,str,str
 祝願其做出的偉業會被譜寫成讚歌，被永久地傳唱……"
 93,"TEXT_STMBDA417_02516_CIRINA_000_214","模兒部會將各位的冒險故事傳唱下去。
 希望你能收下這馬頭琴，如果偶爾能夠想起，
-在這草原上有那麼一群人在傳頌著你的事蹟，我們就很開心了。"
+在這草原上有那麼一群人在傳頌著你的事跡，我們就很開心了。"
 94,"TEXT_STMBDA417_02516_TEMULUN_000_015","（★未使用／削除予定★）"
 95,"TEXT_STMBDA417_02516_BUJEG_000_030","（★未使用／削除予定★）"
 96,"TEXT_STMBDA417_02516_COTAN_000_035","（★未使用／削除予定★）"

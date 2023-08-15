@@ -30,7 +30,7 @@ int32,str,str
 26,"TEXT_AKTKMC101_04399_TODO_02","調查<Sheet(EObj,2012174,0)/>"
 27,"TEXT_AKTKMC101_04399_TODO_03","調查<Sheet(EObj,2012175,0)/>"
 28,"TEXT_AKTKMC101_04399_TODO_04","調查<Sheet(EObj,2012176,0)/>"
-29,"TEXT_AKTKMC101_04399_TODO_05","和雅．修特拉對話"
+29,"TEXT_AKTKMC101_04399_TODO_05","和雅·修特拉對話"
 30,"TEXT_AKTKMC101_04399_TODO_06",""
 31,"TEXT_AKTKMC101_04399_TODO_07",""
 32,"TEXT_AKTKMC101_04399_TODO_08",""
@@ -62,7 +62,7 @@ int32,str,str
 53,"TEXT_AKTKMC101_04399_URIANGER_000_015","抱歉我們來遲了。
 這位就是月亮上的居民嗎？"
 54,"TEXT_AKTKMC101_04399_WATCHEROFMOON_000_020","<UIForeground>F20223</UIForeground>我感知到的就是他們三位。<UIForeground>01</UIForeground>"
-55,"TEXT_AKTKMC101_04399_YSHTOLA_000_030","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，見到你真是太好了。"
+55,"TEXT_AKTKMC101_04399_YSHTOLA_000_030","啊，<Highlight>ObjectParameter(1)</Highlight>，見到你真是太好了。"
 56,"TEXT_AKTKMC101_04399_YSHTOLA_000_031","我們和救援隊共同出動，
 制服了陷入失控狀態的被精煉者們。"
 57,"TEXT_AKTKMC101_04399_YSHTOLA_000_032","很可惜，包括在最初階段選擇了自爆的人在內，
@@ -73,7 +73,7 @@ int32,str,str
 59,"TEXT_AKTKMC101_04399_URIANGER_000_034","可露兒小姐那邊也做了應急處理。
 接下來她只要慢慢療養，
 之前消耗的乙太就會恢復。"
-60,"TEXT_AKTKMC101_04399_YSHTOLA_000_035","所以我們三個人就先來跟你會合了。
+60,"TEXT_AKTKMC101_04399_YSHTOLA_000_035","所以我們三個人就先來跟你匯合了。
 即使我們不在，相信阿爾菲諾他們
 也可以很好地完成在加雷馬的任務。"
 61,"TEXT_AKTKMC101_04399_YSHTOLA_000_036","你這邊現在是什麼情況？
@@ -96,7 +96,7 @@ int32,str,str
 在等待期間，我們可以看一下嗎？"
 71,"TEXT_AKTKMC101_04399_WATCHEROFMOON_000_046","<UIForeground>F20223</UIForeground>啊，當然可以……
 這些是我的監視記錄……
-上層那些是更有年代的東西……<UIForeground>01</UIForeground>"
+上層那些是更有年頭的東西……<UIForeground>01</UIForeground>"
 72,"TEXT_AKTKMC101_04399_YSHTOLA_000_047","那麼在他穩定下來之前我們就借閱一下吧。
 你從上面開始看可以嗎？"
 73,"TEXT_AKTKMC101_04399_THANCRED_000_050","雖然佐迪亞克還是不完全的狀態，

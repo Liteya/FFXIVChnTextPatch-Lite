@@ -6,8 +6,8 @@ int32,str,str
 2,"TEXT_AKTKMC102_04400_SEQ_02","月面監視者幫忙帶了路。再次和嘆息海熒光洞的月面監視者談談。"
 3,"TEXT_AKTKMC102_04400_SEQ_03","和月面監視者進行了交談。和熒光洞的<Sheet(EObj,2012177,0)/>共鳴。"
 4,"TEXT_AKTKMC102_04400_SEQ_04","將乙太注入<Sheet(EObj,2012177,0)/>之後，阿爾戈斯出現了。和靈土之劍附近的月面監視者談談。"
-5,"TEXT_AKTKMC102_04400_SEQ_05","和月面監視者進行了交談。和靈土之劍附近的雅．修特拉談談。"
-6,"TEXT_AKTKMC102_04400_SEQ_06","和雅．修特拉一起騎乘阿爾戈斯進行了移動。和嘆息海最佳威兔洞的桑克瑞德談談。"
+5,"TEXT_AKTKMC102_04400_SEQ_05","和月面監視者進行了交談。和靈土之劍附近的雅·修特拉談談。"
+6,"TEXT_AKTKMC102_04400_SEQ_06","和雅·修特拉一起騎乘阿爾戈斯進行了移動。和嘆息海最佳威兔洞的桑克瑞德談談。"
 7,"TEXT_AKTKMC102_04400_SEQ_07","和桑克瑞德等人一起見證了兔兔族醒來。身為船員的他們，面對末日的再次來襲，會採取怎樣的行動呢？"
 8,"TEXT_AKTKMC102_04400_SEQ_08",""
 9,"TEXT_AKTKMC102_04400_SEQ_09",""
@@ -29,7 +29,7 @@ int32,str,str
 25,"TEXT_AKTKMC102_04400_TODO_01","再次和月面監視者對話"
 26,"TEXT_AKTKMC102_04400_TODO_02","和<Sheet(EObj,2012177,0)/>共鳴"
 27,"TEXT_AKTKMC102_04400_TODO_03","和月面監視者對話"
-28,"TEXT_AKTKMC102_04400_TODO_04","和雅．修特拉對話"
+28,"TEXT_AKTKMC102_04400_TODO_04","和雅·修特拉對話"
 29,"TEXT_AKTKMC102_04400_TODO_05","和桑克瑞德對話"
 30,"TEXT_AKTKMC102_04400_TODO_06",""
 31,"TEXT_AKTKMC102_04400_TODO_07",""
@@ -60,7 +60,7 @@ int32,str,str
 52,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_021","<UIForeground>F20223</UIForeground>如你們所見，嘆息海的中央
 有個大洞通往佐迪亞克此前所在的月球深處。
 受其影響，徒步過去非常困難。<UIForeground>01</UIForeground>"
-53,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_022","<UIForeground>F20223</UIForeground>所以你們需要借助阿爾戈斯的力量。
+53,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_022","<UIForeground>F20223</UIForeground>所以你們需要藉助阿爾戈斯的力量。
 就是剛才和你一起行動的那隻散發光輝的狗。<UIForeground>01</UIForeground>"
 54,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_023","<UIForeground>F20223</UIForeground>就像我是月面監視者一樣，它是月球的守護犬……
 我們都是海德林創造出來的。<UIForeground>01</UIForeground>"
@@ -73,7 +73,7 @@ int32,str,str
 如果迷路了，就回憶一下和阿爾戈斯一起經過的路線吧。<UIForeground>01</UIForeground>"
 58,"TEXT_AKTKMC102_04400_YSHTOLA_000_027","總之先跟著他走吧。
 如果是海德林安排的計策，
-瞭解一下也沒什麼壞處。"
+了解一下也沒什麼壞處。"
 59,"TEXT_AKTKMC102_04400_THANCRED_000_030","那種程度的裂縫，
 發揮不錯的話也許能跳過去……"
 60,"TEXT_AKTKMC102_04400_THANCRED_000_031","但萬一腳下打滑，
@@ -128,7 +128,7 @@ int32,str,str
 82,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_105","<UIForeground>F20223</UIForeground>我本以為它只是作為月球的守護犬來幫助你的，
 但看來似乎不止如此啊。<UIForeground>01</UIForeground>"
 83,"TEXT_AKTKMC102_04400_WATCHEROFMOON_100_105","<UIForeground>F20223</UIForeground>他們那邊……<UIForeground>01</UIForeground>"
-84,"TEXT_AKTKMC102_04400_YSHTOLA_000_106","哦，看起來蠻機靈的。
+84,"TEXT_AKTKMC102_04400_YSHTOLA_000_106","哦，看起來挺機靈的。
 應該沒什麼問題……"
 85,"TEXT_AKTKMC102_04400_YSHTOLA_000_107","這下我們也準備好了。"
 86,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_108","<UIForeground>F20223</UIForeground>再好不過。
@@ -164,7 +164,7 @@ int32,str,str
 99,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_142","<UIForeground>F20223</UIForeground>所以……我會繼續守望海德林所愛的、活在當下的生命。<UIForeground>01</UIForeground>"
 100,"TEXT_AKTKMC102_04400_YSHTOLA_000_150","那我們就出發吧。
 擠在一起飛會比較危險，所以我們兩個先行一步，
-讓桑克瑞德和于里昂熱跟在後面吧。"
+讓桑克瑞德和於里昂熱跟在後面吧。"
 101,"TEXT_AKTKMC102_04400_Q1_000_151","要騎上阿爾戈斯進行移動嗎？"
 102,"TEXT_AKTKMC102_04400_YSHTOLA_000_152","那就拜託了，阿爾戈斯。"
 103,"TEXT_AKTKMC102_04400_YSHTOLA_000_153","從大洞當中冒出了乙太。

@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBSCH650_02925_SEQ_00","恬靜路營地的阿爾卡．佐爾卡很擔心瑟托托。"
-1,"TEXT_JOBSCH650_02925_SEQ_01","和阿爾卡．佐爾卡進行了交談。為了尋找瑟托托父親的遺物，前往南部林區的無限城古堡，和阿爾卡．佐爾卡會合。"
-2,"TEXT_JOBSCH650_02925_SEQ_02","和阿爾卡．佐爾卡會合完畢，進入無限城古堡討伐了妖異。和南部林區的阿爾卡．佐爾卡會合。"
-3,"TEXT_JOBSCH650_02925_SEQ_03","瑟托托在無限城古堡中找到了父親的靈魂水晶，她想要用它召喚出小仙女。可是，小仙女並沒有被召喚出來，而瑟托托也倒下了。前往恬靜路營地，和阿爾卡．佐爾卡談談。"
-4,"TEXT_JOBSCH650_02925_SEQ_04","和阿爾卡．佐爾卡進行了交談。鬼哭隊的朗德內爾會幫忙照看瑟托托。等待她的康復。
+0,"TEXT_JOBSCH650_02925_SEQ_00","恬靜路營地的阿爾卡·佐爾卡很擔心瑟托托。"
+1,"TEXT_JOBSCH650_02925_SEQ_01","和阿爾卡·佐爾卡進行了交談。為了尋找瑟托托父親的遺物，前往南部林區的無限城古堡，和阿爾卡·佐爾卡匯合。"
+2,"TEXT_JOBSCH650_02925_SEQ_02","和阿爾卡·佐爾卡匯合完畢，進入無限城古堡討伐了妖異。和南部林區的阿爾卡·佐爾卡匯合。"
+3,"TEXT_JOBSCH650_02925_SEQ_03","瑟托托在無限城古堡中找到了父親的靈魂水晶，她想要用它召喚出小仙女。可是，小仙女並沒有被召喚出來，而瑟托托也倒下了。前往恬靜路營地，和阿爾卡·佐爾卡談談。"
+4,"TEXT_JOBSCH650_02925_SEQ_04","和阿爾卡·佐爾卡進行了交談。鬼哭隊的朗德內爾會幫忙照看瑟托托。等待她的康復。
 
-※學者的等級達到68級以上時，可以從恬靜路營地的阿爾卡．佐爾卡那裡領取下一個學者任務。"
+※學者的等級達到68級以上時，可以從恬靜路營地的阿爾卡·佐爾卡那裡領取下一個學者任務。"
 5,"TEXT_JOBSCH650_02925_SEQ_05",""
 6,"TEXT_JOBSCH650_02925_SEQ_06",""
 7,"TEXT_JOBSCH650_02925_SEQ_07",""
@@ -27,9 +27,9 @@ int32,str,str
 21,"TEXT_JOBSCH650_02925_SEQ_21",""
 22,"TEXT_JOBSCH650_02925_SEQ_22",""
 23,"TEXT_JOBSCH650_02925_SEQ_23",""
-24,"TEXT_JOBSCH650_02925_TODO_00","和無限城古堡前的阿爾卡．佐爾卡會合"
-25,"TEXT_JOBSCH650_02925_TODO_01","和無限城古堡前的阿爾卡．佐爾卡會合"
-26,"TEXT_JOBSCH650_02925_TODO_02","和恬靜路營地的阿爾卡．佐爾卡對話"
+24,"TEXT_JOBSCH650_02925_TODO_00","和無限城古堡前的阿爾卡·佐爾卡匯合"
+25,"TEXT_JOBSCH650_02925_TODO_01","和無限城古堡前的阿爾卡·佐爾卡匯合"
+26,"TEXT_JOBSCH650_02925_TODO_02","和恬靜路營地的阿爾卡·佐爾卡對話"
 27,"TEXT_JOBSCH650_02925_TODO_03",""
 28,"TEXT_JOBSCH650_02925_TODO_04",""
 29,"TEXT_JOBSCH650_02925_TODO_05",""
@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_JOBSCH650_02925_TODO_23",""
 48,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_001","瑟托托，你的身體已經沒問題了吧！
 嗯，臉色看上去也很不錯。"
-49,"TEXT_JOBSCH650_02925_SETOTO_000_002","阿爾卡．佐爾卡，你觀察力真敏銳呢。
+49,"TEXT_JOBSCH650_02925_SETOTO_000_002","阿爾卡·佐爾卡，你觀察力真敏銳呢。
 我的確覺得今天的肌膚要比平時更綠哦！"
 50,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_003","那麼，在討論今後的方針之前，
 我們先整理一下現在已知的情況吧。"
@@ -74,7 +74,7 @@ int32,str,str
 56,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_009","瑟托托的父親，
 很有可能被帶到了無限城古堡！"
 57,"TEXT_JOBSCH650_02925_SETOTO_000_010","好厲害！
-阿爾卡．佐爾卡不僅溫柔，還很聰明呢！"
+阿爾卡·佐爾卡不僅溫柔，還很聰明呢！"
 58,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_011","由於魔大戰末期被瑪哈的軍隊攻陷，
 那個遺跡變成了充滿妖異的危險地帶。"
 59,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_012","我們這就前往無限城古堡吧！
@@ -90,7 +90,7 @@ int32,str,str
 65,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_10","這裡就是無限城古堡嗎……
 你們兩個可要小心妖異啊。"
 66,"TEXT_JOBSCH650_02925_QIB_001_SETOTO_10","無論如何我都要找到父親的遺物！"
-67,"TEXT_JOBSCH650_02925_QIB_001_SETOTO_01"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+67,"TEXT_JOBSCH650_02925_QIB_001_SETOTO_01","<Highlight>ObjectParameter(1)</Highlight>，
 看這本書上寫的內容！"
 68,"TEXT_JOBSCH650_02925_QIB_001_SYSTEM_02","(-關於俘虜的工作報告-)數日前我們抓住了一隻潛入城中的尼姆海兵團的老鼠，
 現已決定在苦澀的大堂對其進行拷問。"
@@ -103,7 +103,7 @@ int32,str,str
 73,"TEXT_JOBSCH650_02925_QIB_101_ALKAZOLKA_05","好，我們把可疑的東西全部破壞，
 找出瑟托托父親的遺物！"
 74,"TEXT_JOBSCH650_02925_QIB_001_SETOTO_11","這裡面似乎只有廢品……"
-75,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_06","唔……書頁破破爛爛的，根本沒辦法看。
+75,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_06","唔……書頁破破爛爛的，根本沒法看。
 找找其他的吧！"
 76,"TEXT_JOBSCH650_02925_QIB_001_SETOTO_07","這裡面似乎並沒有與父親有關的物品……"
 77,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_11","哇——
@@ -116,7 +116,7 @@ int32,str,str
 放在這裡吧。"
 82,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_12","魔法人偶被破壞了？！
 全都是這隻妖異幹的嗎？"
-83,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_13","那不就沒辦法找瑟托托父親的遺物了嗎！
+83,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_13","那不就沒法找瑟托托父親的遺物了嗎！
 可惡……搭檔，我們先把這傢伙打倒！"
 84,"TEXT_JOBSCH650_02925_QIB_001_ALKAZOLKA_14","從妖異體內出現了寶箱？！
 原來如此，它把整個魔法人偶都給吃掉了！"
@@ -142,10 +142,10 @@ int32,str,str
 96,"TEXT_JOBSCH650_02925_NCUT_SETOTO_000_007","拜託了……請你出來……「萊拉克」！"
 97,"TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_008","瑟托托，你怎麼了？！
 喂……喂！"
-98,"TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_009"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，幫我一把！
+98,"TEXT_JOBSCH650_02925_NCUT_ALKAZOLKA_000_009","<Highlight>ObjectParameter(1)</Highlight>，幫我一把！
 我們先把她帶回恬靜路營地去！"
-99,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
-你是新生海兵團的軍事學者，我只能把瑟托托交給你。
+99,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_050","<Highlight>ObjectParameter(1)</Highlight>，
+你是新生海兵團的軍事學者，我只能把瑟托託交給你。
 請你幫她治療！"
 100,"TEXT_JOBSCH650_02925_SYSTEM_000_051","瑟托托的身體沒有外傷，呼吸和脈搏也都很穩定，
 可卻一直昏迷不醒……"
@@ -156,10 +156,10 @@ int32,str,str
 103,"TEXT_JOBSCH650_02925_LANDENEL_000_054","啊，怎麼是你啊……
 你在這幹嘛呢？"
 104,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_055","哇，他態度怎麼一下子就變了……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你認識他？"
+<Highlight>ObjectParameter(1)</Highlight>，你認識他？"
 105,"TEXT_JOBSCH650_02925_LANDENEL_000_056","她想召喚那個什麼小仙女，
 然後就突然昏倒了是嗎……
-那就隨便找個地方讓她睡吧，直到她睡醒。"
+那就隨便找個地方讓她睡唄，直到她睡醒。"
 106,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_057","你在說什麼啊！
 怎麼能讓年輕漂亮的女士睡在這種地方呢！"
 107,"TEXT_JOBSCH650_02925_LANDENEL_000_058","……這叫……「年輕漂亮的女士」……嗎……"
@@ -175,8 +175,8 @@ int32,str,str
 112,"TEXT_JOBSCH650_02925_LANDENEL_000_063","那位綠色的怪物姑娘由我
 ——鬼哭隊第六槍隊隊長朗德內爾負責任地幫你照顧，
 你就放心吧，冒險者。"
-113,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_064","我一會去向斯里托．卡里托先生彙報這件事。"
-114,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_065"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+113,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_064","我一會去向斯里托·卡里托先生彙報這件事。"
+114,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_065","<Highlight>ObjectParameter(1)</Highlight>，
 你就在這裡等瑟托托醒過來吧。"
 115,"TEXT_JOBSCH650_02925_ALKAZOLKA_000_070","（★未使用／削除予定★）"
 116,"TEXT_JOBSCH650_02925_LANDENEL_000_080","（★未使用／削除予定★）"

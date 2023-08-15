@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ926_01991_SEQ_00","德爾塔管區的管理系統安靜地佇立著。"
-1,"TEXT_HEAVNZ926_01991_SEQ_01","存取了管理系統。發現了系統內未登記的龍族個體。在德爾塔管區討伐4隻<Sheet(BNpcName,3557,0)/>。"
+1,"TEXT_HEAVNZ926_01991_SEQ_01","訪問了管理系統。發現了系統內未登記的龍族個體。在德爾塔管區討伐4隻<Sheet(BNpcName,3557,0)/>。"
 2,"TEXT_HEAVNZ926_01991_SEQ_02","成功討伐了<Sheet(BNpcName,3557,0)/>。向德爾塔管區的管理系統報告。"
 3,"TEXT_HEAVNZ926_01991_SEQ_03","向管理系統報告完畢。在亞拉戈帝國，繁殖或飼養未登記的龍族會違反數條法令。"
 4,"TEXT_HEAVNZ926_01991_SEQ_04",""
@@ -49,15 +49,15 @@ int32,str,str
 45,"TEXT_HEAVNZ926_01991_TODO_21",""
 46,"TEXT_HEAVNZ926_01991_TODO_22",""
 47,"TEXT_HEAVNZ926_01991_TODO_23",""
-48,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000","咔……咔咔……發現未登記的龍族個體。
+48,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000","哢……哢哢……發現未登記的龍族個體。
 發生了可能導致生態系統崩潰的異常情況。
 今後稱此對象為<Sheet(BNpcName,3557,0)/>。"
 49,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001","忠誠的亞拉戈帝國軍兵將，
 請前去消滅4隻<Sheet(BNpcName,3557,0)/>。"
 50,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010","忠誠的亞拉戈帝國軍兵將，
 請前去消滅4隻<Sheet(BNpcName,3557,0)/>。"
-51,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020","咔……咔咔……
+51,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020","哢……哢哢……
 確認<Sheet(BNpcName,3557,0)/>的反應消失。
 辛苦了。"
 52,"TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021","繁殖或飼養未登記的龍族違反了亞拉戈帝國環境保護法，
-以及家畜飼養法、觀賞性動物保護法等數條法令……咔咔……"
+以及家畜飼養法、觀賞性動物保護法等數條法令……哢哢……"

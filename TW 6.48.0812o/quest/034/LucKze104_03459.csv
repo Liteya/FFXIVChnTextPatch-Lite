@@ -58,7 +58,7 @@ int32,str,str
 這樣那個人一定會得救的！
 咱們快點回喬布要塞吧！"
 50,"TEXT_LUCKZE104_03459_SYSTEM_000_002","卡蕾雅不加思考地跑走了……
-用來調和的鍊金藥散發的香味可能會吸引魔物出現，
+用來調和的煉金藥散發的香味可能會吸引魔物出現，
 趕緊追上去吧。"
 51,"TEXT_LUCKZE104_03459_CALLEA_000_005","（★未使用／削除予定★）"
 52,"TEXT_LUCKZE104_03459_CALLEA_000_010","哈、哈……對、對不起，謝謝你了。
@@ -115,20 +115,20 @@ int32,str,str
 你和萊楠團長一起前去進行了救援。"
 72,"TEXT_LUCKZE104_03459_NIELDEN_000_036","居然敢於奔向遭到大群食罪靈襲擊的集落，
 要是沒有勇氣的人是根本做不到這點的。"
-73,"TEXT_LUCKZE104_03459_CALLEA_000_037"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+73,"TEXT_LUCKZE104_03459_CALLEA_000_037","<Highlight>ObjectParameter(1)</Highlight>……
 對你來說水灘村的人們應該都是些素未謀面的陌生人……"
 74,"TEXT_LUCKZE104_03459_CALLEA_000_038","為什麼你能為了與自己毫無關係的人，
 而前往危險的地方救助他們？"
 75,"TEXT_LUCKZE104_03459_Q1_000_039","如何作答？"
 76,"TEXT_LUCKZE104_03459_A1_000_040","我只做了自己力所能及之事"
-77,"TEXT_LUCKZE104_03459_A1_000_041","…………"
+77,"TEXT_LUCKZE104_03459_A1_000_041","……"
 78,"TEXT_LUCKZE104_03459_CALLEA_000_042","……是這樣啊，你說得對。
 做自己力所能及之事……那我也……"
 79,"TEXT_LUCKZE104_03459_CALLEA_000_043","……是無法用道理說明的嗎。
 既然是這樣，那我……"
-80,"TEXT_LUCKZE104_03459_CALLEA_000_044","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
-託你的福，我終於下定了決心。"
-81,"TEXT_LUCKZE104_03459_CALLEA_000_045"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、涅爾登叔叔。
+80,"TEXT_LUCKZE104_03459_CALLEA_000_044","謝謝你，<Highlight>ObjectParameter(1)</Highlight>。
+托你的福，我終於下定了決心。"
+81,"TEXT_LUCKZE104_03459_CALLEA_000_045","<Highlight>ObjectParameter(1)</Highlight>、涅爾登叔叔。
 我不去水晶都了。
 我要留在這裡將父親的診所繼續開下去！"
 82,"TEXT_LUCKZE104_03459_CALLEA_000_046","我當然知道喬布要塞是一個危險的地方，
@@ -147,9 +147,9 @@ int32,str,str
 如果遇到什麼麻煩，就隨時叫我。
 我會馬上趕過去的！"
 89,"TEXT_LUCKZE104_03459_CALLEA_000_053","好的！"
-90,"TEXT_LUCKZE104_03459_CALLEA_000_054"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+90,"TEXT_LUCKZE104_03459_CALLEA_000_054","<Highlight>ObjectParameter(1)</Highlight>……
 我一直依賴於你的厚意，真是抱歉。
 謝謝你了。"
 91,"TEXT_LUCKZE104_03459_CALLEA_000_055","自從我接觸到了你的溫柔，
 我便開始想要成為一個能為他人做出貢獻的人。
-……要是沒有你，我一定是無法下定決心的。"
+……要是沒有你，我肯定是無法下定決心的。"

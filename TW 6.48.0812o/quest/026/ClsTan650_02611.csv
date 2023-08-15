@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CLSTAN650_02611_SEQ_00","製革匠公會附近的阿特魯納想要製作新標本。"
 1,"TEXT_CLSTAN650_02611_SEQ_01","和阿特魯納進行了交談。下一個要做的是威羅迪納灰熊的標本。為了收集情報，在基拉巴尼亞邊區的帝國東方堡和艾尼恩談談。"
 2,"TEXT_CLSTAN650_02611_SEQ_02","和艾尼恩進行了交談。大家決定分頭收集威羅迪納灰熊的情報。向帝國東方堡的雙蛇黨哨兵打聽一下。"
-3,"TEXT_CLSTAN650_02611_SEQ_03","威羅迪納灰熊似乎棲息在藥場水車一帶。和帝國東方堡的艾尼恩會合。"
+3,"TEXT_CLSTAN650_02611_SEQ_03","威羅迪納灰熊似乎棲息在藥場水車一帶。和帝國東方堡的艾尼恩匯合。"
 4,"TEXT_CLSTAN650_02611_SEQ_04","艾尼恩跑去尋找威羅迪納灰熊了。追上前往基拉巴尼亞邊區藥場水車的艾尼恩。"
 5,"TEXT_CLSTAN650_02611_SEQ_05","艾尼恩似乎見到了正在撿果實吃的灰熊。在藥場水車再次和艾尼恩談談。"
 6,"TEXT_CLSTAN650_02611_SEQ_06","發現了威羅迪納灰熊的屍體。雖然艾尼恩好不容易從屍體上剝下了<Sheet(EventItem,2002185,0)/>，但這張皮看上去卻很難用在標本的製作上。將<Sheet(EventItem,2002185,0)/>交給格里達尼亞製革匠公會附近的阿特魯納。"
@@ -31,7 +31,7 @@ int32,str,str
 23,"TEXT_CLSTAN650_02611_SEQ_23",""
 24,"TEXT_CLSTAN650_02611_TODO_00","和帝國東方堡的艾尼恩對話"
 25,"TEXT_CLSTAN650_02611_TODO_01","和雙蛇黨哨兵對話"
-26,"TEXT_CLSTAN650_02611_TODO_02","和艾尼恩會合"
+26,"TEXT_CLSTAN650_02611_TODO_02","和艾尼恩匯合"
 27,"TEXT_CLSTAN650_02611_TODO_03","和艾尼恩對話"
 28,"TEXT_CLSTAN650_02611_TODO_04","再次和艾尼恩對話"
 29,"TEXT_CLSTAN650_02611_TODO_05","將<Sheet(EventItem,2002185,0)/>交給阿特魯納"
@@ -53,13 +53,13 @@ int32,str,str
 45,"TEXT_CLSTAN650_02611_TODO_21",""
 46,"TEXT_CLSTAN650_02611_TODO_22",""
 47,"TEXT_CLSTAN650_02611_TODO_23",""
-48,"TEXT_CLSTAN650_02611_ATELLOUNE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊！
+48,"TEXT_CLSTAN650_02611_ATELLOUNE_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來了啊！
 之前做的那個亨格長頸駝的標本吸引了很多人的目光哦。"
 49,"TEXT_CLSTAN650_02611_ATELLOUNE_000_001","甚至還有人看了那個標本，
 提出要投資協助我的研究呢！
 這也是你和艾尼恩的功勞哦。"
 50,"TEXT_CLSTAN650_02611_ATELLOUNE_000_002","不過，為了收穫更多的關注，我想再選個新題材。
-這次我決定讓大家瞭解一下我所研究的
+這次我決定讓大家了解一下我所研究的
 博物學的重大主題之一——自然界的生態系統。"
 51,"TEXT_CLSTAN650_02611_ATELLOUNE_100_002","在我帶著這個想法編寫過去研究成果的時候……
 我正好發現了一個適合下一個標本的題材！"
@@ -73,33 +73,33 @@ int32,str,str
 你不覺得想要講解生態系統的話，這個題材再適合不過了嗎？
 那就快飛到那裡收集情報吧。"
 55,"TEXT_CLSTAN650_02611_ATELLOUNE_000_004","另外，這次我得盯著這個長頸駝標本，
-還得忙著跟過來看的人解說，所以沒辦法跟你們同去了。
+還得忙著跟過來看的人解說，所以沒法跟你們同去了。
 你就和艾尼恩兩個人好好努力吧。"
 56,"TEXT_CLSTAN650_02611_ATELLOUNE_000_005","（★未使用／削除予定★）"
-57,"TEXT_CLSTAN650_02611_ENION_000_006"," <Highlight>ObjectParameter(1)</Highlight> ，那我們就去基拉巴尼亞邊區
+57,"TEXT_CLSTAN650_02611_ENION_000_006","<Highlight>ObjectParameter(1)</Highlight>，那我們就去基拉巴尼亞邊區
 尋找威羅迪納灰熊吧！"
-58,"TEXT_CLSTAN650_02611_ENION_101_006","我們先在帝國東方堡會合好了。
-我想找艾奧傑亞同盟軍的士兵打聽一下
+58,"TEXT_CLSTAN650_02611_ENION_101_006","我們先在帝國東方堡匯合好了。
+我想找艾歐澤亞同盟軍的士兵打聽一下
 威羅迪納灰熊的具體棲息地。"
-59,"TEXT_CLSTAN650_02611_ENION_000_000","多虧了 <Highlight>ObjectParameter(1)</Highlight> 的幫助，
+59,"TEXT_CLSTAN650_02611_ENION_000_000","多虧了<Highlight>ObjectParameter(1)</Highlight>的幫助，
 我才能做出那麼棒的標本，比我自己一個人做的好多了！
 今後也要請你多多指教啊！"
 60,"TEXT_CLSTAN650_02611_ENION_000_010","威羅迪納灰熊過去就生活在這附近吧。
 那我們就去找士兵們打聽打聽吧！"
 61,"TEXT_CLSTAN650_02611_ENION_100_010","據點南側這邊交給我，
-北側就拜託 <Highlight>ObjectParameter(1)</Highlight> 了！
+北側就拜託<Highlight>ObjectParameter(1)</Highlight>了！
 我們一會見！"
-62,"TEXT_CLSTAN650_02611_ATELLOUNE_000_015"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你還沒過去嗎？
+62,"TEXT_CLSTAN650_02611_ATELLOUNE_000_015","<Highlight>ObjectParameter(1)</Highlight>，你還沒過去嗎？
 快點到帝國東方堡去，
 和艾尼恩兩個人好好努力吧。"
 63,"TEXT_CLSTAN650_02611_ORIENSSOLDIER02611_000_020","哦？你想知道哪有威羅迪納灰熊？"
 64,"TEXT_CLSTAN650_02611_ORIENSSOLDIER02611_000_021","在這裡往南的藥場水車一帶以前倒是有很多……
 不過最近已經完全看不到了。"
 65,"TEXT_CLSTAN650_02611_SYSTEM_000_022","（★未使用／削除予定★）"
-66,"TEXT_CLSTAN650_02611_ATELLOUNE_000_025"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你在做什麼呢？
+66,"TEXT_CLSTAN650_02611_ATELLOUNE_000_025","<Highlight>ObjectParameter(1)</Highlight>，你在做什麼呢？
 快去和艾尼恩兩個人好好努力吧。"
 67,"TEXT_CLSTAN650_02611_ENION_000_026","這邊的情報就由我去收集！
-至於北邊就拜託 <Highlight>ObjectParameter(1)</Highlight> 了！"
+至於北邊就拜託<Highlight>ObjectParameter(1)</Highlight>了！"
 68,"TEXT_CLSTAN650_02611_ENION_100_030","……原來如此！
 是在南邊的藥場水車一帶啊。"
 69,"TEXT_CLSTAN650_02611_ENION_100_031","說不定威羅迪納灰熊喜歡吃的那種果實
@@ -108,7 +108,7 @@ int32,str,str
 70,"TEXT_CLSTAN650_02611_ORIENSSOLDIER02611_000_035","威羅迪納灰熊過去似乎棲息在
 這裡往南的藥場水車一帶……
 但最近已經完全看不到了。"
-71,"TEXT_CLSTAN650_02611_ENION_100_040","啊， <Highlight>ObjectParameter(1)</Highlight> 。
+71,"TEXT_CLSTAN650_02611_ENION_100_040","啊，<Highlight>ObjectParameter(1)</Highlight>。
 你在路上有沒有被魔物襲擊？
 我費了好大力氣才好不容易逃了出來……"
 72,"TEXT_CLSTAN650_02611_ENION_100_041","不過，我在四處亂跑的時候
@@ -116,11 +116,11 @@ int32,str,str
 我猜那肯定就是威羅迪納灰熊了！"
 73,"TEXT_CLSTAN650_02611_ENION_100_042","這附近果然有威羅迪納灰熊喜歡吃的那種果實。
 快，我們快調查一下這一帶吧！"
-74,"TEXT_CLSTAN650_02611_ENION_100_050"," <Highlight>ObjectParameter(1)</Highlight> ，你看這個……
+74,"TEXT_CLSTAN650_02611_ENION_100_050","<Highlight>ObjectParameter(1)</Highlight>，你看這個……
 好像是威羅迪納灰熊的屍體。"
 75,"TEXT_CLSTAN650_02611_ENION_100_051","但是看樣子已經死了有一會了，身上好多傷啊。
 就算是你再厲害，怕是也很難從這樣的熊皮上
-加工出能用在標本上的高品質毛皮……"
+加工出能用在標本上的優質毛皮……"
 76,"TEXT_CLSTAN650_02611_ENION_100_052","總之……我們先處理一下吧。
 能幫我把它分解嗎？"
 77,"TEXT_CLSTAN650_02611_SYSTEM_100_053","從威羅迪納灰熊的屍體上獲得了
@@ -136,31 +136,31 @@ int32,str,str
 81,"TEXT_CLSTAN650_02611_ENION_100_062","事實上，我們雖然幸運地找到了威羅迪納灰熊的屍體，
 但這隻灰熊已經死了一段時間了，
 原本的狀態就很不好。"
-82,"TEXT_CLSTAN650_02611_ENION_100_063","即便如此，我還是在 <Highlight>ObjectParameter(1)</Highlight> 的幫助下盡可能地
+82,"TEXT_CLSTAN650_02611_ENION_100_063","即便如此，我還是在<Highlight>ObjectParameter(1)</Highlight>的幫助下盡可能地
 將這張皮以最好的狀態帶回來了……
-不過，您說得沒錯，這種皮是沒辦法做標本的。"
+不過，您說得沒錯，這種皮是沒法做標本的。"
 83,"TEXT_CLSTAN650_02611_ATELLOUNE_100_063","這樣啊……但是這可不好辦了，
-如果拿回來的這張粗皮沒辦法做標本的話……"
+如果拿回來的這張粗皮沒法做標本的話……"
 84,"TEXT_CLSTAN650_02611_Q1_000_000","對阿特魯納說什麼？"
 85,"TEXT_CLSTAN650_02611_A1_000_001","我不想浪費這條生命"
 86,"TEXT_CLSTAN650_02611_A1_000_002","除了標本之外沒有別的用途嗎"
 87,"TEXT_CLSTAN650_02611_ATELLOUNE_100_070","……你說得對，我的確不忍心就這麼把皮扔了。
-沒辦法用來做標本雖然很可惜，
+沒法用來做標本雖然很可惜，
 但是為了不浪費生命，只好想想別的辦法了。"
-88,"TEXT_CLSTAN650_02611_ENION_100_071","……阿特魯納小姐， <Highlight>ObjectParameter(1)</Highlight> ！
+88,"TEXT_CLSTAN650_02611_ENION_100_071","……阿特魯納小姐，<Highlight>ObjectParameter(1)</Highlight>！
 既然如此，可不可以用這張粗皮為我做一件裝備呢？"
 89,"TEXT_CLSTAN650_02611_ENION_100_072","我今後也會從事製作標本的事業，
 因此我希望經由這件裝備，肩負起生命的重量！"
 90,"TEXT_CLSTAN650_02611_ATELLOUNE_100_073","……說得好，艾尼恩，
 你的想法值得表揚。"
-91,"TEXT_CLSTAN650_02611_ATELLOUNE_100_074"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能用<Sheet(Item,17911,0)/>
+91,"TEXT_CLSTAN650_02611_ATELLOUNE_100_074","<Highlight>ObjectParameter(1)</Highlight>，你能用<Sheet(Item,17911,0)/>
 製作一副<Sheet(ItemHQ,17912,0)/>嗎？做好之後就把它交給艾尼恩。"
 92,"TEXT_CLSTAN650_02611_ENION_000_080","把<Sheet(EventItem,2002185,0)/>交給阿特魯納小姐，
 大家一起商量要怎麼做吧。"
-93,"TEXT_CLSTAN650_02611_ENION_100_090"," <Highlight>ObjectParameter(1)</Highlight> ，東西做好了嗎？"
+93,"TEXT_CLSTAN650_02611_ENION_100_090","<Highlight>ObjectParameter(1)</Highlight>，東西做好了嗎？"
 94,"TEXT_CLSTAN650_02611_ENION_100_091","哇……謝謝！！
 居然能把那種狀態的粗皮做得這麼精緻！"
-95,"TEXT_CLSTAN650_02611_ENION_100_092","這是 <Highlight>ObjectParameter(1)</Highlight> 為我做的貴重的手套，
+95,"TEXT_CLSTAN650_02611_ENION_100_092","這是<Highlight>ObjectParameter(1)</Highlight>為我做的貴重的手套，
 我現在就戴上試試看！"
 96,"TEXT_CLSTAN650_02611_ATELLOUNE_100_093","熊皮很結實，而且具有很好的保暖性，
 自古以來就深受山區和森林居民的喜愛，
@@ -169,21 +169,21 @@ int32,str,str
 虧你能把那張傷痕纍纍的粗皮處理得這麼好，
 乍一看都看不出傷痕來。"
 98,"TEXT_CLSTAN650_02611_ENION_100_095","是的，用指尖摸才能摸出來。
-這就是 <Highlight>ObjectParameter(1)</Highlight> 的工匠手藝
+這就是<Highlight>ObjectParameter(1)</Highlight>的工匠手藝
 以及威羅迪納灰熊生命的重量啊。"
-99,"TEXT_CLSTAN650_02611_ENION_100_096"," <Highlight>ObjectParameter(1)</Highlight> ……真的很感謝你！"
+99,"TEXT_CLSTAN650_02611_ENION_100_096","<Highlight>ObjectParameter(1)</Highlight>……真的很感謝你！"
 100,"TEXT_CLSTAN650_02611_ATELLOUNE_100_098","第七靈災對動物不僅造成了直接影響，
 還因環境的改變使它們的食物變少，
 間接性使某些動物面臨絕滅的危機。"
-101,"TEXT_CLSTAN650_02611_ATELLOUNE_100_099","雖然沒做成標本，但是透過這副手套
+101,"TEXT_CLSTAN650_02611_ATELLOUNE_100_099","雖然沒做成標本，但是通過這副手套
 應該可以將這個事實告訴更多的人。"
 102,"TEXT_CLSTAN650_02611_ATELLOUNE_100_100","同時，讓大家認識到這一點的博物學家——我的偉大之處，
 也能傳遍全世界！
 哦呵呵呵！"
-103,"TEXT_CLSTAN650_02611_ATELLOUNE_100_101","好了，為了讓大家瞭解動物們的這些情況，
+103,"TEXT_CLSTAN650_02611_ATELLOUNE_100_101","好了，為了讓大家了解動物們的這些情況，
 這項事業還要繼續做下去。
 拜託你們了。"
-104,"TEXT_CLSTAN650_02611_ATELLOUNE_100_110"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能用<Sheet(Item,17911,0)/>
+104,"TEXT_CLSTAN650_02611_ATELLOUNE_100_110","<Highlight>ObjectParameter(1)</Highlight>，你能用<Sheet(Item,17911,0)/>
 製作一副<Sheet(ItemHQ,17912,0)/>嗎？做好之後就把它交給艾尼恩。"
 105,"TEXT_CLSTAN650_02611_ATELLOUNE_000_120","你還想要<Sheet(Item,17911,0)/>？
 ……唉，我真是太明智了。

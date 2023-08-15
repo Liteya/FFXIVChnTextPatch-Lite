@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVNZ111_01760_TODO_21",""
 46,"TEXT_HEAVNZ111_01760_TODO_22",""
 47,"TEXT_HEAVNZ111_01760_TODO_23",""
-48,"TEXT_HEAVNZ111_01760_JANTELLOT_000_000","……你應該蠻有兩下子的吧？
+48,"TEXT_HEAVNZ111_01760_JANTELLOT_000_000","……你應該挺有兩下子的吧？
 怎麼樣，難得來到這聖菲內雅連隊露營地，
 要不要找找樂子，試試狩獵龍族的眷屬？"
 49,"TEXT_HEAVNZ111_01760_JANTELLOT_000_001","不過呢，就算只是眷屬，也是相當強勁的對手哦。
@@ -61,7 +61,7 @@ int32,str,str
 51,"TEXT_HEAVNZ111_01760_JANTELLOT_000_020","喔！你已經幹掉那些<Sheet(BNpcName,3482,0)/>啦？
 感覺怎麼樣？相當棘手對吧？
 呃……弱爆了？"
-52,"TEXT_HEAVNZ111_01760_JANTELLOT_000_021","哈哈哈哈，你還蠻能幹的嘛。
+52,"TEXT_HEAVNZ111_01760_JANTELLOT_000_021","哈哈哈哈，你還挺能幹的嘛。
 <Sheet(BNpcName,3482,0)/>這種小角色已經滿足不了你了嗎？"
 53,"TEXT_HEAVNZ111_01760_JANTELLOT_000_022","那好吧，接下來要來真格的了。
 準備好的話，就跟我說一聲。"

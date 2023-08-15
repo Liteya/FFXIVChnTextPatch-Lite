@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_STMBDA123_02457_TODO_23",""
 48,"TEXT_STMBDA123_02457_LYSE_000_001","（★未使用／削除予定★）"
 49,"TEXT_STMBDA123_02457_WISCAR_000_002","（★未使用／削除予定★）"
-50,"TEXT_STMBDA123_02457_MEFFRID_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了。
+50,"TEXT_STMBDA123_02457_MEFFRID_000_010","<Highlight>ObjectParameter(1)</Highlight>，你回來了。
 我向他們打聽了下村裡的糧食問題，
 正幫他們幹活呢。"
 51,"TEXT_STMBDA123_02457_MEFFRID_000_011","因為帝國軍抓捕反叛分子的力度越來越嚴，
@@ -61,7 +61,7 @@ int32,str,str
 不好意思，你能去叫一下莉瑟嗎？
 她剛剛好像就在那附近來著……"
 53,"TEXT_STMBDA123_02457_LYSE_000_020","（★未使用／削除予定★）"
-54,"TEXT_STMBDA123_02457_WISCAR_000_025","…………。"
+54,"TEXT_STMBDA123_02457_WISCAR_000_025","……"
 55,"TEXT_STMBDA123_02457_MEFFRID_000_030","不好意思，你能去叫一下莉瑟嗎？
 她剛剛好像就在那附近來著……"
 56,"TEXT_STMBDA123_02457_BOREDMAN_000_040","（★未使用／削除予定★）"
@@ -91,7 +91,7 @@ int32,str,str
 71,"TEXT_STMBDA123_02457_LYSE_000_075","我完全無法反駁……
 他的話甚至讓我感到慚愧……"
 72,"TEXT_STMBDA123_02457_LYSE_000_076","啊，梅弗里德在叫我對吧？
-那我們過去和他會合吧……"
+那我們過去和他匯合吧……"
 73,"TEXT_STMBDA123_02457_LYSE_000_080","看來這任務並不那麼簡單……"
 74,"TEXT_STMBDA123_02457_MEFFRID_000_090","原來如此……即使大家心裡有想要戰鬥的意願，
 但現實中總有一些不得已的事情讓他們顧慮，不能站出來對抗帝國。
@@ -100,7 +100,7 @@ int32,str,str
 但他們還說拋棄故鄉逃跑的我，
 根本沒有資格談熱愛故鄉……"
 76,"TEXT_STMBDA123_02457_MEFFRID_000_092","如果說逃跑是不對的話，那我也一樣啊。
-但是，我在逃亡的途中遇到了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+但是，我在逃亡的途中遇到了<Highlight>ObjectParameter(1)</Highlight>。
 認識了可以幫助我們的人，才能東山再起。"
 77,"TEXT_STMBDA123_02457_MEFFRID_000_093","所以我不後悔。
 這只不過是每個人和每個人的戰鬥方式不同而已。"
@@ -122,7 +122,7 @@ int32,str,str
 85,"TEXT_STMBDA123_02457_WISCAR_000_101","「赤紅神塔」？！
 那不是那群無法無天的老鼠們的巢穴嗎！
 如果被帶到了那裡，恐怕……"
-86,"TEXT_STMBDA123_02457_LYSE_000_102","我們走， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、梅弗里德！
+86,"TEXT_STMBDA123_02457_LYSE_000_102","我們走，<Highlight>ObjectParameter(1)</Highlight>、梅弗里德！
 現在這件事比較緊急！"
 87,"TEXT_STMBDA123_02457_LYSE_000_105","我們一定要幫她救出哥哥！"
 88,"TEXT_STMBDA123_02457_WISCAR_000_110","放棄吧……

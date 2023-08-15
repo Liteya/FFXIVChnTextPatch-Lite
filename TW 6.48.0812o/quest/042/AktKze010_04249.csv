@@ -63,7 +63,7 @@ int32,str,str
 我的同伴應該是去了熒光洞附近，我們現在就去找他們！"
 52,"TEXT_AKTKZE010_04249_BRISKLYLOPORRIT04249_000_005","請你救救他！"
 53,"TEXT_AKTKZE010_04249_DIZZYLOPORRIT04249_000_010","咦……？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你怎麼來了……？"
+<Highlight>ObjectParameter(1)</Highlight>，你怎麼來了……？"
 54,"TEXT_AKTKZE010_04249_DIZZYLOPORRIT04249_000_011","是出了什麼事來著……我想起來了！
 我是被嘆息之物偷襲了，才會暈了過去。"
 55,"TEXT_AKTKZE010_04249_DIZZYLOPORRIT04249_000_012","其他的同伴們要麼還在洞窟裡，
@@ -74,11 +74,11 @@ int32,str,str
 抱歉，能請你把他們也帶回來嗎？"
 57,"TEXT_AKTKZE010_04249_BRISKLYLOPORRIT04249_000_014","……你是真的暈過去了嗎？
 我怎麼看你像是在睡大覺？
-你是為了不被 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 發現在吹牛吧？"
+你是為了不被<Highlight>ObjectParameter(1)</Highlight>發現在吹牛吧？"
 58,"TEXT_AKTKZE010_04249_PLUMPLOPORRIT04249_000_020","這個洞可真大啊……
 扔個小石頭下去都聽不到落地的迴音。
 這個洞一定特別特別深吧……"
-59,"TEXT_AKTKZE010_04249_PLUMPLOPORRIT04249_000_021","咦，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？
+59,"TEXT_AKTKZE010_04249_PLUMPLOPORRIT04249_000_021","咦，這不是<Highlight>ObjectParameter(1)</Highlight>嗎？
 你怎麼到這裡來了？"
 60,"TEXT_AKTKZE010_04249_PLUMPLOPORRIT04249_000_022","是嗎，你是來叫我們回去的嗎？
 我這就回隊長那裡去！"
@@ -86,10 +86,10 @@ int32,str,str
 為什麼呀……每次到這個毛茸茸的樹附近就……
 眼睛睜不開了……好想睡覺……"
 62,"TEXT_AKTKZE010_04249_PLUMPLOPORRIT04249_000_024","什麼什麼！已經到回去的時候了！
-因為太睏了，結果都沒採到多少礦……完蛋了……"
+因為太困了，結果都沒採到多少礦……完蛋了……"
 63,"TEXT_AKTKZE010_04249_NUMBLOPORRIT04249_000_025","上次來的時候，還沒有這種植物吧！
 一碰它就會感覺有點麻麻的。
-感覺能在其他地方找到適合它的用途。"
+感覺能在其他地方找到合適它的用途。"
 64,"TEXT_AKTKZE010_04249_NUMBLOPORRIT04249_000_026","什麼什麼，已經都這時候了嗎？！
 糟了，我觀察植物看得太入迷了！"
 65,"TEXT_AKTKZE010_04249_PLUMPLOPORRIT04249_000_026","不過說起來，那個洞穴可真大啊……"
@@ -97,7 +97,7 @@ int32,str,str
 67,"TEXT_AKTKZE010_04249_NUMBLOPORRIT04249_000_028","糟了，我觀察植物看得太入迷了！"
 68,"TEXT_AKTKZE010_04249_DIZZYLOPORRIT04249_000_030","我稍微休息一下之後，已經完全好了！
 各位我們回去吧，把採集到的東西都分門別類地收好！"
-69,"TEXT_AKTKZE010_04249_BRISKLYLOPORRIT04249_000_031","這些傢伙，一個個都在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 面前裝模作樣的，
+69,"TEXT_AKTKZE010_04249_BRISKLYLOPORRIT04249_000_031","這些傢伙，一個個都在<Highlight>ObjectParameter(1)</Highlight>面前裝模作樣的，
 其實不就是在偷懶嗎，真是的……
 回去之後一定要讓他們好好向你道謝啊！"
 70,"TEXT_AKTKZE010_04249_BRISKLYLOPORRIT04249_000_040","謝謝你特地抽出時間來陪我把他們找回來！

@@ -1,12 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBBLM500_01078_SEQ_00","紫紅瀑布的卡扎古．春，想通知冒險者一件事情。"
-1,"TEXT_JOBBLM500_01078_SEQ_01","接受了卡扎古．春的委託。前往烏爾達哈，和菈菈伊對話。"
+0,"TEXT_JOBBLM500_01078_SEQ_00","紫紅瀑布的卡扎古·春，想通知冒險者一件事情。"
+1,"TEXT_JOBBLM500_01078_SEQ_01","接受了卡扎古·春的委託。前往烏爾達哈，和菈菈伊對話。"
 2,"TEXT_JOBBLM500_01078_SEQ_02","和菈菈伊進行了交談。為了阻止庫庫魯卡，前往納爾神祠。"
-3,"TEXT_JOBBLM500_01078_SEQ_03","淨化了巴巴妥司，並聽庫庫魯卡述說了真相。和卡扎古．春、德佐爾．梅羅克、第269團募緣修士韃札對話。"
-4,"TEXT_JOBBLM500_01078_SEQ_04","和蠻族們進行了交談。前往東薩納蘭的紫紅瀑布，和卡扎古．春對話。"
-5,"TEXT_JOBBLM500_01078_SEQ_05","和卡扎古．春一起回顧了至今發生的事情。卡扎古．春對領悟了黑魔法奧義的冒險者表達了敬意。即使種族不同，今後也能繼續作為朋友。
+3,"TEXT_JOBBLM500_01078_SEQ_03","淨化了巴巴妥司，並聽庫庫魯卡述說了真相。和卡扎古·春、德佐爾·梅羅克、第269團募緣修士韃札對話。"
+4,"TEXT_JOBBLM500_01078_SEQ_04","和蠻族們進行了交談。前往東薩納蘭的紫紅瀑布，和卡扎古·春對話。"
+5,"TEXT_JOBBLM500_01078_SEQ_05","和卡扎古·春一起回顧了至今發生的事情。卡扎古·春對領悟了黑魔法奧義的冒險者表達了敬意。即使種族不同，今後也能繼續作為朋友。
 
 ※滿足下列條件後，可以從密爾瓦內斯禮拜堂的菈菈伊那裡領取新的特職任務。
 完成「第七星曆主線任務」中「希望的燈火」。"
@@ -30,10 +30,10 @@ int32,str,str
 23,"TEXT_JOBBLM500_01078_SEQ_23",""
 24,"TEXT_JOBBLM500_01078_TODO_00","和烏爾達哈的菈菈伊對話"
 25,"TEXT_JOBBLM500_01078_TODO_01","前往納爾神祠 追上庫庫魯卡"
-26,"TEXT_JOBBLM500_01078_TODO_02","和卡扎古．春對話"
-27,"TEXT_JOBBLM500_01078_TODO_03","和德佐爾．梅羅克對話"
+26,"TEXT_JOBBLM500_01078_TODO_02","和卡扎古·春對話"
+27,"TEXT_JOBBLM500_01078_TODO_03","和德佐爾·梅羅克對話"
 28,"TEXT_JOBBLM500_01078_TODO_04","和第269團募緣修士韃札對話"
-29,"TEXT_JOBBLM500_01078_TODO_05","和紫紅瀑布的卡扎古．春對話"
+29,"TEXT_JOBBLM500_01078_TODO_05","和紫紅瀑布的卡扎古·春對話"
 30,"TEXT_JOBBLM500_01078_TODO_06",""
 31,"TEXT_JOBBLM500_01078_TODO_07",""
 32,"TEXT_JOBBLM500_01078_TODO_08",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_JOBBLM500_01078_TODO_21",""
 46,"TEXT_JOBBLM500_01078_TODO_22",""
 47,"TEXT_JOBBLM500_01078_TODO_23",""
-48,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看你喜色滿面。
+48,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_000","<Highlight>ObjectParameter(1)</Highlight>，看你喜色滿面。
 順利集齊了四件裝束，真是辛苦你了。"
 49,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_001","剩下的時間已經不多了……
 但根據韃札祖先留下來的石板來看，
@@ -66,7 +66,7 @@ int32,str,str
 52,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_004","破壞之力指的就是黑魔法吧……
 不過，「喚醒黑魔法」又是在暗示什麼……"
 53,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_005","……什麼？
-韃札和德佐爾．梅羅克的祖先，
+韃札和德佐爾·梅羅克的祖先，
 也都在100年前下落不明？"
 54,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_006","啊，為何我內心如此不安……怎麼回事……
 100年前……到底發生了什麼？"
@@ -76,7 +76,7 @@ int32,str,str
 通往封印最後裝束的至聖所之路，將會自行出現，
 可是，我們也不能心急如焚地坐著苦等啊。"
 57,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_009","我打算向故鄉的友人打聽至聖所的情報，
-德佐爾．梅羅克和韃札也會前去……
+德佐爾·梅羅克和韃札也會前去……
 他們也力所能及地尋找線索……為此勞心勞力。"
 58,"TEXT_JOBBLM500_01078_KAZAGGCHAH_100_009","事已至此，我也有件事想拜託你。
 請你去拜訪讓我們相見的預言者。
@@ -97,11 +97,11 @@ int32,str,str
 你怎麼……還和那個無禮之徒廝混？"
 64,"TEXT_JOBBLM500_01078_YAYAKE_000_031","別鬧了，別鬧了。
 和那種罪人廝混，是不會有好下場的。
-會變得像那個痴人菈菈伊一樣哦。"
+會變得像那個癡人菈菈伊一樣哦。"
 65,"TEXT_JOBBLM500_01078_YAYAKE_000_032","菈菈伊終於察覺到了真理，正在進行深刻的反省……
 不，看上去更像一副驚慌失措的樣子。"
 66,"TEXT_JOBBLM500_01078_LALAI_000_040","大事不好了！
-庫庫魯卡．塔塔魯卡不見了！
+庫庫魯卡·塔塔魯卡不見了！
 請快去追那個罪孽深重之人！"
 67,"TEXT_JOBBLM500_01078_LALAI_000_041","那個人不是什麼納爾札爾神的代言人……
 他在100年前犯下了滔天大罪！"
@@ -112,7 +112,7 @@ int32,str,str
 我知道了曾經作為一名優秀咒術師的庫庫魯卡，
 如何變成了一個大罪人……"
 70,"TEXT_JOBBLM500_01078_LALAI_000_044","那個人……在100年前與蠻族合謀，
-企圖創造恐怖的妖異「巴巴妥司」，毀滅艾奧傑亞！"
+企圖創造恐怖的妖異「巴巴妥司」，毀滅艾歐澤亞！"
 71,"TEXT_JOBBLM500_01078_LALAI_000_045","不過，納爾札爾教團發現了他的陰謀，
 將還未成形的巴巴妥司封印在了虛無界之門。"
 72,"TEXT_JOBBLM500_01078_LALAI_000_046","後來，大罪人庫庫魯卡，
@@ -121,7 +121,7 @@ int32,str,str
 73,"TEXT_JOBBLM500_01078_LALAI_000_047","但是……雖然發生了那樣可怕的事件，
 卻不知為何沒有留下公開的記錄。
 只在一部禁書上有記載，而且那本書還在庫庫魯卡手上……"
-74,"TEXT_JOBBLM500_01078_LALAI_000_048","黑魔法師 <Highlight>ObjectParameter(1)</Highlight> ……
+74,"TEXT_JOBBLM500_01078_LALAI_000_048","黑魔法師<Highlight>ObjectParameter(1)</Highlight>……
 我來告訴你，那個人留下的最後的話吧……"
 75,"TEXT_JOBBLM500_01078_LALAI_000_049","當4個黑魔法、4件裝束和4個種族的血聚集一起的時候……
 虛無界之門會讓最後的破壞之力覺醒……"
@@ -129,7 +129,7 @@ int32,str,str
 庫庫魯卡是想利用我們，重現黑魔法，
 然後喚醒被封印的妖異「巴巴妥司」！"
 77,"TEXT_JOBBLM500_01078_LALAI_000_051","啊……我真是太蠢了！
-竟然被那傢伙的強大魔力和花言巧語矇騙了……
+竟然被那傢伙的強大魔力和花言巧語蒙騙了……
 請你，請你……務必阻止他！"
 78,"TEXT_JOBBLM500_01078_LALAI_000_052","已經沒有時間了！
 趕快前往南薩納蘭的納爾神祠吧！"
@@ -137,16 +137,16 @@ int32,str,str
 因為發生了點事故……
 不好意思，我不能放你過去。"
 80,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_090","（★未使用／予定刪除★）"
-81,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_100","挑唆 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，並矇騙我們的咒術師就是你吧？！
+81,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_100","挑唆<Highlight>ObjectParameter(1)</Highlight>，並蒙騙我們的咒術師就是你吧？！
 給我說清楚這到底是怎麼回事！"
 82,"TEXT_JOBBLM500_01078_QUQURUKA_000_101","你難道是……
-哈特里．梅羅克的……"
+哈特裡·梅羅克的……"
 83,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_102","……什麼？！
 你認識我的曾祖母嗎？！"
-84,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_103","卡西布．春的子孫……"
+84,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_103","卡西布·春的子孫……"
 85,"TEXT_JOBBLM500_01078_DAZA_000_104","而你是韃古的後裔吧……
 啊，我很清楚……"
-86,"TEXT_JOBBLM500_01078_QUQURUKA_000_105","還有，黑魔法師 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+86,"TEXT_JOBBLM500_01078_QUQURUKA_000_105","還有，黑魔法師<Highlight>ObjectParameter(1)</Highlight>……
 幹得好，你們打倒了巴巴妥司……"
 87,"TEXT_JOBBLM500_01078_QUQURUKA_000_106","現在……我要告訴你們100年前的真相……
 請你們……聽我說……"
@@ -199,7 +199,7 @@ int32,str,str
 尋找已久的 第五件 裝束？！"
 108,"TEXT_JOBBLM500_01078_QUQURUKA_000_127","至聖所是這個納爾神祠的別名……
 也是刻有最後的封印咒文的地方……"
-109,"TEXT_JOBBLM500_01078_QUQURUKA_000_128"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，做得好……
+109,"TEXT_JOBBLM500_01078_QUQURUKA_000_128","<Highlight>ObjectParameter(1)</Highlight>，做得好……
 經過這場戰鬥我好像也領悟到了……
 領悟到了我們沒能見到的最後的黑魔法……"
 110,"TEXT_JOBBLM500_01078_QUQURUKA_000_129","就如……那個傳說一樣……
@@ -213,8 +213,8 @@ int32,str,str
 達成了夙願，也完成了自我救贖。
 希望他能在大地母親的祝福下，安詳離去。"
 114,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_142","……我不想妨礙他在此長眠。
-我們回紫紅瀑布吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
-115,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_150","這就是100年前註定的因緣吧！
+我們回紫紅瀑布吧，<Highlight>ObjectParameter(1)</Highlight>。"
+115,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_150","這就是100年前注定的因緣吧！
 然後突然間全部結束了！"
 116,"TEXT_JOBBLM500_01078_DOZOLMELOC_000_151","不知道曾祖母他們原諒那個庫庫魯卡了嗎？
 會原諒他麼……我有點在意啊！"
@@ -233,24 +233,24 @@ int32,str,str
 122,"TEXT_JOBBLM500_01078_DAZA_000_162","不過 即使我們 各奔東西
 我們 還是好朋友 對吧？
 就這麼 定了哦！"
-123,"TEXT_JOBBLM500_01078_DAZA_000_163","再見了 黑魔法師 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+123,"TEXT_JOBBLM500_01078_DAZA_000_163","再見了 黑魔法師<Highlight>ObjectParameter(1)</Highlight>！
 要來 拉諾西亞 玩啊！"
 124,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_170","……往事隨風去，一切就此結束。
-你我間註定的奇妙因緣，也在納爾神祠迎來終結……"
+你我間注定的奇妙因緣，也在納爾神祠迎來終結……"
 125,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_171","回想起在傳說的指引下，與你初次見面的那天……
 那時，從不曾想過會迎來這樣的日子。
 就像做了一場夢一樣。"
 126,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_172","但我沒留下一絲遺憾。
-與德佐爾．梅羅克、韃札和你的相遇，
+與德佐爾·梅羅克、韃札和你的相遇，
 乃上天賜予我最寶貴的財富。"
 127,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_173","在你的幫助下，祖先的夙願也得以達成。
 現在我的心坦蕩如砥，就如薩納蘭的藍天一樣清晰。"
-128,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_174","偉大的黑魔法師 <Highlight>ObjectParameter(1)</Highlight> 啊。
+128,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_174","偉大的黑魔法師<Highlight>ObjectParameter(1)</Highlight>啊。
 你將會是我的終生摯友，我願在此起誓。
 共經生死之友，願我們的友情能夠天長地久。"
 129,"TEXT_JOBBLM500_01078_KAZAGGCHAH_000_175","你的黑魔法正是我們的誓言、友情的象徵。
 受命運引導的黑魔法師啊，只要你安然存於世，
-你的力量與我們的誓言註定不朽！"
+你的力量與我們的誓言注定不朽！"
 130,"TEXT_JOBBLM500_01078_SYSTEM_100_000","「黑魔法師」的故事到此告一段落！
 要開始接下來的「黑魔法師」特職任務，
 需要滿足以下條件。"
@@ -265,10 +265,10 @@ int32,str,str
 136,"TEXT_JOBBLM500_01078_QIB_001_QUQURUKA_BATTLETALK_06","拜託了……新生的黑魔法師啊……
 用你的魔力破壞虛無界之門吧……"
 137,"TEXT_JOBBLM500_01078_QIB_001_QUQURUKA_BATTLETALK_07","就快、就快……結束了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，用你的破壞之力將這一切終結！"
+<Highlight>ObjectParameter(1)</Highlight>，用你的破壞之力將這一切終結！"
 138,"TEXT_JOBBLM500_01078_QIB_001_KAZAGGCHAH_BATTLETALK_DEAD","……悔恨至極。
 接下來就拜託你了……朋友。"
 139,"TEXT_JOBBLM500_01078_QIB_001_DOZOLMELOC_BATTLETALK_DEAD","可惡啊！
-對不起！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-140,"TEXT_JOBBLM500_01078_QIB_001_DAZA_BATTLETALK_DEAD"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 對不起。
+對不起！<Highlight>ObjectParameter(1)</Highlight>！"
+140,"TEXT_JOBBLM500_01078_QIB_001_DAZA_BATTLETALK_DEAD","<Highlight>ObjectParameter(1)</Highlight> 對不起。
 我被 幹掉了。"

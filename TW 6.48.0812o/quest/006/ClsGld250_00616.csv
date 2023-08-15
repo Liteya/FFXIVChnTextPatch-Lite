@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CLSGLD250_00616_SEQ_00","雕金匠公會的賽倫蒂碧提，有事想要找冒險者商量。"
-1,"TEXT_CLSGLD250_00616_SEQ_01","製作高品質的<Sheet(ItemHQ,5064,0)/>，交給雕金匠公會的賽倫蒂碧提。"
+1,"TEXT_CLSGLD250_00616_SEQ_01","製作優質的<Sheet(ItemHQ,5064,0)/>，交給雕金匠公會的賽倫蒂碧提。"
 2,"TEXT_CLSGLD250_00616_SEQ_02","涅吉的核心中記憶著所有的雕金知識。對雕金匠公會來說十分重要。
 
 ※雕金匠的等級達到30級以上時，可以從賽倫蒂碧提那裡領取下一個雕金匠任務。"
@@ -51,24 +51,24 @@ int32,str,str
 45,"TEXT_CLSGLD250_00616_TODO_21",""
 46,"TEXT_CLSGLD250_00616_TODO_22",""
 47,"TEXT_CLSGLD250_00616_TODO_23",""
-48,"TEXT_CLSGLD250_00616_SERENDIPITY_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我等你好久了！
+48,"TEXT_CLSGLD250_00616_SERENDIPITY_000_1","<Highlight>ObjectParameter(1)</Highlight>，我等你好久了！
 其實是有關魔法人偶涅吉的事情……"
 49,"TEXT_CLSGLD250_00616_SERENDIPITY_000_2","我覺得他最近稍微有些問題……
 不是說性格方面啦……他的性格原本就是那樣的。
 我是覺得他內部裝置有些不對勁……"
 50,"TEXT_CLSGLD250_00616_SERENDIPITY_000_3","問題出在零件的老化上。
 為了製作用來替換的零件，
-我希望你能夠製作出高品質的<Sheet(ItemHQ,5064,0)/>。"
+我希望你能夠製作出優質的<Sheet(ItemHQ,5064,0)/>。"
 51,"TEXT_CLSGLD250_00616_SERENDIPITY_000_4","魔法人偶的構造十分複雜……
 任何材料都需要使用品質超高級的那種。"
 52,"TEXT_CLSGLD250_00616_SERENDIPITY_000_5","涅吉也稱讚過你的工作，
 所以你製作出的材料應該會很適合他！"
 53,"TEXT_CLSGLD250_00616_SERENDIPITY_000_6","那就拜託你了！"
-54,"TEXT_CLSGLD250_00616_SYSTEM_000_7","試著製作「高品質道具」吧。
-在製作過程中，透過提升「品質」，
-能大大提高高品質道具的完成率。"
+54,"TEXT_CLSGLD250_00616_SYSTEM_000_7","試著製作「優質道具」吧。
+在製作過程中，通過提升「品質」，
+能大大提高優質道具的完成率。"
 55,"TEXT_CLSGLD250_00616_SYSTEM_000_8","（★未使用／削除予定★）"
-56,"TEXT_CLSGLD250_00616_SERENDIPITY_000_9"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+56,"TEXT_CLSGLD250_00616_SERENDIPITY_000_9","<Highlight>ObjectParameter(1)</Highlight>！
 你做好<Sheet(ItemHQ,5064,0)/>了嗎？"
 57,"TEXT_CLSGLD250_00616_SERENDIPITY_000_10","這品質……真是太棒了！
 這個<Sheet(ItemHQ,5064,0)/>簡直太完美了！"
@@ -99,7 +99,7 @@ int32,str,str
 就等於失去了大量的知識……
 對於雕金匠公會來說會是非常嚴重的損失。"
 69,"TEXT_CLSGLD250_00616_SERENDIPITY_000_22","……嘿嘿，嚇到你了？
-雖然涅吉看上去很不可靠，
+雖然涅吉看上去很不靠譜，
 不過對於公會來說，他可是十分重要的。"
 70,"TEXT_CLSGLD250_00616_SERENDIPITY_000_23","總之，非常感謝你了！
 請你繼續以這種狀態磨練手藝吧！"

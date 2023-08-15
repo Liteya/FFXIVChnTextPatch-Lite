@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_AKTKZE015_04254_SEQ_22",""
 23,"TEXT_AKTKZE015_04254_SEQ_23",""
 24,"TEXT_AKTKZE015_04254_TODO_00","和慌慌張張的兔兔族對話"
-25,"TEXT_AKTKZE015_04254_TODO_01","討伐<Sheet(BNpcName,10457,0)/>獲得<Sheet(EventItem,2003375,0)/>"
+25,"TEXT_AKTKZE015_04254_TODO_01","討伐<Sheet(BNpcName,10457,0)/>獲取<Sheet(EventItem,2003375,0)/>"
 26,"TEXT_AKTKZE015_04254_TODO_02","將<Sheet(EventItem,2003375,0)/>交給慌慌張張的兔兔族"
 27,"TEXT_AKTKZE015_04254_TODO_03","和慌慌張張的兔兔族對話"
 28,"TEXT_AKTKZE015_04254_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_001","本來約好要和我一起去監視者之館的朋友，
 因為聽說了有人類來到月球上了，激動地四處亂跑，
 結果一不當心撞到了牆上，撞暈過去了……"
-50,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_002","難得 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你來了這裡，
+50,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_002","難得<Highlight>ObjectParameter(1)</Highlight>你來了這裡，
 他還特別想見你一面的，現在這樣他好可憐啊……
 所以我就想出了一個好主意。"
 51,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_003","能請你和我一起去一次嘆息海的南方嗎？
@@ -77,7 +77,7 @@ int32,str,str
 58,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_021","沒錯！就是這種花！
 我那個朋友聽說了人類文化中對花的喜愛之後，
 一直想要這麼一朵花，他收到之後肯定會很高興的！"
-59,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_022","不過，要是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 親自拿過去的話，
+59,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_022","不過，要是<Highlight>ObjectParameter(1)</Highlight>親自拿過去的話，
 他肯定又要興奮過頭把自己弄傷了，
 還是我替你送給他吧！"
 60,"TEXT_AKTKZE015_04254_LOPORRIT04254_000_024","那麼，待會兒見！

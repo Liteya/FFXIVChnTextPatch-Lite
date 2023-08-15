@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ109_01758_SEQ_00","溫杜屬本杜集落的泰爾米奧堅決執行任務。"
-1,"TEXT_HEAVNZ109_01758_SEQ_01","泰爾米奧拜託冒險者奪回物資。在溫杜屬本杜集落獲得3個<Sheet(EventItem,2001601,0)/>。"
+1,"TEXT_HEAVNZ109_01758_SEQ_01","泰爾米奧拜託冒險者奪回物資。在溫杜屬本杜集落獲取3個<Sheet(EventItem,2001601,0)/>。"
 2,"TEXT_HEAVNZ109_01758_SEQ_02","奪回了<Sheet(EventItem,2001601,0)/>。向溫杜屬本杜集落入口附近的泰爾米奧報告。"
 3,"TEXT_HEAVNZ109_01758_SEQ_03","準備前去視察的泰爾米奧他們拜託冒險者將<Sheet(EventItem,2001601,0)/>運送回去。前往阿巴拉提亞雲海，將<Sheet(EventItem,2001601,0)/>交給玫瑰園的拉妮艾特。"
 4,"TEXT_HEAVNZ109_01758_SEQ_04","將<Sheet(EventItem,2001601,0)/>交給了拉妮艾特。對於成功奪回被瓦努族劫走的物資，挽回了局勢的冒險者，拉妮艾特表示由衷的感謝。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ109_01758_SEQ_21",""
 22,"TEXT_HEAVNZ109_01758_SEQ_22",""
 23,"TEXT_HEAVNZ109_01758_SEQ_23",""
-24,"TEXT_HEAVNZ109_01758_TODO_00","獲得<Sheet(EventItem,2001601,0)/>"
+24,"TEXT_HEAVNZ109_01758_TODO_00","獲取<Sheet(EventItem,2001601,0)/>"
 25,"TEXT_HEAVNZ109_01758_TODO_01","和泰爾米奧對話"
 26,"TEXT_HEAVNZ109_01758_TODO_02","將<Sheet(EventItem,2001601,0)/>交給拉妮艾特"
 27,"TEXT_HEAVNZ109_01758_TODO_03",""
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_HEAVNZ109_01758_TODO_22",""
 47,"TEXT_HEAVNZ109_01758_TODO_23",""
 48,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_000","我們的目的是奪回被搶的補給物資……
-絕不能這麼灰頭土臉地逃回去而置任務於不顧。
+決不能這麼灰頭土臉地逃回去而置任務於不顧。
 請助我們一臂之力！"
 49,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_001","我負責佯動，吸引他們的注意力。
 冒險者，你就趁他們無暇分心的時候，
@@ -59,7 +59,7 @@ int32,str,str
 51,"TEXT_HEAVNZ109_01758_ENTRANCESOLDIER01755_000_011","你負責回收<Sheet(EventItem,2001601,0)/>？
 不好意思，拜託你了。"
 52,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_030","看樣子你把所有被搶的武器防具都取回來了。
-多虧了你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+多虧了你，<Highlight>ObjectParameter(1)</Highlight>。
 要是只有我們這些人，是沒辦法完成任務的。"
 53,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_031","接下來我會去視察一下情況，然後回到營地裡。
 這份功勞是屬於你的。
@@ -70,19 +70,19 @@ int32,str,str
 真的非常感謝你。"
 56,"TEXT_HEAVNZ109_01758_FORTSOLDIERA01757_000_042","……多謝你。"
 57,"TEXT_HEAVNZ109_01758_FORTSOLDIERB01757_000_043","嘿嘿，多謝啦！
-我現在能不缺胳膊少腿地活著，都是託你的福！"
+我現在能不缺胳膊少腿地活著，都是托你的福！"
 58,"TEXT_HEAVNZ109_01758_FORTSOLDIERC01757_000_044","如果閣下沒有救援，現如今我們可能已經……
 大恩不言謝。"
-59,"TEXT_HEAVNZ109_01758_LANIAITTE_000_050"," <Highlight>ObjectParameter(1)</Highlight> 閣下！
+59,"TEXT_HEAVNZ109_01758_LANIAITTE_000_050","<Highlight>ObjectParameter(1)</Highlight>閣下！
 你終於回來了！"
 60,"TEXT_HEAVNZ109_01758_LANIAITTE_100_050","這就是被奪走的物資……
 原來如此，所以你提前回來了。"
-61,"TEXT_HEAVNZ109_01758_LANIAITTE_000_051","不過那些瓦努族竟然盯上了伊修加爾德製的武器……
+61,"TEXT_HEAVNZ109_01758_LANIAITTE_000_051","不過那些瓦努族竟然盯上了伊修加德製的武器……
 就是說，對基本沒有金屬加工技術的他們而言，
 這些確實是值得冒著生命危險去搶的東西吧。"
-62,"TEXT_HEAVNZ109_01758_LANIAITTE_000_052","今後即使是營地內也要加強戒備，絕不能放鬆警惕。
+62,"TEXT_HEAVNZ109_01758_LANIAITTE_000_052","今後即使是營地內也要加強戒備，決不能放鬆警惕。
 我們的任務是監視龍族……
-可以的話，還是儘量避免與瓦努族發生小衝突為好。"
+可以的話，還是盡量避免與瓦努族發生小衝突為好。"
 63,"TEXT_HEAVNZ109_01758_LANIAITTE_000_053","那麼，請允許我再次向你道謝。
 感謝你挽回了我們部隊的失敗，並且救了我部下的性命。
 呵呵，總是單方面受你的照顧，真是過意不去。"

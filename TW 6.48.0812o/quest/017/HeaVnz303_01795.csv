@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ303_01795_SEQ_00","自由腦窟穴的跑得快正拿著手槍發愁。"
-1,"TEXT_HEAVNZ303_01795_SEQ_01","跑得快委託冒險者去籌集火藥。在龍堡參天高地的兵站窟獲得3袋<Sheet(EventItem,2001622,0)/>。"
+1,"TEXT_HEAVNZ303_01795_SEQ_01","跑得快委託冒險者去籌集火藥。在龍堡參天高地的兵站窟獲取3袋<Sheet(EventItem,2001622,0)/>。"
 2,"TEXT_HEAVNZ303_01795_SEQ_02","獲得了<Sheet(EventItem,2001622,0)/>。將<Sheet(EventItem,2001622,0)/>交給自由腦窟穴的跑得快。"
 3,"TEXT_HEAVNZ303_01795_SEQ_03","將<Sheet(EventItem,2001622,0)/>交給了跑得快。這下自由腦窟穴的槍支就不怕沒有火藥用了。"
 4,"TEXT_HEAVNZ303_01795_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ303_01795_SEQ_21",""
 22,"TEXT_HEAVNZ303_01795_SEQ_22",""
 23,"TEXT_HEAVNZ303_01795_SEQ_23",""
-24,"TEXT_HEAVNZ303_01795_TODO_00","獲得<Sheet(EventItem,2001622,0)/>"
+24,"TEXT_HEAVNZ303_01795_TODO_00","獲取<Sheet(EventItem,2001622,0)/>"
 25,"TEXT_HEAVNZ303_01795_TODO_01","將<Sheet(EventItem,2001622,0)/>交給跑得快"
 26,"TEXT_HEAVNZ303_01795_TODO_02",""
 27,"TEXT_HEAVNZ303_01795_TODO_03",""

@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNA405_01641_SEQ_00","福爾唐伯爵府附近的阿爾菲諾在悲痛中考慮一定要做些什麼。"
+0,"TEXT_HEAVNA405_01641_SEQ_00","福爾唐伯爵府附近的阿爾菲諾在悲痛中考慮必須要做些什麼。"
 1,"TEXT_HEAVNA405_01641_SEQ_01","和阿爾菲諾進行了交談。為了查看艾默里克的情況，前往神殿騎士團總部的神殿騎士團總騎士長室，和艾默里克談談。神殿騎士團總部的神殿騎士團的衛兵會帶領冒險者前往神殿騎士團總騎士長室。"
-2,"TEXT_HEAVNA405_01641_SEQ_02","在和艾默里克會面之時，超越之力突然發動，看到了艾默里克和教皇托爾丹七世交談的場景。教皇托爾丹七世說要為伊修加爾德帶來真正的變革……艾默里克等人推測蒼穹騎士們的異常力量來自蠻神「圓桌騎士」。不管是作為拂曉血盟的一員，還是奧爾什方的朋友，都不能放過他們。團結一致，追擊蒼穹騎士和教皇托爾丹七世。"
+2,"TEXT_HEAVNA405_01641_SEQ_02","在和艾默里克會面之時，超越之力突然發動，看到了艾默里克和教皇托爾丹七世交談的場景。教皇托爾丹七世說要為伊修加德帶來真正的變革……艾默里克等人推測蒼穹騎士們的異常力量來自蠻神「圓桌騎士」。不管是作為拂曉血盟的一員，還是奧爾什方的朋友，都不能放過他們。團結一致，追擊蒼穹騎士和教皇托爾丹七世。"
 3,"TEXT_HEAVNA405_01641_SEQ_03",""
 4,"TEXT_HEAVNA405_01641_SEQ_04",""
 5,"TEXT_HEAVNA405_01641_SEQ_05",""
@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_HEAVNA405_01641_ALPHINAUD_000_000","現在我們只能做些力所能及的事情……
 塔塔露，拜託你回到忘憂騎士亭，
 繼續收集情報……"
-49,"TEXT_HEAVNA405_01641_ALPHINAUD_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們到神殿騎士團總部去。
+49,"TEXT_HEAVNA405_01641_ALPHINAUD_000_001","<Highlight>ObjectParameter(1)</Highlight>，我們到神殿騎士團總部去。
 我有些擔心艾默里克閣下……"
 50,"TEXT_HEAVNA405_01641_TATARU_000_001","嗚……嗚……
 怎麼會發生這種事……"
@@ -60,17 +60,17 @@ int32,str,str
 52,"TEXT_HEAVNA405_01641_ALPHINAUD_100_062","我不知道……
 這種時候該做些什麼好……"
 53,"TEXT_HEAVNA405_01641_ESTINIEN_100_063","……可惡的蒼穹騎士。"
-54,"TEXT_HEAVNA405_01641_AYMERIC_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，阿爾菲諾閣下……
+54,"TEXT_HEAVNA405_01641_AYMERIC_000_010","<Highlight>ObjectParameter(1)</Highlight>閣下，阿爾菲諾閣下……
 我有件事想拜託拂曉血盟。"
 55,"TEXT_HEAVNA405_01641_ALPHINAUD_000_011","追擊得到蠻神力量的教皇和蒼穹騎士團……對嗎？"
 56,"TEXT_HEAVNA405_01641_AYMERIC_000_012","沒錯。
-我深知此事是由伊修加爾德的內政問題引起的，
+我深知此事是由伊修加德的內政問題引起的，
 你們有權利拒絕……"
 57,"TEXT_HEAVNA405_01641_Q1_000_000","如何作答？"
 58,"TEXT_HEAVNA405_01641_A1_000_001","追擊教皇托爾丹七世"
 59,"TEXT_HEAVNA405_01641_A1_000_002","為奧爾什方報仇"
 60,"TEXT_HEAVNA405_01641_A1_000_003","不回答"
-61,"TEXT_HEAVNA405_01641_AYMERIC_000_020","謝謝您， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+61,"TEXT_HEAVNA405_01641_AYMERIC_000_020","謝謝您，<Highlight>ObjectParameter(1)</Highlight>閣下……
 我知道一涉及蠻神問題，你們是不會拒絕的。
 但我只能請求您出手相助了……請原諒我的無能……"
 62,"TEXT_HEAVNA405_01641_AYMERIC_000_030","這樣啊……您和奧爾什方閣下是……
@@ -80,13 +80,13 @@ int32,str,str
 我知道一涉及蠻神問題，你們是不會拒絕的。
 但我只能請求您出手相助了……請原諒我的無能……"
 64,"TEXT_HEAVNA405_01641_ALPHINAUD_000_050","處理蠻神問題，是拂曉血盟最大的使命……
-我也會盡最大努力，支援 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的。"
+我也會盡最大努力，支援<Highlight>ObjectParameter(1)</Highlight>的。"
 65,"TEXT_HEAVNA405_01641_AYMERIC_000_051","謝謝您，阿爾菲諾閣下。
 很遺憾目前教皇逃離，我無法離開皇都。
 我需要在教皇不在的這段時間，填補政治上的空白。"
 66,"TEXT_HEAVNA405_01641_AYMERIC_000_052","對於出生以來就接受正教教導的民眾來說，
 「教皇」就如同「生父」一般……
-教皇的消失會引起不小的動盪。"
+教皇的消失會引起不小的動蕩。"
 67,"TEXT_HEAVNA405_01641_AYMERIC_000_053","我會和以福爾唐伯爵為首的有威望的貴族一起，
 請求民眾中有能力的人協助，一起治理國家。"
 68,"TEXT_HEAVNA405_01641_AYMERIC_000_054","雖然邪龍尼德霍格已經消失，
@@ -96,14 +96,14 @@ int32,str,str
 我身為蒼天之龍騎士，一定會從龍族殘黨的威脅中，
 全力保護皇都的。"
 70,"TEXT_HEAVNA405_01641_LUCIA_000_056","拂曉血盟的支援工作就交給我吧。"
-71,"TEXT_HEAVNA405_01641_LUCIA_100_056"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下、阿爾菲諾閣下，
+71,"TEXT_HEAVNA405_01641_LUCIA_100_056","<Highlight>ObjectParameter(1)</Highlight>閣下、阿爾菲諾閣下，
 待會我會把有關現狀的情報告訴你們，你們稍後有時間吧？"
-72,"TEXT_HEAVNA405_01641_ALPHINAUD_000_057","我們走， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+72,"TEXT_HEAVNA405_01641_ALPHINAUD_000_057","我們走，<Highlight>ObjectParameter(1)</Highlight>！
 我們拂曉血盟要追擊新的蠻神了！"
-73,"TEXT_HEAVNA405_01641_AYMERIC_000_060","（★未使用／削除予定★）"
-74,"TEXT_HEAVNA405_01641_LUCIA_000_061","（★未使用／削除予定★）"
-75,"TEXT_HEAVNA405_01641_ALPHINAUD_000_062","（★未使用／削除予定★）"
-76,"TEXT_HEAVNA405_01641_ESTINIEN_000_063","（★未使用／削除予定★）"
+73,"TEXT_HEAVNA405_01641_AYMERIC_000_060","（未使用/預計刪除）"
+74,"TEXT_HEAVNA405_01641_LUCIA_000_061","（未使用/預計刪除）"
+75,"TEXT_HEAVNA405_01641_ALPHINAUD_000_062","（未使用/預計刪除）"
+76,"TEXT_HEAVNA405_01641_ESTINIEN_000_063","（未使用/預計刪除）"
 77,"TEXT_HEAVNA405_01641_TEMPLEKIGHTGATE_000_070","你找艾默里克總騎士長有事？
 我會幫你通報，請這邊走……"
 78,"TEXT_HEAVNA405_01641_SCENE00020_EVENTAREA_WARP_YESNO_TITLE","要前往神殿騎士團總騎士長室嗎？"

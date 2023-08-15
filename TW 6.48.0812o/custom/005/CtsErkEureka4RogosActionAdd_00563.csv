@@ -40,7 +40,7 @@ int32,str,str
 18,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_050","用文理融合器提取的用於賦予記憶的藥品，
 其含有的乙太之間會發生共鳴而改變性質，
 所以能夠攜帶的數量僅限於3個。"
-19,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_051","不過只要使用能夠遮蔽乙太共鳴的新型試管的話，
+19,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_051","不過只要使用能夠屏蔽乙太共鳴的新型試管的話，
 就能使可攜帶的藥品數量增加到<Value>IntegerParameter(1)</Value>個。"
 20,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_052","只不過製作這種新型試管需要特殊的素材……
 如果你能拿到素材的話，我會負責給你製作出來！"

@@ -8,7 +8,7 @@ int32,str,str
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-和達米利奧進行了交談。由於雷多倫特．羅斯的造訪，導致其他孩子也紛紛表示希望能邀請自己憧憬之人造訪，達米利奧為此很是苦惱。孩子們已經給想要見的人寫了信。如果發現有能邀請來的人，就去跟福隆戴爾藥學院的羅韋爾談談。"
+和達米利奧進行了交談。由於雷多倫特·羅斯的造訪，導致其他孩子也紛紛表示希望能邀請自己憧憬之人造訪，達米利奧為此很是苦惱。孩子們已經給想要見的人寫了信。如果發現有能邀請來的人，就去跟福隆戴爾藥學院的羅韋爾談談。"
 2,"TEXT_FESPDY602_03851_SEQ_02","和羅韋爾進行了交談，邀請了孩子們一心想見的人。孩子們為此非常高興。和福隆戴爾藥學院的達米利奧談談。"
 3,"TEXT_FESPDY602_03851_SEQ_03","和達米利奧進行了交談。如果方便的話，再次造訪藥學院，把孩子們想見的人帶來。"
 4,"TEXT_FESPDY602_03851_SEQ_04",""
@@ -57,7 +57,7 @@ int32,str,str
 47,"TEXT_FESPDY602_03851_TODO_23",""
 48,"TEXT_FESPDY602_03851_DAMIELLIOT_000_000","冒險者，真是抱歉一直麻煩你。
 能聽一下我的請求嗎？"
-49,"TEXT_FESPDY602_03851_DAMIELLIOT_000_001","之前雷多倫特．羅斯的造訪
+49,"TEXT_FESPDY602_03851_DAMIELLIOT_000_001","之前雷多倫特·羅斯的造訪
 讓洛莉非常開心，我也很感謝你，
 但這次又產生了其他問題……"
 50,"TEXT_FESPDY602_03851_DAMIELLIOT_000_002","自從上次之後，
@@ -156,7 +156,7 @@ int32,str,str
 要想讓她們來兒科病房的話，
 就去拜託管家之王吧。"
 100,"TEXT_FESPDY602_03851_ULALA_000_110","大家好！
-我們從 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 那裡瞭解了情況，所以就來見大家了。"
+我們從<Highlight>ObjectParameter(1)</Highlight>那裡了解了情況，所以就來見大家了。"
 101,"TEXT_FESPDY602_03851_NARUMI_000_111","烏拉拉！
 這裡是病房，如果和平時一樣音量的話，
 會給大家造成困擾的！"
@@ -166,13 +166,13 @@ int32,str,str
 果然是烏拉拉嗎？"
 104,"TEXT_FESPDY602_03851_NARUMI_000_114","話說你為什麼想成為明星呢？"
 105,"TEXT_FESPDY602_03851_CHILDRENE03851_000_115","我曾在烏爾達哈看過你們表演，
-當時你們在臺上又唱又跳的樣子實在是太耀眼了！
+當時你們在台上又唱又跳的樣子實在是太耀眼了！
 所以我希望自己也可以變成那樣。"
 106,"TEXT_FESPDY602_03851_MASHAMHAKARACCA_000_116","這世上居然會有小孩子因為我們的表演而產生這樣的想法，
 真是沒有比這更開心的事情了。"
 107,"TEXT_FESPDY602_03851_ULALA_000_117","……不過啊，當明星可不是這麼簡單的哦？
 就算遇到不擅長的事情也不能逃避。
-一定要刻苦訓練努力克服才行。"
+必須要刻苦訓練努力克服才行。"
 108,"TEXT_FESPDY602_03851_ULALA_000_118","雖然我們給人的印象很光鮮亮麗，
 但是這背後不知道付出了多少苦。
 你有能承受這一切的自信嗎？"
@@ -180,7 +180,7 @@ int32,str,str
 不用跟孩子說這些吧……"
 110,"TEXT_FESPDY602_03851_MASHAMHAKARACCA_000_120","我覺得沒關係。
 如果是真心想成為明星的話，
-就有必要瞭解殘酷的現實。"
+就有必要了解殘酷的現實。"
 111,"TEXT_FESPDY602_03851_MASHAMHAKARACCA_000_121","不過除了辛苦，當然也有很多開心的事。
 比如現在這樣，
 遇到對我們有所憧憬的孩子就是其中之一！"
@@ -189,7 +189,7 @@ int32,str,str
 到時候就和我們一起公演吧！說定了哦？！"
 113,"TEXT_FESPDY602_03851_CHILDRENE03851_000_123","好！"
 114,"TEXT_FESPDY602_03851_ULALA_000_124","啊！
-不過艾奧傑亞第一明星的寶座我是不會讓給你的！"
+不過艾歐澤亞第一明星的寶座我是不會讓給你的！"
 115,"TEXT_FESPDY602_03851_CHILDREND03851_000_090","……大哥哥你是美容師嗎？"
 116,"TEXT_FESPDY602_03851_JANDELAINE_000_091","我叫讓代萊納！
 就讓我來用這利刃顛覆你的人生吧！"
@@ -216,9 +216,9 @@ int32,str,str
 127,"TEXT_FESPDY602_03851_CHILDRENF03851_000_131","(-對龍充滿嚮往的少女-)哇！小小的龍！
 是真的嗎？！"
 128,"TEXT_FESPDY602_03851_KALMYHK_000_132","我的名字可不是「小小的龍」！
-我叫卡爾．米克！"
+我叫卡爾·米克！"
 129,"TEXT_FESPDY602_03851_CHILDRENA03851_000_133","(-對龍充滿嚮往的少女-)好厲害！會說話呢！"
-130,"TEXT_FESPDY602_03851_KALMYHK_000_134","我說 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+130,"TEXT_FESPDY602_03851_KALMYHK_000_134","我說<Highlight>ObjectParameter(1)</Highlight>！
 大家一起去外面玩吧，一定會很有趣的！"
 131,"TEXT_FESPDY602_03851_CHILDRENB03851_000_135","(-人族少年-)我們不能到外面去……"
 132,"TEXT_FESPDY602_03851_KALMYHK_000_136","咦？為什麼？
@@ -227,22 +227,22 @@ int32,str,str
 我們都生了病，所以必須待在病房裡面。
 抱歉啊……"
 134,"TEXT_FESPDY602_03851_KALMYHK_000_138","這樣啊……真遺憾……
-久違地見到了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+久違地見到了<Highlight>ObjectParameter(1)</Highlight>，
 還想和大家一起玩呢……"
 135,"TEXT_FESPDY602_03851_KALMYHK_000_139","……那等到大家都能出去之後我再來吧！"
 136,"TEXT_FESPDY602_03851_KALMYHK_000_140","所以希望大家能早點康復，
 到時候再一起出去玩！"
 137,"TEXT_FESPDY602_03851_KALMYHK_000_141","啊！
-當然 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也要一起啊！"
-138,"TEXT_FESPDY602_03851_KALMYHK_000_142","畢竟 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是我最喜歡的朋友了！
+當然<Highlight>ObjectParameter(1)</Highlight>也要一起啊！"
+138,"TEXT_FESPDY602_03851_KALMYHK_000_142","畢竟<Highlight>ObjectParameter(1)</Highlight>是我最喜歡的朋友了！
 說定了哦！"
 139,"TEXT_FESPDY602_03851_GYORIN_000_150","哇哇！
-真如 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 所說，
+真如<Highlight>ObjectParameter(1)</Highlight>所說，
 有好多小不點呢！"
 140,"TEXT_FESPDY602_03851_CHILDRENF03851_000_151","(-嚮往成為有錢人的少女-)鯰、鯰魚？！"
 141,"TEXT_FESPDY602_03851_GYORIN_000_152","我不是鯰魚，是鯰魚精！
 我是鯰魚精魚鱗哦。"
-142,"TEXT_FESPDY602_03851_GYORIN_000_153","我聽 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 說有小孩子想成為有錢人，
+142,"TEXT_FESPDY602_03851_GYORIN_000_153","我聽<Highlight>ObjectParameter(1)</Highlight>說有小孩子想成為有錢人，
 是哪個小孩子啊？"
 143,"TEXT_FESPDY602_03851_CHILDRENF03851_000_154","(-嚮往成為有錢人的少女-)啊，是我！"
 144,"TEXT_FESPDY602_03851_GYORIN_000_155","哦哦……居然見到了和我有著同樣夢想的人類！

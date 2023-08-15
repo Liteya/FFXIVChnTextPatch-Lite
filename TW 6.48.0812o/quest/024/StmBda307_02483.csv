@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDA307_02483_SEQ_23",""
 24,"TEXT_STMBDA307_02483_TODO_00","和文鎮對話"
 25,"TEXT_STMBDA307_02483_TODO_01","和算盤對話"
-26,"TEXT_STMBDA307_02483_TODO_02","討伐<Sheet(BNpcName,5735,0)/> 獲得其身上可能會掉落的<Sheet(EventItem,2002094,0)/>"
+26,"TEXT_STMBDA307_02483_TODO_02","討伐<Sheet(BNpcName,5735,0)/> 獲取其身上可能會掉落的<Sheet(EventItem,2002094,0)/>"
 27,"TEXT_STMBDA307_02483_TODO_03","將<Sheet(EventItem,2002094,0)/>交給算盤"
 28,"TEXT_STMBDA307_02483_TODO_04",""
 29,"TEXT_STMBDA307_02483_TODO_05",""
@@ -68,7 +68,7 @@ int32,str,str
 如果問他名字的事他可是會立刻生氣的——"
 56,"TEXT_STMBDA307_02483_LYSE_000_040","他們說的到底是什麼事呢……"
 57,"TEXT_STMBDA307_02483_ALISAIE_000_045","世界上的所有東西中都寄宿有神明……
-這和艾奧傑亞所信仰的十二神是完全不同的體系啊。"
+這和艾歐澤亞所信仰的十二神是完全不同的體系啊。"
 58,"TEXT_STMBDA307_02483_BUNCHIN_000_050","我期待著能有愉快的交易哦——"
 59,"TEXT_STMBDA307_02483_SOROBAN_000_060","那我就來說一下這次交易的內容吧——
 我們在尋找一種叫做「八尺瓊勾玉」的寶物——"
@@ -82,7 +82,7 @@ int32,str,str
 但要是碰到紅甲族也會很麻煩——
 所以就想要拜託你們去找——"
 63,"TEXT_STMBDA307_02483_LYSE_000_064","也就是說，要在海裡找東西了？
-可、可以嗎……"
+能、能行嗎……"
 64,"TEXT_STMBDA307_02483_SOROBAN_000_065","放心，我會給你們施加法術，保證你們不會窒息——
 不過為此你們得供奉點東西才行——
 你們就先上岸，在海邊收集一下貢品吧——"
@@ -90,19 +90,19 @@ int32,str,str
 另外還有<Sheet(BNpcName,5735,0)/>身上的<Sheet(EventItem,2002094,0)/>——"
 66,"TEXT_STMBDA307_02483_ALISAIE_000_067","咱們分頭去收集貢品吧。
 我來尋找貝，莉瑟去找珊瑚。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，<Sheet(EventItem,2002094,0)/>能交給你嗎？"
+<Highlight>ObjectParameter(1)</Highlight>，<Sheet(EventItem,2002094,0)/>能交給你嗎？"
 67,"TEXT_STMBDA307_02483_LYSE_000_070","是那些珊瑚嗎？
 雖然離岸邊有段距離，不過我試著游過去！"
 68,"TEXT_STMBDA307_02483_ALISAIE_000_075","之前阿爾菲諾還向我炫耀撿柴什麼的……
 下次見到他我要回擊。
 就問他「你撿過貝殼嗎」！"
-69,"TEXT_STMBDA307_02483_SOROBAN_000_080","可以從<Sheet(BNpcName,5735,0)/>身上獲得<Sheet(EventItem,2002094,0)/>哦——
+69,"TEXT_STMBDA307_02483_SOROBAN_000_080","可以從<Sheet(BNpcName,5735,0)/>身上獲取<Sheet(EventItem,2002094,0)/>哦——
 雖然想要保持它的美麗有點難——"
 70,"TEXT_STMBDA307_02483_SOROBAN_000_090","怎麼樣——
 拿到<Sheet(EventItem,2002094,0)/>了嗎——？"
 71,"TEXT_STMBDA307_02483_SOROBAN_000_091","沒錯沒錯，就是這個——
 真是亮閃閃的大鱟殼——
-有了這個，貢品的品質可以提高好幾個等級——"
+有了這個，貢品的品質可以提高好幾個檔次——"
 72,"TEXT_STMBDA307_02483_LYSE_000_092","讓你們久等了。
 我摘來了扭曲的紅珊瑚。"
 73,"TEXT_STMBDA307_02483_ALISAIE_000_093","這個可以嗎？拳頭大的萬年貝……

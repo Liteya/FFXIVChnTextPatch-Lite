@@ -7,7 +7,7 @@ int32,str,str
 1,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_010","我聽說你要前去探索原初自然史院分室！
 根據之前的調查，我們發現那附近的環境乙太
 是風屬性之力更強一些！"
-2,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_011","所以應該棲息在那邊的魔物也受到環境乙太的影響，
+2,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_011","所以估計棲息在那邊的魔物也受到環境乙太的影響，
 都是擁有強烈風屬性之力的魔物！
 請你做好充足的準備！"
 3,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_012","還有據報告顯示，每到夜裡就會有很恐怖的魔物出現！
@@ -15,7 +15,7 @@ int32,str,str
 在探索的時候，請注意時間與自身的狀態！"
 4,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_020","探索的結果如何？
 要是我提供的情報有起到作用那就太好了。"
-5,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_030","這次你是要前往高樹果林進行探索吧！
+5,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_030","這回你是要前往高樹果林進行探索吧！
 那周邊有很強烈的水屬性之力，
 請牢記這點，並提前想好對策會比較好！"
 6,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_031","我也進一步調查了乙太的濃度，
@@ -33,7 +33,7 @@ int32,str,str
 那附近是屬性之力更加混亂的危險地帶，
 總體來看，應該是雷屬性之力比較強烈！"
 11,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_051","你從據點出去一直向北就能到那裡了，應該不容易迷路，
-但是路上需要對付的魔物應該會很棘手！
+但是路上需要對付的魔物估計會很棘手！
 請你多加注意哦！"
 12,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_060","哇，探索辛苦你了！
 看到你平安無事，我總算安心了！
@@ -51,7 +51,7 @@ int32,str,str
 拂曉的英雄……又或是解放者……"
 17,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_081","你是擁有和這些傳奇人物一樣的不凡之力嗎？！
 好厲害！真是令人憧憬！"
-18,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_100","實際上，除了可露兒找到的節點反應之外，
+18,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_100","實際上，除了可露兒找到的結節點反應之外，
 地脈偶爾還會出現奇怪的反應，然後反應又會瞬間消失！
 ……不過那種反應十分罕見就是了。"
 19,"TEXT_CTSERKEUREKA1EVENTINVESTIGATORS2_00463_INV00463_000_101","出現反應的地點在據點西北方向的新虛無洞裡面！

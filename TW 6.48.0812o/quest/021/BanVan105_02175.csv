@@ -59,8 +59,8 @@ int32,str,str
 45,"TEXT_BANVAN105_02175_TODO_21",""
 46,"TEXT_BANVAN105_02175_TODO_22",""
 47,"TEXT_BANVAN105_02175_TODO_23",""
-48,"TEXT_BANVAN105_02175_MUNAVANU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正好。
-其實、其實，魯納瓦努有事想借助你的力量。"
+48,"TEXT_BANVAN105_02175_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來得正好。
+其實、其實，魯納瓦努有事想藉助你的力量。"
 49,"TEXT_BANVAN105_02175_MUNAVANU_000_001","好像是、好像是想讓你幫忙收集食物。
 可以的話，請你去聽聽魯納瓦努怎麼說。
 請你如同吹過的涼風般迅速，拜託你了。"
@@ -86,19 +86,19 @@ int32,str,str
 57,"TEXT_BANVAN105_02175_SYSTEM_000_030","樹洞深處好像有大蟲子在蠕動……
 和魯納瓦努對話，騎上騰雲蛇，
 用突風將蟲子引出來。"
-58,"TEXT_BANVAN105_02175_LUNAVANU_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我抓住它們了！
+58,"TEXT_BANVAN105_02175_LUNAVANU_000_031","<Highlight>ObjectParameter(1)</Highlight>，我抓住它們了！
 那麼、那麼，最後一處也拜託你了！"
 59,"TEXT_BANVAN105_02175_SYSTEM_000_040","樹洞深處好像有大蟲子在蠕動……
 和魯納瓦努對話，騎上騰雲蛇，
 用突風將蟲子引出來。"
-60,"TEXT_BANVAN105_02175_LUNAVANU_000_041","辛苦你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+60,"TEXT_BANVAN105_02175_LUNAVANU_000_041","辛苦你了，<Highlight>ObjectParameter(1)</Highlight>！
 多虧了你、多虧了你，抓住了我們想要的蟲子！
 那麼、那麼，我們快回集落向穆納瓦努報告吧！"
-61,"TEXT_BANVAN105_02175_MUNAVANU_000_050","你回來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+61,"TEXT_BANVAN105_02175_MUNAVANU_000_050","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>！
 我都聽、我都聽魯納瓦努說了。
 就像響聲貫穿雲海的雷鳴般大聲感謝你的幫助。"
 62,"TEXT_BANVAN105_02175_MUNAVANU_000_051","這次捕獲的蟲子，如同蜜汁般甘甜美味。
-剛才將蟲子分給村落的大夥吃，結果一眨眼就吃光了。
+剛才將蟲子分給村落的大伙吃，結果一眨眼就吃光了。
 ……真是抱歉，應該給你留一隻才對。"
 63,"TEXT_BANVAN105_02175_LUNAVANU_000_032","（★未使用／削除予定★）"
 64,"TEXT_BANVAN105_02175_LUNAVANU_000_042","（★未使用／削除予定★）"

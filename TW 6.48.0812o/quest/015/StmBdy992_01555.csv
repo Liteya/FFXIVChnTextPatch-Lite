@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDY992_01555_SEQ_00","樂座街的對手魔物獵人心中有句話不知當講不當講。"
+0,"TEXT_STMBDY992_01555_SEQ_00","樂座街的對手怪物獵人心中有句話不知當講不當講。"
 1,"TEXT_STMBDY992_01555_SEQ_01",""
 2,"TEXT_STMBDY992_01555_SEQ_02",""
 3,"TEXT_STMBDY992_01555_SEQ_03",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDY992_01555_SEQ_21",""
 22,"TEXT_STMBDY992_01555_SEQ_22",""
 23,"TEXT_STMBDY992_01555_SEQ_23",""
-24,"TEXT_STMBDY992_01555_TODO_00","和對手魔物獵人對話"
+24,"TEXT_STMBDY992_01555_TODO_00","和對手怪物獵人對話"
 25,"TEXT_STMBDY992_01555_TODO_01",""
 26,"TEXT_STMBDY992_01555_TODO_02",""
 27,"TEXT_STMBDY992_01555_TODO_03",""
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_STMBDY992_01555_TODO_22",""
 47,"TEXT_STMBDY992_01555_TODO_23",""
 48,"TEXT_STMBDY992_01555_RIVALMOBHUNTER_000_001","哇哈哈！
-我的競爭對手 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+我的競爭對手<Highlight>ObjectParameter(1)</Highlight>！
 再次祝賀你狩獵火龍成功！"
 49,"TEXT_STMBDY992_01555_RIVALMOBHUNTER_000_002","話說，其實我想問問你……那個火龍究竟強不強？
 是不是像你這麼厲害的傢伙也很是苦戰了一番？"
@@ -84,13 +84,13 @@ int32,str,str
 63,"TEXT_STMBDY992_01555_FELYNE_000_014","體力和攻擊力都要高出很多喵！
 一擊就能讓裝備爛的獵人貓車回家喵！"
 64,"TEXT_STMBDY992_01555_RIVALMOBHUNTER_000_015","應該就是類似於普通怪物和惡名菁英的區別吧？
-身為一名魔物獵人，知道這種消息後怎麼還能坐得住？！"
+身為一名怪物獵人，知道這種消息後怎麼還能坐得住？！"
 65,"TEXT_STMBDY992_01555_RIVALMOBHUNTER_000_016","你也聽到了，加工屋！
 我們這就開始準備吧！"
 66,"TEXT_STMBDY992_01555_SMITHERY_000_017","好！"
-67,"TEXT_STMBDY992_01555_FELYNE_000_018","……你倆還是老實待著吧喵。
+67,"TEXT_STMBDY992_01555_FELYNE_000_018","……你倆還是老實呆著吧喵。
 衝上去也只會被火龍用恰到好處的火候烤成熟肉端回來的喵。"
-68,"TEXT_STMBDY992_01555_SYSTEM_000_019","透過「火龍上位狩獵戰」可以獲得更多的獎勵。
+68,"TEXT_STMBDY992_01555_SYSTEM_000_019","通過「火龍上位狩獵戰」可以獲得更多的獎勵。
 請務必嘗試挑戰！"
 69,"TEXT_STMBDY992_01555_SYSTEM_000_020","另外，「火龍上位狩獵戰」為4人任務。
 招募隊友參加時還望注意。"

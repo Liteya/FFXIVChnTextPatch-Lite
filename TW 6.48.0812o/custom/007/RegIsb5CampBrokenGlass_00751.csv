@@ -11,10 +11,10 @@ int32,str,str
 3,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_004","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>……
 目前這一帶也受到了末日的影響，
 請務必多加小心！"
-4,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_005"," <Highlight>ObjectParameter(1)</Highlight> 閣下！
+4,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_005","<Highlight>ObjectParameter(1)</Highlight>閣下！
 我從長官那裡聽說了您解決末日災難的偉績，
 正想著如何向您表達謝意！"
-5,"TEXT_REGISB5CAMPBROKENGLASS_00751_Q1_000_000","想瞭解什麼？"
+5,"TEXT_REGISB5CAMPBROKENGLASS_00751_Q1_000_000","想了解什麼？"
 6,"TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_001","你是做什麼的？"
 7,"TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_002","這裡是什麼地方？"
 8,"TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_003","取消"
@@ -24,7 +24,7 @@ int32,str,str
 10,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_101","我的故鄉在基拉巴尼亞的阿拉基利，
 解放戰爭期間，那裡不費一兵一卒就得到了光復。
 這並非奇蹟，而是一位帝國兵果敢行動的結果。"
-11,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_102","託他的福，我的家人們也平安無事，
+11,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_102","托他的福，我的家人們也平安無事，
 因此我也想盡我所能為這裡做些什麼。"
 12,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_200","是！這裡是伊爾薩巴德救援隊的駐地！
 我們踏破風雪來到此地，走在冰原上的聲音就彷彿玻璃碎掉一般，
@@ -33,7 +33,7 @@ int32,str,str
 世界上首屈一指的強大帝國，
 即使過去曾是敵人，我也對加雷馬族的意志敬佩不已。"
 14,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_202","這個營地收容了不少帝國的殘兵以及平民。
-同時也在對被終焉使徒精煉的人們進行治療，
+同時也在對被終末使徒精煉的人們進行治療，
 目前一切都在有序進行！"
 15,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_203","這個營地收容了不少帝國的殘兵以及平民。
 另外，伊爾薩巴德救援隊正在與一些帝國市民一同尋找其他倖存者，

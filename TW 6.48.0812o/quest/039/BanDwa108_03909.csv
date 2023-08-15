@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANDWA108_03909_SEQ_22",""
 23,"TEXT_BANDWA108_03909_SEQ_23",""
 24,"TEXT_BANDWA108_03909_TODO_00","在風化大地的沃茨之錘周圍尋找可疑的人影
-在「說話」頻道下輸入「啦哩吼」進行呼喚（lali-ho）"
+在「說話」頻道下輸入「啦哩吼」進行呼喚 (lali-ho)"
 25,"TEXT_BANDWA108_03909_TODO_01","向雷吉圖報告"
 26,"TEXT_BANDWA108_03909_TODO_02",""
 27,"TEXT_BANDWA108_03909_TODO_03",""
@@ -53,11 +53,11 @@ int32,str,str
 45,"TEXT_BANDWA108_03909_TODO_21",""
 46,"TEXT_BANDWA108_03909_TODO_22",""
 47,"TEXT_BANDWA108_03909_TODO_23",""
-48,"TEXT_BANDWA108_03909_REGITT_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，聽我說……
+48,"TEXT_BANDWA108_03909_REGITT_000_001","<Highlight>ObjectParameter(1)</Highlight>，聽我說……
 最近有人在沃茨之錘附近看到了可疑人物啦哩……
 說不定是盯上我們財物的壞蛋呢！"
 49,"TEXT_BANDWA108_03909_REGITT_000_002","我應該偷偷靠近，然後用錘子把那人打得落花流水！
-……咳，這種事想想還可以，
+……咳，這種事想想還行，
 真要動手的話還是算了吧……"
 50,"TEXT_BANDWA108_03909_REGITT_000_003","所以我想拜託你這位勇士去沃茨之錘周圍巡邏一下！
 要是看到了可疑人物就用「啦哩吼」打聲招呼，
@@ -70,7 +70,7 @@ int32,str,str
 呼喚紫葉團的菁靈族。"
 53,"TEXT_BANDWA108_03909_ELF03909_000_011","嘁……你和那些可恨的矮人是一夥的嗎！
 雷克蘭德是我們菁靈族的地盤，給我記住了！"
-54,"TEXT_BANDWA108_03909_GUARD03909_000_012","呀，這不是 <Highlight>ObjectParameter(1)</Highlight> 嘛！
+54,"TEXT_BANDWA108_03909_GUARD03909_000_012","呀，這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 你怎麼來這裡了？"
 55,"TEXT_BANDWA108_03909_SYSTEM_000_112","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「啦哩吼」的詞句，

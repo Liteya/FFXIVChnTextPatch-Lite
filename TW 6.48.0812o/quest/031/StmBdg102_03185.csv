@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_STMBDG102_03185_SEQ_00","阿拉米格解放軍軍官正在等待冒險者。"
-1,"TEXT_STMBDG102_03185_SEQ_01","和阿拉米格解放軍軍官進行了交談。前往艾奧傑亞同盟軍大本營和勞班談談。
+1,"TEXT_STMBDG102_03185_SEQ_01","和阿拉米格解放軍軍官進行了交談。前往艾歐澤亞同盟軍大本營和勞班談談。
 若是離開了大本營，基拉巴尼亞湖區天營門的阿拉米格解放軍軍官會帶領冒險者前往大本營。"
 2,"TEXT_STMBDG102_03185_SEQ_02","和勞班進行交談時，接到報告稱芝諾斯率領的敵援軍抵達了戰場。為了支援莉瑟和飛燕，冒險者也出發奔赴戰場，和芝諾斯樣貌的男性展開了激戰。在激戰的過程中，冒險者雖一度將敵人擊敗，但神秘的聲音突然響起，冒險者也隨之倒下了。在一個神秘的空間中，冒險者終於見到了一直以來在呼喚自己的人。呼喚聲的主人希望冒險者去水晶塔尋找某樣裝置。
-若是回到了艾奧傑亞同盟軍大本營，可以和勞班對話再次進行挑戰。"
-3,"TEXT_STMBDG102_03185_SEQ_03","倒下的冒險者在伊修加爾德醒了過來。艾默里克稱是埃斯蒂尼安救了冒險者。國境地帶陷入膠著狀態，盟主們決定讓冒險者先休息一下。某位淑女在石之家等待冒險者。前往喪靈鐘的石之家。"
+若是回到了艾歐澤亞同盟軍大本營，可以和勞班對話再次進行挑戰。"
+3,"TEXT_STMBDG102_03185_SEQ_03","倒下的冒險者在伊修加德醒了過來。艾默里克稱是埃斯蒂尼安救了冒險者。國境地帶陷入膠著狀態，盟主們決定讓冒險者先休息一下。某位淑女在石之家等待冒險者。前往喪靈鐘的石之家。"
 4,"TEXT_STMBDG102_03185_SEQ_04","前往了石之家，某位淑女——也就是塔塔露迎接了冒險者。冒險者將呼喚聲的主人所說的話告訴了大家，拂曉的其他冒險者們聽後決定幫忙去水晶塔尋找那個裝置。和喪靈鐘石之家的塔塔露談談。"
 5,"TEXT_STMBDG102_03185_SEQ_05","從塔塔露那裡收下了新的旅行衣裝。呼喚聲的主人究竟是誰，水晶塔的裝置到底是什麼……雖然謎題接連不斷，但現在能做的只有在搜索工作取得進展前好好養精蓄銳了。
 
@@ -30,8 +30,8 @@ int32,str,str
 21,"TEXT_STMBDG102_03185_SEQ_21",""
 22,"TEXT_STMBDG102_03185_SEQ_22",""
 23,"TEXT_STMBDG102_03185_SEQ_23",""
-24,"TEXT_STMBDG102_03185_TODO_00","和艾奧傑亞同盟軍大本營的勞班對話"
-25,"TEXT_STMBDG102_03185_TODO_01","和艾奧傑亞同盟軍大本營的勞班對話"
+24,"TEXT_STMBDG102_03185_TODO_00","和艾歐澤亞同盟軍大本營的勞班對話"
+25,"TEXT_STMBDG102_03185_TODO_01","和艾歐澤亞同盟軍大本營的勞班對話"
 26,"TEXT_STMBDG102_03185_TODO_02","前往石之家"
 27,"TEXT_STMBDG102_03185_TODO_03","和塔塔露對話"
 28,"TEXT_STMBDG102_03185_TODO_04",""
@@ -54,12 +54,12 @@ int32,str,str
 45,"TEXT_STMBDG102_03185_TODO_21",""
 46,"TEXT_STMBDG102_03185_TODO_22",""
 47,"TEXT_STMBDG102_03185_TODO_23",""
-48,"TEXT_STMBDG102_03185_RESISTANCEGATEKEEPER_000","感謝你的到來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_STMBDG102_03185_RESISTANCEGATEKEEPER_000","感謝你的到來，<Highlight>ObjectParameter(1)</Highlight>！
 勞班大人正在等你，
 要是你準備好了，我會帶你前往同盟軍大本營。"
-49,"TEXT_STMBDG102_03185_RESISTANCEGATEGUARD_001","那麼現在要前往艾奧傑亞同盟軍大本營嗎？"
-50,"TEXT_STMBDG102_03185_Q1_000_002","要前往艾奧傑亞同盟軍大本營嗎？"
-51,"TEXT_STMBDG102_03185_RAUBAHN_000_010","你來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+49,"TEXT_STMBDG102_03185_RESISTANCEGATEGUARD_001","那麼現在要前往艾歐澤亞同盟軍大本營嗎？"
+50,"TEXT_STMBDG102_03185_Q1_000_002","要前往艾歐澤亞同盟軍大本營嗎？"
+51,"TEXT_STMBDG102_03185_RAUBAHN_000_010","你來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 我想先來共享一下戰況情報。"
 52,"TEXT_STMBDG102_03185_SYSTEM_000_011","之後將會連續播放過場動畫，深度展開劇情。"
 53,"TEXT_STMBDG102_03185_SYSTEM_000_012","劇情的播放會花費一定的時間，
@@ -72,7 +72,7 @@ int32,str,str
 不過看來是我多慮了啊？"
 57,"TEXT_STMBDG102_03185_EDMONT_000_021","聽說你在戰場上倒下的時候我都要嚇死了，
 不過你醒了我也就安心了……
- <Highlight>ObjectParameter(1)</Highlight> 閣下。"
+<Highlight>ObjectParameter(1)</Highlight>閣下。"
 58,"TEXT_STMBDG102_03185_EDMONT_000_022","和帝國開戰後，皇都也變得忙亂了起來，
 我的大兒子阿圖瓦雷爾也率領騎兵團前往了戰場。"
 59,"TEXT_STMBDG102_03185_EDMONT_000_023","你才剛醒，我也想勸你不要勉強自己……"
@@ -85,22 +85,22 @@ int32,str,str
 ……那麼回見。"
 63,"TEXT_STMBDG102_03185_EDMONT_000_028","你有時間的時候隨時歡迎過來，
 我這清閒的隱居者隨時為你敞開大門。"
-64,"TEXT_STMBDG102_03185_HANDELOUP_100_028","哦哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！
+64,"TEXT_STMBDG102_03185_HANDELOUP_100_028","哦哦，<Highlight>ObjectParameter(1)</Highlight>閣下！
 你醒來了啊！
 你被運送過來的時候還引起了騷動，總之平安無事就太好了！"
-65,"TEXT_STMBDG102_03185_BUTLER02246_100_028"," <Highlight>ObjectParameter(1)</Highlight> 大人，
+65,"TEXT_STMBDG102_03185_BUTLER02246_100_028","<Highlight>ObjectParameter(1)</Highlight>大人，
 你能恢復過來真是太好了。
 老爺前去看望你了，你們沒有錯過吧？"
-66,"TEXT_STMBDG102_03185_SAULETTE_100_029","哇， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！
+66,"TEXT_STMBDG102_03185_SAULETTE_100_029","哇，<Highlight>ObjectParameter(1)</Highlight>大人！
 你醒來的時候沒能說上話，
 不過你能醒過來我就很高興了！"
-67,"TEXT_STMBDG102_03185_EMMANELLAIN_100_030","你、你不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？！
+67,"TEXT_STMBDG102_03185_EMMANELLAIN_100_030","你、你不是<Highlight>ObjectParameter(1)</Highlight>嗎？！
 你從昏睡中醒來了啊！
 真是的……別讓人擔心啊你這傢伙！"
-68,"TEXT_STMBDG102_03185_HONOROIT_100_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！
+68,"TEXT_STMBDG102_03185_HONOROIT_100_031","<Highlight>ObjectParameter(1)</Highlight>大人！
 您這麼精神比什麼都好，嗯！"
 69,"TEXT_STMBDG102_03185_HANCOCK_100_032","塔塔露小姐不在之後真是寂寞呢。
-你好像也蠻辛苦的，不過有空還是要記得來玩啊。
+你好像也挺辛苦的，不過有空還是要記得來玩啊。
 哎呀，一不小心語氣就變了……"
 70,"TEXT_STMBDG102_03185_RAUBAHN_000_030","其實我給你做了新的旅行服裝，
 藉此祈禱你能快點醒來！
@@ -108,7 +108,7 @@ int32,str,str
 71,"TEXT_STMBDG102_03185_RAUBAHN_000_031","尋找水晶塔的裝置就交給我們吧，
 冒險者你才剛醒，就先好好休息，養精蓄銳吧！"
 72,"TEXT_STMBDG102_03185_SYSTEM_000_040","解放戰爭戰後主線任務結束了！
-在接下來的漆黑的反叛者主線任務中，
+在接下來的暗影之逆焰主線任務中，
 水晶塔將會起到舉足輕重的作用。"
 73,"TEXT_STMBDG102_03185_SYSTEM_000_041","建議在推進主線任務之餘，
 也完成一下「第七星曆編年史：水晶塔」任務！"

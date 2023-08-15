@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_BANSAH306_01405_SEQ_00","諾布養育場的塞烏有事情想要委託給冒險者。"
-1,"TEXT_BANSAH306_01405_SEQ_01","塞烏為了餵飽弟弟們，想要冒險者獲得<Sheet(EventItem,2001281,0)/>。首先在薩普沙產卵地討伐<Sheet(BNpcName,1831,0)/>，獲得<Sheet(EventItem,2001272,0)/>。"
+1,"TEXT_BANSAH306_01405_SEQ_01","塞烏為了餵飽弟弟們，想要冒險者獲取<Sheet(EventItem,2001281,0)/>。首先在薩普沙產卵地討伐<Sheet(BNpcName,1831,0)/>，獲取<Sheet(EventItem,2001272,0)/>。"
 2,"TEXT_BANSAH306_01405_SEQ_02","獲得了<Sheet(EventItem,2001272,0)/>。前往薩普沙產卵地最深處，調查<Sheet(EObj,2003864,0)/>。如果受到<Sheet(BNpcName,2678,0)/>、<Sheet(BNpcName,2679,0)/>或<Sheet(BNpcName,2680,0)/>的襲擊，就將其討伐。"
-3,"TEXT_BANSAH306_01405_SEQ_03","討伐了發起攻擊的珊瑚尖槍一夥。將<Sheet(EventItem,2001272,0)/>浸入薩普沙產卵地最深處的<Sheet(EObj,2003864,0)/>，獲得<Sheet(EventItem,2001281,0)/>。"
+3,"TEXT_BANSAH306_01405_SEQ_03","討伐了發起攻擊的珊瑚尖槍一夥。將<Sheet(EventItem,2001272,0)/>浸入薩普沙產卵地最深處的<Sheet(EObj,2003864,0)/>，獲取<Sheet(EventItem,2001281,0)/>。"
 4,"TEXT_BANSAH306_01405_SEQ_04","獲得了<Sheet(EventItem,2001281,0)/>。將<Sheet(EventItem,2001281,0)/>交給諾布養育場的塞烏。"
 5,"TEXT_BANSAH306_01405_SEQ_05","將<Sheet(EventItem,2001281,0)/>交給了塞烏。塞烏很感謝幫助弟弟們成長發育的冒險者。今後也在他們有需要時幫忙籌備肉食。"
 6,"TEXT_BANSAH306_01405_SEQ_06",""
@@ -25,10 +25,10 @@ int32,str,str
 21,"TEXT_BANSAH306_01405_SEQ_21",""
 22,"TEXT_BANSAH306_01405_SEQ_22",""
 23,"TEXT_BANSAH306_01405_SEQ_23",""
-24,"TEXT_BANSAH306_01405_TODO_00","從薩普沙產卵地的<Sheet(BNpcName,1831,0)/>身上獲得<Sheet(EventItem,2001272,0)/>"
+24,"TEXT_BANSAH306_01405_TODO_00","從薩普沙產卵地的<Sheet(BNpcName,1831,0)/>身上獲取<Sheet(EventItem,2001272,0)/>"
 25,"TEXT_BANSAH306_01405_TODO_01","調查<Sheet(EObj,2003864,0)/>並討伐隨之出現的珊瑚尖槍一夥"
 26,"TEXT_BANSAH306_01405_TODO_02","將<Sheet(EventItem,2001272,0)/>浸入<Sheet(EObj,2003864,0)/>
-獲得<Sheet(EventItem,2001281,0)/>"
+獲取<Sheet(EventItem,2001281,0)/>"
 27,"TEXT_BANSAH306_01405_TODO_03","將<Sheet(EventItem,2001281,0)/>交給塞烏"
 28,"TEXT_BANSAH306_01405_TODO_04",""
 29,"TEXT_BANSAH306_01405_TODO_05",""
@@ -53,10 +53,10 @@ int32,str,str
 48,"TEXT_BANSAH306_01405_SEWW_000_000","呼嘶……為了讓弟弟們茁壯成長，
 需要給他們吃營養豐富的<Sheet(BNpcName,1831,0)/>的<Sheet(EventItem,2001272,0)/>才行。"
 49,"TEXT_BANSAH306_01405_SEWW_000_001","雖然我想讓弟弟們好好吃頓肉，
-但是高品質的<Sheet(BNpcName,1831,0)/>都在薩普沙產卵地，
+但是優質的<Sheet(BNpcName,1831,0)/>都在薩普沙產卵地，
 被珊瑚尖槍霸佔著。"
 50,"TEXT_BANSAH306_01405_SEWW_000_002","呼嘶，你可以去薩普沙產卵地打倒<Sheet(BNpcName,1831,0)/>，
-獲得<Sheet(EventItem,2001272,0)/>嗎？"
+獲取<Sheet(EventItem,2001272,0)/>嗎？"
 51,"TEXT_BANSAH306_01405_SEWW_000_003","呼嘶……還有一點，弟弟們現在還吃不了太硬的肉。
 希望你能到薩普沙產卵地的最深處找到<Sheet(EObj,2003864,0)/>，
 將肉浸製成<Sheet(EventItem,2001281,0)/>再帶回來。"

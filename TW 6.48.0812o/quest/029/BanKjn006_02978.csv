@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 武盔委託冒險者隨同拜訪和付喪一起結緣的人們。和延夏弓束官邸的魚形交談。"
-2,"TEXT_BANKJN006_02978_SEQ_02","和魚形進行了交談。他忘記了付喪的事。也許是因為當時受到紅甲族襲擊，在驚嚇中失去了記憶。和太陽神草原重逢市集的兀赤金交談。"
+2,"TEXT_BANKJN006_02978_SEQ_02","和魚形進行了交談。他忘記了付喪的事。也許是因為當時受到紅甲族襲擊，在驚嚇中失去了記憶。和太陽神草原重逢集市的兀赤金交談。"
 3,"TEXT_BANKJN006_02978_SEQ_03","和兀赤金父子進行了交談，他們也忘記了付喪的事。武盔感到不安，於是前去拜訪把付喪贈送給自己的潮海。和黃金港小鍛冶屋的潮海交談。"
 4,"TEXT_BANKJN006_02978_SEQ_04","和潮海進行了交談。她記得付喪的事，卻完全想不起來付喪活動起來並說話的事情。和紅玉海碧玉水的文鎮交談。"
 5,"TEXT_BANKJN006_02978_SEQ_05","和文鎮進行了交談，也向尋寶眾進行了確認。大家果然都不記得付喪曾經會跑會跳會說話。不過，文鎮說他自己也曾經歷過類似的事。對武盔而言，付喪是真實存在過的，而現今的緣分和寶物，都是付喪的饋贈。武盔決心珍惜寶貴的緣分，和同伴一起為增加寶物而努力。"
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANKJN006_02978_SEQ_22",""
 23,"TEXT_BANKJN006_02978_SEQ_23",""
 24,"TEXT_BANKJN006_02978_TODO_00","和弓束官邸的魚形對話"
-25,"TEXT_BANKJN006_02978_TODO_01","和重逢市集的兀赤金對話"
+25,"TEXT_BANKJN006_02978_TODO_01","和重逢集市的兀赤金對話"
 26,"TEXT_BANKJN006_02978_TODO_02","和黃金港的潮海對話"
 27,"TEXT_BANKJN006_02978_TODO_03","和碧玉水的文鎮對話"
 28,"TEXT_BANKJN006_02978_TODO_04",""
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANKJN006_02978_TODO_21",""
 46,"TEXT_BANKJN006_02978_TODO_22",""
 47,"TEXT_BANKJN006_02978_TODO_23",""
-48,"TEXT_BANKJN006_02978_KABUTO_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，歡迎——
+48,"TEXT_BANKJN006_02978_KABUTO_000_000","<Highlight>ObjectParameter(1)</Highlight>閣下，歡迎——
 等你許久了——"
 49,"TEXT_BANKJN006_02978_KABUTO_000_001","自從付喪停止活動後，
 鄙人心懷付喪的教誨，努力和同伴協作——
@@ -88,15 +88,15 @@ int32,str,str
 要是真有那種東西，怎麼會忘記噗？！
 從頭到尾只見過你們兩個噗！"
 61,"TEXT_BANKJN006_02978_KABUTO_000_017","唔……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你怎麼看——？"
+<Highlight>ObjectParameter(1)</Highlight>閣下，你怎麼看——？"
 62,"TEXT_BANKJN006_02978_Q1_000_000","如何作答？"
 63,"TEXT_BANKJN006_02978_A1_000_001","可能是因為當時受到了驚嚇吧"
-64,"TEXT_BANKJN006_02978_A1_000_002","…………"
+64,"TEXT_BANKJN006_02978_A1_000_002","……"
 65,"TEXT_BANKJN006_02978_KABUTO_000_018","也是，那時候魚形閣下正在遭受紅甲族襲擊——
-一定是受到了驚嚇，記憶變得模糊了——"
-66,"TEXT_BANKJN006_02978_KABUTO_000_019"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也不明白啊——
+肯定是受到了驚嚇，記憶變得模糊了——"
+66,"TEXT_BANKJN006_02978_KABUTO_000_019","<Highlight>ObjectParameter(1)</Highlight>閣下也不明白啊——
 那時候魚形閣下正在遭受紅甲族襲擊——
-一定是受到了驚嚇，記憶變得模糊了吧——"
+肯定是受到了驚嚇，記憶變得模糊了吧——"
 67,"TEXT_BANKJN006_02978_KABUTO_000_020","鄙人有時候也會在戰鬥之後，
 出現記憶模糊的情況——"
 68,"TEXT_BANKJN006_02978_KABUTO_000_021","咱們還是不要硬揭魚形閣下的傷疤了吧——
@@ -106,43 +106,43 @@ int32,str,str
 70,"TEXT_BANKJN006_02978_GYOKEI_000_023","噗噗噗！
 當然噗！
 我也很想去你們的寶物殿看看噗！"
-71,"TEXT_BANKJN006_02978_KABUTO_000_024","那麼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
-接下來，就到重逢市集，拜訪兀赤金吧——！"
+71,"TEXT_BANKJN006_02978_KABUTO_000_024","那麼，<Highlight>ObjectParameter(1)</Highlight>閣下，
+接下來，就到重逢集市，拜訪兀赤金吧——！"
 72,"TEXT_BANKJN006_02978_GYOKEI_000_029","噗噗噗，保重噗！
 說回來，會說話的人偶……
 倒是真想見識一下噗！"
 73,"TEXT_BANKJN006_02978_KABUTO_000_029","太陽神草原好遠啊——
 即便如此，在決戰之日，
 枕頭還是跑到了這裡啊——"
-74,"TEXT_BANKJN006_02978_UCHIKINPAPA_000_028","…………。"
+74,"TEXT_BANKJN006_02978_UCHIKINPAPA_000_028","……"
 75,"TEXT_BANKJN006_02978_SYSTEM_000_029","兀赤金的父親滿面微笑地相迎。
-似乎在歡迎 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和武盔的到訪。"
+似乎在歡迎<Highlight>ObjectParameter(1)</Highlight>和武盔的到訪。"
 76,"TEXT_BANKJN006_02978_UCHIKIN_000_030","(-兀赤金及其父-)……"
 77,"TEXT_BANKJN006_02978_KABUTO_000_031","二位似乎都很高興再見到我們——
-鄙人剛才看了看市集那邊，
+鄙人剛才看了看集市那邊，
 據說兀赤金的弓術又有長進啊——"
 78,"TEXT_BANKJN006_02978_UCHIKIN_000_032","(-兀赤金及其父-)……"
 79,"TEXT_BANKJN006_02978_KABUTO_000_033","不用感謝啦——！
 在奪回付喪的時候，多虧了凱蘇提爾部的武器，
 我們大獲全勝——"
-80,"TEXT_BANKJN006_02978_KABUTO_000_034","……說起來，第一次來重逢市集的時候，
+80,"TEXT_BANKJN006_02978_KABUTO_000_034","……說起來，第一次來重逢集市的時候，
 還是付喪為沉默寡言的凱蘇提爾部傳達心聲的呢——"
 81,"TEXT_BANKJN006_02978_UCHIKIN_000_035","(-兀赤金及其父-)……"
 82,"TEXT_BANKJN006_02978_KABUTO_000_036","嗚，為什麼二位都一副不明所以的樣子啊——？
 付喪就是那個說話聲很尖利的甲人族人偶啊——
 難道你們都忘記了——？"
 83,"TEXT_BANKJN006_02978_UCHIKIN_000_037","(-兀赤金及其父-)……"
-84,"TEXT_BANKJN006_02978_KABUTO_000_038"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，這到底是？
+84,"TEXT_BANKJN006_02978_KABUTO_000_038","<Highlight>ObjectParameter(1)</Highlight>閣下，這到底是？
 難道連兀赤金父子都忘記付喪了——？"
 85,"TEXT_BANKJN006_02978_KABUTO_000_039","咱們去問問黃金港的潮海閣下吧——
 給鄙人付喪的潮海閣下總會記得吧——？"
 86,"TEXT_BANKJN006_02978_KABUTO_000_040","那鄙人先告辭了——
 今後請多關照——！"
 87,"TEXT_BANKJN006_02978_UCHIKIN_000_041","(-兀赤金及其父-)……"
-88,"TEXT_BANKJN006_02978_UCHIKIN000_046","…………。"
+88,"TEXT_BANKJN006_02978_UCHIKIN000_046","……"
 89,"TEXT_BANKJN006_02978_SYSTEM_000_047","看上去感到十分抱歉。
 不過，還是想不起付喪的事。"
-90,"TEXT_BANKJN006_02978_UCHIKINPAPA_000_048","…………。"
+90,"TEXT_BANKJN006_02978_UCHIKINPAPA_000_048","……"
 91,"TEXT_BANKJN006_02978_SYSTEM_000_049","似乎為與武盔和冒險者的重逢而高興，
 也為二人的旅途送上祝福。"
 92,"TEXT_BANKJN006_02978_KABUTO_000_049","潮海閣下為鄙人將付喪心靈的結晶鑲嵌到了武士盔上，
@@ -159,12 +159,12 @@ int32,str,str
 97,"TEXT_BANKJN006_02978_SHIHOUMI_000_054","您真會說笑。
 那個人偶不是我給您的謝禮嗎？"
 98,"TEXT_BANKJN006_02978_KABUTO_000_055","哦哦，對對，就是那個——！"
-99,"TEXT_BANKJN006_02978_SHIHOUMI_000_056","明明是老舊又不會動的人偶，可武盔閣下還是收下了它，
-而且還取了個名字，我好感動。
+99,"TEXT_BANKJN006_02978_SHIHOUMI_000_056","明明是古舊又不會動的人偶，可武盔閣下還是收下了它，
+而且還起了個名字，我好感動。
 正因如此，我才把從人偶身上掉出來的寶玉……鑲到……咦？"
 100,"TEXT_BANKJN006_02978_SHIHOUMI_000_057","好奇怪……
 為什麼會有寶玉從人偶身上掉出來呢？
-它身上明明不應該有這種元件才對……"
+它身上明明不應該有這種部件才對……"
 101,"TEXT_BANKJN006_02978_KABUTO_000_058","這個寶玉就是付喪心靈的結晶，
 這不是你自己說的嗎——？
 難道你忘記了——？"
@@ -176,7 +176,7 @@ int32,str,str
 104,"TEXT_BANKJN006_02978_SHIHOUMI_000_061","看武盔閣下的樣子，似乎並不是精神錯亂。
 我也確實隱約感覺有某些很重要的緣分與那個人偶相關……
 但抱歉……我還是想不起來……"
-105,"TEXT_BANKJN006_02978_KABUTO_000_062"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+105,"TEXT_BANKJN006_02978_KABUTO_000_062","<Highlight>ObjectParameter(1)</Highlight>閣下，
 這實在太奇怪了——"
 106,"TEXT_BANKJN006_02978_KABUTO_000_063","莫非連碧玉水的人們也都忘記了——？！
 我們趕緊回到碧玉水確認一下吧——！"
@@ -189,7 +189,7 @@ int32,str,str
 110,"TEXT_BANKJN006_02978_SHIHOUMI_000_069","我也覺得有過很重要的緣分……
 可是，就是想不起來……
 希望武盔閣下能找到他所尋找的真相！"
-111,"TEXT_BANKJN006_02978_KABUTO_000_069"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你來了啊——
+111,"TEXT_BANKJN006_02978_KABUTO_000_069","<Highlight>ObjectParameter(1)</Highlight>閣下，你來了啊——
 一想到長老可能也忘記了付喪，鄙人就感到害怕，
 一直不敢去問啊——"
 112,"TEXT_BANKJN006_02978_BUNCHIN_000_070","嚯嚯嚯……
@@ -213,7 +213,7 @@ int32,str,str
 119,"TEXT_BANKJN006_02978_KABUTO_000_078","啊——？
 難道大家都忘記付喪曾經會動的事了——？！
 那個尖利的聲音、靈巧的動作，都忘了——？"
-120,"TEXT_BANKJN006_02978_KABUTO_000_079"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+120,"TEXT_BANKJN006_02978_KABUTO_000_079","<Highlight>ObjectParameter(1)</Highlight>閣下……
 你和鄙人還有付喪一同周遊了各地——"
 121,"TEXT_BANKJN006_02978_KABUTO_000_080","所以，鄙人一直沒有問，
 不過，你應該沒有忘記吧——？"
@@ -247,11 +247,11 @@ int32,str,str
 我一直沒說，因為反正也沒人信——"
 134,"TEXT_BANKJN006_02978_BUNCHIN_000_090","寄身在人偶身上的，
 一定是只屬於武盔的付喪神——"
-135,"TEXT_BANKJN006_02978_BUNCHIN_000_091","（★未使用／削除予定★）"
+135,"TEXT_BANKJN006_02978_BUNCHIN_000_091","（★未使用／預定刪除★）"
 136,"TEXT_BANKJN006_02978_MAKURA_000_092","能見到只屬於自己的付喪神啊，
 好羨慕哦——"
 137,"TEXT_BANKJN006_02978_BUNCHIN_000_093","嗯，看來武盔獲得了很棒的緣分啊——"
-138,"TEXT_BANKJN006_02978_KABUTO_000_094","鄙人曾憧憬著 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+138,"TEXT_BANKJN006_02978_KABUTO_000_094","鄙人曾憧憬著<Highlight>ObjectParameter(1)</Highlight>閣下，
 明明希望能共同行動，卻拚命壓抑了自己的心聲——
 心裡想要保護同伴，實則卻是疏遠了同伴——"
 139,"TEXT_BANKJN006_02978_KABUTO_000_095","不過，付喪把鄙人指引到了正途——
@@ -260,11 +260,11 @@ int32,str,str
 140,"TEXT_BANKJN006_02978_BUNCHIN_000_096","很好——這樣才能正視自己與同伴——
 違背自己的內心，如何能夠和他人結緣——？
 這正是你的付喪神要教給你的東西——"
-141,"TEXT_BANKJN006_02978_KABUTO_000_097"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下、尋寶眾……
+141,"TEXT_BANKJN006_02978_KABUTO_000_097","<Highlight>ObjectParameter(1)</Highlight>閣下、尋寶眾……
 鄙人身邊的一切，都是付喪給鄙人的饋贈——"
 142,"TEXT_BANKJN006_02978_KABUTO_000_098","所以，鄙人今後要將它們全都保護好，
 並繼續獲得更多緣分與寶物——！"
 143,"TEXT_BANKJN006_02978_SYSTEM_000_100","與甲人族「碧玉尋寶眾」之間的關係程度到達了「血誓」，
-冒險者的活躍表現，鞏固了與他們之間的羈絆！"
+冒險者的活躍表現，加固了與他們之間的羈絆！"
 144,"TEXT_BANKJN006_02978_SYSTEM_000_101","今後，甲人族「碧玉尋寶眾」的友好部族日常任務中
 可獲得的經驗值加成大幅增加了。"

@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001","現在正在舉辦九宮幻卡大賽——<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>！
 特等獎是<Sheet(Item,IntegerParameter(1),0)/>喲！"
 1,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_002","我是九宮幻卡大賽的接待員。
-客人您好像還不瞭解對局的規則吧？"
+客人您好像還不了解對局的規則吧？"
 2,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_003","在參加大賽前，請先去找那邊的幻卡大師。
 她會為您詳細講解九宮幻卡的知識。"
 3,"TEXT_CMNGSCTRIPLETRIADCUP_00247_Q1_000_001","要做什麼？"
@@ -31,7 +31,7 @@ int32,str,str
 18,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_005","並且，在大賽結束前15分鐘（地球時間），
 會被強制退出到金碟遊樂場，敬請注意。"
 19,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_003","大賽結束一週後（地球時間），下次大賽將會開啟，
-上次大賽的獎品也會同時結束發放。
+上次大賽的獎品也會同時結束髮放。
 請記得大賽結束後找大賽接待員領取獎品。"
 20,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_020_001","<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>當前的排名如下。"
 21,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_020_002","金碟遊樂場的幻卡廣場設定有排行榜，
@@ -49,7 +49,7 @@ int32,str,str
 29,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_005","外加與積分相應的金碟幣作為額外獎勵。"
 30,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_006","同時您還會得到一份與您積分相應的<Sheet(Item,IntegerParameter(1),0)/>。"
 31,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_001","金碟遊樂場備受歡迎的競技項目「九宮幻卡大賽」就是在這裡舉辦！"
-32,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_002","參加大賽的冒險者們可以透過排位戰的方式來贏取積分。"
+32,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_002","參加大賽的冒險者們可以通過排位戰的方式來贏取積分。"
 33,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_003","除了冒險者之外，
 幻卡對局室裡很多對自己實力有自信的人也會參賽。"
 34,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_004","另外，在大賽對局中，對局規則將會固定為大賽的專用規則。
@@ -57,7 +57,7 @@ int32,str,str
 35,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_005","參加大賽對局可以獲得積分。
 取得對局的勝利能夠獲得較多的積分。"
 36,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_006","每次大賽能夠進行排位戰的次數有限，
-請爭取在有限次數中獲得更多的積分！"
+請爭取在有限次數中獲取更多的積分！"
 37,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_007","想在大賽中確認自己當前的排名時，
 <If(Equal(IntegerParameter(1),0))>請來找我諮詢或查看我身邊的排行榜。<Else/>請到金碟遊樂場的幻卡廣場查看排行榜。</If>"
 38,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_008","大賽結束後，會根據您獲得的積分決定排名。"

@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CLSEXC250_00318_SEQ_00","斧術師公會的會長威爾恩茲恩從上次的失敗中吸取了教訓，想讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 進行針對性的特訓。"
-1,"TEXT_CLSEXC250_00318_SEQ_01","威爾恩茲恩說以現在的戰鬥力是無法打倒庫加塔的，因此他決定讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 進行特訓。先去和俾斯麥餐廳的索爾克維布談談。"
+0,"TEXT_CLSEXC250_00318_SEQ_00","斧術師公會的會長威爾恩茲恩從上次的失敗中吸取了教訓，想讓<Highlight>ObjectParameter(1)</Highlight>進行針對性的特訓。"
+1,"TEXT_CLSEXC250_00318_SEQ_01","威爾恩茲恩說以現在的戰鬥力是無法打倒庫加塔的，因此他決定讓<Highlight>ObjectParameter(1)</Highlight>進行特訓。先去和俾斯麥餐廳的索爾克維布談談。"
 2,"TEXT_CLSEXC250_00318_SEQ_02","和索爾克維布交談後，得知她也要和冒險者一起去特訓。前往拉諾西亞低地砂鹽灘的特訓場地，和索爾克維布對話。"
 3,"TEXT_CLSEXC250_00318_SEQ_03","在砂鹽灘開始特訓後，被蒙面的神秘男子集團所襲擊。經過奮戰，冒險者一行成功擊退了敵襲。神秘集團失敗後好像就離開了砂鹽灘。將事情的概況向斧術師公會的威爾恩茲恩報告。"
 4,"TEXT_CLSEXC250_00318_SEQ_04","報告特訓的情況時，威爾恩茲恩對神秘集團的事情沒有詢問太多。但是他對冒險者的實力給予了認可，並認同冒險者作為公會的代表去和庫加塔決戰。為了迎接和庫加塔的決戰，繼續磨練本領。
@@ -59,9 +59,9 @@ int32,str,str
 50,"TEXT_CLSEXC250_00318_WYRNZOEN_000_4","我準備了新的試煉，為的就是讓你得到突破敵群的實力！
 詳細情況你可以去問索爾克維布。
 她應該就在俾斯麥餐廳。"
-51,"TEXT_CLSEXC250_00318_WYRNZOEN_000_5"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，一定要鍛鍊出能打倒庫加塔的實力啊！
+51,"TEXT_CLSEXC250_00318_WYRNZOEN_000_5","<Highlight>ObjectParameter(1)</Highlight>啊，一定要鍛鍊出能打倒庫加塔的實力啊！
 斧術師公會的榮耀也都擔在你雙肩上了！"
-52,"TEXT_CLSEXC250_00318_SOLKWYB_000_10","揹負著斧術師公會的榮耀嗎……
+52,"TEXT_CLSEXC250_00318_SOLKWYB_000_10","背負著斧術師公會的榮耀嗎……
 你還真是被賦予了重任啊。
 不過，我也覺得非你不可。"
 53,"TEXT_CLSEXC250_00318_SOLKWYB_000_11","不說別的，這也是為了給那個孩子報仇。
@@ -77,7 +77,7 @@ int32,str,str
 58,"TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_NO","否"
 59,"TEXT_CLSEXC250_00318_SOLKWYB_000_20","差不多都解決了。
 對於一個試煉來說，這是不是有點太簡單？"
-60,"TEXT_CLSEXC250_00318_WYRNZOEN_000_21","(-？？？？-)你就是 <Highlight>ObjectParameter(1)</Highlight> 吧？"
+60,"TEXT_CLSEXC250_00318_WYRNZOEN_000_21","(-？？？？-)你就是<Highlight>ObjectParameter(1)</Highlight>吧？"
 61,"TEXT_CLSEXC250_00318_SOLKWYB_000_22","是誰？！"
 62,"TEXT_CLSEXC250_00318_WYRNZOEN_000_23","(-？？？？-)事出有因，接下我們的挑戰吧！
 來一決勝負！"
@@ -85,20 +85,20 @@ int32,str,str
 64,"TEXT_CLSEXC250_00318_WYRNZOEN_000_70","呵，如此輕易地就打倒了這些傢伙……
 嘿嘿嘿……果然還是非我出場不可。"
 65,"TEXT_CLSEXC250_00318_WYRNZOEN_000_72","不想在我的大斧下喪命的話，
-就拿出你的全部實力吧， <Highlight>ObjectParameter(1)</Highlight> ！"
+就拿出你的全部實力吧，<Highlight>ObjectParameter(1)</Highlight>！"
 66,"TEXT_CLSEXC250_00318_WYRNZOEN_000_30","厲害……比我想像的還要厲害。
 唔，這樣的話……"
 67,"TEXT_CLSEXC250_00318_WYRNZOEN_000_32","弟兄們，撤退了！
 有沒有站不起來的？"
-68,"TEXT_CLSEXC250_00318_WYRNZOEN_000_33","真的很厲害， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-你一定可以……"
+68,"TEXT_CLSEXC250_00318_WYRNZOEN_000_33","真的很厲害，<Highlight>ObjectParameter(1)</Highlight>！
+你一定能行……"
 69,"TEXT_CLSEXC250_00318_SOLKWYB_000_40","唉，老哥那傢伙……
 該不會以為自己沒有暴露吧？
 該說他笨呢，還是說他什麼呢……"
 70,"TEXT_CLSEXC250_00318_SOLKWYB_000_41","不過老哥他絕不是出於惡意才這麼做的。
-他應該是想透過實戰來鍛鍊你，
+他應該是想通過實戰來鍛鍊你，
 你要理解他的這番心意哦。"
-71,"TEXT_CLSEXC250_00318_SOLKWYB_000_42","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們回斧術師公會吧。
+71,"TEXT_CLSEXC250_00318_SOLKWYB_000_42","好了，<Highlight>ObjectParameter(1)</Highlight>，我們回斧術師公會吧。
 回去後可要裝作一無所知哦，
 不然老哥的面子可要掛不住了。"
 72,"TEXT_CLSEXC250_00318_WYRNZOEN_000_50","嗯，情況我也聽說了。
@@ -119,7 +119,7 @@ int32,str,str
 81,"TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_12","不管了，我們才不打算認輸呢！"
 82,"TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_21","這些傢伙真難纏！"
 83,"TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_31","居然還有？到底有多少人啊？"
-84,"TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_41"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，要小心啊！
+84,"TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_41","<Highlight>ObjectParameter(1)</Highlight>，要小心啊！
 這可不是鬧著玩的！"
 85,"TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_42","讓我見識下你的力量吧！"
 86,"TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_51","你就只有這點程度嗎？

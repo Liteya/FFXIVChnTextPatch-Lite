@@ -65,9 +65,9 @@ int32,str,str
 55,"TEXT_AKTKZI012_04327_RESEARCHER04327_000_004","我想著至少要把他送我的東西拿到……
 如果你有時間的話，能替我去取一下嗎？"
 56,"TEXT_AKTKZI012_04327_RESEARCHER04327_000_005","幫大忙了。
-我也會儘快回來，
+我也會盡快回來，
 你取過來之後也回到這裡來吧。"
-57,"TEXT_AKTKZI012_04327_GLEANER04327_000_0010","你、你不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？！
+57,"TEXT_AKTKZI012_04327_GLEANER04327_000_0010","你、你不是<Highlight>ObjectParameter(1)</Highlight>嗎？！
 像你這樣的大人物怎麼會來找我？"
 58,"TEXT_AKTKZI012_04327_GLEANER04327_000_011","這樣啊，見不到母親了嗎？
 我還想跟她彙報說我有孩子了呢……"

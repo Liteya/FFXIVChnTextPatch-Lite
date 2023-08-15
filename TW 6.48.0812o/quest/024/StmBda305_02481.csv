@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDA305_02481_SEQ_21",""
 22,"TEXT_STMBDA305_02481_SEQ_22",""
 23,"TEXT_STMBDA305_02481_SEQ_23",""
-24,"TEXT_STMBDA305_02481_TODO_00","獲得<Sheet(EObj,2007911,0)/>"
+24,"TEXT_STMBDA305_02481_TODO_00","獲取<Sheet(EObj,2007911,0)/>"
 25,"TEXT_STMBDA305_02481_TODO_01","在<Sheet(EObj,2007912,0)/>使用<Sheet(EventItem,2002093,0)/> 討伐<Sheet(BNpcName,6722,0)/>"
 26,"TEXT_STMBDA305_02481_TODO_02","尋找一本正經的海盜"
 27,"TEXT_STMBDA305_02481_TODO_03","救助一本正經的海盜"
@@ -54,7 +54,7 @@ int32,str,str
 所以我想請你幫我個忙。"
 49,"TEXT_STMBDA305_02481_HIRASE_000_031","我想要拜託你去驅除<Sheet(BNpcName,6722,0)/>。
 只要我們稍不留神，那些傢伙就會把我們作為重要食材的魚給叼走。"
-50,"TEXT_STMBDA305_02481_HIRASE_000_032","而且那些傢伙相當凶猛……
+50,"TEXT_STMBDA305_02481_HIRASE_000_032","而且那些傢伙相當兇猛……
 要想消滅它們也特別費事，你要是能幫把手那就再好不過了。
 你可以用這魚當誘餌，把它們吸引過來。"
 51,"TEXT_STMBDA305_02481_HIRASE_000_033","你先驅除掉幾隻，然後去東邊的海灘
@@ -75,9 +75,9 @@ int32,str,str
 58,"TEXT_STMBDA305_02481_PIRATE02481_000_053","可惡，那個女人難道想要將多瑪人斬盡殺絕嗎！
 我回去跟頭兒報告一下。
 非常感謝你救了我！"
-59,"TEXT_STMBDA305_02481_LYSE_000_060","啊，你那邊也結束了嗎？
+59,"TEXT_STMBDA305_02481_LYSE_000_060","啊，你那邊也完事了嗎？
 ……咦，你怎麼一臉嚴肅，發生什麼事了嗎？"
-60,"TEXT_STMBDA305_02481_ALISAIE_000_070","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+60,"TEXT_STMBDA305_02481_ALISAIE_000_070","啊，<Highlight>ObjectParameter(1)</Highlight>。
 你那邊怎麼樣？"
 61,"TEXT_STMBDA305_02481_ALISAIE_000_071","我討伐了橫衝直撞的海獸。
 莉瑟華麗地把上來挑事的海賊眾大力士給打飛了。"

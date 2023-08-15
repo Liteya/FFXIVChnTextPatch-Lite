@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_000","歡迎來到利姆薩．羅敏薩的捕魚人公會網倉！"
-1,"TEXT_REGSEAFSHGUILD_00088_Q1_000_001","想瞭解什麼？"
+0,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_000","歡迎來到利姆薩·羅敏薩的捕魚人公會網倉！"
+1,"TEXT_REGSEAFSHGUILD_00088_Q1_000_001","想了解什麼？"
 2,"TEXT_REGSEAFSHGUILD_00088_A1_000_001","你是做什麼的？"
 3,"TEXT_REGSEAFSHGUILD_00088_A1_000_002","什麼是「捕魚」？"
 4,"TEXT_REGSEAFSHGUILD_00088_A1_000_003","取消"
@@ -45,7 +45,7 @@ int32,str,str
 19,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_080","經過海流星那件事之後，簡直就像點燃了老大的釣魚熱情一樣。
 他開始積極去各地釣魚了。
 雖然是翹了公會的工作去的……"
-20,"TEXT_REGSEAFSHGUILD_00088_Q2_000_001","想瞭解什麼？"
+20,"TEXT_REGSEAFSHGUILD_00088_Q2_000_001","想了解什麼？"
 21,"TEXT_REGSEAFSHGUILD_00088_A2_000_001","最近怎麼樣？"
 22,"TEXT_REGSEAFSHGUILD_00088_A2_000_002","什麼是「捕魚」？"
 23,"TEXT_REGSEAFSHGUILD_00088_A2_000_003","取消"
@@ -65,8 +65,8 @@ int32,str,str
 盤算著把棘手的捕魚工作丟給你去做！
 真是個讓人沒轍的會長！"
 30,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_130","在這近海區域已經沒有捕魚人不知道你的大名了。
-大家都在底下說你總有一天能釣上來艾奧傑亞全域所有種類的魚！"
-31,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_131","似乎老大這次也在暗自期待著你會有怎樣的成果！
+大家都在底下說你總有一天能釣上來艾歐澤亞全域所有種類的魚！"
+31,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_131","貌似老大這次也在暗自期待著你會有怎樣的成果！
 要是有什麼有趣的體驗，可務必要跟我說呀！"
 32,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_140","我向老大報告了你在各地秘境垂釣的事情。
 雖然他裝出一副滿不在乎的樣子……
@@ -84,9 +84,9 @@ int32,str,str
 但重要的是我們活在現在。"
 37,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_152","我能這麼想，也是多虧了公會的大家……和老大……
 不過這種話我才不會對他說呢！"
-38,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_160"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，聽我說！
+38,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_160","<Highlight>ObjectParameter(1)</Highlight>，聽我說！
 如今外面的形勢和天空的樣子都很奇怪……所以我就
-提醒瓦瓦拉哥老大儘量不要去遠洋打漁，結果你猜他怎麼說？"
+提醒瓦瓦拉哥老大盡量不要去遠洋打漁，結果你猜他怎麼說？"
 39,"TEXT_REGSEAFSHGUILD_00088_SISIPU_000_161","他說「越是這種時候越要保持平常的節奏」！
 好在他現在沒出什麼事……
 他怎麼就這麼不懂得聽人勸呢！"

@@ -3,14 +3,14 @@
 int32,str,str
 0,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_000","你是幹什麼的？
 我正在對上空進行監視，有什麼事趕緊說。"
-1,"TEXT_REGROC2CONVICTORY_00282_Q1_000_000","想瞭解什麼？"
+1,"TEXT_REGROC2CONVICTORY_00282_Q1_000_000","想了解什麼？"
 2,"TEXT_REGROC2CONVICTORY_00282_A1_000_001","你是做什麼的？"
 3,"TEXT_REGROC2CONVICTORY_00282_A1_000_002","這裡是什麼地方？"
 4,"TEXT_REGROC2CONVICTORY_00282_A1_000_003","取消"
 5,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_010","我是隸屬於聖菲內雅連隊的騎兵。
 我的工作就是找出龍族，然後消滅它們……
 雖然話是這麼說，但一直都沒有機會。"
-6,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_011","在伊修加爾德，討伐龍族、建立功勳是飛黃騰達的捷徑。
+6,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_011","在伊修加德，討伐龍族、建立功勳是飛黃騰達的捷徑。
 如果能斬下一頭大傢伙，那麼成為貴族也不是不可能。"
 7,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_012","但是，很少有人能成功……
 進入墳墓的傢伙要遠遠比獲得爵位和封地的人多。
@@ -35,7 +35,7 @@ int32,str,str
 那我們就會留在這裡，繼續工作。"
 14,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_020","這裡是聖菲內雅連隊露營地。
 雖說是連隊，但其實並不是隸屬教皇廳的正規部隊。
-確切地說，是集合了初階貴族和平民的雜牌軍。"
+確切地說，是集合了下級貴族和平民的雜牌軍。"
 15,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_021","有無法繼承家業的貴族子弟和被這些人僱傭的平民，
 還有一些無業遊民和想要孤注一擲的賭徒，
 大家都是為了狩獵龍族而聚在一起的。"
@@ -44,7 +44,7 @@ int32,str,str
 最後因立下功績而被奉為聖女。"
 17,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_110","這裡是聖菲內雅連隊露營地。
 雖說是連隊，但其實並不是隸屬教皇廳的正規部隊。
-確切地說，是集合了初階貴族和平民的雜牌軍。"
+確切地說，是集合了下級貴族和平民的雜牌軍。"
 18,"TEXT_REGROC2CONVICTORY_00282_CONVICTORYGUIDE_000_111","有無法繼承家業的貴族子弟和被這些人僱傭的平民，
 還有一些無業遊民和想要孤注一擲的賭徒，
 大家都是為了狩獵對人類有害的龍族而聚在一起的。"

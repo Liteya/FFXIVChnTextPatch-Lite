@@ -1,19 +1,19 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBRDM560_02580_SEQ_00","小麥酒港的西．如恩．提亞正在思索艾莉亞的身份。"
-1,"TEXT_JOBRDM560_02580_SEQ_01","西．如恩前去調查艾莉亞的身份了。和西拉諾西亞小麥酒港旅館的艾莉亞談談，帶她去外面走走。"
+0,"TEXT_JOBRDM560_02580_SEQ_00","小麥酒港的西·如恩·提亞正在思索艾莉亞的身份。"
+1,"TEXT_JOBRDM560_02580_SEQ_01","西·如恩前去調查艾莉亞的身份了。和西拉諾西亞小麥酒港旅館的艾莉亞談談，帶她去外面走走。"
 2,"TEXT_JOBRDM560_02580_SEQ_02","艾莉亞的記憶還沒有恢復。和前往了小麥酒港要塞的艾莉亞談談。"
-3,"TEXT_JOBRDM560_02580_SEQ_03","艾莉亞似乎恢復了一些關於過去的悲傷記憶。返回小麥酒港的旅館，和西．如恩．提亞會合。"
-4,"TEXT_JOBRDM560_02580_SEQ_04","暗殺團的船很有可能去了西拉諾西亞的幻影群島。那裡應該有暗殺團的下一個會合地點。做好戰鬥的準備，前往幻影群島的碼頭，再次和西．如恩．提亞會合。
+3,"TEXT_JOBRDM560_02580_SEQ_03","艾莉亞似乎恢復了一些關於過去的悲傷記憶。返回小麥酒港的旅館，和西·如恩·提亞匯合。"
+4,"TEXT_JOBRDM560_02580_SEQ_04","暗殺團的船很有可能去了西拉諾西亞的幻影群島。那裡應該有暗殺團的下一個匯合地點。做好戰鬥的準備，前往幻影群島的碼頭，再次和西·如恩·提亞匯合。
 
-※完成「新生艾奧傑亞主線任務」中「才、才不怕鬼！」後，即可前往幻影群島。"
-5,"TEXT_JOBRDM560_02580_SEQ_05","前往幻影群島後，遇到了暗殺團。在西拉諾西亞幻影群島的船舶墓場和西．如恩．提亞談談。"
-6,"TEXT_JOBRDM560_02580_SEQ_06","和暗殺團的首領蘭巴德狹路相逢。前往西拉諾西亞小麥酒港碼頭，和西．如恩．提亞會合。"
-7,"TEXT_JOBRDM560_02580_SEQ_07","西．如恩想要獨自對抗二十年前背叛了赤紅疾風並使其慘遭毀滅的蘭巴德。前往西拉諾西亞小麥酒港，和陸行鳥欄附近的西．如恩．提亞談談，將自己的想法告訴他。"
-8,"TEXT_JOBRDM560_02580_SEQ_08","將自己打算繼續與西．如恩旅行的決心傳達給了西．如恩。他把同樣決定同行的艾莉亞收為了新的赤魔法師——也就是冒險者的師妹。只要三人齊心協力，定能戰勝宿敵蘭巴德。
+※完成「重生之境主線任務」中「才、才不怕鬼！」後，即可前往幻影群島。"
+5,"TEXT_JOBRDM560_02580_SEQ_05","前往幻影群島後，遇到了暗殺團。在西拉諾西亞幻影群島的船舶墓場和西·如恩·提亞談談。"
+6,"TEXT_JOBRDM560_02580_SEQ_06","和暗殺團的首領蘭巴德狹路相逢。前往西拉諾西亞小麥酒港碼頭，和西·如恩·提亞匯合。"
+7,"TEXT_JOBRDM560_02580_SEQ_07","西·如恩想要獨自對抗二十年前背叛了赤紅疾風並使其慘遭毀滅的蘭巴德。前往西拉諾西亞小麥酒港，和陸行鳥欄附近的西·如恩·提亞談談，將自己的想法告訴他。"
+8,"TEXT_JOBRDM560_02580_SEQ_08","將自己打算繼續與西·如恩旅行的決心傳達給了西·如恩。他把同樣決定同行的艾莉亞收為了新的赤魔法師——也就是冒險者的師妹。只要三人齊心協力，定能戰勝宿敵蘭巴德。
 
-※赤魔法師的等級達到58級以上時，可以從小麥酒港的西．如恩．提亞那裡領取下一個赤魔法師任務。"
+※赤魔法師的等級達到58級以上時，可以從小麥酒港的西·如恩·提亞那裡領取下一個赤魔法師任務。"
 9,"TEXT_JOBRDM560_02580_SEQ_09",""
 10,"TEXT_JOBRDM560_02580_SEQ_10",""
 11,"TEXT_JOBRDM560_02580_SEQ_11",""
@@ -31,11 +31,11 @@ int32,str,str
 23,"TEXT_JOBRDM560_02580_SEQ_23",""
 24,"TEXT_JOBRDM560_02580_TODO_00","和艾莉亞對話"
 25,"TEXT_JOBRDM560_02580_TODO_01","再次和艾莉亞對話"
-26,"TEXT_JOBRDM560_02580_TODO_02","和西．如恩．提亞會合"
-27,"TEXT_JOBRDM560_02580_TODO_03","在幻影群島再次和西．如恩．提亞會合"
-28,"TEXT_JOBRDM560_02580_TODO_04","和西．如恩．提亞對話"
-29,"TEXT_JOBRDM560_02580_TODO_05","在小麥酒港和西．如恩．提亞會合"
-30,"TEXT_JOBRDM560_02580_TODO_06","和西．如恩．提亞對話"
+26,"TEXT_JOBRDM560_02580_TODO_02","和西·如恩·提亞匯合"
+27,"TEXT_JOBRDM560_02580_TODO_03","在幻影群島再次和西·如恩·提亞匯合"
+28,"TEXT_JOBRDM560_02580_TODO_04","和西·如恩·提亞對話"
+29,"TEXT_JOBRDM560_02580_TODO_05","在小麥酒港和西·如恩·提亞匯合"
+30,"TEXT_JOBRDM560_02580_TODO_06","和西·如恩·提亞對話"
 31,"TEXT_JOBRDM560_02580_TODO_07",""
 32,"TEXT_JOBRDM560_02580_TODO_08",""
 33,"TEXT_JOBRDM560_02580_TODO_09",""
@@ -55,7 +55,7 @@ int32,str,str
 47,"TEXT_JOBRDM560_02580_TODO_23",""
 48,"TEXT_JOBRDM560_02580_SYSTEM_000_000","艾莉亞睡得很安穩……"
 49,"TEXT_JOBRDM560_02580_XRHUNTIA_000_030","艾莉亞啊……她還沒恢復記憶。
-說實話，我真說不定她有沒有可能恢復成以前的樣子……
+說實話，我真說不準她有沒有可能恢復成以前的樣子……
 那夥人給她下的藥好像藥性很強。"
 50,"TEXT_JOBRDM560_02580_XRHUNTIA_000_031","不過，也有很多失憶的人因為某些契機就恢復記憶了。
 等她醒了之後，能麻煩你帶她出去轉轉嗎？
@@ -63,7 +63,7 @@ int32,str,str
 51,"TEXT_JOBRDM560_02580_XRHUNTIA_000_032","我希望……至少能弄清艾莉亞的身份，
 她的家人肯定也很擔心她。
 我再去找找黃衫隊那邊的門路吧。"
-52,"TEXT_JOBRDM560_02580_ARYA_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+52,"TEXT_JOBRDM560_02580_ARYA_000_060","<Highlight>ObjectParameter(1)</Highlight>！
 真的很感謝你救了我！"
 53,"TEXT_JOBRDM560_02580_ARYA_000_061","我飽飽地睡了一覺，現在非常精神！
 雖然……還是什麼也……沒想起來就是了。"
@@ -71,8 +71,8 @@ int32,str,str
 也是呢……
 去外面吹吹風，說不定能想起什麼來。"
 55,"TEXT_JOBRDM560_02580_ARYA_000_063","我想去要塞上面視野比較好的地方……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，希望你能陪我一起去！"
-56,"TEXT_JOBRDM560_02580_ARYA_000_090","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+<Highlight>ObjectParameter(1)</Highlight>，希望你能陪我一起去！"
+56,"TEXT_JOBRDM560_02580_ARYA_000_090","啊，<Highlight>ObjectParameter(1)</Highlight>！
 這裡的風景可真好啊！
 我最喜歡……這樣的風景、了……"
 57,"TEXT_JOBRDM560_02580_ARYA_000_091","……我真的是……第一次到這裡來嗎？
@@ -85,7 +85,7 @@ int32,str,str
 62,"TEXT_JOBRDM560_02580_ARYA_000_111","……你說得對！
 既然沒有，那就製造出來好了！
 我決定從現在開始，製造許許多多的回憶！"
-63,"TEXT_JOBRDM560_02580_ARYA_000_120","咦，難道 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也失憶了？
+63,"TEXT_JOBRDM560_02580_ARYA_000_120","咦，難道<Highlight>ObjectParameter(1)</Highlight>也失憶了？
 不對……你只是單純地在說自己健忘吧？！"
 64,"TEXT_JOBRDM560_02580_ARYA_000_121","謝謝你……你是想開個玩笑，寬慰我吧？
 如果今後能像這樣，製造許多開心的回憶，
@@ -116,15 +116,15 @@ int32,str,str
 75,"TEXT_JOBRDM560_02580_ARYA_000_154","但是我已經想起了幾件……重要的事。
 我們能先回旅館嗎？
 我想稍微整理一下思緒……"
-76,"TEXT_JOBRDM560_02580_ARYA_000_180","西．如恩先生好像剛才也回來了。
+76,"TEXT_JOBRDM560_02580_ARYA_000_180","西·如恩先生好像剛才也回來了。
 我現在就把自己想起來的事講給你們聽……"
-77,"TEXT_JOBRDM560_02580_XRHUNTIA_000_210","我從黃衫隊的記錄中瞭解到了艾莉亞的身份！
+77,"TEXT_JOBRDM560_02580_XRHUNTIA_000_210","我從黃衫隊的記錄中了解到了艾莉亞的身份！
 然後就急急忙忙地趕回來了……
 不過，看起來你自己已經想起來了啊。"
 78,"TEXT_JOBRDM560_02580_ARYA_000_240","我好像很小的時候就沒了父母，一直都是和叔叔兩個人生活的。
 我記得……叔叔是個很溫柔的人，
 經常給我講父母的事。"
-79,"TEXT_JOBRDM560_02580_XRHUNTIA_000_241","……聽說你們一直在利姆薩．羅敏薩
+79,"TEXT_JOBRDM560_02580_XRHUNTIA_000_241","……聽說你們一直在利姆薩·羅敏薩
 過著富足的生活。
 這次的事件就發生在你們叔侄一起旅行的途中。"
 80,"TEXT_JOBRDM560_02580_ARYA_000_242","是的……我們突然被人襲擊……
@@ -136,11 +136,11 @@ int32,str,str
 問題在於……今後要怎麼辦。"
 83,"TEXT_JOBRDM560_02580_XRHUNTIA_000_245","你現在既沒了親人，又失去了大部分記憶，
 讓你就這麼回城裡去，那我也太不近人情了。"
-84,"TEXT_JOBRDM560_02580_XRHUNTIA_000_246","不過，我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 現在……
+84,"TEXT_JOBRDM560_02580_XRHUNTIA_000_246","不過，我和<Highlight>ObjectParameter(1)</Highlight>現在……
 為了追查綁架你的那個暗殺團正到處奔波，
 如果帶著你的話，恐怕會把你捲進更危險的境地裡。"
 85,"TEXT_JOBRDM560_02580_ARYA_000_247","……請你們帶上我吧！"
-86,"TEXT_JOBRDM560_02580_ARYA_000_248","是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 讓我明白了，
+86,"TEXT_JOBRDM560_02580_ARYA_000_248","是<Highlight>ObjectParameter(1)</Highlight>讓我明白了，
 雖然我現在一無所有，
 可是只要今後製造許許多多的回憶就可以了……所以求求你們！"
 87,"TEXT_JOBRDM560_02580_XRHUNTIA_000_249","既然她都這麼說了……那好吧。
@@ -150,20 +150,20 @@ int32,str,str
 那艘載著暗殺團的商船逃掉了，
 我們也不知道他們去了哪……"
 89,"TEXT_JOBRDM560_02580_ARYA_000_251","……「幻影群島」。"
-90,"TEXT_JOBRDM560_02580_ARYA_000_252","我記得我好像聽過「幻影群島……首領……會合……」這樣的詞！
+90,"TEXT_JOBRDM560_02580_ARYA_000_252","我記得我好像聽過「幻影群島……首領……匯合……」這樣的詞！
 不過是在我被他們抓去，馬上就要失去意識的時候……"
 91,"TEXT_JOBRDM560_02580_XRHUNTIA_000_253","他們雖然沉默寡言，但還是做了最基本的交流嗎……
 也就是說，下一個目的地是幻影群島了。"
-92,"TEXT_JOBRDM560_02580_XRHUNTIA_000_254","好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-我們就去幻影群島尋找暗殺團的會合地點吧。
+92,"TEXT_JOBRDM560_02580_XRHUNTIA_000_254","好，<Highlight>ObjectParameter(1)</Highlight>！
+我們就去幻影群島尋找暗殺團的匯合地點吧。
 艾莉亞……你要是想跟著我們，可千萬別怕吃苦啊！"
-93,"TEXT_JOBRDM560_02580_SYSTEM_000_255","完成「新生艾奧傑亞主線任務」中「才、才不怕鬼！」後，
+93,"TEXT_JOBRDM560_02580_SYSTEM_000_255","完成「重生之境主線任務」中「才、才不怕鬼！」後，
 即可前往幻影群島。"
 94,"TEXT_JOBRDM560_02580_ARYA_000_260","為了能夠自保，
-我向西．如恩先生借了武器……
+我向西·如恩先生借了武器……
 不、不過，那是什麼啊……那個像鬼火一樣的光……"
 95,"TEXT_JOBRDM560_02580_XRHUNTIA_000_270","據黑渦團說，有很多可疑的傢伙接二連三地來到這裡。
-看來他們要與首領會合的事恐怕是真的。
+看來他們要與首領匯合的事恐怕是真的。
 為了讓艾莉亞自保，我給了她一把武器……"
 96,"TEXT_JOBRDM560_02580_ARYA_000_271","我……我、我會加油的！"
 97,"TEXT_JOBRDM560_02580_XRHUNTIA_000_272","……喂，這聲音抖得厲害啊。
@@ -178,10 +178,10 @@ int32,str,str
 102,"TEXT_JOBRDM560_02580_ARYA_000_277","我、我要跟著你們！"
 103,"TEXT_JOBRDM560_02580_QIB_001_TODO_01","尋找暗殺團的集合地點！"
 104,"TEXT_JOBRDM560_02580_QIB_001_TODO_02","打倒死靈！"
-105,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_01","暗殺團應該會在某個地方會合！
+105,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_01","暗殺團應該會在某個地方匯合！
 我們一定要把他們找出來！"
 106,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_02","死了的傢伙就給我滾遠一點！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、艾莉亞……我們走！"
+<Highlight>ObjectParameter(1)</Highlight>、艾莉亞……我們走！"
 107,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_08","這群可惡的殭屍，看上去好像非常亢奮啊……
 是有人在操縱它們吧？"
 108,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_03","找到那個該死的暗殺團了！
@@ -193,24 +193,24 @@ int32,str,str
 111,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_04","嘖……又是捨命的降靈術嗎！
 這裡危險，艾莉亞退後！"
 112,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_05","嗚……一個人承受這攻擊有點辛苦啊！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，別離我太遠！"
+<Highlight>ObjectParameter(1)</Highlight>，別離我太遠！"
 113,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_06","它正在從影元精的身上吸取力量嗎！
 我來引開這個大傢伙的注意！你去打倒影元精！"
-114,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_07","幹得漂亮！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+114,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_07","幹得漂亮！<Highlight>ObjectParameter(1)</Highlight>！
 乘勝追擊！"
 115,"TEXT_JOBRDM560_02580_QIB_XRHUNTIA_BATTLETALK_DEAD","居然……在這種地方……"
-116,"TEXT_JOBRDM560_02580_ARYA_000_280"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和西．如恩先生的配合
+116,"TEXT_JOBRDM560_02580_ARYA_000_280","<Highlight>ObjectParameter(1)</Highlight>和西·如恩先生的配合
 真是天衣無縫！
 要是我也會用魔法就好了……"
-117,"TEXT_JOBRDM560_02580_XRHUNTIA_000_290","如果這附近就是他們的會合地點的話，就說明……
+117,"TEXT_JOBRDM560_02580_XRHUNTIA_000_290","如果這附近就是他們的匯合地點的話，就說明……
 率領他們的老大——暗殺團的首領就在附近。
 我們分頭去找吧！"
 118,"TEXT_JOBRDM560_02580_LAMBARD_000_300","(-？？？？-)……我很滿意。"
 119,"TEXT_JOBRDM560_02580_LAMBARD_000_301","(-？？？？-)你那遠遠超出了「人類」範圍的能力，
 就獻給我吧……"
-120,"TEXT_JOBRDM560_02580_XRHUNTIA_000_302"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒事吧！"
+120,"TEXT_JOBRDM560_02580_XRHUNTIA_000_302","<Highlight>ObjectParameter(1)</Highlight>，你沒事吧！"
 121,"TEXT_JOBRDM560_02580_XRHUNTIA_000_303","你是……蘭巴德？！"
-122,"TEXT_JOBRDM560_02580_LAMBARD_000_304","好久不見了，西．如恩。
+122,"TEXT_JOBRDM560_02580_LAMBARD_000_304","好久不見了，西·如恩。
 我們最後一次見面，還是二十年前吧？"
 123,"TEXT_JOBRDM560_02580_XRHUNTIA_000_305","他叫蘭巴德。
 曾經是和我共同為故鄉奮戰的同志……"
@@ -220,7 +220,7 @@ int32,str,str
 126,"TEXT_JOBRDM560_02580_LAMBARD_110_306","不，
 你這個最後的成員……"
 127,"TEXT_JOBRDM560_02580_LAMBARD_000_307","如今也要死在這裡！"
-128,"TEXT_JOBRDM560_02580_ARYA_000_308","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+128,"TEXT_JOBRDM560_02580_ARYA_000_308","……<Highlight>ObjectParameter(1)</Highlight>！"
 129,"TEXT_JOBRDM560_02580_LAMBARD_000_309","哼，雜兵變多了啊。
 真是掃興……我們下次再見吧。"
 130,"TEXT_JOBRDM560_02580_XRHUNTIA_000_310","蘭巴德！"
@@ -237,7 +237,7 @@ int32,str,str
 137,"TEXT_JOBRDM560_02580_XRHUNTIA_000_336","我們這次光是把敵人的首領揪出來就已經是很大的收穫了，
 接下來……
 就回小麥酒港去吧！"
-138,"TEXT_JOBRDM560_02580_ARYA_000_360","西．如恩先生好像有重要的事要講，
+138,"TEXT_JOBRDM560_02580_ARYA_000_360","西·如恩先生好像有重要的事要講，
 應該和……剛才那個叫蘭巴德的人有關吧？"
 139,"TEXT_JOBRDM560_02580_XRHUNTIA_000_420","……我來給你們講講往事吧。
 是關於，我們在幻影群島見到的那個叫蘭巴德的男人
@@ -253,26 +253,26 @@ int32,str,str
 143,"TEXT_JOBRDM560_02580_XRHUNTIA_000_424","沒想到他如今再次出現在我面前。
 既然他就是幕後主使……那這場戰鬥就是我自己的私鬥。
 我不想連累你們。"
-144,"TEXT_JOBRDM560_02580_XRHUNTIA_000_425","不要緊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+144,"TEXT_JOBRDM560_02580_XRHUNTIA_000_425","不要緊，<Highlight>ObjectParameter(1)</Highlight>，
 現在的你就算沒有師父也一樣可以當一名優秀的赤魔法師。"
 145,"TEXT_JOBRDM560_02580_XRHUNTIA_000_426","至於艾莉亞……我會事先幫你找好去處。
 我可不是什麼冷血無情的人，不會丟下你不管的！"
 146,"TEXT_JOBRDM560_02580_XRHUNTIA_000_427","就到這裡吧，這段時間跟你們相處得很愉快！
 ……有緣再會了。"
-147,"TEXT_JOBRDM560_02580_ARYA_000_428","真的就讓西．如恩先生自己一個人去嗎？
+147,"TEXT_JOBRDM560_02580_ARYA_000_428","真的就讓西·如恩先生自己一個人去嗎？
 我都還沒有報答他的救命之恩……"
 148,"TEXT_JOBRDM560_02580_ARYA_000_450","怎麼辦……
-真的就讓西．如恩先生自己一個人去嗎？"
+真的就讓西·如恩先生自己一個人去嗎？"
 149,"TEXT_JOBRDM560_02580_XRHUNTIA_000_480","怎麼了？
 你現在應該不用找我了吧。"
 150,"TEXT_JOBRDM560_02580_Q3_000_481","如何作答？"
 151,"TEXT_JOBRDM560_02580_A3_100_481","我跟你一起去"
 152,"TEXT_JOBRDM560_02580_A3_200_481","我還想請你繼續教我"
 153,"TEXT_JOBRDM560_02580_XRHUNTIA_000_481","喂喂，我不是說了這是我的私鬥嗎？
-我要親手給我和蘭巴德之間的因緣畫上句號。"
+我要親手給我和蘭巴德之間的因緣劃上句號。"
 154,"TEXT_JOBRDM560_02580_XRHUNTIA_100_481","唉……
 也是，你這個人就算看到路邊有小姑娘在哭，
-都沒辦法放著不管。"
+都沒法放著不管。"
 155,"TEXT_JOBRDM560_02580_XRHUNTIA_200_481","你現在已經不用我教什麼了，自己一個人就可以茁壯成長。
 ……這一點你很清楚吧？"
 156,"TEXT_JOBRDM560_02580_XRHUNTIA_210_481","唉……
@@ -285,8 +285,8 @@ int32,str,str
 就讓你見識一下何為赤魔法師的精髓吧。"
 159,"TEXT_JOBRDM560_02580_XRHUNTIA_310_481","現在的你與其說是我的徒弟，倒不如說是我可靠的搭檔。
 我今後可要比以前更依賴你了！"
-160,"TEXT_JOBRDM560_02580_ARYA_000_482","西．如恩先生……我也要跟你們一起去！"
-161,"TEXT_JOBRDM560_02580_ARYA_000_483"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 救了我，
+160,"TEXT_JOBRDM560_02580_ARYA_000_482","西·如恩先生……我也要跟你們一起去！"
+161,"TEXT_JOBRDM560_02580_ARYA_000_483","<Highlight>ObjectParameter(1)</Highlight>救了我，
 我希望能為你們出一份力。
 所以，那個……請你也教我魔法吧！"
 162,"TEXT_JOBRDM560_02580_ARYA_000_484","我沒有能力保護自己……所以總要被大家保護。
@@ -294,14 +294,14 @@ int32,str,str
 我不想總是被幫助，我也想幫助別人！"
 163,"TEXT_JOBRDM560_02580_XRHUNTIA_000_485","看你那個時候釋放出來的火焰……你的確有學魔法的天分。
 恐怕正因為如此，他們才會盯上你吧。"
-164,"TEXT_JOBRDM560_02580_XRHUNTIA_000_486"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 將你從這樣的命運中拯救了出來，
+164,"TEXT_JOBRDM560_02580_XRHUNTIA_000_486","<Highlight>ObjectParameter(1)</Highlight>將你從這樣的命運中拯救了出來，
 你為了反抗宿命，改變未來，
 所以想要學習魔法……"
 165,"TEXT_JOBRDM560_02580_XRHUNTIA_000_487","好，艾莉亞。
 那我就把赤魔法師之證交給你了。"
 166,"TEXT_JOBRDM560_02580_XRHUNTIA_100_487","今後我要教你的不是普通的魔法，
 而是連無法逃避的命運都可以抵抗的力量。"
-167,"TEXT_JOBRDM560_02580_ARYA_000_488"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、西．如恩先生！"
+167,"TEXT_JOBRDM560_02580_ARYA_000_488","<Highlight>ObjectParameter(1)</Highlight>、西·如恩先生！"
 168,"TEXT_JOBRDM560_02580_XRHUNTIA_000_489","你叫錯了，
 從現在開始，你應該叫「前輩」和「師父」才對！"
 169,"TEXT_JOBRDM560_02580_XRHUNTIA_000_490","這是你師妹……你可別嫌她麻煩，要好好疼愛她哦。"

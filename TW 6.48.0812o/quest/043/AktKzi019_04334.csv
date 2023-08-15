@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_AKTKZI019_04334_SEQ_21",""
 22,"TEXT_AKTKZI019_04334_SEQ_22",""
 23,"TEXT_AKTKZI019_04334_SEQ_23",""
-24,"TEXT_AKTKZI019_04334_TODO_00","從<Sheet(BNpcName,10696,0)/>身上獲得<Sheet(EventItem,2003322,0)/>"
+24,"TEXT_AKTKZI019_04334_TODO_00","從<Sheet(BNpcName,10696,0)/>身上獲取<Sheet(EventItem,2003322,0)/>"
 25,"TEXT_AKTKZI019_04334_TODO_01","將<Sheet(EventItem,2003322,0)/>交給瑪芙尼"
 26,"TEXT_AKTKZI019_04334_TODO_02",""
 27,"TEXT_AKTKZI019_04334_TODO_03",""
@@ -51,15 +51,15 @@ int32,str,str
 46,"TEXT_AKTKZI019_04334_TODO_22",""
 47,"TEXT_AKTKZI019_04334_TODO_23",""
 48,"TEXT_AKTKZI019_04334_MARVENE_000_000","哦哦……你是冒險者吧。
-討伐魔物，獲得報酬，
+討伐魔物，獲取報酬，
 就像拾穗人一樣對吧？"
 49,"TEXT_AKTKZI019_04334_MARVENE_000_001","我會給你報酬的，
 能幫忙拿來<Sheet(EventItem,2003322,0)/>嗎？"
 50,"TEXT_AKTKZI019_04334_MARVENE_000_002","<Sheet(EventItem,2003322,0)/>可以從東南方的
-冰之巨人一樣的<Sheet(BNpcName,10696,0)/>身上獲得。
+冰之巨人一樣的<Sheet(BNpcName,10696,0)/>身上獲取。
 一共需要2個，那就拜託了……"
 51,"TEXT_AKTKZI019_04334_MARVENE_000_003","打倒東南方的冰之巨人一樣的<Sheet(BNpcName,10696,0)/>，
-獲得2個<Sheet(EventItem,2003322,0)/>。
+獲取2個<Sheet(EventItem,2003322,0)/>。
 作為交換，我會給你報酬的。"
 52,"TEXT_AKTKZI019_04334_MARVENE_000_010","哦哦，是你啊。
 拿到<Sheet(EventItem,2003322,0)/>了嗎？"

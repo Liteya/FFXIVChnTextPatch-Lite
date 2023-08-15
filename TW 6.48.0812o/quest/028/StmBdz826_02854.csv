@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ826_02854_SEQ_21",""
 22,"TEXT_STMBDZ826_02854_SEQ_22",""
 23,"TEXT_STMBDZ826_02854_SEQ_23",""
-24,"TEXT_STMBDZ826_02854_TODO_00","從<Sheet(BNpcName,5712,0)/>身上獲得<Sheet(EventItem,2002354,0)/>"
+24,"TEXT_STMBDZ826_02854_TODO_00","從<Sheet(BNpcName,5712,0)/>身上獲取<Sheet(EventItem,2002354,0)/>"
 25,"TEXT_STMBDZ826_02854_TODO_01","將<Sheet(EventItem,2002354,0)/>交給格達福瑞"
 26,"TEXT_STMBDZ826_02854_TODO_02",""
 27,"TEXT_STMBDZ826_02854_TODO_03",""
@@ -57,7 +57,7 @@ int32,str,str
 50,"TEXT_STMBDZ826_02854_GODAFRE_000_002","不過，要是小瞧它們的話會吃苦頭的。
 它們的腳力非常強，一般人要是隨便靠近的話，
 很可能會一腳就踹到那個世界……"
-51,"TEXT_STMBDZ826_02854_GODAFRE_000_003","我一定是不行，不過強壯的你應該能抗住吧？
+51,"TEXT_STMBDZ826_02854_GODAFRE_000_003","我肯定是不行，不過強壯的你應該能抗住吧？
 我希望你去打倒<Sheet(BNpcName,5712,0)/>，
 從它們身上取回3張<Sheet(EventItem,2002354,0)/>。"
 52,"TEXT_STMBDZ826_02854_GODAFRE_000_010","我希望你去打倒西邊的<Sheet(BNpcName,5712,0)/>，
@@ -66,7 +66,7 @@ int32,str,str
 怎麼樣，拿到<Sheet(EventItem,2002354,0)/>了嗎？"
 54,"TEXT_STMBDZ826_02854_GODAFRE_000_021","真是一些品質優良的皮啊。
 好好處理一下，
-就能拿來為解放軍製作防具了。"
+就能拿來為解放軍制作防具了。"
 55,"TEXT_STMBDZ826_02854_GODAFRE_000_022","我曾經在帝國軍的兵器工廠幹過活，
 當時用一些人工纖維給他們製作軍裝，
 現在我要為同胞們使用這項技術了！"

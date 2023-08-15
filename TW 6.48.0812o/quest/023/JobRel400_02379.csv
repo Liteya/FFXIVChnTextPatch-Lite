@@ -7,9 +7,9 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 為了令人造元靈繼續成長，阿爾達希爾委託冒險者去取<Sheet(EventItem,2002022,0)/>。使用接受任務時的職業並將元靈武器裝備上或放在兵裝庫、背包中，前往田園郡拜訪接受了<Sheet(EventItem,2002022,0)/>製作委託的布朗普雷。"
-2,"TEXT_JOBREL400_02379_SEQ_02","布朗普雷表示<Sheet(EventItem,2002022,0)/>需要使用大量的<Sheet(Item,16064,0)/>才能製取。從田園郡的安費莉絲和安格萊特，或者羅薇娜綜合文化會館的希絲梅娜處獲得50個<Sheet(Item,16064,0)/>，使用接受任務時的職業並將元靈武器裝備上或放在兵裝庫、背包中，將50個<Sheet(Item,16064,0)/>交給布朗普雷。"
+2,"TEXT_JOBREL400_02379_SEQ_02","布朗普雷表示<Sheet(EventItem,2002022,0)/>需要使用大量的<Sheet(Item,16064,0)/>才能製取。從田園郡的安費莉絲和安格萊特，或者羅薇娜綜合文化會館的希絲梅娜處獲取50個<Sheet(Item,16064,0)/>，使用接受任務時的職業並將元靈武器裝備上或放在兵裝庫、背包中，將50個<Sheet(Item,16064,0)/>交給布朗普雷。"
 3,"TEXT_JOBREL400_02379_SEQ_03","將<Sheet(Item,16064,0)/>交給了布朗普雷，獲得了<Sheet(EventItem,2002022,0)/>和<Sheet(EventItem,2002026,0)/>。使用接受任務時的職業並將元靈武器裝備上或放在兵裝庫、背包中，將<Sheet(EventItem,2002022,0)/>和<Sheet(EventItem,2002026,0)/>交給阿濟茲拉螺旋港的阿爾達希爾。"
-4,"TEXT_JOBREL400_02379_SEQ_04","將<Sheet(EventItem,2002022,0)/>和<Sheet(EventItem,2002026,0)/>交給了阿爾達希爾。他提議為人造元靈製造新的魂石，並打算修好加工系統以便在今後的研究中使用。帶元靈武器．靈慧前往各地旅行，為下次研究做準備。
+4,"TEXT_JOBREL400_02379_SEQ_04","將<Sheet(EventItem,2002022,0)/>和<Sheet(EventItem,2002026,0)/>交給了阿爾達希爾。他提議為人造元靈製造新的魂石，並打算修好加工系統以便在今後的研究中使用。帶元靈武器·靈慧前往各地旅行，為下次研究做準備。
 
 ※在田園郡的烏蘭處可以對元靈武器的屬性進行重新調整。"
 5,"TEXT_JOBREL400_02379_SEQ_05",""
@@ -65,7 +65,7 @@ int32,str,str
 51,"TEXT_JOBREL400_02379_A2_000_000","創造<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器"
 52,"TEXT_JOBREL400_02379_SYSTEM_000_001","接受任務「人造元靈的未來」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 53,"TEXT_JOBREL400_02379_SYSTEM_000_002","請轉換為與所需元靈武器相應的特職，
 再次和阿爾達希爾對話。"
 54,"TEXT_JOBREL400_02379_SYSTEM_000_003","要接受任務「人造元靈的未來」，
@@ -97,7 +97,7 @@ int32,str,str
 人造元靈才勉強撐了下來。可你有沒有想過，
 如果我們就此放手，人造元靈會變成什麼樣？"
 64,"TEXT_JOBREL400_02379_GEROLT_000_007","人造元靈會因無法適應自己急速成長的靈魂而死去！
-一定要解決這一點，讓人造元靈脫離我們的調整後也能健康成長，
+必須要解決這一點，讓人造元靈脫離我們的調整後也能健康成長，
 這樣的研究才能算成功！"
 65,"TEXT_JOBREL400_02379_GEROLT_000_008","這種事不用我說你自己心裡也應該清楚呀！！
 好歹是個搞研究的，怎麼就不能冷靜一點，
@@ -116,7 +116,7 @@ int32,str,str
 很適合給成長後的人造元靈使用。"
 70,"TEXT_JOBREL400_02379_ARDASHIR_000_013","不過，這種靈藥在調配方面存在一個問題。
 它的主要材料<Sheet(EventItem,2002022,0)/>太難製作了，
-一定要擁有高超的蒸餾技巧才能製取出來。"
+必須要擁有高超的蒸餾技巧才能製取出來。"
 71,"TEXT_JOBREL400_02379_ARDASHIR_000_014","做不到這點的我不得不找了一位專業蒸餾師代勞。
 那位蒸餾師名叫布朗普雷，人在田園郡。
 能請你去他那裡，將<Sheet(EventItem,2002022,0)/>取回來嗎？"
@@ -139,7 +139,7 @@ int32,str,str
 80,"TEXT_JOBREL400_02379_BLAMPREST_000_032","但想要將<Sheet(EventItem,2002022,0)/>這種乙太液蒸餾出來，
 需要有大量的乙太結晶「<Sheet(Item,16064,0)/>」才行。
 至少需要50個。"
-81,"TEXT_JOBREL400_02379_BLAMPREST_000_033","我雖然找了熟人幫忙啟用晶簇，
+81,"TEXT_JOBREL400_02379_BLAMPREST_000_033","我雖然找了熟人幫忙啟動晶簇，
 但找的那對魔法師姐妹實在太不好相與，
 硬是給我開出了十分令人頭疼的交換條件。"
 82,"TEXT_JOBREL400_02379_AMPHELICE_000_034","布朗普雷，你要的東西我們準備好了。
@@ -147,7 +147,7 @@ int32,str,str
 83,"TEXT_JOBREL400_02379_BLAMPREST_000_035","啊，你們來得正是時候。
 這位冒險者<If(PlayerParameter(4))>小姐<Else/>先生</If>也許會答應你們的條件。"
 84,"TEXT_JOBREL400_02379_BLAMPREST_000_036","冒險者<If(PlayerParameter(4))>小姐<Else/>先生</If>，她們就是那對魔法師姐妹。
-製取<Sheet(EventItem,2002022,0)/>一定要用<Sheet(Item,16064,0)/>才行！
+製取<Sheet(EventItem,2002022,0)/>必須要用<Sheet(Item,16064,0)/>才行！
 你就從了她們的條件吧！"
 85,"TEXT_JOBREL400_02379_AMPHELICE_000_037","初次見面，我是安費莉絲。
 她是我妹妹安格萊特。"
@@ -164,13 +164,13 @@ int32,str,str
 這次你也是為了<Sheet(EventItem,2002022,0)/>而來？"
 90,"TEXT_JOBREL400_02379_AMPHELICE_000_051","看來又輪到我們出場了。"
 91,"TEXT_JOBREL400_02379_BLAMPREST_000_052","冒險者<If(PlayerParameter(4))>小姐<Else/>先生</If>，請你先從安費莉絲和安格萊特
-手中獲得<Sheet(Item,16064,0)/>吧。
+手中獲取<Sheet(Item,16064,0)/>吧。
 攢夠50個後我會為你製取<Sheet(EventItem,2002022,0)/>。"
 92,"TEXT_JOBREL400_02379_BLAMPREST_000_053","還有就是，我想你也知道了，
 羅薇娜商會的希絲梅娜小姐那裡也有<Sheet(Item,16064,0)/>。
 你也可以考慮從她那裡買。"
 93,"TEXT_JOBREL400_02379_SYSTEM_000_010","可以從安費莉絲和安格萊特處領取任務了。"
-94,"TEXT_JOBREL400_02379_SYSTEM_000_011","透過完成她們二人的任務，可以獲得<Sheet(Item,16064,0)/>。"
+94,"TEXT_JOBREL400_02379_SYSTEM_000_011","通過完成她們二人的任務，可以獲得<Sheet(Item,16064,0)/>。"
 95,"TEXT_JOBREL400_02379_SYSTEM_000_012","另外，<Sheet(Item,16064,0)/>也可以從羅薇娜商會的希絲梅娜處獲得。"
 96,"TEXT_JOBREL400_02379_BLAMPREST_000_060","先攢50個<Sheet(Item,16064,0)/>吧。
 攢夠後我幫你製取<Sheet(EventItem,2002022,0)/>。"
@@ -194,7 +194,7 @@ int32,str,str
 歡迎下次再來！"
 105,"TEXT_JOBREL400_02379_BLAMPREST_000_083","將<Sheet(EventItem,2002022,0)/>和<Sheet(EventItem,2002026,0)/>拿去給阿爾達希爾吧。
 有什麼需要時歡迎再來找我！"
-106,"TEXT_JOBREL400_02379_ARDASHIR_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來。
+106,"TEXT_JOBREL400_02379_ARDASHIR_000_090","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來。
 你去取<Sheet(EventItem,2002022,0)/>的這段時間，我們這邊的研究也有進展了！
 當然，調配靈藥的準備工作也沒有落下。"
 107,"TEXT_JOBREL400_02379_ARDASHIR_000_091","你能將<Sheet(Item,IntegerParameter(1),0)/>、<Sheet(Item,IntegerParameter(2),0)/>，
@@ -217,9 +217,9 @@ int32,str,str
 調好後我喝<Sheet(EventItem,2002026,0)/>打起精神，
 給你把靈藥鍛進人造元靈裡。"
 116,"TEXT_JOBREL400_02379_ARDASHIR_000_099","你這人可真是沒救了！
-等結束後我非得好好說說你才行！"
+等完事後我非得好好說說你才行！"
 117,"TEXT_JOBREL400_02379_ARDASHIR_000_100","你這人可真是……
-等結束後我非得再好好說說你才行！"
+等完事後我非得再好好說說你才行！"
 118,"TEXT_JOBREL400_02379_ARDASHIR_000_101","唉……
 我調整一下心情，開始調配靈藥。"
 119,"TEXT_JOBREL400_02379_GEROLT_000_102","★削除予定★"
@@ -243,7 +243,7 @@ int32,str,str
 131,"TEXT_JOBREL400_02379_BUKINOSEIREI_000_109","主人，謝謝你……
 令主人滿意是我的榮幸。"
 132,"TEXT_JOBREL400_02379_BUKINOSEIREI_000_110","謝謝！
-主人喜歡就好，欸嘿嘿。"
+主人喜歡就好，誒嘿嘿。"
 133,"TEXT_JOBREL400_02379_BUKINOSEIREI_000_111","嗯，主人說得對。
 為了主人，我一定還能變得更強！"
 134,"TEXT_JOBREL400_02379_BUKINOSEIREI_000_112","也對，現在高興還有點為時過早……
@@ -257,7 +257,7 @@ int32,str,str
 138,"TEXT_JOBREL400_02379_BUKINOSEIREI_000_116","看來是還需要繼續努力才行！
 請主人陪我一起加油吧……"
 139,"TEXT_JOBREL400_02379_ARDASHIR_000_117","看來人造元靈真的再次成長了。"
-140,"TEXT_JOBREL400_02379_ARDASHIR_000_118","對了！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，還有件事沒告訴你！"
+140,"TEXT_JOBREL400_02379_ARDASHIR_000_118","對了！<Highlight>ObjectParameter(1)</Highlight>，還有件事沒告訴你！"
 141,"TEXT_JOBREL400_02379_ARDASHIR_000_119","為了提高人造元靈的穩定性，
 確保人造元靈離開我們的調整也能長久存在，
 我們決定製作一顆新的魂石用於移植！"
@@ -280,4 +280,4 @@ int32,str,str
 150,"TEXT_JOBREL400_02379_ARDASHIR_000_126","人造元靈就拜託你照顧了！"
 151,"TEXT_JOBREL400_02379_ARDASHIR_000_127","人造元靈順利得到了成長，真是太好了！
 我們一切照舊，請你先繼續照顧好人造元靈吧！"
-152,"TEXT_JOBREL400_02379_SYSTEM_000_020","成功將「百鍊成鋼的元靈武器」強化為「元靈武器．靈慧」！"
+152,"TEXT_JOBREL400_02379_SYSTEM_000_020","成功將「百鍊成鋼的元靈武器」強化為「元靈武器·靈慧」！"

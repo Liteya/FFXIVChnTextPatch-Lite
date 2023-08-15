@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_BANKOB101_01325_SEQ_00","第789洞穴團採礦地的第789團清潔工博茲有事情想要委託給冒險者。"
 1,"TEXT_BANKOB101_01325_SEQ_01","接受了第789團清潔工博茲的委託，假裝從地靈族處搶奪資源，將資源交給黑渦團的補給兵，以此換取食物。在黑金湖收集3個<Sheet(EventItem,2001247,0)/>。"
-2,"TEXT_BANKOB101_01325_SEQ_02","收集到了<Sheet(EventItem,2001247,0)/>。將<Sheet(EventItem,2001247,0)/>交給瞭望陣營地的黑渦團補給兵，獲得食物。"
+2,"TEXT_BANKOB101_01325_SEQ_02","收集到了<Sheet(EventItem,2001247,0)/>。將<Sheet(EventItem,2001247,0)/>交給瞭望陣營地的黑渦團補給兵，獲取食物。"
 3,"TEXT_BANKOB101_01325_SEQ_03","將<Sheet(EventItem,2001247,0)/>交給了黑渦團補給兵，獲得了<Sheet(EventItem,2001248,0)/>。將<Sheet(EventItem,2001248,0)/>交給第789洞穴團採礦地的第789團清潔工博茲。"
 4,"TEXT_BANKOB101_01325_SEQ_04","將<Sheet(EventItem,2001248,0)/>交給了第789團清潔工博茲，他十分開心。第789團清潔工博茲似乎高估了<Sheet(EventItem,2001247,0)/>的價值，他立志今後也要用此方法獲得食物。"
 5,"TEXT_BANKOB101_01325_SEQ_05",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANKOB101_01325_SEQ_21",""
 22,"TEXT_BANKOB101_01325_SEQ_22",""
 23,"TEXT_BANKOB101_01325_SEQ_23",""
-24,"TEXT_BANKOB101_01325_TODO_00","獲得黑金湖的<Sheet(EventItem,2001247,0)/>"
+24,"TEXT_BANKOB101_01325_TODO_00","獲取黑金湖的<Sheet(EventItem,2001247,0)/>"
 25,"TEXT_BANKOB101_01325_TODO_01","將<Sheet(EventItem,2001247,0)/>交給瞭望陣營地的黑渦團補給兵"
 26,"TEXT_BANKOB101_01325_TODO_02","將<Sheet(EventItem,2001248,0)/>交給第789團清潔工博茲"
 27,"TEXT_BANKOB101_01325_TODO_03",""
@@ -62,7 +62,7 @@ int32,str,str
 我希望你 幫我換點吃的來。"
 52,"TEXT_BANKOB101_01325_KOKKADAN01_100_010","……你從地靈族那裡奪來了物資？
 給我看看。"
-53,"TEXT_BANKOB101_01325_KOKKADAN01_000_010","……你還蠻能幹的嘛……等等，這都是什麼啊！
+53,"TEXT_BANKOB101_01325_KOKKADAN01_000_010","……你還挺能幹的嘛……等等，這都是什麼啊！
 不過就是<Sheet(EventItem,2001247,0)/>而已嘛！
 我雖然很理解你想將臭鼴鼠一軍的心情……"
 54,"TEXT_BANKOB101_01325_KOKKADAN01_000_011","你想交換點食物？
@@ -74,5 +74,5 @@ int32,str,str
 56,"TEXT_BANKOB101_01325_BOZU_000_020","哇 我等你好久了！
 謝謝你 我終於能 吃上飯了！"
 57,"TEXT_BANKOB101_01325_BOZU_000_021","竟然能換來 這麼香的飯菜
-看來人類 也蠻識貨的嘛。
+看來人類 也挺識貨的嘛。
 今後我還要 用這種方法混飯吃！"

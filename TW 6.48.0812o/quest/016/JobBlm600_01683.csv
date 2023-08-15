@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_JOBBLM600_01683_SEQ_00","密爾瓦內斯禮拜堂的菈菈伊那裡似乎有客人再次來訪。"
-1,"TEXT_JOBBLM600_01683_SEQ_01","扎伊．阿．尼爾哈似乎發現了叛逆法師的基地。前往東薩納蘭的火牆，在疑似基地的地方和菈菈伊會合。"
+1,"TEXT_JOBBLM600_01683_SEQ_01","扎伊·阿·尼爾哈似乎發現了叛逆法師的基地。前往東薩納蘭的火牆，在疑似基地的地方和菈菈伊匯合。"
 2,"TEXT_JOBBLM600_01683_SEQ_02","打倒了被召喚的妖異。返回東薩納蘭。"
 3,"TEXT_JOBBLM600_01683_SEQ_03","終於抓住了叛逆法師的領導人沃爾迪夫。和火牆的菈菈伊對話。"
-4,"TEXT_JOBBLM600_01683_SEQ_04","菈菈伊回烏爾達哈去了。在火牆和卡扎古．春、德佐爾．梅羅克、第269團募緣修士韃札對話。"
+4,"TEXT_JOBBLM600_01683_SEQ_04","菈菈伊回烏爾達哈去了。在火牆和卡扎古·春、德佐爾·梅羅克、第269團募緣修士韃札對話。"
 5,"TEXT_JOBBLM600_01683_SEQ_05","和獸人們進行了交談。回到密爾瓦內斯禮拜堂，和菈菈伊對話。"
-6,"TEXT_JOBBLM600_01683_SEQ_06","沃爾迪夫被逮捕，冒險者也從«札爾之書»中習得了新的黑魔法。扎伊．阿．尼爾哈也終於拋棄成見，對破壞之力與治癒之力攜手並進的未來充滿了信心。
+6,"TEXT_JOBBLM600_01683_SEQ_06","沃爾迪夫被逮捕，冒險者也從«札爾之書»中習得了新的黑魔法。扎伊·阿·尼爾哈也終於拋棄成見，對破壞之力與治癒之力攜手並進的未來充滿了信心。
 
 ※滿足下列條件後，可以從密爾瓦內斯禮拜堂的菈菈伊那裡領取新的特職任務。
 完成「龍詩戰爭尾聲主線任務」中「命運的止境」。"
@@ -28,11 +28,11 @@ int32,str,str
 21,"TEXT_JOBBLM600_01683_SEQ_21",""
 22,"TEXT_JOBBLM600_01683_SEQ_22",""
 23,"TEXT_JOBBLM600_01683_SEQ_23",""
-24,"TEXT_JOBBLM600_01683_TODO_00","和火牆的菈菈伊會合"
-25,"TEXT_JOBBLM600_01683_TODO_01","和火牆的菈菈伊會合"
+24,"TEXT_JOBBLM600_01683_TODO_00","和火牆的菈菈伊匯合"
+25,"TEXT_JOBBLM600_01683_TODO_01","和火牆的菈菈伊匯合"
 26,"TEXT_JOBBLM600_01683_TODO_02","和火牆的菈菈伊對話"
-27,"TEXT_JOBBLM600_01683_TODO_03","和卡扎古．春對話"
-28,"TEXT_JOBBLM600_01683_TODO_04","和德佐爾．梅羅克對話"
+27,"TEXT_JOBBLM600_01683_TODO_03","和卡扎古·春對話"
+28,"TEXT_JOBBLM600_01683_TODO_04","和德佐爾·梅羅克對話"
 29,"TEXT_JOBBLM600_01683_TODO_05","和第269團募緣修士韃札對話"
 30,"TEXT_JOBBLM600_01683_TODO_06","和密爾瓦內斯禮拜堂的菈菈伊對話"
 31,"TEXT_JOBBLM600_01683_TODO_07",""
@@ -52,11 +52,11 @@ int32,str,str
 45,"TEXT_JOBBLM600_01683_TODO_21",""
 46,"TEXT_JOBBLM600_01683_TODO_22",""
 47,"TEXT_JOBBLM600_01683_TODO_23",""
-48,"TEXT_JOBBLM600_01683_LALAI_000_000"," <Highlight>ObjectParameter(1)</Highlight> 啊，你來了！
-扎伊．阿．尼爾哈剛走不久。"
+48,"TEXT_JOBBLM600_01683_LALAI_000_000","<Highlight>ObjectParameter(1)</Highlight>啊，你來了！
+扎伊·阿·尼爾哈剛走不久。"
 49,"TEXT_JOBBLM600_01683_LALAI_000_001","他告訴我發現了叛逆法師的老巢，
 然後就不知道跑到哪裡去了！"
-50,"TEXT_JOBBLM600_01683_LALAI_000_002","他應該恐怕是一個人去了老巢吧。
+50,"TEXT_JOBBLM600_01683_LALAI_000_002","我估計他恐怕是一個人去了老巢吧。
 就算敵方的勢力有所削弱，單槍匹馬也太有勇無謀了。
 之前的教訓已經被他扔到腦後了嗎……"
 51,"TEXT_JOBBLM600_01683_LALAI_000_003","總之我們也做好戰鬥準備，趕緊出發吧！
@@ -67,8 +67,8 @@ int32,str,str
 我們就在那裡會合！"
 53,"TEXT_JOBBLM600_01683_KAZAGGCHAH_000_005","什麼，此地竟是叛逆法師之巢穴？
 待我備戰完畢，就來支援你們！
-……你說扎伊．阿．尼爾哈？不，並沒有見到。"
-54,"TEXT_JOBBLM600_01683_LALAI_000_010","沒看到扎伊．阿．尼爾哈呢……
+……你說扎伊·阿·尼爾哈？不，並沒有見到。"
+54,"TEXT_JOBBLM600_01683_LALAI_000_010","沒看到扎伊·阿·尼爾哈呢……
 難道已經被殺了嗎……"
 55,"TEXT_JOBBLM600_01683_LALAI_000_011","即使如此，我們也不能臨陣脫逃。
 沃爾迪夫似乎潛伏在最深處。
@@ -96,7 +96,7 @@ int32,str,str
 64,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_108","(-？？？？-)並不是只有他們兩個人！"
 65,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_109","沃爾迪夫！
 這裡也有，誓要粉碎你野心的人！"
-66,"TEXT_JOBBLM600_01683_LALAI_000_110","扎伊．阿．尼爾哈！
+66,"TEXT_JOBBLM600_01683_LALAI_000_110","扎伊·阿·尼爾哈！
 你至今為止都在哪裡做什麼！"
 67,"TEXT_JOBBLM600_01683_KAZAGGCHAH_000_111","玩物喪志，惡貫滿盈！
 對於你這樣違背倫理的邪魔外道，
@@ -117,7 +117,7 @@ int32,str,str
 我是說那、那、那邊的雜魚……"
 74,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_118","居然被自己召喚的妖異打倒了……真是個可悲的男人。"
 75,"TEXT_JOBBLM600_01683_LALAI_000_119","這都是因果報應！
-誰讓他不掂量自己的分量就胡亂召喚！"
+誰讓他不掂量自己的份量就胡亂召喚！"
 76,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_120","但是，不能放著這傢伙不管！
 上吧，趕快把這妖異收拾掉！"
 77,"TEXT_JOBBLM600_01683_LALAI_000_150","還好你及時出現了……
@@ -129,15 +129,15 @@ int32,str,str
 81,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_154","……雖說不是直接下手，但很多人是因你而死的。
 你必須活下來，活著償還你的罪孽。
 這就是身為幻術師的我對你的判罰……"
-82,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_155"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，菈菈伊……
+82,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_155","<Highlight>ObjectParameter(1)</Highlight>，菈菈伊……
 真是給你們添麻煩了啊。"
 83,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_156","等我把沃爾迪夫關進監獄，
 我會再去一趟密爾瓦內斯禮拜堂的。
 到時候再讓我向你們好好道謝吧。"
 84,"TEXT_JOBBLM600_01683_LALAI_000_220","走吧，我們也回密爾瓦內斯禮拜堂去吧。
-扎伊．阿．尼爾哈居然會道謝，這可真是難得一見。
+扎伊·阿·尼爾哈居然會道謝，這可真是難得一見。
 可千萬不能錯過呢！"
-85,"TEXT_JOBBLM600_01683_LALAI_000_221","你去跟卡扎古．春他們敘敘舊吧，
+85,"TEXT_JOBBLM600_01683_LALAI_000_221","你去跟卡扎古·春他們敘敘舊吧，
 我就先回去了，在禮拜堂等你哦！"
 86,"TEXT_JOBBLM600_01683_KAZAGGCHAH_000_230","不必焦慮，先同菈菈伊商量好今後之路吧。
 我們會在此等候的。"
@@ -151,13 +151,13 @@ int32,str,str
 欠你的情，這樣就算兩清了啊，兄弟！"
 90,"TEXT_JOBBLM600_01683_DAZA_000_190","大家一起 戰鬥 雖然 辛苦
 但是 很快樂！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 下次再見！"
+<Highlight>ObjectParameter(1)</Highlight> 下次再見！"
 91,"TEXT_JOBBLM600_01683_KAZAGGCHAH_000_195","此番別過，定當再會，無需惜別。
 你也回烏爾達哈去吧。"
 92,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_250","讓你們久等了……
 沃爾迪夫已經被關入監獄了。
 等待著他的將會是角尊和元靈的嚴厲制裁吧。"
-93,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_251"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+93,"TEXT_JOBBLM600_01683_ZHAIANELHAH_000_251","<Highlight>ObjectParameter(1)</Highlight>……
 這麼久以來，真的是謝謝你了。
 之前一直懷疑你，是我錯了，對不起。"
 94,"TEXT_JOBBLM600_01683_ZHAIANELHAH_100_251","還有，菈菈伊，
@@ -202,7 +202,7 @@ int32,str,str
 112,"TEXT_JOBBLM600_01683_00233_QIB_001_LALAI_BATTLETALK_DEAD","怎麼會這樣……接下來就、拜託了……"
 113,"TEXT_JOBBLM600_01683_00233_QIB_001_KAZAGGCHAH_BATTLETALK_DEAD","力有未逮，實在遺憾……"
 114,"TEXT_JOBBLM600_01683_00233_QIB_001_DAZA_BATTLETALK_DEAD","對不起哦……我已經 不行了……"
-115,"TEXT_JOBBLM600_01683_00233_QIB_001_DOZOLMELOC_BATTLETALK_DEAD","混……帳啊！
+115,"TEXT_JOBBLM600_01683_00233_QIB_001_DOZOLMELOC_BATTLETALK_DEAD","混……賬啊！
 是贏是輸……就看你們的了！"
-116,"TEXT_JOBBLM600_01683_00233_QIB_001_ZHAIANELHAH_BATTLETALK_DEAD","抱歉， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+116,"TEXT_JOBBLM600_01683_00233_QIB_001_ZHAIANELHAH_BATTLETALK_DEAD","抱歉，<Highlight>ObjectParameter(1)</Highlight>……
 請一定要……打倒那隻妖異！"

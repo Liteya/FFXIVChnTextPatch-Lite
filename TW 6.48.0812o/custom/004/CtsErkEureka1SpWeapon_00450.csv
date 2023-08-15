@@ -9,7 +9,7 @@ int32,str,str
 2,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_002","作為冒險者所需要的東西……
 發什麼愣啊，我是說要給你製作武器和防具！
 確切的說是用在優雷卡收集到的素材來強化你的裝備。"
-3,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_003","因為契約上寫著如果我能在強化過程中做出些值錢的東西，
+3,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_003","因為合同上寫著如果我能在強化過程中做出些值錢的東西，
 就能抵消一部分我的欠款。所以為了我的自由，你就別客氣了！
 來來來，你想要的裝備趕緊隨意下單！"
 4,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_004","開放了禁地兵裝的強化功能！
@@ -29,9 +29,9 @@ int32,str,str
 想要將裝備強化到最終形態，還是缺了點什麼。"
 15,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_030","不過反正以你現在的武器，還不是該考慮這個問題的時候。
 在討論最終形態之前，你先把<Sheet(Item,21801,0)/>拿過來再說。"
-16,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_100_031","要將武器強化到禁地兵裝．常風階段，
+16,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_100_031","要將武器強化到禁地兵裝·常風階段，
 需要持有<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>。"
-17,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_031","要將武器強化到禁地兵裝．常風階段，
+17,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_031","要將武器強化到禁地兵裝·常風階段，
 需要持有<Sheet(Item,IntegerParameter(1),0)/>。"
 18,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_040","你可別來問我具體需要什麼東西啊。
 反正只要是稀少的東西就拿給我看看，
@@ -64,7 +64,7 @@ int32,str,str
 28,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q2_000_000","要強化哪個特職的裝備？"
 29,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_JOB","<Sheet(ClassJob,IntegerParameter(1),0)/>"
 30,"TEXT_CTSERKEUREKA1SPWEAPON_00450_MENU_CANCEL","返回"
-31,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q4_000_000","想瞭解什麼？"
+31,"TEXT_CTSERKEUREKA1SPWEAPON_00450_Q4_000_000","想了解什麼？"
 32,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_001","關於強化裝備"
 33,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_000_002","關於強化+2武器"
 34,"TEXT_CTSERKEUREKA1SPWEAPON_00450_A4_100_002","關於分解<Sheet(Item,21803,0)/>"
@@ -76,10 +76,10 @@ int32,str,str
 可以將70級特職專用武器及專用防具進行強化，
 並且最多可以強化4個階段。"
 38,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_102","如果未持有用於強化的舊化裝備，
-可以從利姆薩．羅敏薩、格里達尼亞、烏爾達哈
+可以從利姆薩·羅敏薩、格里達尼亞、烏爾達哈
 各國的失物管理人處進行購買。"
 39,"TEXT_CTSERKEUREKA1SPWEAPON_00450_GEROLT_000_110","<Sheet(Item,21801,0)/>作為素材雖然不錯，
-但是光靠這個，沒辦法進一步進行強化。
+但是光靠這個，沒法進一步進行強化。
 看來得想想有沒有別的素材……"
 40,"TEXT_CTSERKEUREKA1SPWEAPON_00450_SYSTEM_000_111","強化禁地兵裝+2
 需要不同於<Sheet(Item,21801,0)/>的道具。

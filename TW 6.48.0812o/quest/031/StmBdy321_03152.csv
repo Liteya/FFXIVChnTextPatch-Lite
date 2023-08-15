@@ -3,16 +3,16 @@
 int32,str,str
 0,"TEXT_STMBDY321_03152_SEQ_00","碧玉水的文鎮有東西想要交給冒險者。"
 1,"TEXT_STMBDY321_03152_SEQ_01","前情回顧：
-冒險者接到了玄武的聯繫，再次前往醴泉神社。這次接到的委託不是給四聖獸鎮魂，而是幫助算盤進行修行。本打算利用能讓時間加速的神器，強行讓算盤覺醒為瑞獸，讓其掌握運用神通力的訣竅，結果導致算盤的荒魂失控，與冒險者大打出手。冒險者在玄武與塔塔露的幫助下，成功為算盤鎮魂。
+冒險者接到了玄武的聯絡，再次前往醴泉神社。這次接到的委託不是給四聖獸鎮魂，而是幫助算盤進行修行。本打算利用能讓時間加速的神器，強行讓算盤覺醒為瑞獸，讓其掌握運用神通力的訣竅，結果導致算盤的荒魂失控，與冒險者大打出手。冒險者在玄武與塔塔露的幫助下，成功為算盤鎮魂。
 　　　　　　　　　　　　*　*　*
 和文鎮進行了交談。和紅玉海醴泉神社的玄武談談。"
 2,"TEXT_STMBDY321_03152_SEQ_02","和玄武進行了交談接受了為朱雀鎮魂的委託。和醴泉神社的朱雀談談。"
 3,"TEXT_STMBDY321_03152_SEQ_03","和朱雀進行了交談。身為瑞獸的朱雀卻愛上了身為人類的典膳。和同伴們一起完成朱雀鎮魂戰，為朱雀鎮魂！
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 4,"TEXT_STMBDY321_03152_SEQ_04","完成了朱雀鎮魂戰，成功為朱雀鎮魂。回到醴泉神社。"
-5,"TEXT_STMBDY321_03152_SEQ_05","為朱雀鎮魂，並瞭解了典膳的過去。朱雀能獲得甦生之力，似乎和典膳的死有關。和醴泉神社的玄武談談。"
-6,"TEXT_STMBDY321_03152_SEQ_06","和玄武進行了交談。算盤在修行中唸錯了祝詞，變成了烏龜。他現在還不能回到碧玉水。和碧玉水的文鎮談談。"
+5,"TEXT_STMBDY321_03152_SEQ_05","為朱雀鎮魂，並了解了典膳的過去。朱雀能獲得甦生之力，似乎和典膳的死有關。和醴泉神社的玄武談談。"
+6,"TEXT_STMBDY321_03152_SEQ_06","和玄武進行了交談。算盤在修行中念錯了祝詞，變成了烏龜。他現在還不能回到碧玉水。和碧玉水的文鎮談談。"
 7,"TEXT_STMBDY321_03152_SEQ_07","和文鎮進行了交談。報告了刻苦修行的算盤的現狀，文鎮感到很欣慰。現在先恢復在與朱雀的戰鬥中消耗的體力，等待來自玄武的委託。"
 8,"TEXT_STMBDY321_03152_SEQ_08",""
 9,"TEXT_STMBDY321_03152_SEQ_09",""
@@ -63,7 +63,7 @@ int32,str,str
 51,"TEXT_STMBDY321_03152_BUNCHIN_000_004","我猜，寄信人是玄武大人吧——？
 那就請你也順便去探望一下算盤吧——"
 52,"TEXT_STMBDY321_03152_GENBU_000_010","恭候多時了，為白虎鎮魂的人類之子。
-欸？座敷童子沒跟你一起來嗎？"
+誒？座敷童子沒跟你一起來嗎？"
 53,"TEXT_STMBDY321_03152_GENBU_000_011","那就用你們平時聯繫用的「同行豬」什麼的，
 把她叫出來如何啊？"
 54,"TEXT_STMBDY321_03152_TATARU_000_012","(-塔塔露的聲音-)你好，我是塔塔露！"
@@ -85,8 +85,8 @@ int32,str,str
 65,"TEXT_STMBDY321_03152_GENBU_000_023","最近鎮石的封印又進一步變弱了。
 看來是黃龍正在漸漸恢復力量。"
 66,"TEXT_STMBDY321_03152_GENBU_000_024","必須在黃龍的封印完全解除之前，
-儘快把四聖獸的力量集結起來才行。"
-67,"TEXT_STMBDY321_03152_GENBU_000_025","為此，必須請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為剩下的聖獸鎮魂。"
+盡快把四聖獸的力量集結起來才行。"
+67,"TEXT_STMBDY321_03152_GENBU_000_025","為此，必須請<Highlight>ObjectParameter(1)</Highlight>為剩下的聖獸鎮魂。"
 68,"TEXT_STMBDY321_03152_TATARU_000_026","那接下來要為哪位聖獸鎮魂呢？"
 69,"TEXT_STMBDY321_03152_GENBU_000_027","嗯，下一個是……
 哦，看來它已經來了。"
@@ -97,16 +97,16 @@ int32,str,str
 來說說你為什麼要召喚我吧。
 雖然我大概也能猜到……"
 73,"TEXT_STMBDY321_03152_GENBU_000_031","黃龍的封印就要解開了。
-我們絕不能讓那不祥的災難發生。
+我們決不能讓那不祥的災難發生。
 現在正是需要我們四聖獸集結力量的時候。"
 74,"TEXT_STMBDY321_03152_SUZAKU_000_032","所以，你想然讓那個人類之子，
 來為我鎮魂吧。"
 75,"TEXT_STMBDY321_03152_GENBU_000_033","正是。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 有著超越常人的才能。
+<Highlight>ObjectParameter(1)</Highlight>有著超越常人的才能。
 簡直就是典膳轉世啊。"
 76,"TEXT_STMBDY321_03152_SUZAKU_000_034","……就算是現在，典膳也與我在一起！
 老人家，請注意你的言辭！"
-77,"TEXT_STMBDY321_03152_SUZAKU_000_035","你是叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+77,"TEXT_STMBDY321_03152_SUZAKU_000_035","你是叫<Highlight>ObjectParameter(1)</Highlight>吧？
 我要打倒你，
 證明根本不可能有人可以替代典膳！"
 78,"TEXT_STMBDY321_03152_SUZAKU_100_035","我會在境內入口處等你。
@@ -118,7 +118,7 @@ int32,str,str
 在開始鎮魂之儀前，你先試著跟朱雀談談吧。"
 81,"TEXT_STMBDY321_03152_GENBU_000_037","（★未使用／削除予定★）"
 82,"TEXT_STMBDY321_03152_BUNCHIN_000_040","那算盤的事就拜託你了——"
-83,"TEXT_STMBDY321_03152_BYAKKO_000_045","是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+83,"TEXT_STMBDY321_03152_BYAKKO_000_045","是<Highlight>ObjectParameter(1)</Highlight>啊。
 玄武老爺子好像在找你。"
 84,"TEXT_STMBDY321_03152_SUZAKU_000_050","看來你執意要跟我戰鬥啊。"
 85,"TEXT_STMBDY321_03152_SUZAKU_000_051","為達使命，不論何等強敵皆無懼挑戰。
@@ -138,9 +138,9 @@ int32,str,str
 你也是敬愛著典膳的吧！
 跟他一起走過的旅程都被你忘了麼？"
 91,"TEXT_STMBDY321_03152_BYAKKO_300_053","我怎麼可能忘記典膳……
-但 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 讓我明白了，
+但<Highlight>ObjectParameter(1)</Highlight>讓我明白了，
 止步不前、以淚洗面是不能告慰典膳在天之靈的。"
-92,"TEXT_STMBDY321_03152_SUZAKU_400_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……可惡的傢伙！
+92,"TEXT_STMBDY321_03152_SUZAKU_400_053","<Highlight>ObjectParameter(1)</Highlight>……可惡的傢伙！
 竟敢蠱惑四聖獸，想將我們與典膳分開嗎？"
 93,"TEXT_STMBDY321_03152_BYAKKO_500_053","它的思想和言行已經毫無邏輯……
 看來荒魂的影響越來越強了。
@@ -165,7 +165,7 @@ int32,str,str
 屆時它的狀態會比現在還要難以控制。"
 104,"TEXT_STMBDY321_03152_BYAKKO_200_059","就算它把你誤認為典膳，你也不要動搖。
 那都是幻象……是荒魂展示給它的噩夢。"
-105,"TEXT_STMBDY321_03152_BYAKKO_300_059"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，再次拜託你。
+105,"TEXT_STMBDY321_03152_BYAKKO_300_059","<Highlight>ObjectParameter(1)</Highlight>啊，再次拜託你。
 請務必在鎮魂的同時，
 也找回朱雀內心的平靜吧。"
 106,"TEXT_STMBDY321_03152_BYAKKO_400_059","謝謝你。
@@ -220,7 +220,7 @@ int32,str,str
 足以守護典膳想守護的這個世界。"
 127,"TEXT_STMBDY321_03152_SUZAKU_000_106","多虧你為我鎮魂，
 才讓我想開了。
-謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+謝謝你，<Highlight>ObjectParameter(1)</Highlight>。"
 128,"TEXT_STMBDY321_03152_SUZAKU_000_107","我得趕快回去找愛操心的老人家玄武，
 告訴他我已經沒事了。"
 129,"TEXT_STMBDY321_03152_FURI_000_108","想要出去了嗎？
@@ -229,7 +229,7 @@ int32,str,str
 131,"TEXT_STMBDY321_03152_FURI_200_108","你是要回到醴泉神社吧？
 就交給我帶路吧！"
 132,"TEXT_STMBDY321_03152_SYSTEM_300_108","要前往醴泉神社嗎？"
-133,"TEXT_STMBDY321_03152_GENBU_000_110"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，回來了啊。
+133,"TEXT_STMBDY321_03152_GENBU_000_110","<Highlight>ObjectParameter(1)</Highlight>，回來了啊。
 看來還算順利啊。"
 134,"TEXT_STMBDY321_03152_SUZAKU_000_111","是啊，讓你擔心了，老人家。
 我已經沒事了。"
@@ -254,22 +254,22 @@ int32,str,str
 147,"TEXT_STMBDY321_03152_SOROBAN_000_122","(-算盤？-)我可沒聽說過修行中會變成這個樣子啊——！
 這簡直就是變成了烏龜啊——！"
 148,"TEXT_STMBDY321_03152_TATARU_000_123","你本來不就是烏龜嘛……"
-149,"TEXT_STMBDY321_03152_GENBU_000_124","應該是你又唸錯祝詞了，
+149,"TEXT_STMBDY321_03152_GENBU_000_124","估計是你又念錯祝詞了，
 導致你請來了神龜之魂被附身了吧。"
 150,"TEXT_STMBDY321_03152_SOROBAN_000_125","不過應該很快就能恢復的吧——？
 就像玉手箱那時一樣——"
 151,"TEXT_STMBDY321_03152_GENBU_000_126","這可說不好啊，
-也許等到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為青龍鎮魂的時候你就能恢復原樣了。"
+也許等到<Highlight>ObjectParameter(1)</Highlight>為青龍鎮魂的時候你就能恢復原樣了。"
 152,"TEXT_STMBDY321_03152_SOROBAN_000_127","那要等到什麼時候——？！"
-153,"TEXT_STMBDY321_03152_GENBU_000_128","好了，我想就算是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+153,"TEXT_STMBDY321_03152_GENBU_000_128","好了，我想就算是<Highlight>ObjectParameter(1)</Highlight>，
 也應該在與朱雀的戰鬥中消耗了不少體力吧。
 你先回到地面去休息一下吧。"
 154,"TEXT_STMBDY321_03152_TATARU_000_129","那我也回去了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+<Highlight>ObjectParameter(1)</Highlight>，
 下次有新的委託我再聯繫你喲！"
 155,"TEXT_STMBDY321_03152_SOROBAN_000_130","還有不好意思，請你向文鎮長老彙報一下——
 照現在我這個樣子，可回不了碧玉水啊——"
-156,"TEXT_STMBDY321_03152_TATARU_000_135"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來！
+156,"TEXT_STMBDY321_03152_TATARU_000_135","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來！
 已經為朱雀鎮魂了嗎？"
 157,"TEXT_STMBDY321_03152_BYAKKO_000_140","說起來，「拉拉黑爾」族的人類，
 身材還真是小巧啊……"
@@ -277,15 +277,15 @@ int32,str,str
 足以守護典膳想守護的這個世界。"
 159,"TEXT_STMBDY321_03152_SUZAKU_000_146","多虧你為我鎮魂，
 才讓我想開了。
-謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+謝謝你，<Highlight>ObjectParameter(1)</Highlight>。"
 160,"TEXT_STMBDY321_03152_BUNCHIN_000_150","客人啊，你回來啦——
 算盤修行得怎麼樣啦——？"
 161,"TEXT_STMBDY321_03152_BUNCHIN_000_151","嗯……你說算盤修行出了差錯變成了烏龜——
 這樣啊，你說的老朽完全聽不懂啊——"
 162,"TEXT_STMBDY321_03152_BUNCHIN_000_152","不管怎麼說，
-算盤還是蠻上進的啊——
+算盤還是挺上進的啊——
 請你過一段時間，再去看看他吧——"
-163,"TEXT_STMBDY321_03152_GENBU_000_155","好了，我想就算是 <Highlight>ObjectParameter(1)</Highlight> ，
+163,"TEXT_STMBDY321_03152_GENBU_000_155","好了，我想就算是<Highlight>ObjectParameter(1)</Highlight>，
 也應該在與朱雀的戰鬥中消耗了不少體力吧。
 你先回到地面去休息一下吧。"
 164,"TEXT_STMBDY321_03152_SOROBAN_000_160","哎——？

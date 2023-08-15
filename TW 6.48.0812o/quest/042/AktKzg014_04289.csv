@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_AKTKZG014_04289_TODO_21",""
 46,"TEXT_AKTKZG014_04289_TODO_22",""
 47,"TEXT_AKTKZG014_04289_TODO_23",""
-48,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_000","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_000","喲，<Highlight>ObjectParameter(1)</Highlight>！
 可以再幫個忙嗎？"
 49,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_001","雖然上次已經確認了
 迅尾獸的察覺危機能力可以有效發揮作用……
@@ -59,13 +59,13 @@ int32,str,str
 還有一種特殊的用處！"
 51,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_003","為了進行驗證，我已經事先
 在十二奇園安排了另一隻迅尾獸。
-可以請你去找這裡的工作人員瞭解一下他們的反應嗎？"
+可以請你去找這裡的工作人員了解一下他們的反應嗎？"
 52,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_004","考慮到迅尾獸的飛行路線，
 你就去找奧羅路斯、杜卡利翁
-還有克洛里斯打聽一下吧！"
+還有克洛裡斯打聽一下吧！"
 53,"TEXT_AKTKZG014_04289_GEALCAT04289_000_007","喵嗚喵！！"
 54,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_010","你就去找奧羅路斯、杜卡利翁
-還有克洛里斯打聽一下
+還有克洛裡斯打聽一下
 迅尾獸的功能是否正常發揮了作用吧。"
 55,"TEXT_AKTKZG014_04289_OLOROS_000_020","你好，你也是來見它的嗎？
 很可愛對吧。"
@@ -108,7 +108,7 @@ int32,str,str
 或許我就可以在阿尼德羅學院進行研究工作了……"
 71,"TEXT_AKTKZG014_04289_CHLORIS_000_060","原來受到驚嚇也能對創造魔法有所幫助呢。"
 72,"TEXT_AKTKZG014_04289_GEALCAT04289_000_065","喵嗚。"
-73,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了！
+73,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_070","<Highlight>ObjectParameter(1)</Highlight>，你回來了！
 大家都跟你聊了什麼？"
 74,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_071","嗯嗯嗯，果然和我想的一樣，
 在大家身上都或多或少發生了一些好事啊！"
@@ -122,7 +122,7 @@ int32,str,str
 78,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_075","哎呀哎呀，難道是又察覺到異變了嗎？
 這樣看來，它的理念獲得認可的日子應該也不遠了。
 作為它的觀察者，還真是榮幸啊！"
-79,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_076"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你此次幫忙觀察！
+79,"TEXT_AKTKZG014_04289_HIPPOTHOE_000_076","<Highlight>ObjectParameter(1)</Highlight>，感謝你此次幫忙觀察！
 你也和迅尾獸一樣，是個優秀的使魔！"
 80,"TEXT_AKTKZG014_04289_OBSERVERB04289_000_020","（★未使用／削除予定★）"
 81,"TEXT_AKTKZG014_04289_OBSERVERB04289_000_021","（★未使用／削除予定★）"

@@ -68,10 +68,10 @@ int32,str,str
 那就跟我來吧。"
 54,"TEXT_LUCKZA026_03368_GUARD03368_100_010","紀念物就掉到了這個懸崖下面的遺跡那裡。
 你就在這裡打倒接近的古拉姆。
-結束後我們到上路客店會合……拜託你了！"
+結束後我們到上路客店匯合……拜託你了！"
 55,"TEXT_LUCKZA026_03368_SYSTEM_200_010","開始討伐古拉姆。
 對接近衛兵的古拉姆
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>發射解咒器！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>發射解咒器！"
 56,"TEXT_LUCKZA026_03368_GUARD03368_000_020","謝謝你。
 多虧你幫忙，我找到紀念物了。"
 57,"TEXT_LUCKZA026_03368_GUARD03368_000_021","話說回來，解咒器的效果特別好吧？

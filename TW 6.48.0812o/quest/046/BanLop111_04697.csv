@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANLOP111_04697_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-希望的貨艙的營運威希望冒險者幫忙回收逃走的新型機器。"
+希望的貨艙的運營威希望冒險者幫忙回收逃走的新型機器。"
 1,"TEXT_BANLOP111_04697_SEQ_01",""
 2,"TEXT_BANLOP111_04697_SEQ_02",""
 3,"TEXT_BANLOP111_04697_SEQ_03",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANLOP111_04697_SEQ_22",""
 23,"TEXT_BANLOP111_04697_SEQ_23",""
 24,"TEXT_BANLOP111_04697_TODO_00","在海姆達爾級觀察艇殘骸附近尋找試驗型協助機"
-25,"TEXT_BANLOP111_04697_TODO_01","將試驗型協助機交給營運威"
+25,"TEXT_BANLOP111_04697_TODO_01","將試驗型協助機交給運營威"
 26,"TEXT_BANLOP111_04697_TODO_02",""
 27,"TEXT_BANLOP111_04697_TODO_03",""
 28,"TEXT_BANLOP111_04697_TODO_04",""
@@ -53,15 +53,15 @@ int32,str,str
 46,"TEXT_BANLOP111_04697_TODO_22",""
 47,"TEXT_BANLOP111_04697_TODO_23",""
 48,"TEXT_BANLOP111_04697_MANAGINGWAY_000_000","發明威緊急聯繫我，
-他說有一臺出於某種目的開發的新機器突然跑了出去。"
+他說有一台出於某種目的開發的新機器突然跑了出去。"
 49,"TEXT_BANLOP111_04697_MANAGINGWAY_000_001","發明威再次緊急聯繫了我！
 之前回收的試驗型協助機又跑了出去！"
-50,"TEXT_BANLOP111_04697_MANAGINGWAY_000_002","機器的訊號在眾多亞拉戈失控兵器
+50,"TEXT_BANLOP111_04697_MANAGINGWAY_000_002","機器的信號在眾多亞拉戈失控兵器
 徘徊的海姆達爾級觀察艇殘骸附近消失了。"
 51,"TEXT_BANLOP111_04697_MANAGINGWAY_000_003","委託如此危險的任務十分抱歉，
 但還是請你幫忙尋找並回收協助機吧！"
 52,"TEXT_BANLOP111_04697_SYSTEM_000_010","試驗型協助機似乎停止了活動。
-回收機體，交給營運威吧。"
+回收機體，交給運營威吧。"
 53,"TEXT_BANLOP111_04697_MANAGINGWAY_000_020","找到跑出去的試驗型協助機了嗎？"
 54,"TEXT_BANLOP111_04697_MANAGINGWAY_000_021","謝謝你幫忙拿了回來！
 這個機器原本是作為同伴們的玩伴而設計的……"

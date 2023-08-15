@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_LUCKMF101_03644_TODO_21",""
 46,"TEXT_LUCKMF101_03644_TODO_22",""
 47,"TEXT_LUCKMF101_03644_TODO_23",""
-48,"TEXT_LUCKMF101_03644_GUIDEOFTHEPENDANTS_000_000","啊， <Highlight>ObjectParameter(1)</Highlight> ！
+48,"TEXT_LUCKMF101_03644_GUIDEOFTHEPENDANTS_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>！
 太好了，你醒了！"
 49,"TEXT_LUCKMF101_03644_GUIDEOFTHEPENDANTS_000_001","你在格魯格火山一役受傷了吧？
 你被送回來的時候奄奄一息……
@@ -73,10 +73,10 @@ int32,str,str
 事情怎麼會變成這樣啊……"
 57,"TEXT_LUCKMF101_03644_BRAGI_000_014","算了……我在這邊嘆氣也解決不了問題。
 身為水晶都的居民，正是這種時候才更應該振作。"
-58,"TEXT_LUCKMF101_03644_BRAGI_000_015","幸好我們現在和遊末邦又恢復往來了，
+58,"TEXT_LUCKMF101_03644_BRAGI_000_015","幸好我們現在和游末邦又恢復往來了，
 為了確保隨時都能與罪魁禍首戰鬥，
 我們還是得先在整個城市中做好準備。"
-59,"TEXT_LUCKMF101_03644_BRAGI_000_016","說起來，鍊金醫療館的謝薩米爾也非常擔心你哦。"
+59,"TEXT_LUCKMF101_03644_BRAGI_000_016","說起來，煉金醫療館的謝薩米爾也非常擔心你哦。"
 60,"TEXT_LUCKMF101_03644_BRAGI_000_020","看到你醒過來我就放心了，
 可是水晶公卻……"
 61,"TEXT_LUCKMF101_03644_CHESSAMILE_000_030","啊……你……
@@ -100,8 +100,8 @@ int32,str,str
 無論到什麼時候，我最後能做的就只有祈禱。
 祈禱你、大家以及水晶公……都能平安無恙。"
 69,"TEXT_LUCKMF101_03644_MOREN_000_050","不行……這本和剛才那本書上寫得都一樣……
-乾脆換換思緒……從其他角度……"
-70,"TEXT_LUCKMF101_03644_MOREN_000_051","咦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+乾脆換換思路……從其他角度……"
+70,"TEXT_LUCKMF101_03644_MOREN_000_051","咦，<Highlight>ObjectParameter(1)</Highlight>？！
 不是我眼花了吧，真是……真是你？！"
 71,"TEXT_LUCKMF101_03644_MOREN_000_052","天啊，太讓人高興了！
 大家的祈禱成真了啊！"
@@ -119,7 +119,7 @@ int32,str,str
 如果你能去過去看看，他們一定會很高興！"
 76,"TEXT_LUCKMF101_03644_MOREN_000_060","我也會繼續調查，
 絕不讓至今所做的一切白費！"
-77,"TEXT_LUCKMF101_03644_KATLISS_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+77,"TEXT_LUCKMF101_03644_KATLISS_000_070","<Highlight>ObjectParameter(1)</Highlight>！
 你醒了啊！"
 78,"TEXT_LUCKMF101_03644_KATLISS_000_071","啊，真是太好了……
 跟你有過來往的部門的人都非常擔心你，
@@ -154,13 +154,13 @@ int32,str,str
 他從幾年前就消失得無影無蹤，連個音訊都沒有。"
 91,"TEXT_LUCKMF101_03644_KATLISS_000_084","他原本就是個為製作而活的男人，
 或許現在也在某個地方專心致志地投身製作吧，
-可惜我連聯繫他的方法都沒有。"
+可惜我連聯絡他的方法都沒有。"
 92,"TEXT_LUCKMF101_03644_GLYNARD_000_085","這樣啊……
 可是現在正是需要他的時候啊……"
 93,"TEXT_LUCKMF101_03644_GLYNARD_000_086","算了，如果那個古怪的優秀工匠是你真正需要的人，
 那你總有一天會見到他的。"
 94,"TEXT_LUCKMF101_03644_GLYNARD_000_087","我以前從客人那裡聽了幾十個
-這種不可思議的命中註定的故事。
+這種不可思議的命中注定的故事。
 至於是真是假就……管他呢。"
 95,"TEXT_LUCKMF101_03644_KATLISS_000_088","是啊……
 工藝館也會試著想想辦法，如果你能見到他的話，

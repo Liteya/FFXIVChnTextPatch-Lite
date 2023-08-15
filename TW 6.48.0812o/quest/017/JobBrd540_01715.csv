@@ -52,7 +52,7 @@ int32,str,str
 46,"TEXT_JOBBRD540_01715_TODO_22",""
 47,"TEXT_JOBBRD540_01715_TODO_23",""
 48,"TEXT_JOBBRD540_01715_GUYDELOT_000_000","我要遵從自己的內心而行動……"
-49,"TEXT_JOBBRD540_01715_SANSON_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有個好消息要告訴你！
+49,"TEXT_JOBBRD540_01715_SANSON_000_005","<Highlight>ObjectParameter(1)</Highlight>，我有個好消息要告訴你！
 還記得上次你跟吉德洛一起救的騎士阿拉穆南嗎？
 他給我提供了關於終焉的戰歌的情報！"
 50,"TEXT_JOBBRD540_01715_SANSON_000_006","會吟唱那首威力無窮的戰歌的女士就在聖菲內雅連隊露營地。
@@ -63,7 +63,7 @@ int32,str,str
 不，是不想再唱下去了……"
 53,"TEXT_JOBBRD540_01715_GUYDELOT_000_011","不願意的話就不要唱了。
 唱歌這種事可不是讓人強迫的。"
-54,"TEXT_JOBBRD540_01715_SANSON_000_015"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真是太難辦了。
+54,"TEXT_JOBBRD540_01715_SANSON_000_015","<Highlight>ObjectParameter(1)</Highlight>，真是太難辦了。
 雖說我們已經找到了吟唱那首詩歌的女士……
 可不知道為何，那位叫塞蕾娜的女士就是不願意唱給我們聽。"
 55,"TEXT_JOBBRD540_01715_SANSON_000_016","現在吉德洛正在想方設法與她進行溝通。
@@ -129,7 +129,7 @@ int32,str,str
 前線的戰鬥就交給我們吧！"
 79,"TEXT_JOBBRD540_01715_GUYDELOT_000_058","你負責的地方可不是這裡吧？
 我會盯著桑松他們的。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你就專注於自己的戰鬥吧！"
+<Highlight>ObjectParameter(1)</Highlight>，你就專注於自己的戰鬥吧！"
 80,"TEXT_JOBBRD540_01715_CELAINE_000_060","又有人犧牲了……"
 81,"TEXT_JOBBRD540_01715_GUYDELOT_000_061","作戰好像成功了。
 不過真沒想到，龍族的眷屬竟然這麼厲害……"
@@ -141,7 +141,7 @@ int32,str,str
 85,"TEXT_JOBBRD540_01715_CELAINE_100_067","<Emphasis>安息吧…… 安息吧…… 勇敢的騎士……
 在這冰天雪地的宮殿…… 哈羅妮的身邊……
 讓高貴的靈魂合上雙眼…… 靜靜入眠……</Emphasis>"
-86,"TEXT_JOBBRD540_01715_SANSON_000_068","這是……傳承在伊修加爾德的安魂曲？"
+86,"TEXT_JOBBRD540_01715_SANSON_000_068","這是……傳承在伊修加德的安魂曲？"
 87,"TEXT_JOBBRD540_01715_GUYDELOT_000_070","這首歌就是「讓所有的靈魂回歸天際」……
 ……原來是這樣，這就是塞蕾娜的詩歌啊。"
 88,"TEXT_JOBBRD540_01715_SANSON_000_072","我竟然想要勉強她唱安魂曲……"
@@ -159,7 +159,7 @@ int32,str,str
 因為離別太痛苦，我就不再與人深交，與誰都保持距離。
 儘管如此，看見認識的人逝去還是會難過……"
 95,"TEXT_JOBBRD540_01715_GUYDELOT_000_082","既然如此，為了不在離別的時候後悔，
-應該在活著的時候多說說話，彼此多些瞭解才是啊……"
+應該在活著的時候多說說話，彼此多些了解才是啊……"
 96,"TEXT_JOBBRD540_01715_CELAINE_000_083","是啊，看到了你們的表現後，我也這麼認為的……
 你們兩個個性都極其強烈，彼此完全合不來。
 如果沒有冒險者閣下在，你們很快就會散夥的……
@@ -167,7 +167,7 @@ int32,str,str
 97,"TEXT_JOBBRD540_01715_CELAINE_000_084","看來需要變得更加坦誠的不僅僅是我啊。
 不要等到失去之後才想起來珍惜，那可就晚了……"
 98,"TEXT_JOBBRD540_01715_CELAINE_000_085","我剛才唱的安魂曲，
-是一位研究古代伊修加爾德的歷史學家教我的。
+是一位研究古代伊修加德的歷史學家教我的。
 說不定他會知道你們所尋找的終焉的戰歌。"
 99,"TEXT_JOBBRD540_01715_CELAINE_000_086","他的名字叫作西爾維埃爾。
 聽說現在他正在尾羽集落對遺跡進行研究。
@@ -181,10 +181,10 @@ int32,str,str
 103,"TEXT_JOBBRD540_01715_GUYDELOT_000_097","在那首能夠毀滅一切的戰歌之中，
 到底蘊含著怎樣的激勵同伴的信念呢……"
 104,"TEXT_JOBBRD540_01715_GUYDELOT_000_100","我把從塞蕾娜的歌中得到的靈感編成旋律，寫成了歌曲……"
-105,"TEXT_JOBBRD540_01715_SANSON_000_105","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+105,"TEXT_JOBBRD540_01715_SANSON_000_105","啊，<Highlight>ObjectParameter(1)</Highlight>。
 西爾維埃爾為了調查暫時離開了村落。
 我們暫時現在只能在這裡等他回來了。"
-106,"TEXT_JOBBRD540_01715_GUYDELOT_000_106","……我說， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+106,"TEXT_JOBBRD540_01715_GUYDELOT_000_106","……我說，<Highlight>ObjectParameter(1)</Highlight>。
 你從塞蕾娜的戰鬥中得到了什麼感觸？
 如果你有所感，能不能告訴我？"
 107,"TEXT_JOBBRD540_01715_GUYDELOT_000_107","……原來如此。

@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_LUCKHA204_03958_SEQ_00","七賢堂的弗朗塞爾為商談全部談妥而鬆了一口氣。"
-1,"TEXT_LUCKHA204_03958_SEQ_01","和弗朗塞爾進行了交談。商談順利結束，和伊修加爾德蒼天街十字鎬大街的弗朗塞爾談談。"
+1,"TEXT_LUCKHA204_03958_SEQ_01","和弗朗塞爾進行了交談。商談順利結束，和伊修加德蒼天街十字鎬大街的弗朗塞爾談談。"
 2,"TEXT_LUCKHA204_03958_SEQ_02","和弗朗塞爾進行了交談，再次見到了艾因哈特家的成員。弗朗塞爾打算為冒險者介紹迎接三大國商店的場所，再次和蒼天街落羽商業區的弗朗塞爾談談。"
-3,"TEXT_LUCKHA204_03958_SEQ_03","和弗朗塞爾以及夏爾芒．德．狄蘭達爾伯爵閣下進行了交談，他們向冒險者表達了感謝，感謝能夠陪著他們一路前去商談。今後也繼續守望伊修加爾德的貴族們的努力奮鬥吧。"
+3,"TEXT_LUCKHA204_03958_SEQ_03","和弗朗塞爾以及夏爾芒·德·狄蘭達爾伯爵閣下進行了交談，他們向冒險者表達了感謝，感謝能夠陪著他們一路前去商談。今後也繼續守望伊修加德的貴族們的努力奮鬥吧。"
 4,"TEXT_LUCKHA204_03958_SEQ_04",""
 5,"TEXT_LUCKHA204_03958_SEQ_05",""
 6,"TEXT_LUCKHA204_03958_SEQ_06",""
@@ -62,7 +62,7 @@ int32,str,str
 有勞你帶路了。"
 52,"TEXT_LUCKHA204_03958_FRANCEL_000_004","那就請兩位先來到蒼天街的十字鎬大街！"
 53,"TEXT_LUCKHA204_03958_FRANCEL_000_005","我們出發回皇都吧！"
-54,"TEXT_LUCKHA204_03958_CHARLEMEND_000_010","我家也終於爭取到了貿易契約！
+54,"TEXT_LUCKHA204_03958_CHARLEMEND_000_010","我家也終於爭取到了貿易合同！
 這樣總算能挺起胸膛回到皇都了！"
 55,"TEXT_LUCKHA204_03958_CHARLEMEND_000_015","我們都等你許久了，英雄閣下。"
 56,"TEXT_LUCKHA204_03958_FRANCEL_000_030","預定用於三大國商會開店的地區——落羽商業區就在那邊！
@@ -71,7 +71,7 @@ int32,str,str
 58,"TEXT_LUCKHA204_03958_STEPHANIVIEN_000_032","(-？？？？-)弗朗塞爾，你回來了啊！"
 59,"TEXT_LUCKHA204_03958_FRANCEL_000_033","哥哥！姐姐！"
 60,"TEXT_LUCKHA204_03958_STEPHANIVIEN_000_034","我們從奧瓦埃爾和豐克里諾那裡聽說了！
-你居然能從三大國那裡爭取到了貿易契約，
+你居然能從三大國那裡爭取到了貿易合同，
 真有你的啊！"
 61,"TEXT_LUCKHA204_03958_AURVAEL_000_035","蒼天街的工程看起來進展得很順利啊。
 在雲冠群島的採集活動能成為公共事業，
@@ -79,9 +79,9 @@ int32,str,str
 62,"TEXT_LUCKHA204_03958_LANIAITTE_000_036","你幹得真不錯，弗朗塞爾。
 我這個當姐姐的為你感到自豪。"
 63,"TEXT_LUCKHA204_03958_FRANCEL_000_037","你們都太過獎了……
-此次能談妥，都是因為有熟悉三大國的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 當嚮導，
-以及夏爾芒．德．狄蘭達爾伯爵閣下高明的交涉手段！"
-64,"TEXT_LUCKHA204_03958_LANIAITTE_000_038"," <Highlight>ObjectParameter(1)</Highlight> 閣下，
+此次能談妥，都是因為有熟悉三大國的<Highlight>ObjectParameter(1)</Highlight>當嚮導，
+以及夏爾芒·德·狄蘭達爾伯爵閣下高明的交涉手段！"
+64,"TEXT_LUCKHA204_03958_LANIAITTE_000_038","<Highlight>ObjectParameter(1)</Highlight>閣下，
 我聽說你平時就在為蒼天街奉獻著自己的力量。
 看來我們家真是欠了你很多的人情呢。"
 65,"TEXT_LUCKHA204_03958_LANIAITTE_000_039","還有狄蘭達爾伯爵閣下。
@@ -90,7 +90,7 @@ int32,str,str
 66,"TEXT_LUCKHA204_03958_CHARLEMEND_000_040","啊、不，我只是……"
 67,"TEXT_LUCKHA204_03958_AURVAEL_000_041","弗朗塞爾，
 今天我們幾個過來就是打算舉全家之力來幫助你的事業。"
-68,"TEXT_LUCKHA204_03958_LANIAITTE_000_042","沒錯，雖說你已經爭取到了與三大國商會的貿易契約，
+68,"TEXT_LUCKHA204_03958_LANIAITTE_000_042","沒錯，雖說你已經爭取到了與三大國商會的貿易合同，
 不過要是我國沒有能夠出口的商品，
 那國家的金錢就只會不停地外流，算不上是平等的貿易了。"
 69,"TEXT_LUCKHA204_03958_STEPHANIVIEN_000_043","那個，在落羽商業區的一角
@@ -105,7 +105,7 @@ int32,str,str
 不僅如此，在戰爭中他們還失去了親人、朋友、部下……
 但即使這樣，他們也依然在積極面對，努力向前。"
 75,"TEXT_LUCKHA204_03958_CHARLEMEND_000_049","只有在和平的年代，他們認真而又溫厚的優點
-才能展現出真正的價值吧。"
+才能體現出真正的價值吧。"
 76,"TEXT_LUCKHA204_03958_CHARLEMEND_000_050","如果我兒子要是能在這裡，
 能像他們一樣承擔起祖國的未來的話……
 那該有多好啊……"
@@ -120,8 +120,8 @@ int32,str,str
 那我們就前往落羽商業區
 看看商會的準備工作有沒有什麼進展吧！"
 81,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_060","就是這裡啊。
-看起來蠻像樣的嘛。"
-82,"TEXT_LUCKHA204_03958_FRANCEL_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，伯爵閣下！
+看起來挺像樣的嘛。"
+82,"TEXT_LUCKHA204_03958_FRANCEL_000_070","<Highlight>ObjectParameter(1)</Highlight>，伯爵閣下！
 就是這邊！"
 83,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_071","已經準備到這個程度了嗎？"
 84,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_072","我時常認為與我們相比，
@@ -130,12 +130,12 @@ int32,str,str
 85,"TEXT_LUCKHA204_03958_FRANCEL_000_073","沒錯，正是有了這種強大的行動力，
 貿易很快就可以開始進行了。
 這都是多虧了伯爵閣下……"
-86,"TEXT_LUCKHA204_03958_FRANCEL_000_074"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、哥哥、姐姐，
+86,"TEXT_LUCKHA204_03958_FRANCEL_000_074","<Highlight>ObjectParameter(1)</Highlight>、哥哥、姐姐，
 以及眾多在幕後努力的人們。
 正是因為有了大家的支持，才能達成眼前的這幅景象。"
 87,"TEXT_LUCKHA204_03958_FRANCEL_000_075","真的、真的是非常感謝！"
 88,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_076","不，該道謝的應該是我才對。
-我家能爭取到貿易契約全是託了你們的福。
+我家能爭取到貿易合同全是託了你們的福。
 而且這也成為了一個審視自己的好機會。"
 89,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_077","還有，那個……
 給你們添了好幾次麻煩，實在是抱歉。"
@@ -151,7 +151,7 @@ int32,str,str
 在這之後是否有空呢？
 我有些事情想跟你商量。"
 94,"TEXT_LUCKHA204_03958_FRANCEL_000_082","那我就先走一步了。"
-95,"TEXT_LUCKHA204_03958_FRANCEL_000_083"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，以後見！"
+95,"TEXT_LUCKHA204_03958_FRANCEL_000_083","<Highlight>ObjectParameter(1)</Highlight>，以後見！"
 96,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_084","真是的，像他那樣的年輕人太識趣反而會招人討厭呢。
 要說的又不是什麼見不得人的事情……"
 97,"TEXT_LUCKHA204_03958_CHARLEMENDL_000_085","我想跟英雄閣下商量的是關於雲霧街的問題。

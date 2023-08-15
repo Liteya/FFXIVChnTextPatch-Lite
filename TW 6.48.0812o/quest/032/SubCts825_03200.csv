@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_SUBCTS825_03200_TODO_23",""
 48,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_001","賣報了賣報了！
 哎呀，那邊路過的<If(PlayerParameter(4))>小姐<Else/>老爺</If>！
-你有沒有興趣瞭解一下收服了神威的英雄？"
+你有沒有興趣了解一下收服了神威的英雄？"
 49,"TEXT_SUBCTS825_03200_Q1_000_000","如何作答？"
 50,"TEXT_SUBCTS825_03200_A1_000_001","就是我！"
 51,"TEXT_SUBCTS825_03200_A1_000_002","沒興趣……"
@@ -90,7 +90,7 @@ int32,str,str
 你的英勇傳說還遠不會結束呢。"
 65,"TEXT_SUBCTS825_03200_WANDERINGMINSTREL_000_028","請讓我也一起見證你與九尾相會的奇蹟時刻吧！
 這種罕有的體驗一定能幫我創作出震撼人心的英雄詩篇。"
-66,"TEXT_SUBCTS825_03200_WANDERINGMINSTREL_000_029","那就快去玄水連山的高臺吧。
+66,"TEXT_SUBCTS825_03200_WANDERINGMINSTREL_000_029","那就快去玄水連山的高台吧。
 在那裡吹響<Sheet(EventItem,2002496,0)/>的話，
 笛聲就能夠響徹山谷，傳說中的幻獸也能聽到了吧。"
 67,"TEXT_SUBCTS825_03200_WANDERINGMINSTREL_000_030","我當然不會打擾這奇蹟的瞬間的。

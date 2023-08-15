@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_BANLOP109_04695_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-希望的貨艙的營運威希望冒險者幫忙改良清掃機。"
+希望的貨艙的運營威希望冒險者幫忙改良清掃機。"
 1,"TEXT_BANLOP109_04695_SEQ_01","和最偉大的森林的喜歡掃除的兔兔族對話"
-2,"TEXT_BANLOP109_04695_SEQ_02","將委託的物品交給營運威"
+2,"TEXT_BANLOP109_04695_SEQ_02","將委託的物品交給運營威"
 3,"TEXT_BANLOP109_04695_SEQ_03",""
 4,"TEXT_BANLOP109_04695_SEQ_04",""
 5,"TEXT_BANLOP109_04695_SEQ_05",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANLOP109_04695_SEQ_22",""
 23,"TEXT_BANLOP109_04695_SEQ_23",""
 24,"TEXT_BANLOP109_04695_TODO_00","和最偉大的森林的喜歡掃除的兔兔族對話"
-25,"TEXT_BANLOP109_04695_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給營運威</If><Else/></If></If></If></If></If></If></If></If>"
+25,"TEXT_BANLOP109_04695_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給運營威</If><Else/></If></If></If></If></If></If></If></If>"
 26,"TEXT_BANLOP109_04695_TODO_02",""
 27,"TEXT_BANLOP109_04695_TODO_03",""
 28,"TEXT_BANLOP109_04695_TODO_04",""
@@ -52,14 +52,14 @@ int32,str,str
 45,"TEXT_BANLOP109_04695_TODO_21",""
 46,"TEXT_BANLOP109_04695_TODO_22",""
 47,"TEXT_BANLOP109_04695_TODO_23",""
-48,"TEXT_BANLOP109_04695_MANAGINGWAY_000_000","多虧了 <Highlight>ObjectParameter(1)</Highlight> 大人，夢明工作室這裡不斷地有同伴們來訪。
-可來客一多起來，清潔的工作量也就隨之變多了。"
+48,"TEXT_BANLOP109_04695_MANAGINGWAY_000_000","多虧了<Highlight>ObjectParameter(1)</Highlight>大人，夢明工作室這裡不斷地有同伴們來訪。
+可來客一多起來，保潔的工作量也就隨之變多了。"
 49,"TEXT_BANLOP109_04695_MANAGINGWAY_000_001","為此我和發明威商量之後，
 決定對掃除機器「清掃機」進行改良，
-而改良需要幾個關鍵的元件。"
+而改良需要幾個關鍵的部件。"
 50,"TEXT_BANLOP109_04695_MANAGINGWAY_000_002","按照發明威的說法，掃除機器「清掃機」還有改良的餘地，
 既然如此那我們就盡可能地追求更高的清掃性能吧！"
-51,"TEXT_BANLOP109_04695_MANAGINGWAY_000_003","所以這次也得請你幫忙製作元件啦！
+51,"TEXT_BANLOP109_04695_MANAGINGWAY_000_003","所以這回也得請你幫忙製作部件啦！
 首先麻煩你去一趟最偉大的森林，
 從喜歡掃除的兔兔族那裡索要必需的材料吧！"
 52,"TEXT_BANLOP109_04695_LOPORRIT04695_000_010","我最愛掃除了！
@@ -73,7 +73,7 @@ int32,str,str
 幫忙製作出用在動力原料的<Sheet(Item,38865,0)/>吧！"
 56,"TEXT_BANLOP109_04695_LOPORRIT04695_000_014","如果材料不夠用了，
 我會再給你的。
-等完成之後請交給營運威吧！"
+等完成之後請交給運營威吧！"
 57,"TEXT_BANLOP109_04695_LOPORRIT04695_000_020","哎呀，材料不夠用了嗎？
 嗯？這不是還沒有用完嗎？"
 58,"TEXT_BANLOP109_04695_LOPORRIT04695_000_021","哎呀，材料不夠用了嗎？

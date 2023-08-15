@@ -52,16 +52,16 @@ int32,str,str
 45,"TEXT_LUCKZH303_03535_TODO_21",""
 46,"TEXT_LUCKZH303_03535_TODO_22",""
 47,"TEXT_LUCKZH303_03535_TODO_23",""
-48,"TEXT_LUCKZH303_03535_TOLAS_100_000","…………。"
+48,"TEXT_LUCKZH303_03535_TOLAS_100_000","……"
 49,"TEXT_LUCKZH303_03535_MAUWYL_000_000","我說托拉斯，你以前不是這樣的啊。
 能不能跟我說說你到底是怎麼了啊？"
-50,"TEXT_LUCKZH303_03535_TOLAS_000_001","…………。"
-51,"TEXT_LUCKZH303_03535_MAUWYL_000_002"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+50,"TEXT_LUCKZH303_03535_TOLAS_000_001","……"
+51,"TEXT_LUCKZH303_03535_MAUWYL_000_002","<Highlight>ObjectParameter(1)</Highlight>，
 請告訴我他到底是怎麼了。
 托拉斯好像完全不願意跟我談談。"
 52,"TEXT_LUCKZH303_03535_TOLAS_000_003","……算了，還是我來說明吧。
 雖然我一直猶豫要不要說，
-不過我想還是由我來親口告訴你比較適合吧。"
+不過我想還是由我來親口告訴你比較合適吧。"
 53,"TEXT_LUCKZH303_03535_TOLAS_000_004","（★未使用／削除予定★）"
 54,"TEXT_LUCKZH303_03535_MAUWYL_000_005","在大襲擊的時候居然發生了這樣的事情……"
 55,"TEXT_LUCKZH303_03535_TOLAS_000_006","我是一個只顧自己而捨棄了夥伴的膽小鬼。
@@ -85,10 +85,10 @@ int32,str,str
 啊，對了，現在就開始去鍛鍊……"
 62,"TEXT_LUCKZH303_03535_MAUWYL_000_013","我都說了不行！你現在需要徹底地休養才行！
 "
-63,"TEXT_LUCKZH303_03535_MAUWYL_100_013","我說 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+63,"TEXT_LUCKZH303_03535_MAUWYL_100_013","我說<Highlight>ObjectParameter(1)</Highlight>，
 你是不是也這麼認為的？"
 64,"TEXT_LUCKZH303_03535_MAUWYL_000_014","你看，<If(PlayerParameter(4))>她<Else/>他</If>也在這麼說！
-而且現在的你沒辦法像之前那樣戰鬥了吧？"
+而且現在的你沒法像之前那樣戰鬥了吧？"
 65,"TEXT_LUCKZH303_03535_MAUWYL_000_015","這種狀態下，下次或許就真的會有夥伴因為你而受到傷害啊。
 你又不是理解不了這種利害關係的男人！"
 66,"TEXT_LUCKZH303_03535_TOLAS_000_016","……你們說的有道理。
@@ -99,25 +99,25 @@ int32,str,str
 68,"TEXT_LUCKZH303_03535_TOLAS_000_018","你一會不是還有工作要幹嗎？
 我還沒淪落到就連休假也要靠別人幫忙請示的地步。"
 69,"TEXT_LUCKZH303_03535_MAUWYL_000_019","……不妙，我完全忘記了工作的事情。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩你替我盯著點托拉斯，
+<Highlight>ObjectParameter(1)</Highlight>，麻煩你替我盯著點托拉斯，
 看他到底有沒有認真地休假！"
 70,"TEXT_LUCKZH303_03535_MAUWYL_000_020","謝謝！
 我得趕緊走了！
 托拉斯的事情就拜託給你了！"
-71,"TEXT_LUCKZH303_03535_ATLI_100_030","哦哦， <Highlight>ObjectParameter(1)</Highlight> ！
+71,"TEXT_LUCKZH303_03535_ATLI_100_030","哦哦，<Highlight>ObjectParameter(1)</Highlight>！
 之前的戰鬥有勞你了。
 多虧了你，有好幾位士兵得救了。"
-72,"TEXT_LUCKZH303_03535_TOLAS_000_030","啊，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+72,"TEXT_LUCKZH303_03535_TOLAS_000_030","啊，是<Highlight>ObjectParameter(1)</Highlight>啊。
 我猜八成是馬維爾叫你來盯著我吧？
 我是不會辜負他的好意的。"
-73,"TEXT_LUCKZH303_03535_ATLI_000_031","哦， <Highlight>ObjectParameter(1)</Highlight> ！
+73,"TEXT_LUCKZH303_03535_ATLI_000_031","哦，<Highlight>ObjectParameter(1)</Highlight>！
 之前的戰鬥多虧了你啊。
 在你幫助下，不知道有多少的士兵得救了！"
 74,"TEXT_LUCKZH303_03535_ATLI_000_032","我正好命令托拉斯去休假。
 機會難得，那就你們兩人去清融街那邊怎麼樣？
 放鬆放鬆，緩解一下戰鬥的疲勞。"
 75,"TEXT_LUCKZH303_03535_TOLAS_000_033","嗯……溫泉啊，不錯啊。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你意下如何？"
+<Highlight>ObjectParameter(1)</Highlight>，你意下如何？"
 76,"TEXT_LUCKZH303_03535_TOLAS_000_034","當然我不會強求你去。
 你要是有興趣的話就來清融街一趟吧。"
 77,"TEXT_LUCKZH303_03535_ATLI_000_035","難得的機會。
@@ -150,15 +150,15 @@ int32,str,str
 94,"TEXT_LUCKZH303_03535_TOLAS_000_059","……我曾經也想作為優秀的武人而進行過無數次的鍛鍊。
 可是現在卻成了一個連武器都拿不穩的膽小鬼。
 我都已經弄不清楚到底是為了什麼戰鬥到現在。"
-95,"TEXT_LUCKZH303_03535_TOLAS_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+95,"TEXT_LUCKZH303_03535_TOLAS_000_060","<Highlight>ObjectParameter(1)</Highlight>，
 你為什麼能去戰鬥？
 到底是為什麼而戰？"
 96,"TEXT_LUCKZH303_03535_Q2_000_061","究竟是為何而戰？"
-97,"TEXT_LUCKZH303_03535_A2_000_062","身上揹負著別人的期望"
+97,"TEXT_LUCKZH303_03535_A2_000_062","身上背負著別人的期望"
 98,"TEXT_LUCKZH303_03535_A2_000_063","有想要守護的東西"
-99,"TEXT_LUCKZH303_03535_A2_000_064","…………"
+99,"TEXT_LUCKZH303_03535_A2_000_064","……"
 100,"TEXT_LUCKZH303_03535_TOLAS_000_065","別人的期望啊……
-你揹負的那份期望肯定比我的那份要沉重的多吧。"
+你背負的那份期望肯定比我的那份要沉重的多吧。"
 101,"TEXT_LUCKZH303_03535_TOLAS_000_066","想要守護啊……
 我想要守護的是……"
 102,"TEXT_LUCKZH303_03535_TOLAS_000_067","抱歉，我想這不是能夠輕易跟別人談起的事情，
@@ -167,7 +167,7 @@ int32,str,str
 是為了成為像是曾祖父那樣守護弱者的偉大騎士嗎？
 還是因為我作為繼承了這份血脈的人所擁有的矜持嗎？"
 104,"TEXT_LUCKZH303_03535_TOLAS_000_069","這份情感現在明明就在我心中，
-而我為什麼沒辦法戰鬥了？"
+而我為什麼沒法戰鬥了？"
 105,"TEXT_LUCKZH303_03535_SOLDIER03535_000_070","休假中打擾了！"
 106,"TEXT_LUCKZH303_03535_SOLDIER03535_000_071","有情報顯示運送物資的團隊遭遇了獨行食罪靈的襲擊！
 據說現在馬維爾行蹤不明！"
@@ -186,6 +186,6 @@ int32,str,str
 115,"TEXT_LUCKZH303_03535_TOLAS_000_080","……不清楚。
 不過要是不去的話我一定會後悔的！
 我可不想在這裡乾等著！"
-116,"TEXT_LUCKZH303_03535_TOLAS_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你的協助。
+116,"TEXT_LUCKZH303_03535_TOLAS_000_090","<Highlight>ObjectParameter(1)</Highlight>，感謝你的協助。
 雖然我也不清楚自己能否像以前一樣戰鬥，
 不過我打算做我力所能及之事。"

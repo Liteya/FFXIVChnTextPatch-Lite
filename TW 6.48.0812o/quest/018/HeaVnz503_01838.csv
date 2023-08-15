@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ503_01838_SEQ_00","莫古利之家關懷備至的莫古利在盯著強力草看。"
-1,"TEXT_HEAVNZ503_01838_SEQ_01","和關懷備至的莫古利進行了交談。對翻雲霧海招惡荒島的<Sheet(BNpcName,3627,0)/>使用<Sheet(EventItem,2001642,0)/>，取得其身上的<Sheet(EventItem,2001643,0)/>。"
-2,"TEXT_HEAVNZ503_01838_SEQ_02","得到了<Sheet(EventItem,2001643,0)/>。將<Sheet(EventItem,2001643,0)/>交給莫古利之家關懷備至的莫古利。"
-3,"TEXT_HEAVNZ503_01838_SEQ_03","將<Sheet(EventItem,2001643,0)/>交給了關懷備至的莫古利。據說<Sheet(EventItem,2001643,0)/>和強力草一起熬成的藥茶可以有效地退燒。這下總算可以給虛弱無力的莫古利吃藥了。"
+0,"TEXT_HEAVNZ503_01838_SEQ_00","莫古力之家關懷備至的莫古力在盯著強力草看。"
+1,"TEXT_HEAVNZ503_01838_SEQ_01","和關懷備至的莫古力進行了交談。對翻雲霧海招惡荒島的<Sheet(BNpcName,3627,0)/>使用<Sheet(EventItem,2001642,0)/>，取得其身上的<Sheet(EventItem,2001643,0)/>。"
+2,"TEXT_HEAVNZ503_01838_SEQ_02","得到了<Sheet(EventItem,2001643,0)/>。將<Sheet(EventItem,2001643,0)/>交給莫古力之家關懷備至的莫古力。"
+3,"TEXT_HEAVNZ503_01838_SEQ_03","將<Sheet(EventItem,2001643,0)/>交給了關懷備至的莫古力。據說<Sheet(EventItem,2001643,0)/>和強力草一起熬成的藥茶可以有效地退燒。這下總算可以給虛弱無力的莫古力吃藥了。"
 4,"TEXT_HEAVNZ503_01838_SEQ_04",""
 5,"TEXT_HEAVNZ503_01838_SEQ_05",""
 6,"TEXT_HEAVNZ503_01838_SEQ_06",""
@@ -26,8 +26,8 @@ int32,str,str
 22,"TEXT_HEAVNZ503_01838_SEQ_22",""
 23,"TEXT_HEAVNZ503_01838_SEQ_23",""
 24,"TEXT_HEAVNZ503_01838_TODO_00","對<Sheet(BNpcName,3627,0)/>使用<Sheet(EventItem,2001642,0)/>
-獲得<Sheet(EventItem,2001643,0)/>"
-25,"TEXT_HEAVNZ503_01838_TODO_01","將<Sheet(EventItem,2001643,0)/>交給關懷備至的莫古利"
+獲取<Sheet(EventItem,2001643,0)/>"
+25,"TEXT_HEAVNZ503_01838_TODO_01","將<Sheet(EventItem,2001643,0)/>交給關懷備至的莫古力"
 26,"TEXT_HEAVNZ503_01838_TODO_02",""
 27,"TEXT_HEAVNZ503_01838_TODO_03",""
 28,"TEXT_HEAVNZ503_01838_TODO_04",""

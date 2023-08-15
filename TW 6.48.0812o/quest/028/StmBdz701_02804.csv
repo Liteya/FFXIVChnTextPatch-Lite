@@ -29,7 +29,7 @@ int32,str,str
 25,"TEXT_STMBDZ701_02804_TODO_01","在<Sheet(EObj,2008837,0)/>張望"
 26,"TEXT_STMBDZ701_02804_TODO_02","和敖龍族女武士對話"
 27,"TEXT_STMBDZ701_02804_TODO_03","在<Sheet(EObj,2008838,0)/>張望"
-28,"TEXT_STMBDZ701_02804_TODO_04","獲得<Sheet(EObj,2008839,0)/>"
+28,"TEXT_STMBDZ701_02804_TODO_04","獲取<Sheet(EObj,2008839,0)/>"
 29,"TEXT_STMBDZ701_02804_TODO_05","將<Sheet(EventItem,2002341,0)/>交給敖龍族女武士"
 30,"TEXT_STMBDZ701_02804_TODO_06",""
 31,"TEXT_STMBDZ701_02804_TODO_07",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ701_02804_TODO_21",""
 46,"TEXT_STMBDZ701_02804_TODO_22",""
 47,"TEXT_STMBDZ701_02804_TODO_23",""
-48,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_000","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？
+48,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_000","你就是<Highlight>ObjectParameter(1)</Highlight>嗎？
 我從同志那裡聽說了有關你的傳聞。
 如果可以的話，我想請你幫個忙。"
 49,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_001","我接下來要去見協助者，
@@ -63,7 +63,7 @@ int32,str,str
 我先過去了，咱們當地見吧。"
 52,"TEXT_STMBDZ701_02804_NAMAZUO02804_000_004","原定是向旁邊這位女性進行報告噗，
 失禮了噗。"
-53,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_010","你來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+53,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_010","你來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 那麼，我要和這位協助者單獨談一談，
 請你在附近張望、監視一下，以免有危險。"
 54,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_011","我要和這位協助者單獨談一談，
@@ -71,7 +71,7 @@ int32,str,str
 55,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_020","謝謝你。
 協助者中有鯰魚精……是不是很驚訝？"
 56,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_021","帝國軍認為鯰魚精是一種愚鈍的種族，
-所以他們才能輕易接近帝國軍，並獲得情報。"
+所以他們才能輕易接近帝國軍，並獲取情報。"
 57,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_022","而且他們同族的棲息地分布得非常廣，
 有著不可小瞧的情報網。
 這次他們帶來的是延夏鄰近地區的情報。"
@@ -94,8 +94,8 @@ int32,str,str
 64,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_042","就麻煩你將<Sheet(EObj,2008839,0)/>
 搬回烈士庵吧，拜託了！"
 65,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_050","你把<Sheet(EventItem,2002341,0)/>拿回來了？"
-66,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_051","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
-多虧了你，我才能儘早向同志們發出警告，
+66,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_051","謝謝你，<Highlight>ObjectParameter(1)</Highlight>。
+多虧了你，我才能盡早向同志們發出警告，
 並派出偵察員。"
 67,"TEXT_STMBDZ701_02804_LADYSOLDIER02804_000_052","不過，雖說是強盜，但他們其實也是受帝國支配的被害者……
 如果不是強制徵兵，或許會有不一樣的未來吧。

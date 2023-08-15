@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNA113_01592_SEQ_00","玫瑰園的拉妮艾特想要獲得冒險者的幫助。"
-1,"TEXT_HEAVNA113_01592_SEQ_01","拉妮艾特委託冒險者協助負責瓦努族相關事宜的瑪麗埃勒。向玫瑰園的瑪麗埃勒瞭解詳情。"
+1,"TEXT_HEAVNA113_01592_SEQ_01","拉妮艾特委託冒險者協助負責瓦努族相關事宜的瑪麗埃勒。向玫瑰園的瑪麗埃勒了解詳情。"
 2,"TEXT_HEAVNA113_01592_SEQ_02","瑪麗埃勒委託冒險者進行巡邏。在阿巴拉提亞雲海雲頂營地的<Sheet(EObj,2005409,0)/>巡邏，討伐出現的瓦努族。"
 3,"TEXT_HEAVNA113_01592_SEQ_03","在所有的<Sheet(EObj,2005409,0)/>巡邏完畢。向玫瑰園的瑪麗埃勒報告。"
 4,"TEXT_HEAVNA113_01592_SEQ_04","向瑪麗埃勒報告完畢。聽聞冒險者在巡邏時擊退了瓦努族，瑪麗埃勒表示非常放心。"
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_HEAVNA113_01592_TODO_22",""
 47,"TEXT_HEAVNA113_01592_TODO_23",""
 48,"TEXT_HEAVNA113_01592_LANIAITTE_000_000","讓我們進入正題吧。
-首先我想要讓你瞭解一下我們的敵人，
+首先我想要讓你了解一下我們的敵人，
 就是先前曾提到過的原住民瓦努族。"
 49,"TEXT_HEAVNA113_01592_LANIAITTE_000_001","幾年前，初涉此地的我們向他們贈送了一些禮物，
 並得到了在此建設據點的許可。
@@ -58,11 +58,11 @@ int32,str,str
 50,"TEXT_HEAVNA113_01592_LANIAITTE_000_002","但在那之後，他們的態度突然就轉變了。
 現如今是一見到人就會無差別攻擊過來，
 給我們平時調配、搜集物資也帶來了很大影響。"
-51,"TEXT_HEAVNA113_01592_LANIAITTE_000_003"," <Highlight>ObjectParameter(1)</Highlight> 閣下，我希望你能去協助一下瑪麗埃勒。
+51,"TEXT_HEAVNA113_01592_LANIAITTE_000_003","<Highlight>ObjectParameter(1)</Highlight>閣下，我希望你能去協助一下瑪麗埃勒。
 她是我們這邊負責解決瓦努族問題的人。"
-52,"TEXT_HEAVNA113_01592_LANIAITTE_000_004"," <Highlight>ObjectParameter(1)</Highlight> 閣下，我希望你能去協助一下瑪麗埃勒。
+52,"TEXT_HEAVNA113_01592_LANIAITTE_000_004","<Highlight>ObjectParameter(1)</Highlight>閣下，我希望你能去協助一下瑪麗埃勒。
 她是我們這邊負責解決瓦努族問題的人。"
-53,"TEXT_HEAVNA113_01592_MARIELLE_000_010","是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>小姐<Else/>先生</If>吧？
+53,"TEXT_HEAVNA113_01592_MARIELLE_000_010","是<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>先生</If>吧？
 拉妮艾特隊長已經聯繫過我了。"
 54,"TEXT_HEAVNA113_01592_MARIELLE_000_011","我們部隊的任務是警戒並趕走接近本據點的瓦努族。"
 55,"TEXT_HEAVNA113_01592_MARIELLE_000_012","瓦努族是這個浮島上的原住民，
@@ -74,7 +74,7 @@ int32,str,str
 如果有瓦努族出現的話就將他們擊退。
 他們雖然看似肥胖，但實際上卻靈敏異常，請千萬小心。"
 58,"TEXT_HEAVNA113_01592_SYSTEM_000_020","沒在這附近發現瓦努族……"
-59,"TEXT_HEAVNA113_01592_MARIELLE_000_030","辛苦了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>小姐<Else/>先生</If>。
+59,"TEXT_HEAVNA113_01592_MARIELLE_000_030","辛苦了，<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>先生</If>。
 瓦努族出現了嗎？"
 60,"TEXT_HEAVNA113_01592_MARIELLE_000_031","原來如此，看來得稍微加強警戒了……
 話說，看起來你解決得很輕鬆嘛。

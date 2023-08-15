@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANKOB105_01329_SEQ_00","第789洞穴團採礦地的第789團清潔工博茲顯得很慌張。"
-1,"TEXT_BANKOB105_01329_SEQ_01","據第789團清潔工博茲所說，採礦地所飼養的<Sheet(BNpcName,2688,0)/>逃跑了，為此他十分困擾。在黑金湖尋找並討伐<Sheet(BNpcName,2688,0)/>，獲得3個<Sheet(EventItem,2001201,0)/>。"
+1,"TEXT_BANKOB105_01329_SEQ_01","據第789團清潔工博茲所說，採礦地所飼養的<Sheet(BNpcName,2688,0)/>逃跑了，為此他十分困擾。在黑金湖尋找並討伐<Sheet(BNpcName,2688,0)/>，獲取3個<Sheet(EventItem,2001201,0)/>。"
 2,"TEXT_BANKOB105_01329_SEQ_02","從<Sheet(BNpcName,2688,0)/>身上獲得了<Sheet(EventItem,2001201,0)/>。將<Sheet(EventItem,2001201,0)/>交給第789洞穴團採礦地的第789團清潔工博茲。"
 3,"TEXT_BANKOB105_01329_SEQ_03","將<Sheet(EventItem,2001201,0)/>交給了第789團清潔工博茲。只要有了<Sheet(EventItem,2001201,0)/>，就能令爆彈怪再生。爆彈怪不聽話，這令第789團清潔工博茲很是困擾。如果下次爆彈怪再逃跑，要及時趕去幫忙，以免出現不必要的傷亡。"
 4,"TEXT_BANKOB105_01329_SEQ_04",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANKOB105_01329_SEQ_22",""
 23,"TEXT_BANKOB105_01329_SEQ_23",""
 24,"TEXT_BANKOB105_01329_TODO_00","在黑金湖尋找並打倒<Sheet(BNpcName,2688,0)/>
-獲得<Sheet(EventItem,2001201,0)/>"
+獲取<Sheet(EventItem,2001201,0)/>"
 25,"TEXT_BANKOB105_01329_TODO_01","將<Sheet(EventItem,2001201,0)/>交給第789團清潔工博茲"
 26,"TEXT_BANKOB105_01329_TODO_02",""
 27,"TEXT_BANKOB105_01329_TODO_03",""
@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_BANKOB105_01329_TODO_23",""
 48,"TEXT_BANKOB105_01329_BOZU_000_000","不好了 大事不好了！
 我一個不留神 採礦地養的<Sheet(BNpcName,2688,0)/> 就逃跑了！"
-49,"TEXT_BANKOB105_01329_BOZU_000_001","一定是因為 我們沒有好好照顧它們 沒有滿足它們的需求
+49,"TEXT_BANKOB105_01329_BOZU_000_001","肯定是因為 我們沒有好好照顧它們 沒有滿足它們的需求
 於是它們就 慾火焚身 生氣了！
 現在 它們肯定在到處放火 胡作非為！"
 50,"TEXT_BANKOB105_01329_BOZU_000_002","我說你 去趟黑金湖
@@ -72,9 +72,9 @@ int32,str,str
 拿回 <Sheet(EventItem,2001201,0)/>了嗎？"
 60,"TEXT_BANKOB105_01329_BOZU_000_020","沒錯 就是這個 謝謝你！
 只要有了它 就能隨心所欲地 讓爆彈怪復活了。
-這次 一定要造出一批 老實點的爆彈怪……"
+這回 一定要造出一批 老實點的爆彈怪……"
 61,"TEXT_BANKOB105_01329_BOZU_000_021","採礦地的爆彈怪 性格都很扭曲！
-一定是隨 製作它們的那位！"
+肯定是隨 製作它們的那位！"
 62,"TEXT_BANKOB105_01329_POPMESSAGE_000_000","發現了<Sheet(BNpcName,2688,0)/>！"
 63,"TEXT_BANKOB105_01329_BALLOON_000_030","嘰嘰嘰……"
 64,"TEXT_BANKOB105_01329_BALLOON_000_031","嘰嘰……嘰嘰嘰……"

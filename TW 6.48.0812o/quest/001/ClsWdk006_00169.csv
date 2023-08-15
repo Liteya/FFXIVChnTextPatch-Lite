@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSWDK006_00169_TODO_21",""
 46,"TEXT_CLSWDK006_00169_TODO_22",""
 47,"TEXT_CLSWDK006_00169_TODO_23",""
-48,"TEXT_CLSWDK006_00169_BEATINE_000_1"," <Highlight>ObjectParameter(1)</Highlight> ！
+48,"TEXT_CLSWDK006_00169_BEATINE_000_1","<Highlight>ObjectParameter(1)</Highlight>！
 嘻嘻嘻……我等你很久了……"
 49,"TEXT_CLSWDK006_00169_BEATINE_000_2","實際上有人指名你去完成委託。
 他希望請你幫忙，
@@ -67,17 +67,17 @@ int32,str,str
 53,"TEXT_CLSWDK006_00169_BEATINE_000_10","要做出最完美的「<Sheet(ItemHQ,2015,0)/>」，
 絕不是一件容易的事情。
 但是我對你有信心！"
-54,"TEXT_CLSWDK006_00169_BEATINE_000_11"," <Highlight>ObjectParameter(1)</Highlight> ……
+54,"TEXT_CLSWDK006_00169_BEATINE_000_11","<Highlight>ObjectParameter(1)</Highlight>……
 哈……這、這是……"
 55,"TEXT_CLSWDK006_00169_BEATINE_000_12","這是多麼、
 多麼完美的<Sheet(ItemHQ,2015,0)/>啊！"
 56,"TEXT_CLSWDK006_00169_BEATINE_000_13","這把杖雖然實際上是用精緻加工過後的胡桃木材做出來的，
 卻又保有經年原木的那種質感……"
 57,"TEXT_CLSWDK006_00169_BEATINE_000_14","這是由於在對木材進行加工後，
-又使用鍊金術，以「植物成長劑」賦予其生命力，
+又使用煉金術，以「植物成長劑」賦予其生命力，
 讓木材再度取回了自然的姿態……"
 58,"TEXT_CLSWDK006_00169_BEATINE_000_15","作為一把幻杖，它不僅擁有流暢的造型……
-還具有「借助自然之力的媒介」這個屬性。
+還具有「藉助自然之力的媒介」這個屬性。
 且兩者之間達到了絕妙的平衡……"
 59,"TEXT_CLSWDK006_00169_BEATINE_000_16","這是只有熱愛並且熟知木材的人才能做得到的技巧……
 哈……
@@ -87,7 +87,7 @@ int32,str,str
 好了，立即把東西給他送去吧！"
 61,"TEXT_CLSWDK006_00169_GAIRHARD_100_20","我委託刻木匠公會製作東西，
 正等著他們交貨呢。"
-62,"TEXT_CLSWDK006_00169_GAIRHARD_000_21","你就是刻木匠公會的 <Highlight>ObjectParameter(1)</Highlight> 嗎？
+62,"TEXT_CLSWDK006_00169_GAIRHARD_000_21","你就是刻木匠公會的<Highlight>ObjectParameter(1)</Highlight>嗎？
 我是雙蛇黨戰鬥小隊「黃蛇隊」的隊長蓋伊爾哈德。"
 63,"TEXT_CLSWDK006_00169_GAIRHARD_000_22","原來如此……這真是把好幻杖。
 雖然我對幻術一竅不通，卻也能從這個光彩上看得出，
@@ -116,7 +116,7 @@ int32,str,str
 72,"TEXT_CLSWDK006_00169_PONETTE_000_31","你就是幫蓋伊爾哈德隊長來送東西的？
 讓人等了這麼久，結果派來了個冒險者。
 真是的！所以說這些外來者真是一點禮貌也不懂……"
-73,"TEXT_CLSWDK006_00169_PONETTE_000_32","…………！"
+73,"TEXT_CLSWDK006_00169_PONETTE_000_32","……"
 74,"TEXT_CLSWDK006_00169_PONETTE_000_33","這、這個<Sheet(ItemHQ,2015,0)/>是……
 這個是你做的？"
 75,"TEXT_CLSWDK006_00169_PONETTE_000_34","加工得用起來很順手……
@@ -129,13 +129,13 @@ int32,str,str
 訴說著製作者的心聲。"
 78,"TEXT_CLSWDK006_00169_PONETTE_000_37","真是想不到，一個外來者……
 一個冒險者居然能做出這樣完美的作品……"
-79,"TEXT_CLSWDK006_00169_PONETTE_000_38","…………。"
+79,"TEXT_CLSWDK006_00169_PONETTE_000_38","……"
 80,"TEXT_CLSWDK006_00169_PONETTE_000_39","我必須向你道歉。
 我一直以為……外來者們根本不會替我們考慮，
 也根本不可能互相理解。"
 81,"TEXT_CLSWDK006_00169_PONETTE_000_40","但看起來沒有理解的是我才對。
 這根幻杖讓我醒悟了。"
-82,"TEXT_CLSWDK006_00169_PONETTE_000_41","我一定要好好感謝你，
+82,"TEXT_CLSWDK006_00169_PONETTE_000_41","我必須要好好感謝你，
 還有委託你製作這根幻杖的蓋伊爾哈德隊長。
 我會全心為隊長效力，不給這把幻杖蒙羞。"
 83,"TEXT_CLSWDK006_00169_PONETTE_000_42","真是太感謝你了。

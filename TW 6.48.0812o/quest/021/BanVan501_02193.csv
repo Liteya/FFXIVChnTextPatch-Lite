@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 穆納瓦努希望冒險者去幫助農人拉努瓦利。和西風島的農人拉努瓦利對話。"
-2,"TEXT_BANVAN501_02193_SEQ_02","拉努瓦利委託冒險者去獲得<Sheet(EventItem,2001920)/>。在危步臺拔出4個<Sheet(EventItem,2001920)/>。"
+2,"TEXT_BANVAN501_02193_SEQ_02","拉努瓦利委託冒險者去獲取<Sheet(EventItem,2001920)/>。在危步台拔出4個<Sheet(EventItem,2001920)/>。"
 3,"TEXT_BANVAN501_02193_SEQ_03","獲得了<Sheet(EventItem,2001920)/>。將<Sheet(EventItem,2001920)/>交給西風島的農人拉努瓦利。"
 4,"TEXT_BANVAN501_02193_SEQ_04","將委託品交給了拉努瓦利。蜜漬<Sheet(EventItem,2001920)/>是袞杜族的一道美味的鄉土料理。瓦努族十分害怕拔<Sheet(EventItem,2001920)/>時發出的聲音，下次有機會再協助他們。"
 5,"TEXT_BANVAN501_02193_SEQ_05",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANVAN501_02193_SEQ_22",""
 23,"TEXT_BANVAN501_02193_SEQ_23",""
 24,"TEXT_BANVAN501_02193_TODO_00","和農人拉努瓦利對話"
-25,"TEXT_BANVAN501_02193_TODO_01","獲得<Sheet(EventItem,2001920)/>"
+25,"TEXT_BANVAN501_02193_TODO_01","獲取<Sheet(EventItem,2001920)/>"
 26,"TEXT_BANVAN501_02193_TODO_02","將<Sheet(EventItem,2001920)/>交給農人拉努瓦利"
 27,"TEXT_BANVAN501_02193_TODO_03",""
 28,"TEXT_BANVAN501_02193_TODO_04",""
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANVAN501_02193_TODO_21",""
 46,"TEXT_BANVAN501_02193_TODO_22",""
 47,"TEXT_BANVAN501_02193_TODO_23",""
-48,"TEXT_BANVAN501_02193_02193_MUNAVANU_000_001","這不是、這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎，
+48,"TEXT_BANVAN501_02193_02193_MUNAVANU_000_001","這不是、這不是<Highlight>ObjectParameter(1)</Highlight>嗎，
 今天你也來幫助我們了啊？
 那請你去找一下農人拉努瓦利吧。"
 49,"TEXT_BANVAN501_02193_02193_MUNAVANU_000_010","（★未使用／削除予定★）"
@@ -61,10 +61,10 @@ int32,str,str
 我有件事想拜託給你這個人類！"
 51,"TEXT_BANVAN501_02193_02193_RANUVALI_000_021","其實也不是什麼大事，就是去拔一下長在地裡的柯瑞甘……
 雖說不需要什麼力氣，但拔的時候發出的聲音我們實在是受不了。"
-52,"TEXT_BANVAN501_02193_02193_RANUVALI_000_022","請去人類稱為危步臺的地方，
+52,"TEXT_BANVAN501_02193_02193_RANUVALI_000_022","請去人類稱為危步台的地方，
 拔4個野生的<Sheet(EventItem,2001920)/>。
 拜託你了。"
-53,"TEXT_BANVAN501_02193_02193_RANUVALI_000_030","請去人類稱為危步臺的地方，
+53,"TEXT_BANVAN501_02193_02193_RANUVALI_000_030","請去人類稱為危步台的地方，
 拔4個野生的<Sheet(EventItem,2001920)/>。
 拜託你了。"
 54,"TEXT_BANVAN501_02193_02193_MANDRAGORA02193_000_040","◎×▼△×××……"

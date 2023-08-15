@@ -51,17 +51,17 @@ int32,str,str
 45,"TEXT_CLSGLD050_00611_TODO_21",""
 46,"TEXT_CLSGLD050_00611_TODO_22",""
 47,"TEXT_CLSGLD050_00611_TODO_23",""
-48,"TEXT_CLSGLD050_00611_SERENDIPITY_000_1","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_CLSGLD050_00611_SERENDIPITY_000_1","啊，<Highlight>ObjectParameter(1)</Highlight>！
 等候多時了！
 我還以為你不來了呢！"
 49,"TEXT_CLSGLD050_00611_SERENDIPITY_000_2","哎……有好多新人都是被魔法人偶涅吉的毒舌氣到，
 剛加入就退出了……"
-50,"TEXT_CLSGLD050_00611_SERENDIPITY_000_3","不過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 還有幹勁，這我就放心了。
+50,"TEXT_CLSGLD050_00611_SERENDIPITY_000_3","不過<Highlight>ObjectParameter(1)</Highlight>還有幹勁，這我就放心了。
 你已經用慣錘子了嗎？"
 51,"TEXT_CLSGLD050_00611_SERENDIPITY_000_4","那麼我們開始進行下一個課題吧！
 做做<Sheet(Item,4305,0)/>怎麼樣？
 你先試著做3個吧。"
-52,"TEXT_CLSGLD050_00611_SERENDIPITY_000_5","至於它的材料<Sheet(Item,5062,0)/>，你可以透過購買<Sheet(Item,5106,0)/>來製作。
+52,"TEXT_CLSGLD050_00611_SERENDIPITY_000_5","至於它的材料<Sheet(Item,5062,0)/>，你可以通過購買<Sheet(Item,5106,0)/>來製作。
 對了，採礦工也能從岩石中採出<Sheet(Item,5106,0)/>。"
 53,"TEXT_CLSGLD050_00611_SERENDIPITY_000_7","我們雕金匠和採礦工可是生意上的合作夥伴，
 你可以去拜託他們幫你準備素材。"
@@ -69,7 +69,7 @@ int32,str,str
 自己準備材料。"
 55,"TEXT_CLSGLD050_00611_SERENDIPITY_000_9","那麼請你製作3個<Sheet(Item,4305,0)/>吧。
 拜託你了！"
-56,"TEXT_CLSGLD050_00611_SERENDIPITY_000_10","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，怎麼樣了？
+56,"TEXT_CLSGLD050_00611_SERENDIPITY_000_10","啊，<Highlight>ObjectParameter(1)</Highlight>，怎麼樣了？
 做好3個<Sheet(Item,4305,0)/>了麼？"
 57,"TEXT_CLSGLD050_00611_SERENDIPITY_000_11","這、這是……"
 58,"TEXT_CLSGLD050_00611_GIGI_000_12","嘰嘰嘰嘰……嘰嘰……
@@ -79,7 +79,7 @@ int32,str,str
 這孩子的「眼光」是公會中最苛刻的。"
 60,"TEXT_CLSGLD050_00611_SERENDIPITY_000_15","那麼，我們重新來看一看……
 「衝鋒項環」是保護喉嚨的防具。"
-61,"TEXT_CLSGLD050_00611_SERENDIPITY_000_16"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 做的衝鋒項環又結實又好用，
+61,"TEXT_CLSGLD050_00611_SERENDIPITY_000_16","<Highlight>ObjectParameter(1)</Highlight>做的衝鋒項環又結實又好用，
 而且造型還很新穎時尚！"
 62,"TEXT_CLSGLD050_00611_SERENDIPITY_000_17","雖說是防具，可也要追求時尚，
 不光要具備功能性 ，還要能夠豐富人們的內心。
@@ -92,7 +92,7 @@ int32,str,str
 65,"TEXT_CLSGLD050_00611_SERENDIPITY_000_20","優良的裝備有助你的工作，
 一流的雕金匠理所當然使用一流的工具。
 請你整齊裝備，磨練自己的手藝！"
-66,"TEXT_CLSGLD050_00611_SYSTEM_000_21","透過改變裝備，
+66,"TEXT_CLSGLD050_00611_SYSTEM_000_21","通過改變裝備，
 可以提高「作業精度」、「加工精度」和「製作力」。"
 67,"TEXT_CLSGLD050_00611_SYSTEM_000_22","「作業精度」是提升作業進度的能力，
 「加工精度」是提升製品品質的能力，

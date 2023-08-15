@@ -53,12 +53,12 @@ int32,str,str
 45,"TEXT_BANVAN402_02190_TODO_21",""
 46,"TEXT_BANVAN402_02190_TODO_22",""
 47,"TEXT_BANVAN402_02190_TODO_23",""
-48,"TEXT_BANVAN402_02190_02190_MUNAVANU_000_001","我等你好久啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_BANVAN402_02190_02190_MUNAVANU_000_001","我等你好久啦，<Highlight>ObjectParameter(1)</Highlight>。
 有人侮辱我袞杜的名聲！"
 49,"TEXT_BANVAN402_02190_02190_MUNAVANU_000_002","總之、總之，
-請你去向利努瓦努大人瞭解一下詳情！"
+請你去向利努瓦努大人了解一下詳情！"
 50,"TEXT_BANVAN402_02190_02190_MUNAVANU_000_010","（★未使用／削除予定★）"
-51,"TEXT_BANVAN402_02190_02190_LINUVANU_000_020","久候多時了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+51,"TEXT_BANVAN402_02190_02190_LINUVANU_000_020","久候多時了，<Highlight>ObjectParameter(1)</Highlight>。
 請你、請你發揮名揚天下的戰士的實力，
 助我袞杜族一臂之力！"
 52,"TEXT_BANVAN402_02190_02190_LINUVANU_000_021","冷酷的溫杜族的邪惡咒術師對我們的圖騰下了詛咒！

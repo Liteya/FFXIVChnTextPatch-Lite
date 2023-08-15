@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBSCH520_01672_SEQ_00","放浪神古神殿的斯里托．卡里托有事情想要拜託冒險者。"
-1,"TEXT_JOBSCH520_01672_SEQ_01","接受了斯里托．卡里托的委託。和拉諾西亞高地石綠湖東部遺跡的阿爾卡．佐爾卡對話。"
-2,"TEXT_JOBSCH520_01672_SEQ_02","和阿爾卡．佐爾卡進行了交談。獲得石綠湖東部遺跡內的<Sheet(EObj,2005520,0)/>。"
-3,"TEXT_JOBSCH520_01672_SEQ_03","擊退了大楔石的守護者，獲得了<Sheet(EventItem,2001586,0)/>。將<Sheet(EventItem,2001586,0)/>交給放浪神古神殿的斯里托．卡里托。"
-4,"TEXT_JOBSCH520_01672_SEQ_04","將<Sheet(EventItem,2001586,0)/>交給了斯里托．卡里托。他打算在重新封印放浪神古神殿一角的同時，研究出尼姆瘟疫的治療方法。
+0,"TEXT_JOBSCH520_01672_SEQ_00","放浪神古神殿的斯里托·卡里托有事情想要拜託冒險者。"
+1,"TEXT_JOBSCH520_01672_SEQ_01","接受了斯里托·卡里托的委託。和拉諾西亞高地石綠湖東部遺跡的阿爾卡·佐爾卡對話。"
+2,"TEXT_JOBSCH520_01672_SEQ_02","和阿爾卡·佐爾卡進行了交談。獲取石綠湖東部遺跡內的<Sheet(EObj,2005520,0)/>。"
+3,"TEXT_JOBSCH520_01672_SEQ_03","擊退了大楔石的守護者，獲得了<Sheet(EventItem,2001586,0)/>。將<Sheet(EventItem,2001586,0)/>交給放浪神古神殿的斯里托·卡里托。"
+4,"TEXT_JOBSCH520_01672_SEQ_04","將<Sheet(EventItem,2001586,0)/>交給了斯里托·卡里托。他打算在重新封印放浪神古神殿一角的同時，研究出尼姆瘟疫的治療方法。
 
-※學者的等級達到54級以上時，可以從放浪神古神殿的斯里托．卡里托那裡領取下一個學者任務。"
+※學者的等級達到54級以上時，可以從放浪神古神殿的斯里托·卡里托那裡領取下一個學者任務。"
 5,"TEXT_JOBSCH520_01672_SEQ_05",""
 6,"TEXT_JOBSCH520_01672_SEQ_06",""
 7,"TEXT_JOBSCH520_01672_SEQ_07",""
@@ -27,9 +27,9 @@ int32,str,str
 21,"TEXT_JOBSCH520_01672_SEQ_21",""
 22,"TEXT_JOBSCH520_01672_SEQ_22",""
 23,"TEXT_JOBSCH520_01672_SEQ_23",""
-24,"TEXT_JOBSCH520_01672_TODO_00","和石綠湖東部遺跡的阿爾卡．佐爾卡對話"
-25,"TEXT_JOBSCH520_01672_TODO_01","獲得<Sheet(EventItem,2001586,0)/>"
-26,"TEXT_JOBSCH520_01672_TODO_02","將<Sheet(EventItem,2001586,0)/>交給斯里托．卡里托"
+24,"TEXT_JOBSCH520_01672_TODO_00","和石綠湖東部遺跡的阿爾卡·佐爾卡對話"
+25,"TEXT_JOBSCH520_01672_TODO_01","獲取<Sheet(EventItem,2001586,0)/>"
+26,"TEXT_JOBSCH520_01672_TODO_02","將<Sheet(EventItem,2001586,0)/>交給斯里托·卡里托"
 27,"TEXT_JOBSCH520_01672_TODO_03",""
 28,"TEXT_JOBSCH520_01672_TODO_04",""
 29,"TEXT_JOBSCH520_01672_TODO_05",""
@@ -51,22 +51,22 @@ int32,str,str
 45,"TEXT_JOBSCH520_01672_TODO_21",""
 46,"TEXT_JOBSCH520_01672_TODO_22",""
 47,"TEXT_JOBSCH520_01672_TODO_23",""
-48,"TEXT_JOBSCH520_01672_SURITOCARITO_000_000","好消息， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBSCH520_01672_SURITOCARITO_000_000","好消息，<Highlight>ObjectParameter(1)</Highlight>。
 我總算找到封印了古神殿的<Sheet(EObj,2005520,0)/>的所在之處了。"
-49,"TEXT_JOBSCH520_01672_SURITOCARITO_000_001","多虧有阿爾卡．佐爾卡協助我進行調查。
+49,"TEXT_JOBSCH520_01672_SURITOCARITO_000_001","多虧有阿爾卡·佐爾卡協助我進行調查。
 他似乎很熱衷於對尼姆的研究，
 對於現存遺跡的豐富知識真是幫上大忙了。"
-50,"TEXT_JOBSCH520_01672_SURITOCARITO_000_002","地點就在東邊的遺跡，阿爾卡．佐爾卡已經趕過去了。
-我希望你能跟他會合，取回<Sheet(EObj,2005520,0)/>。"
+50,"TEXT_JOBSCH520_01672_SURITOCARITO_000_002","地點就在東邊的遺跡，阿爾卡·佐爾卡已經趕過去了。
+我希望你能跟他匯合，取回<Sheet(EObj,2005520,0)/>。"
 51,"TEXT_JOBSCH520_01672_SURITOCARITO_000_003","……不過有一點請你們小心。
 大楔石周圍必定會有強大的「守護者」守護在旁，
 這是自古以來的規矩。"
-52,"TEXT_JOBSCH520_01672_SURITOCARITO_000_004","地點就在東邊的遺跡，阿爾卡．佐爾卡已經趕過去了。
-我希望你能跟他會合，取回<Sheet(EObj,2005520,0)/>。"
+52,"TEXT_JOBSCH520_01672_SURITOCARITO_000_004","地點就在東邊的遺跡，阿爾卡·佐爾卡已經趕過去了。
+我希望你能跟他匯合，取回<Sheet(EObj,2005520,0)/>。"
 53,"TEXT_JOBSCH520_01672_SURITOCARITO_000_005","……不過有一點請你們小心。
 大楔石周圍必定會有強大的「守護者」守護在旁，
 這是自古以來的規矩。"
-54,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_010","等你半天了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+54,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_010","等你半天了，<Highlight>ObjectParameter(1)</Highlight>！
 這個就是<Sheet(EObj,2005520,0)/>！"
 55,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_011","一旦有人想帶走大楔石，守護者應該就會現身……
 不過咱倆合力的話，幹掉它應該沒什麼問題吧？
@@ -76,12 +76,12 @@ int32,str,str
 好嘞，先做好戰鬥準備，再調查大楔石！"
 57,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_013","要小心大楔石的守護者啊……"
 58,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_014","果、果然出現了嗎！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，總之咱們先打倒這傢伙！"
-59,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_015","幹得好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+<Highlight>ObjectParameter(1)</Highlight>，總之咱們先打倒這傢伙！"
+59,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_015","幹得好，<Highlight>ObjectParameter(1)</Highlight>！
 勝利屬於我們新生海兵團！"
 60,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_016","<Sheet(EventItem,2001586,0)/>也平安到手了，
-咱們快回斯里托．卡里托先生那裡去吧！"
-61,"TEXT_JOBSCH520_01672_SURITOCARITO_000_020","怎麼樣， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+咱們快回斯里托·卡里托先生那裡去吧！"
+61,"TEXT_JOBSCH520_01672_SURITOCARITO_000_020","怎麼樣，<Highlight>ObjectParameter(1)</Highlight>，
 找到<Sheet(EventItem,2001586,0)/>了嗎？"
 62,"TEXT_JOBSCH520_01672_SURITOCARITO_000_021","哦哦，就是這個……就是這個！
 只要有了這個<Sheet(EventItem,2001586,0)/>，
@@ -93,11 +93,11 @@ int32,str,str
 65,"TEXT_JOBSCH520_01672_SURITOCARITO_000_024","在他們沉睡的這段時間裡無論如何……
 無論如何也要找到尼姆瘟疫的治療方法！"
 66,"TEXT_JOBSCH520_01672_ALKAZOLKA_000_025","幫人幫到底，我們會幫你到最後的！
-是吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-67,"TEXT_JOBSCH520_01672_SURITOCARITO_000_026","謝謝你，阿爾卡．佐爾卡……
-還有， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……數日不見，你的學者技術似乎又有進步了呢。"
+是吧，<Highlight>ObjectParameter(1)</Highlight>！"
+67,"TEXT_JOBSCH520_01672_SURITOCARITO_000_026","謝謝你，阿爾卡·佐爾卡……
+還有，<Highlight>ObjectParameter(1)</Highlight>……數日不見，你的學者技術似乎又有進步了呢。"
 68,"TEXT_JOBSCH520_01672_SURITOCARITO_000_027","如今的你，或許可以熟練運用只有尼姆軍事學者中的修士
-才能掌握的高階軍事魔法「不屈不撓之策」了……
+才能掌握的高級軍事魔法「不屈不撓之策」了……
 新時代的學者啊，繼承我等的知識吧！"
 69,"TEXT_JOBSCH520_01672_SYSTEM_000_028","（★未使用／削除予定★）"
 70,"TEXT_JOBSCH520_01672_QIB_001_TODO_1","打倒大楔石的守護者！"
@@ -107,7 +107,7 @@ int32,str,str
 應該就能暫時令巨像兵停止行動！"
 73,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_03","好，現在是進攻的好機會！
 趁著它無法行動的空檔集中攻擊！"
-74,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_04","狀態不錯嘛，不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+74,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_04","狀態不錯嘛，不愧是<Highlight>ObjectParameter(1)</Highlight>！"
 75,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_05","嗚噢噢，一鼓作氣幹掉它！"
 76,"TEXT_JOBSCH520_01672_QIB_001_ALKAZOLKA_BATTLETALK_06","大、大意了……
 之後就……拜託你了……"

@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_JOBAST580_02024_TODO_21",""
 46,"TEXT_JOBAST580_02024_TODO_22",""
 47,"TEXT_JOBAST580_02024_TODO_23",""
-48,"TEXT_JOBAST580_02024_JANNEQUINARD_000_000","別來無恙， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBAST580_02024_JANNEQUINARD_000_000","別來無恙，<Highlight>ObjectParameter(1)</Highlight>。
 多虧了蕾薇瓦老師的治療活動，
 占星魔法的傳聞在皇都也漸漸傳開了。"
 49,"TEXT_JOBAST580_02024_JANNEQUINARD_000_001","對這個結論最好的證明，就是我們又收到一份委託。
@@ -63,10 +63,10 @@ int32,str,str
 不過這同時也是讓占星術士名揚天下的好機會。"
 52,"TEXT_JOBAST580_02024_JANNEQUINARD_000_004","（★未使用／削除予定★）"
 53,"TEXT_JOBAST580_02024_JANNEQUINARD_000_005","蕾薇瓦老師和坎佩蘭已經先走一步了。
-你也快點過去和狄蘭達爾家的騎士會合吧，
-會合地點就在庫爾札斯西部高地的鐵杉村。"
-54,"TEXT_JOBAST580_02024_JANNEQUINARD_000_009","你也快點過去和狄蘭達爾家的騎士會合吧，
-會合地點就在庫爾札斯西部高地的鐵杉村。"
+你也快點過去和狄蘭達爾家的騎士匯合吧，
+匯合地點就在庫爾札斯西部高地的鐵杉村。"
+54,"TEXT_JOBAST580_02024_JANNEQUINARD_000_009","你也快點過去和狄蘭達爾家的騎士匯合吧，
+匯合地點就在庫爾札斯西部高地的鐵杉村。"
 55,"TEXT_JOBAST580_02024_DOORHEMLOCK_000_010","你是參加討伐作戰的醫師？
 好，進去吧。"
 56,"TEXT_JOBAST580_02024_Q1_000_000","要前往鐵杉村嗎？"
@@ -99,15 +99,15 @@ int32,str,str
 真是不枉我不遠萬里從薩雷安來到這裡。"
 77,"TEXT_JOBAST580_02024_LEVEVA_000_051","……塞維斯塔？！
 為什麼你會在這裡？
-你不是說你討厭艾奧傑亞這種未開化的野蠻地帶嗎……"
+你不是說你討厭艾歐澤亞這種未開化的野蠻地帶嗎……"
 78,"TEXT_JOBAST580_02024_SEVESTRE_000_052","要想保存下正確的記錄，一點點小苦還是需要忍受的。
 這份記錄就由我來報告給國內了。"
-79,"TEXT_JOBAST580_02024_SEVESTRE_000_053","這可是妄圖介入歷史而歪曲艾奧傑亞的未來，
+79,"TEXT_JOBAST580_02024_SEVESTRE_000_053","這可是妄圖介入歷史而歪曲艾歐澤亞的未來，
 結果卻被野蠻人所殺的男人的罪證……"
 80,"TEXT_JOBAST580_02024_SEVESTRE_000_054","啊對了，還有他的女兒，大罪人蕾薇瓦，
 也得乖乖跟我走。
 總之，先把礙事的野蠻人解決掉好了。"
-81,"TEXT_JOBAST580_02024_LEVEVA_000_055","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+81,"TEXT_JOBAST580_02024_LEVEVA_000_055","……<Highlight>ObjectParameter(1)</Highlight>，
 馬上帶著雅內基納爾逃走。
 這傢伙很危險……"
 82,"TEXT_JOBAST580_02024_JANNEQUINARD_000_056","這怎麼行！蕾薇瓦老師呢？！"
@@ -189,7 +189,7 @@ int32,str,str
 117,"TEXT_JOBAST580_02024_JANNEQUINARD_000_096","不，我也同樣繼承了路菲因的遺志……
 蕾薇瓦老師，請讓我協助您。"
 118,"TEXT_JOBAST580_02024_LEVEVA_000_097","……謝謝你。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你就按你自己的意願去行動吧。
+<Highlight>ObjectParameter(1)</Highlight>，你就按你自己的意願去行動吧。
 如果你願意幫我，就跟雅內基納爾說一聲。"
 119,"TEXT_JOBAST580_02024_LEVEVA_000_098","這是可以保護自己和夥伴的魔法障壁「命運之輪」。
 看到你這次的表現，我相信你已經能夠使用它了。

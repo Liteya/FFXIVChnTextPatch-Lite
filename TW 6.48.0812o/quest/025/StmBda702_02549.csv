@@ -69,7 +69,7 @@ int32,str,str
 讓我們一口氣奪回阿拉米格吧！"
 60,"TEXT_STMBDA702_02549_JMOLDVA_100_115","暴風雨前的寧靜……"
 61,"TEXT_STMBDA702_02549_ALPHINAUD_000_060","決戰馬上就要打響了……
-在混亂擴大之前，我們一定要想辦法救出可露兒。
+在混亂擴大之前，我們必須要想辦法救出可露兒。
 要是能知道她被帶去的具體地點就好了……"
 62,"TEXT_STMBDA702_02549_THANCRED_000_061","放心吧，我已經查到了。"
 63,"TEXT_STMBDA702_02549_ALPHINAUD_000_062","桑克瑞德！"
@@ -85,7 +85,7 @@ int32,str,str
 68,"TEXT_STMBDA702_02549_ALPHINAUD_000_066","太過分了……"
 69,"TEXT_STMBDA702_02549_LYSE_000_067","居住區是我們解放軍負責的區域，
 我們要抓緊時間找到潛入居住區的方法，
-儘快救出高牆中的可露兒。"
+盡快救出高牆中的可露兒。"
 70,"TEXT_STMBDA702_02549_THANCRED_000_068","我是藏在帝國軍運輸器的貨倉中才得以逃脫出來的，
 帝國軍為了做守城戰的準備，現在已經把居住區的大門關緊了。"
 71,"TEXT_STMBDA702_02549_THANCRED_100_068","不過，我一個人還是有辦法再次潛入進去的……
@@ -102,7 +102,7 @@ int32,str,str
 父親是阿拉加納出身，母親是阿拉米格居住區出身。
 過去，我的外祖父曾對我說過一件事。"
 77,"TEXT_STMBDA702_02549_WISCAR_100_071","這裡的鹽湖……
-是透過地下水路連通著居住區的。"
+是通過地下水路連通著居住區的。"
 78,"TEXT_STMBDA702_02549_LYSE_200_071","此話當真？！"
 79,"TEXT_STMBDA702_02549_WISCAR_000_072","這一帶都是鹽水湖，因此淡水十分珍貴。
 我的外祖父就是從居住區地下汲取鹽湖的鹽水，
@@ -124,15 +124,15 @@ int32,str,str
 86,"TEXT_STMBDA702_02549_LYSE_000_079","放心吧，會讓善戰的人陪你一起去的。
 我們就先去拿備用鑰匙，派少數人潛入居住區，
 再從內側打開居住區的主門！"
-87,"TEXT_STMBDA702_02549_LYSE_000_080","梅．娜格和阿雷恩瓦爾德分別去為突擊做準備，
-我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、阿爾菲諾、桑克瑞德
+87,"TEXT_STMBDA702_02549_LYSE_000_080","梅·娜格和阿雷恩瓦爾德分別去為突擊做準備，
+我和<Highlight>ObjectParameter(1)</Highlight>、阿爾菲諾、桑克瑞德
 就陪維斯卡去拿鑰匙！"
 88,"TEXT_STMBDA702_02549_THANCRED_000_085","我當時也想過一個人救出可露兒，
 但她一直都被魔導機具束縛著，根本無法出手。
 想要救她就必須拿下那個設施……大家合力將她救出來吧！"
-89,"TEXT_STMBDA702_02549_MNAAGO_000_090","梅弗里德和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在阿拉加納招兵買馬，
+89,"TEXT_STMBDA702_02549_MNAAGO_000_090","梅弗里德和<Highlight>ObjectParameter(1)</Highlight>在阿拉加納招兵買馬，
 為現在派上了用場……
-總有一種命中註定的感覺呢。"
+總有一種命中注定的感覺呢。"
 90,"TEXT_STMBDA702_02549_ARENVALD_000_095","會變成這樣都怪我。
 一定要救出同伴！"
 91,"TEXT_STMBDA702_02549_ALPHINAUD_000_100","可露兒，等著我……"
@@ -143,7 +143,7 @@ int32,str,str
 獲得地下水路的備用鑰匙。"
 94,"TEXT_STMBDA702_02549_WISCAR_000_111","我會帶大家去外祖父那裡的，鑰匙在他手裡。
 到了之後我們就分頭去找他。"
-95,"TEXT_STMBDA702_02549_LYSE_000_112"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，準備好了嗎？
+95,"TEXT_STMBDA702_02549_LYSE_000_112","<Highlight>ObjectParameter(1)</Highlight>，準備好了嗎？
 出發後一時半會我們就回不來了。"
 96,"TEXT_STMBDA702_02549_WISCAR_000_113","外祖父他們就是在這個建築物裡避難……"
 97,"TEXT_STMBDA702_02549_WISCAR_000_114","外祖父！瓦特外祖父！
@@ -174,7 +174,7 @@ int32,str,str
 我的外孫……就拜託你們了。"
 108,"TEXT_STMBDA702_02549_LYSE_000_150","多虧了維斯卡的外祖父，作戰的第一階段成功了……"
 109,"TEXT_STMBDA702_02549_LYSE_000_151","接下來就要從鹽湖潛入居民區了，
-我們都要小心啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+我們都要小心啊，<Highlight>ObjectParameter(1)</Highlight>！"
 110,"TEXT_STMBDA702_02549_QIB_001_TODO_1","前往鹽村"
 111,"TEXT_STMBDA702_02549_QIB_001_TODO_2","在鹽村尋找線索"
 112,"TEXT_STMBDA702_02549_QIB_001_TODO_3","前往薩利僧院"
@@ -205,7 +205,7 @@ int32,str,str
 124,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_ALARM","喂，剛剛的警報聲是怎麼回事？！"
 125,"TEXT_STMBDA702_02549_ALPHINAUD_BATTLETALK_ALARM","無人駕駛的魔導兵器來了！"
 126,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_ALARM_02","可惡……數量真多。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，保護維斯卡！"
+<Highlight>ObjectParameter(1)</Highlight>，保護維斯卡！"
 127,"TEXT_STMBDA702_02549_WISCAR_BATTLETALK_ALARM","哎喲，這些都是什麼啊……
 誰、誰來幫幫我！"
 128,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_AFTER_ALM_BTL","好，已經收拾得差不多了……
@@ -213,21 +213,21 @@ int32,str,str
 129,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_DROP_DIARY","（★未使用／削除予定★）"
 130,"TEXT_STMBDA702_02549_WISCAR_000_166","外祖父去薩利僧院避難了！
 從這裡往東南方向走就是薩利僧院……我們快去吧！"
-131,"TEXT_STMBDA702_02549_LYSE_000_167","剛剛的警報裝置把敵人都吸引過來了，多加當心！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你打頭陣了！"
+131,"TEXT_STMBDA702_02549_LYSE_000_167","剛剛的警報裝置把敵人都吸引過來了，多加留心！
+<Highlight>ObjectParameter(1)</Highlight>，拜託你打頭陣了！"
 132,"TEXT_STMBDA702_02549_WISCAR_BATTLETALK_NEAR_TEMPLE","薩利僧院就在這扇門前面！"
 133,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_AROUND_BOSS","那是……居然有大型魔導兵器埋伏在那裡！"
 134,"TEXT_STMBDA702_02549_WISCAR_000_168","明明薩利僧院都已經近在眼前了！"
 135,"TEXT_STMBDA702_02549_LYSE_000_169","既然如此，只好一口氣闖過去了！
-大夥都打起精神來！"
+大伙都打起精神來！"
 136,"TEXT_STMBDA702_02549_ALPHINAUD_BATTLETALK_AROUND_BOSS","快看那奇怪的魔導裝置！
 它在為大型魔導兵器輸送能量！"
 137,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_AROUND_BOSS2","大傢伙就交給我來拖住！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先去解決了那魔導裝置！"
+<Highlight>ObjectParameter(1)</Highlight>，你先去解決了那魔導裝置！"
 138,"TEXT_STMBDA702_02549_ALPHINAUD_BATTLETALK_TOOLBROKEN","成功了！
 大型魔導兵器的威勢變弱了！"
 139,"TEXT_STMBDA702_02549_LYSE_000_170","成功了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們去找避難的村民吧！"
+<Highlight>ObjectParameter(1)</Highlight>，我們去找避難的村民吧！"
 140,"TEXT_STMBDA702_02549_THANCRED_BATTLETALK_DEAD","嘖……大意了……"
 141,"TEXT_STMBDA702_02549_ALPHINAUD_BATTLETALK_DEAD","不好……怎麼能在這種地方……"
 142,"TEXT_STMBDA702_02549_WISCAR_BATTLETALK_DEAD","唔……我……不擅長戰鬥……"

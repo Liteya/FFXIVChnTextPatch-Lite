@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSHRV008_00010_TODO_21",""
 46,"TEXT_CLSHRV008_00010_TODO_22",""
 47,"TEXT_CLSHRV008_00010_TODO_23",""
-48,"TEXT_CLSHRV008_00010_FUFUCHA_000_000","哎呀 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來啦？
+48,"TEXT_CLSHRV008_00010_FUFUCHA_000_000","哎呀<Highlight>ObjectParameter(1)</Highlight>，你來啦？
 你來找我，就證明你現在手頭很閒吧？"
 49,"TEXT_CLSHRV008_00010_FUFUCHA_000_001","雖說這有點像在助長戰爭，令我有些不快……
 但我還是想請你幫幫我的老友，烹調師亞妮的忙。"
@@ -90,7 +90,7 @@ int32,str,str
 63,"TEXT_CLSHRV008_00010_YANNIE_000_025","另外，幫我給弗弗茶帶個話。
 謝謝她把你這個園藝工介紹給我。"
 64,"TEXT_CLSHRV008_00010_FUFUCHA_000_030","看來她對你的表現很滿意呢。
-真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+真不愧是<Highlight>ObjectParameter(1)</Highlight>。"
 65,"TEXT_CLSHRV008_00010_FUFUCHA_000_031","不過，和鳥人族間的戰爭看樣子還會持續下去……
 為了守護森林，守護格里達尼亞，
 最好的辦法就是拿起武器，奮勇抗敵……這我都明白……"

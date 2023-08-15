@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_BANARK105_04555_SEQ_21",""
 22,"TEXT_BANARK105_04555_SEQ_22",""
 23,"TEXT_BANARK105_04555_SEQ_23",""
-24,"TEXT_BANARK105_04555_TODO_00","獲得<Sheet(EObj,2012852,0)/>"
+24,"TEXT_BANARK105_04555_TODO_00","獲取<Sheet(EObj,2012852,0)/>"
 25,"TEXT_BANARK105_04555_TODO_01","將<Sheet(EventItem,2003400,0)/>交給摩羅盧"
 26,"TEXT_BANARK105_04555_TODO_02",""
 27,"TEXT_BANARK105_04555_TODO_03",""
@@ -56,7 +56,7 @@ int32,str,str
 希望你能去採集一些用於供奉多格神的花。"
 49,"TEXT_BANARK105_04555_MARU_000_002","需要你幫忙採集的是名為<Sheet(EventItem,2003400,0)/>的美麗綠色花朵，
 它只會開在新港東邊的值夜海崖。
-由於是嬌嫩的花，所以我想拜託 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你去做……"
+由於是嬌嫩的花，所以我想拜託<Highlight>ObjectParameter(1)</Highlight>你去做……"
 50,"TEXT_BANARK105_04555_MARU_000_003","對你這樣足跡遍布全世界的厲害人物來說，
 這種事應該是小菜一碟吧？
 希望你能去採3朵回來。"

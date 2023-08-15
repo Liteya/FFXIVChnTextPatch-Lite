@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMH106_03766_SEQ_00","法諾村的雅．修特拉想要順路去個地方。"
+0,"TEXT_LUCKMH106_03766_SEQ_00","法諾村的雅·修特拉想要順路去個地方。"
 1,"TEXT_LUCKMH106_03766_SEQ_01",""
 2,"TEXT_LUCKMH106_03766_SEQ_02",""
 3,"TEXT_LUCKMH106_03766_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 22,"TEXT_LUCKMH106_03766_SEQ_22",""
 23,"TEXT_LUCKMH106_03766_SEQ_23",""
 24,"TEXT_LUCKMH106_03766_TODO_00","和魯納爾對話"
-25,"TEXT_LUCKMH106_03766_TODO_01","從奧斯吉爾那裡獲得<Sheet(EventItem,2002970,0)/>"
-26,"TEXT_LUCKMH106_03766_TODO_02","將<Sheet(EventItem,2002970,0)/>交給雅．修特拉"
+25,"TEXT_LUCKMH106_03766_TODO_01","從奧斯吉爾那裡獲取<Sheet(EventItem,2002970,0)/>"
+26,"TEXT_LUCKMH106_03766_TODO_02","將<Sheet(EventItem,2002970,0)/>交給雅·修特拉"
 27,"TEXT_LUCKMH106_03766_TODO_03","和桑克瑞德對話"
 28,"TEXT_LUCKMH106_03766_TODO_04",""
 29,"TEXT_LUCKMH106_03766_TODO_05",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_LUCKMH106_03766_TODO_23",""
 48,"TEXT_LUCKMH106_03766_ALMET_000_000","你們是隆卡的同盟者，也是這個時代的英雄，
 更是我們的驕傲。
-因此，我們定會將這光輝事蹟準確地傳承下去。"
+因此，我們定會將這光輝事跡準確地傳承下去。"
 49,"TEXT_LUCKMH106_03766_UIMET_000_001","大家一起和強到變態的老爺子戰鬥過，
 還被奇怪的神獸變成咒符……
 這些事，我永遠都不會忘記的！"
@@ -65,7 +65,7 @@ int32,str,str
 53,"TEXT_LUCKMH106_03766_YSHTOLA_000_012","抱歉，還要你陪我。
 到了蛇行枝之後，先去和魯納爾打個招呼吧。"
 54,"TEXT_LUCKMH106_03766_YSHTOLA_000_015","魯納爾還是老樣子，真是太好了……"
-55,"TEXT_LUCKMH106_03766_RUNAR_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你看起來很精神嘛！"
+55,"TEXT_LUCKMH106_03766_RUNAR_000_020","<Highlight>ObjectParameter(1)</Highlight>，你看起來很精神嘛！"
 56,"TEXT_LUCKMH106_03766_RUNAR_000_021","沒想到大姐也一起回來了，我真是太高興了！
 我這就去準備飯菜……"
 57,"TEXT_LUCKMH106_03766_YSHTOLA_000_022","你的心意我領了，不過我們趕時間……"
@@ -101,9 +101,9 @@ int32,str,str
 掃帚啊，盡情舞蹈吧！"
 72,"TEXT_LUCKMH106_03766_YSHTOLA_000_052","我終於理解老師用掃帚當使魔的感受了。
 打掃房間真的很麻煩啊。"
-73,"TEXT_LUCKMH106_03766_YSHTOLA_000_053","(-雅．修特拉的聲音-)我雖然在這裡住了很長時間，但一直廢寢忘食地搞研究，
+73,"TEXT_LUCKMH106_03766_YSHTOLA_000_053","(-雅·修特拉的聲音-)我雖然在這裡住了很長時間，但一直廢寢忘食地搞研究，
 從來沒有好好地打掃過。"
-74,"TEXT_LUCKMH106_03766_YSHTOLA_000_054","(-雅．修特拉的聲音-)回到原初世界之後，應該就再也不會回來了，
+74,"TEXT_LUCKMH106_03766_YSHTOLA_000_054","(-雅·修特拉的聲音-)回到原初世界之後，應該就再也不會回來了，
 所以在走之前，得把這裡打掃乾淨才行……"
 75,"TEXT_LUCKMH106_03766_RUNAR_000_055","(-魯納爾的聲音-)開飯啦！快來吧！"
 76,"TEXT_LUCKMH106_03766_YSHTOLA_000_056","魯納爾，怎麼了？
@@ -115,7 +115,7 @@ int32,str,str
 80,"TEXT_LUCKMH106_03766_YSHTOLA_000_060","咦，你們……
 不是正在追蹤阿爾博特嗎？"
 81,"TEXT_LUCKMH106_03766_ALPHINAUD_000_061","是啊，所以我們才來到了這裡。
-阿爾博特正遊走於諾弗蘭特各地，
+阿爾博特正游走於諾弗蘭特各地，
 到處講述光之戰士們的真相。"
 82,"TEXT_LUCKMH106_03766_ALPHINAUD_000_062","雖然他曾經被定義為大罪人，
 但現在的事實就是，
@@ -139,7 +139,7 @@ int32,str,str
 我們便也加入了調查。"
 90,"TEXT_LUCKMH106_03766_YSHTOLA_000_069","阿莉塞之前是在上路客店吧？
 不用管那邊了嗎？"
-91,"TEXT_LUCKMH106_03766_ALISAIE_000_070","你是指治療哈爾里克他們？
+91,"TEXT_LUCKMH106_03766_ALISAIE_000_070","你是指治療哈爾裡克他們？
 我已經把能做的都做完了。
 等過段時間再根據他們的狀況進行下一步吧。"
 92,"TEXT_LUCKMH106_03766_ALPHINAUD_000_071","根據阿爾博特之前的行動規律，
@@ -150,13 +150,13 @@ int32,str,str
 在這一帶尋找獨行食罪靈了。"
 95,"TEXT_LUCKMH106_03766_URIANGER_000_074","琳說，在結誓洞窟附近感知到了類似食罪靈的東西。"
 96,"TEXT_LUCKMH106_03766_ALPHINAUD_000_075","那看來要打擾你們休息了，
-我想儘快和桑克瑞德他們會合，
+我想盡快和桑克瑞德他們匯合，
 沒問題吧？"
 97,"TEXT_LUCKMH106_03766_RUNAR_000_076","大姐！"
 98,"TEXT_LUCKMH106_03766_RUNAR_000_077","你一定要回來啊！
 到時候，我會給你準備更豐盛的飯菜的！"
 99,"TEXT_LUCKMH106_03766_YSHTOLA_000_078","好呀，我很期待哦。"
-100,"TEXT_LUCKMH106_03766_RUNAR_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，大姐她……
+100,"TEXT_LUCKMH106_03766_RUNAR_000_080","<Highlight>ObjectParameter(1)</Highlight>，大姐她……
 不……大姐就……拜託你了……"
-101,"TEXT_LUCKMH106_03766_RYNE_000_081","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+101,"TEXT_LUCKMH106_03766_RYNE_000_081","啊，<Highlight>ObjectParameter(1)</Highlight>！
 食罪靈已經被我和桑克瑞德一起打倒了。"

@@ -3,13 +3,13 @@
 int32,str,str
 0,"TEXT_STMBDY311_03016_SEQ_00","碧玉水的文鎮似乎有事要拜託冒險者。"
 1,"TEXT_STMBDY311_03016_SEQ_01","前情回顧：
-冒險者在獄之蓋深處的醴泉神社中遇到了四聖獸之一的玄武。玄武因活了千年以上，獲得了預知能力，它看到了不久的將來，紅玉海一帶將被火焰吞沒的情景。為了阻止災難的發生，冒險者接受了玄武的委託，為四聖獸的另外三隻鎮魂。成功地為白虎進行了鎮魂的冒險者一邊養傷一邊等待玄武的聯繫。
+冒險者在獄之蓋深處的醴泉神社中遇到了四聖獸之一的玄武。玄武因活了千年以上，獲得了預知能力，它看到了不久的將來，紅玉海一帶將被火焰吞沒的情景。為了阻止災難的發生，冒險者接受了玄武的委託，為四聖獸的另外三隻鎮魂。成功地為白虎進行了鎮魂的冒險者一邊養傷一邊等待玄武的聯絡。
 　　　　　　　　　　　　*　*　*
-文鎮似乎很在意在玄武那裡修行的算盤。塔塔露聯繫冒險者說她會和冒險者在醴泉神社會合。和紅玉海醴泉神社的玄武談談。和獄之蓋入口的神出鬼沒的風狸對話就可以前往醴泉神社。"
+文鎮似乎很在意在玄武那裡修行的算盤。塔塔露聯絡冒險者說她會和冒險者在醴泉神社匯合。和紅玉海醴泉神社的玄武談談。和獄之蓋入口的神出鬼沒的風狸對話就可以前往醴泉神社。"
 2,"TEXT_STMBDY311_03016_SEQ_02","和玄武進行了交談。為了讓算盤學會使用妖力，玄武拜託冒險者取回供奉在岩燕廟裡的<Sheet(EventItem,2002470,0)/>。和延夏岩燕廟前的初來乍到的鐮鼬談談。"
-3,"TEXT_STMBDY311_03016_SEQ_03","和初來乍到的鐮鼬進行了交談。初來乍到的鐮鼬幫冒險者解除了風水師們在門上設定的封印。突破風水靈廟岩燕廟，獲得<Sheet(EventItem,2002470,0)/>。
+3,"TEXT_STMBDY311_03016_SEQ_03","和初來乍到的鐮鼬進行了交談。初來乍到的鐮鼬幫冒險者解除了風水師們在門上設定的封印。突破風水靈廟岩燕廟，獲取<Sheet(EventItem,2002470,0)/>。
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 4,"TEXT_STMBDY311_03016_SEQ_04","在岩燕廟深處取得了<Sheet(EventItem,2002470,0)/>。將<Sheet(EventItem,2002470,0)/>交給醴泉神社的玄武。"
 5,"TEXT_STMBDY311_03016_SEQ_05","將<Sheet(EventItem,2002470,0)/>交給了玄武。玄武表示算盤的修行似乎有些危險。準備萬全後，和醴泉神社的玄武談談。"
 6,"TEXT_STMBDY311_03016_SEQ_06","和玄武進行了交談。因<Sheet(EventItem,2002470,0)/>而覺醒為瑞獸的算盤擁有了能毀滅神社的妖力。和玄武以及塔塔露聯手鎮壓算盤的荒魂。"
@@ -32,7 +32,7 @@ int32,str,str
 23,"TEXT_STMBDY311_03016_SEQ_23",""
 24,"TEXT_STMBDY311_03016_TODO_00","和醴泉神社的玄武對話"
 25,"TEXT_STMBDY311_03016_TODO_01","和延夏岩燕廟前的初來乍到的鐮鼬對話"
-26,"TEXT_STMBDY311_03016_TODO_02","突破風水靈廟岩燕廟 獲得<Sheet(EventItem,2002470,0)/>"
+26,"TEXT_STMBDY311_03016_TODO_02","突破風水靈廟岩燕廟 獲取<Sheet(EventItem,2002470,0)/>"
 27,"TEXT_STMBDY311_03016_TODO_03","將<Sheet(EventItem,2002470,0)/>交給醴泉神社的玄武"
 28,"TEXT_STMBDY311_03016_TODO_04","和玄武對話"
 29,"TEXT_STMBDY311_03016_TODO_05","和玄武對話"
@@ -57,7 +57,7 @@ int32,str,str
 48,"TEXT_STMBDY311_03016_BUNCHIN_000_001","客人，你總算來了——"
 49,"TEXT_STMBDY311_03016_BUNCHIN_000_002","但是算盤還沒回來——
 他一定還在玄武大人那裡繼續修行——"
-50,"TEXT_STMBDY311_03016_TATARU_000_003","(-塔塔露的聲音-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能聽見我說話嗎？
+50,"TEXT_STMBDY311_03016_TATARU_000_003","(-塔塔露的聲音-)<Highlight>ObjectParameter(1)</Highlight>，你能聽見我說話嗎？
 我是塔塔露！"
 51,"TEXT_STMBDY311_03016_TATARU_000_004","(-塔塔露的聲音-)我想去給還在修行的算盤送些慰問品，
 希望你能陪我一下！"
@@ -97,7 +97,7 @@ int32,str,str
 這就是修行的內容。"
 67,"TEXT_STMBDY311_03016_SOROBAN_000_023","哎——？！
 我要覺醒成瑞獸了嗎——？！"
-68,"TEXT_STMBDY311_03016_TATARU_000_024","……說起來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+68,"TEXT_STMBDY311_03016_TATARU_000_024","……說起來，<Highlight>ObjectParameter(1)</Highlight>……
 聽說你以前在紫水宮見到過類似的箱子啊？"
 69,"TEXT_STMBDY311_03016_GENBU_000_025","沒錯，紫水宮也有被叫做玉手箱的箱子，
 不過那只是讓打開箱子的人變老的假貨。
@@ -157,7 +157,7 @@ int32,str,str
 94,"TEXT_STMBDY311_03016_GENBU_000_060","你成功拿到了<Sheet(EventItem,2002470,0)/>啊。
 嚯嚯嚯，不愧是鎮壓了白虎荒魂的人類。"
 95,"TEXT_STMBDY311_03016_GENBU_000_061","那麼趕緊讓算盤開始下一階段的修行吧。
-雖然是強大的瑞獸造出來的神器，不過也有相當的年代了。
+雖然是強大的瑞獸造出來的神器，不過也有相當的年頭了。
 不知道打開它到底會變成什麼樣，你要做好心理準備。"
 96,"TEXT_STMBDY311_03016_SOROBAN_000_062","哎——我不想做這種心理準備啊——"
 97,"TEXT_STMBDY311_03016_GENBU_000_063","放心吧。
@@ -167,10 +167,10 @@ int32,str,str
 也換上了便於活動的服裝！"
 99,"TEXT_STMBDY311_03016_TATARU_000_065","為了高額報酬……不，是為了紅玉海的和平，
 我們也必須努力才行！"
-100,"TEXT_STMBDY311_03016_GENBU_000_066","嚯嚯嚯， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+100,"TEXT_STMBDY311_03016_GENBU_000_066","嚯嚯嚯，<Highlight>ObjectParameter(1)</Highlight>……
 要是出了什麼萬一，就靠你了。
 準備好了就和我說一聲。"
-101,"TEXT_STMBDY311_03016_TATARU_000_067"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來。
+101,"TEXT_STMBDY311_03016_TATARU_000_067","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來。
 你已經拿到<Sheet(EventItem,2002470,0)/>了嗎？"
 102,"TEXT_STMBDY311_03016_SOROBAN_000_068","哈——我已經快累死了——"
 103,"TEXT_STMBDY311_03016_BYAKKO_000_069","你平安歸來了啊。
@@ -191,7 +191,7 @@ int32,str,str
 113,"TEXT_STMBDY311_03016_TATARU_000_507","哇——"
 114,"TEXT_STMBDY311_03016_TATARU_000_508","好疼……
 下手不能輕點嗎……"
-115,"TEXT_STMBDY311_03016_TATARU_000_509"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你怎麼一臉吃驚的表情？
+115,"TEXT_STMBDY311_03016_TATARU_000_509","<Highlight>ObjectParameter(1)</Highlight>，你怎麼一臉吃驚的表情？
 我的臉上有什麼東西嗎？"
 116,"TEXT_STMBDY311_03016_TATARU_000_510","哇——！！
 我的臉都是皺紋！！"
@@ -210,10 +210,10 @@ int32,str,str
 123,"TEXT_STMBDY311_03016_GENBU_000_517","……這，看來得認真對付他才行了。"
 124,"TEXT_STMBDY311_03016_GENBU_000_518","和座敷童子不同，算盤沐浴了太長時間的煙霧，
 變回去需要的時間也變長了。
-要是放任不管，應該這座神社都會被他拆掉……"
+要是放任不管，估計這座神社都會被他拆掉……"
 125,"TEXT_STMBDY311_03016_GENBU_000_519","哈！"
 126,"TEXT_STMBDY311_03016_GENBU_000_520","那我們只能用武力阻止他了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，座敷童子，準備好了嗎！"
+<Highlight>ObjectParameter(1)</Highlight>，座敷童子，準備好了嗎！"
 127,"TEXT_STMBDY311_03016_QIB_001_TODO_1","為算盤進行鎮魂！"
 128,"TEXT_STMBDY311_03016_SOROBAN_BATTLETALK_000_001","哇——"
 129,"TEXT_STMBDY311_03016_SOROBAN_BATTLETALK_001_001","噢噢噢！"
@@ -292,7 +292,7 @@ int32,str,str
 170,"TEXT_STMBDY311_03016_GENBU_000_139","這次的大災難，已經不會有典膳來幫忙了。
 不過，我們會想辦法阻止的。"
 171,"TEXT_STMBDY311_03016_TATARU_000_140","就算典膳已經不在了，
-還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 呢！"
+還有<Highlight>ObjectParameter(1)</Highlight>呢！"
 172,"TEXT_STMBDY311_03016_GENBU_000_141","嚯嚯嚯。
 是啊，就靠你了。"
 173,"TEXT_STMBDY311_03016_GENBU_000_142","好了，算盤。
@@ -301,7 +301,7 @@ int32,str,str
 175,"TEXT_STMBDY311_03016_TATARU_000_144","我也很忙的，就先回去了！
 算盤，我已經把章魚燒交給鐮鼬保管了，
 你可得加油修行啊？！"
-176,"TEXT_STMBDY311_03016_GENBU_000_145"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，下次再叫你過來時，
+176,"TEXT_STMBDY311_03016_GENBU_000_145","<Highlight>ObjectParameter(1)</Highlight>啊，下次再叫你過來時，
 應該還會請你為四聖獸進行鎮魂，
 在時機到來之前，請你好好鍛鍊身手。"
 177,"TEXT_STMBDY311_03016_SOROBAN_000_146","不好意思，你能再和文鎮長老說一聲——
@@ -317,7 +317,7 @@ int32,str,str
 我終於理解為什麼玄武老爺子會看上他了。"
 182,"TEXT_STMBDY311_03016_BYAKKO_000_151","雖然老爺子讓我專心負責守護封印，
 可要是那時候算盤的妖力再強一些的話，
-我應該也不得不出手了。"
+估計我也不得不出手了。"
 183,"TEXT_STMBDY311_03016_KAMAITACHI_000_152","那個甲人族，比我想像的還強……
 這樣下去我的立場就危險了……"
 184,"TEXT_STMBDY311_03016_BUNCHIN_100_160","你回來了啊——
@@ -327,7 +327,7 @@ int32,str,str
 這就是所謂人不可貌相啊——"
 187,"TEXT_STMBDY311_03016_BUNCHIN_000_162","不過，他恐怕也很討厭嚴苛的修行吧，
 還請你多多去鼓勵他——"
-188,"TEXT_STMBDY311_03016_GENBU_000_163"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，下次再叫你過來時，
+188,"TEXT_STMBDY311_03016_GENBU_000_163","<Highlight>ObjectParameter(1)</Highlight>啊，下次再叫你過來時，
 應該還會請你為四聖獸進行鎮魂，
 在時機到來之前，請你好好鍛鍊身手。"
 189,"TEXT_STMBDY311_03016_SOROBAN_000_164","不好意思，你能再和文鎮長老說一聲——

@@ -54,12 +54,12 @@ int32,str,str
 49,"TEXT_STMBDA317_02493_RESISTANCE02492_000_005","感謝你們能夠協助我們。
 今後請多多指教了！"
 50,"TEXT_STMBDA317_02493_YUGIRI_000_010","雖然在下想就今後的行動跟大家談一談……嗯……"
-51,"TEXT_STMBDA317_02493_YUGIRI_000_011","因為在下在艾奧傑亞滯留了相當長的一段時間，
+51,"TEXT_STMBDA317_02493_YUGIRI_000_011","因為在下在艾歐澤亞滯留了相當長的一段時間，
 回到這邊之後，也一直在尋找飛燕大人。"
 52,"TEXT_STMBDA317_02493_YUGIRI_000_012","儘管在下心中相信民眾，
 但在下並未親眼去確認他們的情況，
 就這樣再去見主公，肯定也只會得到相同的回答……"
-53,"TEXT_STMBDA317_02493_YUGIRI_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你能和在下一起去查看一下民情嗎？"
+53,"TEXT_STMBDA317_02493_YUGIRI_000_013","<Highlight>ObjectParameter(1)</Highlight>閣下，你能和在下一起去查看一下民情嗎？"
 54,"TEXT_STMBDA317_02493_YUGIRI_000_014","你才剛剛到達就得讓你奔波，在下也很過意不去。
 但你不像豪雪那樣人盡皆知，
 只要隱藏好身份，就可以打聽到人們真實的想法。"
@@ -72,15 +72,15 @@ int32,str,str
 就在茨菰村的郊外集合吧。"
 58,"TEXT_STMBDA317_02493_LYSE_000_020","夕霧說讓我穿上這個……
 總、總覺得腳下好輕啊！"
-59,"TEXT_STMBDA317_02493_YUGIRI_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，感謝你們能來。
+59,"TEXT_STMBDA317_02493_YUGIRI_000_030","<Highlight>ObjectParameter(1)</Highlight>閣下，感謝你們能來。
 你準備好了嗎？"
 60,"TEXT_STMBDA317_02493_YUGIRI_000_031","……啊，這衣服啊？
 畢竟穿著忍者的裝束身份立刻就會暴露。
 所以變裝是必不可少的。"
 61,"TEXT_STMBDA317_02493_YUGIRI_000_032","從現在起，我們就是來往各國的雜用商人一行……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下就作為主人，
+<Highlight>ObjectParameter(1)</Highlight>閣下就作為主人，
 在下和莉瑟就作為僕人跟隨，怎麼樣？！"
-62,"TEXT_STMBDA317_02493_LYSE_000_033","畢、畢竟夕霧最瞭解這個國家了，
+62,"TEXT_STMBDA317_02493_LYSE_000_033","畢、畢竟夕霧最了解這個國家了，
 只要你要覺得沒問題就沒問題……大概。"
 63,"TEXT_STMBDA317_02493_YUGIRI_000_034","好，那我們就去打聽一番吧，主人！"
 64,"TEXT_STMBDA317_02493_CHIGUSA_000_040","咦，是雜用商人啊？
@@ -96,7 +96,7 @@ int32,str,str
 70,"TEXT_STMBDA317_02493_CHIGUSA_000_043","這個村子前段時間才剛剛受到過嚴厲的肅清行動。
 因為起義，村裡面死了好多人，
 肅清行動也讓人們的身心支離破碎。"
-71,"TEXT_STMBDA317_02493_CHIGUSA_000_044","倖存下來的人一個個被帝國徵去，
+71,"TEXT_STMBDA317_02493_CHIGUSA_000_044","倖存下來的人一個個被帝國征去，
 不是被拉去強制勞動，就是作為士兵被送往異國……"
 72,"TEXT_STMBDA317_02493_CHIGUSA_000_045","我們已經什麼都沒有了。
 更別提買自己喜歡的東西了。
@@ -104,7 +104,7 @@ int32,str,str
 73,"TEXT_STMBDA317_02493_CHIGUSA_000_046","難得你用那麼燦爛的笑容接待我，真是不好意思了。"
 74,"TEXT_STMBDA317_02493_MIYAMA_000_050","抱歉，我沒錢買東西。
 你要做生意還是去別處吧。"
-75,"TEXT_STMBDA317_02493_MIYAMA_000_051","……欸，其他地方應該也是半斤八兩吧。
+75,"TEXT_STMBDA317_02493_MIYAMA_000_051","……誒，其他地方估計也是半斤八兩吧。
 畢竟比較富裕的武士們居住的門前衛街
 也已經因為戰亂和肅清行動被整個燒毀了。"
 76,"TEXT_STMBDA317_02493_MIYAMA_000_052","我聽說活下來的人都被關押在了飛地。
@@ -134,7 +134,7 @@ int32,str,str
 85,"TEXT_STMBDA317_02493_MASATSUCHI_000_067","啊，肚子好餓啊……"
 86,"TEXT_STMBDA317_02493_LYSE_000_070","村裡人看上去都十分憔悴。
 和漁村一樣……"
-87,"TEXT_STMBDA317_02493_YUGIRI_000_080","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+87,"TEXT_STMBDA317_02493_YUGIRI_000_080","……<Highlight>ObjectParameter(1)</Highlight>閣下。
 你那邊怎麼樣了？"
 88,"TEXT_STMBDA317_02493_YUGIRI_000_081","這樣……
 在下和莉瑟這邊也差不多。

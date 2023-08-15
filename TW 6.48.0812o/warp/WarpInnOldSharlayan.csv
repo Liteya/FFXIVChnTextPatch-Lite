@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來！
+0,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來！
 要直接進入休息室休息嗎？"
-1,"TEXT_WARPINNOLDSHARLAYAN_Q1_000_100","想瞭解什麼？"
+1,"TEXT_WARPINNOLDSHARLAYAN_Q1_000_100","想了解什麼？"
 2,"TEXT_WARPINNOLDSHARLAYAN_A1_000_101","移動到休息室"
 3,"TEXT_WARPINNOLDSHARLAYAN_A1_000_102","休息室是幹什麼的？"
 4,"TEXT_WARPINNOLDSHARLAYAN_A1_000_103","取消"
@@ -23,4 +23,4 @@ int32,str,str
 彷彿那個人會再次回到這裡一樣。"
 10,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_204","啊，對了……雖然是用來小憩的房間，
 不過在乾淨整潔這方面還是有保證的。
-我身為管理人，一定要認真負責才行。"
+我身為管理人，必須要認真負責才行。"

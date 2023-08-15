@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ703_02806_SEQ_21",""
 22,"TEXT_STMBDZ703_02806_SEQ_22",""
 23,"TEXT_STMBDZ703_02806_SEQ_23",""
-24,"TEXT_STMBDZ703_02806_TODO_00","討伐<Sheet(BNpcName,5771,0)/>獲得其身上可能會掉落的<Sheet(EventItem,2002266,0)/>"
+24,"TEXT_STMBDZ703_02806_TODO_00","討伐<Sheet(BNpcName,5771,0)/>獲取其身上可能會掉落的<Sheet(EventItem,2002266,0)/>"
 25,"TEXT_STMBDZ703_02806_TODO_01","將<Sheet(EventItem,2002266,0)/>交給花芽"
 26,"TEXT_STMBDZ703_02806_TODO_02",""
 27,"TEXT_STMBDZ703_02806_TODO_03",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ703_02806_TODO_21",""
 46,"TEXT_STMBDZ703_02806_TODO_22",""
 47,"TEXT_STMBDZ703_02806_TODO_23",""
-48,"TEXT_STMBDZ703_02806_HANAME_000_000","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？
+48,"TEXT_STMBDZ703_02806_HANAME_000_000","這不是<Highlight>ObjectParameter(1)</Highlight>嗎？
 你來得正是時候，
 非常抱歉，能不能請你幫我一個忙？"
 49,"TEXT_STMBDZ703_02806_HANAME_000_001","就算這烈士庵不直接參與到戰鬥，
@@ -65,7 +65,7 @@ int32,str,str
 不過<Sheet(EventItem,2002266,0)/>則被當做一種吉利的東西，受人喜愛。
 務必拜託你了。"
 54,"TEXT_STMBDZ703_02806_HANAME_000_006","（★未使用／削除予定★）"
-55,"TEXT_STMBDZ703_02806_HANAME_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你拿到<Sheet(EventItem,2002266,0)/>了嗎？"
+55,"TEXT_STMBDZ703_02806_HANAME_000_010","<Highlight>ObjectParameter(1)</Highlight>，你拿到<Sheet(EventItem,2002266,0)/>了嗎？"
 56,"TEXT_STMBDZ703_02806_HANAME_000_011","哦哦……這黃金般的光輝，真是太美了。
 非常感謝你的幫忙！"
 57,"TEXT_STMBDZ703_02806_HANAME_000_012","我要贈送胃石的是長年為同志們提供資金的一位老人，
@@ -73,6 +73,6 @@ int32,str,str
 58,"TEXT_STMBDZ703_02806_HANAME_000_013","雖然他身心都很健康，不過畢竟年齡已大，
 所以我才會想將這個吉利的胃石當做護身符送給他，
 祝願他永遠健康下去。"
-59,"TEXT_STMBDZ703_02806_HANAME_000_014","再次感謝 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫忙，
+59,"TEXT_STMBDZ703_02806_HANAME_000_014","再次感謝<Highlight>ObjectParameter(1)</Highlight>的幫忙，
 真是非常感謝！"
 60,"TEXT_STMBDZ703_02806_HANAME_000_015","（★未使用／削除予定★）"

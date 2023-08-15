@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC910_01045_SEQ_00","青磷精煉所的梅梅佐夫，正因藥材不夠而煩惱。"
-1,"TEXT_GAIUSC910_01045_SEQ_01","藥材不夠用了。打倒<Sheet(BNpcName,242,0)/>，獲得2個<Sheet(EventItem,2000790,0)/>。"
+1,"TEXT_GAIUSC910_01045_SEQ_01","藥材不夠用了。打倒<Sheet(BNpcName,242,0)/>，獲取2個<Sheet(EventItem,2000790,0)/>。"
 2,"TEXT_GAIUSC910_01045_SEQ_02","獲得了<Sheet(EventItem,2000790,0)/>。回到青燐精製所，將其交給梅梅佐夫。"
 3,"TEXT_GAIUSC910_01045_SEQ_03","將藥材交給了梅梅佐夫。他想用<Sheet(EventItem,2000790,0)/>製作止血劑。"
 4,"TEXT_GAIUSC910_01045_SEQ_04",""
@@ -49,13 +49,13 @@ int32,str,str
 45,"TEXT_GAIUSC910_01045_TODO_21",""
 46,"TEXT_GAIUSC910_01045_TODO_22",""
 47,"TEXT_GAIUSC910_01045_TODO_23",""
-48,"TEXT_GAIUSC910_01045_MEMEZOFU_000_000","我能不能再託你去辦一件事？
+48,"TEXT_GAIUSC910_01045_MEMEZOFU_000_000","我能不能再托你去辦一件事？
 我希望你幫我準備點藥材。"
 49,"TEXT_GAIUSC910_01045_MEMEZOFU_000_001","正如你所見，這裡是戰爭的前線。
 不管運來多少藥材，都會馬上被用光。"
 50,"TEXT_GAIUSC910_01045_MEMEZOFU_000_002","我想想……你就從<Sheet(BNpcName,242,0)/>身上幫我準備點<Sheet(EventItem,2000790,0)/>吧。
 只要2個就夠用了，拜託了！"
-51,"TEXT_GAIUSC910_01045_DUMMY_000_000","打倒2隻<Sheet(BNpcName,242,0)/>，獲得<Sheet(EventItem,2000790,0)/>。"
+51,"TEXT_GAIUSC910_01045_DUMMY_000_000","打倒2隻<Sheet(BNpcName,242,0)/>，獲取<Sheet(EventItem,2000790,0)/>。"
 52,"TEXT_GAIUSC910_01045_TODO_000_000","刪除"
 53,"TEXT_GAIUSC910_01045_MEMEZOFU_000_010","你得到<Sheet(EventItem,2000790,0)/>了嗎？
 雖然那東西看起來有點噁心，不過可是很珍貴的藥材。

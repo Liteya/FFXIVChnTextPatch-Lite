@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_SUBCTS823_02360_SEQ_00","秘術師公會的圖比爾蓋姆有話想跟冒險者說。"
-1,"TEXT_SUBCTS823_02360_SEQ_01","圖比爾蓋姆讀了聖寇伊納克財團的雅．蜜特拉編寫的關於召喚師的論文後，想請冒險者幫一個忙。前往秘術師公會樓下的訓練場，在<Sheet(EObj,2007639,0)/>等待圖比爾蓋姆。"
+1,"TEXT_SUBCTS823_02360_SEQ_01","圖比爾蓋姆讀了聖寇伊納克財團的雅·蜜特拉編寫的關於召喚師的論文後，想請冒險者幫一個忙。前往秘術師公會樓下的訓練場，在<Sheet(EObj,2007639,0)/>等待圖比爾蓋姆。"
 2,"TEXT_SUBCTS823_02360_SEQ_02","召喚出了蘊含火屬性乙太的寶石獸，圖比爾蓋姆的實驗成功了。和秘術師公會的圖比爾蓋姆談談。"
 3,"TEXT_SUBCTS823_02360_SEQ_03","圖比爾蓋姆感謝冒險者協助了實驗，並稱讚其為魔法生物拓展了新的可能性。"
 4,"TEXT_SUBCTS823_02360_SEQ_04",""
@@ -49,9 +49,9 @@ int32,str,str
 45,"TEXT_SUBCTS823_02360_TODO_21",""
 46,"TEXT_SUBCTS823_02360_TODO_22",""
 47,"TEXT_SUBCTS823_02360_TODO_23",""
-48,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_001","呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+48,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_001","呀，這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 我正好想找你呢。"
-49,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_002","是這樣的，聖寇伊納克財團的雅．蜜特拉發來了
+49,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_002","是這樣的，聖寇伊納克財團的雅·蜜特拉發來了
 她所編寫的關於「召喚師」的論文。
 你的名字也在裡面作為共同研究者出現了。"
 50,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_003","論文裡寫了很多有趣的東西，
@@ -86,9 +86,9 @@ int32,str,str
 62,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_020","感謝你陪我印證猜想。
 多虧了有你幫忙，魔法生物獲得了新的可能性。
 如果不嫌棄的話，今後也請你繼續運用這門技術吧。"
-63,"TEXT_SUBCTS823_02360_SYSTEM_000_021","可以使用<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>改變召喚獸與寶石獸的外形了。"
+63,"TEXT_SUBCTS823_02360_SYSTEM_000_021","可以使用<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>改變召喚獸的外形了。"
 64,"TEXT_SUBCTS823_02360_SYSTEM_000_022","例如，想要將迦樓羅之靈的外形改變成紅寶石獸時，
 輸入「<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground> 迦樓羅之靈 紅寶石獸」即可進行改變。"
 65,"TEXT_SUBCTS823_02360_SYSTEM_000_023","輸入<UIForeground>F20222</UIForeground>/? <Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>
-或在「使用者巨集」的「文字指令一覽」中可以查看更詳細的說明。
+或在「用戶巨集」的「文本指令一覽」中可以查看更詳細的說明。
 請試著將召喚獸變成自己喜歡的樣子吧。"

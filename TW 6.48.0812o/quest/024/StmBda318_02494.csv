@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDA318_02494_SEQ_23",""
 24,"TEXT_STMBDA318_02494_TODO_00","尋找有困難的人"
 25,"TEXT_STMBDA318_02494_TODO_01","救助薊"
-26,"TEXT_STMBDA318_02494_TODO_02","驅除害蟲 獲得<Sheet(EObj,2007836,0)/>"
+26,"TEXT_STMBDA318_02494_TODO_02","驅除害蟲 獲取<Sheet(EObj,2007836,0)/>"
 27,"TEXT_STMBDA318_02494_TODO_03","將<Sheet(EventItem,2002067,0)/>交給薊"
 28,"TEXT_STMBDA318_02494_TODO_04","和薊對話"
 29,"TEXT_STMBDA318_02494_TODO_05","向夕霧報告"
@@ -56,7 +56,7 @@ int32,str,str
 抱歉，能再麻煩你們幫忙嗎？"
 50,"TEXT_STMBDA318_02494_YUGIRI_000_011","這次我們到郊外去問一下吧。
 在下和莉瑟就到東側的水田附近打聽，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，就拜託你在南側打聽了。"
+<Highlight>ObjectParameter(1)</Highlight>閣下，就拜託你在南側打聽了。"
 51,"TEXT_STMBDA318_02494_YUGIRI_000_012","特別是看到有困難或是煩惱的人，
 就多向他們打聽一下吧。
 拜託了……"
@@ -130,7 +130,7 @@ int32,str,str
 我們已經淪落為沒有尊嚴和驕傲的貪生怕死之徒了！"
 84,"TEXT_STMBDA318_02494_ISSE_000_082","只要服從，就能保命……
 那樣就行了……所以不要再管我們了！"
-85,"TEXT_STMBDA318_02494_LYSE_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+85,"TEXT_STMBDA318_02494_LYSE_000_090","<Highlight>ObjectParameter(1)</Highlight>？
 你打聽到什麼了嗎？"
 86,"TEXT_STMBDA318_02494_YUGIRI_000_100","啊，你回來得正好。
 我們這邊打聽完了……你那邊呢？"
@@ -140,7 +140,7 @@ int32,str,str
 再加上精神上對那孩子的折磨……簡直卑劣至極！
 帝國人不也是人嗎？！為什麼會這麼……"
 89,"TEXT_STMBDA318_02494_YUGIRI_000_103","……抱歉，在下一時沒抑制住內心的憤怒。
-多虧了你們，在下已經瞭解了帝國的殘忍無道和民眾的現狀。"
+多虧了你們，在下已經了解了帝國的殘忍無道和民眾的現狀。"
 90,"TEXT_STMBDA318_02494_YUGIRI_000_104","主公或許已經料到民眾不希望再發生戰亂，
 所以才說出，要交出自己首級的那種話嗎……
 可是飛燕大人真的會……"

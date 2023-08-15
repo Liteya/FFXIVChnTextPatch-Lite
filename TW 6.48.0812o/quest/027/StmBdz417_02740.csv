@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_STMBDZ417_02740_SEQ_00","茨菰村的黑鼻似乎有事找冒險者商量。"
-1,"TEXT_STMBDZ417_02740_SEQ_01","和黑鼻進行了交談。黑鼻正在尋求能夠提供適合武器的商人，以備村中再次出現魔物的情況。在介紹了弓束官邸的魚鱗後，黑鼻想請冒險者當中介。為給黑鼻等茨菰村的人們進行中介，和無二江流域的魚鱗談談。"
+1,"TEXT_STMBDZ417_02740_SEQ_01","和黑鼻進行了交談。黑鼻正在尋求能夠提供合適武器的商人，以備村中再次出現魔物的情況。在介紹了弓束官邸的魚鱗後，黑鼻想請冒險者當中介。為給黑鼻等茨菰村的人們進行中介，和無二江流域的魚鱗談談。"
 2,"TEXT_STMBDZ417_02740_SEQ_02","和魚鱗進行了交談。黑鼻看中了魚鱗擁有的武器，但魚鱗開出的價格相當於村裡10年的生活費用，於是黑鼻表示無法接受。正在此時，一眾收到村裡遭受魔物襲擊的消息。黑鼻決定暫停關於購買的交涉，改為向魚鱗借用武器。和無二江流域的魚鱗談談。"
 3,"TEXT_STMBDZ417_02740_SEQ_03","和魚鱗進行了交談。魚鱗一邊表示價格繼續商量，一邊決定前去茨菰村。和前往討伐魔物的茨菰村的隼談談。"
 4,"TEXT_STMBDZ417_02740_SEQ_04","和隼進行了交談。根據隼的描述，黑鼻用火槍擊退了全部魔物。魚鱗也趕了過來，開始商定價格。和茨菰村的魚鱗談談。"
@@ -59,7 +59,7 @@ int32,str,str
 不過，無法保證不會接著發生這種事……"
 51,"TEXT_STMBDZ417_02740_KUROBANA_000_003","村裡也有人會舞槍弄劍。
 但是，在沒有像樣武器的情況下，僅憑農具戰鬥也讓人不放心。
-你認不認識那種有適合武器的商人呢？"
+你認不認識那種有合適武器的商人呢？"
 52,"TEXT_STMBDZ417_02740_KUROBANA_000_004","啊？有個鯰魚精有帝國製造的武器，
 正在尋找買家嗎？
 不知道價格和品質如何，不過值得去看看……"
@@ -68,7 +68,7 @@ int32,str,str
 請在弓束官邸前的倉庫和那個商人一起等我們吧！"
 54,"TEXT_STMBDZ417_02740_KUROBANA_000_006","我會帶著隼先生一起去的，
 請在弓束官邸前的倉庫和那個商人一起等我們吧！"
-55,"TEXT_STMBDZ417_02740_GYORIN_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+55,"TEXT_STMBDZ417_02740_GYORIN_000_010","<Highlight>ObjectParameter(1)</Highlight>！
 怎麼了？想我了嗎？"
 56,"TEXT_STMBDZ417_02740_GYORIN_000_011","你想知道先前找到的武器是否還有？
 很遺憾……還沒找到買家，
@@ -118,18 +118,18 @@ int32,str,str
 76,"TEXT_STMBDZ417_02740_GYORIN_000_026","真、真的會付錢嗎？
 真的可以相信嗎……"
 77,"TEXT_STMBDZ417_02740_GYORIN_000_027","原來如此，試用一下，
-就可以瞭解武器，增加購買的機會吧？
-哎呀，沒想到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 還有經商的才能啊！"
+就可以了解武器，增加購買的機會吧？
+哎呀，沒想到<Highlight>ObjectParameter(1)</Highlight>還有經商的才能啊！"
 78,"TEXT_STMBDZ417_02740_GYORIN_000_028","明白了！
-看在摯友 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的面子上，就借給你們了！
+看在摯友<Highlight>ObjectParameter(1)</Highlight>的面子上，就借給你們了！
 不過，一定要記得付錢啊！"
 79,"TEXT_STMBDZ417_02740_KUROBANA_000_029","謝謝，我這就回到村裡去！
 二位也請來到茨菰村吧！"
-80,"TEXT_STMBDZ417_02740_GYORIN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 說服了我，
+80,"TEXT_STMBDZ417_02740_GYORIN_000_030","<Highlight>ObjectParameter(1)</Highlight>說服了我，
 我才把武器借給了他們，
 不過，價格還是要談好才行！"
 81,"TEXT_STMBDZ417_02740_GYORIN_000_031","我這就去茨菰村了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也一起來吧，
+<Highlight>ObjectParameter(1)</Highlight>也一起來吧，
 我要讓你看看我飛黃騰達的時刻！"
 82,"TEXT_STMBDZ417_02740_KUROBANA_000_032","我、我來討伐魔物嗎？！"
 83,"TEXT_STMBDZ417_02740_HAYABUSA_000_040","呀，這不是旅行者嗎？
@@ -149,7 +149,7 @@ int32,str,str
 90,"TEXT_STMBDZ417_02740_KUROBANA_000_048","呀，暴發戶的鯰魚精老闆啊……
 多虧有你的火槍，如你所見，我成功討伐了魔物。
 謝謝你借給我！"
-91,"TEXT_STMBDZ417_02740_GYORIN_000_049","你瞭解這些武器的優異性能了嗎？
+91,"TEXT_STMBDZ417_02740_GYORIN_000_049","你了解這些武器的優異性能了嗎？
 能讓你中意就再好不過了。"
 92,"TEXT_STMBDZ417_02740_GYORIN_000_050","那麼……
 就開始商定價格吧！
@@ -165,7 +165,7 @@ int32,str,str
 用等值的其他物品交換也行啊。
 "
 97,"TEXT_STMBDZ417_02740_KUROBANA_000_061","相當於10年生活費的東西嗎……
-我們村沒有那麼多剩餘的東西啊。"
+我們村沒有那麼多富餘的東西啊。"
 98,"TEXT_STMBDZ417_02740_GYORIN_000_062","這可是我拼上性命得來的武器，
 所以，自然得準備相稱的東西用來交易，嗯哼！"
 99,"TEXT_STMBDZ417_02740_KUROBANA_000_063","稍、稍微讓我們想一下。"
@@ -183,6 +183,6 @@ int32,str,str
 成交吧！"
 107,"TEXT_STMBDZ417_02740_KUROBANA_000_070","我們這邊沒什麼問題。
 成交吧……"
-108,"TEXT_STMBDZ417_02740_GYORIN_000_071","多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫助，我得到了
+108,"TEXT_STMBDZ417_02740_GYORIN_000_071","多虧<Highlight>ObjectParameter(1)</Highlight>幫助，我得到了
 比食物強好多倍的東西啊！
 謝謝你給我介紹了這麼好的人！"

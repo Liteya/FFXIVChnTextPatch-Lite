@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 據穆納瓦努說，拉努瓦利有事想要找冒險者幫忙。和西風島的農人拉努瓦利談談。"
-2,"TEXT_BANVAN201_02181_SEQ_02","拉努瓦利告訴冒險者說浮島土地的土壤不夠肥沃。為了改善土壤，在袞杜集落周邊獲得3袋<Sheet(EventItem,2001911,0)/>，在危步臺獲得3個<Sheet(EventItem,2001926,0)/>。"
+2,"TEXT_BANVAN201_02181_SEQ_02","拉努瓦利告訴冒險者說浮島土地的土壤不夠肥沃。為了改善土壤，在袞杜集落周邊獲取3袋<Sheet(EventItem,2001911,0)/>，在危步台獲取3個<Sheet(EventItem,2001926,0)/>。"
 3,"TEXT_BANVAN201_02181_SEQ_03","獲得了3袋<Sheet(EventItem,2001911,0)/>和3個<Sheet(EventItem,2001926,0)/>。將其交給西風島的農人拉努瓦利。"
 4,"TEXT_BANVAN201_02181_SEQ_04","將<Sheet(EventItem,2001911,0)/>和<Sheet(EventItem,2001926,0)/>交給了拉努瓦利。袞杜集落周邊的土壤是袞杜族先祖代代耕耘過的。將<Sheet(EventItem,2001926,0)/>與取來的土壤一起混入浮島土地的話，能夠有效地讓浮島的土壤得到改善，使之更加適合耕耘。"
 5,"TEXT_BANVAN201_02181_SEQ_05",""
@@ -30,8 +30,8 @@ int32,str,str
 22,"TEXT_BANVAN201_02181_SEQ_22",""
 23,"TEXT_BANVAN201_02181_SEQ_23",""
 24,"TEXT_BANVAN201_02181_TODO_00","和農人拉努瓦利對話"
-25,"TEXT_BANVAN201_02181_TODO_01","獲得<Sheet(EventItem,2001911,0)/>"
-26,"TEXT_BANVAN201_02181_TODO_02","獲得<Sheet(EventItem,2001926,0)/>"
+25,"TEXT_BANVAN201_02181_TODO_01","獲取<Sheet(EventItem,2001911,0)/>"
+26,"TEXT_BANVAN201_02181_TODO_02","獲取<Sheet(EventItem,2001926,0)/>"
 27,"TEXT_BANVAN201_02181_TODO_03","將<Sheet(EventItem,2001911,0)/>和<Sheet(EventItem,2001926,0)/>交給農人拉努瓦利"
 28,"TEXT_BANVAN201_02181_TODO_04",""
 29,"TEXT_BANVAN201_02181_TODO_05",""
@@ -53,25 +53,25 @@ int32,str,str
 45,"TEXT_BANVAN201_02181_TODO_21",""
 46,"TEXT_BANVAN201_02181_TODO_22",""
 47,"TEXT_BANVAN201_02181_TODO_23",""
-48,"TEXT_BANVAN201_02181_MUNAVANU_000_000","歡迎、歡迎， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_BANVAN201_02181_MUNAVANU_000_000","歡迎、歡迎，<Highlight>ObjectParameter(1)</Highlight>。
 其實、其實，拉努瓦利有事想讓你幫忙。"
 49,"TEXT_BANVAN201_02181_MUNAVANU_000_001","好像、好像是她耕作的那片田地，
 如同燒盡草木的火焰一般，有著很嚴重的問題。
 還請、還請你聽聽拉努瓦利的請求。"
-50,"TEXT_BANVAN201_02181_RANUVALI_000_010","你好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-務必、務必將你的力量借助於我！"
+50,"TEXT_BANVAN201_02181_RANUVALI_000_010","你好，<Highlight>ObjectParameter(1)</Highlight>！
+務必、務必將你的力量藉助於我！"
 51,"TEXT_BANVAN201_02181_RANUVALI_000_011","其實，我最近在這座浮島上耕種了一些特產蔬菜，
 可是，浮島的土壤如同落湯風箏貓一樣枯瘦貧瘠，
-這麼下去的話，想必種不出高品質的蔬菜。"
-52,"TEXT_BANVAN201_02181_RANUVALI_000_012","所以、所以，我想讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你幫我去
+這麼下去的話，想必種不出優質的蔬菜。"
+52,"TEXT_BANVAN201_02181_RANUVALI_000_012","所以、所以，我想讓<Highlight>ObjectParameter(1)</Highlight>你幫我去
 袞杜集落周邊取點土回來。
 大概有3袋<Sheet(EventItem,2001911,0)/>就夠了。"
 53,"TEXT_BANVAN201_02181_RANUVALI_000_013","然後、然後，還需要3個<Sheet(EventItem,2001926,0)/>。
-<Sheet(EventItem,2001926,0)/>可以在危步臺找到，
+<Sheet(EventItem,2001926,0)/>可以在危步台找到，
 我就像那求水心切的乾涸大地一樣急需這些東西，拜託你了！"
-54,"TEXT_BANVAN201_02181_RANUVALI_000_014","請將從袞杜集落周邊獲得的3袋<Sheet(EventItem,2001911,0)/>
-和危步臺獲得的3個<Sheet(EventItem,2001926,0)/>帶來給我，拜託你了！"
-55,"TEXT_BANVAN201_02181_RANUVALI_000_020","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+54,"TEXT_BANVAN201_02181_RANUVALI_000_014","請將從袞杜集落周邊獲取的3袋<Sheet(EventItem,2001911,0)/>
+和危步台獲取的3個<Sheet(EventItem,2001926,0)/>帶來給我，拜託你了！"
+55,"TEXT_BANVAN201_02181_RANUVALI_000_020","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>！
 怎麼樣，我要的東西找到了嗎？"
 56,"TEXT_BANVAN201_02181_RANUVALI_000_021","真是、真是，太謝謝你了！
 我要的東西全都幫我找來了！"

@@ -1,12 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CLSWVR300_00593_SEQ_00","裁衣匠公會的雷多倫特．羅斯心情很差。"
-1,"TEXT_CLSWVR300_00593_SEQ_01","以前到公會訂做過服飾的瓦瓦魯卡又到裁衣匠公會下訂單了。代替雷多倫特．羅斯接下訂單。首先去採礦工公會的附近尋找瓦瓦魯卡，向他詢問訂單的詳細內容。"
-2,"TEXT_CLSWVR300_00593_SEQ_02","瓦瓦魯卡訂服飾的原因是他戀愛了。為了他的愛的告白，製作<Sheet(ItemHQ,3823,0)/>，交給裁衣匠公會的雷多倫特．羅斯。"
+0,"TEXT_CLSWVR300_00593_SEQ_00","裁衣匠公會的雷多倫特·羅斯心情很差。"
+1,"TEXT_CLSWVR300_00593_SEQ_01","以前到公會訂做過服飾的瓦瓦魯卡又到裁衣匠公會下訂單了。代替雷多倫特·羅斯接下訂單。首先去採礦工公會的附近尋找瓦瓦魯卡，向他詢問訂單的詳細內容。"
+2,"TEXT_CLSWVR300_00593_SEQ_02","瓦瓦魯卡訂服飾的原因是他戀愛了。為了他的愛的告白，製作<Sheet(ItemHQ,3823,0)/>，交給裁衣匠公會的雷多倫特·羅斯。"
 3,"TEXT_CLSWVR300_00593_SEQ_03","瓦瓦魯卡滿意地收下了冒險者製作的<Sheet(ItemHQ,3823,0)/>。但和他自己準備的其它衣服一點都不搭。他意氣風發地出去了……不知他能否向可可摩大小姐告白成功。
 
-※裁衣匠等級達到35級以上時，可以從雷多倫特．羅斯那裡領取下一個裁衣匠任務。"
+※裁衣匠等級達到35級以上時，可以從雷多倫特·羅斯那裡領取下一個裁衣匠任務。"
 4,"TEXT_CLSWVR300_00593_SEQ_04",""
 5,"TEXT_CLSWVR300_00593_SEQ_05",""
 6,"TEXT_CLSWVR300_00593_SEQ_06",""
@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_CLSWVR300_00593_SEQ_22",""
 23,"TEXT_CLSWVR300_00593_SEQ_23",""
 24,"TEXT_CLSWVR300_00593_TODO_00","和瓦瓦魯卡對話"
-25,"TEXT_CLSWVR300_00593_TODO_01","將<Sheet(ItemHQ,3823,0)/>交給雷多倫特．羅斯"
+25,"TEXT_CLSWVR300_00593_TODO_01","將<Sheet(ItemHQ,3823,0)/>交給雷多倫特·羅斯"
 26,"TEXT_CLSWVR300_00593_TODO_02",""
 27,"TEXT_CLSWVR300_00593_TODO_03",""
 28,"TEXT_CLSWVR300_00593_TODO_04",""
@@ -52,7 +52,7 @@ int32,str,str
 46,"TEXT_CLSWVR300_00593_TODO_22",""
 47,"TEXT_CLSWVR300_00593_TODO_23",""
 48,"TEXT_CLSWVR300_00593_REDOLENTROSE_000","什麼呀？我不會接受那種委託！
-啊、啊呀…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+啊、啊呀……<Highlight>ObjectParameter(1)</Highlight>，
 是你呀？"
 49,"TEXT_CLSWVR300_00593_REDOLENTROSE_001","對不起，
 碰上一件麻煩的委託，我有些激動了。"
@@ -66,7 +66,7 @@ int32,str,str
 53,"TEXT_CLSWVR300_00593_WAWARUKKA_010","啊，你願意接受我的委託嗎？
 事不宜遲，請你製作<Sheet(ItemHQ,3823,0)/>。"
 54,"TEXT_CLSWVR300_00593_WAWARUKKA_011","呵呵，其實，我愛上了一個女孩。
-而且是一見鍾情……"
+而且是一見鐘情……"
 55,"TEXT_CLSWVR300_00593_WAWARUKKA_012","總之我想和她說說話，
 可是，你看，我一直以來都只有工作服。
 這副破破爛爛的樣子，沒臉站在她跟前。"
@@ -75,7 +75,7 @@ int32,str,str
 所以我付得起錢。"
 57,"TEXT_CLSWVR300_00593_WAWARUKKA_014","拜託你了！
 這關係到我的人生！"
-58,"TEXT_CLSWVR300_00593_REDOLENTROSE_020","高品質的「<Sheet(ItemHQ,3823,0)/>」對吧？
+58,"TEXT_CLSWVR300_00593_REDOLENTROSE_020","優質的「<Sheet(ItemHQ,3823,0)/>」對吧？
 我聽瓦瓦魯卡說了。請你速速交付給我。"
 59,"TEXT_CLSWVR300_00593_WAWARUKKA_021","拜託你做一雙「<Sheet(ItemHQ,3823,0)/>」。
 這關係到我的人生！
@@ -94,7 +94,7 @@ int32,str,str
 65,"TEXT_CLSWVR300_00593_REDOLENTROSE_035","為什麼他會搭配格鬥服啊……
 明明是那麼高檔的高跟鞋！"
 66,"TEXT_CLSWVR300_00593_REDOLENTROSE_036","啊……辛苦你了。
-那個孩子好像對寶石商人的女兒一見鍾情了。"
+那個孩子好像對寶石商人的女兒一見鐘情了。"
 67,"TEXT_CLSWVR300_00593_REDOLENTROSE_037","為了向心愛的人告白而整裝打扮的想法是好的，
 可是……"
 68,"TEXT_CLSWVR300_00593_REDOLENTROSE_038","他明明完全不懂服裝，

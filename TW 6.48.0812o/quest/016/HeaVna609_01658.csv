@@ -3,8 +3,8 @@
 int32,str,str
 0,"TEXT_HEAVNA609_01658_SEQ_00","田園郡的斯洛菲克斯想要犒勞冒險者等人。"
 1,"TEXT_HEAVNA609_01658_SEQ_01","斯洛菲克斯發放了通行許可。和田園郡的哥布林族監視員談談。"
-2,"TEXT_HEAVNA609_01658_SEQ_02","和哥布林族監視員進行了交談。哥布林族監視員一下子就將阻擋魔物的路障炸掉了。和田園郡的雅．修特拉談談。"
-3,"TEXT_HEAVNA609_01658_SEQ_03","和雅．修特拉進行了交談。這樣一來，就可以見到瑪托雅了。做好準備，出發前往瑪托雅的洞穴。"
+2,"TEXT_HEAVNA609_01658_SEQ_02","和哥布林族監視員進行了交談。哥布林族監視員一下子就將阻擋魔物的路障炸掉了。和田園郡的雅·修特拉談談。"
+3,"TEXT_HEAVNA609_01658_SEQ_03","和雅·修特拉進行了交談。這樣一來，就可以見到瑪托雅了。做好準備，出發前往瑪托雅的洞穴。"
 4,"TEXT_HEAVNA609_01658_SEQ_04",""
 5,"TEXT_HEAVNA609_01658_SEQ_05",""
 6,"TEXT_HEAVNA609_01658_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNA609_01658_SEQ_22",""
 23,"TEXT_HEAVNA609_01658_SEQ_23",""
 24,"TEXT_HEAVNA609_01658_TODO_00","和哥布林族監視員對話"
-25,"TEXT_HEAVNA609_01658_TODO_01","和雅．修特拉對話"
+25,"TEXT_HEAVNA609_01658_TODO_01","和雅·修特拉對話"
 26,"TEXT_HEAVNA609_01658_TODO_02",""
 27,"TEXT_HEAVNA609_01658_TODO_03",""
 28,"TEXT_HEAVNA609_01658_TODO_04",""
@@ -63,7 +63,7 @@ int32,str,str
 今後我們也一起互相幫助吧。"
 53,"TEXT_HEAVNA609_01658_SLOWFIX_000_005","哥布已經 和哥布林族監視員 說過了！
 祝你們 旅途順利哥布！"
-54,"TEXT_HEAVNA609_01658_YSHTOLA_000_006"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、阿爾菲諾大人，我們趕快走吧。"
+54,"TEXT_HEAVNA609_01658_YSHTOLA_000_006","<Highlight>ObjectParameter(1)</Highlight>、阿爾菲諾大人，我們趕快走吧。"
 55,"TEXT_HEAVNA609_01658_YSHTOLA_000_007","好了，這次真的要繼續前進了。"
 56,"TEXT_HEAVNA609_01658_ALPHINAUD_000_008","哎呀哎呀……
 希望不要再有什麼亂七八糟的事情了……"

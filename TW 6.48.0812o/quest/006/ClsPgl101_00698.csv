@@ -74,18 +74,18 @@ int32,str,str
 對其施以3次崩拳，試煉就算合格了！"
 58,"TEXT_CLSPGL101_00698_HAMON_000_30","對鼠巢中的盧恩人護甲手，
 施以3次連擊的終結技崩拳！"
-59,"TEXT_CLSPGL101_00698_HAMON_000_40","呦！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 領悟得真快！
+59,"TEXT_CLSPGL101_00698_HAMON_000_40","呦！<Highlight>ObjectParameter(1)</Highlight>領悟得真快！
 已經使連續攻擊到達極致了啊，真是太棒了！"
 60,"TEXT_CLSPGL101_00698_HAMON_000_41","我最擅長的也是連續攻擊呢，
 真想現在給你露兩手呢。"
 61,"TEXT_CLSPGL101_00698_CHUCHUTO_000_43","「招式的爆風會把公會吹倒呢。
-很遺憾，沒辦法給你看了。」
+很遺憾，沒法給你看了。」
 就是這樣對吧？"
 62,"TEXT_CLSPGL101_00698_CHUCHUTO_000_44","師父總是這樣說，而從不展露招式給我們看。
 所以，師父的強大之處只有在傳說中才能略知一二。
 比如，將手持巨斧的壯漢，用行雲流水般的招式擊垮之類的。"
 63,"TEXT_CLSPGL101_00698_HAMON_000_46","哈哈哈，真是讓人懷念的話題。"
-64,"TEXT_CLSPGL101_00698_CHUCHUTO_000_47","話雖如此，看到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的成長，我也著急了。
+64,"TEXT_CLSPGL101_00698_CHUCHUTO_000_47","話雖如此，看到<Highlight>ObjectParameter(1)</Highlight>的成長，我也著急了。
 為了不落在下風，我也要勤於修行了。"
 65,"TEXT_CLSPGL101_00698_HAMON_000_48","其實啊，秋秋拓稍微有些止步不前了。
 起因大概就是跟她一起加入格鬥家公會，

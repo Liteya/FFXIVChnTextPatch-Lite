@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKUA201_04645_SEQ_00","開拓據點的聯繫小員有事想要告訴冒險者。"
-1,"TEXT_AKTKUA201_04645_SEQ_01","和聯繫小員進行了交談。前往無人島西南方向的海灘，在<Sheet(EObj,2013035,0)/>等待塔塔露。"
+0,"TEXT_AKTKUA201_04645_SEQ_00","開拓據點的聯絡小員有事想要告訴冒險者。"
+1,"TEXT_AKTKUA201_04645_SEQ_01","和聯絡小員進行了交談。前往無人島西南方向的海灘，在<Sheet(EObj,2013035,0)/>等待塔塔露。"
 2,"TEXT_AKTKUA201_04645_SEQ_02","塔塔露和愛因扎爾正漩將還有希爾菲厄一起來到了冒險者的島上。無人島的傳聞似乎在海盜中流傳甚廣。繼續開拓島嶼吧。"
 3,"TEXT_AKTKUA201_04645_SEQ_03",""
 4,"TEXT_AKTKUA201_04645_SEQ_04",""
@@ -54,17 +54,17 @@ int32,str,str
 在西南方向的海灘稍作等待應該就能和她碰頭了！"
 50,"TEXT_AKTKUA201_04645_OPERATORMAMMET_000_005","塔塔露馬上就到島上！
 在西南方向的海灘稍作等待應該就能和她碰頭了！"
-51,"TEXT_AKTKUA201_04645_TATARU_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+51,"TEXT_AKTKUA201_04645_TATARU_000_010","<Highlight>ObjectParameter(1)</Highlight>！
 開拓的情況怎麼樣呀？"
 52,"TEXT_AKTKUA201_04645_TATARU_000_011","貓耳小員給我發來了進度報告……"
 53,"TEXT_AKTKUA201_04645_TATARU_000_012","聽說你連開拓工房和屯貨倉庫都已經建好，
 而且還開始使用島上的素材進行交易了，
 這可真是絕佳的主意！"
 54,"TEXT_AKTKUA201_04645_TATARU_000_013","這次我還帶了他們二位來！
-他們都很想親眼看看順便視察一下 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的島。"
-55,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_014","(-面熟的魯加族-)喲，我聽提督說你正在開拓無人島，
+他們都很想親眼看看順便視察一下<Highlight>ObjectParameter(1)</Highlight>的島。"
+55,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_014","(-眼熟的魯加族-)喲，我聽提督說你正在開拓無人島，
 就帶著希爾菲厄這傢伙來玩了！"
-56,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_015","(-面熟的魯加族-)哦，你儘管放心，雖然說是來玩，
+56,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_015","(-眼熟的魯加族-)哦，你儘管放心，雖然說是來玩，
 但我們不會在只屬於你的聖域待太久，
 就是想來打個招呼。"
 57,"TEXT_AKTKUA201_04645_Q1_000_000","要說什麼？"
@@ -90,15 +90,15 @@ int32,str,str
 69,"TEXT_AKTKUA201_04645_HYLLFYR_000_026","不過……與其死在陰暗的船艙裡，
 那還不如在陸地上度過最後的人生。"
 70,"TEXT_AKTKUA201_04645_TATARU_000_027","等你有了自己的島，請一定要和我們大繁榮商店聯繫一下！
-只要你提供開拓資料，我們就會為你介紹交易對象，
+只要你提供開拓數據，我們就會為你介紹交易對象，
 或是提供其他有用的情報！"
 71,"TEXT_AKTKUA201_04645_HYLLFYR_000_028","呵……有你幫忙的話事情就好辦多了。
 時不時帶著斷罪黨的那群小鬼來海邊玩玩，
 弄個熱熱鬧鬧的宴會，把酒言歡一番也不錯啊。"
 72,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_029","我看你簡直就是幹勁滿滿啊！
 到時候可別忘了叫上我！"
-73,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也會來的，對吧？"
-74,"TEXT_AKTKUA201_04645_HYLLFYR_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 還好說，黑渦軍令部總長什麼的就算了吧。
+73,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_030","<Highlight>ObjectParameter(1)</Highlight>也會來的，對吧？"
+74,"TEXT_AKTKUA201_04645_HYLLFYR_000_031","<Highlight>ObjectParameter(1)</Highlight>還好說，黑渦軍令部總長什麼的就算了吧。
 不過，來的要是一個「海盜」，那也未嘗不可。"
 75,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_032","好了，我們差不多該走了。
 不好意思啊，沒打聲招呼就過來了。"
@@ -107,12 +107,12 @@ int32,str,str
 我這個假沒白休。"
 77,"TEXT_AKTKUA201_04645_TATARU_000_034","我也一樣，粗略參觀了一下你的島之後，
 我都想去其他島也學習一番了。"
-78,"TEXT_AKTKUA201_04645_TATARU_000_035","看到這座無人島成為了能讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 放鬆身心的地方，
+78,"TEXT_AKTKUA201_04645_TATARU_000_035","看到這座無人島成為了能讓<Highlight>ObjectParameter(1)</Highlight>放鬆身心的地方，
 我真的感覺特別開心！"
 79,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_036","哦對了，我差點忘了。
 我給你帶了禮物。"
 80,"TEXT_AKTKUA201_04645_EYNZAHRSLAFYRSYN_000_037","原本梅爾維布提督也想一起來，
-但她實在沒辦法從政務中抽身，於是就託我帶來了這個。
+但她實在沒法從政務中抽身，於是就托我帶來了這個。
 這好像是她親自挑選的，你就收下吧。"
 81,"TEXT_AKTKUA201_04645_TATARU_000_038","那麼，請繼續享受無人島生活吧！
 等過些時間我再來看你！"

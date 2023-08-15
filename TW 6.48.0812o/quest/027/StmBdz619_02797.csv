@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ619_02797_SEQ_21",""
 22,"TEXT_STMBDZ619_02797_SEQ_22",""
 23,"TEXT_STMBDZ619_02797_SEQ_23",""
-24,"TEXT_STMBDZ619_02797_TODO_00","從<Sheet(BNpcName,5785,0)/>身上獲得<Sheet(EventItem,2002258,0)/>"
+24,"TEXT_STMBDZ619_02797_TODO_00","從<Sheet(BNpcName,5785,0)/>身上獲取<Sheet(EventItem,2002258,0)/>"
 25,"TEXT_STMBDZ619_02797_TODO_01","將<Sheet(EventItem,2002258,0)/>交給察侖"
 26,"TEXT_STMBDZ619_02797_TODO_02",""
 27,"TEXT_STMBDZ619_02797_TODO_03",""
@@ -60,11 +60,11 @@ int32,str,str
 可笛子卻壞掉了，這讓我非常困擾。"
 51,"TEXT_STMBDZ619_02797_CAALUN_000_003","為了製作新笛子，能否請你幫幫我呢？
 我希望你從東北邊的<Sheet(BNpcName,5785,0)/>身上，
-獲得2根<Sheet(EventItem,2002258,0)/>。"
-52,"TEXT_STMBDZ619_02797_CAALUN_000_004","沒有新笛子的話就沒辦法把音樂傳承給兒子了……
+獲取2根<Sheet(EventItem,2002258,0)/>。"
+52,"TEXT_STMBDZ619_02797_CAALUN_000_004","沒有新笛子的話就沒法把音樂傳承給兒子了……
 所以，拜託你了。"
 53,"TEXT_STMBDZ619_02797_CAALUN_000_005","我希望你從東北邊的<Sheet(BNpcName,5785,0)/>身上，
-獲得2根<Sheet(EventItem,2002258,0)/>。"
+獲取2根<Sheet(EventItem,2002258,0)/>。"
 54,"TEXT_STMBDZ619_02797_CAALUN_000_010","怎麼樣，
 搞到2根<Sheet(EventItem,2002258,0)/>了嗎？"
 55,"TEXT_STMBDZ619_02797_CAALUN_100_020","謝謝你，為了我兒子去狩獵<Sheet(BNpcName,5785,0)/>，

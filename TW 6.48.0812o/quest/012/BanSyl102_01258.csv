@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSYL102_01258_SEQ_00","妖精暫留地的特那克希亞想到了新的惡作劇點子。"
-1,"TEXT_BANSYL102_01258_SEQ_01","接受了特那克希亞的委託。在百靈啼討伐<Sheet(BNpcName,237,0)/>，獲得1份<Sheet(EventItem,2001118,0)/>；討伐<Sheet(BNpcName,233,0)/>，獲得1份<Sheet(EventItem,=2001119,0)/>；討伐<Sheet(BNpcName,222,0)/>，獲得2份<Sheet(EventItem,2001120,0)/>。"
+1,"TEXT_BANSYL102_01258_SEQ_01","接受了特那克希亞的委託。在百靈啼討伐<Sheet(BNpcName,237,0)/>，獲取1份<Sheet(EventItem,2001118,0)/>；討伐<Sheet(BNpcName,233,0)/>，獲取1份<Sheet(EventItem,=2001119,0)/>；討伐<Sheet(BNpcName,222,0)/>，獲取2份<Sheet(EventItem,2001120,0)/>。"
 2,"TEXT_BANSYL102_01258_SEQ_02","成功討伐了魔物，獲得了委託品。將<Sheet(EventItem,2001118,0)/>、<Sheet(EventItem,2001119,0)/>和<Sheet(EventItem,2001120,0)/>交給妖精暫留地的特那克希亞。"
 3,"TEXT_BANSYL102_01258_SEQ_03","將委託品交給了特那克希亞。拿到了惡作劇用的材料，特那克希亞十分高興。他誇獎了冒險者的工作，並希望冒險者能再次幫他忙。"
 4,"TEXT_BANSYL102_01258_SEQ_04",""

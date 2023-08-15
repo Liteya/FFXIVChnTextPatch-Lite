@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_LUCKME109_03638_TODO_21",""
 46,"TEXT_LUCKME109_03638_TODO_22",""
 47,"TEXT_LUCKME109_03638_TODO_23",""
-48,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了。
+48,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_000","<Highlight>ObjectParameter(1)</Highlight>，你回來了。
 對你來說，成功完成這種小事或許不值得稱讚，
 但我還是很佩服你，幹得漂亮。"
 49,"TEXT_LUCKME109_03638_XAMOTT_000_010","你們可能不知道，
@@ -57,8 +57,8 @@ int32,str,str
 50,"TEXT_LUCKME109_03638_XAMOTT_000_011","而礦脈之中，有時可以挖到人稱「大地之種」的特殊礦石，
 它蘊含著強大的魔力，非常罕見。"
 51,"TEXT_LUCKME109_03638_XAMOTT_000_012","隨著加工技術的荒廢，這種礦石也幾乎被人遺忘……
-但託你們的福現在又可以重新採掘了。
-其中要數侏儒煙囪附近的礦石最為高品質。"
+但托你們的福現在又可以重新採掘了。
+其中要數侏儒煙囪附近的礦石最為優質。"
 52,"TEXT_LUCKME109_03638_XAMOTT_000_013","但是那片區域已經被我們的宿敵古格家族
 擅自劃分成他們自己的地盤了！"
 53,"TEXT_LUCKME109_03638_XAMOTT_000_014","那幫傢伙真的是窮凶極惡……卑鄙無恥……
@@ -66,7 +66,7 @@ int32,str,str
 不管我們怎麼懇求，他們都不肯讓我們去採礦！"
 54,"TEXT_LUCKME109_03638_XAMOTT_000_015","所以，你們需要「妥善」處理他們那邊……
 沒問題吧？"
-55,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_016","嗯，好歹我們也是被稱為反叛者的人，
+55,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_016","嗯，好歹我們也是被稱為叛逆者的人，
 雖然這稱呼不好聽，但我們會跟他們「交涉」好的。"
 56,"TEXT_LUCKME109_03638_XAMOTT_000_017","那就好說了……
 那我就挑個身手利落的人，讓他帶你們去吧。"
@@ -101,7 +101,7 @@ int32,str,str
 扣魯圖就麻煩你們了。"
 72,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_030","路上很可能會遭到食罪靈的襲擊，
 做好戰鬥的準備再出發吧。"
-73,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_031","請放心，只要有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在，
+73,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_031","請放心，只要有<Highlight>ObjectParameter(1)</Highlight>在，
 什麼都不在話下。"
 74,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_040","讓扣魯圖帶我們去侏儒煙囪吧。
 別忘了做好戰鬥的準備。"
@@ -127,20 +127,20 @@ int32,str,str
 86,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_020","看上去不算太近，
 小心食罪靈會在路上襲擊我們。"
 87,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_030","這麼快就被發現了啊……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，左邊的食罪靈就拜託你了！"
-88,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_040","儘量不要讓敵人的攻擊打到扣魯圖！"
+<Highlight>ObjectParameter(1)</Highlight>，左邊的食罪靈就拜託你了！"
+88,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_040","盡量不要讓敵人的攻擊打到扣魯圖！"
 89,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_050","厲害……你們都好強啊！"
 90,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_060","我就算了，倒是<If(PlayerParameter(4))>她<Else/>他</If>，
 哪怕遇到比這更強的對手也會勇敢應戰。"
-91,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_070","我真的很想知道 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 之前的戰鬥經歷！"
+91,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_070","我真的很想知道<Highlight>ObjectParameter(1)</Highlight>之前的戰鬥經歷！"
 92,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_080","你聽了之後保證會驚訝連連。
-等事情解決後可以找 <Highlight>ObjectParameter(1)</Highlight> 給你講講。"
+等事情解決後可以找<Highlight>ObjectParameter(1)</Highlight>給你講講。"
 93,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_090","嘿嘿嘿……那我就等著聽故事了！"
 94,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_100","嗚哇？！又來了！"
 95,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_110","扣魯圖到我身後來。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，上吧！"
+<Highlight>ObjectParameter(1)</Highlight>，上吧！"
 96,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_120","後、後面也有敵人！"
-97,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_130"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 專心攻擊，
+97,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_130","<Highlight>ObjectParameter(1)</Highlight>專心攻擊，
 我會保護好扣魯圖的！"
 98,"TEXT_LUCKME109_03638_KORUTT_BATTLETALK_000_140","呼……鬆了一口氣……
 多虧了你們二位精彩的配合！"
@@ -167,7 +167,7 @@ int32,str,str
 明明就、就差一點了！"
 113,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_280","敵人更多了……我們已經被包圍了……"
 114,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_310","這種時候最好能用絕招一口氣把敵人殲滅！"
-115,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_300"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+115,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_300","<Highlight>ObjectParameter(1)</Highlight>！
 把敵人引到指示的地方！"
 116,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_320","解決了！
 我們一口氣衝過去！"
@@ -175,11 +175,11 @@ int32,str,str
 118,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_340","我來保護扣魯圖！
 你就盡情攻擊吧！"
 119,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_350","（★未使用／削除予定★）"
-120,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_360"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，到扣魯圖身邊接下攻擊！"
+120,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_360","<Highlight>ObjectParameter(1)</Highlight>，到扣魯圖身邊接下攻擊！"
 121,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_370","這個動作……
 不好，我們快點分散！"
 122,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_380","驚動到了大型食罪靈嗎？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，打倒它！"
+<Highlight>ObjectParameter(1)</Highlight>，打倒它！"
 123,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_390","嗚、我的身體……"
 124,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_400","（★未使用／削除予定★）"
 125,"TEXT_LUCKME109_03638_MYSTERYVOICE_BATTLETALK_000_410","你不會倒在這種地方的！

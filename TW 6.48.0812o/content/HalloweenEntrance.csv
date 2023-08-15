@@ -15,7 +15,7 @@ int32,str,str
 9,"TEXT_HALLOWEENENTRANCE_CHALLENGEMENU_CONFIRM","要前往亡靈府邸鬧鬼莊園嗎？"
 10,"TEXT_HALLOWEENENTRANCE_CHALLENGEMENU_YES","是"
 11,"TEXT_HALLOWEENENTRANCE_CHALLENGEMENU_NO","否"
-12,"TEXT_HALLOWEENENTRANCE_ABOUTMENU_TITLE","想瞭解什麼？"
+12,"TEXT_HALLOWEENENTRANCE_ABOUTMENU_TITLE","想了解什麼？"
 13,"TEXT_HALLOWEENENTRANCE_ABOUTMENU_GAGE","<UIForeground>F20224</UIForeground>關於亡靈府邸鬧鬼莊園的規則<UIForeground>01</UIForeground>"
 14,"TEXT_HALLOWEENENTRANCE_ABOUTMENU_MONSTERS","<UIForeground>F20224</UIForeground>關於給人搗亂的奇妙的鬼怪<UIForeground>01</UIForeground>"
 15,"TEXT_HALLOWEENENTRANCE_ABOUTMENU_GAMERULE","關於亡靈府邸鬧鬼莊園的小遊戲"
@@ -45,7 +45,7 @@ int32,str,str
 29,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_142","妖火則對聲音極其敏感！
 如果它們察覺到了你發出的聲音，就會把你變成南瓜！
 小心不要發出聲音，輕輕踮腳走路吧！"
-30,"TEXT_HALLOWEENENTRANCE_RULEMENU_EVENTRULE_1","想瞭解什麼？"
+30,"TEXT_HALLOWEENENTRANCE_RULEMENU_EVENTRULE_1","想了解什麼？"
 31,"TEXT_HALLOWEENENTRANCE_RULEMENU_EVENTRULE_2","關於南瓜頭狩獵"
 32,"TEXT_HALLOWEENENTRANCE_RULEMENU_EVENTRULE_3","關於金庫小偷"
 33,"TEXT_HALLOWEENENTRANCE_RULEMENU_EVENTRULE_4","關於魔法圓圈"
@@ -70,7 +70,7 @@ int32,str,str
 46,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_215","但是，說錯密碼會使心智值降低。
 請確認密碼正確後再輸入。"
 47,"TEXT_HALLOWEENENTRANCE_SYSTEM_100_214","另外，只有拿到紙條的人才知道密碼，
-請透過聊天頻道等管道共享。"
+請通過聊天頻道等渠道共享。"
 48,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_220","「魔法圓圈」小遊戲要找出府邸內4個房間裡的魔法陣！"
 49,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_221","然後請4個小隊隊員分別站在魔法陣上！
 每個人都要站在不同的魔法陣上哦！"
@@ -94,7 +94,7 @@ int32,str,str
 59,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_254","打開錯誤的<Sheet(EObj,2007547,0)/>的話，會降低心智值。
 請仔細確認紙條上的提示再打開箱子吧。"
 60,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_255","另外，只有拿到紙條的人才知道上面的內容，
-請透過聊天頻道等管道共享。"
+請通過聊天頻道等渠道共享。"
 61,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_260","「換膚小魔精」小遊戲，
 要找出府邸內唯一一個小魔精變身的<Sheet(EObj,2007548,0)/>！"
 62,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_261","對府邸內的南瓜使用<Sheet(EventItem,2002005,0)/>，
@@ -114,7 +114,7 @@ int32,str,str
 68,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_111","亡靈府邸鬧鬼莊園是4人小隊參加的任務。
 無等級限制，可以使用任意戰鬥職業進行挑戰。"
 69,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_112","如果3人及以下人數的小隊申請參加，
-系統會自動配對需要的隊員。"
+系統會自動匹配需要的隊員。"
 70,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_113","另外，組隊參加的時候，需要所有隊員都在同一區域。"
 71,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_150","我們為參加亡靈府邸鬧鬼莊園的所有人
 都準備了<Sheet(Item,24186,0)/>作為紀念！"
@@ -124,4 +124,4 @@ int32,str,str
 73,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_100","鬧鬼莊園是一座不可思議的府邸……
 我們從某個貴族那裡借來，用於開辦慶祝守護天節的舞會！"
 74,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_101","在府邸裡還準備了各式各樣的小遊戲等待著來訪者的挑戰！
-如果想瞭解詳細規則可以問我！"
+如果想了解詳細規則可以問我！"

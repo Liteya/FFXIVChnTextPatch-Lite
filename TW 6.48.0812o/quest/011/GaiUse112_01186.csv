@@ -64,7 +64,7 @@ int32,str,str
 51,"TEXT_GAIUSE112_01186_SLAFBORN_000_003","遷移計劃是由阿爾菲諾閣下負責的，
 你去問他就行了。
 我翹首企盼拂曉的各位的到來。"
-52,"TEXT_GAIUSE112_01186_ALPHINAUD_000_010"," <Highlight>ObjectParameter(1)</Highlight> ，你回來啦。
+52,"TEXT_GAIUSE112_01186_ALPHINAUD_000_010","<Highlight>ObjectParameter(1)</Highlight>，你回來啦。
 ……原來如此，喪靈鐘那邊已經準備就緒了啊。"
 53,"TEXT_GAIUSE112_01186_ALPHINAUD_000_011","我們這邊進展得稍微慢了些，
 ……你能幫我們一下嗎？
@@ -80,7 +80,7 @@ int32,str,str
 57,"TEXT_GAIUSE112_01186_TATARU_000_020","嗯……讓我想想還有什麼沒準備好……
 那個……還有那個……
 啊，還要確認一下剩下的那些行李！"
-58,"TEXT_GAIUSE112_01186_TATARU_000_030","噢！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+58,"TEXT_GAIUSE112_01186_TATARU_000_030","噢！<Highlight>ObjectParameter(1)</Highlight>！
 你拿的這<Sheet(EventItem,2001080,0)/>，
 是要交給最後一批運輸隊運走的吧？"
 59,"TEXT_GAIUSE112_01186_TATARU_000_031","一、二、三……嗯，一個都不少！
@@ -88,6 +88,6 @@ int32,str,str
 我正想去確認這些行李呢。"
 60,"TEXT_GAIUSE112_01186_TATARU_000_032","接下來還要去辦運輸隊的手續……
 要做的事還有很多很多呢！"
-61,"TEXT_GAIUSE112_01186_TATARU_000_033","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+61,"TEXT_GAIUSE112_01186_TATARU_000_033","對了，<Highlight>ObjectParameter(1)</Highlight>！
 我也有事情想要拜託你。
 你能幫幫我嗎？"

@@ -11,7 +11,7 @@ int32,str,str
 4,"TEXT_AKTKZE103_04518_SEQ_04","在指定地點進行了等待。彷彿聽見了誰的慘叫聲。前往海姆達爾級觀察艇殘骸，找到夢明威。"
 5,"TEXT_AKTKZE103_04518_SEQ_05","找到了夢明威。打到了魔物，救助夢明威。"
 6,"TEXT_AKTKZE103_04518_SEQ_06","救助了夢明威。返回最佳威兔洞，和夢明威談談。"
-7,"TEXT_AKTKZE103_04518_SEQ_07","和夢明威進行了交談。冒險者決定繼續與夢明威一起行動，為他找到最適合他的夢想。"
+7,"TEXT_AKTKZE103_04518_SEQ_07","和夢明威進行了交談。冒險者決定繼續與夢明威一起行動，為他找到最合適他的夢想。"
 8,"TEXT_AKTKZE103_04518_SEQ_08",""
 9,"TEXT_AKTKZE103_04518_SEQ_09",""
 10,"TEXT_AKTKZE103_04518_SEQ_10",""
@@ -52,12 +52,12 @@ int32,str,str
 45,"TEXT_AKTKZE103_04518_TODO_21",""
 46,"TEXT_AKTKZE103_04518_TODO_22",""
 47,"TEXT_AKTKZE103_04518_TODO_23",""
-48,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 那麼事不宜遲，我們開始下一項工作吧！"
 49,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_001","思省威！
 你那裡還有什麼其他的工作嗎？"
 50,"TEXT_AKTKZE103_04518_THINKINGWAY_000_002","那……麻煩你去維護機械裝置吧。
-正好有一臺代管機發生了故障。"
+正好有一台代管機發生了故障。"
 51,"TEXT_AKTKZE103_04518_THINKINGWAY_000_003","和往常一樣，如果有零件和材料不夠的話，
 就去觀察艦的殘骸那邊找來就好，
 交給你沒問題吧？"
@@ -69,20 +69,20 @@ int32,str,str
 54,"TEXT_AKTKZE103_04518_THINKINGWAY_000_006","謝謝你收集了沙土帶回來。"
 55,"TEXT_AKTKZE103_04518_THINKINGWAY_000_007","你問夢明威？
 他不是去了海姆達爾級觀察艇的殘骸附近嗎？"
-56,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+56,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_010","<Highlight>ObjectParameter(1)</Highlight>！
 你來啦！"
 57,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_011","你看那邊，那就是海姆達爾級觀察艇的殘骸了！
 再走一點就到了！加油！"
-58,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！辛苦了！"
+58,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_020","<Highlight>ObjectParameter(1)</Highlight>！辛苦了！"
 59,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_021","根據記錄顯示，這艘觀察艦是大約5年前墜落在這裡的……
 上面有很多還能用的零件和材料，
 我們都拿回去裝在自己的機器上了！"
-60,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_022"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+60,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_022","<Highlight>ObjectParameter(1)</Highlight>！
 請你在這邊欣賞景色稍作等待！
 我馬上就回來！"
 61,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_030","(-？？？？-)救命啊——！"
 62,"TEXT_AKTKZE103_04518_SYSTEM_000_031","從東方傳來了一陣慘叫聲。
-儘快確認夢明威的行蹤。"
+盡快確認夢明威的行蹤。"
 63,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_040","得、得救了！
 我聽到有東西在接近，
 就在想要逃跑的時候卻害怕得腳上使不出勁來……"
@@ -93,7 +93,7 @@ int32,str,str
 把壞掉的代管機修好吧！"
 66,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_050","那麼，我要開始工作了哦！
 今天需要維修的就是這孩子！"
-67,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_051","它完全沒辦法正常運作了，
+67,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_051","它完全沒法正常運作了，
 但只要我稍稍調整一下，它很快就能恢復正常！
 敬請期待！"
 68,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_052","這裡這樣，那裡那樣，然後這個跟那個接在一起……"

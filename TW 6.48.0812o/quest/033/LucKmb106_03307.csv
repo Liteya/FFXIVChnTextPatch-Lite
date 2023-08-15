@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMB106_03307_SEQ_00","群花館的蘇兒．烏因笑容滿面。"
+0,"TEXT_LUCKMB106_03307_SEQ_00","群花館的蘇兒·烏因笑容滿面。"
 1,"TEXT_LUCKMB106_03307_SEQ_01",""
 2,"TEXT_LUCKMB106_03307_SEQ_02",""
 3,"TEXT_LUCKMB106_03307_SEQ_03",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKMB106_03307_SEQ_22",""
 23,"TEXT_LUCKMB106_03307_SEQ_23",""
 24,"TEXT_LUCKMB106_03307_TODO_00","對<Sheet(EObj,2009819,0)/>使用<Sheet(EventItem,2002534,0)/>"
-25,"TEXT_LUCKMB106_03307_TODO_01","和蘇兒．烏因對話"
+25,"TEXT_LUCKMB106_03307_TODO_01","和蘇兒·烏因對話"
 26,"TEXT_LUCKMB106_03307_TODO_02",""
 27,"TEXT_LUCKMB106_03307_TODO_03",""
 28,"TEXT_LUCKMB106_03307_TODO_04",""
@@ -72,7 +72,7 @@ int32,str,str
 果然這裡還是要開滿鮮花，
 才配得上<Emphasis>「群花館」</Emphasis>這個名字呢！"
 57,"TEXT_LUCKMB106_03307_SULUIN_000_031","以前我們住的茂密的森林也很漂亮，
-但那裡基本都被光之氾濫給吞噬了。"
+但那裡基本都被光之泛濫給吞噬了。"
 58,"TEXT_LUCKMB106_03307_SULUIN_000_032","於是我們在四處徘徊的時候，
 發現這裡有個被人類捨棄的城市，
 就決定和其他的妖靈們一起住在這裡啦。"

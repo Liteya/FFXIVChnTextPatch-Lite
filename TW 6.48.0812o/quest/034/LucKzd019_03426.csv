@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_LUCKZD019_03426_SEQ_23",""
 24,"TEXT_LUCKZD019_03426_TODO_00","在安登小羊圈和喜歡捉迷藏的仙子對話"
 25,"TEXT_LUCKZD019_03426_TODO_01","在「說話」頻道下輸入「河狸！」
-找到仙子並結束捉迷藏（Beaver）"
+找到仙子並結束捉迷藏 (Beaver)"
 26,"TEXT_LUCKZD019_03426_TODO_02","向喜歡捉迷藏的仙子報告"
 27,"TEXT_LUCKZD019_03426_TODO_03","和等待集合的仙子對話"
 28,"TEXT_LUCKZD019_03426_TODO_04",""
@@ -61,7 +61,7 @@ int32,str,str
 說是去了安登小羊圈那邊，一直也不回來！
 請你去找他們，替我訓他們一頓！"
 51,"TEXT_LUCKZD019_03426_WAITINGPIXIE03426_000_004","喜歡捉迷藏的仙子他們
-一定是在安登小羊圈那邊。
+肯定是在安登小羊圈那邊。
 請你去把他們找出來，替我好好訓他們一頓！"
 52,"TEXT_LUCKZD019_03426_KAKUREPIXIE03426_000_010","等待集合的仙子……啊對呀，忘記了！
 怎麼辦啊……對不起！"
@@ -82,16 +82,16 @@ int32,str,str
 ……我現在正在捉迷藏呢！
 這可是認真嚴肅的事！"
 60,"TEXT_LUCKZD019_03426_BIBAPIXIE03426_000_020","哇，被找到了！
-……咦？是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+……咦？是<Highlight>ObjectParameter(1)</Highlight>！
 嘿嘿，你來找我啦！"
 61,"TEXT_LUCKZD019_03426_BIBAPIXIE03426_100_030","嘿嘿！剛才你來找我，我好開心啊！
 要再來找我玩啊！"
 62,"TEXT_LUCKZD019_03426_KAKUREPIXIE03426_000_030","你找到了！
 居然還有那種可以藏起來的地方，真是嚇我一跳！"
 63,"TEXT_LUCKZD019_03426_KAKUREPIXIE03426_000_031","嗯，那就趕緊去跟那孩子道歉吧！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也去群花館，
+<Highlight>ObjectParameter(1)</Highlight>，你也去群花館，
 跟等待集合的仙子打個招呼吧！"
-64,"TEXT_LUCKZD019_03426_WAITINGPIXIE03426_000_040","哼哼，多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+64,"TEXT_LUCKZD019_03426_WAITINGPIXIE03426_000_040","哼哼，多虧了<Highlight>ObjectParameter(1)</Highlight>，
 大家都回來啦！
 我也要參加激烈的捉迷藏！"
 65,"TEXT_LUCKZD019_03426_WAITINGPIXIE03426_000_041","看來大家很高興能和你一起玩捉迷藏啊！

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMA302_03292_SEQ_00","鼴靈市集的卡薩德十分開心。"
+0,"TEXT_LUCKMA302_03292_SEQ_00","鼴靈集市的卡薩德十分開心。"
 1,"TEXT_LUCKMA302_03292_SEQ_01",""
 2,"TEXT_LUCKMA302_03292_SEQ_02",""
 3,"TEXT_LUCKMA302_03292_SEQ_03",""
@@ -50,14 +50,14 @@ int32,str,str
 46,"TEXT_LUCKMA302_03292_TODO_22",""
 47,"TEXT_LUCKMA302_03292_TODO_23",""
 48,"TEXT_LUCKMA302_03292_CASSARD_000_000","這個村落由鼴靈族的傢伙們在管理。
-光之氾濫之後，一些流離失所的難民來到了這裡，
+光之泛濫之後，一些流離失所的難民來到了這裡，
 所以這裡也住著塵族之類的人。"
 49,"TEXT_LUCKMA302_03292_CASSARD_000_001","你沒見過鼴靈族嗎？
 他們看上去形跡可疑還很臭，但都是些好傢伙！"
 50,"TEXT_LUCKMA302_03292_CASSARD_000_002","先去跟族長戈恩艮先生打聲招呼吧。
 我來幫你介紹！"
 51,"TEXT_LUCKMA302_03292_CASSARD_000_005","這位是族長戈恩艮先生。"
-52,"TEXT_LUCKMA302_03292_CASSARD_000_010","孚布特金幣可是很值錢的，一般不會被當成零用錢來用。
+52,"TEXT_LUCKMA302_03292_CASSARD_000_010","孚布特金幣可是很值錢的，一般不會被當成零花錢來用。
 所以你……難道握著水晶公的把柄？！"
 53,"TEXT_LUCKMA302_03292_GHENGEN_000_015","勒昂琅的店是間好店！
 請盡情享受第一買！"
@@ -67,7 +67,7 @@ int32,str,str
 請認真看看！"
 56,"TEXT_LUCKMA302_03292_SYTEM_000_022","開始確認商品。
 在瞄準陳列出的商品後，
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 57,"TEXT_LUCKMA302_03292_RHONRON_000_040","認真仔細地看過啦？
 那麼你要哪個？"
 58,"TEXT_LUCKMA302_03292_Q1_000_000","買哪樣？"
@@ -115,11 +115,11 @@ int32,str,str
 也要記得告訴戈恩艮先生哦！"
 83,"TEXT_LUCKMA302_03292_CASSARD_000_065","你也吃得太拼了……
 真厲害……"
-84,"TEXT_LUCKMA302_03292_GHENGEN_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的第一買我在這都看到了！
+84,"TEXT_LUCKMA302_03292_GHENGEN_000_070","<Highlight>ObjectParameter(1)</Highlight>的第一買我在這都看到了！
 你買東西的樣子真不錯，謝謝啦！"
-85,"TEXT_LUCKMA302_03292_GHENGEN_000_071","這樣一來 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也是市場的夥伴了，
+85,"TEXT_LUCKMA302_03292_GHENGEN_000_071","這樣一來<Highlight>ObjectParameter(1)</Highlight>也是市場的夥伴了，
 下次再來你就是熟客了！
-要是在安穆．艾蘭遇到什麼困難就來找我們！"
+要是在安穆·艾蘭遇到什麼困難就來找我們！"
 86,"TEXT_LUCKMA302_03292_SYTEM_000_023","（★未使用／削除予定★）"
 87,"TEXT_LUCKMA302_03292_RHONRON_000_024","（★未使用／削除予定★）"
 88,"TEXT_LUCKMA302_03292_SYTEM_000_025","（★未使用／削除予定★）"

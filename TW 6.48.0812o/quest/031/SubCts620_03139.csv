@@ -50,10 +50,10 @@ int32,str,str
 46,"TEXT_SUBCTS620_03139_TODO_22",""
 47,"TEXT_SUBCTS620_03139_TODO_23",""
 48,"TEXT_SUBCTS620_03139_KOUJIN03139_000_000","哎呀——這個身段，你是冒險者吧——
-你認識 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？"
-49,"TEXT_SUBCTS620_03139_KOUJIN03139_000_001","哦哦——你就是 <Highlight>ObjectParameter(1)</Highlight> 啊——！我可真是走運啊——
+你認識<Highlight>ObjectParameter(1)</Highlight>嗎？"
+49,"TEXT_SUBCTS620_03139_KOUJIN03139_000_001","哦哦——你就是<Highlight>ObjectParameter(1)</Highlight>啊——！我可真是走運啊——
 紫水宮有一位嗯……被稱為女官的人
-託我來找你——"
+托我來找你——"
 50,"TEXT_SUBCTS620_03139_KOUJIN03139_000_002","我們碧甲族接受了翠水之民的委託——
 在幫他們做事情——
 但現在遇到了一些困難——"
@@ -61,9 +61,9 @@ int32,str,str
 你要是願意的話就來一趟碧玉水吧——"
 52,"TEXT_SUBCTS620_03139_KOUJIN03139_000_010","翠水之民女官說想要找你來幫忙——
 你要是願意的話就來一趟碧玉水吧——"
-53,"TEXT_SUBCTS620_03139_SANANA_000_020","嗯？這樣子……你是艾奧傑亞人嗎！
-那麼你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 了吧？"
-54,"TEXT_SUBCTS620_03139_KURENAI_000_050","啊！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_SUBCTS620_03139_SANANA_000_020","嗯？這樣子……你是艾歐澤亞人嗎！
+那麼你就是<Highlight>ObjectParameter(1)</Highlight>了吧？"
+54,"TEXT_SUBCTS620_03139_KURENAI_000_050","啊！<Highlight>ObjectParameter(1)</Highlight>！
 看來我和您的緣分還沒有斷。"
 55,"TEXT_SUBCTS620_03139_KURENAI_000_051","哎呀……難道您以為其實是女官翡翠在假裝我？
 雖然我穿著女官的衣服，不過我真的是紅——
@@ -89,7 +89,7 @@ int32,str,str
 64,"TEXT_SUBCTS620_03139_SANANA_000_083","即便是紅玉公主，強硬地推行改革也肯定會引起一部分人的反對。
 要得到拒絕開放的保守派的理解，
 就需要<If(PlayerParameter(4))>小姐<Else/>小哥</If>的幫助……對吧？"
-65,"TEXT_SUBCTS620_03139_SANANA_000_084","喲，沒想到會在海底碰到艾奧傑亞人。
+65,"TEXT_SUBCTS620_03139_SANANA_000_084","喲，沒想到會在海底碰到艾歐澤亞人。
 我是薩娜娜……是羅薇娜商會的人，
 這應該算是最好懂的自我介紹了吧？"
 66,"TEXT_SUBCTS620_03139_KURENAI_000_085","我來向你介紹一下，這位是薩娜娜。
@@ -109,10 +109,10 @@ int32,str,str
 71,"TEXT_SUBCTS620_03139_SANANA_000_090","船遇難之後我手上也沒什麼好的商品。
 雖然我也在為確保能向翠水鄉提供商品而奮鬥，
 還委託了碧甲族來幫忙……但事實上情況不容樂觀。"
-72,"TEXT_SUBCTS620_03139_KURENAI_000_091","於是我想，您對世界的瞭解要遠超一般人，
+72,"TEXT_SUBCTS620_03139_KURENAI_000_091","於是我想，您對世界的了解要遠超一般人，
 要是能再次得到您的幫助就好了，所以我拜託了碧甲族去找您。
 而且薩娜娜說您是技藝高超的匠人……"
-73,"TEXT_SUBCTS620_03139_SANANA_000_092"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的名字只要是羅薇娜商會的人都聽說過。
+73,"TEXT_SUBCTS620_03139_SANANA_000_092","<Highlight>ObjectParameter(1)</Highlight>的名字只要是羅薇娜商會的人都聽說過。
 不僅是作為冒險者，作為匠人技術了得大家也都知道。"
 74,"TEXT_SUBCTS620_03139_SANANA_000_093","我從遇難船隻裡帶出了一些物資。
 報酬方面我會用工票支付，
@@ -120,13 +120,13 @@ int32,str,str
 75,"TEXT_SUBCTS620_03139_SANANA_000_094","……別這麼警惕嘛。
 就算我是羅薇娜商會的人，對恩人還是會好好報答的。"
 76,"TEXT_SUBCTS620_03139_SANANA_000_095","而且你也看到翠水鄉的情況了吧？
-他們自誇能自給自足，但實際上只是保障了最低限度的生活水準。
+他們自誇能自給自足，但實際上只是保障了最低限度的生活水平。
 聽說因為生活艱苦，有不少人丟掉了性命……"
 77,"TEXT_SUBCTS620_03139_SANANA_000_096","當然我也不是認為一切都要向外面的世界看齊。
-但是既然能透過商品的交換來避免一些不必要的不幸，
+但是既然能通過商品的交換來避免一些不必要的不幸，
 那自然是再好不過。"
 78,"TEXT_SUBCTS620_03139_KURENAI_000_097","謝、謝謝您！
-託二位的福，我又看到了希望。"
+托二位的福，我又看到了希望。"
 79,"TEXT_SUBCTS620_03139_SANANA_000_099","那既然決定了就趕緊開始幹活吧！
 事實上，留給我們的時間也不多了，
 你說是吧？"

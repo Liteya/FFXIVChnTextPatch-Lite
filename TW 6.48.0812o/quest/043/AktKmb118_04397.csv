@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_AKTKMB118_04397_SEQ_21",""
 22,"TEXT_AKTKMB118_04397_SEQ_22",""
 23,"TEXT_AKTKMB118_04397_SEQ_23",""
-24,"TEXT_AKTKMB118_04397_TODO_00","和悽愴低語的幻影對話"
+24,"TEXT_AKTKMB118_04397_TODO_00","和淒愴低語的幻影對話"
 25,"TEXT_AKTKMB118_04397_TODO_01","和身形模糊的幻影對話"
 26,"TEXT_AKTKMB118_04397_TODO_02","和寂寞低語的幻影對話"
 27,"TEXT_AKTKMB118_04397_TODO_03","和憂傷低語的幻影對話"
@@ -76,7 +76,7 @@ int32,str,str
 一切都那麼久遠了……<UIForeground>01</UIForeground>"
 61,"TEXT_AKTKMB118_04397_SHADOWTHREE4397_000_050","<UIForeground>F20223</UIForeground>那時，我們與星球之間如此和諧……<UIForeground>01</UIForeground>"
 62,"TEXT_AKTKMB118_04397_SHADOWTHREE4397_000_051","<UIForeground>F20223</UIForeground>我們解開了自然的奧秘，創造出新的物種……
-精心篩選適合的理念，讓星球繁榮起來……<UIForeground>01</UIForeground>"
+精心篩選合適的理念，讓星球繁榮起來……<UIForeground>01</UIForeground>"
 63,"TEXT_AKTKMB118_04397_SHADOWFOUR4397_000_060","<UIForeground>F20223</UIForeground>嗯……沒錯……
 那時，我們既是星球的意志，也是組成它的細胞……<UIForeground>01</UIForeground>"
 64,"TEXT_AKTKMB118_04397_SHADOWFOUR4397_000_061","<UIForeground>F20223</UIForeground>我們是星球中流淌的血液，

@@ -1,12 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CLSARM451_00283_SEQ_00","鑄甲匠公會的赫．納恩薩，有事情想告訴冒險者。"
-1,"TEXT_CLSARM451_00283_SEQ_01","接受了赫．納恩薩的委託。在利姆薩．羅敏薩的鑄甲匠公會，將<Sheet(ItemHQ,　3861,0)/>、<Sheet(ItemHQ,　2830,0)/>和<Sheet(ItemHQ,　3868,0)/>各1個交給赫．納恩薩。"
-2,"TEXT_CLSARM451_00283_SEQ_02","將<Sheet(ItemHQ,　3861,0)/>、<Sheet(ItemHQ,　2830,0)/>和<Sheet(ItemHQ,　3868,0)/>各1個交給了赫．納恩薩。在利姆薩．羅敏薩的鑄甲匠公會，向布蘭修提爾報告。"
-3,"TEXT_CLSARM451_00283_SEQ_03","向布蘭修提爾報告完畢。雖然冒險者與布蘭修提爾的比試以不戰而敗收場，但由此也拯救了公會，冒險者為公會會員的團結及技術提高做出了不可磨滅的貢獻。下次的比試絕不能輸，作為一名鑄甲匠更加努力進行磨練。
+0,"TEXT_CLSARM451_00283_SEQ_00","鑄甲匠公會的赫·納恩薩，有事情想告訴冒險者。"
+1,"TEXT_CLSARM451_00283_SEQ_01","接受了赫·納恩薩的委託。在利姆薩·羅敏薩的鑄甲匠公會，將<Sheet(ItemHQ,　3861,0)/>、<Sheet(ItemHQ,　2830,0)/>和<Sheet(ItemHQ,　3868,0)/>各1個交給赫·納恩薩。"
+2,"TEXT_CLSARM451_00283_SEQ_02","將<Sheet(ItemHQ,　3861,0)/>、<Sheet(ItemHQ,　2830,0)/>和<Sheet(ItemHQ,　3868,0)/>各1個交給了赫·納恩薩。在利姆薩·羅敏薩的鑄甲匠公會，向布蘭修提爾報告。"
+3,"TEXT_CLSARM451_00283_SEQ_03","向布蘭修提爾報告完畢。雖然冒險者與布蘭修提爾的比試以不戰而敗收場，但由此也拯救了公會，冒險者為公會會員的團結及技術提高做出了不可磨滅的貢獻。下次的比試決不能輸，作為一名鑄甲匠更加努力進行磨練。
 
-※鑄甲匠的等級達到50級以上時，可以從赫．納恩薩那裡領取下一個鑄甲匠任務。"
+※鑄甲匠的等級達到50級以上時，可以從赫·納恩薩那裡領取下一個鑄甲匠任務。"
 4,"TEXT_CLSARM451_00283_SEQ_04",""
 5,"TEXT_CLSARM451_00283_SEQ_05",""
 6,"TEXT_CLSARM451_00283_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_CLSARM451_00283_SEQ_21",""
 22,"TEXT_CLSARM451_00283_SEQ_22",""
 23,"TEXT_CLSARM451_00283_SEQ_23",""
-24,"TEXT_CLSARM451_00283_TODO_00","將委託品交給赫．納恩薩"
+24,"TEXT_CLSARM451_00283_TODO_00","將委託品交給赫·納恩薩"
 25,"TEXT_CLSARM451_00283_TODO_01","向布蘭修提爾報告"
 26,"TEXT_CLSARM451_00283_TODO_02",""
 27,"TEXT_CLSARM451_00283_TODO_03",""
@@ -61,14 +61,14 @@ int32,str,str
 <Sheet(ItemHQ,　2830,0)/>和<Sheet(ItemHQ,　3868,0)/>各1個。"
 52,"TEXT_CLSARM451_00283_HNAANZA_000_004","無論哪個都是要大量使用秘銀礦的裝備。
 故意選擇了同種系別的裝備，那傢伙還真有自信。"
-53,"TEXT_CLSARM451_00283_HNAANZA_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你聽好了。
+53,"TEXT_CLSARM451_00283_HNAANZA_000_005","<Highlight>ObjectParameter(1)</Highlight>，你聽好了。
 你要傾盡全力擊垮布蘭修提爾的自信！
 用2連勝徹底打敗那個男人！"
 54,"TEXT_CLSARM451_00283_HNAANZA_000_006","你做完以後就拿來給我看吧。
 以防萬一，還是讓我檢查一下成品。"
 55,"TEXT_CLSARM451_00283_HNAANZA_000_010","去準備<Sheet(ItemHQ,　3861,0)/>、<Sheet(ItemHQ,　2830,0)/>，
 和<Sheet(ItemHQ,　3868,0)/>各1個！"
-56,"TEXT_CLSARM451_00283_HNAANZA_000_011","幹得好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+56,"TEXT_CLSARM451_00283_HNAANZA_000_011","幹得好，<Highlight>ObjectParameter(1)</Highlight>。
 與上回比試時一樣，你的作品還是毫無瑕疵。
 但是呢……這些裝備……"
 57,"TEXT_CLSARM451_00283_HNAANZA_000_012","我希望你能把它們轉讓給公會。
@@ -94,7 +94,7 @@ int32,str,str
 不是你做的裝備，對方是不會認可的。"
 66,"TEXT_CLSARM451_00283_HNAANZA_000_018","太好了……太謝謝你了。
 斯威辛，你也快來道謝。"
-67,"TEXT_CLSARM451_00283_SWITHIN_000_019"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+67,"TEXT_CLSARM451_00283_SWITHIN_000_019","<Highlight>ObjectParameter(1)</Highlight>！
 真是太謝謝你了！
 明明你還有與布蘭修提爾的重要比試還這麼幫我。"
 68,"TEXT_CLSARM451_00283_SWITHIN_000_020","我絕不會辜負你和公會會長的一番好意！

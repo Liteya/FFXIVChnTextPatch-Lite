@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_025","預想到與蒼穹騎士的戰鬥嗎……
 這總會讓我不自覺地想起決鬥裁判的事呢。
 他們的實力毫無疑問是一流的……"
-1,"TEXT_CMNDEFSDSADDNPC01_00806_HAURCHEFANT_000_026","身為伊修加爾德的騎士，
+1,"TEXT_CMNDEFSDSADDNPC01_00806_HAURCHEFANT_000_026","身為伊修加德的騎士，
 要說在教皇廳裡拔劍不會有絲毫猶豫那是騙人的。"
 2,"TEXT_CMNDEFSDSADDNPC01_00806_HAURCHEFANT_000_027","但如果是為了百姓和朋友的話就另當別論了。
 自從成為騎士的那一刻起，
@@ -14,10 +14,10 @@ int32,str,str
 4,"TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_031","迦巴勒幻想圖書館啊……
 居然不惜放棄此等設施也要進行的大撤退，
 多少讓人感到有些難以置信。"
-5,"TEXT_CMNDEFSDSADDNPC01_00806_PEROROGGO_000_032","我叫佩羅．羅格，是一隻使魔呱。
+5,"TEXT_CMNDEFSDSADDNPC01_00806_PEROROGGO_000_032","我叫佩羅·羅格，是一隻使魔呱。
 任務是尋找論文呱。
-我會努力不把地面舔得溼溼的呱。"
-6,"TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_040","顛倒塔是在龍堡內陸低地建構薩雷安的殖民都市的開端。
+我會努力不把地面舔得濕濕的呱。"
+6,"TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_040","顛倒塔是在龍堡內陸低地構建薩雷安的殖民都市的開端。
 其重要之處可見一斑。"
 7,"TEXT_CMNDEFSDSADDNPC01_00806_CAVALRYC02342_000_050","前方就是鳥人族的巢穴……
 雖說已經是老對手了，但還是不可掉以輕心。"

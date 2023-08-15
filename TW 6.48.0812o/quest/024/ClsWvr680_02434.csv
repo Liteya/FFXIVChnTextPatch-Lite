@@ -9,8 +9,8 @@ int32,str,str
 
 ※如果<Sheet(Item,17921,0)/>不足，可以與矢切對話重新獲得材料，並再次進行挑戰。"
 5,"TEXT_CLSWVR680_02434_SEQ_05","將<Sheet(ItemHQ,17922,0)/>交給了啟明。琴蝶穿著新的禮服出席了園遊會。可是，宴會已經結束她卻仍未回來，冒險者便和啟明分頭去尋找她。在黃金港的第一防波堤尋找琴蝶。"
-6,"TEXT_CLSWVR680_02434_SEQ_06","找到了琴蝶。過度暴露的禮服招致了黃金港人們的反感，琴蝶輸掉了園遊會的比賽，因此十分沮喪。要從見習期重來的琴蝶立志東山再起。和樂座街的啟明談談。"
-7,"TEXT_CLSWVR680_02434_SEQ_07","和啟明進行了交談。啟明也相信琴蝶一定會重新紅起來。為了將來給重回藝伎舞臺的琴蝶製作新的衣服，磨鍊自己的手藝。
+6,"TEXT_CLSWVR680_02434_SEQ_06","找到了琴蝶。過度暴露的禮服招致了黃金港人們的反感，琴蝶輸掉了游園會的比賽，因此十分沮喪。要從見習期重來的琴蝶立志東山再起。和樂座街的啟明談談。"
+7,"TEXT_CLSWVR680_02434_SEQ_07","和啟明進行了交談。啟明也相信琴蝶一定會重新紅起來。為了將來給重回藝伎舞台的琴蝶製作新的衣服，磨鍊自己的手藝。
 
 ※裁衣匠的等級達到70級以上時，可以從黃金港的啟明那裡領取下一個裁衣匠任務。"
 8,"TEXT_CLSWVR680_02434_SEQ_08",""
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_CLSWVR680_02434_TODO_21",""
 46,"TEXT_CLSWVR680_02434_TODO_22",""
 47,"TEXT_CLSWVR680_02434_TODO_23",""
-48,"TEXT_CLSWVR680_02434_KEIMEI_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，恭候多時了！
+48,"TEXT_CLSWVR680_02434_KEIMEI_000_000","<Highlight>ObjectParameter(1)</Highlight>，恭候多時了！
 開港曼舞已經成功落幕了哦。
 琴蝶的舞當然也大受好評。"
 49,"TEXT_CLSWVR680_02434_KEIMEI_000_001","遠東之國的琴蝶穿上由你製作的春意禮服
@@ -78,24 +78,24 @@ int32,str,str
 難道你不明白其中的道理嗎？"
 56,"TEXT_CLSWVR680_02434_KOTOCHOU_000_010","（★未使用／削除予定★）"
 57,"TEXT_CLSWVR680_02434_KOTOCYO_000_010","（★未使用／削除予定★）"
-58,"TEXT_CLSWVR680_02434_KOTOCHO_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我等你好久了。
+58,"TEXT_CLSWVR680_02434_KOTOCHO_000_010","<Highlight>ObjectParameter(1)</Highlight>，我等你好久了。
 琴鶴姐姐說要穿著藝服在園遊會上跳舞。"
 59,"TEXT_CLSWVR680_02434_KOTOCHOU_000_011","（★未使用／削除予定★）"
 60,"TEXT_CLSWVR680_02434_KOTOCYO_000_011","（★未使用／削除予定★）"
 61,"TEXT_CLSWVR680_02434_KOTOCHO_000_011","姐姐可真是的，不管我怎麼解釋她都不肯接受，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也幫我跟她說說「禮服」的魅力嘛。"
-62,"TEXT_CLSWVR680_02434_KOTOTSURU_000_012","琴蝶，不要把 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 扯進來，
+<Highlight>ObjectParameter(1)</Highlight>，你也幫我跟她說說「禮服」的魅力嘛。"
+62,"TEXT_CLSWVR680_02434_KOTOTSURU_000_012","琴蝶，不要把<Highlight>ObjectParameter(1)</Highlight>扯進來，
 沒看到人家很為難嗎……"
-63,"TEXT_CLSWVR680_02434_KOTOTSURU_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我妹妹太得意忘形了，
+63,"TEXT_CLSWVR680_02434_KOTOTSURU_000_013","<Highlight>ObjectParameter(1)</Highlight>，我妹妹太得意忘形了，
 還請你見諒。"
 64,"TEXT_CLSWVR680_02434_KOTOCHOU_000_014","（★未使用／削除予定★）"
 65,"TEXT_CLSWVR680_02434_KOTOCYO_000_014","（★未使用／削除予定★）"
 66,"TEXT_CLSWVR680_02434_KOTOCHO_000_014","你憑什麼這樣自顧自地下結論啊？
-我才沒有給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 添麻煩呢。"
+我才沒有給<Highlight>ObjectParameter(1)</Highlight>添麻煩呢。"
 67,"TEXT_CLSWVR680_02434_KOTOCHOU_000_015","（★未使用／削除予定★）"
 68,"TEXT_CLSWVR680_02434_KOTOCYO_000_015","（★未使用／削除予定★）"
 69,"TEXT_CLSWVR680_02434_KOTOCHO_000_015","琴鶴姐姐，
-你是因為少東家和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 都寵著我，
+你是因為少東家和<Highlight>ObjectParameter(1)</Highlight>都寵著我，
 所以覺得嫉妒了吧？"
 70,"TEXT_CLSWVR680_02434_KOTOTSURU_000_016","琴蝶……看來我跟你說什麼都沒用了，
 如果你非得吃點苦頭才能明白的話，那好，
@@ -110,7 +110,7 @@ int32,str,str
 75,"TEXT_CLSWVR680_02434_KOTOCHOU_000_019","（★未使用／削除予定★）"
 76,"TEXT_CLSWVR680_02434_KOTOCYO_000_019","（★未使用／削除予定★）"
 77,"TEXT_CLSWVR680_02434_KOTOCHO_000_019","呼……琴鶴姐姐走了之後空氣都變清新了！
-姐姐一直堅持的傳統早就發黴了，真是受不了她！
+姐姐一直堅持的傳統早就發霉了，真是受不了她！
 看我的吧……我會把她所沒有的年輕活力呈現給大家！"
 78,"TEXT_CLSWVR680_02434_KOTOCHOU_000_020","（★未使用／削除予定★）"
 79,"TEXT_CLSWVR680_02434_KOTOCYO_000_020","（★未使用／削除予定★）"
@@ -124,11 +124,11 @@ int32,str,str
 84,"TEXT_CLSWVR680_02434_KOTOCHOU_000_022","（★未使用／削除予定★）"
 85,"TEXT_CLSWVR680_02434_KOTOCYO_000_022","（★未使用／削除予定★）"
 86,"TEXT_CLSWVR680_02434_KOTOCHO_000_022","你去告訴少東家吧，讓他幫我準備最高級的布料！
-好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拿出幹勁來加油吧！
+好了，<Highlight>ObjectParameter(1)</Highlight>，拿出幹勁來加油吧！
 在「禮服」做好之前，我會好好練習舞藝的！！"
 87,"TEXT_CLSWVR680_02434_KOTOCHOU_000_029","（★未使用／削除予定★）"
 88,"TEXT_CLSWVR680_02434_KOTOCYO_000_029","（★未使用／削除予定★）"
-89,"TEXT_CLSWVR680_02434_KOTOCHO_000_029","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拿出幹勁來加油吧！
+89,"TEXT_CLSWVR680_02434_KOTOCHO_000_029","好了，<Highlight>ObjectParameter(1)</Highlight>，拿出幹勁來加油吧！
 在「禮服」做好之前，我會好好練習舞藝的！！"
 90,"TEXT_CLSWVR680_02434_KEIMEI_000_030","你從琴蝶那裡打聽到了禮服的具體要求嗎？"
 91,"TEXT_CLSWVR680_02434_KEIMEI_000_031","比烏爾達哈的舞女裝還要華麗？！
@@ -151,7 +151,7 @@ int32,str,str
 便將它交給我吧。"
 97,"TEXT_CLSWVR680_02434_YAGIRI_000_040","您是想要製作委託品的材料是吧？
 就是這些，請收好。"
-98,"TEXT_CLSWVR680_02434_YAGIRI_000_041","這次使用的材料比之前都要高階呢……
+98,"TEXT_CLSWVR680_02434_YAGIRI_000_041","這次使用的材料比之前都要高級呢……
 不過布料是不是太少了，真的夠做衣服嗎？"
 99,"TEXT_CLSWVR680_02434_YAGIRI_000_042","……身體要露出那麼多？！
 這太丟人了……啊，抱歉，
@@ -170,14 +170,14 @@ int32,str,str
 107,"TEXT_CLSWVR680_02434_BANTOU_000_048","（★未使用／削除予定★）"
 108,"TEXT_CLSWVR680_02434_BANTOU_000_049","（★未使用／削除予定★）"
 109,"TEXT_CLSWVR680_02434_KEIMEI_000_050","唉……我一想到禮服心裡就打鼓……
-不過， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+不過，<Highlight>ObjectParameter(1)</Highlight>，
 禮服做好之後，還請馬上拿給我。"
 110,"TEXT_CLSWVR680_02434_KEIMEI_000_051","唔唔……布料比我想像得還少啊……
 我真的能親眼見證琴蝶的決心嗎……
 總、總、總之，先讓她試穿一下吧。"
 111,"TEXT_CLSWVR680_02434_KOTOCHOU_000_052","（★未使用／削除予定★）"
 112,"TEXT_CLSWVR680_02434_KOTOCYO_000_052","（★未使用／削除予定★）"
-113,"TEXT_CLSWVR680_02434_KOTOCHO_000_052","少東家， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+113,"TEXT_CLSWVR680_02434_KOTOCHO_000_052","少東家，<Highlight>ObjectParameter(1)</Highlight>，
 我穿好了，怎麼樣？"
 114,"TEXT_CLSWVR680_02434_KEIMEI_000_053","果、果然……太暴露了……我都不敢直視……
 不、不、不過，既然這是琴蝶的決心……
@@ -198,8 +198,8 @@ int32,str,str
 122,"TEXT_CLSWVR680_02434_KEIMEI_000_057","唉……我總覺得心跳得厲害……
 這是因為琴蝶的打扮還是只是比賽前的緊張呢……"
 123,"TEXT_CLSWVR680_02434_KEIMEI_000_058","總、總之，在琴蝶回來之前，
-我覺得自己肯定沒辦法一個人待著。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請陪陪我吧。"
+我覺得自己肯定沒法一個人待著。
+<Highlight>ObjectParameter(1)</Highlight>，請陪陪我吧。"
 124,"TEXT_CLSWVR680_02434_KEIMEI_000_059","唉，園遊會就要開始了……
 我的心悸到最後也沒停止……
 還好有你陪在我身邊，謝謝了。"
@@ -218,7 +218,7 @@ int32,str,str
 129,"TEXT_CLSWVR680_02434_BANTOU_000_069","（★未使用／削除予定★）"
 130,"TEXT_CLSWVR680_02434_KOTOCHOU_000_070","（★未使用／削除予定★）"
 131,"TEXT_CLSWVR680_02434_KOTOCYO_000_070","（★未使用／削除予定★）"
-132,"TEXT_CLSWVR680_02434_KOTOCHO_000_070","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+132,"TEXT_CLSWVR680_02434_KOTOCHO_000_070","啊，<Highlight>ObjectParameter(1)</Highlight>……
 你怎麼在這？"
 133,"TEXT_CLSWVR680_02434_KOTOCHOU_000_071","（★未使用／削除予定★）"
 134,"TEXT_CLSWVR680_02434_KOTOCYO_000_071","（★未使用／削除予定★）"
@@ -238,10 +238,10 @@ int32,str,str
 我太驕傲了……練習做得不夠……"
 143,"TEXT_CLSWVR680_02434_KOTOCHOU_000_075","（★未使用／削除予定★）"
 144,"TEXT_CLSWVR680_02434_KOTOCYO_000_075","（★未使用／削除予定★）"
-145,"TEXT_CLSWVR680_02434_KOTOCHO_000_075","我剛登上舞臺，客人們就全都僵住了，
+145,"TEXT_CLSWVR680_02434_KOTOCHO_000_075","我剛登上舞台，客人們就全都僵住了，
 我一下子害怕起來……
 沒能像平時那樣自在地跳舞。"
-146,"TEXT_CLSWVR680_02434_KOTOTSURU_000_076","(-琴鶴的聲音-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 縫製的衣服非常精緻，
+146,"TEXT_CLSWVR680_02434_KOTOTSURU_000_076","(-琴鶴的聲音-)<Highlight>ObjectParameter(1)</Highlight>縫製的衣服非常精緻，
 只有一流的工匠才能有這種手藝，
 就連我都看呆了，甚至忘記了跳舞。"
 147,"TEXT_CLSWVR680_02434_KOTOTSURU_000_078","可是今天招待的國賓全是「薩維奈舞裙」的產地——
@@ -282,20 +282,20 @@ int32,str,str
 我會一直支持你的，你要好好學習，從頭再來。"
 167,"TEXT_CLSWVR680_02434_KOTOCHOU_000_088","（★未使用／削除予定★）"
 168,"TEXT_CLSWVR680_02434_KOTOCYO_000_088","（★未使用／削除予定★）"
-169,"TEXT_CLSWVR680_02434_KOTOCHO_000_088","少東家， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你們。
+169,"TEXT_CLSWVR680_02434_KOTOCHO_000_088","少東家，<Highlight>ObjectParameter(1)</Highlight>，謝謝你們。
 我得回去收拾行李了，下次再見。"
-170,"TEXT_CLSWVR680_02434_KEIMEI_000_089"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我剛才雖然鼓勵了佯裝平靜的她，
+170,"TEXT_CLSWVR680_02434_KEIMEI_000_089","<Highlight>ObjectParameter(1)</Highlight>，我剛才雖然鼓勵了佯裝平靜的她，
 但其實我的大腦也是一片空白。
 我要回店裡整理一下思緒，你也來吧。"
 171,"TEXT_CLSWVR680_02434_KOTOCHOU_000_089","（★未使用／削除予定★）"
 172,"TEXT_CLSWVR680_02434_KOTOCYO_000_089","（★未使用／削除予定★）"
-173,"TEXT_CLSWVR680_02434_KOTOCHO_000_089"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你……
+173,"TEXT_CLSWVR680_02434_KOTOCHO_000_089","<Highlight>ObjectParameter(1)</Highlight>，謝謝你……
 我要整理行李，下次再見。"
 174,"TEXT_CLSWVR680_02434_YAGIRI_000_089","琴蝶沒事我就放心了……
 聽說她要重回起點做見習生啊……
 希望她能渡過這次的難關……"
 175,"TEXT_CLSWVR680_02434_BANTOU_000_089","（★未使用／削除予定★）"
-176,"TEXT_CLSWVR680_02434_KEIMEI_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+176,"TEXT_CLSWVR680_02434_KEIMEI_000_090","<Highlight>ObjectParameter(1)</Highlight>，
 還好有你陪著我……
 如果只有我自己的話，恐怕我會先支撐不下去吧。"
 177,"TEXT_CLSWVR680_02434_KEIMEI_000_091","總而言之，現在我們只能相信她並且等待她的成長了。

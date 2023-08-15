@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKZG012_04287_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-醒悟天測園的布拉斯特正在尋找使魔。"
+醒悟天測園的布拉斯忒正在尋找使魔。"
 1,"TEXT_AKTKZG012_04287_SEQ_01",""
 2,"TEXT_AKTKZG012_04287_SEQ_02",""
 3,"TEXT_AKTKZG012_04287_SEQ_03",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_AKTKZG012_04287_SEQ_22",""
 23,"TEXT_AKTKZG012_04287_SEQ_23",""
 24,"TEXT_AKTKZG012_04287_TODO_00","尋找棕髮的女性"
-25,"TEXT_AKTKZG012_04287_TODO_01","和布拉斯特對話"
+25,"TEXT_AKTKZG012_04287_TODO_01","和布拉斯忒對話"
 26,"TEXT_AKTKZG012_04287_TODO_02",""
 27,"TEXT_AKTKZG012_04287_TODO_03",""
 28,"TEXT_AKTKZG012_04287_TODO_04",""
@@ -57,7 +57,7 @@ int32,str,str
 來得正好，可以幫個忙嗎？
 我想讓你幫我給前輩傳個話。"
 50,"TEXT_AKTKZG012_04287_BLASTE_000_002","其實是我剛剛收到消息，由前輩負責觀察的飛行生物
-已經通過了稽核，可以投放到世界中了。
+已經通過了審核，可以投放到世界中了。
 當然這件事本來還是應該由我親自傳達的……"
 51,"TEXT_AKTKZG012_04287_BLASTE_000_003","但不巧的是，前輩已經辭去了觀察者的工作，
 不久前才剛剛離開這裡。
@@ -77,9 +77,9 @@ int32,str,str
 57,"TEXT_AKTKZG012_04287_A1_000_001","你不在意嗎？"
 58,"TEXT_AKTKZG012_04287_A1_000_002","我知道了"
 59,"TEXT_AKTKZG012_04287_BROWNHAIRWOMAN04287_000_022","是的，畢竟我在這裡的任務已經完成了。
-不過你和布拉斯特的心意我收下了。"
+不過你和布拉斯忒的心意我收下了。"
 60,"TEXT_AKTKZG012_04287_BROWNHAIRWOMAN04287_000_023","我該回歸星球了。
-請轉告布拉斯特，
+請轉告布拉斯忒，
 新飛行生物的登記名可以按照她的想法來。"
 61,"TEXT_AKTKZG012_04287_BROWNHAIRWOMAN04287_000_024","那麼再見了，
 神奇的使魔。"

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ011_02645_SEQ_21",""
 22,"TEXT_STMBDZ011_02645_SEQ_22",""
 23,"TEXT_STMBDZ011_02645_SEQ_23",""
-24,"TEXT_STMBDZ011_02645_TODO_00","從<Sheet(BNpcName,5698,0)/>身上獲得<Sheet(EventItem,2002335,0)/>"
+24,"TEXT_STMBDZ011_02645_TODO_00","從<Sheet(BNpcName,5698,0)/>身上獲取<Sheet(EventItem,2002335,0)/>"
 25,"TEXT_STMBDZ011_02645_TODO_01","將<Sheet(EventItem,2002335,0)/>交給安斯加"
 26,"TEXT_STMBDZ011_02645_TODO_02",""
 27,"TEXT_STMBDZ011_02645_TODO_03",""
@@ -59,11 +59,11 @@ int32,str,str
 怎麼說也不能把汙水排到那邊……"
 51,"TEXT_STMBDZ011_02645_ANSGER_000_003","不過只要有了<Sheet(EventItem,2002335,0)/>，問題就能輕鬆解決。
 然而這種核心正好不夠用了。
-我想請你儘快幫忙收集一些過來。"
+我想請你盡快幫忙收集一些過來。"
 52,"TEXT_STMBDZ011_02645_ANSGER_000_004","請打倒村子南邊的<Sheet(BNpcName,5698,0)/>，
-獲得3個<Sheet(EventItem,2002335,0)/>！"
+獲取3個<Sheet(EventItem,2002335,0)/>！"
 53,"TEXT_STMBDZ011_02645_ANSGER_000_010","請打倒村子南邊的<Sheet(BNpcName,5698,0)/>，
-獲得3個<Sheet(EventItem,2002335,0)/>！"
+獲取3個<Sheet(EventItem,2002335,0)/>！"
 54,"TEXT_STMBDZ011_02645_ANSGER_000_020","呀，你拿到<Sheet(EventItem,2002335,0)/>了嗎？"
 55,"TEXT_STMBDZ011_02645_ANSGER_000_030","成功拿到了啊，謝謝你啦！！
 用這個就可以把切割石材的時候產生的粉塵，

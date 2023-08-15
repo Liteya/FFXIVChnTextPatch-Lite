@@ -52,8 +52,8 @@ int32,str,str
 45,"TEXT_AKTKZG104_04510_TODO_21",""
 46,"TEXT_AKTKZG104_04510_TODO_22",""
 47,"TEXT_AKTKZG104_04510_TODO_23",""
-48,"TEXT_AKTKZG104_04510_CHARMION_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
-雖然我們對你已經有了一定的瞭解……"
+48,"TEXT_AKTKZG104_04510_CHARMION_000_000","<Highlight>ObjectParameter(1)</Highlight>，
+雖然我們對你已經有了一定的了解……"
 49,"TEXT_AKTKZG104_04510_CHARMION_000_001","不過最後，我想知道你的使命是什麼。"
 50,"TEXT_AKTKZG104_04510_CHARMION_000_002","我們都是為了讓這個星球變得更好，
 而懷揣著各自的使命不是嗎？"
@@ -70,7 +70,7 @@ int32,str,str
 55,"TEXT_AKTKZG104_04510_CHARMION_000_007","我和索克勒斯園長的使命
 就在醒悟天測園當中……"
 56,"TEXT_AKTKZG104_04510_CHARMION_000_008","還是讓你親眼見證一下比較好。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，可以到天測園西北方的建築物來一下嗎？"
+<Highlight>ObjectParameter(1)</Highlight>，可以到天測園西北方的建築物來一下嗎？"
 57,"TEXT_AKTKZG104_04510_CHARMION_000_020","（★未使用／削除予定★）"
 58,"TEXT_AKTKZG104_04510_SOKLES_000_020","這孩子毛手毛腳的，真是抱歉。
 不過對事一直這樣認真拚命也是她的優點。
@@ -79,7 +79,7 @@ int32,str,str
 60,"TEXT_AKTKZG104_04510_CHARMION_000_030","這裡有親筆書寫的……
 醒悟天測園的管理記錄。"
 61,"TEXT_AKTKZG104_04510_CHARMION_000_031","相信在你仔細看過了這裡的資料和物品之後，
-就會對我們的使命有所瞭解了。
+就會對我們的使命有所了解了。
 請隨便看看吧。"
 62,"TEXT_AKTKZG104_04510_CHARMION_000_032","我在這裡稍微有點……
 無法靜下心來，就去外面等著了！"
@@ -87,23 +87,23 @@ int32,str,str
 背面印有索克勒斯的名字。"
 64,"TEXT_AKTKZG104_04510_SYSTEM_000_041","封面上寫有索克勒斯的名字。
 閱讀了裡面的內容……"
-65,"TEXT_AKTKZG104_04510_SYSTEM_000_042","「處於觀察期的馬頭魚尾獸引發了事故。
+65,"TEXT_AKTKZG104_04510_SYSTEM_000_042","「處於觀察期的魚尾海馬怪引發了事故。
 其自衛本能過於敏感，防衛行為有失妥當。
 水屬性魔力攻擊造成近鄰其領地的4名觀察者不同程度受傷。」"
 66,"TEXT_AKTKZG104_04510_SYSTEM_000_043","「因此判定該創造生物存在問題，
 並向委託觀察的拉哈布雷亞院彙報了這一情況。
-院方將之小型化並最佳化其性格，命名為水馬再次委託我園觀察。」"
+院方將之小型化並優化其性格，命名為水馬再次委託我園觀察。」"
 67,"TEXT_AKTKZG104_04510_SYSTEM_000_044","寫到一半的觀察記錄……
 看筆跡不是索克勒斯的。"
-68,"TEXT_AKTKZG104_04510_CHARMION_000_049","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+68,"TEXT_AKTKZG104_04510_CHARMION_000_049","啊，<Highlight>ObjectParameter(1)</Highlight>。
 你已經看過……我們的使命的記錄了嗎？"
 69,"TEXT_AKTKZG104_04510_CHARMION_000_050","索克勒斯園長取得的成績很了不得吧。
 他擁有著這裡所有生物的記錄。
-都是將自己的所見所感透過自己的語言表述出來。"
+都是將自己的所見所感通過自己的語言表述出來。"
 70,"TEXT_AKTKZG104_04510_CHARMION_000_051","其實我啊……
 是為了繼承索克勒斯園長的工作才來到這裡的。"
 71,"TEXT_AKTKZG104_04510_CHARMION_000_052","我和索克勒斯園長的使命，
-就是讓這個醒悟天測園順利地營運下去。"
+就是讓這個醒悟天測園順利地運營下去。"
 72,"TEXT_AKTKZG104_04510_CHARMION_000_053","但是對於自己能不能做到索克勒斯園長那種程度，
 自己能否很好地完成這個使命，我還沒有自信……
 所以一待在那裡，我就靜不下心來……"
@@ -128,7 +128,7 @@ int32,str,str
 81,"TEXT_AKTKZG104_04510_CHARMION_000_063","不過……
 我還有很多希望從園長那裡學習的東西，
 所以能請你再等等我，等我學會了如何成為園長之後再回歸星球嗎？"
-82,"TEXT_AKTKZG104_04510_CHARMION_000_064"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你！
+82,"TEXT_AKTKZG104_04510_CHARMION_000_064","<Highlight>ObjectParameter(1)</Highlight>，謝謝你！
 多虧了你，我對自己的工作稍微有了點自信！"
 83,"TEXT_AKTKZG104_04510_SOKLES_000_064","我也要感謝你能夠幫助我一起培養繼承人。
 以後有空記得隨時來玩啊。"

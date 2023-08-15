@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSA304_00736_SEQ_00","在撒拉奧斯的遺骸，塔恩嘉．托恩嘉正在找人幫忙挖掘化石。"
-1,"TEXT_GAIUSA304_00736_SEQ_01","接受了塔恩嘉．托恩嘉的委託，挖掘化石。在撒拉奧斯的遺骸周圍尋找1個<Sheet(EventItem,2000593,0)/>和2個<Sheet(EventItem,2000592,0)/>。"
-2,"TEXT_GAIUSA304_00736_SEQ_02","找到了<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>。將<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>交給貧女材場的塔恩嘉．托恩嘉。"
-3,"TEXT_GAIUSA304_00736_SEQ_03","將<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>交給了塔恩嘉．托恩嘉。冒險者撿到的化石是撒拉奧斯吃下的生物的骨頭，和寄生在其身上的貝類。如果這能有助於他的研究就好了……"
+0,"TEXT_GAIUSA304_00736_SEQ_00","在撒拉奧斯的遺骸，塔恩嘉·托恩嘉正在找人幫忙挖掘化石。"
+1,"TEXT_GAIUSA304_00736_SEQ_01","接受了塔恩嘉·托恩嘉的委託，挖掘化石。在撒拉奧斯的遺骸周圍尋找1個<Sheet(EventItem,2000593,0)/>和2個<Sheet(EventItem,2000592,0)/>。"
+2,"TEXT_GAIUSA304_00736_SEQ_02","找到了<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>。將<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>交給貧女材場的塔恩嘉·托恩嘉。"
+3,"TEXT_GAIUSA304_00736_SEQ_03","將<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>交給了塔恩嘉·托恩嘉。冒險者撿到的化石是撒拉奧斯吃下的生物的骨頭，和寄生在其身上的貝類。如果這能有助於他的研究就好了……"
 4,"TEXT_GAIUSA304_00736_SEQ_04",""
 5,"TEXT_GAIUSA304_00736_SEQ_05",""
 6,"TEXT_GAIUSA304_00736_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_GAIUSA304_00736_SEQ_23",""
 24,"TEXT_GAIUSA304_00736_TODO_00","在撒拉奧斯的遺骸尋找<Sheet(EventItem,2000593,0)/>"
 25,"TEXT_GAIUSA304_00736_TODO_01","在撒拉奧斯的遺骸尋找<Sheet(EventItem,2000592,0)/>"
-26,"TEXT_GAIUSA304_00736_TODO_02","將<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>交給貧女材場的塔恩嘉．托恩嘉"
+26,"TEXT_GAIUSA304_00736_TODO_02","將<Sheet(EventItem,2000593,0)/>和<Sheet(EventItem,2000592,0)/>交給貧女材場的塔恩嘉·托恩嘉"
 27,"TEXT_GAIUSA304_00736_TODO_03",""
 28,"TEXT_GAIUSA304_00736_TODO_04",""
 29,"TEXT_GAIUSA304_00736_TODO_05",""
@@ -64,7 +64,7 @@ int32,str,str
 其全身大概有古菩猩猩那麼大吧。"
 56,"TEXT_GAIUSA304_00736_TANGATOTUNGA_000_036","這邊的圓形化石是寄生於撒拉奧斯的貝類吧。
 同類型的貝類在其身體周圍發現了許多。
-無論哪個化石，都展現了撒拉奧斯之巨大。"
+無論哪個化石，都體現了撒拉奧斯之巨大。"
 57,"TEXT_GAIUSA304_00736_TANGATOTUNGA_000_037","女神利姆萊茵所派來的傳說中的大海蛇——「珀琉喀斯和撒拉奧斯」，
 撒拉奧斯就是這其中的一頭。"
 58,"TEXT_GAIUSA304_00736_TANGATOTUNGA_000_038","話說回來，還沒有證據能證明這傢伙就是撒拉奧斯。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMA304_03294_SEQ_00","鼴靈市集的泰絲琳現在就想出發。"
+0,"TEXT_LUCKMA304_03294_SEQ_00","鼴靈集市的泰絲琳現在就想出發。"
 1,"TEXT_LUCKMA304_03294_SEQ_01",""
 2,"TEXT_LUCKMA304_03294_SEQ_02",""
 3,"TEXT_LUCKMA304_03294_SEQ_03",""
@@ -49,12 +49,12 @@ int32,str,str
 45,"TEXT_LUCKMA304_03294_TODO_21",""
 46,"TEXT_LUCKMA304_03294_TODO_22",""
 47,"TEXT_LUCKMA304_03294_TODO_23",""
-48,"TEXT_LUCKMA304_03294_CASSARD_000_000","祝你能順利和同伴會合！
+48,"TEXT_LUCKMA304_03294_CASSARD_000_000","祝你能順利和同伴匯合！
 等你要回去的時候咱們再見！"
 49,"TEXT_LUCKMA304_03294_TESLEEN_000_010","好啦，既然這麼決定了，
-我們就快點走吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+我們就快點走吧，<Highlight>ObjectParameter(1)</Highlight>！
 我也想讓你們兩個早些見面！"
-50,"TEXT_LUCKMA304_03294_TESLEEN_000_011","我們住的上路客店在鼴靈市集的南邊。"
+50,"TEXT_LUCKMA304_03294_TESLEEN_000_011","我們住的上路客店在鼴靈集市的南邊。"
 51,"TEXT_LUCKMA304_03294_TESLEEN_000_012","做好出發準備就在門外集合！
 我也會帶上行李過去的！"
 52,"TEXT_LUCKMA304_03294_TESLEEN_000_020","啊，來了來了！
@@ -88,7 +88,7 @@ int32,str,str
 64,"TEXT_LUCKMA304_03294_TESLEEN_000_041","謝謝你幫忙護送！
 這樣我就可以專心搬東西了！"
 65,"TEXT_LUCKMA304_03294_TESLEEN_000_050","嗯，我們到啦！
-有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你在，行李也安全抵達了！
+有<Highlight>ObjectParameter(1)</Highlight>你在，行李也安全抵達了！
 要是沒有你的話我可就危險了……"
 66,"TEXT_LUCKMA304_03294_TESLEEN_000_051","我得向你表達一下感謝呢……
 總之先進來吧。"
@@ -101,7 +101,7 @@ int32,str,str
 71,"TEXT_LUCKMA304_03294_A1_000_002","會傳染嗎？"
 72,"TEXT_LUCKMA304_03294_A1_000_003","我會治療……"
 73,"TEXT_LUCKMA304_03294_TESLEEN_000_054","你問……什麼病……"
-74,"TEXT_LUCKMA304_03294_TESLEEN_000_055","欸？
+74,"TEXT_LUCKMA304_03294_TESLEEN_000_055","誒？
 啊，嗯，不會傳染倒是……"
 75,"TEXT_LUCKMA304_03294_TESLEEN_000_056","謝謝你……
 但他們……不太一樣。"

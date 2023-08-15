@@ -5,7 +5,7 @@ int32,str,str
 不過妾身保證，只要你能攻破地下30層，
 就能掌握正統優雷卡的大概。"
 1,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_001","在那之後，妾身會再聽一次你的報告，
-這個時代最勇敢的冒險者， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+這個時代最勇敢的冒險者，<Highlight>ObjectParameter(1)</Highlight>啊。
 這件事就交給你了……"
 2,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_010","多虧了你，妾身才能在這個時代醒來，
 乃至於在某種程度上算是重獲新生了吧。"
@@ -29,7 +29,7 @@ int32,str,str
 10,"TEXT_CTSDDD3NOAHTALK_00811_A1_000_022","領取成就"
 11,"TEXT_CTSDDD3NOAHTALK_00811_A1_000_023","和諾亞對話"
 12,"TEXT_CTSDDD3NOAHTALK_00811_A1_000_024","取消"
-13,"TEXT_CTSDDD3NOAHTALK_00811_Q2_000_030","想瞭解什麼？"
+13,"TEXT_CTSDDD3NOAHTALK_00811_Q2_000_030","想了解什麼？"
 14,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_031","關於大魔法師諾亞"
 15,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_032","關於多加和烏內"
 16,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_033","關於亞蒙"
@@ -38,7 +38,7 @@ int32,str,str
 19,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_036","關於地下30層的衛士「提亞馬特複製體」"
 20,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_037","關於地下40層的衛士「雙塔尼亞複製體」"
 21,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_038","關於地下50層的衛士「自控化奇美拉14X」"
-22,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_039","關於地下60層的衛士「自控化彌諾陶16」"
+22,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_039","關於地下60層的衛士「自控化彌諾陶洛斯16」"
 23,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_040","關於地下70層的衛士「永恆」"
 24,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_041","關於地下80層的衛士「原型卡利亞」"
 25,"TEXT_CTSDDD3NOAHTALK_00811_A2_000_042","關於地下90層的衛士「管理員」"
@@ -55,13 +55,13 @@ int32,str,str
 交給八劍士前庭的創造系統，
 可以用來交換4種飾品。"
 32,"TEXT_CTSDDD3NOAHTALK_00811_SYSTEM_000_054","在持有或者裝備上述全部飾品後，
-和珂爾．拉布恩塔對話，
+和珂爾·拉布恩塔對話，
 可以獲得成就和特別的道具。"
 33,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_055","妾身倒是有東西想要給你……
 不過呀，你還是先收拾收拾自己包裹裡的東西吧。"
 34,"TEXT_CTSDDD3NOAHTALK_00811_SYSTEM_000_056","要想獲得成就和特別的道具，
 需要背包保留1格以上的空位。"
-35,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_057"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你這人……
+35,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_057","<Highlight>ObjectParameter(1)</Highlight>，你這人……
 妾身還以為你去過一次正統優雷卡的底層就算夠了，
 沒想到你還來來回回去了這麼多次。"
 36,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_058","創造系統從正統神典石中提取資料
@@ -72,7 +72,7 @@ int32,str,str
 38,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_060","妾身已經看著你努力了這麼久了，
 作為給你這個委託的人，妾身也是該為你提供一件謝禮了。"
 39,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_061","……所以呢，妾身從備用的實驗槽裡，
-帶出了一隻看起來蠻乖巧的「永恆」。"
+帶出了一隻看起來挺乖巧的「永恆」。"
 40,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_062","要是一直放任不管，它早晚也是死路一條，
 但從今天開始就不一樣，它現在是你的眷屬了……
 從今往後，它就可以自由馳騁於現世的青空之下啦！"
@@ -107,7 +107,7 @@ int32,str,str
 之所以能這麼快復活贊德，
 多少也是因為他們兩個實驗體本就是贊德的子孫吧。"
 53,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_083","除此以外，也多虧了大量的多加和烏內的複製體，
-帝國才能以皇血作為鑰匙控製作業系統。"
+帝國才能以皇血作為鑰匙控制操作系統。"
 54,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_084","這也成了「皇帝推動了亞拉戈」這句話正統性的鐵證，
 從物理上杜絕了皇族統治動搖的可能性……
 還能避免陰謀篡位引發的爭端。"
@@ -154,8 +154,8 @@ int32,str,str
 69,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_111","你在地下20層遇到的「複製系統」
 就是為了這個目的製作出來的。"
 70,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_112","製作龍族複製體的技術，
-還有控制產生的複製體讓它們言聽計從的技術。
-複製系統就是將這二者合一的產物，說是龍族士兵製造機也不為過。"
+還有控制生成的複製體讓它們言聽計從的技術。
+複製系統就是將這二者合一的產物，說是龍族士兵制造機也不為過。"
 71,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_113","製作了這東西的女人，她的丈夫是被龍殺死的。
 她丈夫在南方大陸的戰鬥中被龍咬碎了腦袋，
 能運回家鄉埋葬的只有頭部以下的軀幹。"
@@ -199,24 +199,24 @@ int32,str,str
 機械化這種做法，純屬畫蛇添足！"
 86,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_144","奇美拉就是要從不同生物的身上找到各種各樣的部分結合在一起，
 這樣才有趣，有用，而且有一種怪誕的美。
-把奇美拉的身體器官換成了機械元件，豈不是本末倒置了嗎。"
+把奇美拉的身體器官換成了機械部件，豈不是本末倒置了嗎。"
 87,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_150","原來如此……
 看起來你是穿過了奇美拉生物的實驗區呀。"
 88,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_151","本來奇美拉這種生物呢，就是從黎明期的第一世代，
 逐步分階段地發展到了有著高度發達智慧的第四世代型。"
-89,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_152","彌諾陶屬於第二世代型……
+89,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_152","彌諾陶洛斯屬於第二世代型……
 生物之間的結合雖然比較簡單，
 它卻是有著繁殖能力的奇美拉生物。"
 90,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_153","從兵器角度來看，產量容易提升不是一個優點嗎？
-所以這個系列的研究思緒就是用最尖端的技術強化彌諾陶，
+所以這個系列的研究思路就是用最尖端的技術強化彌諾陶洛斯，
 從而以更小的代價，獲得戰鬥力上的提升。"
 91,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_160","在南方大陸之戰的過程中，
 亞拉戈軍遭遇了難題，與鬪神陷入了長期的苦戰。
 因此委託研究所尋找應對之策。"
-92,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_161","那麼，請問 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+92,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_161","那麼，請問<Highlight>ObjectParameter(1)</Highlight>……
 你知道最有效的解決鬪神的方法是什麼嗎？"
 93,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_162","正確答案是，別讓鬪神被召喚出來。
-奪走召喚鬪神所必要的材料，讓他們沒有了乙太，
+奪走召喚鬪神所必須的材料，讓他們沒有了乙太，
 那降神就不可能獲得成功了。"
 94,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_163","為了這個目的投入戰場的就是「永恆」……
 永恆本是贊德生前在遠征某地的過程中捕捉到的猛獸，
@@ -243,12 +243,12 @@ int32,str,str
 103,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_183","那是絕對不能被外部人員入侵的位置，
 因此，那時候他們揚言要把最強的守衛系統安置在那裡……
 哈哈……竟然哈哈……竟然也讓你給幹掉了！"
-104,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_184"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你可真是太棒了！
+104,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_184","<Highlight>ObjectParameter(1)</Highlight>你可真是太棒了！
 等妾身回了星海，遇到了那東西的設計者，一定要把這事告訴他！
 可真是，果然醒著就是能遇到想不著的事情啊！"
 105,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_190","想要再問問王者之劍的事？
 可以啊，妾身覺得你和珂爾兩個人，
-要是能記住優雷卡傳說的真相蠻好的。"
+要是能記住優雷卡傳說的真相挺好的。"
 106,"TEXT_CTSDDD3NOAHTALK_00811_KOHRABNTAH_000_191","王者之劍是無名的優雷卡之神傾盡全力，
 消耗了巨量的乙太創造出來的媒介武器。
 持有這把劍的人將會成為鬪神降臨的載體……"

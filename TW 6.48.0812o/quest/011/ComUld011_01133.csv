@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_COMULD011_01133_SEQ_00","恆輝隊的斯威夫特想要交給冒險者一項提升大國防聯軍內部評價的任務。"
-1,"TEXT_COMULD011_01133_SEQ_01","斯威夫特介紹了新的任務。前往伊修加爾德庫爾札斯中央高地西南區域的黃金谷，和威廉姆斯談談。"
+1,"TEXT_COMULD011_01133_SEQ_01","斯威夫特介紹了新的任務。前往伊修加德庫爾札斯中央高地西南區域的黃金谷，和威廉姆斯談談。"
 2,"TEXT_COMULD011_01133_SEQ_02","消滅黃金谷的魔物。另外要注意洞窟內的毒沼……
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 3,"TEXT_COMULD011_01133_SEQ_03","向烏爾達哈恆輝作戰總部的斯威夫特報告。"
 4,"TEXT_COMULD011_01133_SEQ_04","和斯威夫特進行了交談。冒險者在大國防聯軍內部的評價有所提升。"
 5,"TEXT_COMULD011_01133_SEQ_05",""
@@ -51,12 +51,12 @@ int32,str,str
 45,"TEXT_COMULD011_01133_TODO_21",""
 46,"TEXT_COMULD011_01133_TODO_22",""
 47,"TEXT_COMULD011_01133_TODO_23",""
-48,"TEXT_COMULD011_01133_SWIFT_000_000","是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>啊。
+48,"TEXT_COMULD011_01133_SWIFT_000_000","是<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>啊。
 聽說你還是一如既往表現得那麼活躍。"
 49,"TEXT_COMULD011_01133_SWIFT_000_001","趁著你現在勢如破竹的狀態，
 再給你一個建立戰功的機會吧。"
 50,"TEXT_COMULD011_01133_SWIFT_000_002","作為輸出軍用陸行鳥的交換條件，
-我們接受了伊修加爾德消滅魔物的請求。
+我們接受了伊修加德消滅魔物的請求。
 詳細情況就去詢問黃金谷的騎兵吧。"
 51,"TEXT_COMULD011_01133_WILLIELMUS_000_010","你是恆輝隊派來的吧？
 雖然借他國之力來驅除魔物這種事讓人難以接受……

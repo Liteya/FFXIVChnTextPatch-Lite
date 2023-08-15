@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSB207_00838_SEQ_22",""
 23,"TEXT_GAIUSB207_00838_SEQ_23",""
 24,"TEXT_GAIUSB207_00838_TODO_00","在白鷗塔頂的標註位置做「張望」的情感動作"
-25,"TEXT_GAIUSB207_00838_TODO_01","獲得<Sheet(EventItem,2000652,0)/>"
+25,"TEXT_GAIUSB207_00838_TODO_01","獲取<Sheet(EventItem,2000652,0)/>"
 26,"TEXT_GAIUSB207_00838_TODO_02","將<Sheet(EventItem,2000652,0)/>交給菲利爾森"
 27,"TEXT_GAIUSB207_00838_TODO_03",""
 28,"TEXT_GAIUSB207_00838_TODO_04",""
@@ -54,12 +54,12 @@ int32,str,str
 49,"TEXT_GAIUSB207_00838_FYRILSUNN_000_001","基於職務上的考慮，我不能隨意離開這裡。
 這只是我個人對你的委託，能不能幫我找一找呢？
 <Sheet(EventItem,2000652,0)/>一共有3枚。"
-50,"TEXT_GAIUSB207_00838_FYRILSUNN_000_002","應該是我在驅趕地靈族時弄丟的……
+50,"TEXT_GAIUSB207_00838_FYRILSUNN_000_002","估計是我在驅趕地靈族時弄丟的……
 我覺得應該是掉在了白鷗塔附近。
 你到白鷗塔的塔頂「張望」一番，幫我找找看吧。"
 51,"TEXT_GAIUSB207_00838_DUMMY_000_010","（在白鷗塔的塔頂做「張望」
 視野範圍內出現3處劇情道具）"
-52,"TEXT_GAIUSB207_00838_DUMMY_000_020","（點選劇情道具，獲得3枚戰士的徽章）"
+52,"TEXT_GAIUSB207_00838_DUMMY_000_020","（點擊劇情道具，獲得3枚戰士的徽章）"
 53,"TEXT_GAIUSB207_00838_FYRILSUNN_000_020","怎麼樣？！
 你找到<Sheet(EventItem,2000652,0)/>了嗎？"
 54,"TEXT_GAIUSB207_00838_FYRILSUNN_000_021","太好了……謝謝！

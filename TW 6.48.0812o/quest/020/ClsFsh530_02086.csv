@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_CLSFSH530_02086_SEQ_21",""
 22,"TEXT_CLSFSH530_02086_SEQ_22",""
 23,"TEXT_CLSFSH530_02086_SEQ_23",""
-24,"TEXT_CLSFSH530_02086_TODO_00","和隼巢的昂索姆會合"
+24,"TEXT_CLSFSH530_02086_TODO_00","和隼巢的昂索姆匯合"
 25,"TEXT_CLSFSH530_02086_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在庫爾札斯不凍池釣上<Sheet(Item,12713,0)/><Else/>將<Sheet(Item,12713,0)/>交給隼巢的昂索姆</If>"
 26,"TEXT_CLSFSH530_02086_TODO_02",""
 27,"TEXT_CLSFSH530_02086_TODO_03",""
@@ -57,12 +57,12 @@ int32,str,str
 釣它的手感極佳，簡直是一種享受……
 而且把它炸得脆脆的當下酒菜別提多美了。"
 50,"TEXT_CLSFSH530_02086_ANSAULME_000_002","這種魚的釣場就在庫爾札斯西部高地。
-我們在隼巢的北側出口會合吧！"
+我們在隼巢的北側出口匯合吧！"
 51,"TEXT_CLSFSH530_02086_ANSAULME_000_005","這種魚的釣場就在庫爾札斯西部高地。
-我們在隼巢的北側出口會合吧！"
+我們在隼巢的北側出口匯合吧！"
 52,"TEXT_CLSFSH530_02086_REYNA_000_006","你全身都散發著魚的氣味。
 ……嘿嘿，看來你也是愛釣魚如生命的同道中人啊！"
-53,"TEXT_CLSFSH530_02086_ANSAULME_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊。
+53,"TEXT_CLSFSH530_02086_ANSAULME_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了啊。
 剛才在等你的時候情況發生了一些變化。"
 54,"TEXT_CLSFSH530_02086_ANSAULME_000_011","這位小姐名叫「蕾伊娜」，
 她跟我一樣，一邊釣魚一邊在世界各地旅行。
@@ -95,14 +95,14 @@ int32,str,str
 這位小姐的記錄是2條，所以你就去釣3條回來吧！"
 67,"TEXT_CLSFSH530_02086_ANSAULME_000_045","噢，這<Sheet(Item,12713,0)/>看起來真棒！
 怎麼樣，小姐！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 釣到了3條呢，已經分出勝負了！"
+<Highlight>ObjectParameter(1)</Highlight>釣到了3條呢，已經分出勝負了！"
 68,"TEXT_CLSFSH530_02086_REYNA_000_046","怎麼可能！我竟然輸了？！
 哎，你的釣魚技術還真是厲害啊。"
 69,"TEXT_CLSFSH530_02086_REYNA_000_047","……我竟然一下子遇到了兩個熱衷於釣魚的同道中人！
 在旅途中我做過各種各樣的工作，但在工作同時依舊能專注釣魚。
 沒想到除我以外還有其他人也過著這樣的日子！"
 70,"TEXT_CLSFSH530_02086_ANSAULME_000_050","……哎，這位小姐啊。
-你有沒有什麼連我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 都不知道的珍稀釣場的情報呢？
+你有沒有什麼連我和<Highlight>ObjectParameter(1)</Highlight>都不知道的珍稀釣場的情報呢？
 如果有的話，可以告訴我們嗎？"
 71,"TEXT_CLSFSH530_02086_REYNA_000_051","沒問題，既然贏了就得有獎品嘛！
 我想想……我這倒是有個很有意思的情報，

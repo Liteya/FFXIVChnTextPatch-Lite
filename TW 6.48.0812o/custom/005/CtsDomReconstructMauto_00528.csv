@@ -65,14 +65,14 @@ int32,str,str
 26,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_035","大家都在很賣力地工作！
 果然為了祖國而努力，
 是一件令人開心的事啊！"
-27,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_040"," <Highlight>ObjectParameter(1)</Highlight> ，還有小櫻！
+27,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_040","<Highlight>ObjectParameter(1)</Highlight>，還有小櫻！
 我正等著你們呢！"
 28,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_041","快來看，我們的駐所變得非常氣派了吧！"
 29,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_042","現在除了巡邏的工作以外，
 我們也在努力訓練，而人們也會找我們幫忙解決一些問題……
 所有人都很忙啊！"
 30,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_043","這也都是車前會，
-還有提供了物資的 <Highlight>ObjectParameter(1)</Highlight> 的功勞啊！"
+還有提供了物資的<Highlight>ObjectParameter(1)</Highlight>的功勞啊！"
 31,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_044","規模變大之後，
 我們終於能將目光轉向多瑪飛地以外的區域了。
 目前我們已經開始討伐城外道路以及河邊的魔物了。"
@@ -104,7 +104,7 @@ int32,str,str
 43,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_056","而且比起其他的事情，
 飛燕大人認同了巡邏隊的這件事，
 才是對我們來說最高的榮譽呢！"
-44,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_057","謝謝你， <Highlight>ObjectParameter(1)</Highlight> ，
+44,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_057","謝謝你，<Highlight>ObjectParameter(1)</Highlight>，
 還有小櫻。
 這都是託大家的福啊！"
 45,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_058","今後我們也將會為了飛地的人們
@@ -123,8 +123,8 @@ int32,str,str
 50,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_062","抱歉啊，因為這件事我稍微失陪一下！"
 51,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_063","被認可為國家組織這件事，
 讓他們變得更加可靠了呢。"
-52,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_064"," <Highlight>ObjectParameter(1)</Highlight> ，
-託你的福，城市營運所需要的設施也逐漸齊全，
+52,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_064","<Highlight>ObjectParameter(1)</Highlight>，
+托你的福，城市運營所需要的設施也逐漸齊全，
 民眾的生活也變得富裕了，安全也都得到了保障。"
 53,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_065","不過這還不算是終點。
 正因為生活得到了保障，
@@ -135,18 +135,18 @@ int32,str,str
 也是帝國軍為了監視出入多瑪飛地的人
 而建造的支配的象徵。"
 56,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_068","從多瑪解放後直至今日，
-所有人都在為了重建生活所必要的設施而拚命努力，
+所有人都在為了重建生活所必須的設施而拚命努力，
 所以就把這件事放在腦後了……"
 57,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_069","現在城市的重建工作也算告一段落了，
 總算能夠回應飛地人們的期盼，
 正式開始那座塔的拆除工作了。"
 58,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_070","具體流程就由我們車前會負責安排，
- <Highlight>ObjectParameter(1)</Highlight> 就請你繼續支援物資吧。"
+<Highlight>ObjectParameter(1)</Highlight>就請你繼續支援物資吧。"
 59,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_071","(-孟冬的聲音-)總是忙忙叨叨的，抱歉啊。
 我這邊的事情已經弄完了。"
 60,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_072","我聽見你們說的了，要拆除帝國的瞭望塔啊？
 作為飛地民眾的一員，我也拜託你了。
- <Highlight>ObjectParameter(1)</Highlight> ，就麻煩你幫忙了。"
+<Highlight>ObjectParameter(1)</Highlight>，就麻煩你幫忙了。"
 61,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_073","非常感謝！
 那今後請你接著出讓物資吧！"
 62,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_SYSTEM_000_074","巡邏隊駐所建設完成！
@@ -156,5 +156,5 @@ int32,str,str
 車前會買入出讓物品時的預算額進一步提升了。
 今後可以出讓更多的物資！"
 64,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_080","我們一定會盡到維護多瑪飛地治安的職責！
-一定要回應飛燕大人對我們的期待才行！"
+必須要回應飛燕大人對我們的期待才行！"
 65,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_080","（★未使用／削除予定★）"

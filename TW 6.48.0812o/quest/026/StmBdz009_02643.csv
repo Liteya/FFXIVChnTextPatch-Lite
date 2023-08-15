@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_STMBDZ009_02643_SEQ_21",""
 22,"TEXT_STMBDZ009_02643_SEQ_22",""
 23,"TEXT_STMBDZ009_02643_SEQ_23",""
-24,"TEXT_STMBDZ009_02643_TODO_00","獲得<Sheet(EventItem,2002083,0)/>"
-25,"TEXT_STMBDZ009_02643_TODO_01","獲得<Sheet(EventItem,2002084,0)/>"
+24,"TEXT_STMBDZ009_02643_TODO_00","獲取<Sheet(EventItem,2002083,0)/>"
+25,"TEXT_STMBDZ009_02643_TODO_01","獲取<Sheet(EventItem,2002084,0)/>"
 26,"TEXT_STMBDZ009_02643_TODO_02","將樣品交給露西娜牙士長"
 27,"TEXT_STMBDZ009_02643_TODO_03",""
 28,"TEXT_STMBDZ009_02643_TODO_04",""
@@ -56,10 +56,10 @@ int32,str,str
 50,"TEXT_STMBDZ009_02643_LUCINNE_000_002","我這麼個從園藝工升上來的工兵，
 連收集足夠的樣本都做不到！
 你就當做行善積德，幫幫我行嗎？"
-51,"TEXT_STMBDZ009_02643_LUCINNE_000_003","請在被丟棄在東境混和林的魔導兵器周邊的3個地點採集一些土壤，
+51,"TEXT_STMBDZ009_02643_LUCINNE_000_003","請在被丟棄在東境混交林的魔導兵器周邊的3個地點採集一些土壤，
 還有威羅迪納河的河水。
 拜託你了！！"
-52,"TEXT_STMBDZ009_02643_LUCINNE_000_004","請在被丟棄在東境混和林的魔導兵器周邊的3個地點採集一些土壤，
+52,"TEXT_STMBDZ009_02643_LUCINNE_000_004","請在被丟棄在東境混交林的魔導兵器周邊的3個地點採集一些土壤，
 還有威羅迪納河的河水。
 拜託你了！！"
 53,"TEXT_STMBDZ009_02643_LUCINNE_100_010","那個……你有收集到樣本嗎？"

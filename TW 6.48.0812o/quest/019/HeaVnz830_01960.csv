@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ830_01960_SEQ_00","湍流三角地的費爾茨默克斯依舊在釣魚。"
-1,"TEXT_HEAVNZ830_01960_SEQ_01","和費爾茨默克斯進行了交談。費爾茨默克斯之所以釣不上魚，都是因為生息在附近的<Sheet(BNpcName,3606,0)/>。在龍堡內陸低地的薩雷安治學區討伐<Sheet(BNpcName,3606,0)/>，獲得4份<Sheet(EventItem,2001698,0)/>。"
+1,"TEXT_HEAVNZ830_01960_SEQ_01","和費爾茨默克斯進行了交談。費爾茨默克斯之所以釣不上魚，都是因為生息在附近的<Sheet(BNpcName,3606,0)/>。在龍堡內陸低地的薩雷安治學區討伐<Sheet(BNpcName,3606,0)/>，獲取4份<Sheet(EventItem,2001698,0)/>。"
 2,"TEXT_HEAVNZ830_01960_SEQ_02","獲得了<Sheet(EventItem,2001698,0)/>。將<Sheet(EventItem,2001698,0)/>交給湍流三角地的費爾茨默克斯。"
 3,"TEXT_HEAVNZ830_01960_SEQ_03","將<Sheet(EventItem,2001698,0)/>交給了費爾茨默克斯。餓著肚子的費爾茨默克斯因為釣不上魚來，只能靠冒險者給她的<Sheet(EventItem,2001698,0)/>充飢了。"
 4,"TEXT_HEAVNZ830_01960_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ830_01960_SEQ_21",""
 22,"TEXT_HEAVNZ830_01960_SEQ_22",""
 23,"TEXT_HEAVNZ830_01960_SEQ_23",""
-24,"TEXT_HEAVNZ830_01960_TODO_00","從<Sheet(BNpcName,3606,0)/>身上獲得<Sheet(EventItem,2001698,0)/>"
+24,"TEXT_HEAVNZ830_01960_TODO_00","從<Sheet(BNpcName,3606,0)/>身上獲取<Sheet(EventItem,2001698,0)/>"
 25,"TEXT_HEAVNZ830_01960_TODO_01","將<Sheet(EventItem,2001698,0)/>交給費爾茨默克斯"
 26,"TEXT_HEAVNZ830_01960_TODO_02",""
 27,"TEXT_HEAVNZ830_01960_TODO_03",""

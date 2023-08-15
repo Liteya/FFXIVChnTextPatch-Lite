@@ -28,9 +28,9 @@ int32,str,str
 21,"TEXT_BANKJN503_02993_SEQ_21",""
 22,"TEXT_BANKJN503_02993_SEQ_22",""
 23,"TEXT_BANKJN503_02993_SEQ_23",""
-24,"TEXT_BANKJN503_02993_TODO_00","從漁村的老人那裡獲得<Sheet(EventItem,2002410,0)/>"
-25,"TEXT_BANKJN503_02993_TODO_01","從漁村的女性那裡獲得<Sheet(EventItem,2002412,0)/>"
-26,"TEXT_BANKJN503_02993_TODO_02","從漁村的年輕人那裡獲得<Sheet(EventItem,2002411,0)/>"
+24,"TEXT_BANKJN503_02993_TODO_00","從漁村的老人那裡獲取<Sheet(EventItem,2002410,0)/>"
+25,"TEXT_BANKJN503_02993_TODO_01","從漁村的女性那裡獲取<Sheet(EventItem,2002412,0)/>"
+26,"TEXT_BANKJN503_02993_TODO_02","從漁村的年輕人那裡獲取<Sheet(EventItem,2002411,0)/>"
 27,"TEXT_BANKJN503_02993_TODO_03","將物品交給頭巾"
 28,"TEXT_BANKJN503_02993_TODO_04",""
 29,"TEXT_BANKJN503_02993_TODO_05",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN503_02993_TODO_21",""
 46,"TEXT_BANKJN503_02993_TODO_22",""
 47,"TEXT_BANKJN503_02993_TODO_23",""
-48,"TEXT_BANKJN503_02993_ZUKIN_000_000","多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>你們，我們的生意十分興隆——
+48,"TEXT_BANKJN503_02993_ZUKIN_000_000","多虧了<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>你們，我們的生意十分興隆——
 和鯰魚精們，還有凱蘇提爾部的人們也都做成了生意，
 真是大賺了一筆呢——"
 49,"TEXT_BANKJN503_02993_ZUKIN_000_001","但是呢——我們也沒有忘記
@@ -78,7 +78,7 @@ int32,str,str
 你能替我拿過去嗎？"
 56,"TEXT_BANKJN503_02993_ISARIWOMAN02993_000_013","我家老爸做的桶，可是用個幾年也不會漏水的絕品，
 但前一陣子老爸生病，沒能及時做。
-因此拖到這麼晚，真是對不起呢。"
+因此拖到這麼晚，真是對不住呢。"
 57,"TEXT_BANKJN503_02993_ISARIWOMAN02993_100_013","為了不讓老爸再勉強自己，我得回去繼續看著他了！
 雖然告訴甲人族們回禮會很晚，可他們卻沒有一句怨言，
 請你替我向他們問好！"
@@ -94,5 +94,5 @@ int32,str,str
 雖然不論哪個都不是什麼值錢的東西，也不會帶來多少利益，
 但卻都是充滿心意的手工製品，我很滿足——"
 62,"TEXT_BANKJN503_02993_ZUKIN_000_022","那個漁村，受盡了帝國的迫害——
-困難的時候要互相幫助，即使讓他們賒一些帳，
+困難的時候要互相幫助，即使讓他們賒一些賬，
 我也想與他們加深今後的緣分——"

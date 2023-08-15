@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_CLSTHM020_00345_TODO_21",""
 46,"TEXT_CLSTHM020_00345_TODO_22",""
 47,"TEXT_CLSTHM020_00345_TODO_23",""
-48,"TEXT_CLSTHM020_00345_YAYAKE_000_1","考慮得如何？ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人。
+48,"TEXT_CLSTHM020_00345_YAYAKE_000_1","考慮得如何？<Highlight>ObjectParameter(1)</Highlight>大人。
 您察覺到了嗎？您加入咒術師公會是命運的安排……"
 49,"TEXT_CLSTHM020_00345_YAYAKE_000_2","英明的選擇。
 那麼……先請您熟讀108本記載著咒術基礎的書籍吧。"
@@ -103,7 +103,7 @@ int32,str,str
 嘿嘿嘿……"
 71,"TEXT_CLSTHM020_00345_COCOBUKI_000_60","嘿嘿嘿……
 看來你已經消滅所有敵人了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你加入咒術師公會。"
+<Highlight>ObjectParameter(1)</Highlight>，歡迎你加入咒術師公會。"
 72,"TEXT_CLSTHM020_00345_COCOBUKI_000_62","這次你證明了自己所擁有的咒術師的魔力。
 決定你魔力大小的是流淌於你體內的「乙太量」……"
 73,"TEXT_CLSTHM020_00345_COCOBUKI_000_63","乙太乃生命之源，不論其量的大小，
@@ -120,4 +120,4 @@ int32,str,str
 就來這裡找我吧，嘿嘿嘿嘿……"
 78,"TEXT_CLSTHM020_00345_SYSTEM_000_100","開啟了「咒術師」的職業任務。
 等級達到「5級」以上時，才可以領取下一個任務。
-提高等級後再來公會。 "
+提高等級後再來公會。"

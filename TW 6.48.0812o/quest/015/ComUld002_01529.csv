@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_COMULD002_01529_SEQ_00","恆輝作戰總部的瀰瀰奧協耀尉有任務想要委託給冒險者。"
-1,"TEXT_COMULD002_01529_SEQ_01","圍繞出土於加爾提諾平原的古代亞拉戈文明遺跡，利姆薩．羅敏薩、格里達尼亞、烏爾達哈三城邦在其保有權的問題上處於對立局勢。因此，瀰瀰奧委託冒險者作為恆輝隊的一員，參加遺跡爭奪戰。和烏爾達哈飛艇坪的義士隊航空兵談談。"
+1,"TEXT_COMULD002_01529_SEQ_01","圍繞出土於加爾提諾平原的古代亞拉戈文明遺跡，利姆薩·羅敏薩、格里達尼亞、烏爾達哈三城邦在其保有權的問題上處於對立局勢。因此，瀰瀰奧委託冒險者作為恆輝隊的一員，參加遺跡爭奪戰。和烏爾達哈飛艇坪的義士隊航空兵談談。"
 2,"TEXT_COMULD002_01529_SEQ_02","從義士隊航空兵那裡聽取了有關遺跡爭奪戰的說明。前往法外戰區，參加遺跡爭奪戰，為恆輝隊爭光。"
 3,"TEXT_COMULD002_01529_SEQ_03",""
 4,"TEXT_COMULD002_01529_SEQ_04",""
@@ -55,14 +55,14 @@ int32,str,str
 我想要委託給你一項特別的任務！"
 51,"TEXT_COMULD002_01529_MIMIO_000_004","你知道加爾提諾平原嗎？
 沒錯，就是5年前「第七靈災」發生的中心地，
-艾奧傑亞同盟軍和帝國軍第七軍團的決戰之地。"
+艾歐澤亞同盟軍和帝國軍第七軍團的決戰之地。"
 52,"TEXT_COMULD002_01529_MIMIO_000_005","那片土地之前不屬於任何城邦。
 但是，因為在那裡發現的「古代亞拉戈文明遺跡」，
 讓那裡染上了一絲火藥味……"
 53,"TEXT_COMULD002_01529_MIMIO_000_006","我們恆輝隊上層非常重視那片遺跡。
 面對各城邦，我們堅持擁有遺跡的調查、保有權。"
 54,"TEXT_COMULD002_01529_MIMIO_000_007","不過，
-同盟國利姆薩．羅敏薩和格里達尼亞也在爭取這一保有權……
+同盟國利姆薩·羅敏薩和格里達尼亞也在爭取這一保有權……
 如今的加爾提諾平原，圍繞這一權利處於一觸即發的狀態。"
 55,"TEXT_COMULD002_01529_MIMIO_000_008","三國領袖為了不讓這一對立造成同盟的破裂，
 因此立下協議，
@@ -77,13 +77,13 @@ int32,str,str
 59,"TEXT_COMULD002_01529_MIMIO_000_012","如果你下定了決心，決定加入最前線的戰鬥，
 那麼就去烏爾達哈飛艇坪，
 向義士隊航空兵提出申請！"
-60,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_020","你好， <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
+60,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_020","你好，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
 我來向你說明一下在法外戰區展開的作戰簡要！"
 61,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_021","這次我們的目的是佔領位於平原南部的「周邊遺跡群」！"
-62,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_022","作戰總部考慮，透過控制這片遺跡群，
+62,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_022","作戰總部考慮，通過控制這片遺跡群，
 或許就能控制位於北邊數星里外的「遺跡中樞」防禦機關。"
 63,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_023","也就是說，為了獲得沉睡於遺跡中樞的古代遺產，
-本次作戰一定要取得成功！"
+本次作戰必須要取得成功！"
 64,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_024","飛空艇之後就要向加爾提諾平原進發。
 在平原南部的法外戰區著陸後，
 請佔領位於周邊遺跡群的幾處要地。"
@@ -93,6 +93,6 @@ int32,str,str
 66,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_026","另外，根據斥候發回的報告稱，
 遺跡群中央的衛月碎片會傳送來亞拉戈的防衛兵器，
 所以請你務必提高警惕！"
-67,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_027","那麼， <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，
+67,"TEXT_COMULD002_01529_GISHITAIHIKUUHEI_000_027","那麼，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，
 飛空艇的出港準備已就緒！
 請你確認好各裝備後，立刻登艇出發！"

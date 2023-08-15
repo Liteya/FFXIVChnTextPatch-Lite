@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_FESEST2021ADDPUBENPC_00713_KOFUINSEIGETSU_000_001","(-上層傳來的理性的聲音-)哦？沒想到你也參加了這個祭禮啊！
-為了更好地瞭解各種祭禮，我便渡海來此，
+為了更好地了解各種祭禮，我便渡海來此，
 這個「採蛋獸列」還真是讓人興致盎然啊！"
 1,"TEXT_FESEST2021ADDPUBENPC_00713_GYOREI_000_002","(-中層傳來的溫柔的聲音-)住、住手啊噗！
 別這麼興奮地煽動魚鰭啊，
@@ -10,7 +10,7 @@ int32,str,str
 2,"TEXT_FESEST2021ADDPUBENPC_00713_GYOSHIN_000_003","(-下層傳來的傻乎乎的聲音-)唔……唔噗噗噗噗。
 這個祭禮裝束……好熱啊，又要變成魚乾了噗……
 而且好沉啊噗……"
-3,"TEXT_FESEST2021ADDPUBENPC_00713_KOFUINSEIGETSU_000_004","(-上層傳來的理性的聲音-)嘖，真虧你能在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 面前說出這種喪氣話！
+3,"TEXT_FESEST2021ADDPUBENPC_00713_KOFUINSEIGETSU_000_004","(-上層傳來的理性的聲音-)嘖，真虧你能在<Highlight>ObjectParameter(1)</Highlight>面前說出這種喪氣話！
 趕緊讀讀名著«肌肉萬能論»，好好鍛鍊下身體吧！"
 4,"TEXT_FESEST2021ADDPUBENPC_00713_LEOFARD_000_005","真是的，偏偏這副樣子的時候遇到最不想遇到的人。
 冒險者，你在給這個奇怪的活動幫忙嗎？"
@@ -19,14 +19,14 @@ int32,str,str
 6,"TEXT_FESEST2021ADDPUBENPC_00713_UTATA_000_007","總之呢，我們幾個也換上了玩偶裝！
 就算是換換心情放鬆一下啦。"
 7,"TEXT_FESEST2021ADDPUBENPC_00713_LEOFARD_000_008","反正報酬也到手了，差不多了就撤退吧。
-我們在帕洛克繫留基地再見。"
+我們在帕洛克系留基地再見。"
 8,"TEXT_FESEST2021ADDPUBENPC_00713_LEOFARD_000_009","真是的……
 這身行頭要穿到什麼時候啊。"
 9,"TEXT_FESEST2021ADDPUBENPC_00713_STACIA_000_010","沒辦法，畢竟是交易對象給的東西嘛。
 而且對方還追加了報酬，再忍一下吧。"
 10,"TEXT_FESEST2021ADDPUBENPC_00713_UTATA_000_011","算了，就當是轉換心情吧。"
 11,"TEXT_FESEST2021ADDPUBENPC_00713_GODBERT_000_015","嚯嚯嚯！
-這不是我兒子的朋友 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下嗎！
+這不是我兒子的朋友<Highlight>ObjectParameter(1)</Highlight>閣下嗎！
 你也來參加彩蛋狩獵了啊！"
 12,"TEXT_FESEST2021ADDPUBENPC_00713_GODBERT_000_016","如果我兒子在這裡的話，
 就能一家人親親密密地一起參加彩蛋狩獵了。
@@ -39,7 +39,7 @@ int32,str,str
 15,"TEXT_FESEST2021ADDPUBENPC_00713_JULYAN_000_019","真是的！我可愛的兒子到底去哪裡了啊！"
 16,"TEXT_FESEST2021ADDPUBENPC_00713_EDITHA_000_025","哇，你是那個時候的護衛！
 你也來參加彩蛋狩獵了嗎？"
-17,"TEXT_FESEST2021ADDPUBENPC_00713_LASSENCHOU_000_026","因為米．凱特露天劇場要用來舉辦彩蛋狩獵，
+17,"TEXT_FESEST2021ADDPUBENPC_00713_LASSENCHOU_000_026","因為米·凱特露天劇場要用來舉辦彩蛋狩獵，
 所以她最近沒有來這邊開音樂會。
 自那次以來，她的演出再也沒遇到過危險了！"
 18,"TEXT_FESEST2021ADDPUBENPC_00713_LASSENCHOU_000_027","話雖如此，她畢竟也是人氣演奏家，不能掉以輕心！

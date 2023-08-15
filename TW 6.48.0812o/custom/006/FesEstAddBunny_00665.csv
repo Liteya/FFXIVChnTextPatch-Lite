@@ -14,7 +14,7 @@ int32,str,str
 你看起來也平安無事，真是太好了。"
 4,"TEXT_FESESTADDBUNNY_00665_GENBU_000_054","……呵呵呵，已經不記得有多久沒造訪過人類的村子了……
 面對即將到來的災難，得抓緊尋找有能力的人才行……"
-5,"TEXT_FESESTADDBUNNY_00665_SEIRYU_000_055","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+5,"TEXT_FESESTADDBUNNY_00665_SEIRYU_000_055","呀，<Highlight>ObjectParameter(1)</Highlight>。
 好久不見，都想你了。
 帶著一隻不能飛不能游的白貓移動，真是累死了。"
 6,"TEXT_FESESTADDBUNNY_00665_SEIRYU_000_056","話說這身打扮行動起來真是不方便。
@@ -60,9 +60,9 @@ int32,str,str
 我可沒這麼說過！"
 22,"TEXT_FESESTADDBUNNY_00665_ZUIZYU_000_072","(-狗一樣的聲音-)別動汪，笨鐮鼬，小心我詛咒你汪。
 在下面支撐的奴延馬上就要倒了汪。"
-23,"TEXT_FESESTADDBUNNY_00665_ZUIZYU_000_073","(-小貓熊一樣的聲音-)呀……不是一般的累啊……"
+23,"TEXT_FESESTADDBUNNY_00665_ZUIZYU_000_073","(-小熊貓一樣的聲音-)呀……不是一般的累啊……"
 24,"TEXT_FESESTADDBUNNY_00665_ZUIZYU_000_074","(-貓一樣的聲音-)雖然我知道，但還真的到處都是人喵……"
-25,"TEXT_FESESTADDBUNNY_00665_TATARU_000_100","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+25,"TEXT_FESESTADDBUNNY_00665_TATARU_000_100","啊，<Highlight>ObjectParameter(1)</Highlight>！
 居然能在這裡遇到，真是太巧了！"
 26,"TEXT_FESESTADDBUNNY_00665_TATARU_000_101","我身為拂曉接待員，是來找雙蛇黨的……
 可不知為什麼，看到好多兔子打扮的人
@@ -75,7 +75,7 @@ int32,str,str
 ……話說你們在這裡幹什麼？"
 30,"TEXT_FESESTADDBUNNY_00665_ALKAZOLKA_000_151","自從她的尼姆瘟疫治好後，
 就一直一邊修行一邊輾轉於各個地方。
-也沒有再遭到魔物獵人們的追逐！"
+也沒有再遭到怪物獵人們的追逐！"
 31,"TEXT_FESESTADDBUNNY_00665_SETOTO_000_152","是的，我終於可以像個正常的女孩子一樣，
 走在阿爾卡的身邊了！
 朗德內爾，看到復原後的我感覺如何？"
@@ -93,7 +93,7 @@ int32,str,str
 37,"TEXT_FESESTADDBUNNY_00665_GAIRHARD_000_204","我不是說了，拿著鋸子的可怕兔子朝自己走來的話，
 就算是大人也會害怕啊！
 偶爾你也要聽聽好朋友的話啊！"
-38,"TEXT_FESESTADDBUNNY_00665_ADKIRAGH_000_250","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+38,"TEXT_FESESTADDBUNNY_00665_ADKIRAGH_000_250","這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 別來無恙啊！
 我也是一如既往的漂亮對吧？"
 39,"TEXT_FESESTADDBUNNY_00665_ADKIRAGH_000_251","嗯？
@@ -113,5 +113,5 @@ int32,str,str
 44,"TEXT_FESESTADDBUNNY_00665_NERO_000_302","呵呵呵……等著吧，加隆德……
 你都忙到忘記追我了，
 那身為小兔子的我得送你一顆特大預言蛋才行。"
-45,"TEXT_FESESTADDBUNNY_00665_NERO_000_303","看到從裡面彈出的新型魔導炮塔，
+45,"TEXT_FESESTADDBUNNY_00665_NERO_000_303","看到從裡面彈出的新型魔導砲塔，
 你就知道現在根本不是遊手好閒的時候了！"

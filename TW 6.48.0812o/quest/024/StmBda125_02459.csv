@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_STMBDA125_02459_TODO_22",""
 47,"TEXT_STMBDA125_02459_TODO_23",""
 48,"TEXT_STMBDA125_02459_MEFFRID_000_001","在帝國社會，那些沒有市民權的階級被稱作「安」，是最底層。
-如果不繳納重稅就會被強迫乾重體力勞動，待遇和奴隸差不多。
+如果不繳納重稅就會被強迫幹重體力勞動，待遇和奴隸差不多。
 對於年輕女性來說更是難以承受。"
 49,"TEXT_STMBDA125_02459_LYSE_000_010","我還是決定跟上瓦克拉塔。"
 50,"TEXT_STMBDA125_02459_MEFFRID_000_011","等一下……你想要制止他嗎？！
@@ -60,7 +60,7 @@ int32,str,str
 現實的生活並不是說說那麼簡單……
 我只是想要保護他，至少讓他平安到達。"
 52,"TEXT_STMBDA125_02459_MEFFRID_000_013","這樣……
-那我們也一起去吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+那我們也一起去吧，<Highlight>ObjectParameter(1)</Highlight>。
 我們順著瓦克拉塔的蹤跡追上他吧。"
 53,"TEXT_STMBDA125_02459_SYSTEM_000_020","並不是和瓦克拉塔蹤跡相關的物品。
 去別的地方找找吧。"
@@ -72,7 +72,7 @@ int32,str,str
 57,"TEXT_STMBDA125_02459_MEFFRID_000_024","雖然很想立刻追上去，但前方就是帝國軍的巡邏範圍了。
 我們就先躲在那個岩石後面，窺探一下情況吧。"
 58,"TEXT_STMBDA125_02459_LYSE_000_025","來到帝國軍的據點附近還真是有點緊張……"
-59,"TEXT_STMBDA125_02459_MEFFRID_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快躲起來。
+59,"TEXT_STMBDA125_02459_MEFFRID_000_030","<Highlight>ObjectParameter(1)</Highlight>，快躲起來。
 在這裡隨時都有可能會遭遇帝國軍的巡邏部隊。
 我們就先在這裡觀察一下瓦克拉塔在不在吧。"
 60,"TEXT_STMBDA125_02459_LYSE_000_040","我為自己的無能為力感到不甘……

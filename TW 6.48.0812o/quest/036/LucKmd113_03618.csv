@@ -26,8 +26,8 @@ int32,str,str
 22,"TEXT_LUCKMD113_03618_SEQ_22",""
 23,"TEXT_LUCKMD113_03618_SEQ_23",""
 24,"TEXT_LUCKMD113_03618_TODO_00","和瑪格努斯對話"
-25,"TEXT_LUCKMD113_03618_TODO_01","將<Sheet(EventItem,2002565,0)/>交給于里昂熱"
-26,"TEXT_LUCKMD113_03618_TODO_02","和于里昂熱對話"
+25,"TEXT_LUCKMD113_03618_TODO_01","將<Sheet(EventItem,2002565,0)/>交給於里昂熱"
+26,"TEXT_LUCKMD113_03618_TODO_02","和於里昂熱對話"
 27,"TEXT_LUCKMD113_03618_TODO_03",""
 28,"TEXT_LUCKMD113_03618_TODO_04",""
 29,"TEXT_LUCKMD113_03618_TODO_05",""
@@ -58,9 +58,9 @@ int32,str,str
 不過……一定要讓瑪格努斯看看。"
 51,"TEXT_LUCKMD113_03618_GUTHJON_000_012","這是時隔三年的艾格娜的回歸……
 我想第一時間告訴他……"
-52,"TEXT_LUCKMD113_03618_THANCRED_000_013","那是自然，我們會儘快告訴他的。
+52,"TEXT_LUCKMD113_03618_THANCRED_000_013","那是自然，我們會盡快告訴他的。
 ……受你照顧了，古斯約恩。"
-53,"TEXT_LUCKMD113_03618_THANCRED_000_014"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們回絡尾聚落吧。
+53,"TEXT_LUCKMD113_03618_THANCRED_000_014","<Highlight>ObjectParameter(1)</Highlight>，我們回絡尾聚落吧。
 大家都在等著這塊石頭呢！"
 54,"TEXT_LUCKMD113_03618_THANCRED_000_020","要怎麼跟他說……"
 55,"TEXT_LUCKMD113_03618_GUTHJON_000_025","一定要把獅目石給瑪格努斯看看。
@@ -88,12 +88,12 @@ int32,str,str
 到時候你一定要來看。"
 68,"TEXT_LUCKMD113_03618_THANCRED_000_042","這塊石頭肯定也是為了讓你能看到那副光景，
 才從黑暗中現身的。"
-69,"TEXT_LUCKMD113_03618_THANCRED_000_043","把獅目石拿去給于里昂熱吧，
+69,"TEXT_LUCKMD113_03618_THANCRED_000_043","把獅目石拿去給於里昂熱吧，
 抱歉，這事就交給你了。"
 70,"TEXT_LUCKMD113_03618_THANCRED_000_050","這樣就能繼續前進了……終於。"
 71,"TEXT_LUCKMD113_03618_RYNE_000_055","對不起……我一直在發呆，
-連 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 出門了都不知道……"
-72,"TEXT_LUCKMD113_03618_RYNE_000_056","我讓于里昂熱一邊教我，
+連<Highlight>ObjectParameter(1)</Highlight>出門了都不知道……"
+72,"TEXT_LUCKMD113_03618_RYNE_000_056","我讓於里昂熱一邊教我，
 一邊和他做好了替換塔羅斯核心的準備。
 希望這樣可以讓它動起來……"
 73,"TEXT_LUCKMD113_03618_THAFFE_000_060","你們找到了做核心的石頭？！
@@ -101,7 +101,7 @@ int32,str,str
 不過這可真是個奇蹟……"
 74,"TEXT_LUCKMD113_03618_JERYK_000_065","厲害，太厲害了！沒想到會有這一天！
 來來，快點把石頭裝上去吧！"
-75,"TEXT_LUCKMD113_03618_MAGNUS_000_070","…………。"
+75,"TEXT_LUCKMD113_03618_MAGNUS_000_070","……"
 76,"TEXT_LUCKMD113_03618_URIANGER_000_080","歡迎回來。
 你們好像找到適合做核心的石頭了。"
 77,"TEXT_LUCKMD113_03618_URIANGER_000_081","我也和薩夫、傑瑞克還有敏菲利亞一起
@@ -118,9 +118,9 @@ int32,str,str
 82,"TEXT_LUCKMD113_03618_MAGNUS_000_100","你們……能修理成這樣真的是嚇了我一跳。"
 83,"TEXT_LUCKMD113_03618_THAFFE_000_105","能和老大一起見證這個瞬間真是太好了。
 我對你們感激不盡！"
-84,"TEXT_LUCKMD113_03618_JERYK_000_110","哈啊……怎麼辦啊，礦車可以恢復運作了！
+84,"TEXT_LUCKMD113_03618_JERYK_000_110","哈啊……怎麼辦啊，礦車可以恢復運行了！
 我已經忍不住笑個不停了啊！"
-85,"TEXT_LUCKMD113_03618_URIANGER_000_120"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，久等了。
+85,"TEXT_LUCKMD113_03618_URIANGER_000_120","<Highlight>ObjectParameter(1)</Highlight>，久等了。
 敏菲利亞應該也收拾好了。"
 86,"TEXT_LUCKMD113_03618_URIANGER_000_121","對了……去努貝依舊礦山的時候，
 有沒有和桑克瑞德談談？"

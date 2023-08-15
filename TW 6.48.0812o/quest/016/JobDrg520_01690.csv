@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBDRG520_01690_SEQ_00","阿德內爾占星臺的雅伯里克十分擔心厄絲蒂安。"
+0,"TEXT_JOBDRG520_01690_SEQ_00","阿德內爾占星台的雅伯里克十分擔心厄絲蒂安。"
 1,"TEXT_JOBDRG520_01690_SEQ_01","接受了雅伯里克的委託，準備開始對厄絲蒂安進行訓練。和庫爾札斯西部高地的征龍像附近的厄絲蒂安談談。"
 2,"TEXT_JOBDRG520_01690_SEQ_02","打倒了試圖襲擊倒在地上的厄絲蒂安的敵人。救助征龍像附近的厄絲蒂安。"
 3,"TEXT_JOBDRG520_01690_SEQ_03","在救助了厄絲蒂安之後，她委託冒險者為她做示範。前往庫爾札斯西部高地的黑鐵大橋以西，在<Sheet(EObj,2006182,0)/>張望並討伐出現的龍族眷屬。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_JOBDRG520_01690_SEQ_21",""
 22,"TEXT_JOBDRG520_01690_SEQ_22",""
 23,"TEXT_JOBDRG520_01690_SEQ_23",""
-24,"TEXT_JOBDRG520_01690_TODO_00","與征龍像附近的厄絲蒂安會合"
+24,"TEXT_JOBDRG520_01690_TODO_00","與征龍像附近的厄絲蒂安匯合"
 25,"TEXT_JOBDRG520_01690_TODO_01","救助厄絲蒂安"
 26,"TEXT_JOBDRG520_01690_TODO_02","在<Sheet(EObj,2006182,0)/>張望 討伐出現的龍族眷屬"
 27,"TEXT_JOBDRG520_01690_TODO_03","和厄絲蒂安對話"
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_JOBDRG520_01690_TODO_21",""
 46,"TEXT_JOBDRG520_01690_TODO_22",""
 47,"TEXT_JOBDRG520_01690_TODO_23",""
-48,"TEXT_JOBDRG520_01690_ALBERIC_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，差不多做好指導厄絲蒂安的準備了吧？
+48,"TEXT_JOBDRG520_01690_ALBERIC_000_000","<Highlight>ObjectParameter(1)</Highlight>，差不多做好指導厄絲蒂安的準備了吧？
 在對她進行指導時，身為龍騎士的你或許會有新的發現和體會。"
 49,"TEXT_JOBDRG520_01690_ALBERIC_000_001","話雖如此，我還是希望你能戒驕戒躁，踏實地著手去做。
 她是一名優秀的騎士，希望你能顧慮到她的自尊心。
@@ -71,7 +71,7 @@ int32,str,str
 56,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_012","在一場場殘酷的戰爭中，
 龍騎士團失去了一個又一個人才，損失慘重。
 ……所以我才想要變強，無論如何都要減少犧牲！"
-57,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+57,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_013","<Highlight>ObjectParameter(1)</Highlight>……
 能不能再為我展示一下你戰鬥的英姿呢？
 無論如何我都想要掌握你槍法中的精髓……"
 58,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_014","……非常感謝。

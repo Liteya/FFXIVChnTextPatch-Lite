@@ -6,9 +6,9 @@ int32,int32,int32,byte,byte,byte,byte,byte,int32,str,str
 消費MP：<Value>IntegerParameter(3)</Value>　リキャストターン：<Value>IntegerParameter(4)</Value>"
 2,10,8,40,4,3,3,2,25,"ポンポンプチメテオ","モーグリから<Value>IntegerParameter(2)</Value>マス前方の1マスとその周囲の敵に<Value>IntegerParameter(1)</Value>ダメージを与える。
 消費MP：<Value>IntegerParameter(3)</Value>　リキャストターン：<Value>IntegerParameter(4)</Value>"
-3,15,0,80,10,0,0,3,50,"絨絨隕石","すべての敵に<Value>IntegerParameter(1)</Value>ダメージを与える。
+3,15,0,80,10,0,0,3,50,"ポンポンメテオ","すべての敵に<Value>IntegerParameter(1)</Value>ダメージを与える。
 消費MP：<Value>IntegerParameter(3)</Value>　リキャストターン：<Value>IntegerParameter(4)</Value>"
-4,50,0,10,1,0,0,4,0,"絨絨治療","モーグリのHPを<Value>IntegerParameter(1)</Value>回復する。
+4,50,0,10,1,0,0,4,0,"ポンポンケアル","モーグリのHPを<Value>IntegerParameter(1)</Value>回復する。
 消費MP：<Value>IntegerParameter(3)</Value>　リキャストターン：<Value>IntegerParameter(4)</Value>"
 5,0,0,20,3,0,0,5,0,"ポンポンエスナ","モーグリにかかった死の宣告以外の弱体効果をすべて解除する。
 消費MP：<Value>IntegerParameter(3)</Value>　リキャストターン：<Value>IntegerParameter(4)</Value>"

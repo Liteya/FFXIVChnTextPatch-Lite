@@ -65,7 +65,7 @@ int32,str,str
 55,"TEXT_STMBDA308_02484_SYSTEM_000_041","立刻朝著翠水鄉前進吧！
 可以從圓形的出入口進入水中的城邦。"
 56,"TEXT_STMBDA308_02484_SYSTEM_000_042","另外，當浮出水面後，
-在可潛水的地方點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>Ctrl＋空格鍵<UIForeground>01</UIForeground><Else/><CommandIcon(9)/>鍵</If>，
+在可潛水的地方點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>Ctrl＋空格鍵<UIForeground>01</UIForeground><Else/><CommandIcon(9)/>鍵</If>，
 即可再次潛水。"
 57,"TEXT_STMBDA308_02484_SYSTEM_000_043","借到了坐騎「斑鰩」。
 從斑鰩身上下來後，和碧玉水的算盤對話，

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ313_01805_SEQ_21",""
 22,"TEXT_HEAVNZ313_01805_SEQ_22",""
 23,"TEXT_HEAVNZ313_01805_SEQ_23",""
-24,"TEXT_HEAVNZ313_01805_TODO_00","從<Sheet(BNpcName,3578,0)/>身上獲得<Sheet(EventItem,2001627,0)/>"
+24,"TEXT_HEAVNZ313_01805_TODO_00","從<Sheet(BNpcName,3578,0)/>身上獲取<Sheet(EventItem,2001627,0)/>"
 25,"TEXT_HEAVNZ313_01805_TODO_01","將<Sheet(EventItem,2001627,0)/>交給骨頜族離群者"
 26,"TEXT_HEAVNZ313_01805_TODO_02","和講故事對話"
 27,"TEXT_HEAVNZ313_01805_TODO_03",""
@@ -65,7 +65,7 @@ int32,str,str
 人類，你能不能幫我弄來3份<Sheet(EventItem,2001627,0)/>啊？"
 54,"TEXT_HEAVNZ313_01805_GOODGNATHA01804_000_020","嘁嘁嘁……我要好好感謝同伴們……
 人類，你能不能幫我弄來3份<Sheet(EventItem,2001627,0)/>啊？"
-55,"TEXT_HEAVNZ313_01805_STORYTELLER_000_021","他託你辦什麼事了？
+55,"TEXT_HEAVNZ313_01805_STORYTELLER_000_021","他托你辦什麼事了？
 請你盡力幫助他吧……嘁嘁嘁。"
 56,"TEXT_HEAVNZ313_01805_IDATEN_000_022","嘁嘁嘁……
 我想和新同胞好好相處。"

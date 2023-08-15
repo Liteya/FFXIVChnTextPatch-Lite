@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB008_00815_SEQ_00","恬靜路營地的鬼哭隊士兵朗德內爾想要就獲得美味的辦法給冒險者一些建議。"
+0,"TEXT_GAIUSB008_00815_SEQ_00","恬靜路營地的鬼哭隊士兵朗德內爾想要就獲取美味的辦法給冒險者一些建議。"
 1,"TEXT_GAIUSB008_00815_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往恬靜路營地找朗德內爾重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。"
-2,"TEXT_GAIUSB008_00815_SEQ_02","成功討伐了<Sheet(BNpcName,2058,0)/>。獲得<Sheet(EventItem,2000638,0)/>。"
+2,"TEXT_GAIUSB008_00815_SEQ_02","成功討伐了<Sheet(BNpcName,2058,0)/>。獲取<Sheet(EventItem,2000638,0)/>。"
 3,"TEXT_GAIUSB008_00815_SEQ_03","獲得了<Sheet(EventItem,2000638,0)/>。將其交給恬靜路營地的朗德內爾。"
-4,"TEXT_GAIUSB008_00815_SEQ_04","<Sheet(BNpcName,2058,0)/>的出現好像讓朗德內爾很吃驚。似乎有必要馬上加強低徑附近的警備……"
+4,"TEXT_GAIUSB008_00815_SEQ_04","<Sheet(BNpcName,2058,0)/>的出現好像讓朗德內爾很吃驚。貌似有必要馬上加強低徑附近的警備……"
 5,"TEXT_GAIUSB008_00815_SEQ_05",""
 6,"TEXT_GAIUSB008_00815_SEQ_06",""
 7,"TEXT_GAIUSB008_00815_SEQ_07",""
@@ -88,5 +88,5 @@ int32,str,str
 ……你、你說什麼？！"
 61,"TEXT_GAIUSB008_00815_LANDENEL_000_023","<Sheet(BNpcName,2058,0)/>羽化了？！
 居然出這種事！
-一定要趕緊加強低徑的警備了啊！"
+必須要趕緊加強低徑的警備了啊！"
 62,"TEXT_GAIUSB008_00815_POP_MESSAGE_000","察覺到了敵人的氣息！"

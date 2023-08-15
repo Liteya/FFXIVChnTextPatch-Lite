@@ -4,8 +4,8 @@ int32,str,str
 0,"TEXT_AKTKRA101_04475_SEQ_00","七賢人庭園的尼姆吉吉在等待冒險者。"
 1,"TEXT_AKTKRA101_04475_SEQ_01","和尼姆吉吉進行了交談。她說有樣東西想讓冒險者幫忙看看。和迷津無路總部的克勞狄恩談談。"
 2,"TEXT_AKTKRA101_04475_SEQ_02","從神秘的水晶中得知了危機正在逼近萬魔殿。為了回到過去，前往水晶都觀星室的<Sheet(EObj,2012425,0)/>。"
-3,"TEXT_AKTKRA101_04475_SEQ_03","彷彿是在和水晶的光芒相呼應一般，大門打開了。回到了過去，出現在眼前的是厄爾庇斯的風景，還有一個神秘的青年。和厄爾庇斯朝露之庭的泰美斯談談。"
-4,"TEXT_AKTKRA101_04475_SEQ_04","自稱泰美斯的青年說，萬魔殿很有可能發生了什麼不同尋常的事。他對冒險者頗感興趣，似乎想提出一個方案。"
+3,"TEXT_AKTKRA101_04475_SEQ_03","彷彿是在和水晶的光芒相呼應一般，大門打開了。回到了過去，出現在眼前的是厄爾庇斯的風景，還有一個神秘的青年。和厄爾庇斯汐沫庭的特彌斯談談。"
+4,"TEXT_AKTKRA101_04475_SEQ_04","自稱特彌斯的青年說，萬魔殿很有可能發生了什麼不同尋常的事。他對冒險者頗感興趣，似乎想提出一個方案。"
 5,"TEXT_AKTKRA101_04475_SEQ_05",""
 6,"TEXT_AKTKRA101_04475_SEQ_06",""
 7,"TEXT_AKTKRA101_04475_SEQ_07",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_AKTKRA101_04475_SEQ_23",""
 24,"TEXT_AKTKRA101_04475_TODO_00","和無路總部的克勞狄恩對話"
 25,"TEXT_AKTKRA101_04475_TODO_01","前往觀星室的<Sheet(EObj,2012425,0)/>"
-26,"TEXT_AKTKRA101_04475_TODO_02","和泰美斯對話"
+26,"TEXT_AKTKRA101_04475_TODO_02","和特彌斯對話"
 27,"TEXT_AKTKRA101_04475_TODO_03",""
 28,"TEXT_AKTKRA101_04475_TODO_04",""
 29,"TEXT_AKTKRA101_04475_TODO_05",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_AKTKRA101_04475_TODO_23",""
 48,"TEXT_AKTKRA101_04475_NEMJIJI_000_000","呵呵，呵呵呵呵……和我的推測一樣！
 只要在這裡就能遇見你！
-消滅末日的冒險者—— <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+消滅末日的冒險者——<Highlight>ObjectParameter(1)</Highlight>。"
 49,"TEXT_AKTKRA101_04475_NEMJIJI_000_001","不好意思嚇到你了，我的名字是尼姆吉吉。
 我是克勞狄恩老師的助手，
 負責協助他在尋因星晶鏡觀測和研究星海。"
@@ -62,9 +62,9 @@ int32,str,str
 如果你願意幫忙的話，請去總部找他。"
 52,"TEXT_AKTKRA101_04475_NEMJIJI_000_005","謝謝你願意過來，
 請和克勞狄恩老師進行詳談。"
-53,"TEXT_AKTKRA101_04475_RUISSENAUD_000_010","唔哇，大名鼎鼎的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就在我面前！
+53,"TEXT_AKTKRA101_04475_RUISSENAUD_000_010","唔哇，大名鼎鼎的<Highlight>ObjectParameter(1)</Highlight>就在我面前！
 不愧是尼姆吉吉前輩，真的把你找來了啊！"
-54,"TEXT_AKTKRA101_04475_CLAUDIEN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你特地跑一趟。
+54,"TEXT_AKTKRA101_04475_CLAUDIEN_000_030","<Highlight>ObjectParameter(1)</Highlight>，感謝你特地跑一趟。
 想必你已經聽尼姆吉吉說過了，
 我是克勞狄恩，從事研究星海的工作。"
 55,"TEXT_AKTKRA101_04475_CLAUDIEN_000_031","哎呀，真是緊張啊……
@@ -73,9 +73,9 @@ int32,str,str
 56,"TEXT_AKTKRA101_04475_NEMJIJI_000_032","老師他太謙虛了，
 其實他是整個薩雷安中觀測星海深度最深的研究者，
 是星海研究的第一人。"
-57,"TEXT_AKTKRA101_04475_CLAUDIEN_000_033","我的這點成就根本無法與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 相提並論。
+57,"TEXT_AKTKRA101_04475_CLAUDIEN_000_033","我的這點成就根本無法與<Highlight>ObjectParameter(1)</Highlight>相提並論。
 事實就是，我們現在遇到了難解的謎題，
-需要 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來出手相助。"
+需要<Highlight>ObjectParameter(1)</Highlight>來出手相助。"
 58,"TEXT_AKTKRA101_04475_CLAUDIEN_000_034","我們曾在龍堡內陸低地建造了顛倒塔，
 並在那裡與星球的意志——海德林邂逅，得知了末日的預言。"
 59,"TEXT_AKTKRA101_04475_CLAUDIEN_000_035","在那之後，我們將研究場所轉移至迷津，
@@ -87,7 +87,7 @@ int32,str,str
 而且最驚人的是，它呈現出了人造物的形狀，
 顯然不像自然形成的產物。"
 62,"TEXT_AKTKRA101_04475_CLAUDIEN_100_037","不過，那時我並沒有繼續分析調查下去……
-由於一定要優先執行星外大撤退的計劃，
+由於必須要優先執行星外大撤退的計劃，
 調查結晶一事便被暫時擱置了。"
 63,"TEXT_AKTKRA101_04475_CLAUDIEN_000_038","如今末日的威脅已不復存在，我終於可以繼續調查結晶了。
 為此，我想尋求你的幫助。"
@@ -96,7 +96,7 @@ int32,str,str
 任何想法都可以，請務必幫幫忙！"
 65,"TEXT_AKTKRA101_04475_CLAUDIEN_000_198","請看，這就是那個結晶。"
 66,"TEXT_AKTKRA101_04475_CLAUDIEN_000_199","在你的記憶和知識中，有沒有類似的東西呢？
-無論鉅細，都請務必說來聽聽！"
+無論巨細，都請務必說來聽聽！"
 67,"TEXT_AKTKRA101_04475_Q1_000_100","要說什麼？"
 68,"TEXT_AKTKRA101_04475_A1_000_100","這是封印著記憶的水晶"
 69,"TEXT_AKTKRA101_04475_A2_000_100","我知道有人也擁有這種水晶"
@@ -113,7 +113,7 @@ int32,str,str
 74,"TEXT_AKTKRA101_04475_NEMJIJI_000_204","如果我們弄點靈魂水晶和碎晶，將它們進行比較，
 說不定水晶的調查就會有所進展了。"
 75,"TEXT_AKTKRA101_04475_CLAUDIEN_000_205","無影的記憶……十四人委員會的記憶啊……"
-76,"TEXT_AKTKRA101_04475_CLAUDIEN_000_206","但是 <Highlight>ObjectParameter(1)</Highlight> 說<If(PlayerParameter(4))>她<Else/>他</If>看到的水晶上面
+76,"TEXT_AKTKRA101_04475_CLAUDIEN_000_206","但是<Highlight>ObjectParameter(1)</Highlight>說<If(PlayerParameter(4))>她<Else/>他</If>看到的水晶上面
 應該都刻著十四人委員會席位的標誌……
 那……這個記憶的擁有者……"
 77,"TEXT_AKTKRA101_04475_CLAUDIEN_000_207","不，比起這個……它的主人留下記憶的目的到底是……
@@ -137,9 +137,9 @@ int32,str,str
 86,"TEXT_AKTKRA101_04475_CLAUDIEN_000_216","萬魔殿……
 我從來沒有聽說過這個詞……
 不過從字面來看的話，可能是「匯聚所有惡魔的宮殿」吧。"
-87,"TEXT_AKTKRA101_04475_CLAUDIEN_000_217","尼姆吉吉、呂斯諾，請你們儘快收集一些靈魂水晶和碎晶，
+87,"TEXT_AKTKRA101_04475_CLAUDIEN_000_217","尼姆吉吉、呂斯諾，請你們盡快收集一些靈魂水晶和碎晶，
 我們要執行剛才提出的方案，找出這個水晶中還有什麼其他記憶。"
-88,"TEXT_AKTKRA101_04475_CLAUDIEN_000_218","然後， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+88,"TEXT_AKTKRA101_04475_CLAUDIEN_000_218","然後，<Highlight>ObjectParameter(1)</Highlight>……
 我想再委託你一件事……
 就是去找這個對我們發出警告的人！"
 89,"TEXT_AKTKRA101_04475_CLAUDIEN_000_219","根據你的情報可以推測出，
@@ -147,11 +147,11 @@ int32,str,str
 90,"TEXT_AKTKRA101_04475_CLAUDIEN_000_220","既然如此，我認為要想調查水晶中提到的萬魔殿，
 就需要前往世界分離之前的時代。"
 91,"TEXT_AKTKRA101_04475_CLAUDIEN_000_221","而能夠做到這一點的只有一個人。
-那就是透過異世界前往了過去的世界，並且解開了末日之謎的你。"
+那就是通過異世界前往了過去的世界，並且解開了末日之謎的你。"
 92,"TEXT_AKTKRA101_04475_CLAUDIEN_000_222","說實話，我本以為在過去和現在之間往返是無稽之談，
 但看到你的表情我就明白了，這一切都是真的。"
 93,"TEXT_AKTKRA101_04475_CLAUDIEN_000_223","那麼……就拜託你了！
-請你再度前往第一世界，透過那裡回到過去，
+請你再度前往第一世界，通過那裡回到過去，
 調查是誰發出了警告，以及萬魔殿究竟為何物！"
 94,"TEXT_AKTKRA101_04475_CLAUDIEN_000_224","非常感謝……
 在調查期間你就帶著那個水晶吧，
@@ -165,14 +165,14 @@ int32,str,str
 101,"TEXT_AKTKRA101_04475_THEMIS_000_301","(-眼神溫和的青年-)你是……"
 102,"TEXT_AKTKRA101_04475_THEMIS_000_302","(-眼神溫和的青年-)抱歉，我還以為你是我朋友，因為你們兩個感覺很像……
 但看來是我認錯人了。"
-103,"TEXT_AKTKRA101_04475_THEMIS_000_303","我叫泰美斯。
+103,"TEXT_AKTKRA101_04475_THEMIS_000_303","我叫特彌斯。
 如果你就是<If(PlayerParameter(4))>她<Else/>他</If>所說的會墜落於此的「天星」，
 那我就是在等你的人。"
 104,"TEXT_AKTKRA101_04475_THEMIS_000_320","我再更加詳細地介紹一下自己吧。
 從我沒有戴面具這一點你應該就能猜到，
 我並不是厄爾庇斯的人。"
 105,"TEXT_AKTKRA101_04475_THEMIS_000_321","我是為了進行某項調查而來到這裡的，
-不過，確實沒想到會被從天而降的某人撞倒。"
+不過，屬實沒想到會被從天而降的某人撞倒。"
 106,"TEXT_AKTKRA101_04475_THEMIS_000_322","那麼……登場方式如此有趣的你又是什麼人呢？
 仔細一看的話，你和人類似乎還不太一樣。"
 107,"TEXT_AKTKRA101_04475_Q2_000_200","要說什麼？"

@@ -73,11 +73,11 @@ int32,str,str
 56,"TEXT_STMBDZ995_02889_WICHARD_000_007","你說的地方在北邊郊外。
 叫彷徨之劍紀念碑。
 有時候人們會為客死他鄉的人供奉生前遺留下來的物品。"
-57,"TEXT_STMBDZ995_02889_BERTLIANA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，準備好了嗎？"
+57,"TEXT_STMBDZ995_02889_BERTLIANA_000_010","<Highlight>ObjectParameter(1)</Highlight>，準備好了嗎？"
 58,"TEXT_STMBDZ995_02889_BERTLIANA_000_011","我記得韋查德先生說，
 紀念碑所在的彷徨之劍紀念碑，就在北邊郊外。
 我們這就過去吧。"
-59,"TEXT_STMBDZ995_02889_BERTLIANA_100_020","（★未使用／削除予定★）"
+59,"TEXT_STMBDZ995_02889_BERTLIANA_100_020","（★未使用／預定刪除★）"
 60,"TEXT_STMBDZ995_02889_BERTLIANA_000_020","威爾雷德，你在看嗎？
 眼前就是我們夢寐以求的景色。"
 61,"TEXT_STMBDZ995_02889_BERTLIANA_000_021","崇山峻嶺，雲海籠罩，還有聳立的城堡……

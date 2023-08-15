@@ -56,9 +56,9 @@ int32,str,str
 46,"TEXT_BANVAN108_02178_TODO_22",""
 47,"TEXT_BANVAN108_02178_TODO_23",""
 48,"TEXT_BANVAN108_02178_MUNAVANU_000_000","真是的、真是的，他們把袞杜族的土地當什麼了！
-哦哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你聽我說！"
+哦哦，<Highlight>ObjectParameter(1)</Highlight>，你聽我說！"
 49,"TEXT_BANVAN108_02178_MUNAVANU_000_001","其實，有溫杜族的青年在我們袞杜集落開設了酒宴，
-應該、他們應該是背著長老在偷懶，
+估計、估計他們是背著長老在偷懶，
 竟然在已經變為廢墟的袞杜集落設宴，真是過分！"
 50,"TEXT_BANVAN108_02178_MUNAVANU_000_002","請你務必、務必將他們趕走。
 只要讓那些鳥頭嘗一下騰雲蛇的突風，
@@ -66,7 +66,7 @@ int32,str,str
 51,"TEXT_BANVAN108_02178_MUNAVANU_000_003","騰雲蛇我已經讓魯納瓦努準備好了，
 你去袞杜集落之前跟魯納瓦努說一聲就可以了。
 那麼，就像風和日麗的陽光一樣，拜託你了！"
-52,"TEXT_BANVAN108_02178_LUNAVANU_000_010","我都聽說了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+52,"TEXT_BANVAN108_02178_LUNAVANU_000_010","我都聽說了，<Highlight>ObjectParameter(1)</Highlight>！
 請用我飼養的騰雲蛇的突風，
 將冷酷的溫杜族的鳥頭們都吹走吧！"
 53,"TEXT_BANVAN108_02178_LUNAVANU_000_011","想要再次騎上騰雲蛇的話，就跟我說。
@@ -87,9 +87,9 @@ int32,str,str
 哎呀呀……好像有點喝多了呢。
 睡意就像暴風一樣不可抗拒……呃……"
 59,"TEXT_BANVAN108_02178_YOUNGVANUC02178_000_025","什麼？人類的襲擊？
-在我想睡的時候用突風襲擊我……太卑鄙了！
+在我犯睏的時候用突風襲擊我……太卑鄙了！
 這如同墜入雲海的恥辱我定會還給你的……給我記住了！！"
-60,"TEXT_BANVAN108_02178_MUNAVANU_000_030","辛苦你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+60,"TEXT_BANVAN108_02178_MUNAVANU_000_030","辛苦你了，<Highlight>ObjectParameter(1)</Highlight>！
 看來你成功趕走了溫杜族的那群鳥頭。
 感謝你、感謝你，就像感謝孕育自然的陽光一樣。"
 61,"TEXT_BANVAN108_02178_MUNAVANU_000_031","然後、然後，非常抱歉。
@@ -97,7 +97,7 @@ int32,str,str
 可那片土地已經沾滿了太多鮮血，我不想讓那裡再被弄髒。"
 62,"TEXT_BANVAN108_02178_MUNAVANU_000_032","而且，被騰雲蛇的突風吹走對瓦努族來說是莫大的恥辱，
 就好像從浮島墜落雲海的猴面雀一樣。
-希望透過這次教訓，那些鳥頭能長點記性……"
+希望通過這次教訓，那些鳥頭能長點記性……"
 63,"TEXT_BANVAN108_02178__YOUNGVANUA02178_000_021","（★未使用／削除予定★）"
 64,"TEXT_BANVAN108_02178__YOUNGVANUAB02178_000_022","（★未使用／削除予定★）"
 65,"TEXT_BANVAN108_02178__YOUNGVANUB02178_000_023","（★未使用／削除予定★）"

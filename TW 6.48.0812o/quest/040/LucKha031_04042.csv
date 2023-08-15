@@ -49,10 +49,10 @@ int32,str,str
 45,"TEXT_LUCKHA031_04042_TODO_21",""
 46,"TEXT_LUCKHA031_04042_TODO_22",""
 47,"TEXT_LUCKHA031_04042_TODO_23",""
-48,"TEXT_LUCKHA031_04042_AUGEBERT_000_000","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_LUCKHA031_04042_AUGEBERT_000_000","喲，<Highlight>ObjectParameter(1)</Highlight>！
 你來了啊！"
 49,"TEXT_LUCKHA031_04042_AUGEBERT_000_001","終於……
-終於昇歌文化區重建完成了！"
+終於升歌文化區重建完成了！"
 50,"TEXT_LUCKHA031_04042_AUGEBERT_000_002","這個區域是為了能讓人民
 過上豐富的文化生活而打造的。"
 51,"TEXT_LUCKHA031_04042_AUGEBERT_000_003","不分貴族與平民，也沒有地位身份之別，
@@ -66,7 +66,7 @@ int32,str,str
 55,"TEXT_LUCKHA031_04042_ENIE_000_007","呵呵，我們其實也想和參與了重建工程的英雄大人聊聊。"
 56,"TEXT_LUCKHA031_04042_FLOTPASSANT_000_008","（★未使用／削除予定★）"
 57,"TEXT_LUCKHA031_04042_POTKIN_000_009","是這樣的，我是來告訴英雄大人一聲，
-今後我還會繼續負責點檢、補充所需資材以及物資相關的繳納工作！
+今後我還會繼續負責點檢、補充所需資材以及物資相關的交納工作！
 希望英雄大人以後常來找我！"
 58,"TEXT_LUCKHA031_04042_LIZBETH_000_010","英雄大人要是想來庫啵好運道試試手氣的話，
 請務必來找我哦！"

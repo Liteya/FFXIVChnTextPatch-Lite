@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBSMN350_01092_SEQ_00","碧企鵝瀑布的雅．蜜特拉希望冒險者挑戰新的苦修。"
-1,"TEXT_JOBSMN350_01092_SEQ_01","接受了雅．蜜特拉的委託。前往北部林區的榿木泉西南地區，和雅．蜜特拉對話，並打倒出現的召喚獸。"
-2,"TEXT_JOBSMN350_01092_SEQ_02","和雅．蜜特拉進行了交談，並打倒了出現的召喚獸。在北部林區的榿木泉西南地區，和雅．蜜特拉對話。"
-3,"TEXT_JOBSMN350_01092_SEQ_03","和雅．蜜特拉進行了交談。向格里達尼亞碧企鵝瀑布的雅．蜜特拉報告。"
-4,"TEXT_JOBSMN350_01092_SEQ_04","向雅．蜜特拉報告完畢。雅．蜜特拉表示會找人幫忙，查明在榿木泉遇見的襲擊者的身份。
+0,"TEXT_JOBSMN350_01092_SEQ_00","碧企鵝瀑布的雅·蜜特拉希望冒險者挑戰新的苦修。"
+1,"TEXT_JOBSMN350_01092_SEQ_01","接受了雅·蜜特拉的委託。前往北部林區的榿木泉西南地區，和雅·蜜特拉對話，並打倒出現的召喚獸。"
+2,"TEXT_JOBSMN350_01092_SEQ_02","和雅·蜜特拉進行了交談，並打倒了出現的召喚獸。在北部林區的榿木泉西南地區，和雅·蜜特拉對話。"
+3,"TEXT_JOBSMN350_01092_SEQ_03","和雅·蜜特拉進行了交談。向格里達尼亞碧企鵝瀑布的雅·蜜特拉報告。"
+4,"TEXT_JOBSMN350_01092_SEQ_04","向雅·蜜特拉報告完畢。雅·蜜特拉表示會找人幫忙，查明在榿木泉遇見的襲擊者的身份。
 
-※召喚師的等級達到40級以上時，可以從雅．蜜特拉那裡領取下一個召喚師任務。"
+※召喚師的等級達到40級以上時，可以從雅·蜜特拉那裡領取下一個召喚師任務。"
 5,"TEXT_JOBSMN350_01092_SEQ_05",""
 6,"TEXT_JOBSMN350_01092_SEQ_06",""
 7,"TEXT_JOBSMN350_01092_SEQ_07",""
@@ -27,9 +27,9 @@ int32,str,str
 21,"TEXT_JOBSMN350_01092_SEQ_21",""
 22,"TEXT_JOBSMN350_01092_SEQ_22",""
 23,"TEXT_JOBSMN350_01092_SEQ_23",""
-24,"TEXT_JOBSMN350_01092_TODO_00","和榿木泉西南地區的雅．蜜特拉對話"
-25,"TEXT_JOBSMN350_01092_TODO_01","和雅．蜜特拉對話"
-26,"TEXT_JOBSMN350_01092_TODO_02","向碧企鵝瀑布的雅．蜜特拉報告"
+24,"TEXT_JOBSMN350_01092_TODO_00","和榿木泉西南地區的雅·蜜特拉對話"
+25,"TEXT_JOBSMN350_01092_TODO_01","和雅·蜜特拉對話"
+26,"TEXT_JOBSMN350_01092_TODO_02","向碧企鵝瀑布的雅·蜜特拉報告"
 27,"TEXT_JOBSMN350_01092_TODO_03",""
 28,"TEXT_JOBSMN350_01092_TODO_04",""
 29,"TEXT_JOBSMN350_01092_TODO_05",""
@@ -51,12 +51,12 @@ int32,str,str
 45,"TEXT_JOBSMN350_01092_TODO_21",""
 46,"TEXT_JOBSMN350_01092_TODO_22",""
 47,"TEXT_JOBSMN350_01092_TODO_23",""
-48,"TEXT_JOBSMN350_01092_YMHITRA_000_060","我聽說土之蠻神「泰坦」乃利姆薩．羅敏薩的巨大威脅。
+48,"TEXT_JOBSMN350_01092_YMHITRA_000_060","我聽說土之蠻神「泰坦」乃利姆薩·羅敏薩的巨大威脅。
 你去參加討伐戰，打倒泰坦吧。"
 49,"TEXT_JOBSMN350_01092_YMHITRA_000_061","為了創造召喚獸，
 必須打倒蠻神，並沐浴蠻神的乙太。"
 50,"TEXT_JOBSMN350_01092_SYSTEM_000_062","討伐蠻神泰坦後，
-可以從雅．蜜特拉那裡領取下一個召喚師任務。"
+可以從雅·蜜特拉那裡領取下一個召喚師任務。"
 51,"TEXT_JOBSMN350_01092_YMHITRA_000_000","你成功討伐了泰坦，
 現在可以挑戰下一個召喚獸苦修了。"
 52,"TEXT_JOBSMN350_01092_YMHITRA_000_001","那就開始土之苦修吧。
@@ -66,7 +66,7 @@ int32,str,str
 那地方在遭受第七靈災的衝擊後，顯露出了古代地層，
 因此那裡土屬性之力相當活躍。"
 54,"TEXT_JOBSMN350_01092_YMHITRA_000_003","那裡是最適合進行土之苦修的地方。
-我們走吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+我們走吧，<Highlight>ObjectParameter(1)</Highlight>。"
 55,"TEXT_JOBSMN350_01092_YMHITRA_000_010","這次的土之苦修和先前完成的火之苦修，
 它們本質上是相同的儀式。"
 56,"TEXT_JOBSMN350_01092_YMHITRA_000_011","你要進行冥想，想像自己的乙太與該地的土屬性相近。
@@ -85,7 +85,7 @@ int32,str,str
 63,"TEXT_JOBSMN350_01092_YMHITRA_000_025","什麼？！
 那個男人也是召喚師麼！"
 64,"TEXT_JOBSMN350_01092_TRISTAN_000_026","(-黑色召喚師-)來吧，為我的聖業獻身吧！"
-65,"TEXT_JOBSMN350_01092_TRISTAN_000_030","(-黑色召喚師-)嘖……還蠻有兩下子嘛！"
+65,"TEXT_JOBSMN350_01092_TRISTAN_000_030","(-黑色召喚師-)嘖……還挺有兩下子嘛！"
 66,"TEXT_JOBSMN350_01092_TRISTAN_000_031","(-黑色召喚師-)但接下來的攻擊你承受得住麼！"
 67,"TEXT_JOBSMN350_01092_TRISTAN_000_032","(-黑色召喚師-)胸懷創世之火的炙炎之獸！
 將一切燃燒殆盡吧！地獄之火炎！"
@@ -107,7 +107,7 @@ int32,str,str
 也算是可喜可賀了。"
 76,"TEXT_JOBSMN350_01092_YMHITRA_000_053","泰坦之靈是非常強大的召喚獸。
 你要多加練習，直到能熟練操縱它。
-而且要時刻當心敵人的襲擊哦。"
+而且要時刻留心敵人的襲擊哦。"
 77,"TEXT_JOBSMN350_01092_YMHITRA_000_054","我會向聖寇伊納克財團尋求協助，
 查明那個男人的身份。
 ……你耐心等等吧。"
@@ -121,10 +121,10 @@ int32,str,str
 84,"TEXT_JOBSMN350_01092_QIB_001_TRISTAN_BATTLETALK_04","感嘆與我相遇是多麼不幸吧！
 而我會用地獄業火連同你的嘆息一起燃盡！"
 85,"TEXT_JOBSMN350_01092_QIB_001_YMHITRA_BATTLETALK_05","那傢伙不是一般人！
-你要小心了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-86,"TEXT_JOBSMN350_01092_QIB_001_TRISTAN_BATTLETALK_06","……蠻有兩下子嘛。
+你要小心了，<Highlight>ObjectParameter(1)</Highlight>！"
+86,"TEXT_JOBSMN350_01092_QIB_001_TRISTAN_BATTLETALK_06","……挺有兩下子嘛。
 但你不要得意忘形地以為能戰勝我！"
-87,"TEXT_JOBSMN350_01092_QIB_001_YMHITRA_BATTLETALK_07"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，小心了！
+87,"TEXT_JOBSMN350_01092_QIB_001_YMHITRA_BATTLETALK_07","<Highlight>ObjectParameter(1)</Highlight>，小心了！
 黑色召喚師的樣子有點不一樣了！"
 88,"TEXT_JOBSMN350_01092_QIB_001_YMHITRA_BATTLETALK_08","對不起……是我大意了……"
-89,"TEXT_JOBSMN350_01092_QIB_001_YMHITRA_BATTLETALK_09","沒想到……會被和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一樣的召喚師打倒……"
+89,"TEXT_JOBSMN350_01092_QIB_001_YMHITRA_BATTLETALK_09","沒想到……會被和<Highlight>ObjectParameter(1)</Highlight>一樣的召喚師打倒……"

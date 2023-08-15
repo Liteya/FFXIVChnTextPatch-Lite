@@ -5,7 +5,7 @@ int32,str,str
 1,"TEXT_HEAVNC105_02235_SEQ_01","埃馬內蘭把巡邏的工作推給了冒險者。前往庫爾札斯西部高地的交匯河，巡視2處<Sheet(EObj,2006869,0)/>，討伐<Sheet(BNpcName,4712,0)/>。"
 2,"TEXT_HEAVNC105_02235_SEQ_02","討伐了<Sheet(BNpcName,4712,0)/>。向隼巢的埃馬內蘭報告。"
 3,"TEXT_HEAVNC105_02235_SEQ_03","向埃馬內蘭報告完畢。冒險者出去巡邏的時候，桑克瑞德來到了隼巢，在庫爾札斯西部高地交匯河營地附近尋找桑克瑞德。"
-4,"TEXT_HEAVNC105_02235_SEQ_04","和桑克瑞德會合了。和隼巢的埃馬內蘭對話。"
+4,"TEXT_HEAVNC105_02235_SEQ_04","和桑克瑞德匯合了。和隼巢的埃馬內蘭對話。"
 5,"TEXT_HEAVNC105_02235_SEQ_05","巡邏結束，向埃馬內蘭報告完畢。這樣就能防止<Sheet(BNpcName,4712,0)/>吃人了。雖然埃馬內蘭和以往一樣樂呵呵的，但的確感覺有些消沉。"
 6,"TEXT_HEAVNC105_02235_SEQ_06",""
 7,"TEXT_HEAVNC105_02235_SEQ_07",""
@@ -51,9 +51,9 @@ int32,str,str
 47,"TEXT_HEAVNC105_02235_TODO_23",""
 48,"TEXT_HEAVNC105_02235_HONOROIT_000_000","咦？
 阿圖瓦雷爾少爺和露琪亞大人外出了？"
-49,"TEXT_HEAVNC105_02235_CITIZENA02233_000_005","快看門的上面！
+49,"TEXT_HEAVNC105_02235_CITIZENA02233_000_005","快看門的上邊！
 不知會裝飾上什麼樣的浮雕呢！"
-50,"TEXT_HEAVNC105_02235_CITIZENB02233_000_010","與龍族交好……起初我以為只是痴人說夢……
+50,"TEXT_HEAVNC105_02235_CITIZENB02233_000_010","與龍族交好……起初我以為只是癡人說夢……
 直到我親眼在皇都看見大白龍救下墜樓的孩子。
 因此我這次帶著妻子來參加慶典。"
 51,"TEXT_HEAVNC105_02235_CITIZENC02233_000_015","這裡依舊那麼寒冷刺骨，簡直要凍成冰了。
@@ -73,11 +73,11 @@ int32,str,str
 56,"TEXT_HEAVNC105_02235_EMMANELLAIN_000_024","請你按地圖上的標記去巡邏，了結了那些餓狼！
 本少爺就負責巡邏隼巢裡邊啦。
 我們走，奧諾魯瓦！"
-57,"TEXT_HEAVNC105_02235_HONOROIT_000_025"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，
+57,"TEXT_HEAVNC105_02235_HONOROIT_000_025","<Highlight>ObjectParameter(1)</Highlight>大人，
 麻煩您了，對不起……嗯。"
 58,"TEXT_HEAVNC105_02235_HONOROIT_000_030","不好意思，讓您去做這麼危險的工作……
 不過就算讓埃馬內蘭少爺去，
-應該也只能是增加傷員給大家添亂而已……嗯……"
+估計也只能是增加傷員給大家添亂而已……嗯……"
 59,"TEXT_HEAVNC105_02235_EMMANELLAIN_000_040","喲！你巡邏回來啦！
 我也大至廣場，小至廁所都巡視過了，
 沒有發現異常情況！"
@@ -96,7 +96,7 @@ int32,str,str
 才想來看看慶典……"
 65,"TEXT_HEAVNC105_02235_HERETIC02235_000_056","結果就被幽狼襲擊了……
 還好來了個很強的大哥，把我們給救了下來。"
-66,"TEXT_HEAVNC105_02235_THANCRED_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+66,"TEXT_HEAVNC105_02235_THANCRED_000_060","<Highlight>ObjectParameter(1)</Highlight>，
 太好了，終於找到你了。"
 67,"TEXT_HEAVNC105_02235_THANCRED_000_061","這附近的幽狼已經全被我收拾掉了。
 那邊那幾個人只是單純地想去參觀慶典。"
@@ -105,7 +105,7 @@ int32,str,str
 69,"TEXT_HEAVNC105_02235_THANCRED_000_063","我們快回隼巢向福爾唐家的二少爺彙報吧！"
 70,"TEXT_HEAVNC105_02235_THANCRED_000_070","哈哈，我搞明白了……
 這二少爺真是讓人不省心。"
-71,"TEXT_HEAVNC105_02235_HONOROIT_000_075","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人。
+71,"TEXT_HEAVNC105_02235_HONOROIT_000_075","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>大人。
 您找到桑克瑞德大人了啊，太好了。
 我還怕你們倆錯過了呢……嗯。"
 72,"TEXT_HEAVNC105_02235_EMMANELLAIN_000_080","喲！搭檔！

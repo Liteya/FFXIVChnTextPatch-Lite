@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_AKTKZG004_04279_TODO_23",""
 48,"TEXT_AKTKZG004_04279_PHEIDIAS_000_000","哎呀，是來參觀的使魔嗎？
 你叫什麼名字？"
-49,"TEXT_AKTKZG004_04279_PHEIDIAS_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，真是個好名字。
+49,"TEXT_AKTKZG004_04279_PHEIDIAS_000_001","<Highlight>ObjectParameter(1)</Highlight>啊，真是個好名字。
 我叫菲狄亞斯，
 是醒悟天測園的觀察者。"
 50,"TEXT_AKTKZG004_04279_PHEIDIAS_000_002","為了觀察新的創造生物，
@@ -93,11 +93,11 @@ int32,str,str
 68,"TEXT_AKTKZG004_04279_SYSTEM_000_040","周圍的生物瞬間都逃走了……"
 69,"TEXT_AKTKZG004_04279_MOUNTOBSERVER04279_000_050","被噴嚏嚇到的生物們甚至都跑到這裡來了。
 看樣子是嚇得不輕，
-應該暫時是不會回去了。"
+估計暫時是不會回去了。"
 70,"TEXT_AKTKZG004_04279_MOUNTOBSERVER04279_000_051","葡藤猩猩這次立了大功，
 得讓它好好曬曬太陽才行。
 你也去菲狄亞斯那裡領一下謝禮吧！"
-71,"TEXT_AKTKZG004_04279_PHEIDIAS_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了。
+71,"TEXT_AKTKZG004_04279_PHEIDIAS_000_060","<Highlight>ObjectParameter(1)</Highlight>，你回來了。
 在你的幫助下，預定地點已經空出來了。
 這下就可以順利釋放出新的創造生物了！"
 72,"TEXT_AKTKZG004_04279_PHEIDIAS_000_061","新的生物將最近流行的移動性植物的理論
@@ -105,7 +105,7 @@ int32,str,str
 可以將樹枝像手一樣使用，甚至能捕食肉食動物！"
 73,"TEXT_AKTKZG004_04279_PHEIDIAS_000_062","哎呀，想想就覺得激動！
 要是還有什麼有趣的事情的話，
-我到時候會再跟你打招呼的， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+我到時候會再跟你打招呼的，<Highlight>ObjectParameter(1)</Highlight>！"
 74,"TEXT_AKTKZG004_04279_OBSERVER04279_000_000","（★未使用／削除予定★）"
 75,"TEXT_AKTKZG004_04279_OBSERVER04279_000_001","（★未使用／削除予定★）"
 76,"TEXT_AKTKZG004_04279_OBSERVER04279_000_002","（★未使用／削除予定★）"

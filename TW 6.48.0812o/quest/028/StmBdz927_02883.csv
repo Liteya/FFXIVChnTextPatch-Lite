@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDZ927_02883_SEQ_00","天營門的嘉．茲拉．提亞有事想拜託冒險者。"
+0,"TEXT_STMBDZ927_02883_SEQ_00","天營門的嘉·茲拉·提亞有事想拜託冒險者。"
 1,"TEXT_STMBDZ927_02883_SEQ_01",""
 2,"TEXT_STMBDZ927_02883_SEQ_02",""
 3,"TEXT_STMBDZ927_02883_SEQ_03",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ927_02883_SEQ_22",""
 23,"TEXT_STMBDZ927_02883_SEQ_23",""
 24,"TEXT_STMBDZ927_02883_TODO_00","削弱<Sheet(BNpcName,5719,0)/> 使用<Sheet(EventItem,2002315,0)/>將其捕獲"
-25,"TEXT_STMBDZ927_02883_TODO_01","將<Sheet(EventItem,2002316,0)/>交給嘉．茲拉．提亞"
+25,"TEXT_STMBDZ927_02883_TODO_01","將<Sheet(EventItem,2002316,0)/>交給嘉·茲拉·提亞"
 26,"TEXT_STMBDZ927_02883_TODO_02",""
 27,"TEXT_STMBDZ927_02883_TODO_03",""
 28,"TEXT_STMBDZ927_02883_TODO_04",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ927_02883_TODO_21",""
 46,"TEXT_STMBDZ927_02883_TODO_22",""
 47,"TEXT_STMBDZ927_02883_TODO_23",""
-48,"TEXT_STMBDZ927_02883_JZULATIA_000_000","你是冒險者部隊的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+48,"TEXT_STMBDZ927_02883_JZULATIA_000_000","你是冒險者部隊的<Highlight>ObjectParameter(1)</Highlight>吧？
 我有件麻煩事想拜託你。"
 49,"TEXT_STMBDZ927_02883_JZULATIA_000_001","為了某件任務，我需要捕獲幾隻魔物，
 不過，這魔物有些難對付……
@@ -70,5 +70,5 @@ int32,str,str
 55,"TEXT_STMBDZ927_02883_JZULATIA_000_013","其實，我們準備用你抓來的這傢伙去訓練新兵。
 因為不知道帝國軍何時會殺回來奪取行省，
 所以不能說趕走他們了就放鬆警惕，要時刻做好準備。"
-56,"TEXT_STMBDZ927_02883_JZULATIA_000_014","這次真是謝謝你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+56,"TEXT_STMBDZ927_02883_JZULATIA_000_014","這次真是謝謝你了，<Highlight>ObjectParameter(1)</Highlight>。
 要是再有什麼事，還要拜託你了。"

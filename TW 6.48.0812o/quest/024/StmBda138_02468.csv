@@ -53,7 +53,7 @@ int32,str,str
 為什麼那個海盜就答應了啊？"
 49,"TEXT_STMBDA138_02468_ALISAIE_000_005","真是的……竟然握著大海盜的把柄拿來利用啊？
 阿爾菲諾和塔塔露這兩個人
-在伊修加爾德學到了不輸給貴族的權謀之術啊。"
+在伊修加德學到了不輸給貴族的權謀之術啊。"
 50,"TEXT_STMBDA138_02468_TATARU_000_010","聽說在20多年前，皇都名門狄蘭達爾家的嫡子
 為增長見識外出旅行，但是在途中卻失蹤了。"
 51,"TEXT_STMBDA138_02468_TATARU_000_015","那個孩子會不會還活著，只是不願意回家呢……
@@ -62,25 +62,25 @@ int32,str,str
 我們就聽從卡爾瓦蘭先生的建議，在等待船隻做好出港準備之前，
 為這趟漫長的東方之旅做好準備吧。"
 53,"TEXT_STMBDA138_02468_ALPHINAUD_000_021","我先和塔塔露去購買必要的物資。
-阿莉塞，拜託你去跟于里昂熱聯繫一下，共享下情報，
+阿莉塞，拜託你去跟於里昂熱聯繫一下，共享下情報，
 再確認一下東方遠征期間的指揮系統。"
 54,"TEXT_STMBDA138_02468_ALISAIE_000_022","知道了，交給我吧。
-那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和莉瑟要幹什麼呢？"
+那<Highlight>ObjectParameter(1)</Highlight>和莉瑟要幹什麼呢？"
 55,"TEXT_STMBDA138_02468_ALPHINAUD_000_023","我想拜託你們倆去一趟喪靈鐘。
 向開拓團的多瑪人民打聽一下有關他們故鄉的情報。"
 56,"TEXT_STMBDA138_02468_ALPHINAUD_000_024","包含多瑪在內的東方區域對於我們來說是一片未知的大地。
 我希望盡可能掌握一些最基礎的情報前往。
 你們回來後大家就在渡輪碼頭集合吧。"
 57,"TEXT_STMBDA138_02468_LYSE_000_025","明白了！
-那我們走吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+那我們走吧，<Highlight>ObjectParameter(1)</Highlight>。"
 58,"TEXT_STMBDA138_02468_LYSE_000_030","那我們這就開始收集情報吧。
 喪靈鐘開拓團裡有不少來自多瑪的人……
 咱倆分頭行動吧？"
 59,"TEXT_STMBDA138_02468_LYSE_000_031","我就去外面還有羅薇娜會館那邊打聽一下，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就去石之家那邊吧。
-等結束了還在這裡會合！"
+<Highlight>ObjectParameter(1)</Highlight>就去石之家那邊吧。
+等結束了還在這裡匯合！"
 60,"TEXT_STMBDA138_02468_HOMEI_000_040","什麼？你們要為了解放多瑪遠征東方？
-所以才想要瞭解一下我的故鄉啊……
+所以才想要了解一下我的故鄉啊……
 那就由我寶明來講述一下吧。"
 61,"TEXT_STMBDA138_02468_HOMEI_000_041","多瑪位於東洲奧薩德次大陸，
 統治著「無二江」流經的內陸地區——延夏！
@@ -94,7 +94,7 @@ int32,str,str
 64,"TEXT_STMBDA138_02468_HOMEI_000_050","曾經，有許多船隻在廣闊的無二江上往來，
 但是如今帝國軍封鎖了航道，
 滔滔江面再也沒了往日的熱鬧景象。"
-65,"TEXT_STMBDA138_02468_HIGIRI_100_060","好久不見了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+65,"TEXT_STMBDA138_02468_HIGIRI_100_060","好久不見了，<Highlight>ObjectParameter(1)</Highlight>。
 今天過來是有什麼事情嗎？"
 66,"TEXT_STMBDA138_02468_HIGIRI_000_060","哎？拂曉的各位要遠征東方？
 所以才在打聽有關多瑪的情報啊。

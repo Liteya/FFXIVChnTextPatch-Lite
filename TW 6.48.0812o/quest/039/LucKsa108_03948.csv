@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_LUCKSA108_03948_TODO_22",""
 47,"TEXT_LUCKSA108_03948_TODO_23",""
 48,"TEXT_LUCKSA108_03948_SYSTEM_100_000","若要領取或繼續推進本任務，
-需要反抗軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
+需要義軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
 49,"TEXT_LUCKSA108_03948_DMITAR_000_000","解放者閣下！我們再次成功將戰線向前推進了！
 距離達成夙願又更進了一步！"
 50,"TEXT_LUCKSA108_03948_DMITAR_000_001","新的據點就在博茲雅舊市街遺跡，
@@ -65,5 +65,5 @@ int32,str,str
 請你繼續助我們一臂之力，直到作戰成功之時！"
 54,"TEXT_LUCKSA108_03948_SYSTEM_000_030","由於戰場的範圍擴大，
 將會發生新的衝突戰和緊急遭遇戰！"
-55,"TEXT_LUCKSA108_03948_SYSTEM_000_031","另外，反抗軍等級達到「<Value>IntegerParameter(1)</Value>」以上時，
+55,"TEXT_LUCKSA108_03948_SYSTEM_000_031","另外，義軍等級達到「<Value>IntegerParameter(1)</Value>」以上時，
 可以從烏特亞前哨的水琴那裡領取下一個任務。"

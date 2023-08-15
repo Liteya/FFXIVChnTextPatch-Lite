@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBSMN600_02105_SEQ_00","恆輝作戰本部的丹興．伍爾夫正耀尉正等待雅．蜜特拉的到來。"
-1,"TEXT_JOBSMN600_02105_SEQ_01","從雅．蜜特拉處得知了黑假面無影只能在沒有靈魂的肉體之間轉移。為了確保徹底消滅無影，必須得習得在神靈附體狀態下才能釋放的「究極履行」才行。前往龍堡內陸低地，和迦巴勒幻想圖書館前的雅．蜜特拉談談。"
-2,"TEXT_JOBSMN600_02105_SEQ_02","為學習究極履行，冒險者一行人侵入了迦巴勒幻想圖書館。然而無影四助祭出現在了他們面前。在激烈的戰鬥中，冒險者成功習得了究極履行，最終打倒了無影。和迦巴勒幻想圖書館前的丹興．伍爾夫交談。"
-3,"TEXT_JOBSMN600_02105_SEQ_03","打倒了無影，成功為特里斯坦兄弟倆報仇的丹興．伍爾夫如釋重負地回去了。和迦巴勒幻想圖書館前的雅．蜜特拉談談。"
-4,"TEXT_JOBSMN600_02105_SEQ_04","打倒了無影，召喚師名聲惡化的危險也隨之消失了。然而包括召喚師在內的蠻神相關問題依然根深蒂固。今後也要和雅．蜜特拉及其他同伴同心協力，解決現存的各種問題。
+0,"TEXT_JOBSMN600_02105_SEQ_00","恆輝作戰本部的丹興·伍爾夫正耀尉正等待雅·蜜特拉的到來。"
+1,"TEXT_JOBSMN600_02105_SEQ_01","從雅·蜜特拉處得知了黑假面無影只能在沒有靈魂的肉體之間轉移。為了確保徹底消滅無影，必須得習得在神靈附體狀態下才能釋放的「究極履行」才行。前往龍堡內陸低地，和迦巴勒幻想圖書館前的雅·蜜特拉談談。"
+2,"TEXT_JOBSMN600_02105_SEQ_02","為學習究極履行，冒險者一行人侵入了迦巴勒幻想圖書館。然而無影四助祭出現在了他們面前。在激烈的戰鬥中，冒險者成功習得了究極履行，最終打倒了無影。和迦巴勒幻想圖書館前的丹興·伍爾夫交談。"
+3,"TEXT_JOBSMN600_02105_SEQ_03","打倒了無影，成功為特里斯坦兄弟倆報仇的丹興·伍爾夫如釋重負地回去了。和迦巴勒幻想圖書館前的雅·蜜特拉談談。"
+4,"TEXT_JOBSMN600_02105_SEQ_04","打倒了無影，召喚師名聲惡化的危險也隨之消失了。然而包括召喚師在內的蠻神相關問題依然根深蒂固。今後也要和雅·蜜特拉及其他同伴同心協力，解決現存的各種問題。
 
-※滿足下列條件後，可以從碧企鵝瀑布的雅．蜜特拉那裡領取新的特職任務。
+※滿足下列條件後，可以從碧企鵝瀑布的雅·蜜特拉那裡領取新的特職任務。
 完成「龍詩戰爭尾聲主線任務」中「命運的止境」。"
 5,"TEXT_JOBSMN600_02105_SEQ_05",""
 6,"TEXT_JOBSMN600_02105_SEQ_06",""
@@ -28,9 +28,9 @@ int32,str,str
 21,"TEXT_JOBSMN600_02105_SEQ_21",""
 22,"TEXT_JOBSMN600_02105_SEQ_22",""
 23,"TEXT_JOBSMN600_02105_SEQ_23",""
-24,"TEXT_JOBSMN600_02105_TODO_00","和迦巴勒幻想圖書館的雅．蜜特拉對話"
-25,"TEXT_JOBSMN600_02105_TODO_01","和丹興．伍爾夫對話"
-26,"TEXT_JOBSMN600_02105_TODO_02","和迦巴勒幻想圖書館的雅．蜜特拉對話"
+24,"TEXT_JOBSMN600_02105_TODO_00","和迦巴勒幻想圖書館的雅·蜜特拉對話"
+25,"TEXT_JOBSMN600_02105_TODO_01","和丹興·伍爾夫對話"
+26,"TEXT_JOBSMN600_02105_TODO_02","和迦巴勒幻想圖書館的雅·蜜特拉對話"
 27,"TEXT_JOBSMN600_02105_TODO_03",""
 28,"TEXT_JOBSMN600_02105_TODO_04",""
 29,"TEXT_JOBSMN600_02105_TODO_05",""
@@ -53,15 +53,15 @@ int32,str,str
 46,"TEXT_JOBSMN600_02105_TODO_22",""
 47,"TEXT_JOBSMN600_02105_TODO_23",""
 48,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_000","噢，你來得正巧啊！
-我剛跟雅．蜜特拉小姐約好見面來著。"
-49,"TEXT_JOBSMN600_02105_YMHITRA_000_001","哎呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+我剛跟雅·蜜特拉小姐約好見面來著。"
+49,"TEXT_JOBSMN600_02105_YMHITRA_000_001","哎呀，這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 你也在的話就方便多了。
 我好像找到消滅無影的方法了哦！"
 50,"TEXT_JOBSMN600_02105_YMHITRA_000_002","在上回的戰鬥中，雖說你學會了神靈附體，
 但無影在明明有餘力繼續戰鬥的情況下卻選擇了撤退，
 這一點我一直很在意。"
 51,"TEXT_JOBSMN600_02105_YMHITRA_000_003","從拂曉的調查報告中可以得知，無影是不死之身，
-他們沒有實體，透過不斷將靈魂憑依在肉體身上，
+他們沒有實體，通過不斷將靈魂憑依在肉體身上，
 來獲得永恆的生命……"
 52,"TEXT_JOBSMN600_02105_YMHITRA_000_004","但是那個時候的無影十二杯，
 卻非常焦躁地馬上選擇了撤退，
@@ -80,8 +80,8 @@ int32,str,str
 57,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_009","噢噢！這可真是個好消息啊！
 那麼，現在只要考慮如何引無影上鉤就行了吧！"
 58,"TEXT_JOBSMN600_02105_YMHITRA_000_010","別慌，在那之前我們得先找到能夠打敗無影的可靠方法才行。
-要做到這一點，需要借助 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的力量……"
-59,"TEXT_JOBSMN600_02105_YMHITRA_000_011","我透過對亞拉戈的遺物調查得知，
+要做到這一點，需要藉助<Highlight>ObjectParameter(1)</Highlight>的力量……"
+59,"TEXT_JOBSMN600_02105_YMHITRA_000_011","我通過對亞拉戈的遺物調查得知，
 有一種在神靈附體狀態下才能釋放的秘術，
 叫做「究極履行」。"
 60,"TEXT_JOBSMN600_02105_YMHITRA_000_012","而習得該秘術所需要的禁書，
@@ -128,14 +128,14 @@ int32,str,str
 78,"TEXT_JOBSMN600_02105_ASCIANS_000_120","不愧是被拉哈布雷亞大人視為眼中釘的光之戰士……
 看來只能就此撤退了……"
 79,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_130","別想逃！"
-80,"TEXT_JOBSMN600_02105_YMHITRA_000_130","就是現在， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+80,"TEXT_JOBSMN600_02105_YMHITRA_000_130","就是現在，<Highlight>ObjectParameter(1)</Highlight>！"
 81,"TEXT_JOBSMN600_02105_YMHITRA_000_131","成功了……成功了！"
-82,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_132","真是太精彩了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+82,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_132","真是太精彩了，<Highlight>ObjectParameter(1)</Highlight>。
 剛才那一招就是你們追求的「究極履行」嗎？
-但是……不是說一定要有禁書才能學會嗎？"
+但是……不是說必須要有禁書才能學會嗎？"
 83,"TEXT_JOBSMN600_02105_YMHITRA_000_133","哼哼哼……正所謂「欲欺騙敵人，須先欺騙自己。」
 其實從一開始就不存在什麼禁書啦，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 所缺乏的只是經驗而已。"
+<Highlight>ObjectParameter(1)</Highlight>所缺乏的只是經驗而已。"
 84,"TEXT_JOBSMN600_02105_YMHITRA_000_134","我們特意前往被棄置的圖書館，
 監視著我們的無影自然會誤以為那裡會有什麼玄機。
 所以為了妨礙我們，他們肯定會出現……"
@@ -146,18 +146,18 @@ int32,str,str
 87,"TEXT_JOBSMN600_02105_YMHITRA_000_145","……如果沒能發動「究極履行」的話打算怎麼辦？
 根本不用擔心這個嘛。
 因為我相信你一定沒問題的。"
-88,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_150","託你們的福，終於成功消滅了無影。
+88,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_150","托你們的福，終於成功消滅了無影。
 我發自內心地感謝你們的幫助……"
 89,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_151","特里斯坦的冤罪，這樣一來就能平反了……
 也算是給那次不堪回味的伊弗利特討伐戰，
 做出了一個交待吧……"
 90,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_152","好了，我們回烏爾達哈去吧。
 還得給特里斯坦修個墓才行呢，
-在他大哥旁邊。"
+在他大哥邊上。"
 91,"TEXT_JOBSMN600_02105_DANCINGWOLF_000_153","就算那裡沒有那傢伙的屍骨，
 只要能給我們這些倖存下來的隊員一個掃墓的機會也就夠了。
 那麼，我們有緣再會吧。"
-92,"TEXT_JOBSMN600_02105_YMHITRA_000_160"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我也要向你道謝。
+92,"TEXT_JOBSMN600_02105_YMHITRA_000_160","<Highlight>ObjectParameter(1)</Highlight>，我也要向你道謝。
 「召喚師就是濫用蠻神之力的惡徒」……
 你阻止了這樣的誤解繼續流傳。"
 93,"TEXT_JOBSMN600_02105_YMHITRA_000_161","不過今後也必須防止召喚魔法落入心術不正的人之手。
@@ -167,12 +167,12 @@ int32,str,str
 必須將現在這種以暴制暴的惡性循環切斷才行。"
 95,"TEXT_JOBSMN600_02105_YMHITRA_000_163","我打算今後繼續以我自己的方式，
 來支援拂曉血盟的活動。
-以後也要請你多多指教囉！"
+以後也要請你多多指教咯！"
 96,"TEXT_JOBSMN600_02105_SYSTEM_000_500","「召喚師」的故事到此告一段落！
 要開始接下來的「召喚師」特職任務，
 需要滿足以下條件。"
 97,"TEXT_JOBSMN600_02105_SYSTEM_000_501","完成「龍詩戰爭尾聲主線任務」中「命運的止境」。"
-98,"TEXT_JOBSMN600_02105_SYSTEM_000_502","滿足條件後，和碧企鵝瀑布的雅．蜜特拉對話，
+98,"TEXT_JOBSMN600_02105_SYSTEM_000_502","滿足條件後，和碧企鵝瀑布的雅·蜜特拉對話，
 即可開始新的特職任務！"
 99,"TEXT_JOBSMN600_02105_QIB_001_TODO_001","打倒無影四助祭！"
 100,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_10","為了拉哈布雷亞大人，不能放任你們為所欲為……
@@ -182,7 +182,7 @@ int32,str,str
 103,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCOIN_BATTLETALK_13","（★未使用／削除予定★）"
 104,"TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_14","無影，我們才不會屈服於你們！"
 105,"TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_15","原來一直監視著我們嗎！
-混帳！"
+混賬！"
 106,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_20","看來你們比之前更強了啊。
 那麼，就無需手下留情了！"
 107,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_21","天空中的行星們！遵循我的指引！
@@ -194,12 +194,12 @@ int32,str,str
 然而，我們是不可能輸給你們的！"
 111,"TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_41","你們的野心是不會實現的……
 我們會在這裡將它粉碎！"
-112,"TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_42","絕不饒恕……將我的戰友作為傀儡的你們！"
+112,"TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_42","決不饒恕……將我的戰友作為傀儡的你們！"
 113,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSSWORD_BATTLETALK_01","（★未使用／削除予定★）"
 114,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCEPTER_BATTLETALK_02","（★未使用／削除予定★）"
 115,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCOIN_BATTLETALK_03","（★未使用／削除予定★）"
 116,"TEXT_JOBSMN600_02105_QIB_001_ASCIANSCUP_BATTLETALK_04","怎麼會、你們……何時擁有了如此強大的力量……
 拉哈布雷亞大人……非常抱歉……"
-117,"TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_05","對不起， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+117,"TEXT_JOBSMN600_02105_QIB_001_YMHITRA_BATTLETALK_05","對不起，<Highlight>ObjectParameter(1)</Highlight>……"
 118,"TEXT_JOBSMN600_02105_QIB_001_DANCINGWOLF_BATTLETALK_06","到此為止了嗎……
 仇敵明明就在眼前……"

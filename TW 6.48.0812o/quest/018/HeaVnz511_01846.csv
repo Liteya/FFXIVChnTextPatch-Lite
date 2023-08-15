@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ511_01846_SEQ_00","天極白堊宮認真負責的莫古利在警戒四周。"
-1,"TEXT_HEAVNZ511_01846_SEQ_01","和認真負責的莫古利進行了交談。原來是四處遊蕩的<Sheet(BNpcName,3625,0)/>令莫古利非常害怕。在翻雲霧海的豎骨島討伐4隻<Sheet(BNpcName,3625,0)/>。"
-2,"TEXT_HEAVNZ511_01846_SEQ_02","討伐了<Sheet(BNpcName,3625,0)/>。向天極白堊宮認真負責的莫古利報告。"
-3,"TEXT_HEAVNZ511_01846_SEQ_03","向認真負責的莫古利報告完畢。<Sheet(BNpcName,3625,0)/>看見莫古利就追著不放，所以認真負責的莫古利不得不時刻保持警惕。"
+0,"TEXT_HEAVNZ511_01846_SEQ_00","天極白堊宮認真負責的莫古力在警戒四周。"
+1,"TEXT_HEAVNZ511_01846_SEQ_01","和認真負責的莫古力進行了交談。原來是四處遊蕩的<Sheet(BNpcName,3625,0)/>令莫古力非常害怕。在翻雲霧海的豎骨島討伐4隻<Sheet(BNpcName,3625,0)/>。"
+2,"TEXT_HEAVNZ511_01846_SEQ_02","討伐了<Sheet(BNpcName,3625,0)/>。向天極白堊宮認真負責的莫古力報告。"
+3,"TEXT_HEAVNZ511_01846_SEQ_03","向認真負責的莫古力報告完畢。<Sheet(BNpcName,3625,0)/>看見莫古力就追著不放，所以認真負責的莫古力不得不時刻保持警惕。"
 4,"TEXT_HEAVNZ511_01846_SEQ_04",""
 5,"TEXT_HEAVNZ511_01846_SEQ_05",""
 6,"TEXT_HEAVNZ511_01846_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNZ511_01846_SEQ_22",""
 23,"TEXT_HEAVNZ511_01846_SEQ_23",""
 24,"TEXT_HEAVNZ511_01846_TODO_00","討伐<Sheet(BNpcName,3625,0)/>"
-25,"TEXT_HEAVNZ511_01846_TODO_01","向認真負責的莫古利報告"
+25,"TEXT_HEAVNZ511_01846_TODO_01","向認真負責的莫古力報告"
 26,"TEXT_HEAVNZ511_01846_TODO_02",""
 27,"TEXT_HEAVNZ511_01846_TODO_03",""
 28,"TEXT_HEAVNZ511_01846_TODO_04",""

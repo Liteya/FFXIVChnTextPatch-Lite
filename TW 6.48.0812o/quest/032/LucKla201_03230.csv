@@ -51,22 +51,22 @@ int32,str,str
 47,"TEXT_LUCKLA201_03230_TODO_23",""
 48,"TEXT_LUCKLA201_03230_SYSTEM_100_000","完成本任務將開放中庸工藝館的手工工藝交易。
 刻木匠、製革匠或裁衣匠的等級達到70級以上時可以進行本任務。"
-49,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_000","咔……咔咔……
-乙太……堵塞……咔……故障……"
+49,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_000","哢……哢哢……
+乙太……堵塞……哢……故障……"
 50,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_001","敲……一下……"
-51,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_002","咔……圖楠……幫忙……
-咔咔……咔……"
+51,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_002","哢……圖楠……幫忙……
+哢哢……哢……"
 52,"TEXT_LUCKLA201_03230_SYSTEM_000_003","有個狀態不太好的亞拉戈風格的球體經過。
 如果出現故障有可能失控對市民造成危害。
 追上去，確認是否有受到困擾的市民。"
-53,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_004","咔……圖楠……幫忙……
-咔咔……咔……"
+53,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_004","哢……圖楠……幫忙……
+哢哢……哢……"
 54,"TEXT_LUCKLA201_03230_THIUNA_000_010","哇？
 你是要委託修復工作嗎？！"
 55,"TEXT_LUCKLA201_03230_THIUNA_000_011","……好像不是啊。"
 56,"TEXT_LUCKLA201_03230_THIUNA_000_012","不好意思，你能不能稍等一下？
 這孩子狀態不太好……"
-57,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_013","圖楠……咔咔……
+57,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_013","圖楠……哢哢……
 敲……修好……"
 58,"TEXT_LUCKLA201_03230_THIUNA_000_014","什麼啊？
 乙太又堵塞了？"
@@ -74,8 +74,8 @@ int32,str,str
 你等一下我馬上把你修好！"
 60,"TEXT_LUCKLA201_03230_Q2_000_000","要說什麼？"
 61,"TEXT_LUCKLA201_03230_A2_000_001","需要亞拉戈的知識才能修理"
-62,"TEXT_LUCKLA201_03230_A2_000_002","需要高階技術才能修理"
-63,"TEXT_LUCKLA201_03230_THIUNA_000_016","咦……莫非你對這種機械很瞭解？
+62,"TEXT_LUCKLA201_03230_A2_000_002","需要高級技術才能修理"
+63,"TEXT_LUCKLA201_03230_THIUNA_000_016","咦……莫非你對這種機械很了解？
 不過沒事，沒問題！
 這孩子經常這樣。"
 64,"TEXT_LUCKLA201_03230_THIUNA_000_017","……嘿！"
@@ -83,7 +83,7 @@ int32,str,str
 出現問題，系統需要重啟。
 收集錯誤情報，自動重啟。"
 66,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_019","嗶嗶……實錄系統，正常啟動……
-使用者認證：圖楠……登入成功。
+用戶認證：圖楠……登入成功。
 圖楠，多敲幾下！"
 67,"TEXT_LUCKLA201_03230_THIUNA_000_020","(-圖楠-)哎呀……養成奇怪的習慣了……
 原來說話的語氣明明更像機械的……
@@ -93,7 +93,7 @@ int32,str,str
 69,"TEXT_LUCKLA201_03230_THIUNA_000_022","(-圖楠-)哦哦，我想起來了！
 你是和水晶公同鄉的厲害的工匠來著！
 嗯……名字好像是……"
-70,"TEXT_LUCKLA201_03230_THIUNA_000_023","(-圖楠-)對，是叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+70,"TEXT_LUCKLA201_03230_THIUNA_000_023","(-圖楠-)對，是叫<Highlight>ObjectParameter(1)</Highlight>！"
 71,"TEXT_LUCKLA201_03230_THIUNA_000_024","(-圖楠-)我叫圖楠，是在中庸工藝館手工工藝部工作的保存修復師，
 同時也是時光工房的主人。
 同為工匠，讓我們好好相處吧！"
@@ -108,13 +108,13 @@ int32,str,str
 壞掉就被扔了，我就撿來用我的方法修好了！"
 76,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_029","系統，乖孩子？"
 77,"TEXT_LUCKLA201_03230_THIUNA_000_030","(-圖楠-)是啊是啊，乖孩子。
-不管是工作資料還是帳本，
+不管是工作資料還是賬本，
 什麼都能幫我記錄，你可是我的寶貝啊！"
 78,"TEXT_LUCKLA201_03230_THIUNA_000_031","(-圖楠-)話說回來，我有事想和你商量……"
-79,"TEXT_LUCKLA201_03230_THIUNA_000_032","(-圖楠-)異國的工匠 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，
+79,"TEXT_LUCKLA201_03230_THIUNA_000_032","(-圖楠-)異國的工匠<Highlight>ObjectParameter(1)</Highlight>啊，
 你方便的話，要不要和我進行交易？"
-80,"TEXT_LUCKLA201_03230_THIUNA_000_033","(-圖楠-)我作為工匠來說，技術上更偏向於以往拿手的鍊金術……
-作為保存修復師來說只是個半吊子水準……
+80,"TEXT_LUCKLA201_03230_THIUNA_000_033","(-圖楠-)我作為工匠來說，技術上更偏向於以往拿手的煉金術……
+作為保存修復師來說只是個半吊子水平……
 所以說想向你這個<Sheet(ClassJob,PlayerParameter(68),0)/>學習專業的技術。"
 81,"TEXT_LUCKLA201_03230_THIUNA_000_034","(-圖楠-)具體來說，我想讓你幫我製作保存修復需要的素材，
 然後利用這些素材一邊工作一邊學習技術……
@@ -126,10 +126,10 @@ int32,str,str
 我的這個提議還不錯吧……"
 84,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_037","圖楠還很不熟練。
 好好敲打她！"
-85,"TEXT_LUCKLA201_03230_THIUNA_000_038","(-圖楠-)謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+85,"TEXT_LUCKLA201_03230_THIUNA_000_038","(-圖楠-)謝謝你，<Highlight>ObjectParameter(1)</Highlight>！
 那我就去準備正式的委託了，
 我會在中庸工藝館等你！"
-86,"TEXT_LUCKLA201_03230_THIUNA_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+86,"TEXT_LUCKLA201_03230_THIUNA_000_050","<Highlight>ObjectParameter(1)</Highlight>！
 你能來真是太感謝了。
 師父兼同事的事，就請多指教了！"
 87,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_051","請多指教！"
@@ -139,19 +139,19 @@ int32,str,str
 89,"TEXT_LUCKLA201_03230_THIUNA_000_053","那我們趕快開始最初的委託吧。
 實錄系統，你來說明一下。"
 90,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_054","嗶嗶……修復的委託品是雷克蘭德的風景畫。
-委託人是住在廢村溼鞋村的一族人的末裔。
+委託人是住在廢村濕鞋村的一族人的末裔。
 那個村子在大約90年前被食罪靈毀滅了。"
-91,"TEXT_LUCKLA201_03230_THIUNA_000_055","也就是說，這份工作是透過修復繪畫，
+91,"TEXT_LUCKLA201_03230_THIUNA_000_055","也就是說，這份工作是通過修復繪畫，
 進而還原那村子還在的時候的景色。"
-92,"TEXT_LUCKLA201_03230_THIUNA_000_056","我已經用自己開發的鍊金藥去除了大部分的汙漬，
+92,"TEXT_LUCKLA201_03230_THIUNA_000_056","我已經用自己開發的煉金藥去除了大部分的汙漬，
 可是油畫布破損得實在是太嚴重了……"
-93,"TEXT_LUCKLA201_03230_THIUNA_000_057","因為雷克蘭德的繪畫溼度很高，
+93,"TEXT_LUCKLA201_03230_THIUNA_000_057","因為雷克蘭德的繪畫濕度很高，
 所以油畫布都是下了很大功夫才製作出來的，
-想修復就需要高品質的素材……所以我想借助你的力量！"
+想修復就需要高品質的素材……所以我想藉助你的力量！"
 94,"TEXT_LUCKLA201_03230_THIUNA_000_058","呵呵，真可靠啊！
 等你準備好素材，就由我來進行修復！
 那就拜託你製作<Sheet(Item,27240,0)/>了！"
-95,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_059","嗶嗶……「 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 」的個人情報
+95,"TEXT_LUCKLA201_03230_RECORDSYSTEM_000_059","嗶嗶……「<Highlight>ObjectParameter(1)</Highlight>」的個人情報
 更新為時光工房的工匠。
 請多多錘鍊圖楠！"
 96,"TEXT_LUCKLA201_03230_SYSTEM_000_070","開放了「中庸工藝館交易：手工工藝」！

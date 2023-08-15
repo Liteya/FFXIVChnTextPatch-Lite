@@ -56,7 +56,7 @@ int32,str,str
 在眾僧林園的寺院和遺跡那邊有一些巡視的人，
 我希望你能把這些便當當做慰問品拿去給他們，順便當作宣傳了。"
 49,"TEXT_BANARK111_04561_MARU_000_001","那裡對於大姐頭和我們來說都是非常重要的地方。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 去的話，相信大家一定會很高興的……
+<Highlight>ObjectParameter(1)</Highlight>去的話，相信大家一定會很高興的……
 這些甜點水果也跟便當一起拿去吧。"
 50,"TEXT_BANARK111_04561_RADIANTHOSTA04561_000_010","怎麼了？
 出什麼問題了嗎？"
@@ -66,7 +66,7 @@ int32,str,str
 巡視工作好不容易才恢復……
 居然收到了慰問品！"
 53,"TEXT_BANARK111_04561_RADIANTHOSTA04561_000_013","也請你幫忙轉達一下我發自內心的感謝之情！"
-54,"TEXT_BANARK111_04561_RADIANTHOSTB04561_000_014","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎。
+54,"TEXT_BANARK111_04561_RADIANTHOSTB04561_000_014","這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
 你來做什麼？"
 55,"TEXT_BANARK111_04561_RADIANTHOSTB04561_000_015","居然能吃到熱騰騰的便當！
 而且還有<Sheet(EventItem,2003418,0)/>……！

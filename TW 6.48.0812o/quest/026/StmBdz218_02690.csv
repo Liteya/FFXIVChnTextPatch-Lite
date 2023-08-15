@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_STMBDZ218_02690_SEQ_00","酒杯島的月影好像有心事。"
 1,"TEXT_STMBDZ218_02690_SEQ_01","月影認為雀打算向半作報仇。和紅玉海酒杯島的雀談談，阻止她行兇。"
 2,"TEXT_STMBDZ218_02690_SEQ_02","和雀進行了交談，阻止了她行兇。為確保交易地點的安全，到酒杯島的<Sheet(EObj,2008574,0)/>進行張望。"
-3,"TEXT_STMBDZ218_02690_SEQ_03","確認了<Sheet(EObj,2008574,0)/>的安全。和酒杯島北部的雀會合。"
+3,"TEXT_STMBDZ218_02690_SEQ_03","確認了<Sheet(EObj,2008574,0)/>的安全。和酒杯島北部的雀匯合。"
 4,"TEXT_STMBDZ218_02690_SEQ_04","討伐了襲擊雀的魔物。救助酒杯島北部的雀。"
 5,"TEXT_STMBDZ218_02690_SEQ_05","救助了雀，向琪琪茉順利交付了貨物。和紅玉海痙攣寨的月影談談。"
-6,"TEXT_STMBDZ218_02690_SEQ_06","和月影進行了交談。透過冒險者的協助，海賊眾得以規避財政危機。海賊眾內部也更加團結，期待他們以後能有更活躍的表現。"
+6,"TEXT_STMBDZ218_02690_SEQ_06","和月影進行了交談。通過冒險者的協助，海賊眾得以規避財政危機。海賊眾內部也更加團結，期待他們以後能有更活躍的表現。"
 7,"TEXT_STMBDZ218_02690_SEQ_07",""
 8,"TEXT_STMBDZ218_02690_SEQ_08",""
 9,"TEXT_STMBDZ218_02690_SEQ_09",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDZ218_02690_SEQ_23",""
 24,"TEXT_STMBDZ218_02690_TODO_00","和酒杯島的雀對話"
 25,"TEXT_STMBDZ218_02690_TODO_01","在<Sheet(EObj,2008574,0)/>張望"
-26,"TEXT_STMBDZ218_02690_TODO_02","和雀會合"
+26,"TEXT_STMBDZ218_02690_TODO_02","和雀匯合"
 27,"TEXT_STMBDZ218_02690_TODO_03","救助雀"
 28,"TEXT_STMBDZ218_02690_TODO_04","和痙攣寨的月影對話"
 29,"TEXT_STMBDZ218_02690_TODO_05",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_STMBDZ218_02690_TODO_23",""
 48,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_000","雀很有可能是為了報仇，
 才去交易場所附近的！"
-49,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_001","海賊眾是揹負不同過去的人的集合。
+49,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_001","海賊眾是背負不同過去的人的集合。
 因此，一旦加入就必須拋棄過去，
 即便遇到殺親仇人，也不得自相殘殺。"
 50,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_002","雀……難道連海賊眾都要拋棄嗎？！
@@ -59,13 +59,13 @@ int32,str,str
 51,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_003","可是，如果不趕緊起航的話，就來不及做交易了。
 船必須由我來指揮，
 等趕到地方的時候，雀很可能已經把半作殺死了！"
-52,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請立刻前往半作那裡，
+52,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_004","<Highlight>ObjectParameter(1)</Highlight>閣下，請立刻前往半作那裡，
 阻止雀下手！"
-53,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_009"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請立刻前往半作那裡，
+53,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_009","<Highlight>ObjectParameter(1)</Highlight>閣下，請立刻前往半作那裡，
 阻止雀下手！"
 54,"TEXT_STMBDZ218_02690_HANSAKU_000_009","沒想到，雀大姐是以前的同伴襲擊的村落出身……
 我……我……"
-55,"TEXT_STMBDZ218_02690_SUZUME_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，不要阻止我！
+55,"TEXT_STMBDZ218_02690_SUZUME_000_010","<Highlight>ObjectParameter(1)</Highlight>閣下，不要阻止我！
 否則，我不得不與你為敵！
 任何人都休想阻止我報仇！"
 56,"TEXT_STMBDZ218_02690_Q1_000_000","對雀說些什麼？"
@@ -100,38 +100,38 @@ int32,str,str
 在一切都結束之前，不准碰半作一根汗毛！"
 71,"TEXT_STMBDZ218_02690_SUZUME_000_023","明、明白了！"
 72,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_024","呼……千鈞一髮啊。
-多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下
+多虧<Highlight>ObjectParameter(1)</Highlight>閣下
 阻止了雀，感激不盡！"
 73,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_025","我必須回去看好貨物，不過，情況不容我們放鬆。
-請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下
+請<Highlight>ObjectParameter(1)</Highlight>閣下
 到北邊查看一番，確認是否安全吧。"
-74,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_026","結束後，麻煩再看看雀的樣子吧。
+74,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_026","完事後，麻煩再看看雀的樣子吧。
 拜託了。"
 75,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_029","閣下到北邊查看一番，確認是否安全吧。
-結束後，麻煩再看看雀的樣子。
+完事後，麻煩再看看雀的樣子。
 拜託了。"
 76,"TEXT_STMBDZ218_02690_SUZUME_000_029","可惡！可惡！
 什麼魔物！什麼半作！我讓你們碎屍萬段！"
-77,"TEXT_STMBDZ218_02690_HANSAKU_000_029","（★未使用／削除予定★）"
+77,"TEXT_STMBDZ218_02690_HANSAKU_000_029","（★未使用／預定刪除★）"
 78,"TEXT_STMBDZ218_02690_SYSTEM_000_039","這附近沒有魔物。
 去看看雀的樣子吧。"
-79,"TEXT_STMBDZ218_02690_SUZUME_000_039"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+79,"TEXT_STMBDZ218_02690_SUZUME_000_039","<Highlight>ObjectParameter(1)</Highlight>閣下……
 雖然半作前來救援，可還是成了這樣。
 還有魔物……打倒它們……"
 80,"TEXT_STMBDZ218_02690_POPMESSAGE_000_000","敵人發起了攻擊！"
 81,"TEXT_STMBDZ218_02690_HANSAKU_000_039","一心想救雀大姐，不料落得如此下場……
 我沒事，過一陣就能動了……"
-82,"TEXT_STMBDZ218_02690_SUZUME_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……請你繼續戰鬥。
+82,"TEXT_STMBDZ218_02690_SUZUME_000_040","<Highlight>ObjectParameter(1)</Highlight>閣下……請你繼續戰鬥。
 我們暫時無法行動。"
 83,"TEXT_STMBDZ218_02690_HANSAKU_000_049","又被你救了……
 這點傷沒什麼……
 你先照看雀大姐吧……"
-84,"TEXT_STMBDZ218_02690_SUZUME_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+84,"TEXT_STMBDZ218_02690_SUZUME_000_050","<Highlight>ObjectParameter(1)</Highlight>閣下……
 感謝你救我於危難之中。"
 85,"TEXT_STMBDZ218_02690_SUZUME_000_051","我被憤怒沖昏了頭腦，沒注意到背後的魔物。
 半作替我襠下了，所以僥倖留了一命……
 難道是打算以此抵消罪過？！"
-86,"TEXT_STMBDZ218_02690_SUZUME_000_052","（★未使用／削除予定★）"
+86,"TEXT_STMBDZ218_02690_SUZUME_000_052","（★未使用／預定刪除★）"
 87,"TEXT_STMBDZ218_02690_HANSAKU_000_052","不、不是這樣……
 情況緊急，我根本來不及想那些。
 不知為什麼，身體就動起來了……不管怎樣，你沒事就好。"
@@ -160,7 +160,7 @@ int32,str,str
 96,"TEXT_STMBDZ218_02690_SUZUME_000_061","(-雀和半作-)是！"
 97,"TEXT_STMBDZ218_02690_HANSAKU_000_062","話說回來，老大……
 琪琪茉閣下快要到了吧？
-放著重要的交易對象不管，是不是不適合啊……"
+放著重要的交易對象不管，是不是不合適啊……"
 98,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_063","就算交易破裂了，
 也比同時失去兩個家人要強！
 有家人，就能齊心協力渡過難關！"
@@ -170,22 +170,22 @@ int32,str,str
 看你安然無恙，我就放心了。"
 101,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_066","這，琪琪茉閣下……
 讓你見醜了……"
-102,"TEXT_STMBDZ218_02690_KIKIMO_000_067","不必在意，相反，藉此機會我更深入地瞭解了交易對象。
+102,"TEXT_STMBDZ218_02690_KIKIMO_000_067","不必在意，相反，藉此機會我更深入地了解了交易對象。
 海賊眾是一個團結友愛、值得信賴的組織。
 我想我們可以簽訂契約，今後和各位的交易就由我商會壟斷。"
 103,"TEXT_STMBDZ218_02690_KIKIMO_000_068","那就把第一筆交易完成吧。
 把那麼多貨物裝船，很費力的。"
 104,"TEXT_STMBDZ218_02690_SUZUME_000_069","是，我這就去搬運！"
 105,"TEXT_STMBDZ218_02690_SUZUME_100_069","半作，走吧！"
-106,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+106,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_070","<Highlight>ObjectParameter(1)</Highlight>閣下……
 感謝為我們操勞。
-我要回去交付貨物，之後我們在痙攣寨會合吧！"
-107,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+我要回去交付貨物，之後我們在痙攣寨匯合吧！"
+107,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_080","<Highlight>ObjectParameter(1)</Highlight>閣下……
 交易順利完成了，還簽訂了契約，
 向商會持續提供紅玉海特產奢侈品和扣押商品。"
 108,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_081","雀和半作也像真正的家人一樣齊心協力，一起工作。
 這下，海賊眾的日子也會好過一些吧。"
-109,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_082","這都多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下
+109,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_082","這都多虧<Highlight>ObjectParameter(1)</Highlight>閣下
 為我們助力，幫我們加強了羈絆。
 真的非常感謝。"
 110,"TEXT_STMBDZ218_02690_TSUKIKAGE_000_083","在我心裡，你也是海賊眾的成員了。

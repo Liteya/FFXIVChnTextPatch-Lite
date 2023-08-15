@@ -5,7 +5,7 @@ int32,str,str
 1,"TEXT_COMULD010_01130_SEQ_01","斯威夫特介紹了新的任務。前往庫爾札斯中央高地的澤梅爾要塞，和奧菲麗談談。"
 2,"TEXT_COMULD010_01130_SEQ_02","討伐盤踞在澤梅爾要塞的妖異。
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 3,"TEXT_COMULD010_01130_SEQ_03","向烏爾達哈恆輝作戰總部的斯威夫特報告。"
 4,"TEXT_COMULD010_01130_SEQ_04","和斯威夫特進行了交談。冒險者在大國防聯軍內部的評價有所提升。"
 5,"TEXT_COMULD010_01130_SEQ_05",""
@@ -51,10 +51,10 @@ int32,str,str
 45,"TEXT_COMULD010_01130_TODO_21",""
 46,"TEXT_COMULD010_01130_TODO_22",""
 47,"TEXT_COMULD010_01130_TODO_23",""
-48,"TEXT_COMULD010_01130_SWIFT_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，
+48,"TEXT_COMULD010_01130_SWIFT_000_000","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，
 看樣子你一直在為我們恆輝隊兢兢業業啊。"
 49,"TEXT_COMULD010_01130_SWIFT_000_001","我很看好你，因此想要交給你一項任務。
-這是來自伊修加爾德澤梅爾家的協助請求……"
+這是來自伊修加德澤梅爾家的協助請求……"
 50,"TEXT_COMULD010_01130_SWIFT_000_002","希望你能去澤梅爾要塞，擊退盤踞在那裡的妖異。"
 51,"TEXT_COMULD010_01130_SWIFT_000_003","詳細情況就去庫爾札斯中央高地的澤梅爾要塞，
 詢問澤梅爾家的騎士奧菲麗吧。
@@ -68,7 +68,7 @@ int32,str,str
 56,"TEXT_COMULD010_01130_SWIFT_000_020","啊，你完成任務了吧！
 我已經從澤梅爾家的騎士那裡接到報告了。
 為了表彰你的功績，就將這些軍票作為報酬獎勵給你吧。"
-57,"TEXT_COMULD010_01130_SWIFT_000_021","這麼一來，伊修加爾德算是欠了恆輝隊一個人情。
+57,"TEXT_COMULD010_01130_SWIFT_000_021","這麼一來，伊修加德算是欠了恆輝隊一個人情。
 我也已經向作戰總部報告了你所作出的優秀貢獻。"
 58,"TEXT_COMULD010_01130_SWIFT_000_022","等時機成熟的時候，你就可以晉升到更高的軍銜了。
 「為了財富為了國家」……我期待你能有更好的表現。"

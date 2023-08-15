@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKMK103_04060_SEQ_22",""
 23,"TEXT_LUCKMK103_04060_SEQ_23",""
 24,"TEXT_LUCKMK103_04060_TODO_00","前往<Sheet(EObj,2011483,0)/>"
-25,"TEXT_LUCKMK103_04060_TODO_01","和古．拉哈．提亞對話"
+25,"TEXT_LUCKMK103_04060_TODO_01","和古·拉哈·提亞對話"
 26,"TEXT_LUCKMK103_04060_TODO_02","和阿濟茲拉旗艦島的阿爾菲諾對話"
 27,"TEXT_LUCKMK103_04060_TODO_03","尋找亞拉戈帝國的終端"
 28,"TEXT_LUCKMK103_04060_TODO_04","和阿爾菲諾對話"
@@ -57,9 +57,9 @@ int32,str,str
 我絕不會讓它胡作非為！"
 50,"TEXT_LUCKMK103_04060_GRAHATIA_000_010","埃斯蒂尼安作為一名龍騎士，
 在揮舞長槍和龍族對峙之時，
-應該也懷著難以表述的感情吧…… "
+應該也懷著難以表述的感情吧……"
 51,"TEXT_LUCKMK103_04060_ESTINIEN_000_030","閒聊就到此為止吧。
-該去對偶處刑臺見提亞馬特了。"
+該去對偶處刑台見提亞馬特了。"
 52,"TEXT_LUCKMK103_04060_ALPHINAUD_000_040","經歷了諸多冒險之後，
 我相信我們一定能為提亞馬特做些什麼。"
 53,"TEXT_LUCKMK103_04060_ALISAIE_000_045","親眼見到被縛至今的提亞馬特，
@@ -67,7 +67,7 @@ int32,str,str
 和我們人類的所作所為有多麼無恥。"
 54,"TEXT_LUCKMK103_04060_GRAHATIA_000_050","這就是七大天龍……
 即使被拘束著也能如此動人心魄！"
-55,"TEXT_LUCKMK103_04060_ESTINIEN_000_055","…………。"
+55,"TEXT_LUCKMK103_04060_ESTINIEN_000_055","……"
 56,"TEXT_LUCKMK103_04060_ALPHINAUD_000_100","我認為，正是因為埃斯蒂尼安閣下很清楚
 七大天龍有著極強的自尊心，
 所以才會故意用那種嚴厲的語氣質問它。"
@@ -80,7 +80,7 @@ int32,str,str
 60,"TEXT_LUCKMK103_04060_GRAHATIA_000_131","但這次我們一定要慎重進行治療，
 提亞馬特的靈魂可比地靈族的強大多了。
 要是解開了拘束具卻沒能成功治療的話，那可就完了。"
-61,"TEXT_LUCKMK103_04060_ALISAIE_000_132","所以在治療之前，我們一定要詳細調查一下
+61,"TEXT_LUCKMK103_04060_ALISAIE_000_132","所以在治療之前，我們必須要詳細調查一下
 提亞馬特所受到的蠻神召喚的影響。
 拉哈，你有什麼調查的方法嗎？"
 62,"TEXT_LUCKMK103_04060_GRAHATIA_000_133","就交給我吧！
@@ -98,7 +98,7 @@ int32,str,str
 67,"TEXT_LUCKMK103_04060_GRAHATIA_000_138","我也同樣清楚，一旦成功，世界都將為之改變。
 因此我願意出一份力。"
 68,"TEXT_LUCKMK103_04060_GRAHATIA_000_139","（★未使用／削除予定★）"
-69,"TEXT_LUCKMK103_04060_ESTINIEN_000_140","哈，你還蠻會說的。
+69,"TEXT_LUCKMK103_04060_ESTINIEN_000_140","哈，你還挺會說的。
 看來你也經歷過不少事啊。"
 70,"TEXT_LUCKMK103_04060_GRAHATIA_000_141","我的事說起來可就長了。
 還是等閒下來之後
@@ -116,7 +116,7 @@ int32,str,str
 76,"TEXT_LUCKMK103_04060_ALISAIE_000_148","喂，拉哈，
 你怎麼還隨身帶著這種東西啊？"
 77,"TEXT_LUCKMK103_04060_GRAHATIA_000_149","我覺得嵌入其中的秘術還有不少可以研究的餘地。
-拉姆布魯斯和于里昂熱正在幫忙把成果整理成記錄。
+拉姆布魯斯和於里昂熱正在幫忙把成果整理成記錄。
 不過，我這次要使用的不是其中的秘術。"
 78,"TEXT_LUCKMK103_04060_GRAHATIA_000_150","之前那個情報系統不是對亞拉戈的皇血產生了反應嗎？
 所以我認為，只要拿著有我的血液的吸魂晶，
@@ -124,7 +124,7 @@ int32,str,str
 79,"TEXT_LUCKMK103_04060_ALPHINAUD_000_151","謝謝，我們會好好利用的。"
 80,"TEXT_LUCKMK103_04060_ALPHINAUD_000_152","那我們就出發前往旗艦島吧！
 我也想試試鴻運號上的破魔艇呢！"
-81,"TEXT_LUCKMK103_04060_ALISAIE_000_160","雖說遮蔽了外部的乙太，
+81,"TEXT_LUCKMK103_04060_ALISAIE_000_160","雖說屏蔽了外部的乙太，
 但它居然能在受到蠻神祝福的情況下保持了數千年的理智。
 不愧是七大天龍，真厲害啊。"
 82,"TEXT_LUCKMK103_04060_GRAHATIA_000_165","提亞馬特的狀態由我們來調查。
@@ -137,15 +137,15 @@ int32,str,str
 85,"TEXT_LUCKMK103_04060_ALPHINAUD_000_181","因為只有你一個人拿著吸魂晶，
 所以調查完之後我們先再次在這裡集合，
 共享一下調查結果。"
-86,"TEXT_LUCKMK103_04060_ALPHINAUD_000_190","雖然沒有古．拉哈那麼專業，
+86,"TEXT_LUCKMK103_04060_ALPHINAUD_000_190","雖然沒有古·拉哈那麼專業，
 但我對亞拉戈的技術也有著相當濃厚的興趣。
 能有這種調查的機會，真是幸運啊。"
 87,"TEXT_LUCKMK103_04060_ESTINIEN_000_195","仔細看的話，這個圓球好像正在微微震動……
 接近它真的沒事嗎？"
 88,"TEXT_LUCKMK103_04060_ALLAGANSYSTEMA04060_000_200","嗶滋……嗶、滋……
 感知到金屬零件接觸、摩擦產生的異常放熱反應……
-請及時更換零件……或儘快避難……"
-89,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_205","嗶咔……錯誤、錯誤……
+請及時更換零件……或盡快避難……"
+89,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_205","嗶哢……錯誤、錯誤……
 德爾塔管區的大型龍族拘束具
 已經2020年未進行定期維護……"
 90,"TEXT_LUCKMK103_04060_ALLAGANSYSTEMB04060_000_210","沙沙……嗶、嗶嗶嗶……
@@ -153,8 +153,8 @@ int32,str,str
 ……系統失去聯繫……即將與自走兵器直接通訊……"
 91,"TEXT_LUCKMK103_04060_ALLAGANSYSTEMA04060_000_220","嗶滋……嗶、滋……
 感知到金屬零件接觸、摩擦產生的異常放熱反應……
-請及時更換零件……或儘快避難……"
-92,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_225","嗶咔……錯誤、錯誤……
+請及時更換零件……或盡快避難……"
+92,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_225","嗶哢……錯誤、錯誤……
 德爾塔管區的大型龍族拘束具
 已經2020年未進行定期維護……"
 93,"TEXT_LUCKMK103_04060_ALLAGANSYSTEMB04060_000_230","沙沙……嗶、嗶嗶嗶……
@@ -166,16 +166,16 @@ int32,str,str
 95,"TEXT_LUCKMK103_04060_ALPHINAUD_000_250","很遺憾，我這邊毫無所獲。
 你找到像是控制拘束具的終端了嗎？"
 96,"TEXT_LUCKMK103_04060_Q1_000_100","有類似的終端嗎？"
-97,"TEXT_LUCKMK103_04060_A1_000_100","一定是「散發異味的終端」！"
+97,"TEXT_LUCKMK103_04060_A1_000_100","肯定是「散發異味的終端」！"
 98,"TEXT_LUCKMK103_04060_A2_000_100","「發出警告的終端」有些可疑"
 99,"TEXT_LUCKMK103_04060_A3_000_100","找到一個「一直旋轉的終端」"
 100,"TEXT_LUCKMK103_04060_A4_000_100","取消"
 101,"TEXT_LUCKMK103_04060_ESTINIEN_000_260","那個散發出燒金屬味道的圓球嗎？
 我也看到了，它現在也是一副隨時都會爆炸的樣子。
 我可不認為那種垃圾能控制拘束具。"
-102,"TEXT_LUCKMK103_04060_ALPHINAUD_000_265","一直在重複大型龍族拘束具需要維護的終端嗎……
+102,"TEXT_LUCKMK103_04060_ALPHINAUD_000_265","一直在重覆大型龍族拘束具需要維護的終端嗎……
 嗯，那確實有可能指的是提亞馬特的拘束具。"
-103,"TEXT_LUCKMK103_04060_ALPHINAUD_000_270","和其他浮島進行聯繫的終端嗎……
+103,"TEXT_LUCKMK103_04060_ALPHINAUD_000_270","和其他浮島進行聯絡的終端嗎……
 感覺它的功能是監視德爾塔管區的通訊情況，
 而非拘束具的情況啊。"
 104,"TEXT_LUCKMK103_04060_ALPHINAUD_000_280","要論找東西的話還是你技高一籌啊。
@@ -185,44 +185,44 @@ int32,str,str
 是否控制著提亞馬特的拘束具吧。
 需要的話就用一下吸魂晶。"
 106,"TEXT_LUCKMK103_04060_ALPHINAUD_000_290","我試了一下，
-果然需要特定的許可權才能獲得其中的情報。"
+果然需要特定的許可權才能獲取其中的情報。"
 107,"TEXT_LUCKMK103_04060_ESTINIEN_000_295","亞拉戈帝國那些傢伙，
 究竟是怎麼分清楚哪個圓球是什麼功能的啊……"
-108,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_310","嗶咔……嗶咔……
-要存取特殊拘束具嗎？"
-109,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_311","嗶咔……錯誤！錯誤！
-存取需要魔科學研究所所長或執政官等級的許可權，
+108,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_310","嗶哢……嗶哢……
+要訪問特殊拘束具嗎？"
+109,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_311","嗶哢……錯誤！錯誤！
+訪問需要魔科學研究所所長或執政官級別的許可權，
 或是皇族的特權才行。"
-110,"TEXT_LUCKMK103_04060_ALPHINAUD_000_312","和古．拉哈所想的一樣啊。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，用吸魂晶吧。"
-111,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_350","(-拘束系統-)嗶嗶……嗶咔……正在檢測物體內的個體情報……
+110,"TEXT_LUCKMK103_04060_ALPHINAUD_000_312","和古·拉哈所想的一樣啊。
+<Highlight>ObjectParameter(1)</Highlight>，用吸魂晶吧。"
+111,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_350","(-拘束系統-)嗶嗶……嗶哢……正在檢測物體內的個體情報……
 這裡是拘束系統……
-正在確認使用者……"
+正在確認用戶……"
 112,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_351","(-拘束系統-)嗶嗶……和皇族的部分個體情報一致……
 確認目標已獲得皇族正統親屬的授權。
-請登入使用者名稱。"
+請登入用戶名。"
 113,"TEXT_LUCKMK103_04060_Q2_000_200","要說什麼？"
-114,"TEXT_LUCKMK103_04060_A1_000_200"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> "
+114,"TEXT_LUCKMK103_04060_A1_000_200","<Highlight>ObjectParameter(1)</Highlight>"
 115,"TEXT_LUCKMK103_04060_A2_000_200","阿爾菲諾"
 116,"TEXT_LUCKMK103_04060_A3_000_200","埃斯蒂尼安"
-117,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_360","(-拘束系統-)嗶嗶…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，已登入。
+117,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_360","(-拘束系統-)嗶嗶……<Highlight>ObjectParameter(1)</Highlight>大人，已登入。
 開始控制大型龍族用的特殊拘束具……"
 118,"TEXT_LUCKMK103_04060_ALPHINAUD_000_365","你要用我的名字嗎？！
 那豈不是就有兩個阿爾菲諾了！
-還是用你自己的名字吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
-119,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_366","(-拘束系統-)嗶嗶……已取消登入該使用者名稱。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，已登入。
+還是用你自己的名字吧，<Highlight>ObjectParameter(1)</Highlight>。"
+119,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_366","(-拘束系統-)嗶嗶……已取消登入該用戶名。
+<Highlight>ObjectParameter(1)</Highlight>大人，已登入。
 開始控制大型龍族用的特殊拘束具……"
 120,"TEXT_LUCKMK103_04060_ESTINIEN_000_370","喂喂，我不太懂機器，可別讓我和它們扯上關係。
-還是用 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 登入吧！"
+還是用<Highlight>ObjectParameter(1)</Highlight>登入吧！"
 121,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_371","(-拘束系統-)嗶嗶……已將埃斯蒂尼安大人登入為原始人。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，已登入。
+<Highlight>ObjectParameter(1)</Highlight>大人，已登入。
 開始控制大型龍族用的特殊拘束具……"
-122,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_380","(-拘束系統-)嗶咔……錯誤！錯誤！
+122,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_380","(-拘束系統-)嗶哢……錯誤！錯誤！
 需要升級終端的版本，才能控制
 個體名為「提亞馬特」的大型龍族的特殊拘束具。"
 123,"TEXT_LUCKMK103_04060_ALPHINAUD_000_381","升級版本……是什麼意思？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你明白嗎？"
+<Highlight>ObjectParameter(1)</Highlight>，你明白嗎？"
 124,"TEXT_LUCKMK103_04060_Q3_000_300","如何作答？"
 125,"TEXT_LUCKMK103_04060_A1_000_300","大概……明白"
 126,"TEXT_LUCKMK103_04060_A2_000_300","我不太懂機器"
@@ -230,8 +230,8 @@ int32,str,str
 我完全搞不懂這些東西。"
 128,"TEXT_LUCKMK103_04060_ESTINIEN_105_381","看來我們是同類啊。
 完全搞不懂這個圓球在說什麼。"
-129,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_382","(-拘束系統-)嗶咔……進行說明。
-控制特殊拘束具時需要存取管制系統。
+129,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_382","(-拘束系統-)嗶哢……進行說明。
+控制特殊拘束具時需要訪問管制系統。
 但目前版本過低，因此無法連接。"
 130,"TEXT_LUCKMK103_04060_SECURITYSYSTEM_000_383","(-拘束系統-)嗶嗶……請到旗艦島的情報終端處，
 手動升級該終端……"

@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_JOBDRK630_02916_TODO_23",""
 48,"TEXT_JOBDRK630_02916_MYSTE_000_000","沒想到我也能夠幫助別人……
 我真是太太太高興了。
-謝謝你願意給我這個機會， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+謝謝你願意給我這個機會，<Highlight>ObjectParameter(1)</Highlight>！"
 49,"TEXT_JOBDRK630_02916_RIELLE_000_005","希德勒格在別人面前總把我當小孩子。
 我不能接受，就有一次回了他一句「希德勒格大叔」，
 結果他非常非常生氣……"
@@ -66,7 +66,7 @@ int32,str,str
 52,"TEXT_JOBDRK630_02916_SIDURGU_000_012","看來我們必須還得幫他4次才能回收全部乙太。
 雖然很煩人，但我們必須得讓你的靈魂水晶恢復原狀才行。"
 53,"TEXT_JOBDRK630_02916_RIELLE_000_013","密斯托看起來真的很想實現願望。
-如果能透過幫他來幫助 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話，
+如果能通過幫他來幫助<Highlight>ObjectParameter(1)</Highlight>的話，
 我也願意幫忙，希德勒格不願意嗎？"
 54,"TEXT_JOBDRK630_02916_SIDURGU_000_014","我只是說很麻煩。"
 55,"TEXT_JOBDRK630_02916_SIDURGU_000_015","總之，我們還沒找到這次要幫的人。
@@ -92,14 +92,14 @@ int32,str,str
 66,"TEXT_JOBDRK630_02916_RIELLE_000_050","應該就是這附近……"
 67,"TEXT_JOBDRK630_02916_INSPECTOR02916_000_051","(-男人的怒吼聲-)竟然想跟我頂嘴！
 你這禽獸，去死吧！"
-68,"TEXT_JOBDRK630_02916_WAITRESS02236_000_052","(-面熟的女人-)對不起……"
+68,"TEXT_JOBDRK630_02916_WAITRESS02236_000_052","(-眼熟的女人-)對不起……"
 69,"TEXT_JOBDRK630_02916_INSPECTOR02916_000_053","你這罪人覺得只要道歉就夠了嗎！
 都怪你，害我也得跟你一起來這荒郊野嶺！
 混蛋，快死吧！"
 70,"TEXT_JOBDRK630_02916_SIDURGU_000_054","原來如此……
 那個女人就是囚犯羅蒂吧。
 也不知到底誰才是禽獸。"
-71,"TEXT_JOBDRK630_02916_SIDURGU_000_055","怎麼了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你認識羅蒂？"
+71,"TEXT_JOBDRK630_02916_SIDURGU_000_055","怎麼了，<Highlight>ObjectParameter(1)</Highlight>，你認識羅蒂？"
 72,"TEXT_JOBDRK630_02916_SIDURGU_000_056","這個女人因為戀人在戰爭中死了，
 所以成為激進派在隼巢引起了暴動反對人龍和解？！
 還變裝成侍者給你下藥？！"
@@ -143,11 +143,11 @@ int32,str,str
 快來人啊！
 趕走這個無禮之徒的人重重有賞！"
 89,"TEXT_JOBDRK630_02916_POP_MESSAGE","敵人發起了攻擊！"
-90,"TEXT_JOBDRK630_02916_SIDURGU_000_080","結束了嗎。
+90,"TEXT_JOBDRK630_02916_SIDURGU_000_080","完事了嗎。
 這下子她以後的處境也不會那麼糟糕了吧。
 至於密斯托的做法會有什麼結果……就只能先看著了。"
 91,"TEXT_JOBDRK630_02916_RIELLE_000_085","小孩子看這種事可以嗎……"
-92,"TEXT_JOBDRK630_02916_MYSTE_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……你去哪了？
+92,"TEXT_JOBDRK630_02916_MYSTE_000_090","<Highlight>ObjectParameter(1)</Highlight>……你去哪了？
 我已經使用力量了！"
 93,"TEXT_JOBDRK630_02916_MYSTE_000_091","我製造出了羅蒂的戀人，讓他們見面了。
 你看那裡。"
@@ -165,15 +165,15 @@ int32,str,str
 100,"TEXT_JOBDRK630_02916_WAITRESS02236_000_098","所以請不要做這種事了。
 我知道他已經死了……這只是幻影。"
 101,"TEXT_JOBDRK630_02916_WAITRESS02236_000_099","你是……
-英雄 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+英雄<Highlight>ObjectParameter(1)</Highlight>？
 這都是你做的嗎？"
 102,"TEXT_JOBDRK630_02916_MYSTE_000_100","是我做的！
 因為我看到你很傷心的樣子，希望你能打起精神……"
 103,"TEXT_JOBDRK630_02916_MYSTE_000_101","如果這麼做不對……我會道歉……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和這件事沒有關係！"
+<Highlight>ObjectParameter(1)</Highlight>和這件事沒有關係！"
 104,"TEXT_JOBDRK630_02916_WAITRESS02236_000_102","沒關係，我不會責怪你。
 沒想到像我這種人也會有人關心。
-不好意思，沒辦法如你所願……"
+不好意思，沒法如你所願……"
 105,"TEXT_JOBDRK630_02916_WAITRESS02236_000_103","英雄，我也要為把你捲進暴動這件事道歉。
 從那之後我每次聽到你活躍的消息，
 都會為自己還好沒有犯下更大的錯而鬆了一口氣……"
@@ -183,12 +183,12 @@ int32,str,str
 108,"TEXT_JOBDRK630_02916_A1_000_106","有想要守護的重要的東西"
 109,"TEXT_JOBDRK630_02916_A1_000_107","現在暫且沒有……"
 110,"TEXT_JOBDRK630_02916_WAITRESS02236_000_108","果然……
-我也是伊修加爾德出身的貧窮人，聽到過這種傳聞。"
+我也是伊修加德出身的貧窮人，聽到過這種傳聞。"
 111,"TEXT_JOBDRK630_02916_WAITRESS02236_000_109","有不帶盾牌、揮舞大劍守護別人的騎士……
 他們是為了守護某些重要的東西不停戰鬥的人。"
 112,"TEXT_JOBDRK630_02916_WAITRESS02236_000_110","這樣啊……
 但是我認為你正在尋找、或者說是已經找到了守護的東西？"
-113,"TEXT_JOBDRK630_02916_WAITRESS02236_000_111","我也是伊修加爾德出身的貧窮人，聽到過這種傳聞。
+113,"TEXT_JOBDRK630_02916_WAITRESS02236_000_111","我也是伊修加德出身的貧窮人，聽到過這種傳聞。
 有不帶盾牌、揮舞大劍守護別人的騎士……
 他們是為了守護某些重要的東西不停戰鬥的人。"
 114,"TEXT_JOBDRK630_02916_WAITRESS02236_000_112","希望你從今以後也能百戰百勝，
@@ -210,12 +210,12 @@ int32,str,str
 明明讓你幫忙，我還是失敗了……"
 123,"TEXT_JOBDRK630_02916_MYSTE_000_151","因為我太無力，所以才無法實現大家的願望……"
 124,"TEXT_JOBDRK630_02916_SIDURGU_000_152","你要放棄的話就趕快。
-把剩下3次的乙太都還給 <Highlight>ObjectParameter(1)</Highlight> 就完了。
+把剩下3次的乙太都還給<Highlight>ObjectParameter(1)</Highlight>就完了。
 起碼別在這種地方煩惱，先回村裡。"
 125,"TEXT_JOBDRK630_02916_MYSTE_000_153","說的也是……
 雖然我沒能派上用場，但你的話語讓羅蒂打起了精神。
 我很高興……"
-126,"TEXT_JOBDRK630_02916_MYSTE_000_154","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+126,"TEXT_JOBDRK630_02916_MYSTE_000_154","謝謝你，<Highlight>ObjectParameter(1)</Highlight>……
 我們回尾羽集落吧？"
 127,"TEXT_JOBDRK630_02916_MYSTE_000_160","我能做到的事情不多。
 真希望能像你一樣……"

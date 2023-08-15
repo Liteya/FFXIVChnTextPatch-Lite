@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBNIN560_01686_SEQ_00","碼頭小屋的朧收到了賈可的聯繫。"
-1,"TEXT_JOBNIN560_01686_SEQ_01","朧說賈可那邊掌握到了關於國寶的情報。前往利姆薩．羅敏薩和雙劍師公會的賈可談談。"
+0,"TEXT_JOBNIN560_01686_SEQ_00","碼頭小屋的朧收到了賈可的聯絡。"
+1,"TEXT_JOBNIN560_01686_SEQ_01","朧說賈可那邊掌握到了關於國寶的情報。前往利姆薩·羅敏薩和雙劍師公會的賈可談談。"
 2,"TEXT_JOBNIN560_01686_SEQ_02","根據賈可所說，拍賣雪所尋找國寶的掠奪品拍賣會是由灰犬家族開辦的。具體情況由黑市商人在調查。前往拉諾西亞低地的廢棄小屋附近尋找黑市商人。"
 3,"TEXT_JOBNIN560_01686_SEQ_03","擊敗了出現的<Sheet(BNpcName,4090,0)/>。將<Sheet(EventItem,2001724,0)/>交給廢棄小屋的黑市商人。"
 4,"TEXT_JOBNIN560_01686_SEQ_04","根據黑市商人的情報，女頭目羅莎琳德所率領的灰犬家族正在太陽海岸附近。並且還得知了那名魔導忍眾的殘黨名叫雷德韋，是灰犬家族僱傭的傭兵。在東拉諾西亞太陽海岸的<Sheet(EObj,2005932,0)/>張望。"
@@ -51,11 +51,11 @@ int32,str,str
 45,"TEXT_JOBNIN560_01686_TODO_21",""
 46,"TEXT_JOBNIN560_01686_TODO_22",""
 47,"TEXT_JOBNIN560_01686_TODO_23",""
-48,"TEXT_JOBNIN560_01686_OBORO_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正是時候。
+48,"TEXT_JOBNIN560_01686_OBORO_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來得正是時候。
 賈可閣下掌握到了情報，知道了究竟是誰在出售井之國的國寶。
 這下就能弄清楚最後一件寶物在哪裡了！"
-49,"TEXT_JOBNIN560_01686_OBORO_000_001","他剛剛來信說讓這邊的人儘快過去一趟。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能去跑一趟嗎？"
+49,"TEXT_JOBNIN560_01686_OBORO_000_001","他剛剛來信說讓這邊的人盡快過去一趟。
+<Highlight>ObjectParameter(1)</Highlight>，你能去跑一趟嗎？"
 50,"TEXT_JOBNIN560_01686_OBORO_000_002","我已經叫赤城閣下和小雪公主過來這裡了，
 現在有些挪不開身。"
 51,"TEXT_JOBNIN560_01686_OBORO_000_003","給他們送的信上說這邊可能知道盜取國寶的是什麼人了。
@@ -64,7 +64,7 @@ int32,str,str
 這次你帶回來的情報越詳細越好，拜託了。"
 53,"TEXT_JOBNIN560_01686_OBORO_000_010","諜報活動是忍者的主要任務之一……
 這次你帶回來的情報越詳細越好，拜託了。"
-54,"TEXT_JOBNIN560_01686_JACKE_000_030","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+54,"TEXT_JOBNIN560_01686_JACKE_000_030","喲，<Highlight>ObjectParameter(1)</Highlight>。
 調查黑市這種事本來應該比較困難，
 但多虧了之前那個商人的二人組，這邊掌握到有用的情報了。"
 55,"TEXT_JOBNIN560_01686_JACKE_000_031","那個野丫頭公主殿下在找的寶物，
@@ -96,9 +96,9 @@ int32,str,str
 還靠著在東方不擇手段發的橫財取得了一定的名望。"
 66,"TEXT_JOBNIN560_01686_KARASU_000_112","現在他們把海盜船藏在了破艦島上，
 人都在太陽海岸鬧騰呢。
-你如果感興趣就去看看吧 。"
+你如果感興趣就去看看唄 。"
 67,"TEXT_JOBNIN560_01686_KARASU_000_113","但你要注意一點。
-最近那個海盜團僱傭了蠻厲害的傭兵。"
+最近那個海盜團僱傭了挺厲害的傭兵。"
 68,"TEXT_JOBNIN560_01686_KARASU_000_114","傭兵的名字是雷德韋，
 據說是原加雷馬帝國軍隱秘諜報部隊的成員，
 還會使用傳自東方的忍術。"
@@ -117,7 +117,7 @@ int32,str,str
 一名是忍村的上忍……名字是朧。
 就是所謂的優等生吧……需要注意，嗯。"
 74,"TEXT_JOBNIN560_01686_REDWAY_000_203","至於另一個是<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精靈族</Case><Case(3)>拉拉菲爾族</Case><Case(4)>貓魅族</Case><Case(5)>魯加族</Case><Case(6)>敖龍族</Case><Case(7)>硌獅族</Case><Case(8)>維埃拉族</Case></Switch>的<If(PlayerParameter(4))>女性<Else/>男性</If>……
-多半是個叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的冒險者……嗯。
+多半是個叫<Highlight>ObjectParameter(1)</Highlight>的冒險者……嗯。
 這名字我聽過，姑且注意一下。"
 75,"TEXT_JOBNIN560_01686_REDWAY_000_204","過去訓練我的老師就是被這兩個人擊敗的……
 雖然不知道八劍雪給了他們多少錢，
@@ -141,7 +141,7 @@ int32,str,str
 83,"TEXT_JOBNIN560_01686_YUKI_000_250","真的掌握到情報了？"
 84,"TEXT_JOBNIN560_01686_AKAGI_000_255","咦——，這小屋可真不錯。
 我都有點想一直在這住下了。"
-85,"TEXT_JOBNIN560_01686_OBORO_000_300"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來。
+85,"TEXT_JOBNIN560_01686_OBORO_000_300","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來。
 得到關於敵人的情報了嗎？"
 86,"TEXT_JOBNIN560_01686_OBORO_000_301","原來如此……
 灰犬家族一個叫羅莎琳德的女人指使雷德韋搜集了我方的情報呀。"
@@ -164,17 +164,17 @@ int32,str,str
 94,"TEXT_JOBNIN560_01686_AKAGI_300_306","不想失去想要保護自己的人？
 那殿下就能把自己這條被大家保下來的命不當命嗎？！
 ……公主殿下，事到如今我只能這麼做了！"
-95,"TEXT_JOBNIN560_01686_AKAGI_000_307","公、公主殿下如果不願意信任 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下和朧閣下……
+95,"TEXT_JOBNIN560_01686_AKAGI_000_307","公、公主殿下如果不願意信任<Highlight>ObjectParameter(1)</Highlight>閣下和朧閣下……
 我、我我我就在這切腹自殺！"
 96,"TEXT_JOBNIN560_01686_AKAGI_000_308","他們二位如此盡心竭力地為身無分文的我們提供幫助！
-我、我非常信任他們二位……也一直在借助他們的力量！"
-97,"TEXT_JOBNIN560_01686_AKAGI_000_309","來、來來吧，如果公主殿下不願意借助他們的力量，
+我、我非常信任他們二位……也一直在藉助他們的力量！"
+97,"TEXT_JOBNIN560_01686_AKAGI_000_309","來、來來吧，如果公主殿下不願意藉助他們的力量，
 我這個想要保護殿下的人就要死在這裡了！
 殿……殿下一定會阻止我的對吧？！"
 98,"TEXT_JOBNIN560_01686_YUKI_000_310","你、你這傢伙……從小鼓起勇氣的方式就好不對勁……
 噗……嘻嘻嘻……但你說得確實沒錯！
 原來如此，他們是讓你如此肯定的忍者嗎……"
-99,"TEXT_JOBNIN560_01686_YUKI_000_311"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、朧……
+99,"TEXT_JOBNIN560_01686_YUKI_000_311","<Highlight>ObjectParameter(1)</Highlight>、朧……
 請再一次將你們忍者的力量借給我。
 為了奪回——最後的國寶！"
 100,"TEXT_JOBNIN560_01686_YUKI_000_312","但請先和我立下約定。
@@ -183,7 +183,7 @@ int32,str,str
 101,"TEXT_JOBNIN560_01686_OBORO_000_313","任務是將生命放在第一位嗎……有趣。
 對於我們這些就算拼上命也要完成任務的忍者來說，
 反而是個困難的任務呢。"
-102,"TEXT_JOBNIN560_01686_OBORO_000_314","但是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這個任務我們一定要執行到底，將其順利完成。
+102,"TEXT_JOBNIN560_01686_OBORO_000_314","但是<Highlight>ObjectParameter(1)</Highlight>，這個任務我們一定要執行到底，將其順利完成。
 畢竟執行任務就是我們忍者的工作。"
 103,"TEXT_JOBNIN560_01686_OBORO_000_315","首先得留意下次的掠奪品拍賣會呀。
 就請賈可閣下幫忙張開情報網吧。"

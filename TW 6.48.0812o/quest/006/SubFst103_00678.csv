@@ -52,18 +52,18 @@ int32,str,str
 48,"TEXT_SUBFST103_00678_MIOUNNE_000_1","你願意接受工作嗎？
 謝謝。真是太謝謝你了。"
 49,"TEXT_SUBFST103_00678_MIOUNNE_000_2","委託人是烏爾達哈的冒險者公會。
-你可以去流沙屋的莫莫蒂那裡瞭解情況。"
+你可以去流沙屋的莫莫蒂那裡了解情況。"
 50,"TEXT_SUBFST103_00678_MIOUNNE_000_3","雖然是一份危險的工作……
 但如果是你的話，我相信一定能化險為夷的。
 拜託你了。"
 51,"TEXT_SUBFST103_00678_MOMODI_000_10","哎呀，歡迎光臨。
 不好意思，現在稍微有些忙。
 請隨便坐吧……"
-52,"TEXT_SUBFST103_00678_MOMODI_000_11","哎呀！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+52,"TEXT_SUBFST103_00678_MOMODI_000_11","哎呀！<Highlight>ObjectParameter(1)</Highlight>！
 你來得正是時候！"
 53,"TEXT_SUBFST103_00678_MOMODI_000_12","看你這副面孔……
-莫非你就是 <Highlight>ObjectParameter(1)</Highlight> ？"
-54,"TEXT_SUBFST103_00678_MOMODI_000_13","在冒險者公會的聯繫網中，你越來越有名氣了。
+莫非你就是<Highlight>ObjectParameter(1)</Highlight>？"
+54,"TEXT_SUBFST103_00678_MOMODI_000_13","在冒險者公會的聯絡網中，你越來越有名氣了。
 你是現在最受矚目的冒險者！
 我明白繆恩會興奮的理由了！"
 55,"TEXT_SUBFST103_00678_MOMODI_000_14","事不宜遲，我有事要拜託你。

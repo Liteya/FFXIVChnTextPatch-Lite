@@ -8,7 +8,7 @@ int32,str,str
 要是當初先把書上所有內容都研究一遍就好了……
 都怪我太心急，剛發現勒薩利亞的消息就不顧一切跑了過去。"
 2,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_002","說起來，你是有什麼事想問我嗎？"
-3,"TEXT_REGHINJENOMIS_00446_Q1_000_000","想瞭解什麼？"
+3,"TEXT_REGHINJENOMIS_00446_Q1_000_000","想了解什麼？"
 4,"TEXT_REGHINJENOMIS_00446_A1_000_000","異端者拉姆薩是什麼人？"
 5,"TEXT_REGHINJENOMIS_00446_A1_000_001","拉姆薩和迪利塔是什麼關係？"
 6,"TEXT_REGHINJENOMIS_00446_A1_000_002","什麼是拉姆薩率領的黃道勇士？"
@@ -29,7 +29,7 @@ int32,str,str
 但貝奧爾甫家將他當做不存在的人，刪除了有關他的一切記錄，
 所以流傳下來的故事中才沒有他的身影。"
 15,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_014","至於他為什麼沒有在歷史……不，是故事中登場，
-根據我的祖先奧蘭．杜萊所記載，
+根據我的祖先奧蘭·杜萊所記載，
 是因為他才是真正的英雄、真正的黃道勇士。"
 16,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_020","作為貝奧爾甫家的下人被撫養長大的迪利塔
 和年齡相仿的拉姆薩一起度過了童年時光。
@@ -49,7 +49,7 @@ int32,str,str
 但總有一天我會查個清楚。"
 22,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_040","聖石在是迪利塔王的英雄故事中登場的神賜給人們的「聖遺物」。
 我猜想那是一種擁有特殊力量的水晶，
-但實際的構造尚不明瞭。"
+但實際的構造尚不明了。"
 23,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_041","但根據迪利塔王的英雄故事和«杜萊白書»的記載，
 似乎聖石擁有能實現願望的能力，
 根據使用者的秉性，能用於善事也能用於惡事。"
@@ -100,11 +100,11 @@ int32,str,str
 我打算交給水琴讓薩雷安的賢人們管理。
 我覺得這麼處理是最好的。"
 40,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_102","說起來，你找我是想來問什麼？"
-41,"TEXT_REGHINJENOMIS_00446_Q2_000_000","想瞭解什麼？"
+41,"TEXT_REGHINJENOMIS_00446_Q2_000_000","想了解什麼？"
 42,"TEXT_REGHINJENOMIS_00446_A2_000_000","關於機工都市高古"
 43,"TEXT_REGHINJENOMIS_00446_A2_000_001","關於鬼龍雅茲瑪特"
 44,"TEXT_REGHINJENOMIS_00446_A2_000_002","關於亡妻緹婭"
-45,"TEXT_REGHINJENOMIS_00446_A2_000_003","關於緹婭的遺物項鍊"
+45,"TEXT_REGHINJENOMIS_00446_A2_000_003","關於緹婭的遺物項鏈"
 46,"TEXT_REGHINJENOMIS_00446_A2_000_010","取消"
 47,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_110","那是伊瓦利斯傳說中的機工都市。
 據說是最先發明飛空艇和機工兵器的地方，
@@ -116,7 +116,7 @@ int32,str,str
 導致整個城市的上半部分消失，
 高古之民離開了城市。"
 50,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_113","不過，根據後來解讀出的內容，
-似乎是一個叫勞動六號的機工兵器在與拉姆薩．貝奧爾甫交戰時，
+似乎是一個叫勞動六號的機工兵器在與拉姆薩·貝奧爾甫交戰時，
 兵器釋放的攻擊導致城市的中層部分消失。"
 51,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_114","而且攻擊的威力不但破壞了都市，
 還在下方的大海上製造出連接異空間的裂縫。
@@ -145,7 +145,7 @@ int32,str,str
 我們維持著這樣的關係，直到雙雙墜入愛河。"
 60,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_131","她懷上拉姆薩與我結婚後，我們一直生活在一起。
 當時為了讓小小的劇團壯大出名，我們可是十分努力。
-她曾經說過總有一天要和拉姆薩還有阿魯瑪一起登上舞臺。"
+她曾經說過總有一天要和拉姆薩還有阿魯瑪一起登上舞台。"
 61,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_132","結果她得了傳染病……
 從肺病到去世就是一眨眼的工夫。
 她直到最後還惦記我和孩子們……"
@@ -153,9 +153,9 @@ int32,str,str
 如果«杜萊白書»所言確鑿，聖石真能讓死者復活的話……
 我想將緹婭復活……"
 63,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_134","不，請你忘了剛才的話吧……"
-64,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_150","沒想到她的遺物項鍊居然是聖石……
+64,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_150","沒想到她的遺物項鏈居然是聖石……
 在被指出這點之前我完全沒有發現……"
-65,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_151","那條項鍊還是我和緹婭結婚的時候買的。
+65,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_151","那條項鏈還是我和緹婭結婚的時候買的。
 大概是17年前吧，我們去了被帝國佔領的拉巴納斯塔。"
 66,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_152","因為伊瓦利斯的傳說，
 我一直想著要親自去拉巴納斯塔看看。
@@ -163,9 +163,9 @@ int32,str,str
 67,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_153","那時候雖然拉巴納斯塔在帝國的佔領下，
 但並沒有被戰火波及。
 是一個十分美麗的沙漠之都。"
-68,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_154","項鍊是我覺得十分適合她，從一個帝國的旅行商人那裡買到的。
-倒是沒有問商人項鍊的來歷。"
-69,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_155","現在想想，那項鍊有可能是達爾馬斯卡王室代代傳承之物。
-布瓦基他們也說過另一條項鍊是拉斯勒王子交給邦加莫南保管的。"
-70,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_156","但究竟是誰將聖石一分為二做成項鍊的呢。
+68,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_154","項鏈是我覺得十分適合她，從一個帝國的旅行商人那裡買到的。
+倒是沒有問商人項鏈的來歷。"
+69,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_155","現在想想，那項鏈有可能是達爾馬斯卡王室代代傳承之物。
+布瓦基他們也說過另一條項鏈是拉斯勒王子交給邦加莫南保管的。"
+70,"TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_156","但究竟是誰將聖石一分為二做成項鏈的呢。
 看來有必要繼續調查。"

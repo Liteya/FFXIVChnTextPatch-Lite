@@ -6,11 +6,11 @@ int32,str,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作為完成本任務所需的物品，需要習得皮革秘籍第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1,"TEXT_CLSTAN600_02079_SEQ_01","艾爾德想要將商品推銷到神殿騎士團。為了調查皮甲的事情，前往格里達尼亞的製革匠公會，將<Sheet(EventItem,2001716,0)/>交給蓋娃。"
 2,"TEXT_CLSTAN600_02079_SEQ_02","將<Sheet(EventItem,2001716,0)/>交給了蓋娃，並詢問了皮甲的事情。向寶杖大街的艾爾德報告。"
-3,"TEXT_CLSTAN600_02079_SEQ_03","向艾爾德報告完畢。瞭解到艾爾德的祖父曾經向神殿騎士團推銷皮甲失敗，艾爾德委託冒險者製作推銷給神殿騎士團的皮甲。製作<Sheet(Item,12999,0)/>，並交給寶杖大街的艾爾德。
+3,"TEXT_CLSTAN600_02079_SEQ_03","向艾爾德報告完畢。了解到艾爾德的祖父曾經向神殿騎士團推銷皮甲失敗，艾爾德委託冒險者製作推銷給神殿騎士團的皮甲。製作<Sheet(Item,12999,0)/>，並交給寶杖大街的艾爾德。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作<Sheet(Item,12999,0)/>，需要習得皮革秘籍第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-4,"TEXT_CLSTAN600_02079_SEQ_04","將<Sheet(Item,12999,0)/>交給了艾爾德。艾爾德重新堅定了推銷製品的決心。前往伊修加爾德的輕羽鬥場前，和奧爾泰福謝爾談談。"
-5,"TEXT_CLSTAN600_02079_SEQ_05","和奧爾泰福謝爾進行了交談。透過艾爾德的推銷，成功獲得了神殿騎士團這個客戶，替祖父雪恥。和寶杖大街的艾爾德談談。"
+4,"TEXT_CLSTAN600_02079_SEQ_04","將<Sheet(Item,12999,0)/>交給了艾爾德。艾爾德重新堅定了推銷製品的決心。前往伊修加德的輕羽鬥場前，和奧爾泰福謝爾談談。"
+5,"TEXT_CLSTAN600_02079_SEQ_05","和奧爾泰福謝爾進行了交談。通過艾爾德的推銷，成功獲得了神殿騎士團這個客戶，替祖父雪恥。和寶杖大街的艾爾德談談。"
 6,"TEXT_CLSTAN600_02079_SEQ_06","和艾爾德進行了交談。艾爾德決定要將事業擴大到全世界，為此要建立一座以冒險者名字命名的大工房。以不輸給她們的勁頭，繼續作為製革匠活躍在全世界。
 
 ※滿足下列條件後，可以從製革匠公會的蓋娃那裡領取新的職業任務。
@@ -33,7 +33,7 @@ int32,str,str
 22,"TEXT_CLSTAN600_02079_SEQ_22",""
 23,"TEXT_CLSTAN600_02079_SEQ_23",""
 24,"TEXT_CLSTAN600_02079_TODO_00","將<Sheet(EventItem,2001716,0)/>交給製革匠公會的蓋娃"
-25,"TEXT_CLSTAN600_02079_TODO_01","向伊修加爾德的艾爾德報告"
+25,"TEXT_CLSTAN600_02079_TODO_01","向伊修加德的艾爾德報告"
 26,"TEXT_CLSTAN600_02079_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作<Sheet(Item,12999,0)/><Else/>將<Sheet(Item,12999,0)/>交給艾爾德</If>"
 27,"TEXT_CLSTAN600_02079_TODO_03","和輕羽鬥場前的奧爾泰福謝爾對話"
 28,"TEXT_CLSTAN600_02079_TODO_04","向寶杖大街的艾爾德報告"
@@ -56,8 +56,8 @@ int32,str,str
 45,"TEXT_CLSTAN600_02079_TODO_21",""
 46,"TEXT_CLSTAN600_02079_TODO_22",""
 47,"TEXT_CLSTAN600_02079_TODO_23",""
-48,"TEXT_CLSTAN600_02079_ELDE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦了！
-託你的福，我們的事業越做越大，一切順利！"
+48,"TEXT_CLSTAN600_02079_ELDE_000_000","<Highlight>ObjectParameter(1)</Highlight>，辛苦了！
+托你的服，我們的事業越做越大，一切順利！"
 49,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_001","真的呢，沒想到轉眼間你的生意也越做越大了。
 有接下來的目標嗎？"
 50,"TEXT_CLSTAN600_02079_ELDE_000_002","我接下來的目標，是要簽下一個前所未有的大客戶。
@@ -78,18 +78,18 @@ int32,str,str
 關於剛剛說的輕裝騎兵隊的裝備也是由我跑東跑西的。
 不過，我提出的皮甲建議怎麼都通不過……"
 57,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_100_006","因為神殿騎士團自古就是使用板金鎧或連環甲的，
-所以對那種和傳統相悖的皮甲有所牴觸。"
+所以對那種和傳統相悖的皮甲有所抵觸。"
 58,"TEXT_CLSTAN600_02079_ELDE_000_007","但是格里達尼亞的鬼哭隊和神勇隊都採用的皮甲，
 應該是有它的優點的吧？
 如果能調查一下這方面，或許會有勝算……"
-59,"TEXT_CLSTAN600_02079_ELDE_000_008"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能把這封信交給製革匠公會的蓋娃會長，
+59,"TEXT_CLSTAN600_02079_ELDE_000_008","<Highlight>ObjectParameter(1)</Highlight>，你能把這封信交給製革匠公會的蓋娃會長，
 找她商量一下推銷皮甲的方法嗎？"
 60,"TEXT_CLSTAN600_02079_ELDE_000_009","我就先和奧爾泰福謝爾先生一起想想
 怎麼讓神殿騎士團的人來看看我們的皮甲。"
-61,"TEXT_CLSTAN600_02079_ELDE_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能把這封信交給製革匠公會的蓋娃會長，
+61,"TEXT_CLSTAN600_02079_ELDE_000_010","<Highlight>ObjectParameter(1)</Highlight>，你能把這封信交給製革匠公會的蓋娃會長，
 找她商量一下推銷皮甲的方法嗎？"
-62,"TEXT_CLSTAN600_02079_GEVA_000_020","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我看沒接到皇都那邊不合理的訂單，
-還以為事情都蠻順利的……是有什麼事了嗎？"
+62,"TEXT_CLSTAN600_02079_GEVA_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>，我看沒接到皇都那邊不合理的訂單，
+還以為事情都挺順利的……是有什麼事了嗎？"
 63,"TEXT_CLSTAN600_02079_GEVA_000_021","真沒想到……一段時間沒見竟然發生了這麼大的事情啊。
 向神殿騎士團推銷皮甲啊……"
 64,"TEXT_CLSTAN600_02079_GEVA_000_022","我想你也知道，皮甲的優點就是輕盈和柔軟。
@@ -98,7 +98,7 @@ int32,str,str
 所以如果展現不出結實和堅固，那麼誰都不會接受的。"
 66,"TEXT_CLSTAN600_02079_GEVA_000_024","……以前有這麼個故事。
 在上上代會長在任的時候，
-有一個來自山嶽之都名叫西塞魯瓦的工匠來拜訪。"
+有一個來自山岳之都名叫西塞魯瓦的工匠來拜訪。"
 67,"TEXT_CLSTAN600_02079_GEVA_000_025","那位工匠的手藝相當高超，連上上代會長也讚不絕口……
 他之所以會來訪，是為了尋找一種新的製作方法，
 製作出可以承受巨獸一擊的結實皮甲。"
@@ -118,17 +118,17 @@ int32,str,str
 雖然以前也有過商討皮甲的先例，但最後被否決了。"
 73,"TEXT_CLSTAN600_02079_GERHARDT_000_042","雖然也不是不能理解他們想要秉承傳統的心情，
 但靈災之後，庫爾札斯的環境發生了巨大的改變，
-所以我們有些事也一定要進行改變才行。"
-74,"TEXT_CLSTAN600_02079_GERHARDT_000_043","（★未使用／削除予定★）"
+所以我們有些事也必須要進行改變才行。"
+74,"TEXT_CLSTAN600_02079_GERHARDT_000_043","（未使用/預計刪除）"
 75,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_100_043","……的確，自從靈災之後，氣候越來越冷。
 因為金屬太過冰涼，所以有人會在鎧甲下面穿很厚的衣服。
 我們可以把皮甲「暖和」的這一點當做重點。"
-76,"TEXT_CLSTAN600_02079_ELDE_000_044"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你有從蓋娃會長那裡得到什麼情報嗎？"
+76,"TEXT_CLSTAN600_02079_ELDE_000_044","<Highlight>ObjectParameter(1)</Highlight>，你有從蓋娃會長那裡得到什麼情報嗎？"
 77,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_045","……嗯，不管有多少優點，脆弱的鎧甲就是毫無意義的麼。
 但是，真的能夠製作出可以抵擋巨獸一擊的皮甲嗎？"
-78,"TEXT_CLSTAN600_02079_GERHARDT_000_046","哦？伊修加爾德出身的工匠和格里達尼亞的工匠
+78,"TEXT_CLSTAN600_02079_GERHARDT_000_046","哦？伊修加德出身的工匠和格里達尼亞的工匠
 一起創出的製作方法啊……
-神勇隊和鬼哭隊的實際使用資料也可以作為賣點呢。"
+神勇隊和鬼哭隊的實際使用數據也可以作為賣點呢。"
 79,"TEXT_CLSTAN600_02079_ELDE_000_047","……等、等一下。
 那位工匠叫什麼名字？"
 80,"TEXT_CLSTAN600_02079_GERHARDT_000_048","西塞魯瓦？！
@@ -136,7 +136,7 @@ int32,str,str
 81,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_049","我記得這個名字……我曾經在騎士團的記錄裡看到過。
 就是申請使用皮甲，但被駁回的那位工匠。
 原來他在那次失敗之後，到格里達尼亞修行去了啊。"
-82,"TEXT_CLSTAN600_02079_ELDE_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這一單我們絕對要簽下來！"
+82,"TEXT_CLSTAN600_02079_ELDE_000_050","<Highlight>ObjectParameter(1)</Highlight>，這一單我們絕對要簽下來！"
 83,"TEXT_CLSTAN600_02079_ELDE_100_051","祖父唯一留下的記錄中的皮甲……
 雖然我曾覺得束手無策，但有你在的話，一定可以成功的！"
 84,"TEXT_CLSTAN600_02079_ELDE_101_051","用你繼承下來的最高超的手藝，
@@ -148,7 +148,7 @@ int32,str,str
 需要習得皮革秘籍第三卷。"
 87,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_100_055","……這可是跨越了幾代人的再次挑戰啊。"
 88,"TEXT_CLSTAN600_02079_GERHARDT_100_060","現在正在開會。"
-89,"TEXT_CLSTAN600_02079_ELDE_000_060","怎麼樣， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+89,"TEXT_CLSTAN600_02079_ELDE_000_060","怎麼樣，<Highlight>ObjectParameter(1)</Highlight>？
 你製作出<Sheet(Item,12999,0)/>了嗎？"
 90,"TEXT_CLSTAN600_02079_ELDE_000_061","……這皮甲簡直太棒了！
 看到你精心製作的東西，
@@ -166,16 +166,16 @@ int32,str,str
 好了，讓我們決一勝負吧！"
 95,"TEXT_CLSTAN600_02079_ELDE_000_065","我會和奧爾泰福謝爾先生一起去輕羽鬥場，
 我們要在那裡舉行品評會。
-咱們就在那裡會合吧！"
-96,"TEXT_CLSTAN600_02079_ELDE_000_066","（★未使用／削除予定★）"
-97,"TEXT_CLSTAN600_02079_ELDE_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，之後的推銷工作就交給我這個商人吧！"
+咱們就在那裡匯合吧！"
+96,"TEXT_CLSTAN600_02079_ELDE_000_066","（未使用/預計刪除）"
+97,"TEXT_CLSTAN600_02079_ELDE_000_090","<Highlight>ObjectParameter(1)</Highlight>，之後的推銷工作就交給我這個商人吧！"
 98,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_091","我換好衣服後就會去輕羽鬥場，你先過去吧。"
 99,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_095","怎麼樣，這可是你製作的用來一決勝負的皮甲！
 好，讓我們開始這場跨越了幾代人的再次挑戰。
 品評會在輕羽鬥場進行。"
-100,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_096","（★未使用／削除予定★）"
-101,"TEXT_CLSTAN600_02079_ELDE_000_097"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，之後的推銷工作就交給我這個商人吧！"
-102,"TEXT_CLSTAN600_02079_HANDELOUP_000_070","……的確，因為氣候的劇變，前線的防備也受到了阻礙。
+100,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_096","（未使用/預計刪除）"
+101,"TEXT_CLSTAN600_02079_ELDE_000_097","<Highlight>ObjectParameter(1)</Highlight>，之後的推銷工作就交給我這個商人吧！"
+102,"TEXT_CLSTAN600_02079_HANDELOUP_000_070","……的確，因為氣候的巨變，前線的防備也受到了阻礙。
 金屬會被凍得十分冰涼，這也是造成凍傷的原因……
 但是很多人又會覺得革製的防具強度不夠。"
 103,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_071","這您不用擔心。"
@@ -187,11 +187,11 @@ int32,str,str
 所以想必手續上會花費很多時間，還請多多指教了。"
 107,"TEXT_CLSTAN600_02079_ELDE_000_075","好的，我們會盡全力效勞！"
 108,"TEXT_CLSTAN600_02079_HANDELOUP_000_076","不過話說回來，是哪位工匠製作出了這絕妙皮甲的？"
-109,"TEXT_CLSTAN600_02079_ELDE_000_077","是艾奧傑亞最棒的製革匠， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+109,"TEXT_CLSTAN600_02079_ELDE_000_077","是艾歐澤亞最棒的製革匠，<Highlight>ObjectParameter(1)</Highlight>！"
 110,"TEXT_CLSTAN600_02079_HANDELOUP_000_078","雖然我知道你是一個赫赫有名的冒險者，
 但沒想到還是一個手藝這麼高超的工匠。
 為對你的技藝表示敬意，我會把你的大名告訴大家的。"
-111,"TEXT_CLSTAN600_02079_ELDE_000_079"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你！
+111,"TEXT_CLSTAN600_02079_ELDE_000_079","<Highlight>ObjectParameter(1)</Highlight>，謝謝你！
 多虧了你，我離夢想又近了一步。"
 112,"TEXT_CLSTAN600_02079_ELDE_000_080","好了，我們回店裡吧！
 今後我們會更忙的！"
@@ -203,15 +203,15 @@ int32,str,str
 我想把我的事業擴大到全世界！"
 116,"TEXT_CLSTAN600_02079_GERHARDT_000_102","啊哈哈哈！
 看來我得趕快準備準備，把我的倉庫改裝成大工房了。"
-117,"TEXT_CLSTAN600_02079_ELDE_000_103"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真是太謝謝你了。
-你把祖父的手藝帶回了伊修加爾德，
+117,"TEXT_CLSTAN600_02079_ELDE_000_103","<Highlight>ObjectParameter(1)</Highlight>，真是太謝謝你了。
+你把祖父的手藝帶回了伊修加德，
 我一定會把這帶給我們的工匠看看的！"
 118,"TEXT_CLSTAN600_02079_ORTEFAUCHEL_000_104","神殿騎士團的人也都沸騰起來了。
 吵著讓我告訴他們製作出那皮甲的人叫什麼名字。"
 119,"TEXT_CLSTAN600_02079_ELDE_000_105","名字……對了！"
 120,"TEXT_CLSTAN600_02079_ELDE_000_106","我們就在新建的大工房的招牌上……
-刻上 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的名字吧！
-新品牌「 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 」誕生了！！"
+刻上<Highlight>ObjectParameter(1)</Highlight>的名字吧！
+新品牌「<Highlight>ObjectParameter(1)</Highlight>」誕生了！！"
 121,"TEXT_CLSTAN600_02079_GERHARDT_100_110","這真是歷史性的壯舉……
 這一切都是多虧了你的高超手藝！"
 122,"TEXT_CLSTAN600_02079_SYSTEM_000_500","「製革匠」的故事到此告一段落！

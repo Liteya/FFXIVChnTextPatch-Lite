@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ606_02784_TODO_21",""
 46,"TEXT_STMBDZ606_02784_TODO_22",""
 47,"TEXT_STMBDZ606_02784_TODO_23",""
-48,"TEXT_STMBDZ606_02784_ESUGEN_000_000","呀， <Highlight>ObjectParameter(1)</Highlight> ，
+48,"TEXT_STMBDZ606_02784_ESUGEN_000_000","呀，<Highlight>ObjectParameter(1)</Highlight>，
 我這邊已經準備得差不多了。
 今天已經沒有要委託你的事了。"
 49,"TEXT_STMBDZ606_02784_JELME_000_001","那個，也速根叔叔，
@@ -61,7 +61,7 @@ int32,str,str
 51,"TEXT_STMBDZ606_02784_ESUGEN_000_003","啊？什麼？！
 兄弟鬥技嗎……不用打都知道我肯定會輸，
 不過，作為奧羅尼部的男兒，又不能不參加……"
-52,"TEXT_STMBDZ606_02784_ESUGEN_000_004","更重要的是，如果不全力以赴，就沒辦法向太陽神阿吉木交代啊。
+52,"TEXT_STMBDZ606_02784_ESUGEN_000_004","更重要的是，如果不全力以赴，就沒法向太陽神阿吉木交代啊。
 ……我要出去鍛鍊一下。"
 53,"TEXT_STMBDZ606_02784_JELME_000_005","請問，<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>是叔叔的朋友嗎？
 可不可以陪我說說話呢？"
@@ -117,12 +117,12 @@ int32,str,str
 我知道你體質虛弱……
 可是，我不喜歡你這樣看不起自己！"
 73,"TEXT_STMBDZ606_02784_ESUGEN_000_055","那封信足以讓我珍藏一輩子。
- <Highlight>ObjectParameter(1)</Highlight> ，謝謝你把它交給了我。"
+<Highlight>ObjectParameter(1)</Highlight>，謝謝你把它交給了我。"
 74,"TEXT_STMBDZ606_02784_ESUGEN_000_060","不小心讓者勒蔑生氣了……
 我長年都是小弟，早就習慣被人那樣說了。
 所以沒有怎麼在意，心想自嘲一下就能過去……"
 75,"TEXT_STMBDZ606_02784_ESUGEN_000_061","不過，看來確實有人關心我，為我而鳴不平啊……
-我知道這樣說不太適合，但我真的很高興。"
+我知道這樣說不太合適，但我真的很高興。"
 76,"TEXT_STMBDZ606_02784_ESUGEN_000_062","我比任何人都清楚，
 自己沒辦法獲得受人認可的實力。
 不過……至少，不能再受到侮辱卻一笑了之了。"

@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_STMBDY404_02613_RODNEY_100_000","另外，調查隊決定將據點所在的地區命名為豐水地帶。
 ……這將是在那座島嶼調查的最後的地區吧。"
 50,"TEXT_STMBDY404_02613_RODNEY_000_001","你要是準備好了，就前往豐水地帶的據點，
-與那裡的可露兒小姐會合吧！
+與那裡的可露兒小姐匯合吧！
 祝你好運！"
 51,"TEXT_STMBDY404_02613_SYSTEM_000_010","和「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」相同，
 從單人最多到滿編小隊（8人），

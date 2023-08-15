@@ -64,7 +64,7 @@ int32,str,str
 你去幫幫摩提夏。"
 56,"TEXT_AKTKMD105_04413_ALPHINAUD_000_050","你去幫幫摩提夏吧，
 他不會使用治療魔法，遇到這種事一定很無措。"
-57,"TEXT_AKTKMD105_04413_MATSYA_000_060","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+57,"TEXT_AKTKMD105_04413_MATSYA_000_060","啊……<Highlight>ObjectParameter(1)</Highlight>！"
 58,"TEXT_AKTKMD105_04413_MATSYA_000_061","這是波洛伽護法村的村長耶如維特先生，
 雖然受了些傷，不過目前沒有大礙！"
 59,"TEXT_AKTKMD105_04413_YERUVVET_000_062","情況我已經聽摩提夏說了，
@@ -91,7 +91,7 @@ int32,str,str
 帶著那樣幼小的孩子逃命實在是太危險了，
 希望你能去幫幫他們……"
 69,"TEXT_AKTKMD105_04413_MATSYA_000_072","我、我想去救凱剌謝弗夫婦！
-但是我沒辦法和那些野獸戰鬥，
+但是我沒法和那些野獸戰鬥，
 可以請你幫幫忙嗎？"
 70,"TEXT_AKTKMD105_04413_MATSYA_000_073","太好了，謝謝你！
 聖仙阿迦瑪之墓就在西邊的寺廟中。
@@ -117,7 +117,7 @@ int32,str,str
 83,"TEXT_AKTKMD105_04413_BALLOON_000_120","嘶嘶嘶嘶！"
 84,"TEXT_AKTKMD105_04413_BALLOON_000_125","什……為什麼……"
 85,"TEXT_AKTKMD105_04413_SYSTEM_000_130","疑似凱剌謝弗的男性身負致命傷……"
-86,"TEXT_AKTKMD105_04413_MATSYA_000_131"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我實在是放心不下，還是來了……"
+86,"TEXT_AKTKMD105_04413_MATSYA_000_131","<Highlight>ObjectParameter(1)</Highlight>，我實在是放心不下，還是來了……"
 87,"TEXT_AKTKMD105_04413_MATSYA_000_132","怎麼會這樣……"
 88,"TEXT_AKTKMD105_04413_QERASAF_000_133","有誰來……誰來……"
 89,"TEXT_AKTKMD105_04413_QERASAF_000_134","我的手腳……不聽使喚了……"

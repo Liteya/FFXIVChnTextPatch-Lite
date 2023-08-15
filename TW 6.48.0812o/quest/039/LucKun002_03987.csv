@@ -59,12 +59,12 @@ int32,str,str
 51,"TEXT_LUCKUN002_03987_CERIGG_000_010","只有放開手腳才能開闢新的未來嘛。
 要是真到了危急的時刻，就由你來出手相助吧。"
 52,"TEXT_LUCKUN002_03987_TAYNOR_000_015","如果準備好了的話，就開始蛇心的修行吧。"
-53,"TEXT_LUCKUN002_03987_TAYNOR_000_050","這裡似乎就蠻好。
+53,"TEXT_LUCKUN002_03987_TAYNOR_000_050","這裡似乎就挺好。
 那麼蛇心，你先從記憶當中讀取術式……
 然後我會試著將我的力量加入其中。"
 54,"TEXT_LUCKUN002_03987_TAYNOR_000_051","不過由於使用法術要求注意力集中，
 此時如果有魔物出現的話將無法應對……
-所以 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，到時候就拜託你了！"
+所以<Highlight>ObjectParameter(1)</Highlight>，到時候就拜託你了！"
 55,"TEXT_LUCKUN002_03987_UNUKALHAI_000_052","那就開始了！"
 56,"TEXT_LUCKUN002_03987_UNUKALHAI_000_053","唔……沒想到對準乙太的著力點
 居然如此困難……！"
@@ -73,7 +73,7 @@ int32,str,str
 58,"TEXT_LUCKUN002_03987_UNUKALHAI_000_055","成功了，打開了一個很小的空洞……！
 不過這個氣息是？！"
 59,"TEXT_LUCKUN002_03987_TAYNOR_000_056","魔物要來了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，準備迎擊！"
+<Highlight>ObjectParameter(1)</Highlight>，準備迎擊！"
 60,"TEXT_LUCKUN002_03987_UNUKALHAI_000_060","跟緹納對話，開始修行吧！"
 61,"TEXT_LUCKUN002_03987_UNUKALHAI_000_150","呼，呼，呼……沒想到即使用盡全力，
 也只是勉強打開那麼小的門……"
@@ -89,13 +89,13 @@ int32,str,str
 不過這下應該沒問題了。"
 66,"TEXT_LUCKUN002_03987_UNUKALHAI_000_250","感受到了……緹納的氣息……
 看到了……他的乙太流動……
-這樣一來……下次一定可以！！"
+這樣一來……下次一定能行！！"
 67,"TEXT_LUCKUN002_03987_UNUKALHAI_000_251","緹納，來吧！"
 68,"TEXT_LUCKUN002_03987_TAYNOR_000_252","難以置信……
 沒想到這麼快就能實現如此默契的配合……"
-69,"TEXT_LUCKUN002_03987_UNUKALHAI_000_253"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，魔物要來了！"
+69,"TEXT_LUCKUN002_03987_UNUKALHAI_000_253","<Highlight>ObjectParameter(1)</Highlight>，魔物要來了！"
 70,"TEXT_LUCKUN002_03987_UNUKALHAI_000_350","我已經越來越進入狀態了。
-剩下的就是一定要記住這種感覺才行。"
+剩下的就是必須要記住這種感覺才行。"
 71,"TEXT_LUCKUN002_03987_TAYNOR_000_351","和蛇心配合時的那種感覺，
 我總覺得似曾相識……
 雖然這明明是不可能的……"

@@ -41,7 +41,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 37,"186-190",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 38,"191-195",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 39,"196-200",0,255,255,0,0,False,True,True,True,True,True,True,True,True
-40,"[翻訳不要] レベル区分終端",0,255,255,0,0,False,True,True,True,True,True,True,True,True
+40,"[翻訳不要] レベル區分終端",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 1000,"秘籍：第1卷",1,50,255,0,10,True,True,True,True,True,True,True,True,True
 1001,"秘籍：第2卷",1,50,255,0,9,True,True,True,True,True,True,True,True,True
 1002,"秘籍：第3卷",1,50,255,0,8,True,True,True,True,True,True,True,True,True
@@ -60,25 +60,25 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1015,"中庸工藝館交易",4,70,255,68766,3,False,True,False,False,False,True,True,False,False
 1016,"中庸工藝館交易",4,70,255,68769,4,False,False,False,False,False,False,False,True,True
 1017,"鳥人族",5,1,255,0,1,False,True,True,True,True,True,True,True,True
-1018,"莫古利族",5,50,255,0,2,False,True,True,True,True,True,True,True,True
+1018,"莫古力族",5,50,255,0,2,False,True,True,True,True,True,True,True,True
 1019,"鯰魚精族",5,60,255,0,3,False,True,True,True,True,True,True,True,True
-1020,"熙洛．阿里亞珀",6,55,255,0,1,False,True,True,True,True,True,True,True,True
-1021,"梅．娜格",6,55,255,0,2,False,True,True,True,True,True,True,True,True
+1020,"熙洛·阿里亞珀",6,55,255,0,1,False,True,True,True,True,True,True,True,True
+1021,"梅·娜格",6,55,255,0,2,False,True,True,True,True,True,True,True,True
 1022,"紅",6,55,255,0,3,False,True,True,True,True,True,True,True,True
 1023,"亞德基拉",6,55,255,0,4,False,True,True,True,True,True,True,True,True
-1024,"凱．希爾",6,55,255,0,5,False,True,True,True,True,True,True,True,True
-1025,"重建伊修加爾德1",7,20,255,73,3,False,True,True,True,True,True,True,True,True
+1024,"凱·希爾",6,55,255,0,5,False,True,True,True,True,True,True,True,True
+1025,"重建伊修加德1",7,20,255,73,3,False,True,True,True,True,True,True,True,True
 1026,"其他",7,20,255,73,7,False,True,True,True,True,True,True,True,True
-1027,"重建伊修加爾德2",7,20,255,73,4,False,True,True,True,True,True,True,True,True
+1027,"重建伊修加德2",7,20,255,73,4,False,True,True,True,True,True,True,True,True
 1028,"天鋼工具",7,80,255,69384,1,False,True,True,True,True,True,True,True,True
 1029,"矮人族",5,70,255,0,4,False,True,True,True,True,True,True,True,True
-1030,"艾爾．圖",6,55,255,0,6,False,True,True,True,True,True,True,True,True
-1031,"重建伊修加爾德3",7,20,255,73,5,False,True,True,True,True,True,True,True,True
+1030,"艾爾·圖",6,55,255,0,6,False,True,True,True,True,True,True,True,True
+1031,"重建伊修加德3",7,20,255,73,5,False,True,True,True,True,True,True,True,True
 1032,"50-60",8,50,255,0,4,False,True,True,True,True,True,True,True,True
 1033,"61-70",8,61,255,0,3,False,True,True,True,True,True,True,True,True
 1034,"71-80",8,70,255,0,2,False,True,True,True,True,True,True,True,True
 1035,"裝飾品1",3,50,255,0,3,False,False,False,False,False,False,False,True,False
-1036,"重建伊修加爾德4",7,20,255,73,6,False,True,True,True,True,True,True,True,True
+1036,"重建伊修加德4",7,20,255,73,6,False,True,True,True,True,True,True,True,True
 1037,"狄蘭達爾",6,55,255,0,7,False,True,True,True,True,True,True,True,True
 1038,"秘籍：第9卷",1,90,255,0,2,True,True,True,True,True,True,True,True,True
 1039,"81-90",8,80,255,0,1,False,True,True,True,True,True,True,True,True
@@ -88,7 +88,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1043,"內外裝潢",2,12,255,0,1,False,True,True,True,True,True,True,True,False
 1044,"庭具",2,12,255,0,2,False,True,True,True,True,True,True,True,True
 1045,"家具",2,12,255,0,3,False,True,True,True,True,True,True,True,True
-1046,"桌臺&地毯",2,12,255,0,4,False,True,True,True,True,True,True,True,False
+1046,"桌台&地毯",2,12,255,0,4,False,True,True,True,True,True,True,True,False
 1047,"桌上",2,12,255,0,5,False,True,True,True,True,True,True,True,True
 1048,"壁掛",2,12,255,0,6,False,True,True,True,True,True,True,True,False
 1049,"其他",2,12,255,0,7,False,False,False,False,False,False,False,True,False
@@ -105,7 +105,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 2003,"基拉巴尼亞",10,255,60,0,6,False,True,True,True,True,True,True,True,True
 2004,"奧薩德",10,255,60,0,5,False,True,True,True,True,True,True,True,True
 2005,"諾弗蘭特",10,255,70,0,4,False,True,True,True,True,True,True,True,True
-2006,"重建伊修加爾德",11,255,1,74,3,False,True,True,True,True,True,True,True,True
+2006,"重建伊修加德",11,255,1,74,3,False,True,True,True,True,True,True,True,True
 2007,"天鋼工具",11,255,80,69384,2,False,True,True,True,True,True,True,True,True
 2008,"50-70",9,255,50,67631,3,False,True,True,True,True,True,True,True,True
 2009,"71-80",9,255,70,67631,2,False,True,True,True,True,True,True,True,True

@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_BANARK120_04570_SEQ_21",""
 22,"TEXT_BANARK120_04570_SEQ_22",""
 23,"TEXT_BANARK120_04570_SEQ_23",""
-24,"TEXT_BANARK120_04570_TODO_00","在<Sheet(EObj,2012900,0)/>使用<Sheet(EventItem,2003405,0)/> 獲得<Sheet(EventItem,2003406,0)/>"
+24,"TEXT_BANARK120_04570_TODO_00","在<Sheet(EObj,2012900,0)/>使用<Sheet(EventItem,2003405,0)/> 獲取<Sheet(EventItem,2003406,0)/>"
 25,"TEXT_BANARK120_04570_TODO_01","將<Sheet(EventItem,2003406,0)/>交給摩羅盧"
 26,"TEXT_BANARK120_04570_TODO_02",""
 27,"TEXT_BANARK120_04570_TODO_03",""
@@ -53,7 +53,7 @@ int32,str,str
 46,"TEXT_BANARK120_04570_TODO_22",""
 47,"TEXT_BANARK120_04570_TODO_23",""
 48,"TEXT_BANARK120_04570_MARU_000_000","如今河馬舍和水池都已建成，河馬們終於有了固定的住處，
-雖然都是好事，但也一定要定期進行檢查和維修才行。
+雖然都是好事，但也必須要定期進行檢查和維修才行。
 畢竟我還是希望可以讓河馬們長久住下去……"
 49,"TEXT_BANARK120_04570_MARU_000_001","所以我想讓你幫忙收集維修所需的材料。
 請前往神我寺西邊，在附近的<Sheet(EObj,2012900,0)/>上

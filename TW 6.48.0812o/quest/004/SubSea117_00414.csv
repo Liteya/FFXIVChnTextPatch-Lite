@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_SUBSEA117_00414_SEQ_00","黑渦團的警備隊長吉姆托塔想借助 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的力量，抓住偷偷接近莫拉比造船廠的可疑分子。"
-1,"TEXT_SUBSEA117_00414_SEQ_01","據警備隊長吉姆托塔說，可疑分子很有可能盯上了新船勝利號。把守正門的烏爾斯威爾修特和把守後門的卡．南戈都看見了可疑的海盜。和他倆談談。"
+0,"TEXT_SUBSEA117_00414_SEQ_00","黑渦團的警備隊長吉姆托塔想藉助<Highlight>ObjectParameter(1)</Highlight>的力量，抓住偷偷接近莫拉比造船廠的可疑分子。"
+1,"TEXT_SUBSEA117_00414_SEQ_01","據警備隊長吉姆托塔說，可疑分子很有可能盯上了新船勝利號。把守正門的烏爾斯威爾修特和把守後門的卡·南戈都看見了可疑的海盜。和他倆談談。"
 2,"TEXT_SUBSEA117_00414_SEQ_02","和衛兵談完話。前往目擊到可疑的海盜的空心穴懸崖，確認一下情況。"
 3,"TEXT_SUBSEA117_00414_SEQ_03","和可疑的海盜對話，海盜留下了意味深長的話後便離開了。向警備隊長吉姆托塔報告。"
 4,"TEXT_SUBSEA117_00414_SEQ_04","成功阻止了勝利號的爆炸。但事件的主犯阿茶菲因是首席造船師阿特比爾姆的父親。此次事件乃親人所為，因而他感到十分自責。和阿特比爾姆對話。"
@@ -54,17 +54,17 @@ int32,str,str
 現在他們活躍了起來。"
 49,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_1","他們很可能想要潛入這造船廠。
 如果真是這樣的話，他們的目標想必就是正在建造中的新船了。"
-50,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_2","勝利號可是利姆薩．羅敏薩的希望，
+50,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_2","勝利號可是利姆薩·羅敏薩的希望，
 不能讓可疑分子碰它一絲一毫。"
 51,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_3","一定要早些抓住犯人……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你也幫幫我們。"
+<Highlight>ObjectParameter(1)</Highlight>，請你也幫幫我們。"
 52,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_4","沒有你這個能人的協助，
 我們就無法保護這個造船廠。
 拜託你了。"
 53,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_5","目前，部下向我報告，說他們目擊到了可疑的海盜。
-你先去和我的部下們談談，瞭解一下情況。"
+你先去和我的部下們談談，了解一下情況。"
 54,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_6","他們分別是把守正門的烏爾斯威爾修特
-和把守後門的卡．南戈。
+和把守後門的卡·南戈。
 先去問誰由你決定。"
 55,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_7","如果你發現了可疑的海盜，就去和他對話。
 萬一情況有變，馬上來向我報告。
@@ -103,7 +103,7 @@ int32,str,str
 他們好像準備了大量的……炸藥！"
 75,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_49","敵人的行動也太快了！
 怎麼會發生這種事！"
-76,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_50"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你都聽到了吧。
+76,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_50","<Highlight>ObjectParameter(1)</Highlight>，你都聽到了吧。
 請你火速趕往造船碼頭，阻止海盜！"
 77,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_51","等我照顧好他，也會趕往現場的。"
 78,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_52","一切都拜託你了！"
@@ -127,8 +127,8 @@ int32,str,str
 87,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_69","海盜的頭領原來是阿特比爾姆的父親啊……"
 88,"TEXT_SUBSEA117_00414_AHTZAPFYN_000_70","全都是這艘船的錯！
 這種破船，我阿茶菲因馬上就能給炸成渣！"
-89,"TEXT_SUBSEA117_00414AHTBYRM_000_71","吉姆托塔， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-打倒我這混帳老爹，
+89,"TEXT_SUBSEA117_00414AHTBYRM_000_71","吉姆托塔，<Highlight>ObjectParameter(1)</Highlight>！
+打倒我這混賬老爹，
 保護勝利號！"
 90,"TEXT_SUBSEA117_00414_AHTZAPFYN_000_80","我也真是上歲數了。
 竟然被這麼個黃毛冒險者打倒……"
@@ -136,24 +136,24 @@ int32,str,str
 92,"TEXT_SUBSEA117_00414_AHTZAPFYN_000_82","哼……真是艘大船啊。
 又大……又不祥……
 而建造它的……就是你……"
-93,"TEXT_SUBSEA117_00414_AHTBYRM_000_90","……我要感謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+93,"TEXT_SUBSEA117_00414_AHTBYRM_000_90","……我要感謝你，<Highlight>ObjectParameter(1)</Highlight>。
 要是沒有你，勝利號現在不知會變成什麼樣……"
 94,"TEXT_SUBSEA117_00414_AHTBYRM_000_91","好了……
 要趕快收拾一下被海盜們的髒腳踩亂的碼頭了！"
 95,"TEXT_SUBSEA117_00414_AHTBYRM_000_92","也要收拾一下我混亂的思緒。
-我想要好好整理一下這次老爹的事情……
+我想要好好整理一下這回老爹的事情……
 不好意思，能讓我一個人靜一靜麼？"
 96,"TEXT_SUBSEA117_00414_AHTBYRM_000_93","你跟吉姆托塔也這麼說。
 順便傳達一下我的道歉與感謝之意。"
 97,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_100","喲，這次真是辛苦你了……
 感謝你的鼎力協助。"
 98,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_101","不誇張地說，你所保護的那艘船，
-是利姆薩．羅敏薩的希望。
+是利姆薩·羅敏薩的希望。
 你可以為此而驕傲。"
 99,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_102","為了防止這類事件再次發生，
-我們一定要重新審視一下警備體制了……
+我們必須要重新審視一下警備體制了……
 "
-100,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_103","……阿特比爾姆的事我瞭解了。
+100,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_103","……阿特比爾姆的事我了解了。
 自己的親人做了那種事，感到自責也是可以理解的。
 我們還是默默地守護他，直到他重新振作起來吧。"
 101,"TEXT_SUBSEA117_00414_GHIMTHOTA_000_104","但身為首席造船師，想要了結這件事只有一個辦法。
@@ -166,15 +166,15 @@ int32,str,str
 104,"TEXT_SUBSEA117_00414_QIB_TODO001","阻止勝利號爆炸，打倒阿茶菲因！"
 105,"TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_01","老爹，停手吧！"
 106,"TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_02","將寶物佔為己有，這才是海盜！"
-107,"TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_03","大夥，請阻止我的混帳老爹！"
+107,"TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_03","大伙，請阻止我的混賬老爹！"
 108,"TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_04","交給我吧。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，卡．南戈，我們上！"
+<Highlight>ObjectParameter(1)</Highlight>，卡·南戈，我們上！"
 109,"TEXT_SUBSEA117_00414_MAMOOJA_BATTLETALK_11","阿茶菲因，按照約定我來助你一臂之力！"
 110,"TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_12","輝鱗人傭兵？！"
 111,"TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_13","傭兵就交給我吧，你去打倒阿茶菲因！"
 112,"TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_21","只好使出這一手了！"
 113,"TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_22","都給我滾開！"
-114,"TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_23","大夥，再堅持一下！"
+114,"TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_23","大伙，再堅持一下！"
 115,"TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_31","冒險者當心！
 阿茶菲因的攻擊力上升了！"
 116,"TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_41","我竟然……"

@@ -50,11 +50,11 @@ int32,str,str
 46,"TEXT_HEAVNA109_01588_TODO_22",""
 47,"TEXT_HEAVNA109_01588_TODO_23",""
 48,"TEXT_HEAVNA109_01588_ARTOIREL_000_000","我把騎兵送到隼巢去，
- <Highlight>ObjectParameter(1)</Highlight> 閣下能不能去北邊搜尋異端者的基地？"
+<Highlight>ObjectParameter(1)</Highlight>閣下能不能去北邊搜尋異端者的基地？"
 49,"TEXT_HEAVNA109_01588_ARTOIREL_000_001","他們的<Sheet(EObj,2005408,0)/>應該還在。
 只要跟著腳印走，就有可能發現基地……
 不過時間久了，腳印就會被雪蓋住了。"
-50,"TEXT_HEAVNA109_01588_ARTOIREL_000_002","這也就是說要儘早採取行動。
+50,"TEXT_HEAVNA109_01588_ARTOIREL_000_002","這也就是說要盡早採取行動。
 雖然很危險，但還是希望你能夠馬上出動！"
 51,"TEXT_HEAVNA109_01588_ARTOIREL_000_003","太感謝了。
 我到達隼巢後，會帶領援兵隨後趕上你的，
@@ -67,14 +67,14 @@ int32,str,str
 55,"TEXT_HEAVNA109_01588_Q1_000_000","（★未使用／削除予定★）"
 56,"TEXT_HEAVNA109_01588_A1_000_001","（★未使用／削除予定★）"
 57,"TEXT_HEAVNA109_01588_A1_000_002","（★未使用／削除予定★）"
-58,"TEXT_HEAVNA109_01588_ARTOIREL_000_020"," <Highlight>ObjectParameter(1)</Highlight> 閣下！
+58,"TEXT_HEAVNA109_01588_ARTOIREL_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下！
 我追著你的腳印找到了這裡，
 不過看樣子你已經全都解決了。"
 59,"TEXT_HEAVNA109_01588_ARTOIREL_000_021","原來如此……
 這廢舊牧場的荒屋地下竟然藏著異端者的基地……"
 60,"TEXT_HEAVNA109_01588_ARTOIREL_000_022","雖然讓冰之巫女逃掉了，但你還是立了大功。
 你摧毀了他們的一個基地，
-真不愧是 <Highlight>ObjectParameter(1)</Highlight> 閣下！"
+真不愧是<Highlight>ObjectParameter(1)</Highlight>閣下！"
 61,"TEXT_HEAVNA109_01588_ARTOIREL_000_023","十分感謝你幫助我們。"
 62,"TEXT_HEAVNA109_01588_ARTOIREL_000_030","不過話說回來，
 異端者竟在這種荒屋之下建造基地……
@@ -82,7 +82,7 @@ int32,str,str
 63,"TEXT_HEAVNA109_01588_KIGHTB01588_000_031","周圍已經沒有異端者了。
 看來他們已經都被制服了。"
 64,"TEXT_HEAVNA109_01588_QIB_TODO001","搜索異端者基地！"
-65,"TEXT_HEAVNA109_01588_QIB_TODO002","追蹤異端者，搜索基地！"
+65,"TEXT_HEAVNA109_01588_QIB_TODO002","追蹤異端者，查找基地！"
 66,"TEXT_HEAVNA109_01588_QIB_TODO003","打倒異端者！"
 67,"TEXT_HEAVNA109_01588_QIB_TODO004","在指定地點張望四周"
 68,"TEXT_HEAVNA109_01588_HERETIC01588_BATTLETALK_000_100","咳咳……竟然在這種地方敗下陣來……"

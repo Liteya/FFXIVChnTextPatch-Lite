@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_BANOMI121_04627_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-A4調查平臺的斯提格瑪．肆有特殊的委託。"
+A4調查平台的斯提格瑪四有特殊的委託。"
 1,"TEXT_BANOMI121_04627_SEQ_01","將委託物品交給熱衷養育的異亞"
-2,"TEXT_BANOMI121_04627_SEQ_02","向斯提格瑪．肆報告"
+2,"TEXT_BANOMI121_04627_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI121_04627_SEQ_03",""
 4,"TEXT_BANOMI121_04627_SEQ_04",""
 5,"TEXT_BANOMI121_04627_SEQ_05",""
@@ -29,7 +29,7 @@ A4調查平臺的斯提格瑪．肆有特殊的委託。"
 22,"TEXT_BANOMI121_04627_SEQ_22",""
 23,"TEXT_BANOMI121_04627_SEQ_23",""
 24,"TEXT_BANOMI121_04627_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給異亞村落的熱衷養育的異亞</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給異亞村落的熱衷養育的異亞</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給異亞村落的熱衷養育的異亞</If><Else/></If></If></If>"
-25,"TEXT_BANOMI121_04627_TODO_01","向斯提格瑪．肆報告"
+25,"TEXT_BANOMI121_04627_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI121_04627_TODO_02",""
 27,"TEXT_BANOMI121_04627_TODO_03",""
 28,"TEXT_BANOMI121_04627_TODO_04",""
@@ -52,7 +52,7 @@ A4調查平臺的斯提格瑪．肆有特殊的委託。"
 45,"TEXT_BANOMI121_04627_TODO_21",""
 46,"TEXT_BANOMI121_04627_TODO_22",""
 47,"TEXT_BANOMI121_04627_TODO_23",""
-48,"TEXT_BANOMI121_04627_STIGMA4_000_000","熱衷於養育繆．繆咻的異亞族發來了委託。
+48,"TEXT_BANOMI121_04627_STIGMA4_000_000","熱衷於養育繆·繆咻的異亞族發來了委託。
 對方表示想要改善新生命體的居住環境。"
 49,"TEXT_BANOMI121_04627_STIGMA4_000_001","此次需要的是能在新星的遊樂區採集到的，
 對於敏感表皮也很友好的天然素材。
@@ -78,7 +78,7 @@ A4調查平臺的斯提格瑪．肆有特殊的委託。"
 59,"TEXT_BANOMI121_04627_STIGMA4_000_020","確認同盟者已返回。
 請報告委託的完成情況……"
 60,"TEXT_BANOMI121_04627_STIGMA4_000_021","判定來自異亞族的委託工作已完成。
-對同盟者 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的協助給予高度評價。"
-61,"TEXT_BANOMI121_04627_STIGMA4_000_022","新生命體的繆．繆咻是極為罕見的物種。
+對同盟者<Highlight>ObjectParameter(1)</Highlight>的協助給予高度評價。"
+61,"TEXT_BANOMI121_04627_STIGMA4_000_022","新生命體的繆·繆咻是極為罕見的物種。
 即使異亞族不委託，
 背世咖啡廳也將會把養育和觀察工作堅持下去。"

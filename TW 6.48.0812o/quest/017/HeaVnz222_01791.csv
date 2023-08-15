@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ222_01791_SEQ_00","自由腦窟穴的啥都吃正注視著建築物。"
-1,"TEXT_HEAVNZ222_01791_SEQ_01","啥都吃拜託冒險者準備<Sheet(EventItem,2001615,0)/>。前往龍堡參天高地的唯一腦窟穴，獲得<Sheet(EventItem,2001615,0)/>。"
+1,"TEXT_HEAVNZ222_01791_SEQ_01","啥都吃拜託冒險者準備<Sheet(EventItem,2001615,0)/>。前往龍堡參天高地的唯一腦窟穴，獲取<Sheet(EventItem,2001615,0)/>。"
 2,"TEXT_HEAVNZ222_01791_SEQ_02","獲得了<Sheet(EventItem,2001615,0)/>。將<Sheet(EventItem,2001615,0)/>交給自由腦窟穴的啥都吃。"
 3,"TEXT_HEAVNZ222_01791_SEQ_03","將<Sheet(EventItem,2001615,0)/>交給了啥都吃。他們的建築物似乎是由荒地深處的泥土混合上骨頜族的唾液堆砌而成的。"
 4,"TEXT_HEAVNZ222_01791_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ222_01791_SEQ_21",""
 22,"TEXT_HEAVNZ222_01791_SEQ_22",""
 23,"TEXT_HEAVNZ222_01791_SEQ_23",""
-24,"TEXT_HEAVNZ222_01791_TODO_00","獲得<Sheet(EventItem,2001615,0)/>"
+24,"TEXT_HEAVNZ222_01791_TODO_00","獲取<Sheet(EventItem,2001615,0)/>"
 25,"TEXT_HEAVNZ222_01791_TODO_01","將<Sheet(EventItem,2001615,0)/>交給啥都吃"
 26,"TEXT_HEAVNZ222_01791_TODO_02",""
 27,"TEXT_HEAVNZ222_01791_TODO_03",""

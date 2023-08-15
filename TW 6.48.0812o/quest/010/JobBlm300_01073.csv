@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_JOBBLM300_01073_SEQ_00","咒術師公會的雅雅凱，有事情想要委託給冒險者。"
-1,"TEXT_JOBBLM300_01073_SEQ_01","接受了雅雅凱的委託。前往東薩納蘭的跨天橋，調查<Sheet(EObj,2002429,0)/>，並討伐出現的妖異，獲得<Sheet(EventItem,2000954,0)/>。"
+1,"TEXT_JOBBLM300_01073_SEQ_01","接受了雅雅凱的委託。前往東薩納蘭的跨天橋，調查<Sheet(EObj,2002429,0)/>，並討伐出現的妖異，獲取<Sheet(EventItem,2000954,0)/>。"
 2,"TEXT_JOBBLM300_01073_SEQ_02","獲得了<Sheet(EventItem,2000954,0)/>。在東薩納蘭的跨天橋，將<Sheet(EventItem,2000954,0)/>銘刻於<Sheet(EObj,2002429,0)/>。"
 3,"TEXT_JOBBLM300_01073_SEQ_03","銘刻了<Sheet(EventItem,2000954,0)/>。前往烏爾達哈的咒術師公會，和雅雅凱對話。"
 4,"TEXT_JOBBLM300_01073_SEQ_04","和雅雅凱進行了交談。前往烏爾達哈的密爾瓦內斯禮拜堂，向菈菈伊報告。"
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBBLM300_01073_SEQ_21",""
 22,"TEXT_JOBBLM300_01073_SEQ_22",""
 23,"TEXT_JOBBLM300_01073_SEQ_23",""
-24,"TEXT_JOBBLM300_01073_TODO_00","調查跨天橋的<Sheet(EObj,2002429,0)/>並討伐妖異 獲得<Sheet(EventItem,2000954,0)/>"
+24,"TEXT_JOBBLM300_01073_TODO_00","調查跨天橋的<Sheet(EObj,2002429,0)/>並討伐妖異 獲取<Sheet(EventItem,2000954,0)/>"
 25,"TEXT_JOBBLM300_01073_TODO_01","將<Sheet(EventItem,2000954,0)/>銘刻於<Sheet(EObj,2002429,0)/>"
 26,"TEXT_JOBBLM300_01073_TODO_02","和咒術師公會的雅雅凱對話"
 27,"TEXT_JOBBLM300_01073_TODO_03","向密爾瓦內斯禮拜堂的菈菈伊報告"
@@ -51,18 +51,18 @@ int32,str,str
 45,"TEXT_JOBBLM300_01073_TODO_21",""
 46,"TEXT_JOBBLM300_01073_TODO_22",""
 47,"TEXT_JOBBLM300_01073_TODO_23",""
-48,"TEXT_JOBBLM300_01073_YAYAKE_000_000"," <Highlight>ObjectParameter(1)</Highlight> 。
+48,"TEXT_JOBBLM300_01073_YAYAKE_000_000","<Highlight>ObjectParameter(1)</Highlight>。
 我正等著你呢。
-有件事希望你能夠儘快確認一下。"
+有件事希望你能夠盡快確認一下。"
 49,"TEXT_JOBBLM300_01073_YAYAKE_000_001","在碼拉薩加收容所中，有個罪人被幽禁了100年之久，
 這個罪人最近一直嚷嚷著「聽到了納爾札爾神的神諭」。"
-50,"TEXT_JOBBLM300_01073_YAYAKE_000_002","「 <Highlight>ObjectParameter(1)</Highlight> 將會打倒邪惡妖異，帶回<Sheet(EventItem,2000808,0)/>。
+50,"TEXT_JOBBLM300_01073_YAYAKE_000_002","「<Highlight>ObjectParameter(1)</Highlight>將會打倒邪惡妖異，帶回<Sheet(EventItem,2000808,0)/>。
 作為魔石的交換條件，把我從牢獄中釋放出來。」
 ……這些便是罪人說的荒唐話。"
 51,"TEXT_JOBBLM300_01073_YAYAKE_000_003","真的是太荒謬了……
 我們根本沒有義務確認所謂預言的真假，
 更沒有道理把罪人從牢獄中釋放出來。"
-52,"TEXT_JOBBLM300_01073_YAYAKE_000_004","那個罪人的名字叫庫庫魯卡．塔塔魯卡。
+52,"TEXT_JOBBLM300_01073_YAYAKE_000_004","那個罪人的名字叫庫庫魯卡·塔塔魯卡。
 自稱是古代滅亡的黑魔法師，是個無禮之徒。"
 53,"TEXT_JOBBLM300_01073_YAYAKE_000_005","我估摸著他也就是個被禁書法術迷惑的愚蠢術士。
 所以這種人說的話根本不值得相信……"
@@ -79,7 +79,7 @@ int32,str,str
 59,"TEXT_JOBBLM300_01073_YAYAKE_000_011","不管真相如何，等你完成任務後，
 請立刻回到阿達內斯聖櫃堂。懂了嗎？"
 60,"TEXT_JOBBLM300_01073_KAZAGGCHAH_000_050","(-？？？？-)冒險者啊……"
-61,"TEXT_JOBBLM300_01073_KAZAGGCHAH_000_051","我是光榮的蜥蜴人族術士——卡扎古．春。
+61,"TEXT_JOBBLM300_01073_KAZAGGCHAH_000_051","我是光榮的蜥蜴人族術士——卡扎古·春。
 如果你能聽得懂我的語言，就收起你的武器……
 我不打算傷害你。"
 62,"TEXT_JOBBLM300_01073_KAZAGGCHAH_000_052","原來如此……
@@ -90,7 +90,7 @@ int32,str,str
 而我只負責把這個<Sheet(EventItem,2000808,0)/>交予你。"
 65,"TEXT_JOBBLM300_01073_KAZAGGCHAH_000_055","至於石頭中蘊藏著何種力量，
 你則要問你自己了……思索生知。"
-66,"TEXT_JOBBLM300_01073_YAYAKE_000_080","你回來啦， <Highlight>ObjectParameter(1)</Highlight> 。
+66,"TEXT_JOBBLM300_01073_YAYAKE_000_080","你回來啦，<Highlight>ObjectParameter(1)</Highlight>。
 看來你打倒魔物了啊。
 那麼你拿到<Sheet(EventItem,2000808,0)/>了嗎？"
 67,"TEXT_JOBBLM300_01073_YAYAKE_000_081","嗯……這個確實……
@@ -100,7 +100,7 @@ int32,str,str
 身上會帶著<Sheet(EventItem,2000808,0)/>。"
 70,"TEXT_JOBBLM300_01073_YAYAKE_000_084","……如果這些都是偶然的話也太巧了。
 看來有必要詳細調查一下這件事。"
-71,"TEXT_JOBBLM300_01073_YAYAKE_000_085"," <Highlight>ObjectParameter(1)</Highlight> 。
+71,"TEXT_JOBBLM300_01073_YAYAKE_000_085","<Highlight>ObjectParameter(1)</Highlight>。
 當然你也脫不了關係。"
 72,"TEXT_JOBBLM300_01073_YAYAKE_000_086","雖然庫庫魯卡在獄中，
 但他也有可能對外面的人下達指示。
@@ -108,7 +108,7 @@ int32,str,str
 73,"TEXT_JOBBLM300_01073_YAYAKE_000_087","必須馬上召開緊急會議。
 我要去召集導師，你在這裡等著。"
 74,"TEXT_JOBBLM300_01073_QUQURUKA_000_088","(-？？？？-)那倒是用不著。"
-75,"TEXT_JOBBLM300_01073_YAYAKE_000_089","大罪人庫庫魯卡．塔塔魯卡！
+75,"TEXT_JOBBLM300_01073_YAYAKE_000_089","大罪人庫庫魯卡·塔塔魯卡！
 為什麼你會在這裡！你沒有理由會被釋放的啊！"
 76,"TEXT_JOBBLM300_01073_LALAI_000_090","無禮的傢伙！要叫大魔法師庫庫魯卡大人！
 這位可是經過了100年的冥想，
@@ -126,7 +126,7 @@ int32,str,str
 大氣中將充滿邪氣，古代妖異將會甦醒……
 而能夠將其關閉的是被授予<Sheet(EventItem,2000808,0)/>之人……"
 83,"TEXT_JOBBLM300_01073_QUQURUKA_000_097","此人便是預言中提到的冒險者……
- <Highlight>ObjectParameter(1)</Highlight> ，就是你。"
+<Highlight>ObjectParameter(1)</Highlight>，就是你。"
 84,"TEXT_JOBBLM300_01073_QUQURUKA_000_098","為了關閉虛無界之門，
 你要帶上<Sheet(EventItem,2000808,0)/>……<Sheet(Item,　4548,0)/>，
 展開收集「鑰匙」的旅程。"
@@ -142,7 +142,7 @@ int32,str,str
 89,"TEXT_JOBBLM300_01073_QUQURUKA_000_103","而能夠關閉它的，
 就只有古代的破壞之力「黑魔法」。"
 90,"TEXT_JOBBLM300_01073_YAYAKE_000_104","黑魔法！"
-91,"TEXT_JOBBLM300_01073_QUQURUKA_000_105"," <Highlight>ObjectParameter(1)</Highlight> 。
+91,"TEXT_JOBBLM300_01073_QUQURUKA_000_105","<Highlight>ObjectParameter(1)</Highlight>。
 你手裡的<Sheet(EventItem,2000808,0)/>就是駕馭黑魔法的術士之證。
 作為破壞之力的引導者，成為黑魔法師吧。"
 92,"TEXT_JOBBLM300_01073_QUQURUKA_000_106","關閉虛無界之門的第一把鑰匙，就在你身上……"
@@ -164,5 +164,5 @@ int32,str,str
 100,"TEXT_JOBBLM300_01073_SYSTEM_000_121","ジョブチェンジしたあとには、
 「ギアセット」を登録してみましょう！
 現在の装備が記録され、即座に着替えられるようになります。"
-101,"TEXT_JOBBLM300_01073_SYSTEM_000_122","在「角色」畫面中、
-可以註冊「裝備列表」，就像更換裝備一樣。"
+101,"TEXT_JOBBLM300_01073_SYSTEM_000_122","「ギアセット」の登録は、
+装備変更と同じ「マイキャラクター」の画面から行えます。"

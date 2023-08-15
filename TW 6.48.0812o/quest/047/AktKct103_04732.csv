@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKCT103_04732_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊規則： 職業固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-中庸工藝館前的喬菈．佐希望能繼續改良莫雯卓越工具。"
+中庸工藝館前的喬菈·佐希望能繼續改良莫雯卓越工具。"
 1,"TEXT_AKTKCT103_04732_SEQ_01","※本任務為<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 職業固定任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-改良莫雯卓越工具所需的材料，可使用交易資本與秦娜娜兌換。將背包或兵裝庫中的莫雯卓越工具和材料交給中庸工藝館前的喬菈．佐，拜託她進行下一階段的改良。"
-2,"TEXT_AKTKCT103_04732_SEQ_02","莫雯卓越工具的改良工作進展到了第3階段。為了進一步提升工具的性能，與喬菈．佐等人一起繼續改良莫雯卓越工具。"
+改良莫雯卓越工具所需的材料，可使用交易資本與秦娜娜兌換。將背包或兵裝庫中的莫雯卓越工具和材料交給中庸工藝館前的喬菈·佐，拜託她進行下一階段的改良。"
+2,"TEXT_AKTKCT103_04732_SEQ_02","莫雯卓越工具的改良工作進展到了第3階段。為了進一步提升工具的性能，與喬菈·佐等人一起繼續改良莫雯卓越工具。"
 3,"TEXT_AKTKCT103_04732_SEQ_03",""
 4,"TEXT_AKTKCT103_04732_SEQ_04",""
 5,"TEXT_AKTKCT103_04732_SEQ_05",""
@@ -34,7 +34,7 @@ int32,str,str
 <If(Equal(IntegerParameter(4),16))><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>210個<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Sheet(Item,38797,0)/>
 <Else/><If(Equal(IntegerParameter(4),17))><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>210個<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Sheet(Item,38795,0)/>
 <Else/><If(Equal(IntegerParameter(4),18))><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>80個<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Sheet(Item,38807,0)/>
-<Else/></If></If></If>交給中庸工藝館前的喬菈．佐"
+<Else/></If></If></If>交給中庸工藝館前的喬菈·佐"
 25,"TEXT_AKTKCT103_04732_TODO_01",""
 26,"TEXT_AKTKCT103_04732_TODO_02",""
 27,"TEXT_AKTKCT103_04732_TODO_03",""
@@ -65,15 +65,15 @@ int32,str,str
 51,"TEXT_AKTKCT103_04732_A1_000_002","改良<Sheet(ClassJob,PlayerParameter(68),0)/>的莫雯卓越工具"
 52,"TEXT_AKTKCT103_04732_SYSTEM_000_004","接受任務「回應思想的改良計劃」後，
 直至完成或放棄該任務，
-其間都無法同時以其他職業重複接受該任務。"
+其間都無法同時以其他職業重覆接受該任務。"
 53,"TEXT_AKTKCT103_04732_SYSTEM_000_005","請切換成想要改良的莫雯卓越工具所對應的職業，
-再次與喬菈．佐交談。"
+再次與喬菈·佐交談。"
 54,"TEXT_AKTKCT103_04732_SYSTEM_000_006","需持有或裝備上<Sheet(Item,IntegerParameter(1),0)/>，
 才能進行任務「回應思想的改良計劃」。"
 55,"TEXT_AKTKCT103_04732_100_007","已擁有<Sheet(Item,IntegerParameter(1),0)/>。
-請切換成其他職業，再次與喬菈．佐交談。"
-56,"TEXT_AKTKCT103_04732_CHORAZOI_000_007"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，改良過後的道具用起來感覺如何？
-畢竟是蓋雷諾爾特的設計，一定是更好用了吧！
+請切換成其他職業，再次與喬菈·佐交談。"
+56,"TEXT_AKTKCT103_04732_CHORAZOI_000_007","<Highlight>ObjectParameter(1)</Highlight>，改良過後的道具用起來感覺如何？
+畢竟是蓋雷諾爾特的設計，肯定是更好用了吧！
 那麼，讓我們趕緊開始下一階段的改良吧！"
 57,"TEXT_AKTKCT103_04732_CHORAZOI_000_008","那個，蓋雷諾爾特！
 接下來我們應該怎麼做？"
@@ -89,7 +89,7 @@ int32,str,str
 62,"TEXT_AKTKCT103_04732_CHORAZOI_000_019","使用工具的人……
 是啊，讓工具更貼近工匠需求，
 就能找到最好的改良方向！"
-63,"TEXT_AKTKCT103_04732_CHORAZOI_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+63,"TEXT_AKTKCT103_04732_CHORAZOI_000_020","<Highlight>ObjectParameter(1)</Highlight>……
 這畢竟是你準備交易資本使用的工具，
 你認為改良成什麼樣，對你來說最好用？"
 64,"TEXT_AKTKCT103_04732_Q2_000_000","如何作答？"
@@ -104,7 +104,7 @@ int32,str,str
 70,"TEXT_AKTKCT103_04732_CHORAZOI_000_024","如果能找到高純度的精神感應物質
 把它完美地融入工具的握把裡，
 是不是就能達成更貼近使用者需求的工具這一目標了！"
-71,"TEXT_AKTKCT103_04732_GRENOLDT_000_025","唔……作為工匠的喬菈．佐找到的是這個答案啊，
+71,"TEXT_AKTKCT103_04732_GRENOLDT_000_025","唔……作為工匠的喬菈·佐找到的是這個答案啊，
 看來你已經找到你想要的莫雯卓越工具是什麼樣了。
 我們現在就來調整設計圖吧。"
 72,"TEXT_AKTKCT103_04732_GRENOLDT_000_026","不過，高純度的精神感應物質，
@@ -114,17 +114,17 @@ int32,str,str
 當然可以啦，交給我吧！
 現在就開始準備交易資本吧！"
 74,"TEXT_AKTKCT103_04732_CHORAZOI_000_028","也就是說……這次的稀有材料，
-應該用<Sheet(Item,IntegerParameter(1),0)/>比較適合。"
+應該用<Sheet(Item,IntegerParameter(1),0)/>比較合適。"
 75,"TEXT_AKTKCT103_04732_CHORAZOI_100_028","能麻煩你準備交換稀有材料所需的交易資本嗎？
 需要的應該是<If(Equal(IntegerParameter(1),1))><Sheet(ItemMP,38764,0)/><Else/><If(Equal(IntegerParameter(1),2))><Sheet(ItemMP,38765,0)/><Else/><If(Equal(IntegerParameter(1),3))><Sheet(ItemMP,38766,0)/><Else/><If(Equal(IntegerParameter(1),4))><Sheet(ItemMP,38767,0)/><Else/><If(Equal(IntegerParameter(1),5))><Sheet(ItemMP,38768,0)/><Else/><If(Equal(IntegerParameter(1),6))><Sheet(ItemMP,38769,0)/><Else/><If(Equal(IntegerParameter(1),7))><Sheet(ItemMP,38770,0)/><Else/><If(Equal(IntegerParameter(1),8))><Sheet(ItemMP,38771,0)/><Else/></If></If></If></If></If></If></If></If>。"
 76,"TEXT_AKTKCT103_04732_CHORAZOI_000_029","也就是說……這次的稀有材料，
 應該用<Sheet(Item,IntegerParameter(1),0)/>
-和<Sheet(Item,IntegerParameter(2),0)/>比較適合。"
+和<Sheet(Item,IntegerParameter(2),0)/>比較合適。"
 77,"TEXT_AKTKCT103_04732_CHORAZOI_100_029","能麻煩你準備交換稀有材料所需的交易資本嗎？
 需要的應該是<If(Equal(IntegerParameter(1),9))><Sheet(ItemMP,38796,0)/><Else/><If(Equal(IntegerParameter(1),10))><Sheet(ItemMP,38794,0)/><Else/></If></If>。"
 78,"TEXT_AKTKCT103_04732_CHORAZOI_200_029","也就是說……這次的稀有材料，
 應該用<Sheet(Item,IntegerParameter(1),0)/>
-和<Sheet(Item,IntegerParameter(2),0)/>比較適合。"
+和<Sheet(Item,IntegerParameter(2),0)/>比較合適。"
 79,"TEXT_AKTKCT103_04732_CHORAZOI_300_029","能麻煩你準備交換稀有材料所需的交易資本嗎？
 需要的應該是<Sheet(ItemMP,38798,0)/>
 和<Sheet(ItemMP,38799,0)/>！"
@@ -137,17 +137,17 @@ int32,str,str
 準備好需要的材料之後，
 把莫雯卓越工具和材料一起拿到我這裡來就可以了。"
 83,"TEXT_AKTKCT103_04732_SYSTEM_000_033","將主工具以及改良所需要的稀有材料
-交給中庸工藝館前的喬菈．佐，
+交給中庸工藝館前的喬菈·佐，
 可獲得經過改良的工具。"
-84,"TEXT_AKTKCT103_04732_SYSTEM_000_034","將交易資本繳納給中庸工藝館前的秦娜娜
+84,"TEXT_AKTKCT103_04732_SYSTEM_000_034","將交易資本交納給中庸工藝館前的秦娜娜
 就能獲得改良工具所需要的稀有材料。"
 85,"TEXT_AKTKCT103_04732_SYSTEM_000_035","交易資本
 可以在製作筆記的「特殊配方」中，
 找到裡面的「莫雯卓越工具」項進行製作。"
 86,"TEXT_AKTKCT103_04732_SYSTEM_000_036","此外，製作交易資本時需要裝備莫雯卓越工具。
-部分素材可以透過工票獲得。"
+部分素材可以通過工票獲得。"
 87,"TEXT_AKTKCT103_04732_SYSTEM_000_037","交易資本，
-可以透過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
+可以通過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
 88,"TEXT_AKTKCT103_04732_SYSTEM_000_038","此外，採集交易資本時需要裝備莫雯卓越工具。"
 89,"TEXT_AKTKCT103_04732_SYSTEM_000_039","可作為交易資本的魚，
 需要用到專用的釣餌。
@@ -159,19 +159,19 @@ int32,str,str
 首先麻煩你用莫雯卓越工具準備出需要的交易資本。"
 93,"TEXT_AKTKCT103_04732_GRENOLDT_000_043","之後只要你將籌集到的交易資本交給秦娜娜，
 她就能幫你把商會籌集的稀有材料準備好。
-一切都準備就緒後，你就去找喬菈．佐幫你改良工具吧。"
+一切都準備就緒後，你就去找喬菈·佐幫你改良工具吧。"
 94,"TEXT_AKTKCT103_04732_SYSTEM_000_045","將主工具以及改良所需要的稀有材料
-交給中庸工藝館前的喬菈．佐，
+交給中庸工藝館前的喬菈·佐，
 可獲得經過改良的工具。"
-95,"TEXT_AKTKCT103_04732_SYSTEM_000_046","將交易資本繳納給中庸工藝館前的秦娜娜
+95,"TEXT_AKTKCT103_04732_SYSTEM_000_046","將交易資本交納給中庸工藝館前的秦娜娜
 就能獲得改良工具所需要的稀有材料。"
 96,"TEXT_AKTKCT103_04732_SYSTEM_000_047","交換稀有材料所需的交易資本
 可以在製作筆記的「特殊配方」中，
 找到裡面的「莫雯卓越工具」項進行製作。"
 97,"TEXT_AKTKCT103_04732_SYSTEM_000_048","此外，製作交易資本時需要裝備莫雯卓越工具。
-部分素材可以透過工票獲得。"
+部分素材可以通過工票獲得。"
 98,"TEXT_AKTKCT103_04732_SYSTEM_000_049","交換稀有材料所需的交易資本，
-可以透過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
+可以通過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
 99,"TEXT_AKTKCT103_04732_SYSTEM_000_050","此外，採集交易資本時需要裝備莫雯卓越工具。"
 100,"TEXT_AKTKCT103_04732_SYSTEM_000_051","可作為交易資本的魚，
 需要用到專用的釣餌。
@@ -179,7 +179,7 @@ int32,str,str
 101,"TEXT_AKTKCT103_04732_SYSTEM_000_052","此外，釣可作為交易資本的魚時需要裝備莫雯卓越工具。"
 102,"TEXT_AKTKCT103_04732_SYSTEM_000_053","完成本任務時，
 請卸下需要改良的莫雯卓越工具並放入背包或兵裝庫中。"
-103,"TEXT_AKTKCT103_04732_CHORAZOI_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！謝謝你！
+103,"TEXT_AKTKCT103_04732_CHORAZOI_000_060","<Highlight>ObjectParameter(1)</Highlight>！謝謝你！
 需要的稀有材料都集齊了！
 請把需要改良的工具和材料都交給我吧！"
 104,"TEXT_AKTKCT103_04732_CHORAZOI_000_061","這次謝謝你幫忙了！
@@ -202,14 +202,14 @@ int32,str,str
 111,"TEXT_AKTKCT103_04732_CHORAZOI_000_068","好、好厲害！
 這就是蓋雷諾爾特作為匠人的執著嗎！"
 112,"TEXT_AKTKCT103_04732_CHORAZOI_000_069","就是這種匠人的執著，才能製成這頭等的工具！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 請快拿起來試試吧！"
+<Highlight>ObjectParameter(1)</Highlight>請快拿起來試試吧！"
 113,"TEXT_AKTKCT103_04732_GRENOLDT_100_070","哎呀，真是不知道該如何形容。
 光看見你把這工具拿起來，
 我就知道這是最適合你的工具了。"
-114,"TEXT_AKTKCT103_04732_GRENOLDT_000_070","喬菈．佐啊！
+114,"TEXT_AKTKCT103_04732_GRENOLDT_000_070","喬菈·佐啊！
 看來你達成了更貼近使用者需求這一目標了啊。
 你這種真誠的態度，讓和你一同工作的我倍感你的可靠。"
-115,"TEXT_AKTKCT103_04732_GRENOLDT_000_071","還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+115,"TEXT_AKTKCT103_04732_GRENOLDT_000_071","還有<Highlight>ObjectParameter(1)</Highlight>。
 改良之後的工具正因為有了你的熱情，
 才能在這樣少見的情況下進一步發揮力量。"
 116,"TEXT_AKTKCT103_04732_GRENOLDT_100_071","商會為我們準備的高純度精神感應物質……
@@ -223,7 +223,7 @@ int32,str,str
 119,"TEXT_AKTKCT103_04732_GRENOLDT_000_074","正在此時，一個健碩的男人突然出現，用油塗滿了我的全身！
 我在震驚之中從床上摔下去醒了過來，
 正是這次的天啟讓我創造出了拋光油。"
-120,"TEXT_AKTKCT103_04732_MOWEN_000_076","我從秦娜娜的報告裡瞭解了工具改良的進展情況。
+120,"TEXT_AKTKCT103_04732_MOWEN_000_076","我從秦娜娜的報告裡了解了工具改良的進展情況。
 看你們這樣子，是剛剛完成了新的工具吧？"
 121,"TEXT_AKTKCT103_04732_MOWEN_000_077","那可真是個好消息。
 也算是希望能用新的工具帶動產業活力化的一環吧，
@@ -245,7 +245,7 @@ int32,str,str
 128,"TEXT_AKTKCT103_04732_CHORAZOI_000_084","嗚嗚嗚！不愧是蓋雷諾爾特！"
 129,"TEXT_AKTKCT103_04732_MOWEN_000_085","……哼哼！
 這一點，你也還是和以前一樣呢！"
-130,"TEXT_AKTKCT103_04732_CHORAZOI_000_086","多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、蓋雷諾爾特和大家的幫助，
+130,"TEXT_AKTKCT103_04732_CHORAZOI_000_086","多虧了<Highlight>ObjectParameter(1)</Highlight>、蓋雷諾爾特和大家的幫助，
 我覺得我作為工匠的能力也有了大幅度的提升。
 不過，不論是我還是莫雯卓越工具都還有更大的上升空間。"
 131,"TEXT_AKTKCT103_04732_CHORAZOI_000_087","還請你今後也多多幫忙！

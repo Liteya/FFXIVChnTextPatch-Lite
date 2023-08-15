@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ912_02868_SEQ_22",""
 23,"TEXT_STMBDZ912_02868_SEQ_23",""
 24,"TEXT_STMBDZ912_02868_TODO_00","在無垢乾谷的<Sheet(EObj,2008088,0)/>使用<Sheet(EventItem,2002091,0)/>
-從<Sheet(BNpcName,5809,0)/>身上獲得<Sheet(EventItem,2002092,0)/>"
+從<Sheet(BNpcName,5809,0)/>身上獲取<Sheet(EventItem,2002092,0)/>"
 25,"TEXT_STMBDZ912_02868_TODO_01","將<Sheet(EventItem,2002092,0)/>交給神拳痕的拉努爾夫"
 26,"TEXT_STMBDZ912_02868_TODO_02",""
 27,"TEXT_STMBDZ912_02868_TODO_03",""
@@ -57,8 +57,8 @@ int32,str,str
 所以我想讓你幫忙去收集一下蟻獅的分泌液。"
 50,"TEXT_STMBDZ912_02868_RANULF_000_002","我還要去收集其他的材料。
 在這期間，就麻煩你去討伐蟻獅了。
-以你的水準，應該很輕鬆吧。"
-51,"TEXT_STMBDZ912_02868_RANULF_000_003","不過，想要獲得能夠用於消毒液的高品質分泌液，
+以你的水平，應該很輕鬆吧。"
+51,"TEXT_STMBDZ912_02868_RANULF_000_003","不過，想要獲得能夠用於消毒液的優質分泌液，
 就需要去討伐藏在地下的個體……
 這個你拿好，它能夠幫助你。"
 52,"TEXT_STMBDZ912_02868_RANULF_000_004","這是那些傢伙最愛的用碎蟻製作的<Sheet(EventItem,2002091,0)/>。

@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_LUCKZG013_03498_SEQ_21",""
 22,"TEXT_LUCKZG013_03498_SEQ_22",""
 23,"TEXT_LUCKZG013_03498_SEQ_23",""
-24,"TEXT_LUCKZG013_03498_TODO_00","從<Sheet(BNpcName,8557,0)/>身上獲得<Sheet(EventItem,2002742,0)/>"
+24,"TEXT_LUCKZG013_03498_TODO_00","從<Sheet(BNpcName,8557,0)/>身上獲取<Sheet(EventItem,2002742,0)/>"
 25,"TEXT_LUCKZG013_03498_TODO_01","將<Sheet(EventItem,2002742,0)/>交給麥因伯恩"
 26,"TEXT_LUCKZG013_03498_TODO_02","對<Sheet(EObj,2010443,0)/>使用<Sheet(EventItem,2002743,0)/>"
 27,"TEXT_LUCKZG013_03498_TODO_03","向麥因伯恩報告"
@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_LUCKZG013_03498_TODO_23",""
 48,"TEXT_LUCKZG013_03498_MINEBERN_000_000","最近風車的狀態不太好。
 偶爾會發出吱吱的刺耳聲音。"
-49,"TEXT_LUCKZG013_03498_MINEBERN_000_001","只要將<Sheet(EventItem,2002742,0)/>塗在頂端的軸承上應該就能修好，
+49,"TEXT_LUCKZG013_03498_MINEBERN_000_001","只要將<Sheet(EventItem,2002742,0)/>塗在頂端的軸承上估計就能修好，
 但是我受傷了，無法爬上風車……"
 50,"TEXT_LUCKZG013_03498_MINEBERN_000_002","我會付給你報酬的，你能不能代替我，
 幫我修理一下啊？"
@@ -77,7 +77,7 @@ int32,str,str
 要想在乾燥的大地上生存，
 沒有它可不行啊。"
 61,"TEXT_LUCKZG013_03498_MINEBERN_000_052","謝謝你幫我修好了風車，旅行者。
-我也要儘快養好我的傷才行啊……"
+我也要盡快養好我的傷才行啊……"
 62,"TEXT_LUCKZG013_03498_WINDMILL03498_000_000","（★未使用／削除予定★）"
 63,"TEXT_LUCKZG013_03498_WINDMILL03498_000_001","（★未使用／削除予定★）"
 64,"TEXT_LUCKZG013_03498_WINDMILL03498_000_002","（★未使用／削除予定★）"

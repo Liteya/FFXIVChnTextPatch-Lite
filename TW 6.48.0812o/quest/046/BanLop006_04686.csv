@@ -11,7 +11,7 @@ int32,str,str
 3,"TEXT_BANLOP006_04686_SEQ_03","將<Sheet(EventItem,2003452,0)/>交給了發明威。發明威對信件的內容感到驚訝，同時對冒險者表示了感謝。接下來將<Sheet(EventItem,2003452,0)/>交給希望的貨艙的廚行威。"
 4,"TEXT_BANLOP006_04686_SEQ_04","將<Sheet(EventItem,2003452,0)/>交給了廚行威。廚行威對信件的內容感到驚訝，同時對冒險者表示了感謝。接下來將<Sheet(EventItem,2003452,0)/>交給希望的貨艙的灰毛兔兔族。"
 5,"TEXT_BANLOP006_04686_SEQ_05","將<Sheet(EventItem,2003452,0)/>交給了灰毛兔兔族。他對信件的內容感到驚訝，同時對冒險者表示了感謝。今後他會將談興威作為自己的名字。向希望的貨艙的夢明威報告信件已經全部送出的事情。"
-6,"TEXT_BANLOP006_04686_SEQ_06","向夢明威進行了報告。冒險者協助兔兔族展開活動，得到了他們的感謝。透過夢明工作室，失去了目標的兔兔族也能再次找到夢想。今後有空來訪夢明工作室，或許就能見到朝著夢想努力前進的兔兔族。"
+6,"TEXT_BANLOP006_04686_SEQ_06","向夢明威進行了報告。冒險者協助兔兔族開展活動，得到了他們的感謝。通過夢明工作室，失去了目標的兔兔族也能再次找到夢想。今後有空來訪夢明工作室，或許就能見到朝著夢想努力前進的兔兔族。"
 7,"TEXT_BANLOP006_04686_SEQ_07",""
 8,"TEXT_BANLOP006_04686_SEQ_08",""
 9,"TEXT_BANLOP006_04686_SEQ_09",""
@@ -53,15 +53,15 @@ int32,str,str
 45,"TEXT_BANLOP006_04686_TODO_21",""
 46,"TEXT_BANLOP006_04686_TODO_22",""
 47,"TEXT_BANLOP006_04686_TODO_23",""
-48,"TEXT_BANLOP006_04686_DREAMINGWAY_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ——！
+48,"TEXT_BANLOP006_04686_DREAMINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight>——！
 我有一個超高興的消息要告訴你！"
 49,"TEXT_BANLOP006_04686_DREAMINGWAY_000_001","前往亞伊太利斯的同伴從那邊帶回來了幾封送給兔兔族的信件。"
 50,"TEXT_BANLOP006_04686_DREAMINGWAY_000_002","其中也有送給我的，你猜寫的是什麼？
-居然是廣播電臺的聽眾們送來的回饋！"
-51,"TEXT_BANLOP006_04686_DREAMINGWAY_000_003","其實在播送過程中，我們介紹了各自的夢想以及正在展開的活動。
+居然是廣播電台的聽眾們送來的反饋！"
+51,"TEXT_BANLOP006_04686_DREAMINGWAY_000_003","其實在播送過程中，我們介紹了各自的夢想以及正在開展的活動。
 看來是亞伊太利斯的人們聽到這個之後，給我們寫了信件！"
 52,"TEXT_BANLOP006_04686_DREAMINGWAY_000_004","這些信件，由我送過去也行。
-不過我想由 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 親自送到大家手裡，
+不過我想由<Highlight>ObjectParameter(1)</Highlight>親自送到大家手裡，
 他們肯定更開心！"
 53,"TEXT_BANLOP006_04686_DREAMINGWAY_000_005","所以能請你幫忙送信嗎？"
 54,"TEXT_BANLOP006_04686_DREAMINGWAY_000_006","收信人分別是幣經威、發明威、廚行威還有談興……
@@ -70,17 +70,17 @@ int32,str,str
 麻煩再來我這裡一趟吧！"
 56,"TEXT_BANLOP006_04686_DREAMINGWAY_000_007","等你全部送完之後，
 麻煩再來我這裡一趟吧！"
-57,"TEXT_BANLOP006_04686_COININGWAY_000_010","哦？是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下啊。
+57,"TEXT_BANLOP006_04686_COININGWAY_000_010","哦？是<Highlight>ObjectParameter(1)</Highlight>閣下啊。
 哎呀哎呀，我現在每天都切實地感受到
 給不同商品定價的工作可比想像中難多了。"
 58,"TEXT_BANLOP006_04686_COININGWAY_000_011","這是……薩雷安經濟學者送來的信件？！
 快讓我看看！"
-59,"TEXT_BANLOP006_04686_COININGWAY_000_012","(-經濟學者寫的信件-)「我在廣播中聽說您透過發行新種貨幣，
+59,"TEXT_BANLOP006_04686_COININGWAY_000_012","(-經濟學者寫的信件-)「我在廣播中聽說您通過發行新種貨幣，
 建立了獨自的經濟圈。
-因此我十分想請教您對於市場經濟的設想……」"
+因此我十分想請教您對於市場經濟的設想……「"
 60,"TEXT_BANLOP006_04686_COININGWAY_000_013","沒想到我會收到薩雷安學者的來信……
 這是何等的幸福！"
-61,"TEXT_BANLOP006_04686_COININGWAY_000_014","這也是多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下對我們的活動鼎力支持，
+61,"TEXT_BANLOP006_04686_COININGWAY_000_014","這也是多虧<Highlight>ObjectParameter(1)</Highlight>閣下對我們的活動鼎力支持，
 才有了如今的成果。
 在此請允許我重新向你表示感謝。"
 62,"TEXT_BANLOP006_04686_SYSTEM_000_015","（★未使用／削除予定★）"
@@ -109,7 +109,7 @@ int32,str,str
 73,"TEXT_BANLOP006_04686_INVENTINGWAY_000_029","照這樣看來，
 亞伊太利斯開發印有我名字機器的日子應該不遠了！
 啊哈哈哈哈！"
-74,"TEXT_BANLOP006_04686_COOKINGWAY_000_030","哦！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+74,"TEXT_BANLOP006_04686_COOKINGWAY_000_030","哦！<Highlight>ObjectParameter(1)</Highlight>！
 我從亞伊太利斯學到的菜餚在這邊大受好評，
 訂單實在是太多了，廚房人手根本不夠，忙死我了。"
 75,"TEXT_BANLOP006_04686_COOKINGWAY_000_031","忙歸忙，但我還是有個小小的煩惱……
@@ -122,14 +122,14 @@ int32,str,str
 我看看……"
 78,"TEXT_BANLOP006_04686_COOKINGWAY_000_034","……哦，是背水咖啡廳的迪康寫的！"
 79,"TEXT_BANLOP006_04686_COOKINGWAY_000_035","這、這是……
-是迪康研發的創新食譜！"
+是迪康研發的創新菜譜！"
 80,"TEXT_BANLOP006_04686_COOKINGWAY_000_036","他說作為交換，等我想到什麼新菜品時，也要告訴他一聲……
 那是當然！看來我得擠出更多的精力研究烹飪才行了！"
 81,"TEXT_BANLOP006_04686_COOKINGWAY_000_037","方便的話，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也定期過來試吃一下吧，
+<Highlight>ObjectParameter(1)</Highlight>你也定期過來試吃一下吧，
 我想聽聽你的感想。"
 82,"TEXT_BANLOP006_04686_SYSTEM_000_038","（★未使用／削除予定★）"
-83,"TEXT_BANLOP006_04686_COOKINGWAY_000_039","哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+83,"TEXT_BANLOP006_04686_COOKINGWAY_000_039","哦，<Highlight>ObjectParameter(1)</Highlight>。
 你定期過來試吃一下吧，
 我想聽聽你的感想。"
 84,"TEXT_BANLOP006_04686_TALKINGWAY_000_040","嗯？怎麼了？
@@ -138,12 +138,12 @@ int32,str,str
 難道是我傳達的情感有不妥的地方嗎？"
 86,"TEXT_BANLOP006_04686_TALKINGWAY_000_042","這是一位過著避難生活的加雷馬人寫的。
 「本來思鄉的情緒讓我十分難過，
-但收聽你的廣播後，心中的鄉愁總算淡了幾分，謝謝你。」"
+但收聽你的廣播後，心中的鄉愁總算淡了幾分，謝謝你。「"
 87,"TEXT_BANLOP006_04686_TALKINGWAY_000_043","還有一封……這好像是小孩子的筆跡。"
 88,"TEXT_BANLOP006_04686_TALKINGWAY_000_044","(-小孩子寫的信-)「你是如何學會我們的語言的？
 好流暢、好厲害！
 我的夢想是長大以後播送廣播！」"
-89,"TEXT_BANLOP006_04686_TALKINGWAY_000_045","沒想到從月球透過電臺廣播也能幫到亞伊太利斯上的人……
+89,"TEXT_BANLOP006_04686_TALKINGWAY_000_045","沒想到從月球通過電台廣播也能幫到亞伊太利斯上的人……
 沒有比這個更令人高興的事情了。"
 90,"TEXT_BANLOP006_04686_TALKINGWAY_000_046","（★未使用／削除予定★）"
 91,"TEXT_BANLOP006_04686_TALKINGWAY_000_047","（★未使用／削除予定★）"
@@ -169,12 +169,12 @@ int32,str,str
 103,"TEXT_BANLOP006_04686_A1_000_001","真拿你沒辦法"
 104,"TEXT_BANLOP006_04686_A1_000_002","當然可以了，談興威！"
 105,"TEXT_BANLOP006_04686_TALKINGWAY_000_058","(-談興威-)謝謝……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+<Highlight>ObjectParameter(1)</Highlight>！"
 106,"TEXT_BANLOP006_04686_SYSTEM_000_059","將信件交給了談興威。"
 107,"TEXT_BANLOP006_04686_SYSTEM_100_059","將所有的信件都送到了兔兔族手中，
 向夢明威報告吧！"
 108,"TEXT_BANLOP006_04686_TALKINGWAY_110_059","（★未使用／削除予定★）"
-109,"TEXT_BANLOP006_04686_DREAMINGWAY_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+109,"TEXT_BANLOP006_04686_DREAMINGWAY_000_060","<Highlight>ObjectParameter(1)</Highlight>！
 信件都送到大家手裡了嗎？"
 110,"TEXT_BANLOP006_04686_DREAMINGWAY_000_061","看來大家都很高興啊！
 太好了！"
@@ -190,14 +190,14 @@ int32,str,str
 大家都已經開始為此興奮不已了！"
 116,"TEXT_BANLOP006_04686_DREAMINGWAY_000_067","原本是為了拯救那些沒能迎接到人類來訪，
 失去了夢想的同伴們而開始的活動……
-說實在的，我之前對它能否順利展開也是充滿了不安與擔心。"
+說實在的，我之前對它能否順利開展也是充滿了不安與擔心。"
 117,"TEXT_BANLOP006_04686_DREAMINGWAY_000_068","但請看這眼前的景象。
 今後肯定還會有人從這裡不斷地找到屬於自己的新夢想！"
 118,"TEXT_BANLOP006_04686_DREAMINGWAY_100_068","再說了，
 我想用音樂讓大家開心起來的夢想還遠遠沒有實現！"
-119,"TEXT_BANLOP006_04686_DREAMINGWAY_000_069","這一切都是同伴與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 通力協作的結果！"
+119,"TEXT_BANLOP006_04686_DREAMINGWAY_000_069","這一切都是同伴與<Highlight>ObjectParameter(1)</Highlight>通力協作的結果！"
 120,"TEXT_BANLOP006_04686_DREAMINGWAY_000_070","所以請允許我在此鄭重地向你表示感謝。
-這次真是謝謝你了！"
+這回真是謝謝你了！"
 121,"TEXT_BANLOP006_04686_DREAMINGWAY_000_071","如果有空的話，請你常來玩玩吧。
 我們兔兔族隨時歡迎你的到來！"
 122,"TEXT_BANLOP006_04686_SYSTEM_000_072","與兔兔族「夢明工作室」之間的關係程度到達了「血誓」。

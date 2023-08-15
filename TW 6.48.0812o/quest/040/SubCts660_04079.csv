@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_SUBCTS660_04079_TODO_21",""
 46,"TEXT_SUBCTS660_04079_TODO_22",""
 47,"TEXT_SUBCTS660_04079_TODO_23",""
-48,"TEXT_SUBCTS660_04079_FRANCEL_000_000","呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_SUBCTS660_04079_FRANCEL_000_000","呀，<Highlight>ObjectParameter(1)</Highlight>！
 看到你還願意繼續造訪蒼天街，
 我真的很高興。"
 49,"TEXT_SUBCTS660_04079_FRANCEL_000_001","對了，我正好有件事想告訴你。
@@ -61,9 +61,9 @@ int32,str,str
 51,"TEXT_SUBCTS660_04079_FRANCEL_000_005","我看到一個打扮奇怪的男性偷偷地來到了蒼天街，
 並往魯什芒德紀念醫院的方向去了。
 如果你也好奇的話，要不要去看一下啊？"
-52,"TEXT_SUBCTS660_04079_CHARLEMEND_000_010","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎……！"
+52,"TEXT_SUBCTS660_04079_CHARLEMEND_000_010","這不是<Highlight>ObjectParameter(1)</Highlight>嗎……！"
 53,"TEXT_SUBCTS660_04079_CHARLEMEND_000_011","啊不，你並不認識我！
-不過你的英雄事蹟早就傳遍這個國家的每個角落了！"
+不過你的英雄事跡早就傳遍這個國家的每個角落了！"
 54,"TEXT_SUBCTS660_04079_Q1_000_000","要說什麼？"
 55,"TEXT_SUBCTS660_04079_A1_000_001","你打扮成這樣幹什麼？"
 56,"TEXT_SUBCTS660_04079_A1_000_002","狄蘭達爾伯爵？"
@@ -73,15 +73,15 @@ int32,str,str
 58,"TEXT_SUBCTS660_04079_CHARLEMEND_000_013","(-狄蘭達爾伯爵-)那我還是實話實說吧。"
 59,"TEXT_SUBCTS660_04079_CHARLEMEND_000_014","(-狄蘭達爾伯爵-)聽說這個醫院最近正在招募服務人員，
 所以我就想來試一下。"
-60,"TEXT_SUBCTS660_04079_CHARLEMEND_000_015","(-狄蘭達爾伯爵-)服務人員其實是一種有償志工。
-即使沒有醫師的醫術，也可以為正規醫師提供支援，
+60,"TEXT_SUBCTS660_04079_CHARLEMEND_000_015","(-狄蘭達爾伯爵-)服務人員其實是一種有償志願者。
+即使沒有醫師的醫術，也可以為正規醫師提供支持，
 負責醫藥用品的管理以及照顧患者等工作。"
 61,"TEXT_SUBCTS660_04079_CHARLEMEND_000_016","(-狄蘭達爾伯爵-)工資是比不上正式員工，但至少能保障生活無憂，
 而且還可以在這裡學習如何成為一名治療師。
 不過我並非為此而來。"
 62,"TEXT_SUBCTS660_04079_CHARLEMEND_000_017","(-狄蘭達爾伯爵-)我見到了曾侍奉於我家的傷兵，
 發現我以前為他們提供的保障並不充分……
-所以我希望能透過這樣的形式為他們做點什麼。"
+所以我希望能通過這樣的形式為他們做點什麼。"
 63,"TEXT_SUBCTS660_04079_CHARLEMEND_000_018","(-狄蘭達爾伯爵-)不過老實說我其實也有自己的小算盤。
 我是想為其他貴族做出一個表率。"
 64,"TEXT_SUBCTS660_04079_CHARLEMEND_000_019","(-狄蘭達爾伯爵-)就算現在我們已經知道不論貴族還是平民，其實都是
@@ -90,7 +90,7 @@ int32,str,str
 65,"TEXT_SUBCTS660_04079_CHARLEMEND_000_020","(-狄蘭達爾伯爵-)我聽說不論何種身份的人都可以在這家醫院就職。
 所以覺得自己或許也有機會成為服務人員，
 於是就抱著試一試的心情來到這裡了……不過我又有點膽怯了。"
-66,"TEXT_SUBCTS660_04079_CHARLEMEND_000_021","(-狄蘭達爾伯爵-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託了！
+66,"TEXT_SUBCTS660_04079_CHARLEMEND_000_021","(-狄蘭達爾伯爵-)<Highlight>ObjectParameter(1)</Highlight>，拜託了！
 能不能請你到魯什芒德紀念醫院的護士長莫莉萊蒂那裡
 替我說幾句好話！"
 67,"TEXT_SUBCTS660_04079_CHARLEMEND_000_030","我就趁著英雄和莫莉萊蒂談笑風生的時候
@@ -117,7 +117,7 @@ int32,str,str
 76,"TEXT_SUBCTS660_04079_MAURILETTE_000_048","既然話都說到這個份上了……"
 77,"TEXT_SUBCTS660_04079_MAURILETTE_000_049","其實還有一個人想申請成為服務人員。
 她叫瑪埃莉，是一名年幼的戰爭孤兒。"
-78,"TEXT_SUBCTS660_04079_MAURILETTE_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你肯定認識吧。
+78,"TEXT_SUBCTS660_04079_MAURILETTE_000_050","<Highlight>ObjectParameter(1)</Highlight>你肯定認識吧。
 在她從教皇廳墜落，白龍將其救下之時，你就在旁邊。"
 79,"TEXT_SUBCTS660_04079_MAURILETTE_000_051","雖然她這個年齡當服務人員還過於年輕……
 可是她很有熱情，經常在醫院跑前跑後，
@@ -127,7 +127,7 @@ int32,str,str
 把瑪埃莉找來嗎？"
 81,"TEXT_SUBCTS660_04079_CHARLEMEND_000_053","嗯，當然。
 我們這就去找她。"
-82,"TEXT_SUBCTS660_04079_CHARLEMEND_000_054"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+82,"TEXT_SUBCTS660_04079_CHARLEMEND_000_054","<Highlight>ObjectParameter(1)</Highlight>，
 既然你認識那個叫瑪埃莉的少女的話，
 可以麻煩你幫忙介紹一下嗎？"
 83,"TEXT_SUBCTS660_04079_CHARLEMEND_000_060","就是這位少女嗎？"
@@ -146,7 +146,7 @@ int32,str,str
 那就趕緊去魯什芒德紀念醫院吧！
 我們一起加油！"
 90,"TEXT_SUBCTS660_04079_CHARLEMEND_000_080","好有活力的少女……"
-91,"TEXT_SUBCTS660_04079_MAURILETTE_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了。
+91,"TEXT_SUBCTS660_04079_MAURILETTE_000_085","<Highlight>ObjectParameter(1)</Highlight>，你回來了。
 感謝你把瑪埃莉帶來。"
 92,"TEXT_SUBCTS660_04079_MAELIE_000_090","打擾了！
 我聽說要跟我談談服務人員的事情？"
@@ -170,7 +170,7 @@ int32,str,str
 即便如此你也願意努力嗎？"
 101,"TEXT_SUBCTS660_04079_MAELIE_000_098","願意，可是……
 我確實在孤兒院學過讀寫和數數，但是我沒什麼自信……
-也不知道可不可行……"
+也不知道能不能行……"
 102,"TEXT_SUBCTS660_04079_MAURILETTE_000_099","還有夏爾芒，恕我直言，
 這裡的大部分患者都曾是被貴族僱傭為士兵的平民。"
 103,"TEXT_SUBCTS660_04079_MAURILETTE_000_100","如果大家知道你成為了服務人員的話，
@@ -200,14 +200,14 @@ int32,str,str
 115,"TEXT_SUBCTS660_04079_MAURILETTE_000_109","那就先請你們幫忙準備紀念醫院的日常用品吧。"
 116,"TEXT_SUBCTS660_04079_CHARLEMEND_000_110","好！交給我們吧……
 雖然很想這樣說……"
-117,"TEXT_SUBCTS660_04079_CHARLEMEND_000_111"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，聽聞你還是一名一流工匠。"
+117,"TEXT_SUBCTS660_04079_CHARLEMEND_000_111","<Highlight>ObjectParameter(1)</Highlight>，聽聞你還是一名一流工匠。"
 118,"TEXT_SUBCTS660_04079_CHARLEMEND_000_112","我們現在還不善於判斷醫院必需品的好壞，
 所以……可以請你幫忙籌集嗎？"
-119,"TEXT_SUBCTS660_04079_MAURILETTE_000_113","如果是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫忙準備的話
+119,"TEXT_SUBCTS660_04079_MAURILETTE_000_113","如果是<Highlight>ObjectParameter(1)</Highlight>幫忙準備的話
 那就可以放心了！"
 120,"TEXT_SUBCTS660_04079_MAURILETTE_000_114","你知道羅薇娜商會嗎？
-她們是最近剛剛進入伊修加爾德，協助重振經濟的商會。"
+她們是最近剛剛進入伊修加德，協助重振經濟的商會。"
 121,"TEXT_SUBCTS660_04079_MAURILETTE_000_115","你知道羅薇娜商會嗎？
-她們最近剛剛加入伊修加爾德，正在支援福利事業。"
+她們最近剛剛加入伊修加德，正在支持福利事業。"
 122,"TEXT_SUBCTS660_04079_MAURILETTE_000_116","剛好她們在醫院前面擺了攤位，
 如果有什麼需要的東西可以在那裡購買。"

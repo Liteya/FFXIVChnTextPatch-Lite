@@ -51,8 +51,8 @@ int32,str,str
 47,"TEXT_LUCKHZ104_04003_TODO_23",""
 48,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_000","啊，<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>！
 我們今天也在努力給拉斯奎恩哥哥幫忙哦！"
-49,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_001","還有最近不是建成了一個名叫昇歌文化區的地區嗎？
-我正想著那裡有沒有什麼適合的工作呢！"
+49,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_001","還有最近不是建成了一個名叫升歌文化區的地區嗎？
+我正想著那裡有沒有什麼合適的工作呢！"
 50,"TEXT_LUCKHZ104_04003_HWDCHILDA04003_000_002","(-？？？？-)大哥哥！大姐姐！
 快聽我說！"
 51,"TEXT_LUCKHZ104_04003_LYCELLE_000_003","嗯？怎麼了？"
@@ -60,11 +60,11 @@ int32,str,str
 53,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_005","那就是說你找到新的家庭了嗎！"
 54,"TEXT_LUCKHZ104_04003_HWDCHILDA04003_000_006","嗯，新的爸爸是一名騎士。
 新的媽媽也很溫柔呢。"
-55,"TEXT_LUCKHZ104_04003_HWDCHILDA04003_000_007","拉斯奎恩哥哥他們讓我跟孤兒院的大夥打個招呼。
-可是一想到要跟大夥告別，我就感到好寂寞呀……"
+55,"TEXT_LUCKHZ104_04003_HWDCHILDA04003_000_007","拉斯奎恩哥哥他們讓我跟孤兒院的大伙打個招呼。
+可是一想到要跟大伙告別，我就感到好寂寞呀……"
 56,"TEXT_LUCKHZ104_04003_LYCELLE_000_008","不要這麼沮喪，今後隨時可以過來玩嘛。"
 57,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_009","沒錯沒錯，要是新的家人是壞人的話，
-我們會和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>一起教訓他們的！"
+我們會和<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>一起教訓他們的！"
 58,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_010","對吧？"
 59,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_011","要不這樣……
 我們準備個禮物送給你，
@@ -137,7 +137,7 @@ int32,str,str
 92,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_077","這個人就是你以後的家人？"
 93,"TEXT_LUCKHZ104_04003_REDWALD_000_078","我從德里耶蒙那裡聽說過閣下在協助蒼天街的重建工程……
 沒想到來接這個孩子的時候會遇上。"
-94,"TEXT_LUCKHZ104_04003_REDWALD_000_079","多虧了 <Highlight>ObjectParameter(1)</Highlight> 閣下，
+94,"TEXT_LUCKHZ104_04003_REDWALD_000_079","多虧了<Highlight>ObjectParameter(1)</Highlight>閣下，
 隼巢的重建也在順利進行中，
 警衛兵和工匠們的家人都已經搬過去居住了。"
 95,"TEXT_LUCKHZ104_04003_REDWALD_000_080","我們夫婦沒有孩子，
@@ -173,13 +173,13 @@ int32,str,str
 110,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_111","啊，<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>！
 我、我可沒在哭！
 沒在哭嘛……"
-111,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_112","我當然喜歡孤兒院的大夥，
+111,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_112","我當然喜歡孤兒院的大伙，
 為了自立而製作東西，我也覺得很開心……
-可莉塞勒說的話讓我意識到大夥總有一天是要各自分開的。"
+可莉塞勒說的話讓我意識到大伙總有一天是要各自分開的。"
 112,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_113","在孤兒院裡，我們幾個年齡比較大，
 可能在被人領養前就要自己獨立……"
 113,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_114","一想到既沒有父親也沒有母親，
-又要離開孤兒院的大夥獨自生活下去，
+又要離開孤兒院的大伙獨自生活下去，
 我就感到十分的寂寞……"
 114,"TEXT_LUCKHZ104_04003_Q1_000_000","要說什麼？"
 115,"TEXT_LUCKHZ104_04003_A1_000_001","你並不是孤獨一人"
@@ -189,12 +189,12 @@ int32,str,str
 119,"TEXT_LUCKHZ104_04003_LYCELLE_000_117","就算沒有血緣關係，就算沒有父母，
 可我們卻是同一個孤兒院成長起來的同伴、家人。"
 120,"TEXT_LUCKHZ104_04003_LYCELLE_000_118","我們三個人一起戴上同樣的手套離開這裡，
-透過製作東西來賺錢，一直生活在一起。
+通過製作東西來賺錢，一直生活在一起。
 佩拉基勒覺得怎麼樣？"
 121,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_119","我打算將我們三個人做出的東西賣到其他的國家，
 去販賣的目的地那裡見識各種各樣的事物！"
 122,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_120","最後再回到這條街，
-給孤兒院的大夥帶回很多很多的特產！
+給孤兒院的大伙帶回很多很多的特產！
 不覺得這樣很棒嗎？"
 123,"TEXT_LUCKHZ104_04003_LYCELLE_000_121","我們是親密無間的家人，對吧？
 多虧了英雄<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>終結了戰爭，

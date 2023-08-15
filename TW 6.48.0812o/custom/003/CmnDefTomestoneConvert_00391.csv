@@ -10,7 +10,7 @@ int32,str,str
 不過前提是你如果有<Sheet(Item,IntegerParameter(1),0)/>的話。"
 4,"TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q","如果你需要的話，
 我可以用<Sheet(Item,IntegerParameter(3),0)/>換你的<Sheet(Item,IntegerParameter(1),0)/>。
-我至少能賺點零用錢。"
+我至少能賺點零花錢。"
 5,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q","要用「<Sheet(Item,IntegerParameter(1),0)/>」×<Value>IntegerParameter(2)</Value>
 換取「<Sheet(Item,IntegerParameter(3),0)/>」×<Value>IntegerParameter(4)</Value>嗎？"
 6,"TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES","交換"

@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_BANARK117_04567_SEQ_21",""
 22,"TEXT_BANARK117_04567_SEQ_22",""
 23,"TEXT_BANARK117_04567_SEQ_23",""
-24,"TEXT_BANARK117_04567_TODO_00","獲得<Sheet(EventItem,2003402,0)/>"
+24,"TEXT_BANARK117_04567_TODO_00","獲取<Sheet(EventItem,2003402,0)/>"
 25,"TEXT_BANARK117_04567_TODO_01","將<Sheet(EventItem,2003402,0)/>交給摩羅盧"
 26,"TEXT_BANARK117_04567_TODO_02",""
 27,"TEXT_BANARK117_04567_TODO_03",""
@@ -52,11 +52,11 @@ int32,str,str
 45,"TEXT_BANARK117_04567_TODO_21",""
 46,"TEXT_BANARK117_04567_TODO_22",""
 47,"TEXT_BANARK117_04567_TODO_23",""
-48,"TEXT_BANARK117_04567_MARU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+48,"TEXT_BANARK117_04567_MARU_000_001","<Highlight>ObjectParameter(1)</Highlight>……
 你注視過這裡的河馬們那可愛的眼神嗎？
 我就總是會被那份可愛所魅惑……"
 49,"TEXT_BANARK117_04567_MARU_000_002","為了讓它們能一直保持一種良好的狀態，
-選擇高品質的草和水果餵給它們是非常重要的……"
+選擇優質的草和水果餵給它們是非常重要的……"
 50,"TEXT_BANARK117_04567_MARU_000_003","它們尤其喜歡能在新港旁邊的乳河下游採集到的水草。
 庫存總是會減少得很快。"
 51,"TEXT_BANARK117_04567_MARU_000_004","方便的話，可以請你前往東邊的水池，

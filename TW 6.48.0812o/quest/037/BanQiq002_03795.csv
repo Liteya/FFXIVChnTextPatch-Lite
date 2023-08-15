@@ -2,13 +2,13 @@
 #,,
 int32,str,str
 0,"TEXT_BANQIQ002_03795_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-霍啪櫨古盤的茶咕盧利．柯呫櫨，想要開始進行洞窟遺跡的第一次調查。"
+霍啪櫨古盤的茶咕盧利·柯呫櫨，想要開始進行洞窟遺跡的第一次調查。"
 1,"TEXT_BANQIQ002_03795_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-和茶咕盧利．柯呫櫨進行了交談。一定要想辦法對付洞窟內的魔物才行。和蛇行枝的秦福特談談。"
+和茶咕盧利·柯呫櫨進行了交談。必須要想辦法對付洞窟內的魔物才行。和蛇行枝的秦福特談談。"
 2,"TEXT_BANQIQ002_03795_SEQ_02","和秦福特進行了交談。為了製作驅魔護符，需要尋找護符的核心材料。獲得材料後，交給採掘營地的瓦蘭。"
-3,"TEXT_BANQIQ002_03795_SEQ_03","將材料交給瓦蘭後，做出了驅魔護符。成功開始了第一次調查，但是，能找到祖先的石碑嗎？和茶咕盧利．柯呫櫨談談。"
+3,"TEXT_BANQIQ002_03795_SEQ_03","將材料交給瓦蘭後，做出了驅魔護符。成功開始了第一次調查，但是，能找到祖先的石碑嗎？和茶咕盧利·柯呫櫨談談。"
 4,"TEXT_BANQIQ002_03795_SEQ_04","給採掘隊的據點裝飾上了驅魔護符，在洞窟遺跡的內部，發現了損壞的「第一石碑」。在水蛇大人的指引下，奇塔利們決定將石碑復原。關於石碑上所雕刻的歷史，父子兩人的見解產生了分歧，冒險者作為隆卡的同盟者，不得不進行選擇……"
 5,"TEXT_BANQIQ002_03795_SEQ_05",""
 6,"TEXT_BANQIQ002_03795_SEQ_06",""
@@ -30,8 +30,8 @@ int32,str,str
 22,"TEXT_BANQIQ002_03795_SEQ_22",""
 23,"TEXT_BANQIQ002_03795_SEQ_23",""
 24,"TEXT_BANQIQ002_03795_TODO_00","和蛇行枝的秦福特對話"
-25,"TEXT_BANQIQ002_03795_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟的鄉愁的礦脈採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給瓦蘭</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟的鄉愁的草場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給瓦蘭</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟之淚釣取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給瓦蘭</If><Else/></If></If></If>"
-26,"TEXT_BANQIQ002_03795_TODO_02","和茶咕盧利．柯呫櫨對話"
+25,"TEXT_BANQIQ002_03795_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟的鄉愁的礦脈採取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給瓦蘭</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟的鄉愁的草場採取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給瓦蘭</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟之淚釣取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給瓦蘭</If><Else/></If></If></If>"
+26,"TEXT_BANQIQ002_03795_TODO_02","和茶咕盧利·柯呫櫨對話"
 27,"TEXT_BANQIQ002_03795_TODO_03",""
 28,"TEXT_BANQIQ002_03795_TODO_04",""
 29,"TEXT_BANQIQ002_03795_TODO_05",""
@@ -54,7 +54,7 @@ int32,str,str
 46,"TEXT_BANQIQ002_03795_TODO_22",""
 47,"TEXT_BANQIQ002_03795_TODO_23",""
 48,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_001","母親說，謝謝爾經常來幫忙是耶！
-託爾的福，採掘的準備工作已經完成啦！"
+托爾的福，採掘的準備工作已經完成啦！"
 49,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_002","終於可以正式開始調查洞窟遺跡了是耶！"
 50,"TEXT_BANQIQ002_03795_QITARLNATL_000_003","但是，不能放鬆警惕。
 洞窟遺跡似乎比想像的要大得多。"
@@ -71,7 +71,7 @@ int32,str,str
 56,"TEXT_BANQIQ002_03795_TWARLMANOL_000_009","某等剛進去沒走多遠，正期待著能找到些什麼東西時，
 就發現在洞窟的縫隙裡，全都塞滿了魔物！"
 57,"TEXT_BANQIQ002_03795_QITARLNATL_000_010","怎麼會這樣！
-某等奇塔利族碰到魔物時，都儘量繞著走……
+某等奇塔利族碰到魔物時，都盡量繞著走……
 要是路被堵住了的話，就無法前進了。"
 58,"TEXT_BANQIQ002_03795_Q1_000_000","要說什麼？"
 59,"TEXT_BANQIQ002_03795_A1_000_001","就交給打倒了靈光衛的我吧"
@@ -85,7 +85,7 @@ int32,str,str
 64,"TEXT_BANQIQ002_03795_QITARLNATL_000_014","但是，這個魔法壁只能阻止從地上而來的入侵者，
 並不能防止魔物在石縫裡繁殖。"
 65,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_015","咦！
-那光靠姆等，就沒辦法尋找祖先大人的石碑了啊……"
+那光靠姆等，就沒法尋找祖先大人的石碑了啊……"
 66,"TEXT_BANQIQ002_03795_BOUSHITSUCHINOKO_000_016","啾啾！"
 67,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_017","水蛇大人是想說什麼嗎？"
 68,"TEXT_BANQIQ002_03795_QITARLNATL_000_018","唔……某等雖然相信水蛇大人的指引，也願意遵從，
@@ -93,8 +93,8 @@ int32,str,str
 秦福特閣下可能會有些頭緒……"
 69,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_019","那姆去找秦福特閣下是耶！"
 70,"TEXT_BANQIQ002_03795_QITARLNATL_000_020","嗯，去依靠可依靠之人，或許才是捷徑。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，可以麻煩爾陪同犬子到蛇行枝嗎？"
-71,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_021","有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下一起，姆就沒什麼好怕的了！
+<Highlight>ObjectParameter(1)</Highlight>閣下，可以麻煩爾陪同犬子到蛇行枝嗎？"
+71,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_021","有<Highlight>ObjectParameter(1)</Highlight>閣下一起，姆就沒什麼好怕的了！
 水蛇大人也一起來吧！"
 72,"TEXT_BANQIQ002_03795_VALAN_000_030","我聽茶咕盧利說了，真沒想到會有人來找秦福特。"
 73,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_031","蛇行枝也有好多洞窟是耶！"
@@ -103,7 +103,7 @@ int32,str,str
 這些誕生於陰影的惡鬼每天渾渾噩噩地遊蕩在森林中，
 只能靠汲取地脈的養分存活，是何等的可悲可嘆！"
 76,"TEXT_BANQIQ002_03795_VALAN_000_041","啊，真是辛苦你們特地跑來了，
-那傢伙的話當成耳邊風就好。
+那傢伙的話當成耳旁風就好。
 不過，我也聽說過從岩石縫隙中出現的魔物的事。"
 77,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_042","瓦蘭閣下，快具體說說是耶！"
 78,"TEXT_BANQIQ002_03795_VALAN_000_043","好，那是剛住進蛇行枝時的事了……
@@ -125,7 +125,7 @@ int32,str,str
 85,"TEXT_BANQIQ002_03795_VALAN_000_050","將驅魔的祈願之力注入護符是導師們的工作，
 但製作護符的話，我也可以做到。
 不過，需要特殊的材料。"
-86,"TEXT_BANQIQ002_03795_VALAN_100_050","我們一般都在附近的希秋亞溼原的水池找材料，
+86,"TEXT_BANQIQ002_03795_VALAN_100_050","我們一般都在附近的希秋亞濕原的水池找材料，
 但是為奇塔利族的據點製作護符的話，
 還是在東邊的森林裡找比較好。"
 87,"TEXT_BANQIQ002_03795_VALAN_000_051","我想想啊……
@@ -150,7 +150,7 @@ int32,str,str
 94,"TEXT_BANQIQ002_03795_QUINFORT_000_064","我很期待能向驅魔護符中注入祈禱之力！"
 95,"TEXT_BANQIQ002_03795_VALAN_000_065","辛苦你了！
 找到護符的核心材料了嗎？"
-96,"TEXT_BANQIQ002_03795_VALAN_000_066","嗯，不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+96,"TEXT_BANQIQ002_03795_VALAN_000_066","嗯，不愧是<Highlight>ObjectParameter(1)</Highlight>！
 事不宜遲，我這就把護符做出來！"
 97,"TEXT_BANQIQ002_03795_VALAN_000_067","把這個這樣弄……就編出圖案了……
 很好，感覺還不賴！"
@@ -160,7 +160,7 @@ int32,str,str
 如果沒有導師向其中注入祈禱之力的話，
 這就只是個護符形狀的裝飾品而已。"
 100,"TEXT_BANQIQ002_03795_VALAN_000_072","我們的見習導師準備得怎麼樣了？"
-101,"TEXT_BANQIQ002_03795_QUINFORT_000_073","呵哈哈……是時候展現我這個導師真正的價值了！"
+101,"TEXT_BANQIQ002_03795_QUINFORT_000_073","呵哈哈……是時候體現我這個導師真正的價值了！"
 102,"TEXT_BANQIQ002_03795_VALAN_000_074","嗚哇，我總有種不祥的預感……"
 103,"TEXT_BANQIQ002_03795_QUINFORT_000_075","為保護奇塔利族而注入的祈禱文，
 要用夜之民的傳統祈禱呢，還是應該效仿隆卡的智慧呢……
@@ -201,7 +201,7 @@ int32,str,str
 但為了能讓孩子成長，冒險是很有必要的是也。"
 118,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_088","那姆等就開始第一次調查吧！"
 119,"TEXT_BANQIQ002_03795_SYSTEM_001_031","經過一段時間後……"
-120,"TEXT_BANQIQ002_03795_SYSTEM_001_032","茶咕盧利．柯呫櫨和其嗒盧利．那嗵櫨完成了第一次調查！"
+120,"TEXT_BANQIQ002_03795_SYSTEM_001_032","茶咕盧利·柯呫櫨和其嗒盧利·那嗵櫨完成了第一次調查！"
 121,"TEXT_BANQIQ002_03795_QUINFORT_000_091","水蛇大人又增加了！
 那就意味著更多的啟示！"
 122,"TEXT_BANQIQ002_03795_VALAN_000_092","茶咕盧利他們好像並沒有拿回類似石碑的東西呢……"
@@ -232,7 +232,7 @@ int32,str,str
 就像是在阻止姆一樣是耶。"
 134,"TEXT_BANQIQ002_03795_HELMETTSUCHINOKO_000_105","啾！"
 135,"TEXT_BANQIQ002_03795_QUINFORT_000_106","茶咕盧利身邊戴著帽子的水蛇大人一直都在地上，
-因此，這一定是帶來了新啟示的另一位水蛇大人！"
+因此，這肯定是帶來了新啟示的另一位水蛇大人！"
 136,"TEXT_BANQIQ002_03795_VALAN_000_107","已經是第3隻了吧？
 這真的不是洞窟裡量產的嗎？"
 137,"TEXT_BANQIQ002_03795_QITARLNATL_100_108","這次指引某等的，便是這位水蛇大人了是也。
@@ -252,7 +252,7 @@ int32,str,str
 可以看到，皇帝正在對害怕的奇塔利揮劍。"
 144,"TEXT_BANQIQ002_03795_QITARLNATL_000_114","也就是說，這個雕刻象徵著初代隆卡皇帝
 使用武力鎮壓並且支配了奇塔利族。
-第一層一定是描繪了那段歷史！"
+第一層肯定是描繪了那段歷史！"
 145,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_115","嗯……姆和父親的看法有些不一樣。"
 146,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_116","皇帝是用劍從魔物手中保護了弱小的奇塔利族是耶。
 所以奇塔利非常信任皇帝，
@@ -263,7 +263,7 @@ int32,str,str
 姆一直都非常憧憬他。
 殺害並支配奇塔利族什麼的，絕不可能！"
 149,"TEXT_BANQIQ002_03795_VALAN_000_119","嗯……看來，為了復原石碑，
-一定要先從這兩種說法中，選擇一種來傳承呢。"
+必須要先從這兩種說法中，選擇一種來傳承呢。"
 150,"TEXT_BANQIQ002_03795_QUINFORT_000_120","只有被選擇的說法才能用來復原石碑，
 並且被奇塔利族當作歷史代代相傳下去。
 那沒有被選擇的說法，就只能消失了嗎……"
@@ -273,13 +273,13 @@ int32,str,str
 152,"TEXT_BANQIQ002_03795_QUINFORT_000_122","喂、喂！瓦蘭！
 我們不繼續留在這裡見證歷史的新生了嗎！"
 153,"TEXT_BANQIQ002_03795_QITARLNATL_000_123","唔，某這個當父親的，也無意強推自己的想法是也。
-只是，光靠某等父子二人也沒辦法統一見解……"
+只是，光靠某等父子二人也沒法統一見解……"
 154,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_124","唔唔唔！
 那究竟要怎麼辦呢！"
 155,"TEXT_BANQIQ002_03795_BOUSHITSUCHINOKO_000_125","啾、啾啾！"
 156,"TEXT_BANQIQ002_03795_CHAQURLQHOTL_000_126","水、水蛇大人？！"
 157,"TEXT_BANQIQ002_03795_QITARLNATL_000_127","唔，水蛇大人難道是在說，
-讓隆卡的同盟者 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下來選擇
+讓隆卡的同盟者<Highlight>ObjectParameter(1)</Highlight>閣下來選擇
 奇塔利族即將傳承的歷史嗎？"
 158,"TEXT_BANQIQ002_03795_BOUSHITSUCHINOKO_000_128","啾！"
 159,"TEXT_BANQIQ002_03795_SYSTEM_000_150","關於要在新石碑上雕刻哪種歷史，
@@ -299,15 +299,15 @@ int32,str,str
 164,"TEXT_BANQIQ002_03795_SYSTEM_300_151","根據你的選擇，復原石碑的雕刻方式
 和傳承的歷史將會有一些區別。
 一旦完成了下一個任務，將無法重新選擇。"
-165,"TEXT_BANQIQ002_03795_SYSTEM_000_152","今後可以在霍啪櫨古盤的柯呫盧利．帕嗦梸處，
+165,"TEXT_BANQIQ002_03795_SYSTEM_000_152","今後可以在霍啪櫨古盤的柯呫盧利·帕嗦梸處，
 接受新的友好部族日常任務。"
 166,"TEXT_BANQIQ002_03795_SYSTEM_000_153","同時，作為獎勵，
 友好關係等級提升的當天，
-可從柯呫盧利．帕嗦梸處接受的友好部族日常任務數量追加3個。"
+可從柯呫盧利·帕嗦梸處接受的友好部族日常任務數量追加3個。"
 167,"TEXT_BANQIQ002_03795_SYSTEM_000_154","領取完所有友好關係等級提升前發行的友好部族日常任務後，
 將會發行作為獎勵的追加任務。
 受理限額未達到上限即可接受追加任務。"
-168,"TEXT_BANQIQ002_03795_SYSTEM_000_155","並且可以在「於咕盧利．瑪喏櫨」處
+168,"TEXT_BANQIQ002_03795_SYSTEM_000_155","並且可以在「於咕盧利·瑪喏櫨」處
 購入要求「關係程度：信賴」的商品。
 在今後的冒險裡善加利用吧！"
 169,"TEXT_BANQIQ002_03795_QITARLNATL_100_001","（★未使用／削除予定★）"

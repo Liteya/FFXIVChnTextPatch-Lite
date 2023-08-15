@@ -8,7 +8,7 @@ int32,str,str
 2,"TEXT_FESVLT2023PRESENTATION_00794_Q1_000_000","要看哪一場活動？"
 3,"TEXT_FESVLT2023PRESENTATION_00794_A1_000_001","冒險者公會的負責人和園藝工公會的會長"
 4,"TEXT_FESVLT2023PRESENTATION_00794_A2_000_001","刻木匠公會的會長和橡子樂園的少年"
-5,"TEXT_FESVLT2023PRESENTATION_00794_A3_000_001","熱戀中的愛情傳教士們"
+5,"TEXT_FESVLT2023PRESENTATION_00794_A3_000_001","熱戀中的愛情傳道士們"
 6,"TEXT_FESVLT2023PRESENTATION_00794_A4_000_001","拂曉的冒險者姐妹"
 7,"TEXT_FESVLT2023PRESENTATION_00794_A5_000_001","技術高超的魔法師和來自月亮的訪客"
 8,"TEXT_FESVLT2023PRESENTATION_00794_ASTRID_000_010","繆恩和弗弗茶，
@@ -20,7 +20,7 @@ int32,str,str
 想著來參加活動可以宣傳園藝工公會，就來了。"
 11,"TEXT_FESVLT2023PRESENTATION_00794_EMILIE_000_013","謝謝二位！
 那麼有請二位向大家講講自己的愛吧！"
-12,"TEXT_FESVLT2023PRESENTATION_00794_MIOUNNE_000_014","說起我的愛的話，就一定要說說我對茶的愛了。
+12,"TEXT_FESVLT2023PRESENTATION_00794_MIOUNNE_000_014","說起我的愛的話，就必須要說說我對茶的愛了。
 不管是泡茶、喝茶還是嘗試各種各樣不同的茶，都十分得我喜歡。
 茶葉不同發酵程度裡頭的學問可多了，我正想把它們都試個遍呢。"
 13,"TEXT_FESVLT2023PRESENTATION_00794_MIOUNNE_100_014","魔女咖啡館為大家提供的茶，
@@ -58,7 +58,7 @@ int32,str,str
 26,"TEXT_FESVLT2023PRESENTATION_00794_ASTRID_000_030","小莉還有奧爾特芬斯，
 感謝二位參加此次活動！
 首先請講講二位參加此次活動的理由！"
-27,"TEXT_FESVLT2023PRESENTATION_00794_LISETTE_000_031","那當然是為了讓我可愛的愛情傳教士們
+27,"TEXT_FESVLT2023PRESENTATION_00794_LISETTE_000_031","那當然是為了讓我可愛的愛情傳道士們
 舉辦的活動能更加熱鬧啦！"
 28,"TEXT_FESVLT2023PRESENTATION_00794_HORTEFENSE_000_032","我也是為了這個原因來的！
 啊，對了，還有，我想要在這裡表達我對小莉的愛！"
@@ -93,17 +93,17 @@ int32,str,str
 41,"TEXT_FESVLT2023PRESENTATION_00794_CLEMENCE_000_045","啊——姐姐你只要開口就說這個！
 各位，剛才的話當做沒聽見就好！"
 42,"TEXT_FESVLT2023PRESENTATION_00794_CLEMENCE_100_045","順帶一提啊，我最近覺得占星術很有趣，我很喜歡占星術！
-等再在伊修加爾德學習一段時間之後，
+等再在伊修加德學習一段時間之後，
 接下來我想要學習尼姆的軍事魔法！"
 43,"TEXT_FESVLT2023PRESENTATION_00794_ASTRID_000_046","呃，總之，似乎可以無視剛才的一部分發言的樣子。
 就讓我們不要打擾這對姐妹，一起享受這個快樂的節日吧！
 謝謝二位參加本次的活動！"
-44,"TEXT_FESVLT2023PRESENTATION_00794_ASTRID_000_050","歡迎于里昂熱和布丁威！
+44,"TEXT_FESVLT2023PRESENTATION_00794_ASTRID_000_050","歡迎於里昂熱和布丁威！
 感謝二位參加此次活動！
 首先請講講二位參加此次活動的理由！"
 45,"TEXT_FESVLT2023PRESENTATION_00794_URIANGER_000_051","我聽聞大家會來到這裡講述自己的愛，認為這著實很好……
 在觀眾席上發現了一張熟悉的面龐，也是我來到這裡的原因之一。"
-46,"TEXT_FESVLT2023PRESENTATION_00794_PUDDINGWAY_000_052","我想要和于里昂熱一起參加活動，就跟過來啦！"
+46,"TEXT_FESVLT2023PRESENTATION_00794_PUDDINGWAY_000_052","我想要和於里昂熱一起參加活動，就跟過來啦！"
 47,"TEXT_FESVLT2023PRESENTATION_00794_EMILIE_000_053","謝謝二位！
 那麼有請二位向大家講講自己的愛吧！"
 48,"TEXT_FESVLT2023PRESENTATION_00794_PUDDINGWAY_000_054","要說愛的話，我愛的是布丁！
@@ -117,5 +117,5 @@ int32,str,str
 51,"TEXT_FESVLT2023PRESENTATION_00794_URIANGER_100_055","初試時略帶生疏的焦香，熟稔後則是精心烹製的美味，
 現在回憶起來，仍能想起那充滿了愛戀的豐富滋味。"
 52,"TEXT_FESVLT2023PRESENTATION_00794_ASTRID_000_056","說起喜愛的美食，讓大家都食慾大開肚子咕咕叫了起來啦！
-順帶一提，我最喜歡的食物是起司焗洋蔥湯！
+順帶一提，我最喜歡的食物是芝士焗洋蔥湯！
 感謝二位來參加此次活動！"

@@ -7,7 +7,7 @@ int32,str,str
 3,"TEXT_JOBAST560_02023_SEQ_03","治癒了受傷的獵人們。和尾羽集落的蕾薇瓦對話。"
 4,"TEXT_JOBAST560_02023_SEQ_04","和蕾薇瓦進行了交談。前往龍堡參天高地的陸行鳥之森西南方，和蕾薇瓦對話。"
 5,"TEXT_JOBAST560_02023_SEQ_05","和蕾薇瓦進行了交談，並擊退了來襲的薩雷安刺客。和聖岡里奧爾占星院的雅內基納爾對話。"
-6,"TEXT_JOBAST560_02023_SEQ_06","和雅內基納爾進行了交談。得知了蕾薇瓦是做好成為罪人的決心而來到伊修加爾德的。為了幫助蕾薇瓦，繼續磨練占星術。
+6,"TEXT_JOBAST560_02023_SEQ_06","和雅內基納爾進行了交談。得知了蕾薇瓦是做好成為罪人的決心而來到伊修加德的。為了幫助蕾薇瓦，繼續磨練占星術。
 
 ※占星術士的等級達到58級以上時，可以從聖岡里奧爾占星院的雅內基納爾那裡領取下一個占星術士任務。"
 7,"TEXT_JOBAST560_02023_SEQ_07",""
@@ -51,14 +51,14 @@ int32,str,str
 45,"TEXT_JOBAST560_02023_TODO_21",""
 46,"TEXT_JOBAST560_02023_TODO_22",""
 47,"TEXT_JOBAST560_02023_TODO_23",""
-48,"TEXT_JOBAST560_02023_JANNEQUINARD_000_000","別來無恙， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBAST560_02023_JANNEQUINARD_000_000","別來無恙，<Highlight>ObjectParameter(1)</Highlight>。
 自上次的事件以來，蕾薇瓦老師一直輾轉於各地，
 不知疲倦地為傷病員進行治療。"
 49,"TEXT_JOBAST560_02023_JANNEQUINARD_000_001","而這次則是尾羽集落的獵人們主動委託我們，
 希望我們幫他們的傷員治療……這可是一個巨大的進步！
 我們也一起過去，助老師一臂之力吧。"
-50,"TEXT_JOBAST560_02023_JANNEQUINARD_000_009","我們也快點過去和老師會合，為治療活動做準備吧。"
-51,"TEXT_JOBAST560_02023_LEVEVA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了。
+50,"TEXT_JOBAST560_02023_JANNEQUINARD_000_009","我們也快點過去和老師匯合，為治療活動做準備吧。"
+51,"TEXT_JOBAST560_02023_LEVEVA_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了。
 我最近雖然一直在主動推行著治療活動，
 但接受相關的委託還是第一次。"
 52,"TEXT_JOBAST560_02023_LEVEVA_000_011","這也是占星術開始被人逐漸接納的證據。
@@ -83,10 +83,10 @@ int32,str,str
 請我們來可不是為了學習占星術。
 好了，我去看一會星空，順便想想之後的事情。"
 65,"TEXT_JOBAST560_02023_QUIMPERAIN_000_043","（★未使用／削除予定★）"
-66,"TEXT_JOBAST560_02023_JANNEQUINARD_000_044"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和坎佩蘭，
+66,"TEXT_JOBAST560_02023_JANNEQUINARD_000_044","<Highlight>ObjectParameter(1)</Highlight>和坎佩蘭，
 請陪同蕾薇瓦老師一起去。
 我再去巡視一圈集落，做一下最終確認。"
-67,"TEXT_JOBAST560_02023_LEVEVA_000_050","你來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。你也來看看這片星空吧。
+67,"TEXT_JOBAST560_02023_LEVEVA_000_050","你來了，<Highlight>ObjectParameter(1)</Highlight>。你也來看看這片星空吧。
 小時候，每當我一籌莫展時，就會仰望天空，
 任思緒馳騁於天空中那些永恆不變的星辰之間。"
 68,"TEXT_JOBAST560_02023_LEVEVA_000_051","我覺得是星辰將父親與我連在了一起。
@@ -133,7 +133,7 @@ int32,str,str
 ……感激不盡。"
 93,"TEXT_JOBAST560_02023_WOUNDEDC02023_000_062","(-尾羽集落的獵人-)別客氣。
 和你們一起戰鬥了才知道，
-原來占星魔法和伊修加爾德的占星術根本是兩碼事啊！"
+原來占星魔法和伊修加德的占星術根本是兩碼事啊！"
 94,"TEXT_JOBAST560_02023_WOUNDEDC02023_000_063","(-尾羽集落的獵人-)回頭一定要向皇都的朋友宣傳宣傳。
 回去的路上也要當心啊，告辭啦！"
 95,"TEXT_JOBAST560_02023_JANNEQUINARD_000_064","蕾薇瓦老師……您聽到了嗎？
@@ -146,15 +146,15 @@ int32,str,str
 所以傳播占星魔法的行為視議會的決議情況，
 可能會被判有罪……是這樣嗎？"
 99,"TEXT_JOBAST560_02023_LEVEVA_000_068","是的。祖父他也是做好了成為罪人的覺悟而幫助我的。
-在將占星術士之證託付給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 時，
+在將占星術士之證託付給<Highlight>ObjectParameter(1)</Highlight>時，
 他一定早已考慮到這些了。"
-100,"TEXT_JOBAST560_02023_JANNEQUINARD_000_069","竟揹負著如此覺悟……再次向您表示感謝，蕾薇瓦老師。
+100,"TEXT_JOBAST560_02023_JANNEQUINARD_000_069","竟背負著如此覺悟……再次向您表示感謝，蕾薇瓦老師。
 正因如此，為了不辜負您的祖父的一片心血，
 也一定要實現我們的夙願才行！"
 101,"TEXT_JOBAST560_02023_LEVEVA_000_070","是啊……正是如此。我決定了，
 這段時間就暫時留在尾羽集落，繼續進行治療活動，
 你們就先回皇都去，努力積累修行吧。"
-102,"TEXT_JOBAST560_02023_JANNEQUINARD_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦你了。
+102,"TEXT_JOBAST560_02023_JANNEQUINARD_000_080","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了。
 我們在尾羽集落取得了很大的進展。
 而且還擊退了對蕾薇瓦老師窮追不捨的襲擊者們。"
 103,"TEXT_JOBAST560_02023_JANNEQUINARD_000_081","不過，薩雷安的哲學家議會的動向還不明確，

@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_STMBDY504_03153_TODO_22",""
 47,"TEXT_STMBDY504_03153_TODO_23",""
 48,"TEXT_STMBDY504_03153_KOZAKURA_000_000","……啊？！
- <Highlight>ObjectParameter(1)</Highlight> 你、你是什麼時候來的？！"
+<Highlight>ObjectParameter(1)</Highlight>你、你是什麼時候來的？！"
 49,"TEXT_STMBDY504_03153_KOZAKURA_000_001","是、是我失禮了。
 我正在考慮先前提到的有關活動、祭奠的事情……"
 50,"TEXT_STMBDY504_03153_KOZAKURA_000_002","聽茨菰村的人們講，
@@ -98,15 +98,15 @@ int32,str,str
 讓大家也一起來參加才行啊。"
 66,"TEXT_STMBDY504_03153_KOZAKURA_000_017","當然沒問題！"
 67,"TEXT_STMBDY504_03153_TSURANUKI_000_018","只靠小櫻的話怕是忙不過來。
- <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>小姐<Else/>小哥</If>，
+<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>小哥</If>，
 也請你去跟三葉和水無月老師打聲招呼吧。"
 68,"TEXT_STMBDY504_03153_TSURANUKI_000_019","你找過他們後，就來無二庭園吧！
 在這段時間裡，我也做些準備。
 就拜託你了！"
 69,"TEXT_STMBDY504_03153_KOZAKURA_000_020","兩位師傅真是活力無限啊。
-託他們的福，工作也突飛猛進了！"
+托他們的福，工作也突飛猛進了！"
 70,"TEXT_STMBDY504_03153_KOZAKURA_000_021","我也馬上要去進行準備工作了。
- <Highlight>ObjectParameter(1)</Highlight> ，請你接著幫幫忙吧！"
+<Highlight>ObjectParameter(1)</Highlight>，請你接著幫幫忙吧！"
 71,"TEXT_STMBDY504_03153_TSURANUKI_000_025","我準備好了就去無二庭園。
 <If(PlayerParameter(4))>小姐<Else/>小哥</If>請你去跟三葉和水無月老師打聲招呼吧！"
 72,"TEXT_STMBDY504_03153_KOZAKURA_000_026","多虧了有兩位師傅，工作也在突飛猛進地進行著！
@@ -120,13 +120,13 @@ int32,str,str
 真是感謝他們啊。"
 75,"TEXT_STMBDY504_03153_HACHISUBA_000_029","為了祭奠的儀式啊……
 如果能有我可以幫忙的，就儘管說！"
-76,"TEXT_STMBDY504_03153_MINAZUKI_000_030"," <Highlight>ObjectParameter(1)</Highlight> ，平時承蒙你的照顧。
+76,"TEXT_STMBDY504_03153_MINAZUKI_000_030","<Highlight>ObjectParameter(1)</Highlight>，平時承蒙你的照顧。
 今天你是來看孩子們的嗎？"
 77,"TEXT_STMBDY504_03153_MINAZUKI_000_031","哎呀，放天燈？
 這真是……請務必讓我們參加。
 我這就召集孩子們過去。"
-78,"TEXT_STMBDY504_03153_MITSUBA_000_032"," <Highlight>ObjectParameter(1)</Highlight> ，你來得正好！
-我剛好試做了一些艾奧傑亞風格的湯菜。
+78,"TEXT_STMBDY504_03153_MITSUBA_000_032","<Highlight>ObjectParameter(1)</Highlight>，你來得正好！
+我剛好試做了一些艾歐澤亞風格的湯菜。
 好像是叫「燉菜」來著，你能不能嘗嘗看？"
 79,"TEXT_STMBDY504_03153_MITSUBA_000_033","你說什麼？要在後面的無二庭園放天燈嗎？
 正好我手頭的工作馬上就做完了，這就去那邊。
@@ -143,12 +143,12 @@ int32,str,str
 是匠人街的各位提供的。
 在此請允許我鄭重地表達感謝。"
 85,"TEXT_STMBDY504_03153_ARARAGI_000_043","不用在意啦，小櫻。
-天燈要是不選用高品質的紙張，可是飛不起來的。
+天燈要是不選用優質的紙張，可是飛不起來的。
 你能將這個工作交給我，也算是造紙匠人的榮幸了。"
 86,"TEXT_STMBDY504_03153_KOZAKURA_000_044","還有為了解放多瑪而做出過貢獻，
-現在又援助多瑪飛地進行重建的 <Highlight>ObjectParameter(1)</Highlight> ，
+現在又援助多瑪飛地進行重建的<Highlight>ObjectParameter(1)</Highlight>，
 我們實在是欠你太多……"
-87,"TEXT_STMBDY504_03153_HOZAN_000_045","無論是在艾奧傑亞，還是回到了故鄉，
+87,"TEXT_STMBDY504_03153_HOZAN_000_045","無論是在艾歐澤亞，還是回到了故鄉，
 我們都得到了你的鼎力相助！
 不管怎麼謝謝你都感謝不夠啊。"
 88,"TEXT_STMBDY504_03153_MINAZUKI_000_046","我也要謝謝你。
@@ -166,7 +166,7 @@ int32,str,str
 那我們這些活著的人就更不能哭了。"
 93,"TEXT_STMBDY504_03153_TSURANUKI_000_051","我們也要笑著送他們啟程。
 得讓先走一步的那些人能夠安心才行啊。"
-94,"TEXT_STMBDY504_03153_TSURANUKI_000_052","而且要是眼淚把紙弄溼了，
+94,"TEXT_STMBDY504_03153_TSURANUKI_000_052","而且要是眼淚把紙弄濕了，
 那天燈也飛不起來了呀！
 所以你就別再哭哭啼啼的了。"
 95,"TEXT_STMBDY504_03153_KOZAKURA_000_053","抱……抱歉……
@@ -176,19 +176,19 @@ int32,str,str
 就請允許我小櫻代為發令。"
 97,"TEXT_STMBDY504_03153_KOZAKURA_000_055","請大家為逝者們祈禱冥福，
 放飛手中的天燈！"
-98,"TEXT_STMBDY504_03153_KOZAKURA_000_056"," <Highlight>ObjectParameter(1)</Highlight> 你也放飛天燈吧。
+98,"TEXT_STMBDY504_03153_KOZAKURA_000_056","<Highlight>ObjectParameter(1)</Highlight>你也放飛天燈吧。
 我也跟著你一起來！"
 99,"TEXT_STMBDY504_03153_HOZAN_000_057","感覺就像是推開了新的大門，
 多瑪這個國家……
 今後又將踏上新的征程。"
-100,"TEXT_STMBDY504_03153_KOZAKURA_000_060"," <Highlight>ObjectParameter(1)</Highlight> ！
+100,"TEXT_STMBDY504_03153_KOZAKURA_000_060","<Highlight>ObjectParameter(1)</Highlight>！
 感謝你來參加放天燈儀式。"
 101,"TEXT_STMBDY504_03153_KOZAKURA_000_061","真是很棒的儀式呢！
 我出生後還是第一回見到那麼美麗的光景！"
 102,"TEXT_STMBDY504_03153_KOZAKURA_000_062","飛地能重建到這個階段，
 還能和大家一起放天燈……
 我作為車前會的出納員，真是感慨萬千。"
-103,"TEXT_STMBDY504_03153_KOZAKURA_000_063"," <Highlight>ObjectParameter(1)</Highlight> ，我有謝禮要交給你，
+103,"TEXT_STMBDY504_03153_KOZAKURA_000_063","<Highlight>ObjectParameter(1)</Highlight>，我有謝禮要交給你，
 請你收好。"
 104,"TEXT_STMBDY504_03153_KOZAKURA_000_064","還有……
 車前會認為此次的重建計劃已經基本完成了。"
@@ -197,7 +197,7 @@ int32,str,str
 106,"TEXT_STMBDY504_03153_KOZAKURA_110_064","飛地的人們能充滿活力露出笑容地過著每一天。
 這對我們車前會來說正是無價之寶。"
 107,"TEXT_STMBDY504_03153_KOZAKURA_120_064","能夠堅持到現在，全都是有你的協助才做到的。
-你給予的恩惠展現在這飛地的每個角落。"
+你給予的恩惠體現在這飛地的每個角落。"
 108,"TEXT_STMBDY504_03153_KOZAKURA_130_064","我代表飛地的人們和車前會，
 鄭重地向你表示感謝。"
 109,"TEXT_STMBDY504_03153_KOZAKURA_000_065","但是這還不是終點。
@@ -206,7 +206,7 @@ int32,str,str
 還請多多出讓給我們！"
 111,"TEXT_STMBDY504_03153_KOZAKURA_000_067","我們也會繼續準備相應的謝禮給你，
 今後也勞煩你幫幫忙！"
-112,"TEXT_STMBDY504_03153_SYSTEM_000_070","透過冒險者的貢獻，
+112,"TEXT_STMBDY504_03153_SYSTEM_000_070","通過冒險者的貢獻，
 車前會的多瑪飛地重建計劃已經完成了！"
 113,"TEXT_STMBDY504_03153_SYSTEM_000_071","今後雖然城市不會發展，
 但仍可繼續出讓不超過週預算額的物品。"
@@ -215,6 +215,6 @@ int32,str,str
 今後請繼續幫助多瑪飛地！"
 115,"TEXT_STMBDY504_03153_SYSTEM_000_073","可以在匠人街的雜用商人處，
 購買新的商品了！"
-116,"TEXT_STMBDY504_03153_HACHISUBA_000_080","喲， <Highlight>ObjectParameter(1)</Highlight> ！
+116,"TEXT_STMBDY504_03153_HACHISUBA_000_080","喲，<Highlight>ObjectParameter(1)</Highlight>！
 我還是一如既往，在石伏師父身邊學習呢。
 而且要學習的東西還多得很呢！"

@@ -6,11 +6,11 @@ int32,str,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作為完成本任務所需的物品，需要習得木工秘籍第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1,"TEXT_CLSWDK600_02001_SEQ_01","據巴爾托維厄所說，壞掉的陷阱裡可能有關於狐蛇飛龍弱點的線索。前往庫爾札斯西部高地的聖菲內雅連隊露營地，和怕冷的騎兵談談。"
 2,"TEXT_CLSWDK600_02001_SEQ_02","雖然壞掉的陷阱被怕冷的騎兵當柴禾燒掉了，但留下了一個插在上面的<Sheet(EventItem,2001682,0)/>。將<Sheet(EventItem,2001682,0)/>交給雲霧街的巴爾托維厄。"
-3,"TEXT_CLSWDK600_02001_SEQ_03","將<Sheet(EventItem,2001682,0)/>交給了巴爾托維厄。瞭解到父親是和狐蛇飛龍戰鬥時犧牲的巴爾托維厄，決定拿起槍來戰鬥。製作<Sheet(ItemHQ,10609,0)/>，交給雲霧街的巴爾托維厄。
+3,"TEXT_CLSWDK600_02001_SEQ_03","將<Sheet(EventItem,2001682,0)/>交給了巴爾托維厄。了解到父親是和狐蛇飛龍戰鬥時犧牲的巴爾托維厄，決定拿起槍來戰鬥。製作<Sheet(ItemHQ,10609,0)/>，交給雲霧街的巴爾托維厄。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作<Sheet(ItemHQ,10609,0)/>，需要習得木工秘籍第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-4,"TEXT_CLSWDK600_02001_SEQ_04","將<Sheet(ItemHQ,10609,0)/>交給了巴爾托維厄。巴爾托維厄想讓冒險者幫他轉告菲利帕萊，他要為父而戰。和伊修加爾德聖大鳥房附近的菲利帕萊談談。"
-5,"TEXT_CLSWDK600_02001_SEQ_05","和菲利帕萊進行了交談。為了和菲利帕萊一起觀戰，前往聖菲內雅連隊露營地的北邊，和巴爾托維厄會合。"
+4,"TEXT_CLSWDK600_02001_SEQ_04","將<Sheet(ItemHQ,10609,0)/>交給了巴爾托維厄。巴爾托維厄想讓冒險者幫他轉告菲利帕萊，他要為父而戰。和伊修加德聖大鳥房附近的菲利帕萊談談。"
+5,"TEXT_CLSWDK600_02001_SEQ_05","和菲利帕萊進行了交談。為了和菲利帕萊一起觀戰，前往聖菲內雅連隊露營地的北邊，和巴爾托維厄匯合。"
 6,"TEXT_CLSWDK600_02001_SEQ_06","巴爾托維厄成功打倒了狐蛇飛龍。在聖菲內雅連隊露營地的北邊和巴爾托維厄談談。"
 7,"TEXT_CLSWDK600_02001_SEQ_07","和巴爾托維厄進行了交談。為了和他一起掃墓，前往庫爾札斯西部高地戈爾加涅牧場的東邊，和巴爾托維厄談談。"
 8,"TEXT_CLSWDK600_02001_SEQ_08","和巴爾托維厄進行了交談。巴爾托維厄說能夠成功報仇並為父親洗刷汙名，都是多虧了冒險者製作的槍，並感謝了冒險者。今後也要作為刻木匠發揮本領，滿足更多的顧客。
@@ -36,7 +36,7 @@ int32,str,str
 25,"TEXT_CLSWDK600_02001_TODO_01","將<Sheet(EventItem,2001682,0)/>交給雲霧街的巴爾托維厄"
 26,"TEXT_CLSWDK600_02001_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作<Sheet(ItemHQ,10609,0)/><Else/>將<Sheet(ItemHQ,10609,0)/>交給巴爾托維厄</If>"
 27,"TEXT_CLSWDK600_02001_TODO_03","和菲利帕萊對話"
-28,"TEXT_CLSWDK600_02001_TODO_04","前往聖菲內雅連隊露營地的北邊 和巴爾托維厄會合"
+28,"TEXT_CLSWDK600_02001_TODO_04","前往聖菲內雅連隊露營地的北邊 和巴爾托維厄匯合"
 29,"TEXT_CLSWDK600_02001_TODO_05","和聖菲內雅連隊露營地北邊的巴爾托維厄對話"
 30,"TEXT_CLSWDK600_02001_TODO_06","和戈爾加涅牧場東邊的巴爾托維厄對話"
 31,"TEXT_CLSWDK600_02001_TODO_07",""
@@ -57,7 +57,7 @@ int32,str,str
 46,"TEXT_CLSWDK600_02001_TODO_22",""
 47,"TEXT_CLSWDK600_02001_TODO_23",""
 48,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_000","真是對不起你……我又失敗了。
-其實陷阱設得蠻成功的，而且一時間也抓到了狐蛇飛龍。
+其實陷阱設得挺成功的，而且一時間也抓到了狐蛇飛龍。
 那傢伙痛苦掙扎的樣子簡直大快人心。"
 49,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_001","但是，那傢伙意識到靠蠻力破壞不了陷阱，
 就噴出火焰吐息，連同自己一起把陷阱燒毀了。"
@@ -66,7 +66,7 @@ int32,str,str
 後來我想到了兒子……就拚老命逃了回來。"
 51,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_003","但是，我是不會放棄的……
 就算是狐蛇飛龍，也一定會有弱點的。
-我想要借助你的力量，查明那傢伙的弱點。"
+我想要藉助你的力量，查明那傢伙的弱點。"
 52,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_004","我想拜託你去調查一下陷阱的殘骸，
 看看有沒有什麼關於它弱點的線索……
 一枚鱗片說不定也能成為突破點呢。"
@@ -85,7 +85,7 @@ int32,str,str
 那是不是那傢伙刺在那條龍身上的東西啊。"
 58,"TEXT_CLSWDK600_02001_SAMUGARI02001_000_025","插在殘骸上的<Sheet(EventItem,2001682,0)/>還在哦。
 那是不是那傢伙刺在那條龍身上的東西啊。"
-59,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_030","怎麼樣？ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+59,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_030","怎麼樣？<Highlight>ObjectParameter(1)</Highlight>……
 有找到關於狐蛇飛龍弱點的線索嗎？"
 60,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_031","這是……
 你還記得嗎？你送來的那把槍……
@@ -114,7 +114,7 @@ int32,str,str
 69,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_040","放心吧……比起弓箭，我更擅長用槍。
 而且，父親有一位強大的夥伴……
 這位手藝高超的刻木匠啊！"
-70,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_041","要是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話，
+70,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_041","要是<Highlight>ObjectParameter(1)</Highlight>的話，
 一定能做出比爺爺的槍更為厲害的寶槍！
 有了那種槍，我一定不會輸的！"
 71,"TEXT_CLSWDK600_02001_PHILIPALLAIS_000_042","騙人！我不信！"
@@ -123,21 +123,21 @@ int32,str,str
 精金鋼製的槍尖強度要更勝一籌。"
 73,"TEXT_CLSWDK600_02001_BARTHOVIEU_100_000","我想拜託你製作<Sheet(ItemHQ,10609,0)/>。
 我不會讓你白做的，我已經打算拿出老本了……
-我一定要為父親報仇，為父親洗刷汙名！"
+我必須要為父親報仇，為父親洗刷汙名！"
 74,"TEXT_CLSWDK600_02001_SYSTEM_900_000","要製作<Sheet(ItemHQ,10609,0)/>，
 需要習得木工秘籍第三卷。"
 75,"TEXT_CLSWDK600_02001_BARTHOVIEU_100_010","我想拜託你製作<Sheet(ItemHQ,10609,0)/>。
 我不會讓你白做的，我已經打算拿出老本了……
-我一定要為父親報仇，為父親洗刷汙名！"
+我必須要為父親報仇，為父親洗刷汙名！"
 76,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_050","了不起……這真是把好槍。
 精金鋼製的槍尖鋒利無比，
 而槍柄卻很輕，而且用起來極為順手。"
-77,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_051","雖然狐蛇飛龍身上有傷口，但我一定要比父親刺得更深，
+77,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_051","雖然狐蛇飛龍身上有傷口，但我必須要比父親刺得更深，
 這樣才能給予它致命一擊。
 如果用這把槍，感覺可以整個貫穿它啊。"
 78,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_052","我會在聖菲內雅連隊露營地的西北邊等待狐蛇飛龍，
 向它進行挑戰。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這是我最後的請求。"
+<Highlight>ObjectParameter(1)</Highlight>，這是我最後的請求。"
 79,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_053","請你轉告菲利帕萊……
 就說我去為父親的名譽而戰，一定會凱旋的。
 他應該又在聖大鳥房附近鬧彆扭吧。"
@@ -172,7 +172,7 @@ int32,str,str
 92,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_076","……如果能夠以此得到認可，成為騎士之後，
 至少能讓你過得好一點。"
 93,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_077","是你把我兒子帶來的嗎？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+<Highlight>ObjectParameter(1)</Highlight>……
 你為我們做的太多了，真的太感謝你了！"
 94,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_078","不過話說回來，這把槍真的好厲害……
 銳利的槍尖，輕盈的槍柄……簡直可以將那傢伙的身體貫穿。
@@ -201,11 +201,11 @@ int32,str,str
 105,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_103","要是沒有你留下的那個突破口，
 和這位刻木匠給我做的槍……我也無法打倒它。
 老爸，我會再來的……再見。"
-106,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_104"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你陪我到最後！
+106,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_104","<Highlight>ObjectParameter(1)</Highlight>，謝謝你陪我到最後！
 之後我會和我兒子一起到神殿騎士團報告，
 洗刷父親的汙名……那再見了！"
-107,"TEXT_CLSWDK600_02001_SYSTEM_100_001","（★未使用／削除予定★）"
-108,"TEXT_CLSWDK600_02001_SYSTEM_100_002","（★未使用／削除予定★）"
+107,"TEXT_CLSWDK600_02001_SYSTEM_100_001","（未使用/預計刪除）"
+108,"TEXT_CLSWDK600_02001_SYSTEM_100_002","（未使用/預計刪除）"
 109,"TEXT_CLSWDK600_02001_PHILIPALLAIS_100_040","父親和狐蛇飛龍戰鬥的時候好帥啊！
 刻木匠師傅，我也要謝謝你！"
 110,"TEXT_CLSWDK600_02001_SYSTEM_000_500","「刻木匠」的故事到此告一段落！

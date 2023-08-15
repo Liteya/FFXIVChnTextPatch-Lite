@@ -55,7 +55,7 @@ int32,str,str
 48,"TEXT_BANKJN304_02982_ZUKIN_000_000","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，要不要體驗體驗海中遨遊啊？
 我想請你去給平時很努力的斑鰩一些獎勵——
 請到負責照顧斑鰩的枕頭那裡詳細地打聽一下。"
-49,"TEXT_BANKJN304_02982_MAKURA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，等你好久啦！
+49,"TEXT_BANKJN304_02982_MAKURA_000_010","<Highlight>ObjectParameter(1)</Highlight>，等你好久啦！
 斑鰩為我們每日的移動和運輸而努力，
 我想麻煩你帶著它好好地吃上一頓大餐——"
 50,"TEXT_BANKJN304_02982_MAKURA_000_011","我在地圖上標出了斑鰩最愛的磷蝦的棲息地——
@@ -74,11 +74,11 @@ int32,str,str
 56,"TEXT_BANKJN304_02982_SYSTEM_000_026","看來是磷蝦的棲息地。
 和碧玉水的枕頭交談，
 騎著斑鰩使用吸引。"
-57,"TEXT_BANKJN304_02982_ZUKIN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，
+57,"TEXT_BANKJN304_02982_ZUKIN_000_030","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，
 看來你款待了斑鰩一番？
 果然還是得偶爾吃回大餐才行嘛——"
 58,"TEXT_BANKJN304_02982_ZUKIN_000_031","我聽枕頭說，
 斑鰩非常喜歡載著<If(PlayerParameter(4))>大姐<Else/>大哥</If>在海中遨遊——
 下次<If(PlayerParameter(4))>大姐<Else/>大哥</If>有空再帶它去吃大餐吧——"
 59,"TEXT_BANKJN304_02982_MAKURA_000_035","那隻斑鰩吃得飽飽的，感到很滿足——
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你幫忙！"
+<Highlight>ObjectParameter(1)</Highlight>，謝謝你幫忙！"

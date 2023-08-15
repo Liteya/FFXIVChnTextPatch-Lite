@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ513_01848_SEQ_00","天極白堊宮丟三落四的莫古利有些煩心事。"
-1,"TEXT_HEAVNZ513_01848_SEQ_01","和丟三落四的莫古利進行了交談。丟三落四的莫古利將<Sheet(EventItem,2001678,0)/>弄丟了。在翻雲霧海的豎骨島拾取5個<Sheet(EventItem,2001678,0)/>。"
-2,"TEXT_HEAVNZ513_01848_SEQ_02","獲得了<Sheet(EventItem,2001678,0)/>。交給天極白堊宮丟三落四的莫古利。"
-3,"TEXT_HEAVNZ513_01848_SEQ_03","將<Sheet(EventItem,2001678,0)/>交給了丟三落四的莫古利。丟三落四的莫古利非常感激冒險者。"
+0,"TEXT_HEAVNZ513_01848_SEQ_00","天極白堊宮丟三落四的莫古力有些煩心事。"
+1,"TEXT_HEAVNZ513_01848_SEQ_01","和丟三落四的莫古力進行了交談。丟三落四的莫古力將<Sheet(EventItem,2001678,0)/>弄丟了。在翻雲霧海的豎骨島拾取5個<Sheet(EventItem,2001678,0)/>。"
+2,"TEXT_HEAVNZ513_01848_SEQ_02","獲得了<Sheet(EventItem,2001678,0)/>。交給天極白堊宮丟三落四的莫古力。"
+3,"TEXT_HEAVNZ513_01848_SEQ_03","將<Sheet(EventItem,2001678,0)/>交給了丟三落四的莫古力。丟三落四的莫古力非常感激冒險者。"
 4,"TEXT_HEAVNZ513_01848_SEQ_04",""
 5,"TEXT_HEAVNZ513_01848_SEQ_05",""
 6,"TEXT_HEAVNZ513_01848_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNZ513_01848_SEQ_21",""
 22,"TEXT_HEAVNZ513_01848_SEQ_22",""
 23,"TEXT_HEAVNZ513_01848_SEQ_23",""
-24,"TEXT_HEAVNZ513_01848_TODO_00","獲得<Sheet(EventItem,2001678,0)/>"
-25,"TEXT_HEAVNZ513_01848_TODO_01","將<Sheet(EventItem,2001678,0)/>交給丟三落四的莫古利"
+24,"TEXT_HEAVNZ513_01848_TODO_00","獲取<Sheet(EventItem,2001678,0)/>"
+25,"TEXT_HEAVNZ513_01848_TODO_01","將<Sheet(EventItem,2001678,0)/>交給丟三落四的莫古力"
 26,"TEXT_HEAVNZ513_01848_TODO_02",""
 27,"TEXT_HEAVNZ513_01848_TODO_03",""
 28,"TEXT_HEAVNZ513_01848_TODO_04",""

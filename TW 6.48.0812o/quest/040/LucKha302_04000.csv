@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKHA302_04000_SEQ_00","昇歌文化區的克農有事找冒險者商量。"
-1,"TEXT_LUCKHA302_04000_SEQ_01","克農等居民向冒險者提議計劃舉辦慶祝重建工程竣工的演奏會。和伊修加爾德蒼天街十字鎬大街的豐克里諾商量。"
+0,"TEXT_LUCKHA302_04000_SEQ_00","升歌文化區的克農有事找冒險者商量。"
+1,"TEXT_LUCKHA302_04000_SEQ_01","克農等居民向冒險者提議計劃舉辦慶祝重建工程竣工的演奏會。和伊修加德蒼天街十字鎬大街的豐克里諾商量。"
 2,"TEXT_LUCKHA302_04000_SEQ_02","和豐克里諾進行了商量。豐克里諾說要叫人過來，在十字鎬大街的<Sheet(EObj,2011307,0)/>等待。"
 3,"TEXT_LUCKHA302_04000_SEQ_03","豐克里諾帶來的人是阿圖瓦雷爾。他好像也願意協助舉辦演奏會。冒險者將作為演奏者參加演奏會，在聖羅埃勒廣場練習鋼琴。"
 4,"TEXT_LUCKHA302_04000_SEQ_04","練習了鋼琴的演奏。有所進步，再一次練習鋼琴的演奏。"
@@ -49,8 +49,8 @@ int32,str,str
 45,"TEXT_LUCKHA302_04000_TODO_21",""
 46,"TEXT_LUCKHA302_04000_TODO_22",""
 47,"TEXT_LUCKHA302_04000_TODO_23",""
-48,"TEXT_LUCKHA302_04000_FONCRINEAU_000_000"," <Highlight>ObjectParameter(1)</Highlight> ，
-你對昇歌文化區的氛圍感覺怎麼樣？"
+48,"TEXT_LUCKHA302_04000_FONCRINEAU_000_000","<Highlight>ObjectParameter(1)</Highlight>，
+你對升歌文化區的氛圍感覺怎麼樣？"
 49,"TEXT_LUCKHA302_04000_CONON_000_010","啊，英雄大人！
 你願意聽我說說嗎？
 謝謝！"
@@ -81,7 +81,7 @@ int32,str,str
 然後請你來演奏這個樂器行嗎？"
 62,"TEXT_LUCKHA302_04000_Q1_000_000","如何作答？"
 63,"TEXT_LUCKHA302_04000_A1_000_001","包在我身上！"
-64,"TEXT_LUCKHA302_04000_A1_000_002","我儘量吧"
+64,"TEXT_LUCKHA302_04000_A1_000_002","我盡量吧"
 65,"TEXT_LUCKHA302_04000_MARCELLOIX_000_023","非常感謝！
 那我們也去聖羅埃勒廣場做準備了。"
 66,"TEXT_LUCKHA302_04000_MARCELLOIX_000_024","演奏會的準備工作由這邊的瑪麗奧絲負責。
@@ -96,19 +96,19 @@ int32,str,str
 70,"TEXT_LUCKHA302_04000_MARIORIE_000_040","我很期待能有英雄大人參加的演奏會！
 我們會認真做好幕後準備，
 請英雄大人作為一名普通的演奏者盡情享受吧！"
-71,"TEXT_LUCKHA302_04000_FONCRINEAU_000_050","哎呀， <Highlight>ObjectParameter(1)</Highlight> 。
+71,"TEXT_LUCKHA302_04000_FONCRINEAU_000_050","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 弗朗塞爾少爺已經回到宅邸了……
 你來找我有事情嗎？"
 72,"TEXT_LUCKHA302_04000_FONCRINEAU_000_051","哦……！
 為了慶祝重建工程全面竣工，人們計劃要舉辦演奏會啊！
-哎呀哎呀，我一定是要全力支持這樣的活動呀。"
+哎呀哎呀，我肯定是要全力支持這樣的活動呀。"
 73,"TEXT_LUCKHA302_04000_FONCRINEAU_000_052","樂器已經準備出了兩套啊……
 不過少爺他精通各種各樣的樂器……嗯……"
 74,"TEXT_LUCKHA302_04000_FONCRINEAU_000_053","我想到了一個好辦法。
 我這就去叫一個人過來，
 請你在這裡稍等片刻好嗎？"
-75,"TEXT_LUCKHA302_04000_FONCRINEAU_000_060","讓你久等了， <Highlight>ObjectParameter(1)</Highlight> 。"
-76,"TEXT_LUCKHA302_04000_ARTOIREL_000_061"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，好久不見啊！
+75,"TEXT_LUCKHA302_04000_FONCRINEAU_000_060","讓你久等了，<Highlight>ObjectParameter(1)</Highlight>。"
+76,"TEXT_LUCKHA302_04000_ARTOIREL_000_061","<Highlight>ObjectParameter(1)</Highlight>閣下，好久不見啊！
 沒想到閣下也為皇都的重建工程做出了貢獻啊！"
 77,"TEXT_LUCKHA302_04000_ARTOIREL_000_062","基姆利特的前線還處於膠著狀態。
 艾默里克閣下離開前線之後沒多久，我也回來了。
@@ -116,7 +116,7 @@ int32,str,str
 78,"TEXT_LUCKHA302_04000_ARTOIREL_000_063","艾默里克閣下離開之後沒多久，
 我也立刻從膠著狀態的基姆利特前線趕回來了。
 畢竟不能放著在皇都的工作不管。"
-79,"TEXT_LUCKHA302_04000_ARTOIREL_000_064","艾因哈特家的管家透過我家的總管菲爾米安告訴我說
+79,"TEXT_LUCKHA302_04000_ARTOIREL_000_064","艾因哈特家的管家通過我家的總管菲爾米安告訴我說
 要慶祝重建工程全面竣工啊。
 你也來參加嗎？"
 80,"TEXT_LUCKHA302_04000_FONCRINEAU_000_065","我將紀念蒼天街重建完工設立樂團
@@ -143,15 +143,15 @@ int32,str,str
 要練習彈奏嗎？"
 90,"TEXT_LUCKHA302_04000_Q2_000_000","要練習彈奏鋼琴嗎？"
 91,"TEXT_LUCKHA302_04000_SYSTEM_100_080","（★未使用／削除予定★）"
-92,"TEXT_LUCKHA302_04000_SYSTEM_000_081","演奏水準提升了！"
+92,"TEXT_LUCKHA302_04000_SYSTEM_000_081","演奏水平提升了！"
 93,"TEXT_LUCKHA302_04000_SYSTEM_000_090","經過剛才的練習，找到了一些感覺。
 再進一步練習一下<Sheet(EObj,2011308,0)/>嗎？"
 94,"TEXT_LUCKHA302_04000_Q3_000_000","要練習彈奏鋼琴嗎？"
 95,"TEXT_LUCKHA302_04000_SYSTEM_100_090","（★未使用／削除予定★）"
 96,"TEXT_LUCKHA302_04000_SYSTEM_000_091","鋼琴大師！"
-97,"TEXT_LUCKHA302_04000_SYSTEM_000_092","感覺彈奏鋼琴的水準得到了提升。
+97,"TEXT_LUCKHA302_04000_SYSTEM_000_092","感覺彈奏鋼琴的水平得到了提升。
 向瑪麗奧絲詢問一下演奏會的準備情況。"
-98,"TEXT_LUCKHA302_04000_MARIORIE_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+98,"TEXT_LUCKHA302_04000_MARIORIE_000_100","<Highlight>ObjectParameter(1)</Highlight>！
 我聽到你剛才練習鋼琴來著！
 看來你已經做好了演奏的準備啊！"
 99,"TEXT_LUCKHA302_04000_MARIORIE_000_101","演奏會的布置也正在有條不紊地進行著！

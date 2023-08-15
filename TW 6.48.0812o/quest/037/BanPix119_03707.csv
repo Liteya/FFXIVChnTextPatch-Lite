@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANPIX119_03707_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-群花館的烏因．尼伊很擔心他去採花的同伴。"
+群花館的烏因·尼伊很擔心他去採花的同伴。"
 1,"TEXT_BANPIX119_03707_SEQ_01",""
 2,"TEXT_BANPIX119_03707_SEQ_02",""
 3,"TEXT_BANPIX119_03707_SEQ_03",""
@@ -30,7 +30,7 @@ int32,str,str
 23,"TEXT_BANPIX119_03707_SEQ_23",""
 24,"TEXT_BANPIX119_03707_TODO_00","和群樹館東邊的採花的仙子交談
 用護身仙子豬趕走靠近的東西"
-25,"TEXT_BANPIX119_03707_TODO_01","和烏因．尼伊對話"
+25,"TEXT_BANPIX119_03707_TODO_01","和烏因·尼伊對話"
 26,"TEXT_BANPIX119_03707_TODO_02",""
 27,"TEXT_BANPIX119_03707_TODO_03",""
 28,"TEXT_BANPIX119_03707_TODO_04",""
@@ -53,18 +53,18 @@ int32,str,str
 45,"TEXT_BANPIX119_03707_TODO_21",""
 46,"TEXT_BANPIX119_03707_TODO_22",""
 47,"TEXT_BANPIX119_03707_TODO_23",""
-48,"TEXT_BANPIX119_03707_UINNEE_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，聽我說！
+48,"TEXT_BANPIX119_03707_UINNEE_000_001","<Highlight>ObjectParameter(1)</Highlight>，聽我說！
 為了在夢裡給孩子們做出花田，
 我的同伴去摘花了，結果到現在還沒回來！"
-49,"TEXT_BANPIX119_03707_UINNEE_000_002","一定是「那個」出現了！
+49,"TEXT_BANPIX119_03707_UINNEE_000_002","肯定是「那個」出現了！
 嗯，錯不了的！"
 50,"TEXT_BANPIX119_03707_UINNEE_000_003","為了應對「那個」，我讓他拿上護身符了，
 所以我想，他暫時應該還沒事……"
-51,"TEXT_BANPIX119_03707_UINNEE_000_004","拜託了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+51,"TEXT_BANPIX119_03707_UINNEE_000_004","拜託了，<Highlight>ObjectParameter(1)</Highlight>！
 去群樹館東邊找到採花的仙子並保護好他！"
 52,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_010","我正忙著採花呢……
 有什麼事嗎？"
-53,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_011","你說烏因．尼伊在擔心我？
+53,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_011","你說烏因·尼伊在擔心我？
 真是小題大作，如果「那個」真的出現了，
 只要把這個護身符扔出去就可以了。"
 54,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_012","這麼擔心我的話，你就幫忙監視一下周圍吧？
@@ -72,7 +72,7 @@ int32,str,str
 就可以趕走靠近的東西了，那就拜託你啦！"
 55,"TEXT_BANPIX119_03707_SYSTEM_000_013","開始保護採花的仙子。
 如果發現了靠近的東西，在瞄準後，
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>扔出護身仙子豬！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>扔出護身仙子豬！"
 56,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_014","呀——！"
 57,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_015","(-另一位採花的仙子-)奇怪……我的朋友應該就在這裡採花啊……
 算了，不管他了，我自己採就足夠了！
@@ -80,7 +80,7 @@ int32,str,str
 58,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_100_015","呼……我採了好多花呢！
 謝謝你幫忙監視周圍。
 再見啦！"
-59,"TEXT_BANPIX119_03707_UINNEE_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來啦。"
+59,"TEXT_BANPIX119_03707_UINNEE_000_020","<Highlight>ObjectParameter(1)</Highlight>，你回來啦。"
 60,"TEXT_BANPIX119_03707_UINNEE_000_021","啊，採花的仙子的事不用向我彙報哦。
 如果有再也見不到了的仙子的話，
 那就只可能是那種情況了吧……"
@@ -98,5 +98,5 @@ int32,str,str
 忘得一乾二淨才能幸福地活下去。
 一定是這樣……"
 68,"TEXT_BANPIX119_03707_UINNEE_000_026","總之，謝謝你幫忙啦！
-託你的福，我們可以在荒野的孩子們的夢裡做出花田了！
+托你的福，我們可以在荒野的孩子們的夢裡做出花田了！
 收下這份謝禮吧！"

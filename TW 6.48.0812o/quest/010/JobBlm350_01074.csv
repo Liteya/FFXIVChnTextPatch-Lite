@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_JOBBLM350_01074_SEQ_00","密爾瓦內斯禮拜堂的菈菈伊有事情找冒險者。"
-1,"TEXT_JOBBLM350_01074_SEQ_01","接受了菈菈伊的委託。前往南薩納蘭撒溝厲沙漠的東南部，調查<Sheet(EObj,2002430,0)/>，並討伐出現的妖異，獲得<Sheet(EventItem,2000809,0)/>。"
+1,"TEXT_JOBBLM350_01074_SEQ_01","接受了菈菈伊的委託。前往南薩納蘭撒溝厲沙漠的東南部，調查<Sheet(EObj,2002430,0)/>，並討伐出現的妖異，獲取<Sheet(EventItem,2000809,0)/>。"
 2,"TEXT_JOBBLM350_01074_SEQ_02","獲得了<Sheet(EventItem,2000809,0)/>。在南薩納蘭撒溝厲沙漠的東南部，將<Sheet(EventItem,2000809,0)/>銘刻於<Sheet(EObj,2002430,0)/>。"
 3,"TEXT_JOBBLM350_01074_SEQ_03","將<Sheet(EventItem,2000809,0)/>銘刻在了<Sheet(EObj,2002430,0)/>。前往烏爾達哈的密爾瓦內斯禮拜堂，向菈菈伊報告。"
 4,"TEXT_JOBBLM350_01074_SEQ_04","向菈菈伊報告完畢。菈菈伊要求冒險者努力鍛鍊，熟練掌握已習得的黑魔法。等積累一定經驗之後，再來找菈菈伊。
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBBLM350_01074_SEQ_21",""
 22,"TEXT_JOBBLM350_01074_SEQ_22",""
 23,"TEXT_JOBBLM350_01074_SEQ_23",""
-24,"TEXT_JOBBLM350_01074_TODO_00","調查撒溝厲沙漠的<Sheet(EObj,2002430,0)/>並討伐妖異 獲得<Sheet(EventItem,2000809,0)/>"
+24,"TEXT_JOBBLM350_01074_TODO_00","調查撒溝厲沙漠的<Sheet(EObj,2002430,0)/>並討伐妖異 獲取<Sheet(EventItem,2000809,0)/>"
 25,"TEXT_JOBBLM350_01074_TODO_01","將<Sheet(EventItem,2000809,0)/>銘刻於<Sheet(EObj,2002430,0)/>"
 26,"TEXT_JOBBLM350_01074_TODO_02","向密爾瓦內斯禮拜堂的菈菈伊報告"
 27,"TEXT_JOBBLM350_01074_TODO_03",""
@@ -51,15 +51,15 @@ int32,str,str
 45,"TEXT_JOBBLM350_01074_TODO_21",""
 46,"TEXT_JOBBLM350_01074_TODO_22",""
 47,"TEXT_JOBBLM350_01074_TODO_23",""
-48,"TEXT_JOBBLM350_01074_LALAI_000_000","黑魔法師 <Highlight>ObjectParameter(1)</Highlight> 。
+48,"TEXT_JOBBLM350_01074_LALAI_000_000","黑魔法師<Highlight>ObjectParameter(1)</Highlight>。
 你終於來了。"
 49,"TEXT_JOBBLM350_01074_LALAI_000_001","我還以為面對不明力量的覺醒，
 你會嚇得逃之夭夭呢……
-看來你的膽子還蠻大嘛。"
+看來你的膽子還挺大嘛。"
 50,"TEXT_JOBBLM350_01074_LALAI_000_002","為了關閉虛無界之門，
 需要踏上收集鑰匙的旅途，看來你已經準備好出發了。
 ……那麼，我就把庫庫魯卡大人的指示傳達給你吧。"
-51,"TEXT_JOBBLM350_01074_LALAI_000_003","……。"
+51,"TEXT_JOBBLM350_01074_LALAI_000_003","……"
 52,"TEXT_JOBBLM350_01074_LALAI_000_004","為了關閉虛無界之門……
 去尋找新的鑰匙……領會新的黑魔法吧……"
 53,"TEXT_JOBBLM350_01074_LALAI_000_005","前往南薩納蘭撒溝厲沙漠的東南部……
@@ -76,7 +76,7 @@ int32,str,str
 但你還需要點時間，
 才能熟練掌握覺醒的黑魔法。"
 58,"TEXT_JOBBLM350_01074_LALAI_000_011","等你積累一定的經驗後，再來找我吧。
-屆時再會，黑魔法師 <Highlight>ObjectParameter(1)</Highlight> ……"
+屆時再會，黑魔法師<Highlight>ObjectParameter(1)</Highlight>……"
 59,"TEXT_JOBBLM350_01074_SYSTEM_000_012","黑魔法師的等級達到40級以上時，
 可以從菈菈伊那裡領取下一個黑魔法師任務。"
 60,"TEXT_JOBBLM350_01074_POP_MESSAGE","察覺到了敵人的氣息！"

@@ -9,7 +9,7 @@ int32,str,str
 5,"TEXT_STMBDZ616_02794_SEQ_05","對四周進行了張望。前往擋風巨岩周邊的<Sheet(EObj,2008791,0)/>再次進行張望，討伐出現的敵人。"
 6,"TEXT_STMBDZ616_02794_SEQ_06","對四周進行了張望，討伐了敵人。馬兀赤打倒了象魔。和維亞吉兒古巢的馬兀赤談談。"
 7,"TEXT_STMBDZ616_02794_SEQ_07","和馬兀赤進行了交談。馬兀赤委託冒險者先回去向庫蘭傳達好消息。和朵塔兒水洲的庫蘭談談。"
-8,"TEXT_STMBDZ616_02794_SEQ_08","和朵塔兒水洲的庫蘭進行了交談。馬兀赤向同族人傳達了窮極格鬥術的強烈願望。不過，歷代馬兀赤似乎都性格不定，擁有和前代不同的武藝天賦好像是常有的事。部落的人們微笑著接受了發現格鬥才能的馬兀赤。和朵塔兒水洲的略顯失望的馬兀赤談談。"
+8,"TEXT_STMBDZ616_02794_SEQ_08","和朵塔兒水洲的庫蘭進行了交談。馬兀赤向同族人傳達了窮極格鬥術的強烈願望。不過，歷代馬兀赤似乎都性情不定，擁有和前代不同的武藝天賦好像是常有的事。部落的人們微笑著接受了發現格鬥才能的馬兀赤。和朵塔兒水洲的略顯失望的馬兀赤談談。"
 9,"TEXT_STMBDZ616_02794_SEQ_09","和馬兀赤進行了交談。雖然結局出乎意料，但毋庸置疑的是，馬兀赤從此開闢了人生的新方向，為此馬兀赤對冒險者表示感激。馬兀赤決心潛心鍛鍊，彌補先前浪費的時光。為了不輸給馬兀赤，冒險者也要努力修練。"
 10,"TEXT_STMBDZ616_02794_SEQ_10",""
 11,"TEXT_STMBDZ616_02794_SEQ_11",""
@@ -60,7 +60,7 @@ int32,str,str
 51,"TEXT_STMBDZ616_02794_IBAKHA_000_010","……來自異國的旅行者啊，歡迎來到這陰暗的洞窟中。
 不過，你並不需要說什麼……
 真正有話要說的，另有其人吧？"
-52,"TEXT_STMBDZ616_02794_KHULAN_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，讓你久等了。
+52,"TEXT_STMBDZ616_02794_KHULAN_000_011","<Highlight>ObjectParameter(1)</Highlight>，讓你久等了。
 你幫我說了嗎？"
 53,"TEXT_STMBDZ616_02794_MAUCI_000_012","真不愧是潛心冥想的維亞吉兒部薩滿……
 竟然早就知道真正要找你的人是我……"
@@ -81,7 +81,7 @@ int32,str,str
 我並非「七劍」比較好吧。"
 60,"TEXT_STMBDZ616_02794_MAUCI_000_021","即便因指出族長的錯誤而遭到驅逐，
 我也要窮極格鬥術，而非執著於劍術。"
-61,"TEXT_STMBDZ616_02794_MAUCI_000_022","和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 分別後，
+61,"TEXT_STMBDZ616_02794_MAUCI_000_022","和<Highlight>ObjectParameter(1)</Highlight>分別後，
 我和沙漠中的野獸進行了戰鬥，
 終於明白了自己應當前行的正道。"
 62,"TEXT_STMBDZ616_02794_KHULAN_000_023","這樣啊……你已經下定決心了是嗎？
@@ -93,7 +93,7 @@ int32,str,str
 64,"TEXT_STMBDZ616_02794_MAUCI_000_025","謝謝你，庫蘭。
 就這麼辦。"
 65,"TEXT_STMBDZ616_02794_MAUCI_000_026","我要一個人打倒象魔，
-不過，我想請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來幫忙。
+不過，我想請<Highlight>ObjectParameter(1)</Highlight>來幫忙。
 請到北邊來找我吧，拜託了。"
 66,"TEXT_STMBDZ616_02794_KHULAN_000_027","……馬兀赤那傢伙，眼神堅定了很多啊。
 那我就在水洲等你們回來了。
@@ -110,7 +110,7 @@ int32,str,str
 如果在洞窟中被它糾纏，就有可能要了我的命，
 所以請你幫忙把它們趕走吧。"
 71,"TEXT_STMBDZ616_02794_SYSTEM_000_045","這附近沒有敵人……"
-72,"TEXT_STMBDZ616_02794_MAUCI_000_050","(-馬兀赤的聲音-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+72,"TEXT_STMBDZ616_02794_MAUCI_000_050","(-馬兀赤的聲音-)<Highlight>ObjectParameter(1)</Highlight>！
 我打倒象魔了！
 過來看看啊！"
 73,"TEXT_STMBDZ616_02794_MAUCI_000_060","看啊，我僅憑拳頭就打倒了象魔！
@@ -155,12 +155,12 @@ int32,str,str
 89,"TEXT_STMBDZ616_02794_KHULAN_000_091","維亞吉兒的薩滿所說的接受現狀，
 指的原來就是這個啊。
 不管怎樣，我很高興能繼續和你一起生活。"
-90,"TEXT_STMBDZ616_02794_MAUCI_000_092","……庫蘭，還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+90,"TEXT_STMBDZ616_02794_MAUCI_000_092","……庫蘭，還有<Highlight>ObjectParameter(1)</Highlight>，
 很抱歉，你們幫了那麼多，卻換來了這種結果。
 不過也多虧了你們，我找到了屬於自己的道路。"
 91,"TEXT_STMBDZ616_02794_MAUCI_000_093","我要努力鍛鍊格鬥術，
 彌補過去浪費的時光。
 謝謝你們。"
 92,"TEXT_STMBDZ616_02794_KHULAN_000_095","馬兀赤能繼續在這裡生活，真是太好了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，給你添麻煩了。
+<Highlight>ObjectParameter(1)</Highlight>，給你添麻煩了。
 謝謝你。"

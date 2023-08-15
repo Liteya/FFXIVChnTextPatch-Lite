@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANPIX105_03693_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-群花館的烏因．尼伊正在為和恩莫族做生意而苦惱。"
+群花館的烏因·尼伊正在為和恩莫族做生意而苦惱。"
 1,"TEXT_BANPIX105_03693_SEQ_01",""
 2,"TEXT_BANPIX105_03693_SEQ_02",""
 3,"TEXT_BANPIX105_03693_SEQ_03",""
@@ -29,8 +29,8 @@ int32,str,str
 22,"TEXT_BANPIX105_03693_SEQ_22",""
 23,"TEXT_BANPIX105_03693_SEQ_23",""
 24,"TEXT_BANPIX105_03693_TODO_00","在群樹館北邊的<Sheet(EObj,2010864,0)/>張望
-從出現的<Sheet(BNpcName,9164,0)/>身上獲得<Sheet(EventItem,2002926,0)/>"
-25,"TEXT_BANPIX105_03693_TODO_01","將<Sheet(EventItem,2002926,0)/>交給烏因．尼伊"
+從出現的<Sheet(BNpcName,9164,0)/>身上獲取<Sheet(EventItem,2002926,0)/>"
+25,"TEXT_BANPIX105_03693_TODO_01","將<Sheet(EventItem,2002926,0)/>交給烏因·尼伊"
 26,"TEXT_BANPIX105_03693_TODO_02",""
 27,"TEXT_BANPIX105_03693_TODO_03",""
 28,"TEXT_BANPIX105_03693_TODO_04",""

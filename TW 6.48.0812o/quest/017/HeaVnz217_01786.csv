@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ217_01786_SEQ_21",""
 22,"TEXT_HEAVNZ217_01786_SEQ_22",""
 23,"TEXT_HEAVNZ217_01786_SEQ_23",""
-24,"TEXT_HEAVNZ217_01786_TODO_00","從<Sheet(BNpcName,3569,0)/>身上獲得<Sheet(EventItem,2001611,0)/>"
+24,"TEXT_HEAVNZ217_01786_TODO_00","從<Sheet(BNpcName,3569,0)/>身上獲取<Sheet(EventItem,2001611,0)/>"
 25,"TEXT_HEAVNZ217_01786_TODO_01","將<Sheet(EventItem,2001611,0)/>交給西布勒魯瓦"
 26,"TEXT_HEAVNZ217_01786_TODO_02",""
 27,"TEXT_HEAVNZ217_01786_TODO_03",""
@@ -66,7 +66,7 @@ int32,str,str
 摘5個它們背上的<Sheet(EventItem,2001611,0)/>回來吧。
 就這麼一件小事……嘁嘁嘁。"
 56,"TEXT_HEAVNZ217_01786_CIBLEROIT_000_031","嘁嘁嘁……就是這個，太感謝了。
-這爽滑的黏液，還有這柔潤的口感簡直讓人慾罷不能。
+這爽滑的黏液，還有這柔潤的口感簡直讓人欲罷不能。
 不管怎麼吃都吃不膩啊。"
 57,"TEXT_HEAVNZ217_01786_UMASOU_000_032","那麼難吃的東西居然吃的津津有味，
 不愧是「西布勒魯瓦」，頂著人類的名字，

@@ -58,7 +58,7 @@ int32,str,str
 51,"TEXT_LUCKSA212_04028_ANNES_000_001","我聽茲拉坦說了不少蓋羅爾特大師的壞話……
 啊！咳咳……說了很多工作的艱辛，
 還誇讚了解放者閣下過人的見識和行動力。"
-52,"TEXT_LUCKSA212_04028_ANNES_000_002","至於我嘛，為了開發反抗軍的武器，
+52,"TEXT_LUCKSA212_04028_ANNES_000_002","至於我嘛，為了開發義軍的武器，
 我現在正在收集古代博茲雅人所使用的鐵具。"
 53,"TEXT_LUCKSA212_04028_ANNES_000_003","因此，我有一事相求！
 能請解放者閣下到前幾天發現的地下遺跡，
@@ -66,11 +66,11 @@ int32,str,str
 54,"TEXT_LUCKSA212_04028_ANNES_000_004","武器開發有所進展的話，
 我也能為解放者閣下準備出更有利於戰鬥的裝備！
 所以請你一定要幫幫忙啊！"
-55,"TEXT_LUCKSA212_04028_SYSTEM_100_005","本任務為周常任務。
+55,"TEXT_LUCKSA212_04028_SYSTEM_100_005","本任務為週常任務。
 每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）之後可以再次接受。"
 56,"TEXT_LUCKSA212_04028_SYSTEM_000_005","在接受本任務的狀態下完成「女王古殿」，
 即可獲得需要的任務道具。"
-57,"TEXT_LUCKSA212_04028_SYSTEM_000_006","可以透過和甘戈斯的謝羅斯對話進入女王古殿。"
+57,"TEXT_LUCKSA212_04028_SYSTEM_000_006","可以通過和甘戈斯的謝羅斯對話進入女王古殿。"
 58,"TEXT_LUCKSA212_04028_ANNES_000_010","啊，解放者閣下！
 前幾天你給我的古代博茲雅鐵具
 對武器開發起到了很大的幫助！"
@@ -95,7 +95,7 @@ int32,str,str
 如果到時候需要更多鐵具的話，
 那就請解放者閣下再次幫忙啦！"
 66,"TEXT_LUCKSA212_04028_ANNES_000_070","謝謝你，解放者閣下！
-果然祭祀用的東西和近衛兵的武器防具佔鐵具的大多數呢。
+果然祭祀用的東西和近衛兵的武器防具占鐵具的大多數呢。
 剩下的就是……啊，果然！"
 67,"TEXT_LUCKSA212_04028_ANNES_000_071","這次也混進了<Sheet(Item,32180,0)/>。
 讓我來處理一下鏽跡……

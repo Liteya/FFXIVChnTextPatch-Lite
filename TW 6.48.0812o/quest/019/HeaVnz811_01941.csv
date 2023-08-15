@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ811_01941_SEQ_00","田園郡的勞德喬克斯的商品已經售罄了。"
-1,"TEXT_HEAVNZ811_01941_SEQ_01","和勞德喬克斯進行了交談。他為了補充商品，希望得到<Sheet(EventItem,2001693,0)/>。在龍堡內陸低地的薩雷安精製區討伐<Sheet(BNpcName,3597,0)/>，獲得6枚<Sheet(EventItem,2001693,0)/>。"
+1,"TEXT_HEAVNZ811_01941_SEQ_01","和勞德喬克斯進行了交談。他為了補充商品，希望得到<Sheet(EventItem,2001693,0)/>。在龍堡內陸低地的薩雷安精製區討伐<Sheet(BNpcName,3597,0)/>，獲取6枚<Sheet(EventItem,2001693,0)/>。"
 2,"TEXT_HEAVNZ811_01941_SEQ_02","獲得了<Sheet(EventItem,2001693,0)/>。將<Sheet(EventItem,2001693,0)/>交給田園郡的勞德喬克斯。"
 3,"TEXT_HEAVNZ811_01941_SEQ_03","將<Sheet(EventItem,2001693,0)/>交給了勞德喬克斯。哥布林族的面具中都放了香草。只要有<Sheet(EventItem,2001693,0)/>，就可以製作有勞德喬克斯特製的混合香草。"
 4,"TEXT_HEAVNZ811_01941_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ811_01941_SEQ_21",""
 22,"TEXT_HEAVNZ811_01941_SEQ_22",""
 23,"TEXT_HEAVNZ811_01941_SEQ_23",""
-24,"TEXT_HEAVNZ811_01941_TODO_00","從薩雷安精製區的<Sheet(BNpcName,3597,0)/>身上獲得<Sheet(EventItem,2001693,0)/>"
+24,"TEXT_HEAVNZ811_01941_TODO_00","從薩雷安精製區的<Sheet(BNpcName,3597,0)/>身上獲取<Sheet(EventItem,2001693,0)/>"
 25,"TEXT_HEAVNZ811_01941_TODO_01","將<Sheet(EventItem,2001693,0)/>交給田園郡的勞德喬克斯"
 26,"TEXT_HEAVNZ811_01941_TODO_02",""
 27,"TEXT_HEAVNZ811_01941_TODO_03",""

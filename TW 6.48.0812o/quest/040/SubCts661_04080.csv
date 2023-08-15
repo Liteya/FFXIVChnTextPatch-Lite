@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_SUBCTS661_04080_TODO_22",""
 47,"TEXT_SUBCTS661_04080_TODO_23",""
 48,"TEXT_SUBCTS661_04080_MAURILETTE_000_000","那事不宜遲，
-接下來我就用 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 準備的東西
+接下來我就用<Highlight>ObjectParameter(1)</Highlight>準備的東西
 來做一下患者康復訓練的說明吧。"
 49,"TEXT_SUBCTS661_04080_MAELIE_000_001","好的！拜託了！"
 50,"TEXT_SUBCTS661_04080_RONANTAIN_000_002","(-？？？？-)伯父大人！！"
@@ -78,7 +78,7 @@ int32,str,str
 60,"TEXT_SUBCTS661_04080_MAELIE_000_011","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>也一起來吧！"
 61,"TEXT_SUBCTS661_04080_MAELIE_000_020","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>拿來的東西
 是要給患者們做訓練用的吧！"
-62,"TEXT_SUBCTS661_04080_MAURILETTE_000_030","代表著伊修加爾德的四大名門，
+62,"TEXT_SUBCTS661_04080_MAURILETTE_000_030","代表著伊修加德的四大名門，
 也會有庶民無法理解的辛苦啊……"
 63,"TEXT_SUBCTS661_04080_MAELIE_000_040","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>動作好快！
 這麼快就能找到羅南坦真是太好了！"
@@ -95,9 +95,9 @@ int32,str,str
 再跟他好好說說吧？"
 70,"TEXT_SUBCTS661_04080_RONANTAIN_000_046","知道啦！我回去就是了！"
 71,"TEXT_SUBCTS661_04080_MAELIE_000_050","家人和睦才是最重要的！"
-72,"TEXT_SUBCTS661_04080_RONANTAIN_000_055","…………。"
+72,"TEXT_SUBCTS661_04080_RONANTAIN_000_055","……"
 73,"TEXT_SUBCTS661_04080_MAURILETTE_000_060","找到羅南坦了嗎？"
-74,"TEXT_SUBCTS661_04080_CHARLEMEND_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，瑪埃莉，
+74,"TEXT_SUBCTS661_04080_CHARLEMEND_000_070","<Highlight>ObjectParameter(1)</Highlight>，瑪埃莉，
 因為我的家事給你們添了麻煩，真是抱歉。"
 75,"TEXT_SUBCTS661_04080_RONANTAIN_000_071","伯父大人！
 對英雄也就算了，您怎麼可以對平民也低頭呢！
@@ -106,7 +106,7 @@ int32,str,str
 但是以血統為由蔑視平民是不對的。"
 77,"TEXT_SUBCTS661_04080_CHARLEMEND_100_072","而且你應該也聽說過，
 平民們也是捨棄了爵位回歸鄉野的十二騎士的後代。
-所以無論是貴族還是平民，大家都是伊修加爾德的子民。"
+所以無論是貴族還是平民，大家都是伊修加德的子民。"
 78,"TEXT_SUBCTS661_04080_CHARLEMEND_000_073","我明白你一時很難接受新的價值觀。
 但是，只以自己的血統為榮的時代已經結束了。"
 79,"TEXT_SUBCTS661_04080_CHARLEMEND_000_074","今後左右一個人價值的，
@@ -115,9 +115,9 @@ int32,str,str
 你在訓練中精疲力盡之後，最想要什麼？"
 81,"TEXT_SUBCTS661_04080_RONANTAIN_000_076","我想好好休息。
 如果能有香甜可口的茶和點心的話……那就更開心了。"
-82,"TEXT_SUBCTS661_04080_CHARLEMEND_000_077","沒錯，這正是目前的伊修加爾德百姓最期望得到的。
+82,"TEXT_SUBCTS661_04080_CHARLEMEND_000_077","沒錯，這正是目前的伊修加德百姓最期望得到的。
 如今戰爭結束，人們想要的是休息和安定的生活。"
-83,"TEXT_SUBCTS661_04080_CHARLEMEND_000_078","一個是想要點心時只會張口等別人喂的人，
+83,"TEXT_SUBCTS661_04080_CHARLEMEND_000_078","一個是想要點心時只會張口等別人餵的人，
 一個是身先士卒為大家準備茶和點心的人，
 如果是你的話想要跟隨誰呢？"
 84,"TEXT_SUBCTS661_04080_RONANTAIN_000_079","這個……當然是為大家準備茶和點心的人。"
@@ -135,7 +135,7 @@ int32,str,str
 當初在孤兒院舉辦的時候就非常熱鬧！"
 92,"TEXT_SUBCTS661_04080_MAURILETTE_000_087","茶會的話，對患者身體的負擔也會少一些。
 可以，那就這麼定了！"
-93,"TEXT_SUBCTS661_04080_MAURILETTE_000_088","那就請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫忙準備
+93,"TEXT_SUBCTS661_04080_MAURILETTE_000_088","那就請<Highlight>ObjectParameter(1)</Highlight>幫忙準備
 紀念醫院的茶會用品吧。"
 94,"TEXT_SUBCTS661_04080_MAELIE_000_089","羅南坦也一起來幫忙吧！
 好嗎！"

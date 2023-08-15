@@ -9,7 +9,7 @@ int32,str,str
 洗——剪——吹！"
 5,"TEXT_CMNDEFBEAUTYSALON_00148_CUSTOMIZE_WARNING","在更改髮型時，
 玩家的行動會受到一定限制，例如無法進行聊天操作等。"
-6,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_WARNING","正在使用任務搜尋器傳送任務參加申請，
+6,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_WARNING","正在使用任務搜尋器發送任務參加申請，
 如果更改髮型的話，
 參加申請將會取消。"
 7,"TEXT_CMNDEFBEAUTYSALON_00148_DUTY_FINDER_CONFIRM","確定要更改髮型嗎？"

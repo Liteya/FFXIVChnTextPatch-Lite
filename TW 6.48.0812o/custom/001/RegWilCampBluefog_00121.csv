@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_000","冒險者閣下，找我有什麼事嗎？"
-1,"TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000","想瞭解什麼？"
+1,"TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000","想了解什麼？"
 2,"TEXT_REGWILCAMPBLUEFOG_00121_A1_000_001","你是做什麼的？"
 3,"TEXT_REGWILCAMPBLUEFOG_00121_A1_000_002","這裡是什麼地方？"
 4,"TEXT_REGWILCAMPBLUEFOG_00121_A1_000_003","取消"
@@ -19,5 +19,5 @@ int32,str,str
 9,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_022","之所以叫這個名字，是因為這一帶瀰漫著藍色的霧。
 那是因為在挖掘青磷水的時候，
 產生的藍色蒸汽飄到了這裡，形成了霧。"
-10,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050","這不是 <Highlight>ObjectParameter(1)</Highlight> 隊長麼！
-有什麼想要瞭解的事情嗎？"
+10,"TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050","這不是<Highlight>ObjectParameter(1)</Highlight>隊長麼！
+有什麼想要了解的事情嗎？"

@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_CHRHDY201_04725_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊規則： 職業固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-鍊金術製藥堂的蓋羅爾特想和冒險者聊聊曼德維爾武器的事。"
+煉金術製藥堂的蓋羅爾特想和冒險者聊聊曼德維爾武器的事。"
 1,"TEXT_CHRHDY201_04725_SEQ_01","※本任務為<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 職業固定任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 冒險者和蓋羅爾特談話時，戈德伯特突然有事要找兩人。眾人著手強化曼德維爾武器。根據戈德伯特所說，想要強化曼德維爾武器就需要製作者和強敵作戰，覺醒戰鬥本能。戈德伯特在與超威盧格的戰鬥中已經掌握了戰鬥本能。為了讓蓋羅爾特也掌握戰鬥本能，現在需要為他準備一名對手。在拉札罕達摩法區的<Sheet(EObj,2013276,0)/>等待。"
-2,"TEXT_CHRHDY201_04725_SEQ_02","在指定地點等待，蓋羅爾特與戈德伯特準備的魔法人偶進行了戰鬥。最開始蓋羅爾特輸得很慘，但塗了戈德伯特準備的曼德維爾蠑螈油之後，蓋羅爾特艱難地取得了勝利。冒險者需要集齊強化曼德維爾武器所需的素材，收集3個<Sheet(Item,38940,0)/>並在攜帶曼德維爾武器的狀態下，交給鍊金術製藥堂的蓋羅爾特。
+2,"TEXT_CHRHDY201_04725_SEQ_02","在指定地點等待，蓋羅爾特與戈德伯特準備的魔法人偶進行了戰鬥。最開始蓋羅爾特輸得很慘，但塗了戈德伯特準備的曼德維爾蠑螈油之後，蓋羅爾特艱難地取得了勝利。冒險者需要集齊強化曼德維爾武器所需的素材，收集3個<Sheet(Item,38940,0)/>並在攜帶曼德維爾武器的狀態下，交給煉金術製藥堂的蓋羅爾特。
 
 可以在乙太之光廣場的玖布倫娜處交換<Sheet(Item,38940,0)/>。"
 3,"TEXT_CHRHDY201_04725_SEQ_03","將<Sheet(Item,38940,0)/>交給了蓋羅爾特，強化了曼德維爾武器。想要進一步強化曼德維爾武器就需要繼續尋找古書中的線索。在此期間冒險者試用強化後的武器，確認強化的成果如何。"
@@ -32,7 +32,7 @@ int32,str,str
 22,"TEXT_CHRHDY201_04725_SEQ_22",""
 23,"TEXT_CHRHDY201_04725_SEQ_23",""
 24,"TEXT_CHRHDY201_04725_TODO_00","在<Sheet(EObj,2013276,0)/>等待"
-25,"TEXT_CHRHDY201_04725_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲得<Sheet(Item,38940,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,38400)/>與
+25,"TEXT_CHRHDY201_04725_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,38940,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,38400)/>與
 <Sheet(Item,38419,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,38401,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,38402,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,38403,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,38404,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,38408,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,38409,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,38410,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,38411,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,38405,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,38407,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,38406,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,38412,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,38413,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,38414,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,38415,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,38416,0)/><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,38418,0)/><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,38417,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
 將<Sheet(Item,38940,0)/>交給蓋羅爾特</If>"
 26,"TEXT_CHRHDY201_04725_TODO_02",""
@@ -65,7 +65,7 @@ int32,str,str
 52,"TEXT_CHRHDY201_04725_A1_000_003","製作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的曼德維爾武器"
 53,"TEXT_CHRHDY201_04725_SYSTEM_000_005","接受任務「覺醒吧！戰鬥本能！」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 54,"TEXT_CHRHDY201_04725_SYSTEM_000_006","請切換成想製作曼德維爾武器的特職，
 再次與蓋羅爾特對話。"
 55,"TEXT_CHRHDY201_04725_SYSTEM_000_007","要接受任務「覺醒吧！戰鬥本能！」，
@@ -79,11 +79,11 @@ int32,str,str
 59,"TEXT_CHRHDY201_04725_GEROLT_000_012","但那把武器只是第一階段的產物。
 戈德伯特大叔說差不多該著手強化武器了……"
 60,"TEXT_CHRHDY201_04725_CRAFTER04653_000_013","我現在就去請家主過來……"
-61,"TEXT_CHRHDY201_04725_GODBERT_000_014","嚯嚯！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！
+61,"TEXT_CHRHDY201_04725_GODBERT_000_014","嚯嚯！<Highlight>ObjectParameter(1)</Highlight>閣下！
 感謝你這次也前來為我們提供幫助！"
 62,"TEXT_CHRHDY201_04725_GODBERT_000_015","在那之後，我已經成功解讀了古書的內容，
 搞懂了強化曼德維爾武器的方法。"
-63,"TEXT_CHRHDY201_04725_GODBERT_000_016","這次我們需要的是一種新的隕石類材料，叫<Sheet(Item,38940,0)/>。
+63,"TEXT_CHRHDY201_04725_GODBERT_000_016","需要的素材，又是一種叫<Sheet(Item,38940,0)/>的隕石。
 加入這種隕石之後，鏝元素的性質將大幅提高，
 乙太傳導率也會相應地提升。"
 64,"TEXT_CHRHDY201_04725_GODBERT_000_017","然而，想要成功強化武器，
@@ -103,8 +103,8 @@ int32,str,str
 獲勝後覺醒的戰鬥本能就是強化武器的關鍵。"
 70,"TEXT_CHRHDY201_04725_GODBERT_000_023","我在和冒險者共同行動的這段時間裡，
 與一名叫超威盧格的強敵對戰後取得了勝利。
-透過這場戰鬥，我已經覺醒了戰鬥本能。"
-71,"TEXT_CHRHDY201_04725_GODBERT_000_024","然而，蓋羅爾特閣下想要強化武器，
+通過這場戰鬥，我已經覺醒了戰鬥本能。"
+71,"TEXT_CHRHDY201_04725_GODBERT_000_024","然而，蓋羅爾特你想要強化武器，
 就需要和強敵戰鬥，並取得勝利！"
 72,"TEXT_CHRHDY201_04725_GEROLT_000_025","喂、喂！這真的跟造武器有關係嗎？！"
 73,"TEXT_CHRHDY201_04725_GODBERT_000_026","當然有很大的關係！
@@ -116,19 +116,19 @@ int32,str,str
 76,"TEXT_CHRHDY201_04725_GEROLT_000_030","為什麼我一個武器工匠非得要戰鬥啊……"
 77,"TEXT_CHRHDY201_04725_GEROLT_000_200","真是的，我為什麼非得要戰鬥啊……"
 78,"TEXT_CHRHDY201_04725_GODBERT_000_201","嚯嚯嚯，久等了。
-蓋羅爾特閣下要戰鬥的對手，已經準備好了。"
+蓋羅爾特要戰鬥的對手，已經準備好了。"
 79,"TEXT_CHRHDY201_04725_GEROLT_000_202","就這麼一個破魔法人偶？
 我雖然是個工匠不是戰士，不過這點戰鬥力我還是有的。
 別看我這樣，在酒館打架的時候可沒輸過！"
 80,"TEXT_CHRHDY201_04725_GODBERT_000_203","那我就放心了。
-還好我把魔法人偶的戰鬥力設定成了最強等級。"
+還好我把魔法人偶的戰鬥力設定成了最強級別。"
 81,"TEXT_CHRHDY201_04725_GEROLT_000_204","行、行吧……看我揍扁它！"
 82,"TEXT_CHRHDY201_04725_GEROLT_000_205","該死的東西……"
 83,"TEXT_CHRHDY201_04725_GODBERT_000_206","唔……
 這時候就該那個出場了吧……"
 84,"TEXT_CHRHDY201_04725_GODBERT_000_207","曼德維爾——！
 勇——氣！"
-85,"TEXT_CHRHDY201_04725_GEROLT_000_208","什、什麼東西！這溼漉漉、黏糊糊的感覺？！"
+85,"TEXT_CHRHDY201_04725_GEROLT_000_208","什、什麼東西！這濕漉漉、黏糊糊的感覺？！"
 86,"TEXT_CHRHDY201_04725_GODBERT_000_209","我給你塗了我家傳的曼德維爾蠑螈油！
 你的肉體已經被強化了！
 下一次，你肯定會獲勝！"
@@ -145,7 +145,7 @@ int32,str,str
 92,"TEXT_CHRHDY201_04725_GEROLT_000_215","那我們就先回工房，
 把鍛造爐熱起來等你回來了！"
 93,"TEXT_CHRHDY201_04725_GODBERT_000_216","嚯嚯嚯！
-蓋羅爾特閣下和最弱的魔法人偶的這場戰鬥打得蠻不錯的啊！"
+蓋羅爾特和最弱的魔法人偶的這場戰鬥打得挺不錯的啊！"
 94,"TEXT_CHRHDY201_04725_GODBERT_000_217","讓我告訴你實話吧，
 其實這個魔法人偶設定的是最弱，而不是最強的狀態。
 曼德維爾蠑螈油也只有活血化瘀的功能……"
@@ -166,26 +166,26 @@ int32,str,str
 把你準備的<Sheet(Item,38940,0)/>給我吧！"
 102,"TEXT_CHRHDY201_04725_GEROLT_000_242","很好！這下就都準備好了！
 我們把大叔喊過來開始強化吧！"
-103,"TEXT_CHRHDY201_04725_GODBERT_000_250","成功了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！"
+103,"TEXT_CHRHDY201_04725_GODBERT_000_250","成功了，<Highlight>ObjectParameter(1)</Highlight>閣下！"
 104,"TEXT_CHRHDY201_04725_GEROLT_000_251","這就是我們三個齊心協力創造出來的新一階段的曼德維爾武器！"
 105,"TEXT_CHRHDY201_04725_GEROLT_000_252","<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>！"
 106,"TEXT_CHRHDY201_04725_GEROLT_000_253","<Sheet(Item,IntegerParameter(1),0)/>！"
 107,"TEXT_CHRHDY201_04725_GODBERT_000_254","能這樣成功強化武器，
-也是多虧了蓋羅爾特閣下心中覺醒的戰鬥本能啊！"
+也是多虧了蓋羅爾特你心中覺醒的戰鬥本能啊！"
 108,"TEXT_CHRHDY201_04725_GEROLT_000_255","真的是這樣嗎……我還是搞不太懂……
 總之就先當是這樣吧。"
 109,"TEXT_CHRHDY201_04725_GODBERT_000_256","如果你還有其他的曼德維爾武器也想要強化，
 可以再和那邊的曼德維爾家的工匠聊聊。"
-110,"TEXT_CHRHDY201_04725_GODBERT_000_257","他也已經透過和強敵戰鬥覺醒了戰鬥本能。
+110,"TEXT_CHRHDY201_04725_GODBERT_000_257","他也已經通過和強敵戰鬥覺醒了戰鬥本能。
 請你放心吧！"
 111,"TEXT_CHRHDY201_04725_GEROLT_000_258","放心吧，最後的收尾總歸是我負責的……
 品質有保證。"
-112,"TEXT_CHRHDY201_04725_GODBERT_000_259","以及， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+112,"TEXT_CHRHDY201_04725_GODBERT_000_259","以及，<Highlight>ObjectParameter(1)</Highlight>閣下。
 你會不會覺得強化之前的曼德維爾武器
 更加帥氣好看？"
 113,"TEXT_CHRHDY201_04725_GODBERT_000_260","嚯嚯！有所留戀也未嘗不可。
 考慮到這種情況，我們準備了複製品商店。"
-114,"TEXT_CHRHDY201_04725_GODBERT_000_261","其實，曼德維爾集團正在推進製作複製品並對外發售的計劃。"
+114,"TEXT_CHRHDY201_04725_GODBERT_000_261","其實，曼德維爾集團正在推進制作複製品並對外發售的計劃。"
 115,"TEXT_CHRHDY201_04725_GODBERT_000_262","我打算在這裡先開設一個試點商店出售複製品。
 你有需要的話，就請和曼德維爾家的銷售員談談，
 購買複製品吧！"
@@ -193,7 +193,7 @@ int32,str,str
 117,"TEXT_CHRHDY201_04725_GODBERT_000_264","畢竟曼德維爾武器作為美術品也具有極高的價值，
 怎麼能錯過這麼好的商機呢？"
 118,"TEXT_CHRHDY201_04725_GEROLT_000_265","不過話說回來，這才是第一次強化，
-曼德維爾武器要完成，後頭還有很多步驟吧？"
+曼德維爾武器要完成，後頭還有很多步驟呢吧？"
 119,"TEXT_CHRHDY201_04725_GODBERT_000_266","關於這一點……我解讀密碼之後發現，
 這本古書只寫到了一半的地方。"
 120,"TEXT_CHRHDY201_04725_GEROLT_000_267","喂喂喂，這可出大事了啊！
@@ -205,7 +205,7 @@ int32,str,str
 123,"TEXT_CHRHDY201_04725_GODBERT_000_270","那麼我這就出發去尋找古書了。
 等我找到之後，希望你能再次伸出援助之手。"
 124,"TEXT_CHRHDY201_04725_GODBERT_000_271","那我先告辭了。"
-125,"TEXT_CHRHDY201_04725_SYSTEM_000_282","今後，可以從鍊金術製藥堂的「曼德維爾家的銷售員」處購買
+125,"TEXT_CHRHDY201_04725_SYSTEM_000_282","今後，可以從煉金術製藥堂的「曼德維爾家的銷售員」處購買
 曼德維爾武器的複製品了。"
 126,"TEXT_CHRHDY201_04725_SYSTEM_000_280","（★未使用／削除予定★）"
 127,"TEXT_CHRHDY201_04725_SYSTEM_000_281","（★未使用／削除予定★）"

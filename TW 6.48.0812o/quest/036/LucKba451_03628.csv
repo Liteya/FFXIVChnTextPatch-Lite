@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKBA451_03628_SEQ_00","鼴靈市集的凱瑞格似乎對緹納的情況有些在意。"
-1,"TEXT_LUCKBA451_03628_SEQ_01","緹納總是一副不安的模樣。和鼴靈市集的緹納談談。"
-2,"TEXT_LUCKBA451_03628_SEQ_02","緹納似乎在擔心自己的失誤會不會導致冒險者和凱瑞格的犧牲。冒險者的話讓緹納打起了精神，他表示希望冒險者能見證他的自立，然後便回去了。和鼴靈市集的凱瑞格談談。"
-3,"TEXT_LUCKBA451_03628_SEQ_03","三人做好了準備。在安穆．艾蘭的中琥珀丘和緹納談談。"
-4,"TEXT_LUCKBA451_03628_SEQ_04","討伐了被緹納的空洞吸引而來的智德。在安穆．艾蘭見證智德的死亡。"
+0,"TEXT_LUCKBA451_03628_SEQ_00","鼴靈集市的凱瑞格似乎對緹納的情況有些在意。"
+1,"TEXT_LUCKBA451_03628_SEQ_01","緹納總是一副不安的模樣。和鼴靈集市的緹納談談。"
+2,"TEXT_LUCKBA451_03628_SEQ_02","緹納似乎在擔心自己的失誤會不會導致冒險者和凱瑞格的犧牲。冒險者的話讓緹納打起了精神，他表示希望冒險者能見證他的自立，然後便回去了。和鼴靈集市的凱瑞格談談。"
+3,"TEXT_LUCKBA451_03628_SEQ_03","三人做好了準備。在安穆·艾蘭的中琥珀丘和緹納談談。"
+4,"TEXT_LUCKBA451_03628_SEQ_04","討伐了被緹納的空洞吸引而來的智德。在安穆·艾蘭見證智德的死亡。"
 5,"TEXT_LUCKBA451_03628_SEQ_05","緹納向奈貝爾特的記憶表示了告別。和中琥珀丘的緹納談談。"
-6,"TEXT_LUCKBA451_03628_SEQ_06","和緹納進行了交談。返回鼴靈市集，和凱瑞格談談。"
+6,"TEXT_LUCKBA451_03628_SEQ_06","和緹納進行了交談。返回鼴靈集市，和凱瑞格談談。"
 7,"TEXT_LUCKBA451_03628_SEQ_07","凱瑞格和緹納決定以後一起行動。前往水晶都的彷徨階梯亭，和凱瑞格談談。"
 8,"TEXT_LUCKBA451_03628_SEQ_08","凱瑞格向冒險者表示了感謝。他們兩個今後會以賞金獵人的身份在這個世界堅強地活下去。"
 9,"TEXT_LUCKBA451_03628_SEQ_09",""
@@ -50,20 +50,20 @@ int32,str,str
 46,"TEXT_LUCKBA451_03628_TODO_22",""
 47,"TEXT_LUCKBA451_03628_TODO_23",""
 48,"TEXT_LUCKBA451_03628_SYSTEM_900_000","若要領取或繼續推進本任務，
-需完成「漆黑的反叛者主線任務」中的「暗之戰士」。"
+需完成「暗影之逆焰主線任務」中的「暗之戰士」。"
 49,"TEXT_LUCKBA451_03628_TAYNOR_000_000","我是打倒智德的關鍵，
-所以我一定要努力，不能失敗。"
+所以我必須要努力，不能失敗。"
 50,"TEXT_LUCKBA451_03628_CERIGG_000_020","你做好打倒智德的準備與決心了嗎？
 緹納似乎也已經可以操縱更強大的魔力了，
 包括空洞。"
 51,"TEXT_LUCKBA451_03628_CERIGG_000_021","說是這麼說，但緹納那小子，總是一副不安的樣子。"
 52,"TEXT_LUCKBA451_03628_CERIGG_000_022","你能替我去看看他嗎？
 你們都是魔法師，應該能幫他出出主意。
-緹納現在應該在鼴靈市集裡。"
+緹納現在應該在鼴靈集市裡。"
 53,"TEXT_LUCKBA451_03628_CERIGG_000_030","緹納看上去總是很不安，
-他現在應該在鼴靈市集裡，
+他現在應該在鼴靈集市裡，
 能麻煩你去跟他談談心嗎？"
-54,"TEXT_LUCKBA451_03628_TAYNOR_000_050","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+54,"TEXT_LUCKBA451_03628_TAYNOR_000_050","啊，<Highlight>ObjectParameter(1)</Highlight>……"
 55,"TEXT_LUCKBA451_03628_TAYNOR_000_051","是凱瑞格先生讓你來的嗎？
 畢竟……我讓他擔心了。"
 56,"TEXT_LUCKBA451_03628_TAYNOR_000_052","我並不是完全沒有自信，
@@ -76,7 +76,7 @@ int32,str,str
 59,"TEXT_LUCKBA451_03628_TAYNOR_000_055","如果我在戰鬥中犯了錯誤，
 害得你們……變成食罪靈的話……"
 60,"TEXT_LUCKBA451_03628_TAYNOR_000_056","對現在的我來說，
-最重要的人就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和凱瑞格先生了。
+最重要的人就是<Highlight>ObjectParameter(1)</Highlight>和凱瑞格先生了。
 一想到我會失去你們……我就很害怕。"
 61,"TEXT_LUCKBA451_03628_Q1_000_000","如何作答？"
 62,"TEXT_LUCKBA451_03628_A1_000_000","只要我們齊心協力就一定沒問題"
@@ -91,9 +91,9 @@ int32,str,str
 而且也相信，自己想要拯救奈貝爾特的心情。
 我會帶著這樣的心情全力出擊的！"
 68,"TEXT_LUCKBA451_03628_TAYNOR_000_072","雖然我的確很想讓奈貝爾特安息……
-但我也同樣很想幫上 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和凱瑞格先生的忙。"
+但我也同樣很想幫上<Highlight>ObjectParameter(1)</Highlight>和凱瑞格先生的忙。"
 69,"TEXT_LUCKBA451_03628_TAYNOR_000_073","你們都對我很好，
-可是這場戰鬥結束後，你們都會離開安穆．艾蘭，
+可是這場戰鬥結束後，你們都會離開安穆·艾蘭，
 去做其他的委託或是踏上冒險之旅。"
 70,"TEXT_LUCKBA451_03628_TAYNOR_000_074","我不想到時候成為你們的累贅。
 所以……"
@@ -102,7 +102,7 @@ int32,str,str
 我一個人也能走下去！"
 72,"TEXT_LUCKBA451_03628_TAYNOR_000_076","好！我有幹勁了！
 那我就回凱瑞格先生那了，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也過來吧！"
+<Highlight>ObjectParameter(1)</Highlight>也過來吧！"
 73,"TEXT_LUCKBA451_03628_TAYNOR_000_090","說起來，凱瑞格先生說，
 不要在戰鬥之前就想勝利後的事，
 所以都不肯跟我講打倒智德後要做什麼。"
@@ -116,14 +116,14 @@ int32,str,str
 那我們就把戰鬥地點選在廣闊的荒野……
 就選中琥珀丘吧，在那裡把智德引出來。"
 78,"TEXT_LUCKBA451_03628_CERIGG_000_103","智德一直在尋找緹納，
-按照我們以前猜的那樣，在荒野上產生空洞，
+按照我們以前猜的那樣，在荒野上生成空洞，
 他應該就會出現。"
 79,"TEXT_LUCKBA451_03628_CERIGG_000_110","緹納那小子……真的變可靠了。
 啊，現在就開始感傷還太早了點，
 走吧，我們去挑戰這場決戰！"
-80,"TEXT_LUCKBA451_03628_TAYNOR_000_130","那我就開始產生空洞了！"
+80,"TEXT_LUCKBA451_03628_TAYNOR_000_130","那我就開始生成空洞了！"
 81,"TEXT_LUCKBA451_03628_TAYNOR_000_200","你們看，在那邊！"
-82,"TEXT_LUCKBA451_03628_TAYNOR_000_201","他果然被我產生的空洞吸引過來了，
+82,"TEXT_LUCKBA451_03628_TAYNOR_000_201","他果然被我生成的空洞吸引過來了，
 那這東西就不需要了吧。"
 83,"TEXT_LUCKBA451_03628_TAYNOR_000_202","這一招已經不管用了。
 能操縱空洞的不是只有你！"
@@ -162,14 +162,14 @@ int32,str,str
 101,"TEXT_LUCKBA451_03628_TAYNOR_000_363","……啊，我們站在這裡說話太危險了，
 先回集落吧。"
 102,"TEXT_LUCKBA451_03628_CERIGG_000_364","是啊，我也有點累了，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也是吧？
-我們回鼴靈市集吧。"
+<Highlight>ObjectParameter(1)</Highlight>也是吧？
+我們回鼴靈集市吧。"
 103,"TEXT_LUCKBA451_03628_TAYNOR_000_380","我們成功了……我現在再沒有遺憾了。"
 104,"TEXT_LUCKBA451_03628_CERIGG_000_400","在你過來之前，我已經向商人們彙報過了，
 大家都很高興，還多給了我們好多賞金！"
 105,"TEXT_LUCKBA451_03628_TAYNOR_000_401","我也……想說聲謝謝。"
 106,"TEXT_LUCKBA451_03628_TAYNOR_000_402","因為有你們，我才能了斷這一切。
-我真的很慶幸是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 與凱瑞格先生
+我真的很慶幸是<Highlight>ObjectParameter(1)</Highlight>與凱瑞格先生
 將我從空洞中救了出來。"
 107,"TEXT_LUCKBA451_03628_CERIGG_000_403","這句話應該由我來說，
 幸好從空洞中出來的人是你。"
@@ -179,7 +179,7 @@ int32,str,str
 我想用自己的力量活下去。"
 110,"TEXT_LUCKBA451_03628_CERIGG_000_406","看來你已經認真考慮過了。
 不過，我也有一個瞞了很久的提議……"
-111,"TEXT_LUCKBA451_03628_CERIGG_000_407","我想先跟 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 商量一件事。"
+111,"TEXT_LUCKBA451_03628_CERIGG_000_407","我想先跟<Highlight>ObjectParameter(1)</Highlight>商量一件事。"
 112,"TEXT_LUCKBA451_03628_CERIGG_000_408","為了能讓我們重要的夥伴生活下去，
 我可以把討伐智德得到的賞金讓出去嗎？"
 113,"TEXT_LUCKBA451_03628_Q1_000_100","如何作答？"
@@ -199,7 +199,7 @@ int32,str,str
 謝謝你們，最後還替我著想！"
 121,"TEXT_LUCKBA451_03628_CERIGG_000_423","好了，可算不用再照顧你了。
 那麼，我要向合格的魔法師緹納提出建議了。"
-122,"TEXT_LUCKBA451_03628_CERIGG_000_424","有一個賞金獵人，他對自己的射箭水準很有自信，但不會魔法。
+122,"TEXT_LUCKBA451_03628_CERIGG_000_424","有一個賞金獵人，他對自己的射箭水平很有自信，但不會魔法。
 他正在找搭檔……你有興趣嗎？"
 123,"TEXT_LUCKBA451_03628_TAYNOR_000_425","你是說……凱瑞格先生……這樣好嗎？"
 124,"TEXT_LUCKBA451_03628_CERIGG_000_426","這可是我提出來的建議啊，
@@ -213,7 +213,7 @@ int32,str,str
 我想在那裡把報酬給你，再跟你——我現在的搭檔，告別。"
 129,"TEXT_LUCKBA451_03628_TAYNOR_000_450","說實話，我之前對於如何習慣這個世界很不安，
 所以，現在的我感到非常幸福！"
-130,"TEXT_LUCKBA451_03628_CERIGG_000_470","你來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。多虧了有你，我才能遇見緹納，
+130,"TEXT_LUCKBA451_03628_CERIGG_000_470","你來啦，<Highlight>ObjectParameter(1)</Highlight>。多虧了有你，我才能遇見緹納，
 也才能完成工作。"
 131,"TEXT_LUCKBA451_03628_CERIGG_000_471","今後我會一邊把這個世界的事教給緹納，
 一邊跟他一起當賞金獵人的。"
@@ -225,36 +225,36 @@ int32,str,str
 134,"TEXT_LUCKBA451_03628_QIB_001_TODO_1","打倒智德！"
 135,"TEXT_LUCKBA451_03628_QIB_PHRONESIS_ETHER_GAUGE_NAME","（★未使用／削除予定★）"
 136,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_500","我來消滅空洞！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和凱瑞格先生專心對付智德！"
+<Highlight>ObjectParameter(1)</Highlight>和凱瑞格先生專心對付智德！"
 137,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_510","好，空洞就交給緹納！
 我們去對付本體！"
-138,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_520","智德正試圖產生空洞！"
-139,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_530"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，不要靠近空洞！
+138,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_520","智德正試圖生成空洞！"
+139,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_530","<Highlight>ObjectParameter(1)</Highlight>，不要靠近空洞！
 我們可對付不了那玩意！"
 140,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_540","呼……我把空洞消滅了！"
 141,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_550","幹得漂亮，緹納！
 休息一下，準備對付下一波空洞！"
-142,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_560","智德那傢伙還想繼續產生空洞。
+142,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_560","智德那傢伙還想繼續生成空洞。
 緹納，靠你了！"
 143,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_570","好！空洞就由我來消滅！"
-144,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_571","攻擊 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的魔力一個人承受太危險了，
+144,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_571","攻擊<Highlight>ObjectParameter(1)</Highlight>的魔力一個人承受太危險了，
 請到凱瑞格先生那邊去！"
 145,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_572","他想要一起攻擊我們兩個！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，離我遠一些！"
+<Highlight>ObjectParameter(1)</Highlight>，離我遠一些！"
 146,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_580","呼、呼……
 我把……空洞……消滅了！"
 147,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_590","緹納，你沒事吧？
 可別太勉強自己啊！"
 148,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_600","嗚……對不、起，
 我有點……透支了……"
-149,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_610"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，緹納的體力耗盡了，
+149,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_610","<Highlight>ObjectParameter(1)</Highlight>，緹納的體力耗盡了，
 我們暫時邊躲避空洞邊戰鬥吧！"
 150,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_611","又弄出一種危險的玩意來！
 慢著……我們乾脆利用他的空洞怎麼樣？！"
 151,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_620","（★未使用／削除予定★）"
 152,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_630","（★未使用／削除予定★）"
 153,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_640","（★未使用／削除予定★）"
-154,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_650","那混蛋，還想繼續產生空洞。
+154,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_650","那混蛋，還想繼續生成空洞。
 緹納，你還可以嗎？！"
 155,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_660","可以！由我來……消滅它們！！"
 156,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_661","不愧是得到了「巫師」稱號的大魔法師，
@@ -262,14 +262,14 @@ int32,str,str
 157,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_670","他已經很虛弱了！趁現在打倒他！"
 158,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_680","奈貝爾特……就差一點了。"
 159,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_710","對不起……我已經、到極限了……
-他產生空洞的速度……太快了！"
+他生成空洞的速度……太快了！"
 160,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_720","不能再讓緹納勉強自己了，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，還差一點……就由我們堅持到底吧！"
+<Highlight>ObjectParameter(1)</Highlight>，還差一點……就由我們堅持到底吧！"
 161,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_730","還來？！
 他是想讓我們……無路可逃嗎？"
 162,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_740","把我們的破綻當成了好機會嗎……
 開什麼玩笑……我們一定要堅持住，加油啊！"
-163,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_750","居然產生了這麼多空洞！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，凱瑞格先生，拜託了……要贏啊！！"
+163,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_750","居然生成了這麼多空洞！
+<Highlight>ObjectParameter(1)</Highlight>，凱瑞格先生，拜託了……要贏啊！！"
 164,"TEXT_LUCKBA451_03628_TAYNOR_BATTLETALK_000_690","（★未使用／削除予定★）"
 165,"TEXT_LUCKBA451_03628_CERIGG_BATTLETALK_000_700","可惡……對不起……"

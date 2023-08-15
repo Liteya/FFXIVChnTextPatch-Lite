@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANKOB102_01326_SEQ_00","第789洞穴團採礦地的第789團清潔工博茲心懷不滿。"
-1,"TEXT_BANKOB102_01326_SEQ_01","第789團清潔工博茲無法忍受只給優秀的地靈族發便當。接受了第789團清潔工博茲的委託，搶來<Sheet(EventItem,2001251,0)/>。在黑金湖獲得3份<Sheet(EventItem,2001251,0)/>。"
+1,"TEXT_BANKOB102_01326_SEQ_01","第789團清潔工博茲無法忍受只給優秀的地靈族發便當。接受了第789團清潔工博茲的委託，搶來<Sheet(EventItem,2001251,0)/>。在黑金湖獲取3份<Sheet(EventItem,2001251,0)/>。"
 2,"TEXT_BANKOB102_01326_SEQ_02","獲得了<Sheet(EventItem,2001251,0)/>。將<Sheet(EventItem,2001251,0)/>交給第789洞穴團採礦地的第789團清潔工博茲。"
 3,"TEXT_BANKOB102_01326_SEQ_03","將<Sheet(EventItem,2001251,0)/>交給了第789團清潔工博茲，他十分開心。此便當對地靈族來說，是十分高級的便當。不勞而獲，吃飯就是香……下次有機會再協助他。"
 4,"TEXT_BANKOB102_01326_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANKOB102_01326_SEQ_21",""
 22,"TEXT_BANKOB102_01326_SEQ_22",""
 23,"TEXT_BANKOB102_01326_SEQ_23",""
-24,"TEXT_BANKOB102_01326_TODO_00","在黑金湖獲得<Sheet(EventItem,2001251,0)/>"
+24,"TEXT_BANKOB102_01326_TODO_00","在黑金湖獲取<Sheet(EventItem,2001251,0)/>"
 25,"TEXT_BANKOB102_01326_TODO_01","將<Sheet(EventItem,2001251,0)/>交給第789團清潔工博茲"
 26,"TEXT_BANKOB102_01326_TODO_02",""
 27,"TEXT_BANKOB102_01326_TODO_03",""

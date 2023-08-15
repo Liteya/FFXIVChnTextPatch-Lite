@@ -51,21 +51,21 @@ int32,str,str
 45,"TEXT_CLSGLD150_00614_TODO_21",""
 46,"TEXT_CLSGLD150_00614_TODO_22",""
 47,"TEXT_CLSGLD150_00614_TODO_23",""
-48,"TEXT_CLSGLD150_00614_SERENDIPITY_000_1","你、你聽我說啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_CLSGLD150_00614_SERENDIPITY_000_1","你、你聽我說啊，<Highlight>ObjectParameter(1)</Highlight>！
 涅吉他好過分！
 他竟然摸我屁股！"
 49,"TEXT_CLSGLD150_00614_SERENDIPITY_000_2","還說些什麼……
 「女人身體之神秘、是神的最高傑作！是終極之美！」
 真是的，對他一點都不能大意！"
-50,"TEXT_CLSGLD150_00614_SERENDIPITY_000_3","啊，對了對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+50,"TEXT_CLSGLD150_00614_SERENDIPITY_000_3","啊，對了對了，<Highlight>ObjectParameter(1)</Highlight>，
 我有份工作想要交給你！"
 51,"TEXT_CLSGLD150_00614_SERENDIPITY_000_4","你還記得前幾天委託我們公會做事的那位
-銀冑團的羅伯特嗎？"
+銀胄團的羅伯特嗎？"
 52,"TEXT_CLSGLD150_00614_SERENDIPITY_000_5","他這次委託我們製作「<Sheet(Item,4204,0)/>」和「<Sheet(Item,4309,0)/>」。
 你能去完成這份工作嗎？"
 53,"TEXT_CLSGLD150_00614_SERENDIPITY_000_6","你做好這兩件東西後，請拿給我看一下。
 那就拜託你了！"
-54,"TEXT_CLSGLD150_00614_SERENDIPITY_000_7","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+54,"TEXT_CLSGLD150_00614_SERENDIPITY_000_7","啊，<Highlight>ObjectParameter(1)</Highlight>！
 你已經做好<Sheet(Item,4204,0)/>和<Sheet(Item,4309,0)/>了嗎？"
 55,"TEXT_CLSGLD150_00614_SERENDIPITY_000_8","哇啊，好棒……
 耳墜和項環都做得很細緻啊。"
@@ -79,17 +79,17 @@ int32,str,str
 我這種是標準身材！"
 59,"TEXT_CLSGLD150_00614_SERENDIPITY_000_12","不，不對！
 我們要說的是<Sheet(Item,4204,0)/>和<Sheet(Item,4309,0)/>！"
-60,"TEXT_CLSGLD150_00614_SERENDIPITY_000_13","抱、抱歉啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+60,"TEXT_CLSGLD150_00614_SERENDIPITY_000_13","抱、抱歉啊……<Highlight>ObjectParameter(1)</Highlight>。
 這次委託製作的這兩件東西，
 是以「獸牙」和「黃銅」為原料製成的。"
 61,"TEXT_CLSGLD150_00614_SERENDIPITY_000_14","雖然黃銅是一種常見的材料，
-但是透過與礦物的調配和正確的打磨方法，
+但是通過與礦物的調配和正確的打磨方法，
 可以讓它散發出如金子般耀眼的色澤。"
 62,"TEXT_CLSGLD150_00614_SERENDIPITY_000_15","這次你製作的這兩件東西都十分精緻，
 完成得實在是很漂亮。
 委託人一定也會很滿意的。"
 63,"TEXT_CLSGLD150_00614_SERENDIPITY_000_16","和上次一樣，
-銀冑團的羅伯特應該就在公會旁邊的廣場上。
+銀胄團的羅伯特應該就在公會旁邊的廣場上。
 請你親手將東西交給他！"
 64,"TEXT_CLSGLD150_00614_ROBERT_000_17","哎呀，又見面了。
 我委託的<Sheet(Item,4204,0)/>和<Sheet(Item,4309,0)/>已經完成了嗎？"
@@ -102,7 +102,7 @@ int32,str,str
 想必公會發展也是欣欣向榮吧。真讓人羨慕。"
 68,"TEXT_CLSGLD150_00614_SERENDIPITY_000_21","你回來啦！
 羅伯特滿意嗎？"
-69,"TEXT_CLSGLD150_00614_SERENDIPITY_000_22","呵呵，看到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你這滿足的表情，
+69,"TEXT_CLSGLD150_00614_SERENDIPITY_000_22","呵呵，看到<Highlight>ObjectParameter(1)</Highlight>你這滿足的表情，
 我也可以想像到對方的回答了。
 辛苦了！請你期待下一次的工作吧！"
 70,"TEXT_CLSGLD150_00614_ROBERT_000_30","雕金匠公會真是人才濟濟！

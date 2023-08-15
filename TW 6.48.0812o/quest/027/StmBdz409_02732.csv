@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ409_02732_SEQ_21",""
 22,"TEXT_STMBDZ409_02732_SEQ_22",""
 23,"TEXT_STMBDZ409_02732_SEQ_23",""
-24,"TEXT_STMBDZ409_02732_TODO_00","從<Sheet(BNpcName,5760,0)/>身上獲得<Sheet(EventItem,2002206,0)/>"
+24,"TEXT_STMBDZ409_02732_TODO_00","從<Sheet(BNpcName,5760,0)/>身上獲取<Sheet(EventItem,2002206,0)/>"
 25,"TEXT_STMBDZ409_02732_TODO_01","將<Sheet(EventItem,2002206,0)/>交給正土"
 26,"TEXT_STMBDZ409_02732_TODO_02",""
 27,"TEXT_STMBDZ409_02732_TODO_03",""
@@ -67,8 +67,8 @@ int32,str,str
 我在25年前的戰鬥中眼睛受了傷……
 在最困難的時候，被當時的村長給撿回了家。"
 55,"TEXT_STMBDZ409_02732_MASATSUCHI_000_012","從那之後，作為給我飯吃的回報，
-我就幫忙幹些農務，一直過到了現在，
+我就幫忙幹些農活，一直過到了現在，
 但不吃肉果然還是沒力氣啊……"
 56,"TEXT_STMBDZ409_02732_MASATSUCHI_000_013","雖然也想過自己去捕魚，但眼睛有傷，
-總是沒辦法順利進行，所以才會找你幫忙。
+總是沒法順利進行，所以才會找你幫忙。
 這可是久違的開葷，我要好好享受一番！"

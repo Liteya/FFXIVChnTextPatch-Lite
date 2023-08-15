@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKMG111_04460_SEQ_00","放逐陶片16區的古．拉哈．提亞做好了出發的準備。"
+0,"TEXT_AKTKMG111_04460_SEQ_00","瓦銘癸己的古·拉哈·提亞做好了出發的準備。"
 1,"TEXT_AKTKMG111_04460_SEQ_01",""
 2,"TEXT_AKTKMG111_04460_SEQ_02",""
 3,"TEXT_AKTKMG111_04460_SEQ_03",""
@@ -25,11 +25,11 @@ int32,str,str
 21,"TEXT_AKTKMG111_04460_SEQ_21",""
 22,"TEXT_AKTKMG111_04460_SEQ_22",""
 23,"TEXT_AKTKMG111_04460_SEQ_23",""
-24,"TEXT_AKTKMG111_04460_TODO_00","和古．拉哈．提亞對話"
+24,"TEXT_AKTKMG111_04460_TODO_00","和古·拉哈·提亞對話"
 25,"TEXT_AKTKMG111_04460_TODO_01","調查<Sheet(EObj,2012359,0)/>"
 26,"TEXT_AKTKMG111_04460_TODO_02","和阿爾菲諾對話"
 27,"TEXT_AKTKMG111_04460_TODO_03","前往<Sheet(EObj,2012360,0)/> 觀察奧密克戎基地"
-28,"TEXT_AKTKMG111_04460_TODO_04","和古．拉哈．提亞對話"
+28,"TEXT_AKTKMG111_04460_TODO_04","和古·拉哈·提亞對話"
 29,"TEXT_AKTKMG111_04460_TODO_05","尋找形跡可疑的奧密克戎"
 30,"TEXT_AKTKMG111_04460_TODO_06",""
 31,"TEXT_AKTKMG111_04460_TODO_07",""
@@ -57,7 +57,7 @@ int32,str,str
 50,"TEXT_AKTKMG111_04460_GRAHATIA_000_010","據我掌握的情報來看，
 這個終端應該位於浮島深處。"
 51,"TEXT_AKTKMG111_04460_GRAHATIA_000_011","要是可以直行就好了……
-但這條路坑坑窪窪，應該得繞遠……"
+但這條路坑坑窪窪，估計得繞遠……"
 52,"TEXT_AKTKMG111_04460_GRAHATIA_000_012","一邊確認哪裡能下腳，一邊往浮島深處前進吧！"
 53,"TEXT_AKTKMG111_04460_ALPHINAUD_000_020","裝飾部位在隱隱發光，
 不像完全壞掉的樣子……"
@@ -70,8 +70,8 @@ int32,str,str
 57,"TEXT_AKTKMG111_04460_GRAHATIA_000_031","它是……停機了嗎？"
 58,"TEXT_AKTKMG111_04460_GRAHATIA_000_032","你也過來看一眼吧。"
 59,"TEXT_AKTKMG111_04460_GRAHATIA_000_040","從奧密克戎的大小來判斷，
-控制檯應該是搭載那個圓球的結構……"
-60,"TEXT_AKTKMG111_04460_SYSTEM_000_050","在控制檯嘗試了碰觸、敲擊、共鳴，
+控制台應該是搭載那個圓球的結構……"
+60,"TEXT_AKTKMG111_04460_SYSTEM_000_050","在控制台嘗試了碰觸、敲擊、共鳴，
 但無線存取點沒有任何反應。"
 61,"TEXT_AKTKMG111_04460_GRAHATIA_000_051","還是沒有反應啊……"
 62,"TEXT_AKTKMG111_04460_GRAHATIA_000_052","還有什麼辦法……
@@ -98,7 +98,7 @@ int32,str,str
 沒想到會在這裡派上用場。"
 71,"TEXT_AKTKMG111_04460_ALPHINAUD_000_080","那我們就以奧密克戎基地為中心，
 找找有沒有違背主機指令的奧密克戎吧。"
-72,"TEXT_AKTKMG111_04460_ALPHINAUD_000_081","你和古．拉哈已經和它們聊過一次了，
+72,"TEXT_AKTKMG111_04460_ALPHINAUD_000_081","你和古·拉哈已經和它們聊過一次了，
 這次就由我跟阿莉塞和奧密克戎談談吧。
 也許能收集到一些不同的情報。"
 73,"TEXT_AKTKMG111_04460_ALPHINAUD_000_082","在此期間，你們從稍微遠點的地方
@@ -128,7 +128,7 @@ int32,str,str
 快追！"
 85,"TEXT_AKTKMG111_04460_GRAHATIA_000_120","剛才那個奧密克戎應該是來這邊了……怎麼沒影了……
 是使用了這個傳送裝置嗎？"
-86,"TEXT_AKTKMG111_04460_GRAHATIA_000_121"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們也傳送一個試試。
+86,"TEXT_AKTKMG111_04460_GRAHATIA_000_121","<Highlight>ObjectParameter(1)</Highlight>，我們也傳送一個試試。
 那傢伙一定就在前面……"
 87,"TEXT_AKTKMG111_04460_GRAHATIA_000_130","這附近全是壞掉的奧密克戎。
 剛才那傢伙可能使用了那邊的傳送裝置。"
@@ -168,9 +168,9 @@ int32,str,str
 唯一「有能力對行動意義產生質疑」的個體……"
 106,"TEXT_AKTKMG111_04460_GRAHATIA_000_157","也就是說，它和主機類似……具備決策能力？"
 107,"TEXT_AKTKMG111_04460_GRAHATIA_000_158","看來有必要確認一下……"
-108,"TEXT_AKTKMG111_04460_GRAHATIA_000_159","哪怕東拼西湊、借助外力，
+108,"TEXT_AKTKMG111_04460_GRAHATIA_000_159","哪怕東拼西湊、藉助外力，
 也要拚命活下去的理由麼……"
-109,"TEXT_AKTKMG111_04460_GRAHATIA_000_160"," <Highlight>ObjectParameter(1)</Highlight> ……要是有一天，
+109,"TEXT_AKTKMG111_04460_GRAHATIA_000_160","<Highlight>ObjectParameter(1)</Highlight>……要是有一天，
 這次經歷也成為你的冒險故事的一部分……
 作為你的同伴，我的名字會被提及嗎？"
 110,"TEXT_AKTKMG111_04460_Q3_000_161","要說什麼？"

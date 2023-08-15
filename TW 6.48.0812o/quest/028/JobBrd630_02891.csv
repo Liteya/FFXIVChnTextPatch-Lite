@@ -52,10 +52,10 @@ int32,str,str
 46,"TEXT_JOBBRD630_02891_TODO_22",""
 47,"TEXT_JOBBRD630_02891_TODO_23",""
 48,"TEXT_JOBBRD630_02891_NOURVAL_100_000","呵呵呵，我也會加油出一份力的。"
-49,"TEXT_JOBBRD630_02891_SANSON_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+49,"TEXT_JOBBRD630_02891_SANSON_000_000","<Highlight>ObjectParameter(1)</Highlight>……
 努爾瓦爾那傢伙比吉德洛還要麻煩……
 一點也不老實！"
-50,"TEXT_JOBBRD630_02891_SANSON_000_001","都說不要給艾奧傑亞同盟軍添麻煩了，
+50,"TEXT_JOBBRD630_02891_SANSON_000_001","都說不要給艾歐澤亞同盟軍添麻煩了，
 結果他自己還主動去找人家搭話，
 這樣反而讓同盟軍覺得我們可疑啊……"
 51,"TEXT_JOBBRD630_02891_SANSON_000_002","這本手冊原本是用來記錄情報的，
@@ -70,7 +70,7 @@ int32,str,str
 54,"TEXT_JOBBRD630_02891_SANSON_000_007","……那就是他自己打聽消息的方式啦。
 既然說到這裡了，乾脆就去找吉德洛問問
 他在酒席上都收集到了什麼情報吧……"
-55,"TEXT_JOBBRD630_02891_SANSON_000_008"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能麻煩你去尋找吉德洛嗎？
+55,"TEXT_JOBBRD630_02891_SANSON_000_008","<Highlight>ObjectParameter(1)</Highlight>，能麻煩你去尋找吉德洛嗎？
 他應該在帝國東方堡的某個地方。
 ……我得在這裡看著努爾瓦爾。"
 56,"TEXT_JOBBRD630_02891_SANSON_000_015","拿著豎琴挨家喝酒就是吉德洛自己打聽消息的手段，
@@ -114,15 +114,15 @@ int32,str,str
 搖搖晃晃地回來了結果卻一句話不說……"
 74,"TEXT_JOBBRD630_02891_NOURVAL_000_065","被看得這麼嚴，都不好辦事了……
 啊……我指的當然是去找同盟軍打聽消息啦。"
-75,"TEXT_JOBBRD630_02891_GUYDELOT_000_070","嗨， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩你啦。
+75,"TEXT_JOBBRD630_02891_GUYDELOT_000_070","嗨，<Highlight>ObjectParameter(1)</Highlight>，麻煩你啦。
 那群蒙面人出現了嗎？"
-76,"TEXT_JOBBRD630_02891_SANSON_000_071","像山賊一樣的神秘蒙面團夥？！
+76,"TEXT_JOBBRD630_02891_SANSON_000_071","像山賊一樣的神秘蒙面團伙？！
 這樣的一群人居然就在這附近轉悠……
-幸好 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 平安無事！"
+幸好<Highlight>ObjectParameter(1)</Highlight>平安無事！"
 77,"TEXT_JOBBRD630_02891_SANSON_100_071","吉德洛！
 你為什麼不把這麼重要的事告訴我們？！
 如果說了我們不就可以一起去看看情況了嗎？"
-78,"TEXT_JOBBRD630_02891_GUYDELOT_101_071","我的確是給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 添了麻煩，
+78,"TEXT_JOBBRD630_02891_GUYDELOT_101_071","我的確是給<Highlight>ObjectParameter(1)</Highlight>添了麻煩，
 因為有個傢伙，我必須得盯緊了……"
 79,"TEXT_JOBBRD630_02891_NOURVAL_000_072","……雖然我不明白吉德洛先生指的是誰，
 但是看來，吉德洛先生的確有在收集情報呢。
@@ -130,7 +130,7 @@ int32,str,str
 80,"TEXT_JOBBRD630_02891_GUYDELOT_000_073","我就是和大家聚在一起喝酒，然後問問他們故鄉的事罷了。
 每個人怎麼也得有那麼一兩首回憶的歌吧……
 於是我就給他們唱唱歌，同時跟他們聊了聊。"
-81,"TEXT_JOBBRD630_02891_SANSON_000_074","……雖說吉德洛他借助了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫助，
+81,"TEXT_JOBBRD630_02891_SANSON_000_074","……雖說吉德洛他藉助了<Highlight>ObjectParameter(1)</Highlight>的幫助，
 但他之所以能打聽出有事發生，也是因為他本身得到了大家的信任。
 所以……你是不是也該多信任信任我們呢？"
 82,"TEXT_JOBBRD630_02891_NOURVAL_000_075","……什麼意思？"
@@ -143,7 +143,7 @@ int32,str,str
 據說那本書現在的所在地，
 與紅葉戰爭當時的阿拉米格將領——吉爾巴德有些關係。"
 86,"TEXT_JOBBRD630_02891_GUYDELOT_000_079","吉爾巴德嗎……我聽說他是一個非常虔誠的破壞神信徒。
-說起來，蒙面團夥出沒的地點也是星導教遺跡附近……
+說起來，蒙面團伙出沒的地點也是星導教遺跡附近……
 說不定他們並不是普通的山賊，其實也在找書？"
 87,"TEXT_JOBBRD630_02891_NOURVAL_000_082","……誰知道呢，
 如果真是這樣，那我們就得快點找到和吉爾巴德有關的地方了，
@@ -155,7 +155,7 @@ int32,str,str
 努爾瓦爾那傢伙，
 好像會時不時背著我們偷偷從這裡溜出去。"
 91,"TEXT_JOBBRD630_02891_GUYDELOT_000_086","我也監視過他，自從來到這裡之後我就覺得他有問題，
-剛才我提到蒙面團夥的時候，他的反應也很奇怪。"
+剛才我提到蒙面團伙的時候，他的反應也很奇怪。"
 92,"TEXT_JOBBRD630_02891_SANSON_000_087","努爾瓦爾可能還有什麼別的目的。
 ……我們先靜觀其變吧。"
 93,"TEXT_JOBBRD630_02891_SANSON_000_088","不知道努爾瓦爾今後會有什麼行動，

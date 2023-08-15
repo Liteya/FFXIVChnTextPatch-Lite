@@ -88,14 +88,14 @@ int32,str,str
 隱形！"
 65,"TEXT_LUCKME110_03639_KORUTT_000_039","哇哇，真的變透明了！
 那我就抓緊時間去挖了！"
-66,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們來幫幫扣魯圖吧。"
+66,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_040","<Highlight>ObjectParameter(1)</Highlight>，我們來幫幫扣魯圖吧。"
 67,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_041","扣魯圖的身影雖然消失了，但聲音有可能被人察覺，
-所以還是儘量讓古格家族的人離開這裡比較好。
+所以還是盡量讓古格家族的人離開這裡比較好。
 於是……就要用到這個了。"
 68,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_042","這是當初營救敏菲利亞時使用的安眠藥「睡夢粉」。
 是中庸工藝館的工匠們讓我帶上的。"
 69,"TEXT_LUCKME110_03639_Q1_000_000","要說什麼？"
-70,"TEXT_LUCKME110_03639_A1_000_001","在遊末邦也用過呢……"
+70,"TEXT_LUCKME110_03639_A1_000_001","在游末邦也用過呢……"
 71,"TEXT_LUCKME110_03639_A1_000_002","桑克瑞德也帶過這個……"
 72,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_043","看來……
 是那幫傢伙做藥做得太起勁，多到用不完吧？"
@@ -118,7 +118,7 @@ int32,str,str
 81,"TEXT_LUCKME110_03639_KOGGDWARFA03639_000_071","哇，什麼人？！
 同胞？不對……你沒戴古格的帽子。
 去去！外人不得入內！"
-82,"TEXT_LUCKME110_03639_KOGGDWARFA03639_000_072","哈……怎麼突然這麼睏……
+82,"TEXT_LUCKME110_03639_KOGGDWARFA03639_000_072","哈……怎麼突然這麼困……
 回村裡睡一覺好了……"
 83,"TEXT_LUCKME110_03639_KOGGDWARFB03639_000_073","啦哩？！什、什、什、什麼人？！
 得快點向格拉古大人彙報！"
@@ -144,7 +144,7 @@ int32,str,str
 裡面還有很多呢！"
 92,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_084","幹得漂亮。
 有這麼多大地之種，
-采．努茲一定可以幫我們改造成核心。"
+采·努茲一定可以幫我們改造成核心。"
 93,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_085","那我們就快點把東西帶出去吧……"
 94,"TEXT_LUCKME110_03639_KORUTT_000_086","水、水晶公？！你沒事吧？！"
 95,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_087","……啊，抱歉。
@@ -172,7 +172,7 @@ int32,str,str
 105,"TEXT_LUCKME110_03639_KORUTTANDGLAGG_000_097","(-扣魯圖和格拉古-)氣死我了！"
 106,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_098","……原來他們是這種勢如水火的關係啊。
 看來放著不管的話他們能吵到天荒地老。"
-107,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_099","說起來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+107,"TEXT_LUCKME110_03639_MYSTERYVOICE_000_099","說起來，<Highlight>ObjectParameter(1)</Highlight>……
 我這裡還有剩餘的睡夢粉哦。"
 108,"TEXT_LUCKME110_03639_Q2_000_000","要說什麼？"
 109,"TEXT_LUCKME110_03639_A2_000_001","您請您請"

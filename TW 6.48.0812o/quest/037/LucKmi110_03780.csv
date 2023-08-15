@@ -25,9 +25,9 @@ int32,str,str
 21,"TEXT_LUCKMI110_03780_SEQ_21",""
 22,"TEXT_LUCKMI110_03780_SEQ_22",""
 23,"TEXT_LUCKMI110_03780_SEQ_23",""
-24,"TEXT_LUCKMI110_03780_TODO_00","和篤學者莊園的于里昂熱對話"
+24,"TEXT_LUCKMI110_03780_TODO_00","和篤學者莊園的於里昂熱對話"
 25,"TEXT_LUCKMI110_03780_TODO_01","將<Sheet(EventItem,2003004,0)/>交給賽特"
-26,"TEXT_LUCKMI110_03780_TODO_02","和于里昂熱對話"
+26,"TEXT_LUCKMI110_03780_TODO_02","和於里昂熱對話"
 27,"TEXT_LUCKMI110_03780_TODO_03",""
 28,"TEXT_LUCKMI110_03780_TODO_04",""
 29,"TEXT_LUCKMI110_03780_TODO_05",""
@@ -52,10 +52,10 @@ int32,str,str
 48,"TEXT_LUCKMI110_03780_CHAINUZZ_000_001","話說好像飛空艇墜落了啊。
 ……啊，不用擔心賠償的事情。
 只要你們平安無事就好。"
-49,"TEXT_LUCKMI110_03780_CHAINUZZ_000_002","不過……墜落在安穆．艾蘭的西部啊……
+49,"TEXT_LUCKMI110_03780_CHAINUZZ_000_002","不過……墜落在安穆·艾蘭的西部啊……
 要是不快點回收，恐怕會被拆成礦車的材料。
 或者我乾脆以此為前提，跟那些傢伙交涉一下……？"
-50,"TEXT_LUCKMI110_03780_DULIACHAI_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你還會再過來吧？
+50,"TEXT_LUCKMI110_03780_DULIACHAI_000_005","<Highlight>ObjectParameter(1)</Highlight>，你還會再過來吧？
 要是跟你也分開的話，
 我的心臟肯定會爆炸的！"
 51,"TEXT_LUCKMI110_03780_DULIACHAI_000_006","……不過我猜你也一定會繼續冒險吧。
@@ -65,19 +65,19 @@ int32,str,str
 水晶公好像也會一起離開。"
 53,"TEXT_LUCKMI110_03780_WRENDEN_000_011","雖然水晶都的自治組織都非常優秀，
 但管理者不在的話，想必他們還是會有些手足無措吧。
-今後遊末邦與水晶都還是要互幫互助才行啊。"
+今後游末邦與水晶都還是要互幫互助才行啊。"
 54,"TEXT_LUCKMI110_03780_ALPHINAUD_000_020","話說回來，你為什麼到這裡來了？
 有什麼事情嗎？"
 55,"TEXT_LUCKMI110_03780_ALPHINAUD_000_021","原來如此，是這樣啊。
 那你接下來就去拜訪一下
-前往伊爾美格篤學者莊園的于里昂熱如何？"
-56,"TEXT_LUCKMI110_03780_ALPHINAUD_000_022","他對那裡很熟，應該是不需要人擔心吧。
+前往伊爾美格篤學者莊園的於里昂熱如何？"
+56,"TEXT_LUCKMI110_03780_ALPHINAUD_000_022","他對那裡很熟，估計是不需要人擔心吧。
 不過仙子們也不見得會老老實實地讓他離開。
 你要是能去看一眼，我就安心了。"
-57,"TEXT_LUCKMI110_03780_ALPHINAUD_000_023","跟凱．希爾和這座島的人們告別之後，我就會回到水晶都，
-于里昂熱那邊就拜託你了。"
+57,"TEXT_LUCKMI110_03780_ALPHINAUD_000_023","跟凱·希爾和這座島的人們告別之後，我就會回到水晶都，
+於里昂熱那邊就拜託你了。"
 58,"TEXT_LUCKMI110_03780_URIANGER_000_030","喲……這個時間還有訪客啊。
-發生了什麼嗎？ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+發生了什麼嗎？<Highlight>ObjectParameter(1)</Highlight>。"
 59,"TEXT_LUCKMI110_03780_URIANGER_000_031","哎呀哎呀……
 你正在與水晶公一起周遊諾弗蘭特，
 順便來看看我們的情況嗎。"
@@ -108,7 +108,7 @@ int32,str,str
 我可擔心你了。"
 70,"TEXT_LUCKMI110_03780_SETO_000_052","不過天空也恢復了正常，我想問題應該是順利解決了吧……
 你來拜訪我是有什麼事情嗎？"
-71,"TEXT_LUCKMI110_03780_SETO_000_060","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+71,"TEXT_LUCKMI110_03780_SETO_000_060","謝謝你，<Highlight>ObjectParameter(1)</Highlight>……
 你接納了阿爾博特的靈魂，勇敢而又不屈。"
 72,"TEXT_LUCKMI110_03780_SETO_000_061","願你的旅程這次將會走得更遠……
 請你盡情去享受仍未完結的冒險吧。"
@@ -117,7 +117,7 @@ int32,str,str
 74,"TEXT_LUCKMI110_03780_URIANGER_000_071","……是這樣啊。
 果然交給你來辦是正確的……
 辛苦你了。"
-75,"TEXT_LUCKMI110_03780_URIANGER_000_072","阿爾博特他們的事蹟
+75,"TEXT_LUCKMI110_03780_URIANGER_000_072","阿爾博特他們的事跡
 今後也將會在夢想成為新的「光之戰士」的人們口中
 永遠地傳承下去吧。"
 76,"TEXT_LUCKMI110_03780_URIANGER_000_073","我也衷心地祝願，

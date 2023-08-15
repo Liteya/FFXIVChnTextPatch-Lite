@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_CLSEXC200_00317_SEQ_00","斧術師公會的威爾恩茲恩有緊急情況要告訴冒險者。"
 1,"TEXT_CLSEXC200_00317_SEQ_01","西蓋爾德下落不明。先去和俾斯麥餐廳的索爾克維布商談一下。"
-2,"TEXT_CLSEXC200_00317_SEQ_02","索爾克維布建議冒險者先去瞭解一下事情的詳細情況。前往拉諾西亞低地的赤血雄雞農場，和西蓋爾德的祖父內達爾德談談。"
+2,"TEXT_CLSEXC200_00317_SEQ_02","索爾克維布建議冒險者先去了解一下事情的詳細情況。前往拉諾西亞低地的赤血雄雞農場，和西蓋爾德的祖父內達爾德談談。"
 3,"TEXT_CLSEXC200_00317_SEQ_03","從內達爾德那裡得知，西拉諾西亞地區有魔物出現，西蓋爾德應該就是去了那邊。和索爾克維布進行商談。"
 4,"TEXT_CLSEXC200_00317_SEQ_04","和西拉諾西亞小麥酒港的警備兵法爾修緹姆談談。"
 5,"TEXT_CLSEXC200_00317_SEQ_05","法爾修緹姆說少年好像丟下了一些東西，大概能成為線索。在小麥酒港周邊尋找少年留下的線索。"
@@ -53,9 +53,9 @@ int32,str,str
 47,"TEXT_CLSEXC200_00317_TODO_23",""
 48,"TEXT_CLSEXC200_00317_WYRNZOEN_000_0","有緊急情況發生了。
 不好意思，我想要你去解決這件事。
-不…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這件事只能由你解決。"
+不……<Highlight>ObjectParameter(1)</Highlight>，這件事只能由你解決。"
 49,"TEXT_CLSEXC200_00317_WYRNZOEN_000_1","你肯定不會忘記那個雙親被庫加塔害死了的少年……
-他的祖父聯繫了我們。"
+他的祖父聯絡了我們。"
 50,"TEXT_CLSEXC200_00317_WYRNZOEN_000_2","少年聽說了庫加塔出現的傳聞後，
 就衝出了家門。
 之後就下落不明了。"
@@ -66,7 +66,7 @@ int32,str,str
 那個小弟弟下落不明了？"
 53,"TEXT_CLSEXC200_00317_SOLKWYB_000_11","這種時候一定不能焦急。
 首先我們需要確切的情報。"
-54,"TEXT_CLSEXC200_00317_SOLKWYB_000_12"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先去一趟赤血雄雞農場吧。
+54,"TEXT_CLSEXC200_00317_SOLKWYB_000_12","<Highlight>ObjectParameter(1)</Highlight>，你先去一趟赤血雄雞農場吧。
 從少年的祖父內達爾德先生那裡問一下詳細的情況。"
 55,"TEXT_CLSEXC200_00317_NEDDARD_000_20","您來啦。
 這次也要給您添麻煩了，真是不好意思。"
@@ -84,7 +84,7 @@ int32,str,str
 60,"TEXT_CLSEXC200_00317_NEDDARD_000_25","拜託了……請您一定要把那孩子帶回來！
 也請您身邊那位也幫幫忙吧！"
 61,"TEXT_CLSEXC200_00317_SOLKWYB_000_110","好了，快問問內達爾德先生吧！"
-62,"TEXT_CLSEXC200_00317_SOLKWYB_000_30","我想你也清楚了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+62,"TEXT_CLSEXC200_00317_SOLKWYB_000_30","我想你也清楚了，<Highlight>ObjectParameter(1)</Highlight>！
 不要磨蹭，趕緊去西拉諾西亞的小麥酒港吧！"
 63,"TEXT_CLSEXC200_00317_SOLKWYB_000_31","我認識那裡的警備兵法爾修緹姆。
 你去找他問問有沒有看見小弟弟吧。"
@@ -94,27 +94,27 @@ int32,str,str
 65,"TEXT_CLSEXC200_00317_PFARSTYM_000_62","最近魔物們經常結群出沒，
 我們也正在商議是否去派人確保少年的安全。
 你最好趁早行動，我們也會通知一下斧術師公會。"
-66,"TEXT_CLSEXC200_00317_SYSTEM_000_60","不使用"
-67,"TEXT_CLSEXC200_00317_SYSTEM_000_70","不使用"
-68,"TEXT_CLSEXC200_00317_SOLKWYB_100_80"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你有什麼發現嗎？"
+66,"TEXT_CLSEXC200_00317_SYSTEM_000_60","使用しない"
+67,"TEXT_CLSEXC200_00317_SYSTEM_000_70","使用しない"
+68,"TEXT_CLSEXC200_00317_SOLKWYB_100_80","<Highlight>ObjectParameter(1)</Highlight>，你有什麼發現嗎？"
 69,"TEXT_CLSEXC200_00317_SOLKWYB_000_80","這看起來應該是小弟弟的東西呢……
 我也有所發現，你看。
 這把斧子應該是小弟弟家裡的東西吧？"
 70,"TEXT_CLSEXC200_00317_SOLKWYB_000_81","嗯？！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快看那邊！"
+<Highlight>ObjectParameter(1)</Highlight>，快看那邊！"
 71,"TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_TITLE","要開始「移動山脈庫加塔」的戰鬥嗎？"
 72,"TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_YES","是"
 73,"TEXT_CLSEXC200_00317_INSTANCE_BATTLE_YESNO_NO","否"
 74,"TEXT_CLSEXC200_00317_SIGHARD_000_40","嗚……嗚嗚……"
-75,"TEXT_CLSEXC200_00317_SIGHARD_000_41"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>……"
-76,"TEXT_CLSEXC200_00317_WYRNZOEN_000_50"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快讓開！"
+75,"TEXT_CLSEXC200_00317_SIGHARD_000_41","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>……"
+76,"TEXT_CLSEXC200_00317_WYRNZOEN_000_50","<Highlight>ObjectParameter(1)</Highlight>，快讓開！"
 77,"TEXT_CLSEXC200_00317_WYRNZOEN_000_51","嗚喔喔喔！"
 78,"TEXT_CLSEXC200_00317_SOLKWYB_001_01","老、老哥？！"
 79,"TEXT_CLSEXC200_00317_WYRNZOEN_000_53","太好了，還有氣！"
 80,"TEXT_CLSEXC200_00317_WYRNZOEN_000_54","我們回赤血雄雞農場。
-跟上我， <Highlight>ObjectParameter(1)</Highlight> ！"
+跟上我，<Highlight>ObjectParameter(1)</Highlight>！"
 81,"TEXT_CLSEXC200_00317_NEDDARD_000_90","非常感謝你們把我孫子送回來！"
-82,"TEXT_CLSEXC200_00317_WYRNZOEN_000_110","……。"
+82,"TEXT_CLSEXC200_00317_WYRNZOEN_000_110","……"
 83,"TEXT_CLSEXC200_00317_SOLKWYB_000_111","現在我需要集中精神，暫時不要和我說話。"
 84,"TEXT_CLSEXC200_00317_SIGHARD_000_112","嗚……嗚……"
 85,"TEXT_CLSEXC200_00317_SOLKWYB_000_91","呼……這下應該是渡過難關了。
@@ -123,7 +123,7 @@ int32,str,str
 86,"TEXT_CLSEXC200_00317_SOLKWYB_000_92","要是老哥你沒來，這孩子可就危險了。
 你登場的時間真是恰到好處。"
 87,"TEXT_CLSEXC200_00317_WYRNZOEN_000_93","什麼恰到好處……
-收到小麥酒港警備兵的聯繫後我就立即動身，
+收到小麥酒港警備兵的聯絡後我就立即動身，
 卻還是遲了一步……不，不止一步了，事情還是變成了這樣。"
 88,"TEXT_CLSEXC200_00317_WYRNZOEN_000_94","對不起，老先生……
 你出於信賴才拜託我們斧術師公會的，
@@ -133,10 +133,10 @@ int32,str,str
 倒是各位有沒有受傷啊？"
 90,"TEXT_CLSEXC200_00317_WYRNZOEN_000_96","我們沒事。
 我們就是為了應對這種情況才在鍛鍊的，不必擔心我們。"
-91,"TEXT_CLSEXC200_00317_WYRNZOEN_000_97"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……我們回斧術師公會吧。
+91,"TEXT_CLSEXC200_00317_WYRNZOEN_000_97","<Highlight>ObjectParameter(1)</Highlight>……我們回斧術師公會吧。
 在這裡繼續呆下去也幫不上什麼忙。
 我們還有其他必須做的事情……你明白吧？"
-92,"TEXT_CLSEXC200_00317_WYRNZOEN_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……這次我們雖然避免了最壞的情況發生，
+92,"TEXT_CLSEXC200_00317_WYRNZOEN_000_100","<Highlight>ObjectParameter(1)</Highlight>……這次我們雖然避免了最壞的情況發生，
 但是那個少年為了尋找庫加塔，還是會再次離家出走吧。"
 93,"TEXT_CLSEXC200_00317_WYRNZOEN_000_101","少年的心傷很難撫平。
 並且他還認為大人們……
@@ -144,7 +144,7 @@ int32,str,str
 94,"TEXT_CLSEXC200_00317_WYRNZOEN_000_102","我們不能對這個少年不管不顧。
 你也好好感受下年幼少年的勇氣吧。
 如果不能幫他完成心願，斧術師公會簡直就是個笑話。"
-95,"TEXT_CLSEXC200_00317_WYRNZOEN_000_103"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你一定要親手討伐庫加塔。
+95,"TEXT_CLSEXC200_00317_WYRNZOEN_000_103","<Highlight>ObjectParameter(1)</Highlight>，你一定要親手討伐庫加塔。
 我和整個斧術師公會都會竭盡全力協助你。"
 96,"TEXT_CLSEXC200_00317_POP_MESSAGE","察覺到了敵人的氣息！"
 97,"TEXT_CLSEXC200_00317_QIB_TODO001","打倒群集黑豺"

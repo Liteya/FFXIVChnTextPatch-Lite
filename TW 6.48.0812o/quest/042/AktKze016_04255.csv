@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_AKTKZE016_04255_TODO_23",""
 48,"TEXT_AKTKZE016_04255_MOPINGWAY_000_000","哇哇哇……出大事了！
 大事不好了！怎麼辦怎麼辦！"
-49,"TEXT_AKTKZE016_04255_MOPINGWAY_000_001","哇！是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+49,"TEXT_AKTKZE016_04255_MOPINGWAY_000_001","哇！是<Highlight>ObjectParameter(1)</Highlight>！
 是這樣！剛才水管那裡傳來了「嘭」的一聲……
 該不會是<Sheet(EObj,2012601,0)/>出問題了吧！"
 50,"TEXT_AKTKZE016_04255_MOPINGWAY_000_002","這樣下去河水就要逆流了！會出很多大問題的！
@@ -61,29 +61,29 @@ int32,str,str
 51,"TEXT_AKTKZE016_04255_MOPINGWAY_000_003","得救了！
 需要檢查的就是那種有三個球連在一起的裝置，
 我們管它叫<Sheet(EObj,2012601,0)/>。"
-52,"TEXT_AKTKZE016_04255_MOPINGWAY_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ,
+52,"TEXT_AKTKZE016_04255_MOPINGWAY_000_004","<Highlight>ObjectParameter(1)</Highlight>,
 麻煩你檢查北面的<Sheet(EObj,2012601,0)/>，
-結束之後我們再在這裡會合。"
-53,"TEXT_AKTKZE016_04255_MOPINGWAY_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ,
+結束之後我們再在這裡匯合。"
+53,"TEXT_AKTKZE016_04255_MOPINGWAY_000_005","<Highlight>ObjectParameter(1)</Highlight>,
 麻煩你檢查北面的<Sheet(EObj,2012601,0)/>，
-結束之後我們再在這裡會合。"
+結束之後我們再在這裡匯合。"
 54,"TEXT_AKTKZE016_04255_PUBNPC04255_000_000","（★未使用／削除予定★）"
 55,"TEXT_AKTKZE016_04255_PUBNPC04255_000_001","（★未使用／削除予定★）"
 56,"TEXT_AKTKZE016_04255_PUBNPC04255_000_002","（★未使用／削除予定★）"
 57,"TEXT_AKTKZE016_04255_PUBNPC04255_000_003","（★未使用／削除予定★）"
 58,"TEXT_AKTKZE016_04255_PUBNPC04255_000_004","（★未使用／削除予定★）"
 59,"TEXT_AKTKZE016_04255_PUBNPC04255_000_005","（★未使用／削除予定★）"
-60,"TEXT_AKTKZE016_04255_SYSTEM_000_010","執行時聽起來沒什麼雜音。"
+60,"TEXT_AKTKZE016_04255_SYSTEM_000_010","運行時聽起來沒什麼雜音。"
 61,"TEXT_AKTKZE016_04255_SYSTEM_000_011","能聽到大量氣泡噗噗的雜音……
 恐怕是發生了故障。"
-62,"TEXT_AKTKZE016_04255_MOPINGWAY_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+62,"TEXT_AKTKZE016_04255_MOPINGWAY_000_020","<Highlight>ObjectParameter(1)</Highlight>，
 你負責的那邊，人工河控制裝置有什麼問題嗎？"
-63,"TEXT_AKTKZE016_04255_MOPINGWAY_000_021","東北方的那一臺控制裝置裡能聽見氣泡噗噗的雜音？
+63,"TEXT_AKTKZE016_04255_MOPINGWAY_000_021","東北方的那一台控制裝置裡能聽見氣泡噗噗的雜音？
 那個地方我記得……
 原來如此，我大概知道原因是什麼了。"
 64,"TEXT_AKTKZE016_04255_MOPINGWAY_000_022","其實，為了方便人類們能夠在這裡也體驗到釣魚的樂趣，
 我們事先在人工河裡嘗試性地投放了數種魚類。
-事故可能是這些魚類為了獲得熱量而聚集在水中的裝置附近導致的。"
+事故可能是這些魚類為了獲取熱量而聚集在水中的裝置附近導致的。"
 65,"TEXT_AKTKZE016_04255_MOPINGWAY_000_023","不過，我是不會因為這點小事就放棄的！
 我一定會努力為大家創造出擁有最佳釣魚體驗的地方！
 我是絕對不會讓你們失望的！請放心吧！"

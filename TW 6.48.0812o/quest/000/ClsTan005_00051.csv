@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_CLSTAN005_00051_TODO_23",""
 48,"TEXT_CLSTAN005_00051_GEVA_000_1","啊，氣死我了！
 我一定要抓住他，扒了他的皮……"
-49,"TEXT_CLSTAN005_00051_GEVA_000_2","……哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+49,"TEXT_CLSTAN005_00051_GEVA_000_2","……哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 你來得正是時候，我得跟你說說這件事！"
 50,"TEXT_CLSTAN005_00051_GEVA_000_3","真是令人怒不可遏。
 烏爾達哈的商人跑來這裡抱怨，
@@ -69,13 +69,13 @@ int32,str,str
 格里達尼亞的製革匠都是不尊重生命的粗野之徒，
 那可就不能坐視不管了。"
 56,"TEXT_CLSTAN005_00051_GEVA_000_9","正因如此……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，要輪到你出場了。"
+<Highlight>ObjectParameter(1)</Highlight>，要輪到你出場了。"
 57,"TEXT_CLSTAN005_00051_GEVA_000_10","作為肩負著格里達尼亞製革公會的工匠，
-製作出1張最高品質的<Sheet(ItemHQ,5280,0)/>，
+製作出1張最優質的<Sheet(ItemHQ,5280,0)/>，
 拿過來！告訴他什麼是真正的製革匠！"
-58,"TEXT_CLSTAN005_00051_SYSTEM_000_15","試著製作高品質道具吧。
-在製作過程中，透過提升品質，
-能大大提高高品質道具的完成率。"
+58,"TEXT_CLSTAN005_00051_SYSTEM_000_15","試著製作優質道具吧。
+在製作過程中，通過提升品質，
+能大大提高優質道具的完成率。"
 59,"TEXT_CLSTAN005_00051_SYSTEM_000_16","（★未使用／削除予定★）"
 60,"TEXT_CLSTAN005_00051_GEVA_100_21","製作出1張<Sheet(ItemHQ,5280,0)/>，
 拿過來！告訴他什麼是真正的製革匠！"
@@ -85,7 +85,7 @@ int32,str,str
 63,"TEXT_CLSTAN005_00051_GEVA_000_23","你將巨蟾蜍革的最大特徵「防刃性」最大程度發揮了出來。
 根據這一特性，便可以將其用於製作防具的重要部位。"
 64,"TEXT_CLSTAN005_00051_GEVA_000_24","而且也很好地稀釋過，毫無異味。
-你真能幹啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+你真能幹啊，<Highlight>ObjectParameter(1)</Highlight>！"
 65,"TEXT_CLSTAN005_00051_GEVA_000_25","那麼，該去辦另一件工作了。
 將這個<Sheet(ItemHQ,5280,0)/>交給魔女咖啡館中的艾馬。"
 66,"TEXT_CLSTAN005_00051_MERCHANT_000_20","我！現在！可是滿腔怒火！！
@@ -97,11 +97,11 @@ int32,str,str
 嗯，巨蟾蜍身上的惡臭也被消除得一乾二淨。
 這樣的話無論將它加工成腰帶還是背包都沒問題了。"
 70,"TEXT_CLSTAN005_00051_MERCHANT_000_33","（★未使用／削除予定★）"
-71,"TEXT_CLSTAN005_00051_MERCHANT_000_34","你還對飛．烏爾繳納製品並出售嗎？
+71,"TEXT_CLSTAN005_00051_MERCHANT_000_34","你還對飛·烏爾繳納製品並出售嗎？
 ……什麼？是公會會長蓋娃讓你將它交給我的嗎？
 到底是怎麼一回事啊？"
 72,"TEXT_CLSTAN005_00051_MERCHANT_000_35","……實在抱歉，看來是我誤會了。
-我並不是在飛．烏爾購買的皮革，
+我並不是在飛·烏爾購買的皮革，
 而是在一家名叫博薩大叔的品牌店裡購買的。"
 73,"TEXT_CLSTAN005_00051_MERCHANT_000_36","這是一家最近新開的品牌店，
 以價格低廉和交貨迅速作為經營理念。
@@ -118,7 +118,7 @@ int32,str,str
 78,"TEXT_CLSTAN005_00051_MERCHANT_000_45","真是給你們添麻煩了。
 但是，你們卻帶給我如此精良的巨蟾蜍革。
 這樣我也能向同伴的商人好好炫耀一番了。"
-79,"TEXT_CLSTAN005_00051_GEVA_000_50","做得很好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+79,"TEXT_CLSTAN005_00051_GEVA_000_50","做得很好，<Highlight>ObjectParameter(1)</Highlight>！
 那個商人還特意到這裡來道歉了。"
 80,"TEXT_CLSTAN005_00051_GEVA_000_51","烏爾達哈的商人向來目中無人，
 就連他都對你稱讚有加，看來你的手藝提高了不少啊。"

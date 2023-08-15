@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDA406_02505_SEQ_23",""
 24,"TEXT_STMBDA406_02505_TODO_00","和朵別對話"
 25,"TEXT_STMBDA406_02505_TODO_01","和莉瑟對話"
-26,"TEXT_STMBDA406_02505_TODO_02","獲得<Sheet(EObj,2008245,0)/>"
+26,"TEXT_STMBDA406_02505_TODO_02","獲取<Sheet(EObj,2008245,0)/>"
 27,"TEXT_STMBDA406_02505_TODO_03","將<Sheet(EventItem,2002203,0)/>交給莉瑟"
 28,"TEXT_STMBDA406_02505_TODO_04","和其日娜對話"
 29,"TEXT_STMBDA406_02505_TODO_05","和飛燕對話"
@@ -56,7 +56,7 @@ int32,str,str
 50,"TEXT_STMBDA406_02505_CIRINA_000_020","還得等一會才能做好飯……
 如果你還不是太累的話，可以跟莉瑟姐姐一起去幫幫朵別嗎？"
 51,"TEXT_STMBDA406_02505_CIRINA_000_021","朵別就像是大家的哥哥一樣，
-如果你想要儘快瞭解模兒部，找他準沒錯。"
+如果你想要盡快了解模兒部，找他准沒錯。"
 52,"TEXT_STMBDA406_02505_CIRINA_000_022","帳篷附近那個在檢查貨物的人就是朵別。
 你可以去跟他打聲招呼！"
 53,"TEXT_STMBDA406_02505_CIRINA_000_030","好嘞，我也要露一手了！"
@@ -68,7 +68,7 @@ int32,str,str
 大家應該都在南邊的橋對面。"
 57,"TEXT_STMBDA406_02505_DORBEI_000_050","可不要隨意就穿著鞋跳到河裡啊。
 有橋就走橋嘛……"
-58,"TEXT_STMBDA406_02505_LYSE_000_060","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+58,"TEXT_STMBDA406_02505_LYSE_000_060","啊，<Highlight>ObjectParameter(1)</Highlight>。
 你也是來幫忙的嗎？"
 59,"TEXT_STMBDA406_02505_LYSE_000_061","這樣啊，謝謝！
 我現在正和模兒部的孩子們一起在這附近收集<Sheet(EObj,2008245,0)/>。"
@@ -76,7 +76,7 @@ int32,str,str
 ……至於這原本是什麼東西也可想而知，
 不過聽說在這邊這種用法再正常不過。"
 61,"TEXT_STMBDA406_02505_LYSE_000_063","就是這麼回事……
-既然 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也來了，那就和我們一起收集吧！
+既然<Highlight>ObjectParameter(1)</Highlight>也來了，那就和我們一起收集吧！
 一邊看著孩子們，一邊收集4個來吧！"
 62,"TEXT_STMBDA406_02505_LYSE_000_070","孩子們應該也在這附近收集草團。
 大家都是些好孩子，你可以找他們聊一聊！"
@@ -95,7 +95,7 @@ int32,str,str
 我們收集到了很多哦！
 你們呢？"
 70,"TEXT_STMBDA406_02505_LYSE_000_103","嗯，我們也收集了很多哦。
-因為 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 找得很認真呢！"
+因為<Highlight>ObjectParameter(1)</Highlight>找得很認真呢！"
 71,"TEXT_STMBDA406_02505_04GIRL02505_000_104","太好了……
 這下就能讓朵別哥哥放心了。"
 72,"TEXT_STMBDA406_02505_01GIRL02505_000_105","嗯，之前的居住地就在森林的附近所以還好，
@@ -149,7 +149,7 @@ int32,str,str
 告訴她我們都幫完忙了。"
 90,"TEXT_STMBDA406_02505_DORBEI_000_125","你收集了不少草團啊。
 孩子們看上去也很開心……謝謝你了。"
-91,"TEXT_STMBDA406_02505_CIRINA_000_130","你回來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+91,"TEXT_STMBDA406_02505_CIRINA_000_130","你回來了，<Highlight>ObjectParameter(1)</Highlight>。
 跟大家相處得還愉快嗎？"
 92,"TEXT_STMBDA406_02505_CIRINA_000_131","呵呵，這樣啊。
 那趕快洗洗手，先坐下來歇一歇吧。
@@ -165,6 +165,6 @@ int32,str,str
 不知道我們的飯菜是不是合你的胃口，
 如果你能喜歡就再好不過了。"
 97,"TEXT_STMBDA406_02505_HIEN_000_160","這下身心都充滿了力量！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看來你也都準備好了啊。"
+<Highlight>ObjectParameter(1)</Highlight>，看來你也都準備好了啊。"
 98,"TEXT_STMBDA406_02505_HIEN_000_161","試煉終於要開始了，
 讓我們上吧，獲得那達慕的參戰資格！"

@@ -26,9 +26,9 @@ int32,str,str
 21,"TEXT_AKTKZF010_04265_SEQ_21",""
 22,"TEXT_AKTKZF010_04265_SEQ_22",""
 23,"TEXT_AKTKZF010_04265_SEQ_23",""
-24,"TEXT_AKTKZF010_04265_TODO_00","從<Sheet(BNpcName,10702,0)/>上獲得<Sheet(EventItem,2003216,0)/>"
+24,"TEXT_AKTKZF010_04265_TODO_00","從<Sheet(BNpcName,10702,0)/>上獲取<Sheet(EventItem,2003216,0)/>"
 25,"TEXT_AKTKZF010_04265_TODO_01","將<Sheet(EventItem,2003216,0)/>放置在<Sheet(EObj,2012063,0)/>"
-26,"TEXT_AKTKZF010_04265_TODO_02","在<Sheet(EObj,2012064,0)/>等待 從<Sheet(BNpcName,10961,0)/>身上獲得<Sheet(EventItem,2003217,0)/>"
+26,"TEXT_AKTKZF010_04265_TODO_02","在<Sheet(EObj,2012064,0)/>等待 從<Sheet(BNpcName,10961,0)/>身上獲取<Sheet(EventItem,2003217,0)/>"
 27,"TEXT_AKTKZF010_04265_TODO_03","將<Sheet(EventItem,2003217,0)/>交給庫芮德"
 28,"TEXT_AKTKZF010_04265_TODO_04",""
 29,"TEXT_AKTKZF010_04265_TODO_05",""
@@ -50,13 +50,13 @@ int32,str,str
 45,"TEXT_AKTKZF010_04265_TODO_21",""
 46,"TEXT_AKTKZF010_04265_TODO_22",""
 47,"TEXT_AKTKZF010_04265_TODO_23",""
-48,"TEXT_AKTKZF010_04265_QERYDE_000_000","是你打倒了那個凶惡野獸啊……
-雖然拜託村子的恩人幫忙辦事實在是不太適合，
+48,"TEXT_AKTKZF010_04265_QERYDE_000_000","是你打倒了那個兇惡野獸啊……
+雖然拜託村子的恩人幫忙辦事實在是不太合適，
 不過你實力如此高強，能不能接下我的委託？我會支付報酬的。"
 49,"TEXT_AKTKZF010_04265_QERYDE_000_001","我是一名紡織工匠，
 想為守護人們的星戰士們製作些防具。
 可關鍵的素材<Sheet(EventItem,2003217,0)/>卻不夠用了，我正發愁呢。"
-50,"TEXT_AKTKZF010_04265_QERYDE_000_002","這種素材只能從年老的畢舍遮身上獲得到。
+50,"TEXT_AKTKZF010_04265_QERYDE_000_002","這種素材只能從年老的畢舍遮身上獲取到。
 畢舍遮會隨著年齡的增長而變得更為狡猾，
 因此很難被人發現。"
 51,"TEXT_AKTKZF010_04265_QERYDE_000_003","不過只要打倒<Sheet(BNpcName,10702,0)/>，將它的屍體放在畢舍遮的領地裡，
@@ -73,9 +73,9 @@ int32,str,str
 由此可見它的鱗到底有多堅硬。"
 56,"TEXT_AKTKZF010_04265_QERYDE_000_013","實際上<Sheet(EventItem,2003217,0)/>是畢舍遮經歷漫長歲月積累下來的，
 其中含有金屬的成分。
-將其碾碎製成絲並織入布料之中就能做成非常強韌的布匹。"
+將其碾碎製成絲並織入面料之中就能做成非常強韌的布匹。"
 57,"TEXT_AKTKZF010_04265_QERYDE_000_014","而用這種布做成的防具一定會對戰鬥有所幫助對吧？
-雖然我沒辦法戰鬥，但我卻可以用我的工匠技巧
+雖然我沒法戰鬥，但我卻可以用我的工匠技巧
 來幫助能夠戰鬥的人。"
 58,"TEXT_AKTKZF010_04265_QERYDE_000_015","不管怎麼說，這樣一來委託就結束了。
 真是辛苦你了，請收下報酬吧！"

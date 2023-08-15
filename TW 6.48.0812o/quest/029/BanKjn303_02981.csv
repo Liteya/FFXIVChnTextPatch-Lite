@@ -28,9 +28,9 @@ int32,str,str
 21,"TEXT_BANKJN303_02981_SEQ_21",""
 22,"TEXT_BANKJN303_02981_SEQ_22",""
 23,"TEXT_BANKJN303_02981_SEQ_23",""
-24,"TEXT_BANKJN303_02981_TODO_00","從翠水鄉的美豔的巫女那裡獲得<Sheet(EventItem,2002400,0)/>"
+24,"TEXT_BANKJN303_02981_TODO_00","從翠水鄉的美豔的巫女那裡獲取<Sheet(EventItem,2002400,0)/>"
 25,"TEXT_BANKJN303_02981_TODO_01","在碧玉水的<Sheet(EObj,2009085,0)/>附近使用<Sheet(EventItem,2002400,0)/>"
-26,"TEXT_BANKJN303_02981_TODO_02","對老舊的甲殼裝飾品使用情感動作「祈禱」"
+26,"TEXT_BANKJN303_02981_TODO_02","對古舊的甲殼裝飾品使用情感動作「祈禱」"
 27,"TEXT_BANKJN303_02981_TODO_03","向頭巾報告"
 28,"TEXT_BANKJN303_02981_TODO_04",""
 29,"TEXT_BANKJN303_02981_TODO_05",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN303_02981_TODO_21",""
 46,"TEXT_BANKJN303_02981_TODO_22",""
 47,"TEXT_BANKJN303_02981_TODO_23",""
-48,"TEXT_BANKJN303_02981_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>也作為「碧玉尋寶眾」的一員，
+48,"TEXT_BANKJN303_02981_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>也作為「碧玉尋寶眾」的一員，
 一起來參加淨身儀式吧！
 這可是為了加深與尋寶之神的緣分而舉行的重要儀式！"
 49,"TEXT_BANKJN303_02981_ZUKIN_000_001","首先，麻煩你從翠水鄉的美豔的巫女那裡，
@@ -68,11 +68,11 @@ int32,str,str
 53,"TEXT_BANKJN303_02981_SYSTEM_000_025","使用了<Sheet(EventItem,2002400,0)/>，淨化了身體。
 面向<Sheet(EObj,2009085,0)/>使用情感動作「祈禱」。"
 54,"TEXT_BANKJN303_02981_SYSTEM_000_026","這裡好像不是頭巾所說的地點。
-在老舊的甲殼裝飾品附近再次使用<Sheet(EventItem,2002400,0)/>。"
+在古舊的甲殼裝飾品附近再次使用<Sheet(EventItem,2002400,0)/>。"
 55,"TEXT_BANKJN303_02981_SUIWOMAN02981_000_025","儀式所需要的<Sheet(EventItem,2002400,0)/>已經交給你了。
 你是不是應該回碧玉水了？"
-56,"TEXT_BANKJN303_02981_SYSTEM_100_025","這就是頭巾提到的那個老舊的甲殼裝飾品。
-在老舊的甲殼裝飾品附近使用<Sheet(EventItem,2002400,0)/>。"
+56,"TEXT_BANKJN303_02981_SYSTEM_100_025","這就是頭巾提到的那個古舊的甲殼裝飾品。
+在古舊的甲殼裝飾品附近使用<Sheet(EventItem,2002400,0)/>。"
 57,"TEXT_BANKJN303_02981_UROKUZU_000_030","你能參加淨身的儀式，真是佩服、佩服——
 這樣一來，神明也一定會很樂意幫助你吧——"
 58,"TEXT_BANKJN303_02981_UROKUZU_000_031","果然，還是得向神明盡到禮節才行嘛——

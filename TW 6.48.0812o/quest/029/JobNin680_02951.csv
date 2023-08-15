@@ -6,7 +6,7 @@ int32,str,str
 2,"TEXT_JOBNIN680_02951_SEQ_02","找到了朧。回到忍村後大家都稱讚朧擊殺了鴉，這讓他十分難受。為了調查忍村創始人佐助身負的密令，一行人決定前去拜訪老長老神威。和茨菰村的朧談談。"
 3,"TEXT_JOBNIN680_02951_SEQ_03","和朧進行交談後來到了梅泉鄉。和延夏梅泉鄉的朧談談。"
 4,"TEXT_JOBNIN680_02951_SEQ_04","和朧進行了交談。神威說自己腰疼，要一行人給他找藥材來煎中藥。和茨菰村的朧談談。"
-5,"TEXT_JOBNIN680_02951_SEQ_05","朧委託冒險者獲得<Sheet(EventItem,2002382,0)/>。前往延夏無二江流域討伐<Sheet(BNpcName,5758,0)/>，獲得其身上的<Sheet(EventItem,2002382,0)/>。"
+5,"TEXT_JOBNIN680_02951_SEQ_05","朧委託冒險者獲取<Sheet(EventItem,2002382,0)/>。前往延夏無二江流域討伐<Sheet(BNpcName,5758,0)/>，獲取其身上的<Sheet(EventItem,2002382,0)/>。"
 6,"TEXT_JOBNIN680_02951_SEQ_06","獲得了<Sheet(EventItem,2002382,0)/>。將<Sheet(EventItem,2002382,0)/>交給茨菰村的朧。"
 7,"TEXT_JOBNIN680_02951_SEQ_07","將<Sheet(EventItem,2002382,0)/>交給朧，來到了梅泉鄉。和梅泉鄉的朧談談。"
 8,"TEXT_JOBNIN680_02951_SEQ_08","和朧進行了交談。從神威口中得知佐助身負密令從遠東之國來到了多瑪，使用禁忌通靈之術拯救了多瑪的人民。這時，小雪帶來了影隱一族開始行動的消息。和茨菰村的朧談談。"
@@ -31,7 +31,7 @@ int32,str,str
 25,"TEXT_JOBNIN680_02951_TODO_01","和茨菰村的朧對話"
 26,"TEXT_JOBNIN680_02951_TODO_02","和梅泉鄉的朧對話"
 27,"TEXT_JOBNIN680_02951_TODO_03","和茨菰村的朧對話"
-28,"TEXT_JOBNIN680_02951_TODO_04","從<Sheet(BNpcName,5758,0)/>身上獲得<Sheet(EventItem,2002382,0)/>"
+28,"TEXT_JOBNIN680_02951_TODO_04","從<Sheet(BNpcName,5758,0)/>身上獲取<Sheet(EventItem,2002382,0)/>"
 29,"TEXT_JOBNIN680_02951_TODO_05","將<Sheet(EventItem,2002382,0)/>交給茨菰村的朧"
 30,"TEXT_JOBNIN680_02951_TODO_06","和梅泉鄉的朧對話"
 31,"TEXT_JOBNIN680_02951_TODO_07","和茨菰村的朧對話"
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_JOBNIN680_02951_TODO_21",""
 46,"TEXT_JOBNIN680_02951_TODO_22",""
 47,"TEXT_JOBNIN680_02951_TODO_23",""
-48,"TEXT_JOBNIN680_02951_JACKE_000_000","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBNIN680_02951_JACKE_000_000","喲，<Highlight>ObjectParameter(1)</Highlight>。
 朧剛剛從他的忍村回來了。
 據說村子暫時還沒出什麼事，很是平靜。"
 49,"TEXT_JOBNIN680_02951_JACKE_000_001","不過他好像有些煩惱，
@@ -73,7 +73,7 @@ int32,str,str
 這薄命臉真愛叫人操心。"
 59,"TEXT_JOBNIN680_02951_JACKE_000_015","喂，那個是朧吧？
 他是在……幹什麼呢？"
-60,"TEXT_JOBNIN680_02951_OBORO_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？
+60,"TEXT_JOBNIN680_02951_OBORO_000_020","<Highlight>ObjectParameter(1)</Highlight>嗎？
 我、我們換個地方聊吧……
 冷、冷死我了……我要找個篝火……"
 61,"TEXT_JOBNIN680_02951_OBORO_000_021","真虧你能找到我。
@@ -94,7 +94,7 @@ int32,str,str
 68,"TEXT_JOBNIN680_02951_JACKE_000_028","唉，你還是這麼較真呀……
 給你講個故事好了。"
 69,"TEXT_JOBNIN680_02951_JACKE_000_029","我認識一個叫米莉拉拉的黃衫隊花哨女。
-那個傢伙選擇了將我們雙劍師和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 
+那個傢伙選擇了將我們雙劍師和<Highlight>ObjectParameter(1)</Highlight>
 立下的功勞據為己有。"
 70,"TEXT_JOBNIN680_02951_JACKE_000_030","雙劍師因為不能暴露到明面上，所以對我們來說，
 像米莉拉拉這樣的角色是必不可少的。"
@@ -114,8 +114,8 @@ int32,str,str
 所以我們決定去拜訪老長老神威大人。"
 77,"TEXT_JOBNIN680_02951_OBORO_000_037","神威大人早已退休，離開了忍村。
 現在在一個叫梅泉鄉的地方過著隱居生活。"
-78,"TEXT_JOBNIN680_02951_OBORO_000_038"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你要不要跟我們一起去聽聽關於佐助的秘史，
-瞭解一下自己的忍術究竟源自哪裡？"
+78,"TEXT_JOBNIN680_02951_OBORO_000_038","<Highlight>ObjectParameter(1)</Highlight>，你要不要跟我們一起去聽聽關於佐助的秘史，
+了解一下自己的忍術究竟源自哪裡？"
 79,"TEXT_JOBNIN680_02951_OBORO_000_039","好！梅泉鄉只有飛行才能抵達，
 我們拜託忍村在茨菰村準備了大隼，
 所以先前往茨菰村吧。"
@@ -141,7 +141,7 @@ int32,str,str
 92,"TEXT_JOBNIN680_02951_OBORO_000_050","這位老者就是神威大人。
 我們快打聽一下關於佐助的事情吧。"
 93,"TEXT_JOBNIN680_02951_OBORO_000_051","久疏問候了神威大人，我是朧。
-今天前來叨擾，是想瞭解關於忍村創始人佐助所負密令的事情。"
+今天前來叨擾，是想了解關於忍村創始人佐助所負密令的事情。"
 94,"TEXT_JOBNIN680_02951_KAMUI_000_052","朧……不認識的孩子呢……是誰來著？
 哎呦好痛痛痛……今天腰痛得要死，說話也是受罪。"
 95,"TEXT_JOBNIN680_02951_KAMUI_000_053","這種時候要是能有一副中藥就好嘍。
@@ -163,7 +163,7 @@ int32,str,str
 105,"TEXT_JOBNIN680_02951_KAMUI_000_067","小燕子願不願意嫁給我呀？"
 106,"TEXT_JOBNIN680_02951_OBORO_000_070","我去取延夏虎肝來。
 賈可閣下，犀甲蟲角就麻煩你了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 負責去取<Sheet(EventItem,2002382,0)/>吧。"
+<Highlight>ObjectParameter(1)</Highlight>負責去取<Sheet(EventItem,2002382,0)/>吧。"
 107,"TEXT_JOBNIN680_02951_OBORO_000_071","不好意思讓你們幫忙做這種事。
 神威大人很是隨性，我們只有聽他的吩咐才行。
 收集到之後我們再在這裡集合。"
@@ -199,7 +199,7 @@ int32,str,str
 為多瑪帶來了和平。"
 122,"TEXT_JOBNIN680_02951_KAMUI_000_099","再之後，佐助在多瑪建立了忍村，
 並將這術改稱為禁忌通靈之術，禁止再次動用。"
-123,"TEXT_JOBNIN680_02951_KAMUI_000_100","可能是覺得禁忌通靈之術過於凶險，
+123,"TEXT_JOBNIN680_02951_KAMUI_000_100","可能是覺得禁忌通靈之術過於兇險，
 在將卷軸嚴加保管後依然不能放下心來的佐助，
 選擇了直接將卷軸一分為二。"
 124,"TEXT_JOBNIN680_02951_KAMUI_000_101","其中一卷獻給了奉為主公的多瑪君主。
@@ -209,7 +209,7 @@ int32,str,str
 126,"TEXT_JOBNIN680_02951_KAMUI_000_103","恐怕是影隱忍村裡本身就極少有人知道佐助接到了什麼命令，
 再加上時光的流逝，不知何時傳說就變了個樣吧……"
 127,"TEXT_JOBNIN680_02951_OBORO_000_104","神威大人，感謝您為我們解惑。"
-128,"TEXT_JOBNIN680_02951_KAMUI_000_105","哈哈哈，不要再來打擾老頭子我嘍。
+128,"TEXT_JOBNIN680_02951_KAMUI_000_105","哈哈哈，不要再來打攪老頭子我嘍。
 我只想安度晚年……
 啊，當然，小燕子可以隨時來哦。"
 129,"TEXT_JOBNIN680_02951_JACKE_000_106","公主殿下匆忙趕來說是有急事，

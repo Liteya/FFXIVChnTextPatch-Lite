@@ -29,7 +29,7 @@ int32,str,str
 25,"TEXT_STMBDZ607_02785_TODO_01","向也速根報告"
 26,"TEXT_STMBDZ607_02785_TODO_02","在<Sheet(EObj,2008867,0)/>放置<Sheet(EventItem,2002365,0)/>"
 27,"TEXT_STMBDZ607_02785_TODO_03","在<Sheet(EObj,2008868,0)/>等待
-討伐出現的<Sheet(BNpcName,5905,0)/>並獲得<Sheet(EventItem,2002366,0)/>"
+討伐出現的<Sheet(BNpcName,5905,0)/>並獲取<Sheet(EventItem,2002366,0)/>"
 28,"TEXT_STMBDZ607_02785_TODO_04","將<Sheet(EventItem,2002366,0)/>交給也速根"
 29,"TEXT_STMBDZ607_02785_TODO_05","和也速根對話"
 30,"TEXT_STMBDZ607_02785_TODO_06",""
@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_STMBDZ607_02785_TODO_22",""
 47,"TEXT_STMBDZ607_02785_TODO_23",""
 48,"TEXT_STMBDZ607_02785_ESUGEN_000_000","雖然很想馬上和者勒蔑重歸於好……
-可是我現在得儘快確定好
+可是我現在得盡快確定好
 在兄弟鬥技之後的宴會上的菜單。"
 49,"TEXT_STMBDZ607_02785_ESUGEN_000_001","如果不提前把要用的食材告訴大家，他們就又會對我擺臉色了……
 不過琢磨菜單需要一些時間，
@@ -67,14 +67,14 @@ int32,str,str
 其實，我已經不生氣了。
 ……可是，我現在沒有心情吃零食呢。"
 54,"TEXT_STMBDZ607_02785_JELME_000_012","是這樣的，苦哲可哥哥鍛鍊得太拚命，
-發了很嚴重的燒……
+發了很嚴重的燒......
 這樣下去，哥哥會輸掉比賽的……"
 55,"TEXT_STMBDZ607_02785_JELME_000_013","啊，對不起，耽誤你時間了。
 謝謝你把零食送過來。
 那，我要繼續照看哥哥了……"
 56,"TEXT_STMBDZ607_02785_ESUGEN_000_015","確定好菜單後，我也會親自去道歉的。
 現在就拜託你把<Sheet(EventItem,2002364,0)/>交給者勒蔑了！"
-57,"TEXT_STMBDZ607_02785_ESUGEN_000_020"," <Highlight>ObjectParameter(1)</Highlight> ，
+57,"TEXT_STMBDZ607_02785_ESUGEN_000_020","<Highlight>ObjectParameter(1)</Highlight>，
 者勒蔑還生氣嗎？"
 58,"TEXT_STMBDZ607_02785_ESUGEN_000_021","什、什麼？！
 他哥哥苦哲可是我第一場比賽的對手啊！
@@ -105,7 +105,7 @@ int32,str,str
 70,"TEXT_STMBDZ607_02785_ESUGEN_000_029","我想想……從延夏遷徙來的<Sheet(BNpcName,5905,0)/>肉，
 再配上藥草，煮一鍋湯應該就很不錯。
 不過，沒時間等大家去狩獵了……"
-71,"TEXT_STMBDZ607_02785_ESUGEN_000_030"," <Highlight>ObjectParameter(1)</Highlight> ！
+71,"TEXT_STMBDZ607_02785_ESUGEN_000_030","<Highlight>ObjectParameter(1)</Highlight>！
 這是我最後的委託了，能請你去討伐<Sheet(BNpcName,5905,0)/>，
 把<Sheet(EventItem,2002366,0)/>帶回來嗎？"
 72,"TEXT_STMBDZ607_02785_ESUGEN_000_031","謝謝！<Sheet(BNpcName,5905,0)/>最喜歡這個<Sheet(EventItem,2002365,0)/>。
@@ -138,7 +138,7 @@ int32,str,str
 我會告訴哥哥這是叔叔做的！"
 83,"TEXT_STMBDZ607_02785_ESUGEN_000_053","……好了，這下我是脫離不了廚房了。
 苦哲可每次鬥技的成績都排在前幾名，
-他應該一下子就能把我撂倒，哈哈哈！"
+估計他一下子就能把我撂倒，哈哈哈！"
 84,"TEXT_STMBDZ607_02785_ESUGEN_000_054","啊，這可不是違心的笑啊。
 我只是想到自己瞬間就輸的樣子，感覺很好笑。"
 85,"TEXT_STMBDZ607_02785_ESUGEN_000_055","不過，多虧有你，我現在心情很舒暢！

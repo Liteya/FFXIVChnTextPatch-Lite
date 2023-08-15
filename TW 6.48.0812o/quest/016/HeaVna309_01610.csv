@@ -96,7 +96,7 @@ int32,str,str
 67,"TEXT_HEAVNA309_01610_BALLOON_100_025","嘁嘁嘁……滾出去！"
 68,"TEXT_HEAVNA309_01610_ALPHINAUD_000_030","沒想到會撞上骨頜族。"
 69,"TEXT_HEAVNA309_01610_ALPHINAUD_000_031","不過這個遺跡……
-看起來也不完全像是伊修加爾德式的建築。"
+看起來也不完全像是伊修加德式的建築。"
 70,"TEXT_HEAVNA309_01610_ICEHEART_000_032","你還真是博學多識。
 這些建築是千年以前，
 我們的祖先與龍族交好的時期的遺跡。"
@@ -107,19 +107,19 @@ int32,str,str
 你想怎麼認為就怎麼認為好了，
 一輩子去相信那些虛假的教義好了！"
 73,"TEXT_HEAVNA309_01610_ALPHINAUD_000_035","喂！不要在這種地方吵架。"
-74,"TEXT_HEAVNA309_01610_ALPHINAUD_100_035"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也勸勸他倆。"
+74,"TEXT_HEAVNA309_01610_ALPHINAUD_100_035","<Highlight>ObjectParameter(1)</Highlight>，你也勸勸他倆。"
 75,"TEXT_HEAVNA309_01610_A1_000_000","要對他們說些什麼？"
 76,"TEXT_HEAVNA309_01610_Q1_000_001","我們的目的是相同的"
 77,"TEXT_HEAVNA309_01610_Q1_000_002","現在應該暫且放下個人主張"
 78,"TEXT_HEAVNA309_01610_Q1_000_003","過去的事情由我去確認"
-79,"TEXT_HEAVNA309_01610_Q1_000_004","答不出來"
-80,"TEXT_HEAVNA309_01610_ALPHINAUD_000_036","說得沒錯。為了達成阻止龍族再次進攻伊修加爾德這個共同目標，
+79,"TEXT_HEAVNA309_01610_Q1_000_004","……"
+80,"TEXT_HEAVNA309_01610_ALPHINAUD_000_036","說得沒錯。為了達成阻止龍族再次進攻伊修加德這個共同目標，
 我們現在應該捨棄掉個人的主張，
 再說了，遺跡是真是假，可以交給有超越之力的冒險者來判斷。"
-81,"TEXT_HEAVNA309_01610_ALPHINAUD_100_036"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 都被你們氣得說不出話了。
-我們的共同目標是阻止龍族再次進攻伊修加爾德。
+81,"TEXT_HEAVNA309_01610_ALPHINAUD_100_036","<Highlight>ObjectParameter(1)</Highlight>都被你們氣得說不出話了。
+我們的共同目標是阻止龍族再次進攻伊修加德。
 再說了，遺跡是真是假，可以交給有超越之力的冒險者來判斷。"
-82,"TEXT_HEAVNA309_01610_ALPHINAUD_000_037","只要有什麼契機， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就能夠看到過去的真相。
+82,"TEXT_HEAVNA309_01610_ALPHINAUD_000_037","只要有什麼契機，<Highlight>ObjectParameter(1)</Highlight>就能夠看到過去的真相。
 這樣的話埃斯蒂尼安閣下也能相信了吧？"
 83,"TEXT_HEAVNA309_01610_ESTINIEN_000_038","我可沒拿你們當同伴……
 現在只能等光之戰士揭露事實了嗎？

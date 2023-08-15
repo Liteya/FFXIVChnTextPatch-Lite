@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_CLSBSM650_02617_SEQ_00","鍛鐵匠公會的布瑞賽爾接到了奇怪的委託。"
-1,"TEXT_CLSBSM650_02617_SEQ_01","來自遠東之國的訪客想要委託公會最棒的匠人鍛造東西，但不知為何同時提出了要向雪花保密的條件。前往利姆薩．羅敏薩碼頭，找委託人神刀詢問委託詳情。"
-2,"TEXT_CLSBSM650_02617_SEQ_02","從神刀手中拿到了<Sheet(EventItem,2002071,0)/>，並被要求用它鍛造出盡可能好的武士刀。神刀還表示可以在不透露委託人身份的情況下去找雪花商量。將<Sheet(EventItem,2002071,0)/>交給利姆薩．羅敏薩錨場的雪花，和她商量鍛刀之事。"
-3,"TEXT_CLSBSM650_02617_SEQ_03","雪花建議冒險者鍛一把刀身比較厚、比較結實的刀。用<Sheet(EventItem,2002071,0)/>製作<Sheet(ItemHQ,17888,0)/>，並將其交給利姆薩．羅敏薩碼頭的神刀。
+1,"TEXT_CLSBSM650_02617_SEQ_01","來自遠東之國的訪客想要委託公會最棒的匠人鍛造東西，但不知為何同時提出了要向雪花保密的條件。前往利姆薩·羅敏薩碼頭，找委託人神刀詢問委託詳情。"
+2,"TEXT_CLSBSM650_02617_SEQ_02","從神刀手中拿到了<Sheet(EventItem,2002071,0)/>，並被要求用它鍛造出盡可能好的武士刀。神刀還表示可以在不透露委託人身份的情況下去找雪花商量。將<Sheet(EventItem,2002071,0)/>交給利姆薩·羅敏薩錨場的雪花，和她商量鍛刀之事。"
+3,"TEXT_CLSBSM650_02617_SEQ_03","雪花建議冒險者鍛一把刀身比較厚、比較結實的刀。用<Sheet(EventItem,2002071,0)/>製作<Sheet(ItemHQ,17888,0)/>，並將其交給利姆薩·羅敏薩碼頭的神刀。
 
 ※如果<Sheet(Item,17887,0)/>不足的話，就和雪花對話，即可重獲材料，並再次進行挑戰。"
 4,"TEXT_CLSBSM650_02617_SEQ_04","神刀對<Sheet(ItemHQ,17888,0)/>的做工非常滿意。返回鍛鐵匠公會，向布瑞賽爾報告。"
@@ -29,7 +29,7 @@ int32,str,str
 21,"TEXT_CLSBSM650_02617_SEQ_21",""
 22,"TEXT_CLSBSM650_02617_SEQ_22",""
 23,"TEXT_CLSBSM650_02617_SEQ_23",""
-24,"TEXT_CLSBSM650_02617_TODO_00","和利姆薩．羅敏薩碼頭附近的神刀對話"
+24,"TEXT_CLSBSM650_02617_TODO_00","和利姆薩·羅敏薩碼頭附近的神刀對話"
 25,"TEXT_CLSBSM650_02617_TODO_01","將<Sheet(EventItem,2002071,0)/>交給錨場的雪花進行諮詢"
 26,"TEXT_CLSBSM650_02617_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17888,0)/><Else/>將<Sheet(ItemHQ,17888,0)/>交給利姆薩·羅敏薩的神刀</If>"
 27,"TEXT_CLSBSM650_02617_TODO_03","向鍛鐵匠公會的布瑞賽爾報告"
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_CLSBSM650_02617_TODO_21",""
 46,"TEXT_CLSBSM650_02617_TODO_22",""
 47,"TEXT_CLSBSM650_02617_TODO_23",""
-48,"TEXT_CLSBSM650_02617_BRITHAEL_000_000","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+48,"TEXT_CLSBSM650_02617_BRITHAEL_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>……
 雪花小姐最近好很多了，
 和公會成員的衝突也在逐漸減少。"
 49,"TEXT_CLSBSM650_02617_BRITHAEL_000_001","本以為公會和我的胃都能就此平靜下來，
@@ -101,7 +101,7 @@ int32,str,str
 雖然委託內容有些古怪，但你一定沒問題的！"
 66,"TEXT_CLSBSM650_02617_SHINTOU_000_065","能請你用那塊廢鐵鍛一把刀嗎？
 你可以去找那位來自東方的刀匠雪花諮詢……"
-67,"TEXT_CLSBSM650_02617_SEKKA_000_070","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+67,"TEXT_CLSBSM650_02617_SEKKA_000_070","啊，<Highlight>ObjectParameter(1)</Highlight>閣下。
 有什麼事嗎？"
 68,"TEXT_CLSBSM650_02617_SEKKA_000_080","……啥？！要你用這塊<Sheet(EventItem,2002071,0)/>鍛刀？
 這麼坑人的要求是誰提出來的呀？"
@@ -115,8 +115,8 @@ int32,str,str
 這廢鐵裡雜質太多，強度完全沒保證。"
 73,"TEXT_CLSBSM650_02617_SEKKA_000_111","鍛出來的刀要是隨便就彎掉或斷掉可就不妙了。
 還是不要打磨得太輕薄鋒利，以結實為重比較好。
-<Sheet(ItemHQ,17888,0)/>應該是適合的選擇。"
-74,"TEXT_CLSBSM650_02617_SEKKA_000_112","這<Sheet(EventItem,2002071,0)/>塊倒是蠻大。
+<Sheet(ItemHQ,17888,0)/>應該是合適的選擇。"
+74,"TEXT_CLSBSM650_02617_SEKKA_000_112","這<Sheet(EventItem,2002071,0)/>塊倒是挺大。
 我幫你拿著吧，省得鍛造的時候礙事。
 你專注於鍛刀即可。"
 75,"TEXT_CLSBSM650_02617_SEKKA_000_120","還需要<Sheet(EventItem,2002071,0)/>嗎？
@@ -134,8 +134,8 @@ int32,str,str
 你們公會的會長是叫布瑞賽爾來著？
 請向他彙報你完成了委託吧。"
 81,"TEXT_CLSBSM650_02617_SEKKA_000_160","請分點公會的委託給我做吧！
-為了追上 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，我需要更加努力地修行！"
-82,"TEXT_CLSBSM650_02617_BRITHAEL_000_170","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！快來救救我！
+為了追上<Highlight>ObjectParameter(1)</Highlight>閣下，我需要更加努力地修行！"
+82,"TEXT_CLSBSM650_02617_BRITHAEL_000_170","啊，<Highlight>ObjectParameter(1)</Highlight>！快來救救我！
 雪花小姐一直纏著我讓我分工作給她……"
 83,"TEXT_CLSBSM650_02617_SHINTOU_000_171","(-男性的大吼-)打——擾——了——！！"
 84,"TEXT_CLSBSM650_02617_SHINTOU_000_172","感謝貴公會先前接受了我的委託。
@@ -152,12 +152,12 @@ int32,str,str
 88,"TEXT_CLSBSM650_02617_SHINTOU_000_176","這丫頭缺少對於刀匠來說最重要的東西。
 她不正視這一點，非要入我門下。
 我說讓她放棄、死了這條心，結果這幼稚丫頭就離家出走了……"
-89,"TEXT_CLSBSM650_02617_SHINTOU_000_177","雪花， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的刀你也看到了吧？
+89,"TEXT_CLSBSM650_02617_SHINTOU_000_177","雪花，<Highlight>ObjectParameter(1)</Highlight>的刀你也看到了吧？
 人家能用粗劣的材料鍛出那樣一柄刀。
 換你根本就做不到……"
 90,"TEXT_CLSBSM650_02617_SHINTOU_000_178","你花費了十幾年學到的技藝，
 人家一下子就能把你超過去。
-你就只有這種水準，叫我怎麼收你為徒？"
+你就只有這種水平，叫我怎麼收你為徒？"
 91,"TEXT_CLSBSM650_02617_BRITHAEL_000_179","等等、等等、等等！你們自家人的事我不好插嘴，
 但作為一名手藝人，你剛才的發言我可不能裝沒聽到。
 你怎麼能拿她的努力，和其他人進行比較？"
@@ -179,7 +179,7 @@ int32,str,str
 98,"TEXT_CLSBSM650_02617_BRITHAEL_000_186","雖然我現在還是很怕……不不不，還是有一點，怕雪花小姐。
 但這和那是兩碼事！
 我也要出一份力，讓雪花小姐得到父親的認同。"
-99,"TEXT_CLSBSM650_02617_SEKKA_000_187","布瑞賽爾閣下、 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+99,"TEXT_CLSBSM650_02617_SEKKA_000_187","布瑞賽爾閣下、<Highlight>ObjectParameter(1)</Highlight>閣下……
 為了我，竟然……大恩大德沒齒難忘！"
 100,"TEXT_CLSBSM650_02617_SEKKA_000_188","……布瑞賽爾閣下，也感謝您剛剛出言相助。
 剛剛您斥責我父親時……那個……非常有，男子氣概……"

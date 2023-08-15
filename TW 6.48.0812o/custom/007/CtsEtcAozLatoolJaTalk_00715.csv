@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_000","嘎希迦、和我被大師僱傭為、新大陸的嚮導、
 之後就、一直以助手的、身份跟隨、著大師。
 我們之間、也就算是一段、孽緣吧……"
-1,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_010","人類好像、沒辦法分清、嘎希迦與我的、區別。
+1,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_010","人類好像、沒法分清、嘎希迦與我的、區別。
 真是失禮呢……我、比他要、帥多了……"
 2,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_020","大師對於、青色的執著、實在、不能小看。
 甚至大師的內褲、都是、青色的。
@@ -14,7 +14,7 @@ int32,str,str
 4,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_040","大師還在、住院中。
 聽說大師就、連繃帶都要求、換成青色的，
 不過、據說好像實在、是沒有青色的、繃帶……"
-5,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+5,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_050","<Highlight>ObjectParameter(1)</Highlight>！
 為了大師、
 請打倒、扮演、啟示者的、瓦斯特拉哈！"
 6,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_060","沒想、到、你真的打倒了、
@@ -35,7 +35,7 @@ int32,str,str
 11,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_110","當跟、齊格弗里德、的比試、
 成為了、賭上、經營權、的戰鬥、之後……
 大師、越發地、不淡定、了。"
-12,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_120","我與、魔物獵人、們合、作、
+12,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_120","我與、怪物獵人、們合、作、
 準備、了可以、跟同盟徽章、進行交換、的特製、商品。
 請、一定要、去看看、啊。"
 13,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_130","感謝你、打倒、了、齊格弗里德。
@@ -43,7 +43,7 @@ int32,str,str
 14,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_140","大師、充滿幹勁、的、時候、
 一般、都、沒什麼、好事。"
 15,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_150","與格格、的比試、當前、
-要不要、透過青魔法師記錄、磨鍊一下、技藝？"
+要不要、通過青魔法師記錄、磨鍊一下、技藝？"
 16,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_160","成功打敗、格格、真是、幹得漂亮。
 希、望、今後、也可以、繼續、
 陪伴、大師和、青魔法師記錄。"

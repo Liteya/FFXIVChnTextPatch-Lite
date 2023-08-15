@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_AKTKZE013_04252_SEQ_23",""
 24,"TEXT_AKTKZE013_04252_TODO_00","和扭扭捏捏的兔兔族對話"
 25,"TEXT_AKTKZE013_04252_TODO_01","在「說話」頻道下輸入「任我行威」
-說出暗號（going my way）"
+(going my way) 說出暗號"
 26,"TEXT_AKTKZE013_04252_TODO_02","和任我行威對話"
 27,"TEXT_AKTKZE013_04252_TODO_03","和扭扭捏捏的兔兔族對話"
 28,"TEXT_AKTKZE013_04252_TODO_04",""
@@ -59,7 +59,7 @@ int32,str,str
 我會在嘆息海的北方區域等你……"
 50,"TEXT_AKTKZE013_04252_FIDGETLOPORRIT04252_000_010","讓你特地來一趟，真不好意思！
 ……其實我是有一位兔兔族的朋友，
-想偷偷介紹給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你一個人認識。"
+想偷偷介紹給<Highlight>ObjectParameter(1)</Highlight>你一個人認識。"
 51,"TEXT_AKTKZE013_04252_FIDGETLOPORRIT04252_000_011","不過他平時不和大家住在一起……
 只有說出暗號的時候才會出現……"
 52,"TEXT_AKTKZE013_04252_FIDGETLOPORRIT04252_000_012","能請你在我的身邊的位置說一遍暗號嗎？
@@ -88,7 +88,7 @@ int32,str,str
 64,"TEXT_AKTKZE013_04252_FIDGETLOPORRIT04252_000_033","我是在尋找資源的時候正好來到附近，所以認識了他。
 從那以後我們倆就成了好朋友，一直相處到現在了！"
 65,"TEXT_AKTKZE013_04252_FIDGETLOPORRIT04252_000_034","只要是稀奇的東西他都喜歡，
-所以我才想著一定要把 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也介紹給他！"
+所以我才想著一定要把<Highlight>ObjectParameter(1)</Highlight>你也介紹給他！"
 66,"TEXT_AKTKZE013_04252_GOINGMYWAY_000_035","我聽說了，你就是來自亞伊太利斯的冒險者吧。
 歡迎你來到月球。"
 67,"TEXT_AKTKZE013_04252_GOINGMYWAY_000_036","我也和你一樣，是個渴望旅行和刺激的冒險者。

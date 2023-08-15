@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CLSPGL300_00567_SEQ_00","格鬥家公會的哈蒙想要與變強的冒險者一同修行。"
-1,"TEXT_CLSPGL300_00567_SEQ_01","因為獨自一人的修行是存在極限的，所以哈蒙想要與冒險者一同修行。前往撒溝厲沙漠的遺忘綠洲，與哈蒙會合。"
+1,"TEXT_CLSPGL300_00567_SEQ_01","因為獨自一人的修行是存在極限的，所以哈蒙想要與冒險者一同修行。前往撒溝厲沙漠的遺忘綠洲，與哈蒙匯合。"
 2,"TEXT_CLSPGL300_00567_SEQ_02","在與哈蒙交手前做一下熱身運動，打倒5隻棲息在綠洲中的沙地巨蟲。"
 3,"TEXT_CLSPGL300_00567_SEQ_03","打倒了沙地巨蟲。向遺忘綠洲中的哈蒙報告。"
 4,"TEXT_CLSPGL300_00567_SEQ_04","哈蒙找回了自己曾經的力量。秋秋拓趕來說維格法爾終於來決一勝負了。前往烏爾達哈，與翠玉大街的維格法爾見面。"
@@ -53,7 +53,7 @@ int32,str,str
 每一個都設定在了危機重重的地方……
 但是，多虧如此，我也得到了不少鍛鍊！"
 49,"TEXT_CLSPGL300_00567_HAMON_000_4","我完全復活的時刻也快到了。
-我想與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 再過上兩招，最後找找感覺！"
+我想與<Highlight>ObjectParameter(1)</Highlight>再過上兩招，最後找找感覺！"
 50,"TEXT_CLSPGL300_00567_HAMON_000_6","地點就定在從前我前往修行過的撒溝厲沙漠！
 那裡的遺忘綠洲是性感的貓魅族聚居的村落……
 我們就在那進行最後的特訓吧。"
@@ -61,13 +61,13 @@ int32,str,str
 我在遺忘綠洲等著你。"
 52,"TEXT_CLSPGL300_00567_CHUCHUTO_000_15","這次我就留下來看家了。
 師父無論如何都希望能單獨和你去。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，加油啊！"
+<Highlight>ObjectParameter(1)</Highlight>，加油啊！"
 53,"TEXT_CLSPGL300_00567_HAMON_000_20","真懷念這一帶的景色啊。
 我曾在這一帶的沙漠中東奔西跑四處修行……
 沙子的觸感、沖涼的快感，還有女孩的笑容都還記憶猶新……"
 54,"TEXT_CLSPGL300_00567_HAMON_000_21","但是，只有技能的竅門我怎樣都回憶不起來。
 無論如何我都想要記起那個來……"
-55,"TEXT_CLSPGL300_00567_HAMON_000_22","為此， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，
+55,"TEXT_CLSPGL300_00567_HAMON_000_22","為此，<Highlight>ObjectParameter(1)</Highlight>啊，
 我恨不得立刻就與你過上兩招……
 但是，在那之前，我有一個任務想讓你完成。"
 56,"TEXT_CLSPGL300_00567_HAMON_000_23","那就是打倒5隻沙地巨蟲。
@@ -76,12 +76,12 @@ int32,str,str
 不過呢，我在你來之前就已經打倒過沙地巨蟲了！"
 58,"TEXT_CLSPGL300_00567_HAMON_000_26","哈哈哈！
 老頭子我領先一步啦！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也趕緊去吧！"
+<Highlight>ObjectParameter(1)</Highlight>，你也趕緊去吧！"
 59,"TEXT_CLSPGL300_00567_HAMON_000_30","去打倒五隻沙地巨蟲。
 我要看看你成長了多少。"
 60,"TEXT_CLSPGL300_00567_SYSTEM_000_1","要開始副本戰鬥嗎？"
 61,"TEXT_CLSPGL300_00567_HAMON_000_40","成功了！
-不愧是年輕的我……不，不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+不愧是年輕的我……不，不愧是<Highlight>ObjectParameter(1)</Highlight>！
 要想超過你還真是不容易呢！"
 62,"TEXT_CLSPGL300_00567_HAMON_000_43","但是，如果不回想起飽受痛苦也要堅持戰鬥的鬥志的話，
 是沒有辦法打倒維格法爾的！
@@ -93,12 +93,12 @@ int32,str,str
 65,"TEXT_CLSPGL300_00567_HAMON_000_51","無論受到怎樣的打擊，都不會屈服的精神。
 越是困難就越感到振奮的鬥魂。
 不論受到多少打擊，都要加倍奉還的勁頭！"
-66,"TEXT_CLSPGL300_00567_HAMON_000_52"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你。
+66,"TEXT_CLSPGL300_00567_HAMON_000_52","<Highlight>ObjectParameter(1)</Highlight>，謝謝你。
 在與你交手的過程中、在看了你戰鬥的身姿後……
 我全都回想起來了！"
-67,"TEXT_CLSPGL300_00567_CHUCHUTO_000_53","師父， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+67,"TEXT_CLSPGL300_00567_CHUCHUTO_000_53","師父，<Highlight>ObjectParameter(1)</Highlight>！
 維格法爾到烏爾達哈來尋找師父了！"
-68,"TEXT_CLSPGL300_00567_HAMON_000_55"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、秋秋拓，我們回烏爾達哈！
+68,"TEXT_CLSPGL300_00567_HAMON_000_55","<Highlight>ObjectParameter(1)</Highlight>、秋秋拓，我們回烏爾達哈！
 看我拳聖哈蒙如何讓維格法爾乘興而來，敗興而歸！"
 69,"TEXT_CLSPGL300_00567_WEGGFARR_000_60","怎麼樣了啊拳聖哈蒙！
 我也不是小孩了，要是你認輸逃跑的話，
@@ -111,7 +111,7 @@ int32,str,str
 72,"TEXT_CLSPGL300_00567_MOBAB_000_63","什麼？太棒了！
 那不是比鬥技場的對戰還要刺激嗎！"
 73,"TEXT_CLSPGL300_00567_WEGGFARR_000_64","哈哈哈！
-看來拳聖哈蒙也上了年紀啦！痴呆都越來越嚴重了啊。"
+看來拳聖哈蒙也上了年紀啦！癡呆都越來越嚴重了啊。"
 74,"TEXT_CLSPGL300_00567_WEGGFARR_000_65","那我們就開始吧。
 看我的大戰斧如何斬下你這老糊塗蟲的腦袋！"
 75,"TEXT_CLSPGL300_00567_HAMON_000_66","是不是很懷念啊？這與從前打倒你的是同樣的拳法。
@@ -143,7 +143,7 @@ int32,str,str
 92,"TEXT_CLSPGL300_00567_HAMON_000_96","我們回格鬥家公會了！
 凱旋而歸啊！"
 93,"TEXT_CLSPGL300_00567_RURUKUTA_000_99","這裡一點也沒變啊……"
-94,"TEXT_CLSPGL300_00567_HAMON_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，首先讓我向你道謝。
+94,"TEXT_CLSPGL300_00567_HAMON_000_100","<Highlight>ObjectParameter(1)</Highlight>，首先讓我向你道謝。
 多虧了你，我找回了曾經的鬥魂。"
 95,"TEXT_CLSPGL300_00567_HAMON_000_102","不僅如此，摯愛的弟子也回來了，
 秋秋拓也變得有精神了。"
@@ -155,10 +155,10 @@ int32,str,str
 要是覺得寂寞了，隨時歡迎你回來啊。"
 98,"TEXT_CLSPGL300_00567_HAMON_000_106","哈哈哈，年輕真是好啊。
 還有可以追逐未來、追逐夢想的活力！"
-99,"TEXT_CLSPGL300_00567_HAMON_000_107"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也是！
+99,"TEXT_CLSPGL300_00567_HAMON_000_107","<Highlight>ObjectParameter(1)</Highlight>也是！
 你的連續攻擊非常漂亮！
-我也非常期待 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的未來啊！"
-100,"TEXT_CLSPGL300_00567_HAMON_000_108","對了，作為承認 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的實力的證明，
+我也非常期待<Highlight>ObjectParameter(1)</Highlight>的未來啊！"
+100,"TEXT_CLSPGL300_00567_HAMON_000_108","對了，作為承認<Highlight>ObjectParameter(1)</Highlight>的實力的證明，
 我就將拳聖哈蒙的獨門技能傳授給你吧。"
 101,"TEXT_CLSPGL300_00567_HAMON_000_109","其名為破碎拳，運用拳腳壓倒並摧毀敵人。
 這是只有在猛豹形中才能施展的必殺技。"
@@ -168,7 +168,7 @@ int32,str,str
 103,"TEXT_CLSPGL300_00567_HAMON_000_112","但是我相信你一定能克服所有的困難，
 因為你已經習得了最強的連續攻擊啊。"
 104,"TEXT_CLSPGL300_00567_HAMON_000_113","勿嫉妒，休怨恨，忌自卑！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 只需相信自己的鬥魂，
+<Highlight>ObjectParameter(1)</Highlight>只需相信自己的鬥魂，
 活力不息，衝鋒不止！"
 105,"TEXT_CLSPGL300_00567_HAMON_000_114","我期待著你成為新的拳聖，
 名滿天下的那一天。"
@@ -193,7 +193,7 @@ int32,str,str
 124,"TEXT_CLSPGL300_00567_QIB_TODO_1","打倒大戰斧維格法爾一夥人！"
 125,"TEXT_CLSPGL300_00567_QIB_02_01_WEGGFARR_01","哈哈哈哈！給我殺！把他們都殺了！"
 126,"TEXT_CLSPGL300_00567_QIB_02_01_HAMON_01","維格法爾就交給我了！"
-127,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_01"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們負責收拾雜兵。"
+127,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_01","<Highlight>ObjectParameter(1)</Highlight>，我們負責收拾雜兵。"
 128,"TEXT_CLSPGL300_00567_QIB_02_01_CHUCHUTO_01","支援就交給我了！"
 129,"TEXT_CLSPGL300_00567_QIB_02_01_RURUKUTA_02","維格法爾……這傢伙連夥伴都殺……"
 130,"TEXT_CLSPGL300_00567_QIB_02_02_CHUCHUTO_01","他徹底瘋了啊！"
@@ -203,4 +203,4 @@ int32,str,str
 133,"TEXT_CLSPGL300_00567_QIB_02_03_WEGGFARR_02","但我要是殺了你寶貴的弟子呢？！
 我最討厭那種招人煩的小角色！"
 134,"TEXT_CLSPGL300_00567_QIB_02_03_HAMON_01","維格法爾啊，你的對手是我！"
-135,"TEXT_CLSPGL300_00567_QIB_02_03_CHUCHUTO_01"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！維格法爾來了！當心！"
+135,"TEXT_CLSPGL300_00567_QIB_02_03_CHUCHUTO_01","<Highlight>ObjectParameter(1)</Highlight>！維格法爾來了！當心！"

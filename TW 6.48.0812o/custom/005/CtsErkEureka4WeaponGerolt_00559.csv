@@ -14,14 +14,14 @@ int32,str,str
 這樣就算是大功告成了！"
 4,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_013","對了，在開始之前我先跟你囑咐一聲。
 在強化過一次武器後，
-就沒辦法利用幻想嵌寫器賦予能力了。"
+就沒法利用幻想嵌寫器賦予能力了。"
 5,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_014","不過要是等武器最終強化完成了的話，
 那還是可以再次賦予能力的。
 你就放心吧。"
 6,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_015","……我也說明得夠詳細的了。
 為了我能夠還債，順便強化你的武器，
 趕緊給我把需要的素材湊齊拿過來！"
-7,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_016","對「禁地兵裝．湧火」進行強化後，
+7,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_016","對「禁地兵裝·湧火」進行強化後，
 將暫時無法對其賦予副屬性。"
 8,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_017","不過，當完成所有豐水地帶的武器強化後，
 就可以再次賦予副屬性。"
@@ -50,7 +50,7 @@ int32,str,str
 22,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_001","強化<Sheet(Item,IntegerParameter(1),0)/>"
 23,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_003","強化<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>"
 24,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_002","取消"
-25,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_130","……喂，這個<Sheet(Item,IntegerParameter(1),0)/>，你不是裝備著嗎。
+25,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_130","……喂，這個<Sheet(Item,IntegerParameter(1),0)/>，你不是裝備著呢嗎。
 想要強化的話，先把武器卸下來再來找我。"
 26,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_140","……你是想要強化<Sheet(Item,IntegerParameter(1),0)/>吧？
 好吧，先讓我看看你有沒有準備好素材。"
@@ -123,7 +123,7 @@ int32,str,str
 嗚，怎麼感覺有一股熱淚盈眶……"
 58,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_336","嗯？和借據疊在一起的還有另外一張紙啊。
 這是……"
-59,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_337","帳、帳單？！
+59,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_337","帳、賬單？！
 而且還跟已還清債務的金額一模一樣？！"
 60,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_DRAKE_000_338","師父大人到底買了什麼啊？！"
 61,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_339","不是、沒有、那個、因為我閒暇的時候比較多，
@@ -152,7 +152,7 @@ int32,str,str
 總之先把它給我拿來再說！"
 71,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_055_370","要為武器賦予屬性之力，
 需要<Sheet(Item,24808,0)/>達到規定數量。"
-72,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_370","你這次可是找到了有意思的素材啊。
+72,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_370","你這回可是找到了有意思的素材啊。
 用這個就應該能給武器賦予屬性之力呢。"
 73,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_380","只不過要想賦予屬性之力的話，還需要<Value>IntegerParameter(1)</Value>個呢。
 趕緊去給我湊齊了，然後再說其他的。"
@@ -168,7 +168,7 @@ int32,str,str
 79,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A3_001_001","為<Sheet(Item,IntegerParameter(1),0)/>進行賦予"
 80,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A3_001_003","為<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>進行賦予"
 81,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A3_001_002","取消"
-82,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_410","……喂，這個<Sheet(Item,IntegerParameter(1),0)/>，你不是裝備著嗎。
+82,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_410","……喂，這個<Sheet(Item,IntegerParameter(1),0)/>，你不是裝備著呢嗎。
 想要賦予屬性之力的話，先把武器卸下來再來找我。"
 83,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_450","……喂，怎麼沒有<Sheet(Item,IntegerParameter(1),0)/>啊。
 我就順便跟劍一起給你賦予屬性之力吧。
@@ -192,9 +192,9 @@ int32,str,str
 92,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_520","這樣一來，
 你的搭檔在優雷卡這座島嶼上算得上是最強的武器了。"
 93,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_521","就算我這個天才用盡渾身解數
-也沒辦法再進一步為你的搭檔進行強化了。
+也沒法再進一步為你的搭檔進行強化了。
 所以你可要好好使用啊！"
-94,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q4_000_000","想瞭解什麼？"
+94,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q4_000_000","想了解什麼？"
 95,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A4_000_001","關於強化武器所需要的素材"
 96,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A4_000_002","關於提供<Sheet(Item,24808,0)/>"
 97,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A4_000_003","返回"

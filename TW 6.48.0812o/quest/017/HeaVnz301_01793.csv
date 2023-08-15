@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ301_01793_SEQ_00","自由腦窟穴的啥都吃正在遙望南方。"
-1,"TEXT_HEAVNZ301_01793_SEQ_01","啥都吃委託冒險者去撿<Sheet(EventItem,2001620,0)/>。在龍堡參天高地的阿瓦隆尼亞古陸獲得4塊<Sheet(EventItem,2001620,0)/>。"
+1,"TEXT_HEAVNZ301_01793_SEQ_01","啥都吃委託冒險者去撿<Sheet(EventItem,2001620,0)/>。在龍堡參天高地的阿瓦隆尼亞古陸獲取4塊<Sheet(EventItem,2001620,0)/>。"
 2,"TEXT_HEAVNZ301_01793_SEQ_02","獲得了<Sheet(EventItem,2001620,0)/>。將<Sheet(EventItem,2001620,0)/>交給自由腦窟穴的啥都吃。"
 3,"TEXT_HEAVNZ301_01793_SEQ_03","將<Sheet(EventItem,2001620,0)/>交給了啥都吃。該<Sheet(EventItem,2001620,0)/>是用來製作骨頜族手槍用火藥的。"
 4,"TEXT_HEAVNZ301_01793_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ301_01793_SEQ_21",""
 22,"TEXT_HEAVNZ301_01793_SEQ_22",""
 23,"TEXT_HEAVNZ301_01793_SEQ_23",""
-24,"TEXT_HEAVNZ301_01793_TODO_00","獲得<Sheet(EventItem,2001620,0)/>"
+24,"TEXT_HEAVNZ301_01793_TODO_00","獲取<Sheet(EventItem,2001620,0)/>"
 25,"TEXT_HEAVNZ301_01793_TODO_01","將<Sheet(EventItem,2001620,0)/>交給啥都吃"
 26,"TEXT_HEAVNZ301_01793_TODO_02",""
 27,"TEXT_HEAVNZ301_01793_TODO_03",""

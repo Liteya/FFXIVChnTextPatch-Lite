@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_HEAVNZ020_01745_SEQ_00","隼巢的雷德沃爾德正在尋找能接下調查任務的人。"
 1,"TEXT_HEAVNZ020_01745_SEQ_01","和雷德沃爾德進行了對話。在隼巢搜集關於最近的神秘急性病的情報。"
 2,"TEXT_HEAVNZ020_01745_SEQ_02","在隼巢搜集到了情報。向隼巢的雷德沃爾德報告。"
-3,"TEXT_HEAVNZ020_01745_SEQ_03","向雷德沃爾德報告完畢。向隼巢的烹調師努瓦爾特雷爾瞭解詳情。"
+3,"TEXT_HEAVNZ020_01745_SEQ_03","向雷德沃爾德報告完畢。向隼巢的烹調師努瓦爾特雷爾了解詳情。"
 4,"TEXT_HEAVNZ020_01745_SEQ_04","據努瓦爾特雷爾說，有可能是在紅酒裡被下了藥。和隼巢飛艇坪的悠閒的酒保商人談談。"
 5,"TEXT_HEAVNZ020_01745_SEQ_05","據悠閒的酒保商人說，和前幾天的菜餚一起供應的酒的空瓶就在這附近。獲得隼巢飛艇坪的<Sheet(EventItem,2001737,0)/>。"
 6,"TEXT_HEAVNZ020_01745_SEQ_06","獲得了<Sheet(EventItem,2001737,0)/>。將<Sheet(EventItem,2001737,0)/>交給隼巢的努瓦爾特雷爾。"
@@ -29,7 +29,7 @@ int32,str,str
 25,"TEXT_HEAVNZ020_01745_TODO_01","向雷德沃爾德報告"
 26,"TEXT_HEAVNZ020_01745_TODO_02","和努瓦爾特雷爾對話"
 27,"TEXT_HEAVNZ020_01745_TODO_03","和悠閒的酒保商人對話"
-28,"TEXT_HEAVNZ020_01745_TODO_04","獲得<Sheet(EventItem,2001737,0)/>"
+28,"TEXT_HEAVNZ020_01745_TODO_04","獲取<Sheet(EventItem,2001737,0)/>"
 29,"TEXT_HEAVNZ020_01745_TODO_05","將<Sheet(EventItem,2001737,0)/>交給努瓦爾特雷爾"
 30,"TEXT_HEAVNZ020_01745_TODO_06","將<Sheet(EventItem,2001738,0)/>交給雷德沃爾德"
 31,"TEXT_HEAVNZ020_01745_TODO_07",""
@@ -49,16 +49,16 @@ int32,str,str
 45,"TEXT_HEAVNZ020_01745_TODO_21",""
 46,"TEXT_HEAVNZ020_01745_TODO_22",""
 47,"TEXT_HEAVNZ020_01745_TODO_23",""
-48,"TEXT_HEAVNZ020_01745_REDWALD_000_000","是 <Highlight>ObjectParameter(1)</Highlight> 閣下啊。
+48,"TEXT_HEAVNZ020_01745_REDWALD_000_000","是<Highlight>ObjectParameter(1)</Highlight>閣下啊。
 之前真是有勞你了。
 其實，我們這裡又發生了些麻煩的事情……"
 49,"TEXT_HEAVNZ020_01745_REDWALD_000_001","最近在要塞裡工作的人都因為原因不明的急病倒下了。
 如果只是普通的感冒還無所謂，但我總有些不好的預感。"
 50,"TEXT_HEAVNZ020_01745_REDWALD_000_002","我想調查一下情況，可是人手不夠。
- <Highlight>ObjectParameter(1)</Highlight> 閣下，你能不能和要塞裡的人探聽消息，
+<Highlight>ObjectParameter(1)</Highlight>閣下，你能不能和要塞裡的人探聽消息，
 幫我搜集相應的情報？"
 51,"TEXT_HEAVNZ020_01745_REDWALD_000_013","最近在要塞裡工作的人都因為原因不明的急病倒下了。
- <Highlight>ObjectParameter(1)</Highlight> 閣下，你能不能和要塞裡的人探聽消息，
+<Highlight>ObjectParameter(1)</Highlight>閣下，你能不能和要塞裡的人探聽消息，
 幫我搜集相應的情報？"
 52,"TEXT_HEAVNZ020_01745_TOURCENET_000_010","……關於急病的狀況？
 這樣說來，我記得我的朋友也是吃完飯後肚子就出問題了……
@@ -66,7 +66,7 @@ int32,str,str
 53,"TEXT_HEAVNZ020_01745_EMERISSEL_000_011","你正在調查最近生病的人身邊的情況？
 其實我的哥哥也是從昨天晚上開始就一直躺著休息……
 難得有機會我們一起坐下來吃頓飯，正在興頭上呢……"
-54,"TEXT_HEAVNZ020_01745_SOUBINIE_000_012","……欸，啊，關於最近的流行病？
+54,"TEXT_HEAVNZ020_01745_SOUBINIE_000_012","……誒，啊，關於最近的流行病？
 我的同事也得了病在休息……他口味比較重……
 我在想他是不是喝了清淡的湯所以不適應了……"
 55,"TEXT_HEAVNZ020_01745_TOURCENET_000_024","這樣說來，我記得我的朋友也是吃完飯後肚子就出問題了……
@@ -98,7 +98,7 @@ int32,str,str
 那些東西應該還留在村落南邊的飛空艇搭乘點。"
 68,"TEXT_HEAVNZ020_01745_HOKYUKAN01745_000_040","嗯，你在找酒瓶？
 如果是昨晚的那些，應該就放在周圍。
-再以前的東西應該已經被人收走了，肯定找不到的。"
+再以前的東西估計已經被人收走了，肯定找不到的。"
 69,"TEXT_HEAVNZ020_01745_HOKYUKAN01745_000_053","如果要找昨晚的酒瓶，應該就放在對面那邊。
 可是你要那些已經倒空了的酒瓶來做什麼？"
 70,"TEXT_HEAVNZ020_01745_NOIRTEREL_000_050","怎麼樣？你找來酒瓶了嗎？！"
@@ -114,7 +114,7 @@ int32,str,str
 74,"TEXT_HEAVNZ020_01745_REDWALD_000_060","怎麼樣？努瓦爾特雷爾都說了什麼？"
 75,"TEXT_HEAVNZ020_01745_REDWALD_000_061","什麼，紅酒就是急病的原因嗎？！
 可惡，這是被人下了毒嗎！"
-76,"TEXT_HEAVNZ020_01745_REDWALD_000_062","我要感謝你， <Highlight>ObjectParameter(1)</Highlight> 閣下。
+76,"TEXT_HEAVNZ020_01745_REDWALD_000_062","我要感謝你，<Highlight>ObjectParameter(1)</Highlight>閣下。
 多虧了你我們才找出了問題所在。
 好，那麼接下來要做的事情就只有一件了……"
 77,"TEXT_HEAVNZ020_01745_FALCONSNESTA01745_000_010","（★未使用／削除予定★）"

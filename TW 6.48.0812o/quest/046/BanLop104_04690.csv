@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANLOP104_04690_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-希望的貨艙的營運威遇上了麻煩事。"
+希望的貨艙的運營威遇上了麻煩事。"
 1,"TEXT_BANLOP104_04690_SEQ_01",""
 2,"TEXT_BANLOP104_04690_SEQ_02",""
 3,"TEXT_BANLOP104_04690_SEQ_03",""
@@ -31,7 +31,7 @@ int32,str,str
 24,"TEXT_BANLOP104_04690_TODO_00","和最佳威兔洞的舞星威對話"
 25,"TEXT_BANLOP104_04690_TODO_01","對舞星威做跳舞的情感動作"
 26,"TEXT_BANLOP104_04690_TODO_02","再次對舞星威做跳舞的情感動作"
-27,"TEXT_BANLOP104_04690_TODO_03","向營運威報告"
+27,"TEXT_BANLOP104_04690_TODO_03","向運營威報告"
 28,"TEXT_BANLOP104_04690_TODO_04",""
 29,"TEXT_BANLOP104_04690_TODO_05",""
 30,"TEXT_BANLOP104_04690_TODO_06",""
@@ -52,15 +52,15 @@ int32,str,str
 45,"TEXT_BANLOP104_04690_TODO_21",""
 46,"TEXT_BANLOP104_04690_TODO_22",""
 47,"TEXT_BANLOP104_04690_TODO_23",""
-48,"TEXT_BANLOP104_04690_MANAGINGWAY_000_001","受到音樂臺的音樂啟發之後，
+48,"TEXT_BANLOP104_04690_MANAGINGWAY_000_001","受到音樂台的音樂啟發之後，
 喜歡跳舞的舞星威開始找人鬥舞了。
 他的夢想似乎是成為月球第一舞蹈家。"
 49,"TEXT_BANLOP104_04690_MANAGINGWAY_000_002","話雖如此，很少有兔兔族能理解人類文化中的舞蹈，
 他正在因為沒有能一決勝負的對手而十分困擾。
-所以……該你登場了！ <Highlight>ObjectParameter(1)</Highlight> 大人！"
+所以……該你登場了！<Highlight>ObjectParameter(1)</Highlight>大人！"
 50,"TEXT_BANLOP104_04690_MANAGINGWAY_000_003","（★未使用／削除予定★）"
 51,"TEXT_BANLOP104_04690_MANAGINGWAY_000_004","（★未使用／削除予定★）"
-52,"TEXT_BANLOP104_04690_MANAGINGWAY_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！非常抱歉打擾你！
+52,"TEXT_BANLOP104_04690_MANAGINGWAY_000_005","<Highlight>ObjectParameter(1)</Highlight>大人！非常抱歉打擾你！
 想要成為月球第一舞蹈家的舞星威
 希望能再次向你發起挑戰。"
 53,"TEXT_BANLOP104_04690_MANAGINGWAY_000_006","為了他的夢想，
@@ -79,7 +79,7 @@ int32,str,str
 59,"TEXT_BANLOP104_04690_SHAKINGWAY_000_014","哇……人類！
 我一直在等你呢！
 報仇！讓我報仇雪恨的時候來了！"
-60,"TEXT_BANLOP104_04690_SHAKINGWAY_000_015","那麼，我們就在音樂臺開始鬥舞吧！
+60,"TEXT_BANLOP104_04690_SHAKINGWAY_000_015","那麼，我們就在音樂台開始鬥舞吧！
 我先去那邊等你！"
 61,"TEXT_BANLOP104_04690_SHAKINGWAY_000_020","嘿！喲！人類你有什麼理由！
 站著不動發抖！
@@ -110,12 +110,12 @@ int32,str,str
 人類的<Switch(PlayerParameter(71))><Case(1)>魅力</Case><Case(2)>優雅</Case><Case(3)>敏捷</Case><Case(4)>可愛</Case><Case(5)>剛毅</Case><Case(6)>美麗</Case><Case(7)>穩重</Case><Case(8)>神秘</Case></Switch>在這一瞬間就全展現出來了！"
 73,"TEXT_BANLOP104_04690_SHAKINGWAY_000_034","這到底是怎麼回事，心裡的不爽全都消失了，
 好像有一種勇氣充滿了全身……"
-74,"TEXT_BANLOP104_04690_SHAKINGWAY_000_035","我跳的舞實在是沒辦法與你相比……
+74,"TEXT_BANLOP104_04690_SHAKINGWAY_000_035","我跳的舞實在是沒法與你相比……
 嗚嗚！我承認了！是我輸了！"
 75,"TEXT_BANLOP104_04690_SHAKINGWAY_000_036","不過你給我聽好了！我這不是說我要放棄舞蹈夢想的意思！
 我會繼續特訓！早晚有一天超過你！報仇雪恨！
 你給我記著啊！！"
-76,"TEXT_BANLOP104_04690_MANAGINGWAY_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，歡迎回來。
+76,"TEXT_BANLOP104_04690_MANAGINGWAY_000_040","<Highlight>ObjectParameter(1)</Highlight>大人，歡迎回來。
 我看舞星威剛才哭著跑遠了，
 看來鬥舞的獲勝者是你吧？"
 77,"TEXT_BANLOP104_04690_MANAGINGWAY_000_041","他說會復仇？

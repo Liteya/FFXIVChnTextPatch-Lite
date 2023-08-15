@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_STMBDZ105_02655_SEQ_00","阿拉加納的拉加恩弗里德有事想要委託給冒險者。"
 1,"TEXT_STMBDZ105_02655_SEQ_01","拉加恩弗里德委託冒險者和村裡的原鑿石匠見面。和阿拉加納的塞伊亞交談。"
 2,"TEXT_STMBDZ105_02655_SEQ_02","和塞伊亞進行了交談。他呼籲奪回採石場，但苦於沒有人幫他。再次和阿拉加納的塞伊亞談談。"
-3,"TEXT_STMBDZ105_02655_SEQ_03","再次和塞伊亞進行了交談。為證明已經奪回採石場，從基拉巴尼亞山區睡石礦場的<Sheet(BNpcName,5707,0)/>身上獲得2個<Sheet(EventItem,2002205,0)/>。"
+3,"TEXT_STMBDZ105_02655_SEQ_03","再次和塞伊亞進行了交談。為證明已經奪回採石場，從基拉巴尼亞山區睡石礦場的<Sheet(BNpcName,5707,0)/>身上獲取2個<Sheet(EventItem,2002205,0)/>。"
 4,"TEXT_STMBDZ105_02655_SEQ_04","獲得了<Sheet(EventItem,2002205,0)/>。將<Sheet(EventItem,2002205,0)/>交給阿拉加納的塞伊亞。"
 5,"TEXT_STMBDZ105_02655_SEQ_05","將<Sheet(EventItem,2002205,0)/>交給了塞伊亞。這能夠激發村民的鬥志嗎？"
 6,"TEXT_STMBDZ105_02655_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDZ105_02655_SEQ_23",""
 24,"TEXT_STMBDZ105_02655_TODO_00","和塞伊亞對話"
 25,"TEXT_STMBDZ105_02655_TODO_01","再次和塞伊亞對話"
-26,"TEXT_STMBDZ105_02655_TODO_02","從<Sheet(BNpcName,5707,0)/>身上獲得<Sheet(EventItem,2002205,0)/>"
+26,"TEXT_STMBDZ105_02655_TODO_02","從<Sheet(BNpcName,5707,0)/>身上獲取<Sheet(EventItem,2002205,0)/>"
 27,"TEXT_STMBDZ105_02655_TODO_03","將<Sheet(EventItem,2002205,0)/>交給塞伊亞"
 28,"TEXT_STMBDZ105_02655_TODO_04",""
 29,"TEXT_STMBDZ105_02655_TODO_05",""
@@ -69,7 +69,7 @@ int32,str,str
 55,"TEXT_STMBDZ105_02655_SAYER_000_010","看來人來得也差不多了……
 鄉親們，請聽我說！
 你們究竟要忍受貧窮到什麼時候？"
-56,"TEXT_STMBDZ105_02655_SAYER_100_010","年輕人可能並不瞭解，
+56,"TEXT_STMBDZ105_02655_SAYER_100_010","年輕人可能並不了解，
 但這座村子曾經靠採石業，獲得了繁榮！
 如果大家能像當年那樣在採石場工作，肯定能再次過上好日子！"
 57,"TEXT_STMBDZ105_02655_CARLE_000_011","哎，又來了……
@@ -96,11 +96,11 @@ int32,str,str
 66,"TEXT_STMBDZ105_02655_SAYER_000_019","我就是鑿石匠塞伊亞。
 原來如此，是從拉加恩弗里德那裡聽說的啊……
 先前講話太過專注，沒注意到你不是村子裡的人。"
-67,"TEXT_STMBDZ105_02655_SAYER_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是吧？
+67,"TEXT_STMBDZ105_02655_SAYER_000_020","<Highlight>ObjectParameter(1)</Highlight>是吧？
 原來你就是拯救瓦克拉塔的人啊。
 嗯，你的眼神看起來很堅定，看不到一絲消極情緒。"
 68,"TEXT_STMBDZ105_02655_SAYER_000_021","既然這樣，那就聽我說說吧……
-你一定會瞭解到，我的觀點並沒有錯。"
+你一定會了解到，我的觀點並沒有錯。"
 69,"TEXT_STMBDZ105_02655_SAYER_000_030","這座村子，因為採石業而得到發展。
 從這裡採集到的石材以美觀和堅固著稱，
 甚至被用於建造阿拉米格王宮，可謂極富盛名。"

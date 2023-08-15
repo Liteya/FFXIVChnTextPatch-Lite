@@ -67,7 +67,7 @@ int32,str,str
 54,"TEXT_STMBDZ992_02886_GUNDOBALD_000_006","先把<Sheet(EventItem,2002384,0)/>交給你。
 把這個交給博特里阿娜，商量弔喪的方式吧。
 深藍色的制服就由我繼續保管。"
-55,"TEXT_STMBDZ992_02886_BERTLIANA_000_010","是曾經幫助威爾雷德的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+55,"TEXT_STMBDZ992_02886_BERTLIANA_000_010","是曾經幫助威爾雷德的<Highlight>ObjectParameter(1)</Highlight>吧？
 你手中的劍，
 莫非是……"
 56,"TEXT_STMBDZ992_02886_BERTLIANA_000_011","果然是<Sheet(EventItem,2002384,0)/>……
@@ -168,7 +168,7 @@ int32,str,str
 我一直在解放軍參加戰鬥，
 但從未見過像你這樣勇猛的人。"
 103,"TEXT_STMBDZ992_02886_PASSIONATESOLDIER02887_000_049","第一批人員中，有不少能戰鬥的人。
-我很高興能瞭解到路上的情況。
+我很高興能了解到路上的情況。
 真是有勞你了！"
 104,"TEXT_STMBDZ992_02886_ANXIOUSMAN02887_000_050","好不容易可以回家了，
 卻還擔心這擔心那……
@@ -183,9 +183,9 @@ int32,str,str
 能回到阿拉米格就已經讓我很興奮了。
 所以，無論變成什麼樣，我都會接受的。"
 108,"TEXT_STMBDZ992_02886_PASSIONATESOLDIER02887_000_054","第一批人員中，有不少能戰鬥的人。
-我很高興能瞭解到路上的情況。
+我很高興能了解到路上的情況。
 真是有勞你了！"
-109,"TEXT_STMBDZ992_02886_BERTLIANA_000_055"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+109,"TEXT_STMBDZ992_02886_BERTLIANA_000_055","<Highlight>ObjectParameter(1)</Highlight>，
 一路上請多關照！"
 110,"TEXT_STMBDZ992_02886_GUNDOBALD_000_060","看來，已經交流得差不多了啊。
 這下可以放心地出發了。"

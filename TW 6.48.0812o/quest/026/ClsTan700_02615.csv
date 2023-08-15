@@ -9,7 +9,7 @@ int32,str,str
 5,"TEXT_CLSTAN700_02615_SEQ_05","和阿特魯納進行了交談。從阿特魯納那裡接受了製作重現三翎迦迦納怪鳥毛皮的<Sheet(ItemHQ,17916,0)/>的委託。用<Sheet(Item,17915,0)/>製作<Sheet(ItemHQ,17916,0)/>，並將其交給製革匠公會附近的艾尼恩。
 
 ※如果<Sheet(Item,17915,0)/>不足，可以與阿特魯納對話重新獲得材料，並再次進行挑戰。"
-6,"TEXT_CLSTAN700_02615_SEQ_06","將<Sheet(ItemHQ,17916,0)/>交給了艾尼恩。展覽會順利舉辦了，大家成功說服了馬默杜克，同時對格里達尼亞的人們進行了教育。阿特魯納對製作了標本的冒險者和艾尼恩表示了感謝。今後，艾尼恩會留在製革匠公會磨鍊製革的手藝，阿特魯納則會踏上週遊世界之旅。冒險者看到擺在格里達尼亞的標本就會想起阿特魯納的教育，決定今後也以一名製革匠的身份大顯身手。"
+6,"TEXT_CLSTAN700_02615_SEQ_06","將<Sheet(ItemHQ,17916,0)/>交給了艾尼恩。展覽會順利舉辦了，大家成功說服了馬默杜克，同時對格里達尼亞的人們進行了教育。阿特魯納對製作了標本的冒險者和艾尼恩表示了感謝。今後，艾尼恩會留在製革匠公會磨鍊製革的手藝，阿特魯納則會踏上週游世界之旅。冒險者看到擺在格里達尼亞的標本就會想起阿特魯納的教育，決定今後也以一名製革匠的身份大顯身手。"
 7,"TEXT_CLSTAN700_02615_SEQ_07","（★未使用／削除予定★）"
 8,"TEXT_CLSTAN700_02615_SEQ_08",""
 9,"TEXT_CLSTAN700_02615_SEQ_09",""
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSTAN700_02615_TODO_21",""
 46,"TEXT_CLSTAN700_02615_TODO_22",""
 47,"TEXT_CLSTAN700_02615_TODO_23",""
-48,"TEXT_CLSTAN700_02615_ATELLOUNE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了。
+48,"TEXT_CLSTAN700_02615_ATELLOUNE_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來了。
 自那之後，我好幾次去找那法師讓他把標本還給我們，
 但是人家根本不聽……真是個油鹽不進的糟老頭子……"
 49,"TEXT_CLSTAN700_02615_ATELLOUNE_100_000","看來只有按照蓋娃說的那樣了，
@@ -67,12 +67,12 @@ int32,str,str
 53,"TEXT_CLSTAN700_02615_ATELLOUNE_100_003","只不過，我有點擔心……
 有可能會讓你們兩個白跑一趟……"
 54,"TEXT_CLSTAN700_02615_ENION_000_004","雖然我不太清楚是怎麼回事，不過我們還是先去找找看吧！
- <Highlight>ObjectParameter(1)</Highlight> ，我們現在就出發，
+<Highlight>ObjectParameter(1)</Highlight>，我們現在就出發，
 去那裡打聽一下有關三翎迦迦納怪鳥的事吧。"
 55,"TEXT_CLSTAN700_02615_ENION_000_005","迦迦納怪鳥大多棲息在基拉巴尼亞邊區是吧，
 那我就先去帝國東方堡收集情報了！"
 56,"TEXT_CLSTAN700_02615_ENION_000_000","辛辛苦苦做好的標本……"
-57,"TEXT_CLSTAN700_02615_ENION_000_010","辛苦了， <Highlight>ObjectParameter(1)</Highlight> 。
+57,"TEXT_CLSTAN700_02615_ENION_000_010","辛苦了，<Highlight>ObjectParameter(1)</Highlight>。
 不過……我要通知你一個壞消息。"
 58,"TEXT_CLSTAN700_02615_ENION_000_011","我找到了一個對三翎迦迦納怪鳥很熟悉的人，
 於是便從對方那裡打聽到了很多消息，
@@ -80,7 +80,7 @@ int32,str,str
 59,"TEXT_CLSTAN700_02615_ENION_100_012","聽說三翎迦迦納怪鳥毛皮的品質
 在迦迦納怪鳥之中也是出類拔萃的。"
 60,"TEXT_CLSTAN700_02615_ENION_100_013","第七靈災過後，出於不安，
-想要透過購買品質更高的物品來保護自己的人劇增……
+想要通過購買品質更高的物品來保護自己的人劇增……
 三翎迦迦納怪鳥相關的特需高居不下，以至於很多人濫捕濫殺。"
 61,"TEXT_CLSTAN700_02615_ENION_100_014","然後就在幾年前，三翎迦迦納怪鳥終於不見了……
 雖然不清楚是不是滅絕了，
@@ -91,7 +91,7 @@ int32,str,str
 63,"TEXT_CLSTAN700_02615_Q1_100_000","對艾尼恩說什麼？"
 64,"TEXT_CLSTAN700_02615_A1_100_001","想想別的辦法吧"
 65,"TEXT_CLSTAN700_02615_A1_100_002","你還打聽到了什麼？"
-66,"TEXT_CLSTAN700_02615_A1_100_003","…………"
+66,"TEXT_CLSTAN700_02615_A1_100_003","……"
 67,"TEXT_CLSTAN700_02615_ENION_100_020","既然它們都已經消失不見了，那我們也沒別的辦法可想。
 這附近只有普通的迦迦納怪鳥……
 啊，我想想……這麼說的話……"
@@ -105,19 +105,19 @@ int32,str,str
 三翎迦迦納怪鳥和普通的迦迦納怪鳥相比，
 毛色要豔麗得多。"
 71,"TEXT_CLSTAN700_02615_ENION_100_031","不過，反過來說，這也是唯一明顯的不同了。
-如果依靠 <Highlight>ObjectParameter(1)</Highlight> 的手藝，說不定可以
+如果依靠<Highlight>ObjectParameter(1)</Highlight>的手藝，說不定可以
 用普通的迦迦納怪鳥重現三翎迦迦納怪鳥的毛皮！"
-72,"TEXT_CLSTAN700_02615_ENION_100_032"," <Highlight>ObjectParameter(1)</Highlight> ，雖然這個要求很強人所難，
+72,"TEXT_CLSTAN700_02615_ENION_100_032","<Highlight>ObjectParameter(1)</Highlight>，雖然這個要求很強人所難，
 但我還是希望你能重現三翎迦迦納怪鳥的毛皮！
 我也會……傾盡全力去製作標本的！！"
-73,"TEXT_CLSTAN700_02615_ENION_100_033","謝謝你， <Highlight>ObjectParameter(1)</Highlight> ！
+73,"TEXT_CLSTAN700_02615_ENION_100_033","謝謝你，<Highlight>ObjectParameter(1)</Highlight>！
 有你這麼厲害的製革匠幫忙真是太好了！"
 74,"TEXT_CLSTAN700_02615_ENION_100_034","既然如此，我現在要做的事就只有一件……
 那就是去迦迦納怪鳥棲息的無垢乾谷
 觀察活生生的迦迦納怪鳥！"
 75,"TEXT_CLSTAN700_02615_ATELLOUNE_000_015","我要準備展覽會的事，
 你和艾尼恩一起去基拉巴尼亞邊區吧。"
-76,"TEXT_CLSTAN700_02615_ENION_000_020","啊， <Highlight>ObjectParameter(1)</Highlight> ！
+76,"TEXT_CLSTAN700_02615_ENION_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>！
 我已經親眼觀察過迦迦納怪鳥了。
 再等一下，我還想再稍微多看看！"
 77,"TEXT_CLSTAN700_02615_ATELLOUNE_000_025","（★未使用／削除予定★）"
@@ -125,13 +125,13 @@ int32,str,str
 79,"TEXT_CLSTAN700_02615_ENION_000_030","呼……我已經把迦迦納怪鳥充滿活力的樣子記在心裡了！
 接下來只要準備好毛皮，
 我應該就可以製作出像樣的標本了。"
-80,"TEXT_CLSTAN700_02615_ENION_000_031","那個…… <Highlight>ObjectParameter(1)</Highlight> ，
+80,"TEXT_CLSTAN700_02615_ENION_000_031","那個……<Highlight>ObjectParameter(1)</Highlight>，
 我們真的可以再繼續做標本吧……
 哪怕會違背法師大人的命令……"
 81,"TEXT_CLSTAN700_02615_Q1_000_000","要說什麼？"
 82,"TEXT_CLSTAN700_02615_A1_000_001","肯定不要緊的"
 83,"TEXT_CLSTAN700_02615_A1_000_002","你要逃嗎？"
-84,"TEXT_CLSTAN700_02615_A1_000_003","…………"
+84,"TEXT_CLSTAN700_02615_A1_000_003","……"
 85,"TEXT_CLSTAN700_02615_ENION_000_032","說、說得是啊……
 阿特魯納小姐把我當成標本師，將工作交給了我，
 我也絕對不能辜負她對我的期待！"
@@ -144,7 +144,7 @@ int32,str,str
 88,"TEXT_CLSTAN700_02615_ENION_000_035","（★未使用／削除予定★）"
 89,"TEXT_CLSTAN700_02615_ENION_000_040","（★未使用／削除予定★）"
 90,"TEXT_CLSTAN700_02615_ENION_000_041","（★未使用／削除予定★）"
-91,"TEXT_CLSTAN700_02615_ATELLOUNE_000_060","你回來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。我聽說三翎迦迦納怪鳥現在已經消失了，
+91,"TEXT_CLSTAN700_02615_ATELLOUNE_000_060","你回來啦，<Highlight>ObjectParameter(1)</Highlight>。我聽說三翎迦迦納怪鳥現在已經消失了，
 我之前因為這幾年沒人見過它們而感到擔心……"
 92,"TEXT_CLSTAN700_02615_ATELLOUNE_100_060","抱歉了，還是讓你們白跑了一趟。
 真希望能用某種形式把它們的痕跡留下來……
@@ -158,24 +158,24 @@ int32,str,str
 你就用這個製作
 能重現三翎迦迦納怪鳥毛皮的<Sheet(ItemHQ,17916,0)/>吧！"
 96,"TEXT_CLSTAN700_02615_ATELLOUNE_000_062","做好之後就交給艾尼恩。
-在你做出高品質毛皮之前，我會安靜等著的，
+在你做出優質毛皮之前，我會安靜等著的，
 因為我對你的手藝很放心。"
 97,"TEXT_CLSTAN700_02615_ATELLOUNE_000_063","啊，要是你把<Sheet(Item,17915,0)/>弄丟了
 就老實跟我說，我會幫你想辦法的。
 隱瞞自己的失敗是最不可取的做法哦。"
-98,"TEXT_CLSTAN700_02615_ENION_000_065"," <Highlight>ObjectParameter(1)</Highlight> ，你回來啦！
+98,"TEXT_CLSTAN700_02615_ENION_000_065","<Highlight>ObjectParameter(1)</Highlight>，你回來啦！
 阿特魯納小姐已經將重現三翎迦迦納怪鳥毛皮
 所需要用到的粗皮準備好了！"
 99,"TEXT_CLSTAN700_02615_ENION_000_066","（★未使用／削除予定★）"
-100,"TEXT_CLSTAN700_02615_ENION_000_070"," <Highlight>ObjectParameter(1)</Highlight> ！
+100,"TEXT_CLSTAN700_02615_ENION_000_070","<Highlight>ObjectParameter(1)</Highlight>！
 那個，<Sheet(ItemHQ,17916,0)/>做好了嗎？"
 101,"TEXT_CLSTAN700_02615_ENION_000_071","這真是……太厲害了！
 和我之前聽說的三翎迦迦納怪鳥的毛皮一模一樣！！"
 102,"TEXT_CLSTAN700_02615_ENION_100_071","你居然能用毛皮品質完全不同的<Sheet(Item,17915,0)/>
-做出這種水準的作品！有這麼棒的東西當材料，我也絕不能失敗！
+做出這種水平的作品！有這麼棒的東西當材料，我也絕不能失敗！
 我一定會投入自己全部的技術來製作標本的！"
 103,"TEXT_CLSTAN700_02615_ATELLOUNE_000_072","居然真的重現了三翎迦迦納怪鳥極具特點的毛皮，
-不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+不愧是<Highlight>ObjectParameter(1)</Highlight>！"
 104,"TEXT_CLSTAN700_02615_ATELLOUNE_000_073","很好，那我就先去會場幫蓋娃，
 後面的事就交給你們了"
 105,"TEXT_CLSTAN700_02615_ATELLOUNE_000_074","（★未使用／削除予定★）"
@@ -187,7 +187,7 @@ int32,str,str
 馬上撤掉標本，停止展覽會！"
 108,"TEXT_CLSTAN700_02615_ATELLOUNE_000_082","吵什麼吵！！
 你這個假借元靈之威自大狂妄的膚淺老男人！"
-109,"TEXT_CLSTAN700_02615_ATELLOUNE_100_082","你一口咬定我們製作標本的事業是在譁眾取寵是吧，
+109,"TEXT_CLSTAN700_02615_ATELLOUNE_100_082","你一口咬定我們製作標本的事業是在嘩眾取寵是吧，
 好，我今天就給你，還有盲目聽從你的那些人好好講講，
 將瀕臨滅絕的物種留給後世的重大意義！"
 110,"TEXT_CLSTAN700_02615_ATELLOUNE_000_083","……你們看，這是重現了三翎迦迦納怪鳥的標本。
@@ -204,24 +204,24 @@ int32,str,str
 只不過我覺得，記住這些動物曾經生活在世界上，
 也是活在當下、接受動物們恩惠的人們應該履行的職責。"
 115,"TEXT_CLSTAN700_02615_ATELLOUNE_000_086","大家可以看這件用長頸駝革所做的衣服，
-這是由製革匠 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 製成的傑作。
+這是由製革匠<Highlight>ObjectParameter(1)</Highlight>製成的傑作。
 他們製革匠帶著對生命的感激之情，工作的時候絕不浪費任何皮革。"
 116,"TEXT_CLSTAN700_02615_ATELLOUNE_100_086","平時你們見到的可能只是加工過的皮革，
 但是不要忘記，在這些皮革的背後，
 還有那些給我們施惠的動物們。"
 117,"TEXT_CLSTAN700_02615_ATELLOUNE_000_087","傾聽元靈的聲音並尊敬森林的確是值得提倡的行為，
 可正因為我們平時就與動物的加工品打交道，
-我們才更想讓大家清楚地瞭解動物對我們的貢獻。"
+我們才更想讓大家清楚地了解動物對我們的貢獻。"
 118,"TEXT_CLSTAN700_02615_GUARD02615_000_088","就、就算是這樣，也沒必要把它們做成標本吧！
 要想知道它們是什麼動物，只要調查一下怎麼也……"
-119,"TEXT_CLSTAN700_02615_ATELLOUNE_000_088","那我問你，穿著高階長頸駝夾克的你，
+119,"TEXT_CLSTAN700_02615_ATELLOUNE_000_088","那我問你，穿著高級長頸駝夾克的你，
 至今為止有沒有調查過有關長頸駝的知識呢？！"
 120,"TEXT_CLSTAN700_02615_GUARD02615_000_089","這、這……"
 121,"TEXT_CLSTAN700_02615_ATELLOUNE_000_090","那個膚淺老男人也是一樣！
 你知道長頸駝和這種迦迦納怪鳥都生存在什麼地方，
 又是如何生活的嗎？！"
-122,"TEXT_CLSTAN700_02615_ATELLOUNE_100_090","我們製作標本絕不是在譁眾取寵！
-只是想創造一個契機，讓大家都來瞭解它們！"
+122,"TEXT_CLSTAN700_02615_ATELLOUNE_100_090","我們製作標本絕不是在嘩眾取寵！
+只是想創造一個契機，讓大家都來了解它們！"
 123,"TEXT_CLSTAN700_02615_GEVA_000_091","……法師大人，這樣您明白了吧？
 製作標本絕對不是為了玩耍。"
 124,"TEXT_CLSTAN700_02615_GEVA_000_092","人們平時並不會關注那些瀕臨滅絕的、被製成皮革的動物們……
@@ -246,7 +246,7 @@ int32,str,str
 會繼續借這個機會給你們上一堂特別課程的！"
 131,"TEXT_CLSTAN700_02615_ATELLOUNE_000_099","但是，在上特別課程之前……
 我要向大家介紹一下製作這個標本的標本師艾尼恩，
-還有艾奧傑亞數一數二的製革匠 <Highlight>ObjectParameter(1)</Highlight> ！"
+還有艾歐澤亞數一數二的製革匠<Highlight>ObjectParameter(1)</Highlight>！"
 132,"TEXT_CLSTAN700_02615_ATELLOUNE_000_110","我好久沒給這麼多人上過課了，
 講得有點投入。
 不過，感覺很多人都真的學了進去。"
@@ -261,7 +261,7 @@ int32,str,str
 自己能遇到像你們這樣的人真是太好了而已。"
 136,"TEXT_CLSTAN700_02615_GEVA_000_114","我也很難得能收穫那麼多的掌聲啊。
 這也代表了你們的標本和教育是有多成功了。"
-137,"TEXT_CLSTAN700_02615_ENION_000_115"," <Highlight>ObjectParameter(1)</Highlight> ……謝謝你！
+137,"TEXT_CLSTAN700_02615_ENION_000_115","<Highlight>ObjectParameter(1)</Highlight>……謝謝你！
 你幫了我那麼多，我真是給你添麻煩了。
 你就像我的<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>一樣，我真的很喜歡你！"
 138,"TEXT_CLSTAN700_02615_ENION_000_116","我要繼續留在格里達尼亞，
@@ -270,28 +270,28 @@ int32,str,str
 我一定親自嚴格地鍛鍊你。"
 140,"TEXT_CLSTAN700_02615_ENION_000_118","又來一個跟阿特魯納小姐一樣的人？！
 嗚哇……今後的日子不好過了。"
-141,"TEXT_CLSTAN700_02615_ATELLOUNE_000_119"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真的給你添了很多麻煩，
+141,"TEXT_CLSTAN700_02615_ATELLOUNE_000_119","<Highlight>ObjectParameter(1)</Highlight>，真的給你添了很多麻煩，
 我打從心底裡感謝你的幫助。"
 142,"TEXT_CLSTAN700_02615_ATELLOUNE_000_120","如果從今天開始，能有更多的人對動物感興趣的話，
 應該就會有更多人懂得尊重生命。"
-143,"TEXT_CLSTAN700_02615_ATELLOUNE_100_120","等我把這項事業的成果公布於眾之後，
+143,"TEXT_CLSTAN700_02615_ATELLOUNE_100_120","等我把這項事業的成果公佈於眾之後，
 世人對我的評價就會直線上升，我的大名也會轟動世界！
 我一定會成為一顆閃耀的博物學之星！"
 144,"TEXT_CLSTAN700_02615_ATELLOUNE_101_120","……咦，我沒說過嗎？
 我剛才上完那堂特殊課程之後，
 博物雜誌就約了我，想要刊登我的研究。"
-145,"TEXT_CLSTAN700_02615_ATELLOUNE_102_120","而且那個法師還說要去和嘉恩．艾大人建議，
+145,"TEXT_CLSTAN700_02615_ATELLOUNE_102_120","而且那個法師還說要去和嘉恩·艾大人建議，
 把博物雜誌加入元靈評議會的推薦書目裡。"
 146,"TEXT_CLSTAN700_02615_ATELLOUNE_103_120","最近一直專心弄標本，
 研究和編寫的事都交給馬爾塞特了，
 我差不多也得回歸本職工作了。"
-147,"TEXT_CLSTAN700_02615_ATELLOUNE_000_121","下次我決定不侷限在艾奧傑亞，也去東方走一走，
+147,"TEXT_CLSTAN700_02615_ATELLOUNE_000_121","下次我決定不局限在艾歐澤亞，也去東方走一走，
 讓我的研究變得更加完美！"
 148,"TEXT_CLSTAN700_02615_ATELLOUNE_100_121","如果我們都在世界上到處旅行的話，
 說不定……未來哪一天，我們還會再見。"
 149,"TEXT_CLSTAN700_02615_ATELLOUNE_000_122","到時候請務必再為我的研究出一份力哦。
 謝謝你……最棒的製革匠。"
-150,"TEXT_CLSTAN700_02615_ATELLOUNE_000_125"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，<Sheet(ItemHQ,17916,0)/>做得怎麼樣了？
+150,"TEXT_CLSTAN700_02615_ATELLOUNE_000_125","<Highlight>ObjectParameter(1)</Highlight>，<Sheet(ItemHQ,17916,0)/>做得怎麼樣了？
 如果做好了的話，就去拿給艾尼恩吧。"
 151,"TEXT_CLSTAN700_02615_ATELLOUNE_000_126","你還想要<Sheet(Item,17915,0)/>？
 ……唉，我真是太明智了。

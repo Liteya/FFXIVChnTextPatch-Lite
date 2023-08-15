@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你想中止這次人造元靈研究，
+0,"TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_000","<Highlight>ObjectParameter(1)</Highlight>，你想中止這次人造元靈研究，
 好好休息一段時間嗎？"
 1,"TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_000","中止這次研究嗎？"
 2,"TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_010","是、是嗎！！
@@ -17,9 +17,9 @@ int32,str,str
 6,"TEXT_JOBREL300QUESTLEAVE_00350_ARDASHIR_000_031","如果準備再次展開研究，就請來找我。"
 7,"TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_001","放棄任務「培育人造元靈」會導致人造元靈的屬性初始化。"
 8,"TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_002","即使以相同的職業再次領取任務，
-也不會重新退還當前的屬性。"
+也不會重新返還當前的屬性。"
 9,"TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_003","另外，在培育人造元靈過程中消耗的
-<Sheet(Item,15841,0)/>與<Sheet(Item,15840,0)/>也不會予以退還。"
+<Sheet(Item,15841,0)/>與<Sheet(Item,15840,0)/>也不會予以返還。"
 10,"TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_004","請認真考慮後再決定是否放棄任務「培育人造元靈」。"
 11,"TEXT_JOBREL300QUESTLEAVE_00350_Q1_000_010","真的要放棄任務「培育人造元靈」嗎？"
 12,"TEXT_JOBREL300QUESTLEAVE_00350_SYSTEM_000_010","取消了放棄任務的操作。"

@@ -7,8 +7,8 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 心神不安的漁人委託冒險者確認本應回到漁村的女兒是否平安。在紅玉海的酒杯島附近尋找正在前往漁村的潮海。"
-2,"TEXT_BANKJN001_02973_SEQ_02","找到了前往漁村的工匠潮海。她表示本應回到村裡分發的貨物被紅甲族劫走。救助她的甲人族為了奪回貨物而前去追趕紅甲族。為幫助他，和紅玉海獄之蓋戴著奇特頭盔的甲人族會合。"
-3,"TEXT_BANKJN001_02973_SEQ_03","和戴著奇特頭盔的甲人族會合，討伐了紅甲族襲擊者，取回了貨物。救助負傷的戴著奇特頭盔的甲人族。"
+2,"TEXT_BANKJN001_02973_SEQ_02","找到了前往漁村的工匠潮海。她表示本應回到村裡分發的貨物被紅甲族劫走。救助她的甲人族為了奪回貨物而前去追趕紅甲族。為幫助他，和紅玉海獄之蓋戴著奇特頭盔的甲人族匯合。"
+3,"TEXT_BANKJN001_02973_SEQ_03","和戴著奇特頭盔的甲人族匯合，討伐了紅甲族襲擊者，取回了貨物。救助負傷的戴著奇特頭盔的甲人族。"
 4,"TEXT_BANKJN001_02973_SEQ_04","救助了碧甲族武盔，隨後將取回的貨物交還了潮海。作為謝禮，武盔獲得了甲人族人偶。為接受武盔的謝禮，和紅玉海龜甲島的武盔交談。"
 5,"TEXT_BANKJN001_02973_SEQ_05","和武盔進行了交談，將人偶供奉在了碧甲族的寶物殿。然而，人偶竟動了起來，碧甲族見狀大為震驚，連稱「付喪神現身啦」。自稱為「付喪」的人偶聲稱要結成「碧玉尋寶眾」，並指名武盔為統領，還強行拉冒險者入夥。和武盔及付喪一同幫助碧甲族，讓寶物殿充滿寶物！"
 6,"TEXT_BANKJN001_02973_SEQ_06",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANKJN001_02973_SEQ_22",""
 23,"TEXT_BANKJN001_02973_SEQ_23",""
 24,"TEXT_BANKJN001_02973_TODO_00","尋找潮海"
-25,"TEXT_BANKJN001_02973_TODO_01","和戴著奇特頭盔的甲人族會合"
+25,"TEXT_BANKJN001_02973_TODO_01","和戴著奇特頭盔的甲人族匯合"
 26,"TEXT_BANKJN001_02973_TODO_02","救助戴著奇特頭盔的甲人族"
 27,"TEXT_BANKJN001_02973_TODO_03","和武盔對話"
 28,"TEXT_BANKJN001_02973_TODO_04","再次和武盔對話"
@@ -96,7 +96,7 @@ int32,str,str
 67,"TEXT_BANKJN001_02973_SHIHOUMI_000_019","襲擊我的紅甲族人多勢眾，
 他一個人根本打不過的！
 請您幫幫他吧！"
-68,"TEXT_BANKJN001_02973_POPMESSAGE_000_026","（★未使用／削除予定★）"
+68,"TEXT_BANKJN001_02973_POPMESSAGE_000_026","（★未使用／預定刪除★）"
 69,"TEXT_BANKJN001_02973_BALLOON_000_027","你以為你是誰？！"
 70,"TEXT_BANKJN001_02973_BALLOON_000_028","不會讓你得逞的！"
 71,"TEXT_BANKJN001_02973_BALLOON_000_029","滾開！"
@@ -122,27 +122,27 @@ int32,str,str
 84,"TEXT_BANKJN001_02973_KABUTO_000_041","(-武盔-)鄙人名為武盔……
 是住在碧玉水的碧甲族……"
 85,"TEXT_BANKJN001_02973_KABUTO_000_042","(-武盔-)對了，你叫什麼？"
-86,"TEXT_BANKJN001_02973_KABUTO_000_043","(-武盔-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+86,"TEXT_BANKJN001_02973_KABUTO_000_043","(-武盔-)<Highlight>ObjectParameter(1)</Highlight>閣下……
 鄙人銘記在心……"
-87,"TEXT_BANKJN001_02973_SHIHOUMI_000_044","武盔閣下，還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+87,"TEXT_BANKJN001_02973_SHIHOUMI_000_044","武盔閣下，還有<Highlight>ObjectParameter(1)</Highlight>閣下，
 請收下我的一點心意！"
 88,"TEXT_BANKJN001_02973_KABUTO_000_045","(-武盔-)等等……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 出手相救……
+<Highlight>ObjectParameter(1)</Highlight>出手相救……
 理應由鄙人來答謝……"
 89,"TEXT_BANKJN001_02973_SHIHOUMI_000_046","這怎麼可以……那至少，我要答謝武盔閣下！
 就從這些貨物裡拿走您喜歡的東西吧！
-雖然都是老舊之物……"
-90,"TEXT_BANKJN001_02973_KABUTO_000_047","(-武盔-)老舊之物？！"
+雖然都是古舊之物……"
+90,"TEXT_BANKJN001_02973_KABUTO_000_047","(-武盔-)古舊之物？！"
 91,"TEXT_BANKJN001_02973_SHIHOUMI_000_048","是，我還只是個學徒工，只買得起價格低廉的舊器物。
 儘管這樣，只要稍微修一修，村裡人也會很高興。
 希望有您喜歡的物件……"
 92,"TEXT_BANKJN001_02973_KABUTO_000_049","(-武盔-)這、這是什麼？！"
-93,"TEXT_BANKJN001_02973_SHIHOUMI_000_050","啊，這是個有些年代的機關人偶，也不知道製作者是什麼人。
+93,"TEXT_BANKJN001_02973_SHIHOUMI_000_050","啊，這是個有些年頭的機關人偶，也不知道製作者是什麼人。
 本身它是壞的，我覺得村裡的孩子們應該會喜歡，就把它修好了。"
 94,"TEXT_BANKJN001_02973_KABUTO_000_051","(-武盔-)那麼，鄙人就選它吧……"
 95,"TEXT_BANKJN001_02973_SHIHOUMI_000_052","這確實像是照著甲人族的樣子製作的人偶啊！
 如果您喜歡，就收下吧！"
-96,"TEXT_BANKJN001_02973_KABUTO_000_053","(-武盔-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+96,"TEXT_BANKJN001_02973_KABUTO_000_053","(-武盔-)<Highlight>ObjectParameter(1)</Highlight>閣下，
 接下來，該由鄙人答謝了……
 鄙人在碧玉水入口等你……"
 97,"TEXT_BANKJN001_02973_SHIHOUMI_000_054","雖然有點笨拙、沉默寡言，
@@ -150,7 +150,7 @@ int32,str,str
 98,"TEXT_BANKJN001_02973_SHIHOUMI_000_055","也謝謝您幫助。
 路上請小心。
 收拾好貨物後，我就前往漁村。"
-99,"TEXT_BANKJN001_02973_SHIHOUMI_000_059","（★未使用／削除予定★）"
+99,"TEXT_BANKJN001_02973_SHIHOUMI_000_059","（★未使用／預定刪除★）"
 100,"TEXT_BANKJN001_02973_KABUTO_000_060","……來了啊……"
 101,"TEXT_BANKJN001_02973_BUNCHIN_000_059","(-似曾相識的聲音-)喂，武盔！
 你是不是又違背指令，一個人去尋寶了啊——？"
@@ -158,26 +158,26 @@ int32,str,str
 我們又見面了——
 莫非你和武盔認識？"
 103,"TEXT_BANKJN001_02973_KABUTO_000_062","這位閣下拔刀相助，鄙人為答謝而特地邀請至此……
-沒想到，竟和長老熟人……
+沒想到，竟和長老相識……
 那鄙人就……先不打擾……"
 104,"TEXT_BANKJN001_02973_BUNCHIN_000_063","等等，武盔！
 都已經邀請過來了，
 你自己縮回去像什麼話——？"
-105,"TEXT_BANKJN001_02973_KABUTO_000_064","鄙人以為 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下和長老，
+105,"TEXT_BANKJN001_02973_KABUTO_000_064","鄙人以為<Highlight>ObjectParameter(1)</Highlight>閣下和長老，
 要在一起敘舊……"
 106,"TEXT_BANKJN001_02973_BUNCHIN_000_065","那就一次性把話說完啊——！
 你總是這樣，說半句就不說了啊——！"
 107,"TEXT_BANKJN001_02973_BUNCHIN_000_066","而且，在紅甲族肆意妄為的時候，
 你竟然無視我的指令，一個人去尋寶——？！
 還不快面壁思過——！"
-108,"TEXT_BANKJN001_02973_KABUTO_000_067","鄙人雖在途中為 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 相救，
+108,"TEXT_BANKJN001_02973_KABUTO_000_067","鄙人雖在途中為<Highlight>ObjectParameter(1)</Highlight>相救，
 但即便是孤身一人……
 鄙人也是能和他人結緣，得到寶物的……"
 109,"TEXT_BANKJN001_02973_BUNCHIN_000_068","嗯，你雖有武藝，卻沒有結緣的才能……
 能做到這個份上，也不容易啊——！"
-110,"TEXT_BANKJN001_02973_KABUTO_000_069"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，鄙人想給你謝禮……
+110,"TEXT_BANKJN001_02973_KABUTO_000_069","<Highlight>ObjectParameter(1)</Highlight>閣下，鄙人想給你謝禮……
 不過，要先把寶物供奉到寶物殿才行……"
-111,"TEXT_BANKJN001_02973_BUNCHIN_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，沒想到吧？
+111,"TEXT_BANKJN001_02973_BUNCHIN_000_070","<Highlight>ObjectParameter(1)</Highlight>閣下，沒想到吧？
 也難怪，以前跟你說過寶物殿在紅甲族守衛的絕鬼島，
 但還沒來得及告訴你後話——"
 112,"TEXT_BANKJN001_02973_BUNCHIN_000_071","自古以來，無論紅甲族還是碧甲族，
@@ -228,11 +228,11 @@ int32,str,str
 首先，這位客人！"
 131,"TEXT_BANKJN001_02973_TSUKUMO_000_093","(-付喪神？-)你要加入武盔率領的尋寶眾！"
 132,"TEXT_BANKJN001_02973_KABUTO_000_094","可……可是……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也很忙的吧……"
+<Highlight>ObjectParameter(1)</Highlight>閣下也很忙的吧……"
 133,"TEXT_BANKJN001_02973_TSUKUMO_000_095","(-付喪神？-)你這個蠢貨！！
 這位武人比你厲害多了！
 和其結緣，一同尋寶，定能大有收穫！"
-134,"TEXT_BANKJN001_02973_TSUKUMO_000_096","(-付喪神？-)而且，想要和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下結緣的，
+134,"TEXT_BANKJN001_02973_TSUKUMO_000_096","(-付喪神？-)而且，想要和<Highlight>ObjectParameter(1)</Highlight>閣下結緣的，
 不正是你自己嗎！"
 135,"TEXT_BANKJN001_02973_KABUTO_000_097","嗚……您怎麼知道……"
 136,"TEXT_BANKJN001_02973_TSUKUMO_000_098","(-付喪神？-)尋寶和結緣沒什麼區別！
@@ -242,7 +242,7 @@ int32,str,str
 來吧，武盔，
 以頭領的身份向我接下來要指名的人，問好！"
 138,"TEXT_BANKJN001_02973_KABUTO_000_100","既然付喪神大人這樣說，那就沒辦法了……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+<Highlight>ObjectParameter(1)</Highlight>閣下，
 還有，頭巾、枕頭、床單，請多關照……"
 139,"TEXT_BANKJN001_02973_TSUKUMO_000_101","(-付喪神？-)聲音太小，話也太少！
 不過，這是第一次，就先饒了你。
@@ -264,4 +264,4 @@ int32,str,str
 145,"TEXT_BANKJN001_02973_SYSTEM_000_203","並且可以在「床單」處購入友好部族所經營的商品。
 在今後的冒險裡善加利用吧！"
 146,"TEXT_BANKJN001_02973_SYSTEM_000_204","若要繼續進行下一個友好部族劇情任務，
-需完成「紅蓮的解放者主線任務」中的「寂靜的延夏」。"
+需完成「紅蓮之狂潮主線任務」中的「寂靜的延夏」。"

@@ -26,9 +26,9 @@ int32,str,str
 22,"TEXT_LUCKMD112_03617_SEQ_22",""
 23,"TEXT_LUCKMD112_03617_SEQ_23",""
 24,"TEXT_LUCKMD112_03617_TODO_00","和古斯約恩對話"
-25,"TEXT_LUCKMD112_03617_TODO_01","從<Sheet(EObj,2010009,0)/>獲得<Sheet(EventItem,2002562,0)/>"
+25,"TEXT_LUCKMD112_03617_TODO_01","從<Sheet(EObj,2010009,0)/>獲取<Sheet(EventItem,2002562,0)/>"
 26,"TEXT_LUCKMD112_03617_TODO_02","將<Sheet(EventItem,2002562,0)/>放在<Sheet(EObj,2009916,0)/>"
-27,"TEXT_LUCKMD112_03617_TODO_03","調查<Sheet(EObj,2010274,0)/> 從敲石蟲身上獲得<Sheet(EventItem,2002563,0)/>"
+27,"TEXT_LUCKMD112_03617_TODO_03","調查<Sheet(EObj,2010274,0)/> 從敲石蟲身上獲取<Sheet(EventItem,2002563,0)/>"
 28,"TEXT_LUCKMD112_03617_TODO_04","將<Sheet(EventItem,2002563,0)/>交給古斯約恩"
 29,"TEXT_LUCKMD112_03617_TODO_05",""
 30,"TEXT_LUCKMD112_03617_TODO_06",""
@@ -84,7 +84,7 @@ int32,str,str
 打倒岩蟲然後把它身上的石頭取下來就行。"
 64,"TEXT_LUCKMD112_03617_GUTHJON_000_042","我也說過，獲得獅目石的可能性很低。
 所以得調查所有的<Sheet(EObj,2010274,0)/>，討伐所有出現的岩蟲，
-儘量多收集一些<Sheet(EventItem,2002563,0)/>。"
+盡量多收集一些<Sheet(EventItem,2002563,0)/>。"
 65,"TEXT_LUCKMD112_03617_GUTHJON_000_043","收集夠了就拿到我這裡來，
 我給你們鑑定有沒有獅目石。"
 66,"TEXT_LUCKMD112_03617_THANCRED_000_044","好，我們分頭去弄。
@@ -102,7 +102,7 @@ int32,str,str
 72,"TEXT_LUCKMD112_03617_THANCRED_000_090","我也剛回來。
 情況……不知道怎麼樣，數量倒是不少……"
 73,"TEXT_LUCKMD112_03617_GUTHJON_000_100","如何？收集了多少<Sheet(EventItem,2002563,0)/>？"
-74,"TEXT_LUCKMD112_03617_GUTHJON_000_101","哦哦……這蠻多的了。
+74,"TEXT_LUCKMD112_03617_GUTHJON_000_101","哦哦……這挺多的了。
 我這就鑑定一下你們兩個拿過來的這些。"
 75,"TEXT_LUCKMD112_03617_GUTHJON_000_102","這個數量得費點工夫，
 你們去那邊找個地方休息會吧。"

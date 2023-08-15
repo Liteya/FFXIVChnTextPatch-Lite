@@ -3,8 +3,8 @@
 int32,str,str
 0,"TEXT_HEAVNA608_01657_SEQ_00","田園郡的斯洛菲克斯很感激冒險者。"
 1,"TEXT_HEAVNA608_01657_SEQ_01","斯洛菲克斯委託冒險者救助衝入危險組織青藍之手領地的熟人。在龍堡內陸低地的薩雷安精製區尋找斯洛菲克斯的熟人。"
-2,"TEXT_HEAVNA608_01657_SEQ_02","原來斯洛菲克斯的熟人就是布雷福洛克斯。擊退了襲擊她的青藍之手後，布雷福洛克斯便開開心心地去回收廢品了。和薩雷安精製區的雅．修特拉談談。"
-3,"TEXT_HEAVNA608_01657_SEQ_03","和雅．修特拉進行了交談。總而言之，完成了斯洛菲克斯的委託。向田園郡的斯洛菲克斯報告。"
+2,"TEXT_HEAVNA608_01657_SEQ_02","原來斯洛菲克斯的熟人就是布雷福洛克斯。擊退了襲擊她的青藍之手後，布雷福洛克斯便開開心心地去回收廢品了。和薩雷安精製區的雅·修特拉談談。"
+3,"TEXT_HEAVNA608_01657_SEQ_03","和雅·修特拉進行了交談。總而言之，完成了斯洛菲克斯的委託。向田園郡的斯洛菲克斯報告。"
 4,"TEXT_HEAVNA608_01657_SEQ_04","向斯洛菲克斯報告完畢，受到了其犒勞。他好像也對布雷福洛克斯這種隨性的行為感到無奈。"
 5,"TEXT_HEAVNA608_01657_SEQ_05",""
 6,"TEXT_HEAVNA608_01657_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNA608_01657_SEQ_22",""
 23,"TEXT_HEAVNA608_01657_SEQ_23",""
 24,"TEXT_HEAVNA608_01657_TODO_00","在薩雷安精製區尋找斯洛菲克斯的熟人"
-25,"TEXT_HEAVNA608_01657_TODO_01","和雅．修特拉對話"
+25,"TEXT_HEAVNA608_01657_TODO_01","和雅·修特拉對話"
 26,"TEXT_HEAVNA608_01657_TODO_02","和田園郡的斯洛菲克斯對話"
 27,"TEXT_HEAVNA608_01657_TODO_03",""
 28,"TEXT_HEAVNA608_01657_TODO_04",""
@@ -62,9 +62,9 @@ int32,str,str
 52,"TEXT_HEAVNA608_01657_YSHTOLA_000_004","總有種不好的預感，是錯覺麼……"
 53,"TEXT_HEAVNA608_01657_ALPHINAUD_000_005","總而言之，既然斯洛菲克斯的熟人有危險，
 那我們只能幫幫他了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、雅．修特拉，我們走。"
+<Highlight>ObjectParameter(1)</Highlight>、雅·修特拉，我們走。"
 54,"TEXT_HEAVNA608_01657_YSHTOLA_000_006","我這邊已經順利完成了。"
-55,"TEXT_HEAVNA608_01657_ALPHINAUD_000_007"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒事吧？
+55,"TEXT_HEAVNA608_01657_ALPHINAUD_000_007","<Highlight>ObjectParameter(1)</Highlight>，你沒事吧？
 也不知道是不是出了故障，我說完暗號以後巨像兵還是攻了過來。
 最後還是靠實力解決問題。"
 56,"TEXT_HEAVNA608_01657_SLOWFIX_000_008","青藍之手是 排外的 危險組織。
@@ -115,7 +115,7 @@ int32,str,str
 75,"TEXT_HEAVNA608_01657_SLOWFIX_000_042","布雷福洛克斯是 哥布的 損友。
 要知道是 她的盟友 那一開始就信任你們了哥布。
 真是 謝謝你們了！辛苦你們了！"
-76,"TEXT_HEAVNA608_01657_ALPHINAUD_000_043","不過話說回來，雅．修特拉的魔法真是好厲害啊。
+76,"TEXT_HEAVNA608_01657_ALPHINAUD_000_043","不過話說回來，雅·修特拉的魔法真是好厲害啊。
 雖然我也有偷偷修行過，但看她輕輕鬆鬆就使出了那種魔法，
 我真是都沒自信了……"
 77,"TEXT_HEAVNA608_01657_YSHTOLA_000_044","我徘徊在乙太奔流中的時候可不是什麼都沒做的。
@@ -124,7 +124,7 @@ int32,str,str
 78,"TEXT_HEAVNA608_01657_QIB_TODO001","保護布雷福洛克斯！"
 79,"TEXT_HEAVNA608_01657_BRAYFLOX_BATTLETALK_000_001","呼哧……呼哧……
 哥布動一動小手指 就搞定！"
-80,"TEXT_HEAVNA608_01657_QUICKTHINX_BATTLETALK_000_002","蓄積了多年的怨恨……就讓我們在這裡算清楚吧……"
+80,"TEXT_HEAVNA608_01657_QUICKTHINX_BATTLETALK_000_002","積攢了多年的怨恨……就讓我們在這裡算清楚吧……"
 81,"TEXT_HEAVNA608_01657_ALPHINAUD_BATTLETALK_000_003","真是的，雖然不清楚到底是怎麼回事，
 但我們先把布雷福洛克斯救出來！"
 82,"TEXT_HEAVNA608_01657_QUICKTHINX_BATTLETALK_000_010","哧哈……哧哈……
@@ -139,7 +139,7 @@ int32,str,str
 再這樣下去可不妙啊！"
 87,"TEXT_HEAVNA608_01657_YSHTOLA_BATTLETALK_000_030","既然如此，那只能使用那招了……
 那是我在「那場戰鬥」中，創出的招數……"
-88,"TEXT_HEAVNA608_01657_YSHTOLA_BATTLETALK_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、阿爾菲諾大人！
+88,"TEXT_HEAVNA608_01657_YSHTOLA_BATTLETALK_000_031","<Highlight>ObjectParameter(1)</Highlight>、阿爾菲諾大人！
 我要使用新魔法！幫我爭取一點時間！"
 89,"TEXT_HEAVNA608_01657_YSHTOLA_BATTLETALK_000_032","因為在詠唱時會進入毫無防備的狀態……
 拜託你們掩護我！"
@@ -151,4 +151,4 @@ int32,str,str
 94,"TEXT_HEAVNA608_01657_YSHTOLA_BATTLETALK_DEAD","……看來我的身手真的不行了……
 抱歉，剩下就交給你了……"
 95,"TEXT_HEAVNA608_01657_ALPHINAUD_BATTLETALK_DEAD","唔……我的修行還是不夠……
-抱歉…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+抱歉……<Highlight>ObjectParameter(1)</Highlight>……"

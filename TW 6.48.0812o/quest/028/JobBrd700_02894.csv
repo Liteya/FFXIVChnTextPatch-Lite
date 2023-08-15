@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_JOBBRD700_02894_SEQ_00","蛇巢司令部的吉德洛一直在等待雙蛇黨的協商結果。"
 1,"TEXT_JOBBRD700_02894_SEQ_01","司令部下達了捨棄桑松正牙尉的指示，冒險者等人拒絕服從該命令，決定獨自救出桑松。向格里達尼亞弓箭手公會的呂西安娜和槍術師公會的伊維因尋求協助。"
 2,"TEXT_JOBBRD700_02894_SEQ_02","從兩個公會那裡都得到了協助。和蛇巢司令部的沃爾賽勒正牙校談談。"
-3,"TEXT_JOBBRD700_02894_SEQ_03","得知了努爾瓦爾等人的所在地。前往北部林區的榿木泉，和吉德洛會合。"
+3,"TEXT_JOBBRD700_02894_SEQ_03","得知了努爾瓦爾等人的所在地。前往北部林區的榿木泉，和吉德洛匯合。"
 4,"TEXT_JOBBRD700_02894_SEQ_04","為了救出桑松正牙尉，打倒了努爾瓦爾。返回北部林區。"
 5,"TEXT_JOBBRD700_02894_SEQ_05","聽了桑松正牙尉的話後，努爾瓦爾似乎認識到了自己的過錯。和榿木泉的桑松正牙尉談談。"
 6,"TEXT_JOBBRD700_02894_SEQ_06","努爾瓦爾接受了桑松正牙尉的決心。接下來輪到大家向雙蛇黨表明想法了。返回蛇巢司令部，和沃爾賽勒正牙校談談。"
@@ -12,7 +12,7 @@ int32,str,str
 8,"TEXT_JOBBRD700_02894_SEQ_08","讓泰爾希望努爾瓦爾能夠洗心革面，重新振作，同時希望萬舍隆的真正願望可以被世人所知。只要有桑松正牙尉和吉德洛開闢道路，他的願望總有一天會實現。
 
 ※滿足下列條件後，可以從石場水車西邊的讓泰爾那裡領取新的特職任務。
-1.完成「漆黑的反叛者主線任務」中「漆黑的反叛者」。
+1.完成「暗影之逆焰主線任務」中「暗影之逆焰」。
 2.完成物理進攻職業的「職能任務」。"
 9,"TEXT_JOBBRD700_02894_SEQ_09",""
 10,"TEXT_JOBBRD700_02894_SEQ_10",""
@@ -32,8 +32,8 @@ int32,str,str
 24,"TEXT_JOBBRD700_02894_TODO_00","和弓箭手公會的呂西安娜對話"
 25,"TEXT_JOBBRD700_02894_TODO_01","和槍術師公會的伊維因對話"
 26,"TEXT_JOBBRD700_02894_TODO_02","和沃爾賽勒正牙校對話"
-27,"TEXT_JOBBRD700_02894_TODO_03","和榿木泉的吉德洛會合"
-28,"TEXT_JOBBRD700_02894_TODO_04","和榿木泉的吉德洛會合"
+27,"TEXT_JOBBRD700_02894_TODO_03","和榿木泉的吉德洛匯合"
+28,"TEXT_JOBBRD700_02894_TODO_04","和榿木泉的吉德洛匯合"
 29,"TEXT_JOBBRD700_02894_TODO_05","和榿木泉的桑松正牙尉對話"
 30,"TEXT_JOBBRD700_02894_TODO_06","和蛇巢司令部的沃爾賽勒正牙校對話"
 31,"TEXT_JOBBRD700_02894_TODO_07","和石場水車西邊的讓泰爾對話"
@@ -83,11 +83,11 @@ int32,str,str
 60,"TEXT_JOBBRD700_02894_A1_000_002","我看錯雙蛇黨了"
 61,"TEXT_JOBBRD700_02894_VORSAILE_100_018","……你們冷靜點，先別急。
 我現在只是把司令部的協商結果告訴你們而已……
-而且，這件事還沒有上報給嘉恩．艾大人呢。"
+而且，這件事還沒有上報給嘉恩·艾大人呢。"
 62,"TEXT_JOBBRD700_02894_VORSAILE_100_019","沒錯，正如吉德洛和<If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/><Highlight>ObjectParameter(1)</Highlight></If><Else/><Highlight>ObjectParameter(1)</Highlight></If>所說，
 這麼沒有風情的決定……不聽也罷！"
 63,"TEXT_JOBBRD700_02894_VORSAILE_100_020","這次的決定只是因為一部分高層膽小罷了，
-從他們沒有上報給嘉恩．艾大人這一點就能看得出來。"
+從他們沒有上報給嘉恩·艾大人這一點就能看得出來。"
 64,"TEXT_JOBBRD700_02894_VORSAILE_100_021","我已經在各大公會安排了可以協助我們的人，
 只要你們過去找他們，應該就可以立即出發。
 當然了，是瞞著雙蛇黨的！"
@@ -99,7 +99,7 @@ int32,str,str
 67,"TEXT_JOBBRD700_02894_VORSAILE_100_024","<If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/><Highlight>ObjectParameter(1)</Highlight></If><Else/><Highlight>ObjectParameter(1)</Highlight></If>，不好意思，
 請你去一趟弓箭手公會和槍術師公會。
 我已經將事情通知這兩個公會的會長了！"
-68,"TEXT_JOBBRD700_02894_VORSAILE_100_025","等公會那邊準備好之後，你儘快再過來一趟。
+68,"TEXT_JOBBRD700_02894_VORSAILE_100_025","等公會那邊準備好之後，你盡快再過來一趟。
 一旦查明敵人的藏身之處，雙蛇黨應該也會行動吧，
 我們沒有那麼多時間了！"
 69,"TEXT_JOBBRD700_02894_VORSAILE_000_030","能請你去找弓箭手公會和槍術師公會的會長，
@@ -132,7 +132,7 @@ int32,str,str
 78,"TEXT_JOBBRD700_02894_VORSAILE_000_081","據說他們現在正在北部林區衛月碎片的附近……
 那塊平時沒人會去的地方，
 等著雙蛇黨最後的決定。"
-79,"TEXT_JOBBRD700_02894_VORSAILE_000_082","我會負責聯繫吉德洛和公會裡要去協助你們的人，
+79,"TEXT_JOBBRD700_02894_VORSAILE_000_082","我會負責聯絡吉德洛和公會裡要去協助你們的人，
 你準備好之後也快趕過去吧！
 要在司令部派遣的部隊趕到之前在那集合！"
 80,"TEXT_JOBBRD700_02894_VORSAILE_000_083","我留下來拖住雙蛇黨的行動。
@@ -224,7 +224,7 @@ int32,str,str
 115,"TEXT_JOBBRD700_02894_VORSAILE_000_310","桑松正牙尉沒事吧？"
 116,"TEXT_JOBBRD700_02894_GUYDELOT_000_315","被上頭責罵的就我們幾個得了，
 我已經讓其他人先回去了。"
-117,"TEXT_JOBBRD700_02894_SANSON_000_320","謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，多虧了你我才能得救，
+117,"TEXT_JOBBRD700_02894_SANSON_000_320","謝謝你<Highlight>ObjectParameter(1)</Highlight>，多虧了你我才能得救，
 還有吉德洛也是……"
 118,"TEXT_JOBBRD700_02894_SANSON_000_321","不過，還剩下一件重要的工作等著我去做……
 我得回蛇巢司令部兌現剛才的諾言。
@@ -258,14 +258,14 @@ int32,str,str
 128,"TEXT_JOBBRD700_02894_SANSON_000_338","……你說得對。
 為了提高部隊的地位，為了與努爾瓦爾的約定，
 我不能止步不前！"
-129,"TEXT_JOBBRD700_02894_SANSON_000_339"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，不好意思，
+129,"TEXT_JOBBRD700_02894_SANSON_000_339","<Highlight>ObjectParameter(1)</Highlight>，不好意思，
 我還要去寫這次任務的報告書，先行告退了！"
 130,"TEXT_JOBBRD700_02894_SANSON_100_339","真的很感謝你的協助。
 我一定會向你看齊，爭取成為一名合格的隊長。
 將來我的部隊演奏的戰歌，一定會成為激勵這座森林之都的力量！"
 131,"TEXT_JOBBRD700_02894_GUYDELOT_000_340","跟打了雞血似的，
-算了……看他那麼有幹勁，應該傷勢也沒什麼要緊。"
-132,"TEXT_JOBBRD700_02894_GUYDELOT_000_341","我要去追桑松了，能麻煩你告訴讓泰爾老爺子，
+算了……看他那麼有幹勁，估計傷勢也沒什麼要緊。"
+132,"TEXT_JOBBRD700_02894_GUYDELOT_000_341","我要去追桑鬆了，能麻煩你告訴讓泰爾老爺子，
 我們已經平安回到格里達尼亞了嗎？
 等我們安頓好後也會去跟他打聲招呼的。"
 133,"TEXT_JOBBRD700_02894_GUYDELOT_000_342","……不過，沒想到讓泰爾老爺子
@@ -288,7 +288,7 @@ int32,str,str
 139,"TEXT_JOBBRD700_02894_SYSTEM_100_364","「吟遊詩人」的故事到此告一段落！
 要開始接下來的「吟遊詩人」特職任務，
 需要滿足以下條件。"
-140,"TEXT_JOBBRD700_02894_SYSTEM_100_365","1.完成「漆黑的反叛者主線任務」中的「漆黑的反叛者」。"
+140,"TEXT_JOBBRD700_02894_SYSTEM_100_365","1.完成「暗影之逆焰主線任務」中的「暗影之逆焰」。"
 141,"TEXT_JOBBRD700_02894_SYSTEM_100_366","2.完成物理進攻職業的「職能任務」。"
 142,"TEXT_JOBBRD700_02894_SYSTEM_100_367","滿足條件後，和石場水車西邊的讓泰爾對話，
 即可開始新的特職任務！"
@@ -302,25 +302,25 @@ int32,str,str
 147,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_002_002","嗚，好強大的氣勢！
 讓我能清晰地感受到他的鬥志……"
 148,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_002_003","我們也不能輸！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，讓我的歌聲點燃你的鬥志吧！！"
+<Highlight>ObjectParameter(1)</Highlight>，讓我的歌聲點燃你的鬥志吧！！"
 149,"TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_003_001","別再唱了！你的歌聲真是刺耳！！"
 150,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_003_002","嗚啊！可惡，動不了……
-抱歉， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，幫我弄斷這個鎖鏈！！"
+抱歉，<Highlight>ObjectParameter(1)</Highlight>，幫我弄斷這個鎖鏈！！"
 151,"TEXT_JOBBRD700_02894_NOURVAL_BATTLETALK_004_001","你們可真是糾纏不休！
 既然這麼想死，我就用這招送你們下地獄吧！"
 152,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_004_002","小心，他好像要出什麼大招了！！"
 153,"TEXT_JOBBRD700_02894_GUYDELOT_BATTLETALK_004_003","嗚哇！聚在一起有點不妙啊……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們分散作戰吧！"
-154,"TEXT_JOBBRD700_02894_GUYDELOT_G_DEAD_001_001","可惡，對不起啊……
+<Highlight>ObjectParameter(1)</Highlight>，我們分散作戰吧！"
+154,"TEXT_JOBBRD700_02894_GUYDELOT_G_DEAD_001_001","可惡，對不住啊……
 要麻煩你了……"
 155,"TEXT_JOBBRD700_02894_NOURVAL_G_DEAD_001_002","哼……吉德洛先生看來要不行了，
 你也該趁早死心了吧！！"
-156,"TEXT_JOBBRD700_02894_VORSAILE_000_018","（★未使用／削除予定★） "
-157,"TEXT_JOBBRD700_02894_VORSAILE_000_019","（★未使用／削除予定★） "
-158,"TEXT_JOBBRD700_02894_VORSAILE_000_020","（★未使用／削除予定★） "
-159,"TEXT_JOBBRD700_02894_GUYDELOT_000_021","（★未使用／削除予定★） "
-160,"TEXT_JOBBRD700_02894_VORSAILE_000_022","（★未使用／削除予定★） "
-161,"TEXT_JOBBRD700_02894_GUYDELOT_000_023","（★未使用／削除予定★） "
-162,"TEXT_JOBBRD700_02894_GUYDELOT_000_024","（★未使用／削除予定★） "
-163,"TEXT_JOBBRD700_02894_GUYDELOT_000_025","（★未使用／削除予定★） "
-164,"TEXT_JOBBRD700_02894_VORSAILE_000_026","（★未使用／削除予定★） "
+156,"TEXT_JOBBRD700_02894_VORSAILE_000_018","（★未使用／削除予定★）"
+157,"TEXT_JOBBRD700_02894_VORSAILE_000_019","（★未使用／削除予定★）"
+158,"TEXT_JOBBRD700_02894_VORSAILE_000_020","（★未使用／削除予定★）"
+159,"TEXT_JOBBRD700_02894_GUYDELOT_000_021","（★未使用／削除予定★）"
+160,"TEXT_JOBBRD700_02894_VORSAILE_000_022","（★未使用／削除予定★）"
+161,"TEXT_JOBBRD700_02894_GUYDELOT_000_023","（★未使用／削除予定★）"
+162,"TEXT_JOBBRD700_02894_GUYDELOT_000_024","（★未使用／削除予定★）"
+163,"TEXT_JOBBRD700_02894_GUYDELOT_000_025","（★未使用／削除予定★）"
+164,"TEXT_JOBBRD700_02894_VORSAILE_000_026","（★未使用／削除予定★）"

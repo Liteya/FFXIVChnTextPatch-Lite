@@ -6,10 +6,10 @@ int32,str,str
 2,"TEXT_JOBAST501_02019_SEQ_02","和雅內基納爾進行了交談。前往庫爾札斯中央高地，和巨龍首營地的蕾薇瓦談談。"
 3,"TEXT_JOBAST501_02019_SEQ_03","成功救回了蕾薇瓦。和庫爾札斯中央高地鋼衛塔的蕾薇瓦談談。"
 4,"TEXT_JOBAST501_02019_SEQ_04","打開了冰天座之門。將<Sheet(EventItem,2001879,0)/>交給鋼衛塔的雅內基納爾。"
-5,"TEXT_JOBAST501_02019_SEQ_05","將<Sheet(EventItem,2001879,0)/>交給了鋼衛塔的雅內基納爾。在庫爾札斯中央高地阿德內爾占星臺的<Sheet(EObj,2006367,0)/>等待。"
-6,"TEXT_JOBAST501_02019_SEQ_06","成功制止了福勒莫爾的妨礙行動，打開了在伊修加爾德傳播薩雷安式占星術的突破口。身為開啟了所有六天座之門的占星術士，今後也必將不為命運所束縛地繼續前行。
+5,"TEXT_JOBAST501_02019_SEQ_05","將<Sheet(EventItem,2001879,0)/>交給了鋼衛塔的雅內基納爾。在庫爾札斯中央高地阿德內爾占星台的<Sheet(EObj,2006367,0)/>等待。"
+6,"TEXT_JOBAST501_02019_SEQ_06","成功制止了福勒莫爾的妨礙行動，打開了在伊修加德傳播薩雷安式占星術的突破口。身為開啟了所有六天座之門的占星術士，今後也必將不為命運所束縛地繼續前行。
 
-※可以繼續從阿德內爾占星臺的雅內基納爾那裡領取新的特職任務。"
+※可以繼續從阿德內爾占星台的雅內基納爾那裡領取新的特職任務。"
 7,"TEXT_JOBAST501_02019_SEQ_07",""
 8,"TEXT_JOBAST501_02019_SEQ_08",""
 9,"TEXT_JOBAST501_02019_SEQ_09",""
@@ -31,7 +31,7 @@ int32,str,str
 25,"TEXT_JOBAST501_02019_TODO_01","和巨龍首營地的蕾薇瓦對話"
 26,"TEXT_JOBAST501_02019_TODO_02","和鋼衛塔的蕾薇瓦對話"
 27,"TEXT_JOBAST501_02019_TODO_03","將<Sheet(EventItem,2001879,0)/>交給鋼衛塔的雅內基納爾"
-28,"TEXT_JOBAST501_02019_TODO_04","在阿德內爾占星臺的<Sheet(EObj,2006367,0)/>等待"
+28,"TEXT_JOBAST501_02019_TODO_04","在阿德內爾占星台的<Sheet(EObj,2006367,0)/>等待"
 29,"TEXT_JOBAST501_02019_TODO_05",""
 30,"TEXT_JOBAST501_02019_TODO_06",""
 31,"TEXT_JOBAST501_02019_TODO_07",""
@@ -53,9 +53,9 @@ int32,str,str
 47,"TEXT_JOBAST501_02019_TODO_23",""
 48,"TEXT_JOBAST501_02019_JANNEQUINARD_000_000","在出發之前，蕾薇瓦老師似乎有些話想對你說。
 老師她就在二樓，請你去找她吧。"
-49,"TEXT_JOBAST501_02019_LEVEVA_000_000","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這樣一來準備工作就完成了。
+49,"TEXT_JOBAST501_02019_LEVEVA_000_000","好了，<Highlight>ObjectParameter(1)</Highlight>，這樣一來準備工作就完成了。
 我們出發吧，去打開最後的冰天座之門。"
-50,"TEXT_JOBAST501_02019_LEVEVA_000_001","我們就在庫爾札斯中央高地的巨龍首營地會合吧。
+50,"TEXT_JOBAST501_02019_LEVEVA_000_001","我們就在庫爾札斯中央高地的巨龍首營地匯合吧。
 記得跟雅內基納爾也說一聲。"
 51,"TEXT_JOBAST501_02019_JANNEQUINARD_000_010","哎呀，蕾薇瓦老師已經出發了啊，
 我們也快去巨龍首營地吧。"
@@ -105,9 +105,9 @@ int32,str,str
 74,"TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_02","那個<Sheet(BNpcName,4421,0)/>掉隊了！
 在沒人的地方打倒她，再從她身上套出情報來吧。"
 75,"TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_02","就這麼辦。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩你從旁支援坎佩蘭。"
+<Highlight>ObjectParameter(1)</Highlight>，麻煩你從旁支援坎佩蘭。"
 76,"TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_03","這個神殿騎士果然就是前幾天的占星學家。
-保持這個節奏，看準機會打倒那些假冒的神殿騎士吧！"
+保持這個節奏，瞅准機會打倒那些假冒的神殿騎士吧！"
 77,"TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_03","如果他們乘坐飛空艇離開的話，
 就沒辦法再繼續追蹤了……
 在那之前必須得救出老師才行……"
@@ -115,7 +115,7 @@ int32,str,str
 79,"TEXT_JOBAST501_02019_QIB_LEVEVA_BATTLETALK_01","我是不會回薩雷安的！
 坎佩蘭，打倒這些人！"
 80,"TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_05","交給在下吧！"
-81,"TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_05"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，保護好蕾薇瓦老師！"
+81,"TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_05","<Highlight>ObjectParameter(1)</Highlight>，保護好蕾薇瓦老師！"
 82,"TEXT_JOBAST501_02019_QIB_QUIMPERAIN_BATTLETALK_DEAD","唔，非常抱歉，身體已經動不了了……"
 83,"TEXT_JOBAST501_02019_QIB_JANNEQUINARD_BATTLETALK_DEAD","……正所謂，醫人者不能自醫嗎……"
 84,"TEXT_JOBAST501_02019_QIB_LEVEVA_BATTLETALK_DEAD","抱歉，我已經不行了……"
@@ -136,22 +136,22 @@ int32,str,str
 92,"TEXT_JOBAST501_02019_JANNEQUINARD_000_059","一直以來對蕾薇瓦老師窮追不捨的犯人到底是誰，
 看來這個謎底終於要水落石出了……"
 93,"TEXT_JOBAST501_02019_LEVEVA_000_060","總算是有驚無險。
-或許能從 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 撿到的書信中，
+或許能從<Highlight>ObjectParameter(1)</Highlight>撿到的書信中，
 推測出刺客的身份。"
 94,"TEXT_JOBAST501_02019_JANNEQUINARD_000_061","是啊，說不定會有什麼重要的線索。
-總之，先完成 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的修練吧，
+總之，先完成<Highlight>ObjectParameter(1)</Highlight>的修練吧，
 畢竟這才是我們來此的原本目的所在。"
 95,"TEXT_JOBAST501_02019_LEVEVA_000_062","說的也是。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你待在原地，
+<Highlight>ObjectParameter(1)</Highlight>，你待在原地，
 在冰天座最為閃耀的那一刻到來之前保持仰望天空。"
-96,"TEXT_JOBAST501_02019_LEVEVA_000_070","那麼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+96,"TEXT_JOBAST501_02019_LEVEVA_000_070","那麼，<Highlight>ObjectParameter(1)</Highlight>！
 與閃耀著凜冽寒光的冰天座心意相通，
 打開它的大門吧！"
 97,"TEXT_JOBAST501_02019_LEVEVA_000_071","相傳在冰之天界——冰天之上，
 月亮神梅茵菲娜將月光凍結成冰塊，
 而戰爭神哈羅妮以長槍將冰塊加工雕琢，築起莊嚴的宮殿。"
 98,"TEXT_JOBAST501_02019_LEVEVA_000_072","因此我們將象徵著冰天座祝福的奧秘之力稱為「長槍」。
-透過使用「長槍」的能力，
+通過使用「長槍」的能力，
 就能獲得像戰神的投槍那般強大的攻擊力。"
 99,"TEXT_JOBAST501_02019_LEVEVA_000_073","冰天座正是代表著冰天之門的星座……
 現在，這扇門已為你而打開……"
@@ -162,15 +162,15 @@ int32,str,str
 但身為占星術士的修行才剛剛開始。
 今後你將隨時面臨占星魔法的選擇。"
 102,"TEXT_JOBAST501_02019_JANNEQUINARD_000_080","我親眼見證了一位獨當一面的占星術士的誕生。
-恭喜你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+恭喜你，<Highlight>ObjectParameter(1)</Highlight>。
 那麼，我們來看看剛才那封書信吧。"
-103,"TEXT_JOBAST501_02019_JANNEQUINARD_000_081","……這封書信似乎是福勒莫爾臺長所寫。
-看來盯上蕾薇瓦老師的團夥，
-和臺長之間有著莫大的關係，這封信就是證據。"
+103,"TEXT_JOBAST501_02019_JANNEQUINARD_000_081","……這封書信似乎是福勒莫爾台長所寫。
+看來盯上蕾薇瓦老師的團伙，
+和台長之間有著莫大的關係，這封信就是證據。"
 104,"TEXT_JOBAST501_02019_QUIMPERAIN_000_082","怎麼會這樣……這可是名副其實的犯罪啊！
-必須馬上告發福勒莫爾臺長的罪行才行！"
+必須馬上告發福勒莫爾台長的罪行才行！"
 105,"TEXT_JOBAST501_02019_LEVEVA_000_083","不必著急。
-雅內基納爾，如果把這封信指證給臺長，
+雅內基納爾，如果把這封信指證給台長，
 能不能藉此威脅他保證今後不再干涉我們？"
 106,"TEXT_JOBAST501_02019_JANNEQUINARD_000_084","如果這是蕾薇瓦老師的意思，我會去試試交涉的。
 他是個重視地位與名譽之人，想必會有所顧忌吧。"
@@ -178,23 +178,23 @@ int32,str,str
 比起鬧出風波導致活動受到限制，
 這樣做的效果會比較好。"
 108,"TEXT_JOBAST501_02019_JANNEQUINARD_000_086","我明白了。
-那麼各位，請在阿德內爾占星臺的臺頂等待，
-我會帶臺長過去的。"
+那麼各位，請在阿德內爾占星台的台頂等待，
+我會帶台長過去的。"
 109,"TEXT_JOBAST501_02019_FORLEMORT_000_089","……找我有什麼事？"
 110,"TEXT_JOBAST501_02019_FORLEMORT_000_090","哼，薩雷安派的占星術士都湊到一起了麼。
 還特意把我叫到這種地方來，
 有什麼事就快說，我可是很忙的。"
-111,"TEXT_JOBAST501_02019_LEVEVA_000_091","自從我來到伊修加爾德以後，
+111,"TEXT_JOBAST501_02019_LEVEVA_000_091","自從我來到伊修加德以後，
 就經常被不明集團襲擊。"
 112,"TEXT_JOBAST501_02019_LEVEVA_000_092","甚至就在剛才，出現了一群假冒的神殿騎士，
 差點就被他們送回薩雷安老家去了呢……"
 113,"TEXT_JOBAST501_02019_JANNEQUINARD_000_093","我們從那群人身上找到了這封書信，
 上面記載著只有相關人士才知道的日程安排。
-除此以外，還有福勒莫爾臺長您的親筆簽名……"
+除此以外，還有福勒莫爾台長您的親筆簽名……"
 114,"TEXT_JOBAST501_02019_JANNEQUINARD_000_094","身為福爾唐家的貴賓，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也已經進行過了確認。
+<Highlight>ObjectParameter(1)</Highlight>也已經進行過了確認。
 如果這件事情被公開……您明白的吧？"
-115,"TEXT_JOBAST501_02019_JANNEQUINARD_000_095","但是為了守護福勒莫爾臺長您的地位和名譽，
+115,"TEXT_JOBAST501_02019_JANNEQUINARD_000_095","但是為了守護福勒莫爾台長您的地位和名譽，
 我們並不打算把這件事情公之於眾。"
 116,"TEXT_JOBAST501_02019_JANNEQUINARD_000_096","前提是，您願意保證，
 今後不再干涉我們的一切活動……"

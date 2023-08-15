@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBFST012_00038_SEQ_00","負責管理商店街的帕瑟蒙特雷，想要冒險者幫忙籌備鬼哭隊委託的物品。"
-1,"TEXT_SUBFST012_00038_SEQ_01","從黑檀商店街和紫檀商店街的店員那裡獲得鬼哭隊向帕瑟蒙特雷委託的物品。"
+1,"TEXT_SUBFST012_00038_SEQ_01","從黑檀商店街和紫檀商店街的店員那裡獲取鬼哭隊向帕瑟蒙特雷委託的物品。"
 2,"TEXT_SUBFST012_00038_SEQ_02","獲得了委託的物品。交給槍術師公會的賽因古蕾德。"
-3,"TEXT_SUBFST012_00038_SEQ_03","順利地送交了委託品。對如此迅速地交貨深感欽佩的賽因古蕾德，告訴冒險者要好好向帕瑟蒙特雷學習。看來 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的行動，反倒變成了帕瑟蒙特雷的功勞了。"
+3,"TEXT_SUBFST012_00038_SEQ_03","順利地送交了委託品。對如此迅速地交貨深感欽佩的賽因古蕾德，告訴冒險者要好好向帕瑟蒙特雷學習。看來<Highlight>ObjectParameter(1)</Highlight>的行動，反倒變成了帕瑟蒙特雷的功勞了。"
 4,"TEXT_SUBFST012_00038_SEQ_04",""
 5,"TEXT_SUBFST012_00038_SEQ_05",""
 6,"TEXT_SUBFST012_00038_SEQ_06",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_SUBFST012_00038_SEQ_21",""
 22,"TEXT_SUBFST012_00038_SEQ_22",""
 23,"TEXT_SUBFST012_00038_SEQ_23",""
-24,"TEXT_SUBFST012_00038_TODO_00","從加斯席德那裡得到骨製槍尖"
+24,"TEXT_SUBFST012_00038_TODO_00","從加斯西德那裡得到骨製槍尖"
 25,"TEXT_SUBFST012_00038_TODO_01","從阿德米蘭達那裡得到蜂蠟保革油"
 26,"TEXT_SUBFST012_00038_TODO_02","從阿拉里克那裡得到強韌的粗草繩"
 27,"TEXT_SUBFST012_00038_TODO_03","將委託品交給賽因古蕾德"
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_SUBFST012_00038_TODO_21",""
 46,"TEXT_SUBFST012_00038_TODO_22",""
 47,"TEXT_SUBFST012_00038_TODO_23",""
-48,"TEXT_SUBFST012_00038_PARSEMONTRET_000_1","你身為冒險者，看上去倒蠻悠哉的啊。
+48,"TEXT_SUBFST012_00038_PARSEMONTRET_000_1","你身為冒險者，看上去倒挺悠哉的啊。
 好吧，那我親自交給你點工作吧。"
 49,"TEXT_SUBFST012_00038_PARSEMONTRET_000_2","你看，這裡有張鬼哭隊的訂單。
 你的工作就是要備齊上面要求的物品，

@@ -23,7 +23,7 @@ int32,str,str
 12,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_053","開始「巴哈姆特大迷宮邂逅之章」，
 需要8名等級達到
 50級以上的戰鬥菁英或魔法導師來組成隊伍。"
-13,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_054","另外，所有成員一定要領取並完成任務「蠻神甦醒」。"
+13,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_054","另外，所有成員必須要領取並完成任務「蠻神甦醒」。"
 14,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_055","「巴哈姆特大迷宮邂逅之章」的開始地點取決於小隊隊長的進攻進度。"
 15,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_056","如果滿足「巴哈姆特大迷宮邂逅之章」的開始條件，
 未達到小隊隊長進攻進度的成員也可以同步參加。"

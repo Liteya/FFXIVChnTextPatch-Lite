@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_JOBREL520_02403_SEQ_00","螺旋港的阿爾達希爾很關心人造元靈的近況。"
 1,"TEXT_JOBREL520_02403_SEQ_01","羅薇娜通知阿爾達希爾說有一封來自魔法生物界權威的信送到了。阿爾達希爾希望冒險者和他一起去看看信的內容。前往田園郡，和羅薇娜談談。"
 2,"TEXT_JOBREL520_02403_SEQ_02","阿爾達希爾讀了魔法生物界權威寄來的信，並希望冒險者協助他進行人造元靈人格補完計劃。前往螺旋港，和阿爾達希爾談談。"
-3,"TEXT_JOBREL520_02403_SEQ_03","與阿爾達希爾會合了。準備攜手阿爾達希爾和蓋羅爾特開始新的研究。"
+3,"TEXT_JOBREL520_02403_SEQ_03","與阿爾達希爾匯合了。準備攜手阿爾達希爾和蓋羅爾特開始新的研究。"
 4,"TEXT_JOBREL520_02403_SEQ_04",""
 5,"TEXT_JOBREL520_02403_SEQ_05",""
 6,"TEXT_JOBREL520_02403_SEQ_06",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_JOBREL520_02403_TODO_21",""
 46,"TEXT_JOBREL520_02403_TODO_22",""
 47,"TEXT_JOBREL520_02403_TODO_23",""
-48,"TEXT_JOBREL520_02403_ARDASHIR_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！人造元靈近況如何？"
+48,"TEXT_JOBREL520_02403_ARDASHIR_000_001","<Highlight>ObjectParameter(1)</Highlight>！人造元靈近況如何？"
 49,"TEXT_JOBREL520_02403_ARDASHIR_000_002","看起來狀態不錯嘛！
 總之沒出什麼問題就好。"
 50,"TEXT_JOBREL520_02403_ROWENA_000_002","(-羅薇娜-)阿爾達希爾，研究進展得順利嗎？"
@@ -61,7 +61,7 @@ int32,str,str
 54,"TEXT_JOBREL520_02403_ARDASHIR_000_006","是這樣的，在我們的研究結束後，
 我寫了一篇關於人造元靈的論文，
 並請羅薇娜女士幫我寄給了魔法生物界的權威。"
-55,"TEXT_JOBREL520_02403_ARDASHIR_000_007","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你有時間的話，
+55,"TEXT_JOBREL520_02403_ARDASHIR_000_007","對了，<Highlight>ObjectParameter(1)</Highlight>你有時間的話，
 要不要跟我一起去看看回信？
 也許能從信中得到一些關於今後前進方向的靈感。"
 56,"TEXT_JOBREL520_02403_ARDASHIR_000_008","那我先去羅薇娜女士那邊了。
@@ -83,21 +83,21 @@ int32,str,str
 她說將人造元靈作為會思考的武器來培養，
 會導致人造元靈的人格產生缺陷，還寫出了進行改善的理論建議。"
 64,"TEXT_JOBREL520_02403_ARDASHIR_000_017","這內容換成從前的我一定是半點都無法理解，
-但多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和蓋羅爾特先生的教導，
+但多虧了<Highlight>ObjectParameter(1)</Highlight>和蓋羅爾特先生的教導，
 現在的我有信心將瑪托雅大師的理論付諸實踐。"
-65,"TEXT_JOBREL520_02403_ARDASHIR_000_018"," <Highlight>ObjectParameter(1)</Highlight> ，能請你協助我進行新的實驗，
+65,"TEXT_JOBREL520_02403_ARDASHIR_000_018","<Highlight>ObjectParameter(1)</Highlight>，能請你協助我進行新的實驗，
 完善人造元靈的人格嗎？"
 66,"TEXT_JOBREL520_02403_ARDASHIR_000_021","非常感謝！
 那我們快點去將這個消息告訴蓋羅爾特先生吧！
 我先走一步，我們老地方見。"
 67,"TEXT_JOBREL520_02403_ROWENA_000_022","哈哈，看來你又有得忙了。
 不過放心吧，羅薇娜商會會永遠支持你的，
-只要你付出對等的代價就可以囉。"
+只要你付出對等的代價就可以咯。"
 68,"TEXT_JOBREL520_02403_ROWENA_000_023","好好加油吧。"
 69,"TEXT_JOBREL520_02403_ROWENA_000_024","羅薇娜商會會永遠支持你的，
-只要你付出對等的代價就可以囉。"
+只要你付出對等的代價就可以咯。"
 70,"TEXT_JOBREL520_02403_GEROLT_000_030","嘁，麻煩的工作一個接一個……
 有時間騷擾我，不如趕緊去聽聽阿爾達希爾怎麼說！"
-71,"TEXT_JOBREL520_02403_ARDASHIR_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來！
+71,"TEXT_JOBREL520_02403_ARDASHIR_000_031","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來！
 我們來根據瑪托雅大師的理論，
 進行人造元靈人格補完計劃吧！"

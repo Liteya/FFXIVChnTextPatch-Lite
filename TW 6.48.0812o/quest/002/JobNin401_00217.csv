@@ -56,7 +56,7 @@ int32,str,str
 49,"TEXT_JOBNIN401_00217_OBORO_000_001","感覺太困難的話，不用縮地也可以過來。
 我先過去等你了。"
 50,"TEXT_JOBNIN401_00217_TSUBAME_000_010","從這裡突出的地方向屋頂上使用縮地就可以順利過去了。"
-51,"TEXT_JOBNIN401_00217_OBORO_000_015","不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+51,"TEXT_JOBNIN401_00217_OBORO_000_015","不愧是<Highlight>ObjectParameter(1)</Highlight>。
 你已經越來越像是一個忍者了。
 ……我們在這裡等目標出現吧。"
 52,"TEXT_JOBNIN401_00217_WOLFSTAN_000_040","果然治療新舊傷口、傷疤還是這裡效果最好。
@@ -69,22 +69,22 @@ int32,str,str
 但我倒是比較擅長潛水……"
 57,"TEXT_JOBNIN401_00217_TSUBAME_000_045","我聽聞這裡有一邊飲香葡萄酒一邊泡溫泉的習俗。
 我去給目標勸酒好了。"
-58,"TEXT_JOBNIN401_00217_TSUBAME_000_046"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人也請在稍後出來配合我。
+58,"TEXT_JOBNIN401_00217_TSUBAME_000_046","<Highlight>ObjectParameter(1)</Highlight>大人也請在稍後出來配合我。
 <If(PlayerParameter(4))>有像你這般美麗的女性去勸酒的話，
 目標一定會被迷得神魂顛倒的。<Else/>有像你這般強壯的男性去勸酒的話，
 一定能挑起目標的好勝心。</If>"
 59,"TEXT_JOBNIN401_00217_OBORO_000_047","……原來如此。
 我該做點什麼？"
-60,"TEXT_JOBNIN401_00217_TSUBAME_000_048","朧大人待著就……不對，朧大人請在這裡進行監視吧。"
+60,"TEXT_JOBNIN401_00217_TSUBAME_000_048","朧大人呆著就……不對，朧大人請在這裡進行監視吧。"
 61,"TEXT_JOBNIN401_00217_TSUBAME_000_049","那我先去進行準備工作了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，
+<Highlight>ObjectParameter(1)</Highlight>大人，
 我有東西想交給你，能來一下嗎？"
 62,"TEXT_JOBNIN401_00217_OBORO_000_060","燕那傢伙為何如此慌慌張張的……
-明明是我展示從你那裡學來的艾奧傑亞知識的大好機會……"
+明明是我展示從你那裡學來的艾歐澤亞知識的大好機會……"
 63,"TEXT_JOBNIN401_00217_TSUBAME_000_100","我已經準備好了。
 為了接近目標，我提前準備了很多東西。
 看來這次是要派上用場了呢。"
-64,"TEXT_JOBNIN401_00217_TSUBAME_000_101"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，請你拿著這個<Sheet(EventItem,2001308,0)/>。
+64,"TEXT_JOBNIN401_00217_TSUBAME_000_101","<Highlight>ObjectParameter(1)</Highlight>大人，請你拿著這個<Sheet(EventItem,2001308,0)/>。
 ……這是我調配的，裡面稍微加了點特別的料。"
 65,"TEXT_JOBNIN401_00217_TSUBAME_000_102","我先拿著普通的葡萄酒過去。
 你看準時機將這瓶加了料的葡萄酒拿過來。"
@@ -152,10 +152,10 @@ int32,str,str
 一旦發現有人不對勁就當場格殺。"
 91,"TEXT_JOBNIN401_00217_OBORO_000_262","鴉多半就是在這深處。
 我們幾個也分散開穿越他們的監視網吧。"
-92,"TEXT_JOBNIN401_00217_OBORO_000_263"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 由這裡直接過去。
+92,"TEXT_JOBNIN401_00217_OBORO_000_263","<Highlight>ObjectParameter(1)</Highlight>由這裡直接過去。
 我去找其他路線。
 ……燕，你負責切斷鴉的後路。"
-93,"TEXT_JOBNIN401_00217_TSUBAME_000_264"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，
+93,"TEXT_JOBNIN401_00217_TSUBAME_000_264","<Highlight>ObjectParameter(1)</Highlight>大人，
 使用隱遁後移動時，能夠不被敵方發現。
 ……但要注意某些感知力強的生物。"
 94,"TEXT_JOBNIN401_00217_TSUBAME_000_265","特別是鴉飼養的影蝙蝠，
@@ -170,7 +170,7 @@ int32,str,str
 98,"TEXT_JOBNIN401_00217_KARASU_000_292","呵呵呵，人太出名了還真是辛苦呢。
 我可沒那時間陪你們玩喲！！"
 99,"TEXT_JOBNIN401_00217_OBORO_000_300","嘁……還是跑得那麼快！"
-100,"TEXT_JOBNIN401_00217_OBORO_000_301"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、燕，
+100,"TEXT_JOBNIN401_00217_OBORO_000_301","<Highlight>ObjectParameter(1)</Highlight>、燕，
 看來只能重新制定計劃了……
 我們先回碼頭小屋吧。"
 101,"TEXT_JOBNIN401_00217_GEKKAI_000_302","(-？？？？-)……又沒能殺死古利姆烏維爾？"
@@ -187,12 +187,12 @@ int32,str,str
 都還是會被他跑掉。
 究竟跑得是有多快呀……"
 108,"TEXT_JOBNIN401_00217_OBORO_000_351","而且他的忍術比在忍村時更強了。
-是來了艾奧傑亞後也還在獨力進行修行嗎？"
+是來了艾歐澤亞後也還在獨力進行修行嗎？"
 109,"TEXT_JOBNIN401_00217_OBORO_000_352","不能說喪氣話了，要制定出下一次作戰計劃才行。
 既然作為忍村的忍者接受了任務，就絕不允許失敗。
 一定要快些完成任務後彙報給村子才行。"
 110,"TEXT_JOBNIN401_00217_OBORO_000_353","……不用擔心，決戰的日子不遠了。
-我們已經大致熟悉了艾奧傑亞的風俗。
+我們已經大致熟悉了艾歐澤亞的風俗。
 而你，在之前的戰鬥中也表現得很好。"
 111,"TEXT_JOBNIN401_00217_OBORO_000_354","在制定好新作戰計劃之前，你先繼續鍛鍊自身吧。
 當身為忍者的能力提高後再來這裡即可。"
@@ -203,7 +203,7 @@ int32,str,str
 116,"TEXT_JOBNIN401_00217_QIB_001_TSUBAME_BATTLETALK_00","退路已斷……納命來！"
 117,"TEXT_JOBNIN401_00217_QIB_001_KARASU_BATTLETALK_01","嘖，就算是我的追求者，也不可以搞埋伏的呀！"
 118,"TEXT_JOBNIN401_00217_QIB_001_OBORO_BATTLETALK_01","今後你也再沒機會說這些廢話了，鴉！"
-119,"TEXT_JOBNIN401_00217_QIB_001_KARASU_BATTLETALK_03","白痴白痴！小爺我自有脫身妙計！"
+119,"TEXT_JOBNIN401_00217_QIB_001_KARASU_BATTLETALK_03","白癡白癡！小爺我自有脫身妙計！"
 120,"TEXT_JOBNIN401_00217_QIB_001_OBORO_BATTLETALK_02","可惡，明明就差一點點了！"
 121,"TEXT_JOBNIN401_00217_QIB_001_OBORO_BATTLETALK_DEAD","抱歉，我大……意了……"
 122,"TEXT_JOBNIN401_00217_QIB_001_TSUBAME_BATTLETALK_DEAD","對不起……之後就拜託了……"

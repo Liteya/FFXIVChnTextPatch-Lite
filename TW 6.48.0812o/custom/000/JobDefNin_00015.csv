@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_JOBDEFNIN_00015_YOUMEI_000_000","請問有何貴幹？"
-1,"TEXT_JOBDEFNIN_00015_Q1_000_001","想瞭解什麼？"
-2,"TEXT_JOBDEFNIN_00015_A1_000_001","你是做什麼的？ "
+1,"TEXT_JOBDEFNIN_00015_Q1_000_001","想了解什麼？"
+2,"TEXT_JOBDEFNIN_00015_A1_000_001","你是做什麼的？"
 3,"TEXT_JOBDEFNIN_00015_A1_000_002","朧是做什麼的？"
-4,"TEXT_JOBDEFNIN_00015_A1_000_003","什麼是「忍者」？ "
+4,"TEXT_JOBDEFNIN_00015_A1_000_003","什麼是「忍者」？"
 5,"TEXT_JOBDEFNIN_00015_A1_000_004","取消"
 6,"TEXT_JOBDEFNIN_00015_YOUMEI_000_010","我叫陽明，
 是來自遙遠東方奧薩德次大陸的一名忍者。"
@@ -16,7 +16,7 @@ int32,str,str
 所以只能承擔一些日常的事務工作。"
 9,"TEXT_JOBDEFNIN_00015_YOUMEI_000_030","朧大人是村裡的年輕人中最優秀的人物。
 不光是實力，認真的性格也使他在下忍中很有人望。"
-10,"TEXT_JOBDEFNIN_00015_YOUMEI_000_031","這次遠征艾奧傑亞的任務背井離鄉困難之極，
+10,"TEXT_JOBDEFNIN_00015_YOUMEI_000_031","這次遠征艾歐澤亞的任務背井離鄉困難之極，
 村中很多厲害的上忍都敬謝不敏。
 只有朧大人主動請纓接下了任務並保證一定完成。"
 11,"TEXT_JOBDEFNIN_00015_YOUMEI_000_032","完成這次任務的話，
@@ -28,40 +28,40 @@ int32,str,str
 時常會與強大的地方豪族結下契約，
 從事於諜報、暗殺等戰爭行當。"
 14,"TEXT_JOBDEFNIN_00015_YOUMEI_000_022","而從事這些特殊工作的人，則漸漸被人稱呼為「忍者」了。"
-15,"TEXT_JOBDEFNIN_00015_YOUMEI_000_023","忍者透過結印調動天地人間的氣，
+15,"TEXT_JOBDEFNIN_00015_YOUMEI_000_023","忍者通過結印調動天地人間的氣，
 施展出各種忍術來進行戰鬥。"
 16,"TEXT_JOBDEFNIN_00015_YOUMEI_000_024","但如果調動氣時出現了失誤，
 名為「密西迪亞兔」的小動物就會被不知從哪裡通靈出來。"
 17,"TEXT_JOBDEFNIN_00015_YOUMEI_000_025","每當結印失敗時看到那兔子悠哉的表情……
 啊……簡直是地獄。"
-18,"TEXT_JOBDEFNIN_00015_YOUMEI_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！
+18,"TEXT_JOBDEFNIN_00015_YOUMEI_000_090","<Highlight>ObjectParameter(1)</Highlight>大人！
 請問找我有什麼事？"
 19,"TEXT_JOBDEFNIN_00015_YOUMEI_030_099","朧大人最近總是唉聲嘆氣的……"
-20,"TEXT_JOBDEFNIN_00015_YOUMEI_040_099"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，
+20,"TEXT_JOBDEFNIN_00015_YOUMEI_040_099","<Highlight>ObjectParameter(1)</Highlight>大人，
 勞煩你陪朧大人一起了。"
-21,"TEXT_JOBDEFNIN_00015_Q2_000_1","想瞭解什麼？"
+21,"TEXT_JOBDEFNIN_00015_Q2_000_1","想了解什麼？"
 22,"TEXT_JOBDEFNIN_00015_A2_000_1","最近怎麼樣？"
-23,"TEXT_JOBDEFNIN_00015_A2_000_2","什麼是「忍者」？ "
+23,"TEXT_JOBDEFNIN_00015_A2_000_2","什麼是「忍者」？"
 24,"TEXT_JOBDEFNIN_00015_A2_000_3","取消"
 25,"TEXT_JOBDEFNIN_00015_YOUMEI_000_100","現在暫時還沒收到村子的消息，
 我們也都一切如常。"
-26,"TEXT_JOBDEFNIN_00015_YOUMEI_000_101","之前朧大人不適應艾奧傑亞的水土，身體狀況一直不太好，
+26,"TEXT_JOBDEFNIN_00015_YOUMEI_000_101","之前朧大人不適應艾歐澤亞的水土，身體狀況一直不太好，
 但最近也有了很大改善。
 從前喝不慣的山羊奶最近也能喝下去了。"
 27,"TEXT_JOBDEFNIN_00015_YOUMEI_000_102","……雖然這次任務的結果可能無法令所有人滿意。
 但朧大人為我的父親報了仇，我心中對他只有感激。"
 28,"TEXT_JOBDEFNIN_00015_YOUMEI_010_100","最近一直沒有收到忍村來的消息，
 我也還是照舊在幫朧大人處理日常事務。"
-29,"TEXT_JOBDEFNIN_00015_YOUMEI_010_101","聽聞 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人在忍者之路上又進了一步。
+29,"TEXT_JOBDEFNIN_00015_YOUMEI_010_101","聽聞<Highlight>ObjectParameter(1)</Highlight>大人在忍者之路上又進了一步。
 我們雖然生在不同的地方，但卻是走上了同一條道路的同志，
 我也十分為你開心。"
 30,"TEXT_JOBDEFNIN_00015_YOUMEI_010_102","朧大人最近好像心情不錯，
 連一直喝不慣的山羊奶都開始主動要喝了。"
-31,"TEXT_JOBDEFNIN_00015_YOUMEI_010_103","嘻嘻嘻，多半是在為 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人的成長而開心吧。"
+31,"TEXT_JOBDEFNIN_00015_YOUMEI_010_103","嘻嘻嘻，多半是在為<Highlight>ObjectParameter(1)</Highlight>大人的成長而開心吧。"
 32,"TEXT_JOBDEFNIN_00015_YOUMEI_020_100","小雪公主殿下的事情我已經聽說了。
 現在忍村暫時還沒來消息，
 可能是留在村裡的燕大人幫忙做了一些周旋吧。"
-33,"TEXT_JOBDEFNIN_00015_YOUMEI_020_101","朧大人好像蠻中意這邊的生活……
+33,"TEXT_JOBDEFNIN_00015_YOUMEI_020_101","朧大人好像挺中意這邊的生活……
 暫時還不想回村子去。"
 34,"TEXT_JOBDEFNIN_00015_YOUMEI_020_102","所以導致最近朧大人總是唉聲嘆氣的，
 結印有時候都會失敗……
@@ -112,7 +112,7 @@ int32,str,str
 時常會與強大的地方豪族結下契約，
 從事於諜報、暗殺等戰爭行當。"
 54,"TEXT_JOBDEFNIN_00015_YOUMEI_000_122","而從事這些特殊工作的人，則漸漸被人稱呼為「忍者」了。"
-55,"TEXT_JOBDEFNIN_00015_YOUMEI_000_123","忍者透過結印調動天地人間的氣，
+55,"TEXT_JOBDEFNIN_00015_YOUMEI_000_123","忍者通過結印調動天地人間的氣，
 施展出各種忍術來進行戰鬥。"
 56,"TEXT_JOBDEFNIN_00015_YOUMEI_000_124","但如果調動氣時出現了失誤，
 名為「密西迪亞兔」的小動物就會被不知從哪裡通靈出來。"

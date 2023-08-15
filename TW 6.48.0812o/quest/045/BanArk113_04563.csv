@@ -59,8 +59,8 @@ int32,str,str
 不過附近已經有長大的個體存在，過於危險難以靠近。"
 50,"TEXT_BANARK113_04563_MARU_000_003","更糟糕的是，廚房那邊表示阿輸陀花的果實能作為食材使用，
 所以希望我們能將它帶回來……
-可是那果實表面全是毒液，沾到皮膚會起發炎……"
-51,"TEXT_BANARK113_04563_MARU_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這件事可以拜託你嗎……？
+可是那果實表面全是毒液，沾到皮膚會起炎症……"
+51,"TEXT_BANARK113_04563_MARU_000_004","<Highlight>ObjectParameter(1)</Highlight>，這件事可以拜託你嗎……？
 請前往帕瓦納的悔悟的寺院附近尋找阿輸陀花的果實，
 找到後就用這個<Sheet(EventItem,2003420,0)/>消除毒性，然後帶回來。"
 52,"TEXT_BANARK113_04563_SYSTEM_000_020","採集到了圓圓的<Sheet(EventItem,2003421,0)/>！

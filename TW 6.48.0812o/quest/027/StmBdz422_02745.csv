@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDZ422_02745_SEQ_23",""
 24,"TEXT_STMBDZ422_02745_TODO_00","和禍津高加顱對話 討伐出現的敵人"
 25,"TEXT_STMBDZ422_02745_TODO_01","和禍津高加顱對話"
-26,"TEXT_STMBDZ422_02745_TODO_02","獲得<Sheet(EventItem,2002253,0)/>"
+26,"TEXT_STMBDZ422_02745_TODO_02","獲取<Sheet(EventItem,2002253,0)/>"
 27,"TEXT_STMBDZ422_02745_TODO_03","將<Sheet(EventItem,2002253,0)/>交給魚影"
 28,"TEXT_STMBDZ422_02745_TODO_04",""
 29,"TEXT_STMBDZ422_02745_TODO_05",""
@@ -69,7 +69,7 @@ int32,str,str
 謝謝你噗！"
 57,"TEXT_STMBDZ422_02745_GYOEI_000_021","這樣一來那些傢伙要是
 能稍微老實一點就好了噗……"
-58,"TEXT_STMBDZ422_02745_GYOEI_000_022","這些錢，是我把附近的花做成冷盤賣了賺來的，
+58,"TEXT_STMBDZ422_02745_GYOEI_000_022","這些錢，是我把附近的花做成涼菜賣了賺來的，
 可以說是泥土與淚水與青春的贈品噗……
 人類也都說這個菜很好吃，人氣很高呢噗！"
 59,"TEXT_STMBDZ422_02745_GYOEI_000_023","（★未使用／削除予定★）"

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ810_02838_SEQ_21",""
 22,"TEXT_STMBDZ810_02838_SEQ_22",""
 23,"TEXT_STMBDZ810_02838_SEQ_23",""
-24,"TEXT_STMBDZ810_02838_TODO_00","從<Sheet(BNpcName,5710,0)/>身上獲得<Sheet(EventItem,2002347,0)/>"
+24,"TEXT_STMBDZ810_02838_TODO_00","從<Sheet(BNpcName,5710,0)/>身上獲取<Sheet(EventItem,2002347,0)/>"
 25,"TEXT_STMBDZ810_02838_TODO_01","將<Sheet(EventItem,2002347,0)/>交給維德海里"
 26,"TEXT_STMBDZ810_02838_TODO_02",""
 27,"TEXT_STMBDZ810_02838_TODO_03",""
@@ -53,11 +53,11 @@ int32,str,str
 我聽客人說你是個有名的冒險者。
 這次我想委託一件只有你才能完成的工作。"
 49,"TEXT_STMBDZ810_02838_WEIDHERI_000_001","我希望你能去打倒城外的<Sheet(BNpcName,5710,0)/>，
-然後從它身上獲得<Sheet(EventItem,2002347,0)/>。"
+然後從它身上獲取<Sheet(EventItem,2002347,0)/>。"
 50,"TEXT_STMBDZ810_02838_WEIDHERI_000_002","拿來幹什麼就請稍後期待吧。
 那麼拜託了，冒險者。"
 51,"TEXT_STMBDZ810_02838_WEIDHERI_000_003","我希望你能去打倒城外的<Sheet(BNpcName,5710,0)/>，
-然後從它身上獲得<Sheet(EventItem,2002347,0)/>。
+然後從它身上獲取<Sheet(EventItem,2002347,0)/>。
 那麼拜託了，冒險者。"
 52,"TEXT_STMBDZ810_02838_WEIDHERI_000_010","你拿到我想要的東西了嗎？"
 53,"TEXT_STMBDZ810_02838_WEIDHERI_000_011","哦哦，好有活力的<Sheet(EventItem,2002347,0)/>。

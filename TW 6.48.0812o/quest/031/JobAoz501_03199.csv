@@ -52,15 +52,15 @@ int32,str,str
 45,"TEXT_JOBAOZ501_03199_TODO_21",""
 46,"TEXT_JOBAOZ501_03199_TODO_22",""
 47,"TEXT_JOBAOZ501_03199_TODO_23",""
-48,"TEXT_JOBAOZ501_03199_LATOOLJA_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_JOBAOZ501_03199_LATOOLJA_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 恭喜、你華麗、地打倒了啟示、者！"
 49,"TEXT_JOBAOZ501_03199_NEWWORLDBOY_000_001","真的謝謝你！
 這樣就能奪回我們瓦拉其族的聖地了！
-部族的大夥一定會很高興的！"
+部族的大伙一定會很高興的！"
 50,"TEXT_JOBAOZ501_03199_MARTYN_000_002","幹得真漂亮！
 不愧是我的徒弟，
 你戰鬥時的英姿，讓我感到十分振奮！"
-51,"TEXT_JOBAOZ501_03199_ROYSE_000_003","恭喜你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+51,"TEXT_JOBAOZ501_03199_ROYSE_000_003","恭喜你，<Highlight>ObjectParameter(1)</Highlight>！
 多虧了你，使得整個鬥技場都座無虛席！
 還有我會按約定的那樣從瓦拉其族的土地項目上撤資。"
 52,"TEXT_JOBAOZ501_03199_WHASTRACH_000_004","(-啟示者的聲音-)我管你有什麼約定……
@@ -75,13 +75,13 @@ int32,str,str
 蘿伊絲也會繼續提供用來探索的資金吧。"
 56,"TEXT_JOBAOZ501_03199_WHASTRACH_000_008","我已經安排了大型船隻準備馬上出發前往調查。
 雖然算不上是對這回事情的賠罪，希達你就順便一起上船吧，
-還有……如果你願意的話，我想僱你作為在當地的嚮導。"
+還有……如果你願意的話，我想雇你作為在當地的嚮導。"
 57,"TEXT_JOBAOZ501_03199_NEWWORLDBOY_000_009","嚮導的工作就交給我好了。
 我還知道其他幾處和青藍谷相似的地方。"
 58,"TEXT_JOBAOZ501_03199_WHASTRACH_000_010","你說什麼？是真的嗎？！
 你要是早點說……
 時間不等人，趕緊出發吧！"
-59,"TEXT_JOBAOZ501_03199_NEWWORLDBOY_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真的謝謝你了！
+59,"TEXT_JOBAOZ501_03199_NEWWORLDBOY_000_011","<Highlight>ObjectParameter(1)</Highlight>，真的謝謝你了！
 請你以後也來新大陸玩玩吧！"
 60,"TEXT_JOBAOZ501_03199_ROYSE_000_012","我也有事情想拜託第二代藍色假面。
 從今往後也請你作為我們的招牌鬥士，

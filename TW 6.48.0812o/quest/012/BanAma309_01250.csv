@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA309_01250_SEQ_00","灰陣營的雅德夫．夏想要冒險者去對付倒戈派。"
-1,"TEXT_BANAMA309_01250_SEQ_01","接受了雅德夫．夏的委託。在不悔戰陣的<Sheet(EObj,2003213,0)/>周圍張望，打敗現身的<Sheet(BNpcName,2305,0)/>，對其使用<Sheet(EventItem,2001196,0)/>。"
-2,"TEXT_BANAMA309_01250_SEQ_02","對<Sheet(BNpcName,2305,0)/>們使用了<Sheet(EventItem,2001196,0)/>。向灰陣營的雅德夫．夏報告。"
-3,"TEXT_BANAMA309_01250_SEQ_03","向雅德夫．夏報告完畢。光榮的灰黨不需要見風使舵的倒戈派。下次有機會再協助他。"
+0,"TEXT_BANAMA309_01250_SEQ_00","灰陣營的雅德夫·夏想要冒險者去對付倒戈派。"
+1,"TEXT_BANAMA309_01250_SEQ_01","接受了雅德夫·夏的委託。在不悔戰陣的<Sheet(EObj,2003213,0)/>周圍張望，打敗現身的<Sheet(BNpcName,2305,0)/>，對其使用<Sheet(EventItem,2001196,0)/>。"
+2,"TEXT_BANAMA309_01250_SEQ_02","對<Sheet(BNpcName,2305,0)/>們使用了<Sheet(EventItem,2001196,0)/>。向灰陣營的雅德夫·夏報告。"
+3,"TEXT_BANAMA309_01250_SEQ_03","向雅德夫·夏報告完畢。光榮的灰黨不需要見風使舵的倒戈派。下次有機會再協助他。"
 4,"TEXT_BANAMA309_01250_SEQ_04",""
 5,"TEXT_BANAMA309_01250_SEQ_05",""
 6,"TEXT_BANAMA309_01250_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_BANAMA309_01250_SEQ_23",""
 24,"TEXT_BANAMA309_01250_TODO_00","在不悔戰陣的<Sheet(EObj,2003213,0)/>張望
 打敗現身的<Sheet(BNpcName,2305,0)/> 對其使用<Sheet(EventItem,2001196,0)/>"
-25,"TEXT_BANAMA309_01250_TODO_01","向雅德夫．夏報告"
+25,"TEXT_BANAMA309_01250_TODO_01","向雅德夫·夏報告"
 26,"TEXT_BANAMA309_01250_TODO_02",""
 27,"TEXT_BANAMA309_01250_TODO_03",""
 28,"TEXT_BANAMA309_01250_TODO_04",""
@@ -66,7 +66,7 @@ int32,str,str
 糾正一下他們爛到骨子裡的劣根性！"
 54,"TEXT_BANAMA309_01250_AMALJAAENEMYA_000_015","呀！水？！
 水啊——"
-55,"TEXT_BANAMA309_01250_AMALJAAENEMYAB000_016","嗚哇，溼透了！"
+55,"TEXT_BANAMA309_01250_AMALJAAENEMYAB000_016","嗚哇，濕透了！"
 56,"TEXT_BANAMA309_01250_AMALJAAENEMYC_000_017","拒絕收納我們，你們一定會後悔的！"
 57,"TEXT_BANAMA309_01250_AMALJAAENEMYD_000_018","這是水！嚇死啦！
 救命！"

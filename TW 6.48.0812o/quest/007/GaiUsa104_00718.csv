@@ -56,7 +56,7 @@ int32,str,str
 45,"TEXT_GAIUSA104_00718_TODO_21",""
 46,"TEXT_GAIUSA104_00718_TODO_22",""
 47,"TEXT_GAIUSA104_00718_TODO_23",""
-48,"TEXT_GAIUSA104_00718_PAPALYMO_000_000"," <Highlight>ObjectParameter(1)</Highlight> ，你是個冒險者。
+48,"TEXT_GAIUSA104_00718_PAPALYMO_000_000","<Highlight>ObjectParameter(1)</Highlight>，你是個冒險者。
 你這一路走來，幫助過很多遇上麻煩的人，
 那些委託人後來都很高興的吧。"
 49,"TEXT_GAIUSA104_00718_PAPALYMO_000_001","妖精族並不會告訴我們，
@@ -90,4 +90,4 @@ int32,str,str
 有了這個染色就會輕鬆好多了呼啾！"
 63,"TEXT_GAIUSA104_00718_KOMUXIO_000_032","哎？你還幹掉了欺負我們的魔物呼啾？
 ……你還真是個好心的「人類」呼啾。"
-64,"TEXT_GAIUSA104_00718_KOMUXIO_000_033","……我好像有點瞭解你了呼啾。"
+64,"TEXT_GAIUSA104_00718_KOMUXIO_000_033","……我好像有點了解你了呼啾。"

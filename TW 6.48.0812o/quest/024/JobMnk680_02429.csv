@@ -2,15 +2,15 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMNK680_02429_SEQ_00","阿拉加納的維達蓋爾特非常失落。"
-1,"TEXT_JOBMNK680_02429_SEQ_01","維達蓋爾特的情緒非常低落。和阿拉加納的奧．夏可哈談談。"
+1,"TEXT_JOBMNK680_02429_SEQ_01","維達蓋爾特的情緒非常低落。和阿拉加納的奧·夏可哈談談。"
 2,"TEXT_JOBMNK680_02429_SEQ_02","夏可哈很擔心維達蓋爾特。在基拉巴尼亞邊區的神拳痕尋找艾里克。"
 3,"TEXT_JOBMNK680_02429_SEQ_03","艾里克對泰奧巴爾德進行了調查。和阿拉加納的維達蓋爾特談談。"
-4,"TEXT_JOBMNK680_02429_SEQ_04","維達蓋爾特重新振作了起來。前往基拉巴尼亞邊區的幻我園，和維達蓋爾特會合。"
-5,"TEXT_JOBMNK680_02429_SEQ_05","為了讓維達蓋爾特掌握新的戰鬥方式，冒險者開始指導三人修行。在修行途中，修維拉爾德出現，自稱受艾里克之託來找冒險者。前往基拉巴尼亞邊區的東境混和林，和修維拉爾德談談。"
+4,"TEXT_JOBMNK680_02429_SEQ_04","維達蓋爾特重新振作了起來。前往基拉巴尼亞邊區的幻我園，和維達蓋爾特匯合。"
+5,"TEXT_JOBMNK680_02429_SEQ_05","為了讓維達蓋爾特掌握新的戰鬥方式，冒險者開始指導三人修行。在修行途中，修維拉爾德出現，自稱受艾里克之託來找冒險者。前往基拉巴尼亞邊區的東境混交林，和修維拉爾德談談。"
 6,"TEXT_JOBMNK680_02429_SEQ_06","修維拉爾德居然是骸旅團的人。他們挾持艾里克博士並對冒險者發起了攻擊，後被冒險者擊退。和基拉巴尼亞邊區的修維拉爾德對峙。"
-7,"TEXT_JOBMNK680_02429_SEQ_07","維達蓋爾特趕到，修維拉爾德撤退了。和東境混和林的艾里克談談。"
+7,"TEXT_JOBMNK680_02429_SEQ_07","維達蓋爾特趕到，修維拉爾德撤退了。和東境混交林的艾里克談談。"
 8,"TEXT_JOBMNK680_02429_SEQ_08","艾里克非常感謝冒險者捨命相救。和阿拉加納的維達蓋爾特談談。"
-9,"TEXT_JOBMNK680_02429_SEQ_09","維達蓋爾特決定繼續修行，等艾里克痊癒後向泰奧巴爾德發起決鬥。相信他能透過努力獲得超越泰奧巴爾德的力量。
+9,"TEXT_JOBMNK680_02429_SEQ_09","維達蓋爾特決定繼續修行，等艾里克痊癒後向泰奧巴爾德發起決鬥。相信他能通過努力獲得超越泰奧巴爾德的力量。
 
 ※武僧的等級達到70級以上時，可以從阿拉加納的維達蓋爾特那裡領取下一個武僧任務。"
 10,"TEXT_JOBMNK680_02429_SEQ_10",""
@@ -30,9 +30,9 @@ int32,str,str
 24,"TEXT_JOBMNK680_02429_TODO_00","和夏可哈對話"
 25,"TEXT_JOBMNK680_02429_TODO_01","在神拳痕尋找艾里克"
 26,"TEXT_JOBMNK680_02429_TODO_02","和阿拉加納的維達蓋爾特對話"
-27,"TEXT_JOBMNK680_02429_TODO_03","和幻我園的維達蓋爾特會合"
-28,"TEXT_JOBMNK680_02429_TODO_04","和東境混和林的修維拉爾德對話"
-29,"TEXT_JOBMNK680_02429_TODO_05","和東境混和林的修維拉爾德對話"
+27,"TEXT_JOBMNK680_02429_TODO_03","和幻我園的維達蓋爾特匯合"
+28,"TEXT_JOBMNK680_02429_TODO_04","和東境混交林的修維拉爾德對話"
+29,"TEXT_JOBMNK680_02429_TODO_05","和東境混交林的修維拉爾德對話"
 30,"TEXT_JOBMNK680_02429_TODO_06","和艾里克對話"
 31,"TEXT_JOBMNK680_02429_TODO_07","和阿拉加納的維達蓋爾特對話"
 32,"TEXT_JOBMNK680_02429_TODO_08",""
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_JOBMNK680_02429_TODO_21",""
 46,"TEXT_JOBMNK680_02429_TODO_22",""
 47,"TEXT_JOBMNK680_02429_TODO_23",""
-48,"TEXT_JOBMNK680_02429_WIDARGELT_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+48,"TEXT_JOBMNK680_02429_WIDARGELT_000_001","<Highlight>ObjectParameter(1)</Highlight>……"
 49,"TEXT_JOBMNK680_02429_WIDARGELT_000_002","我現在該怎麼做才好……廢王殺死了我的雙親和星導教的僧眾，
 而我又被繼承了廢王血脈的人擊敗……
 費盡辛苦招來的信徒們已經流失殆盡。"
@@ -62,7 +62,7 @@ int32,str,str
 52,"TEXT_JOBMNK680_02429_WIDARGELT_000_005","如果有時間的話，也請你去和傑恩茶、夏可哈聊聊吧。
 雖然她倆身體上的傷口癒合了，
 但心靈應該還沒從慘敗的打擊中恢復過來……"
-53,"TEXT_JOBMNK680_02429_OTCHAKHA_000_010","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_JOBMNK680_02429_OTCHAKHA_000_010","啊，<Highlight>ObjectParameter(1)</Highlight>！
 你來看我們了嗎？"
 54,"TEXT_JOBMNK680_02429_OTCHAKHA_000_011","如你所見，我和傑恩茶都已經恢復了。
 不過師父好像還沒有從打擊中緩過勁來……"
@@ -74,14 +74,14 @@ int32,str,str
 57,"TEXT_JOBMNK680_02429_DZENTSA_000_014","那我們去找艾里克博士商量一下吧。
 ……啊，但把師父一個人留在這我也不大放心。"
 58,"TEXT_JOBMNK680_02429_OTCHAKHA_000_015","是啊……
-不好意思， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+不好意思，<Highlight>ObjectParameter(1)</Highlight>。
 能請你將艾里克博士叫來嗎？"
 59,"TEXT_JOBMNK680_02429_OTCHAKHA_000_016","博士前往了神拳痕，
 去調查那個自稱是下一任國王的泰奧巴爾德了。
 你去那裡找的話應該能找到他……"
 60,"TEXT_JOBMNK680_02429_WIDARGELT_000_020","我真的有資格重建星導教嗎？"
 61,"TEXT_JOBMNK680_02429_DZENTSA_000_025","可惡，如果我們再強一點的話……"
-62,"TEXT_JOBMNK680_02429_ERIK_000_030","哦，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？
+62,"TEXT_JOBMNK680_02429_ERIK_000_030","哦，這不是<Highlight>ObjectParameter(1)</Highlight>嗎？
 你來得正是時候，聽老朽給你講講老朽從阿拉米格解放軍這裡
 收集到的關於下任國王泰奧巴爾德的情報！"
 63,"TEXT_JOBMNK680_02429_ERIK_000_031","根據解放軍的消息，那小夥子是最近剛剛冒出來的。
@@ -119,7 +119,7 @@ int32,str,str
 他就不會慘死在戰場上了。"
 77,"TEXT_JOBMNK680_02429_ERIK_000_057","但老朽現在想來，就算當時老朽加以阻止，
 老朽的兒子最後肯定也還是會選擇踏上戰場的道路。
-因為一個人去做什麼事請，並不是由身上的血決定的。"
+因為一個人去做什麼事情，並不是由身上的血決定的。"
 78,"TEXT_JOBMNK680_02429_ERIK_000_058","就算你是廢王的侄子泰奧德雷德又如何？
 你有著身為維達蓋爾特所必須去成就的事業才對！"
 79,"TEXT_JOBMNK680_02429_ERIK_000_059","此時此刻，阿拉米格解放軍的戰士們也在
@@ -136,7 +136,7 @@ int32,str,str
 泰奧巴爾德想要成為阿拉米格的統治者，
 他的想法與我重建的新星導教的理念水火不容！"
 85,"TEXT_JOBMNK680_02429_WIDARGELT_000_064","為了給人民帶來希望，我必須擊敗他才行！
-我……我為了守護自己最重要的東西，一定要變強！"
+我……我為了守護自己最重要的東西，必須要變強！"
 86,"TEXT_JOBMNK680_02429_ERIK_100_064","那你接下來具體打算怎麼做？"
 87,"TEXT_JOBMNK680_02429_WIDARGELT_200_064","……有件事令我十分在意。
 那個戴著鐵面具的男人泰奧巴爾德……
@@ -144,9 +144,9 @@ int32,str,str
 88,"TEXT_JOBMNK680_02429_WIDARGELT_300_064","如果我沒記錯的話……
 似乎是——在烈火中的星導寺……"
 89,"TEXT_JOBMNK680_02429_WIDARGELT_400_064","不會吧，怎麼可能……
-難道泰奧巴爾德的真正身份是——阿德里？"
-90,"TEXT_JOBMNK680_02429_ERIK_500_064","阿德里？那是什麼人？"
-91,"TEXT_JOBMNK680_02429_WIDARGELT_600_064","……阿德里是一位我如兄長般敬重的師兄。
+難道泰奧巴爾德的真正身份是——阿德裡？"
+90,"TEXT_JOBMNK680_02429_ERIK_500_064","阿德裡？那是什麼人？"
+91,"TEXT_JOBMNK680_02429_WIDARGELT_600_064","……阿德裡是一位我如兄長般敬重的師兄。
 本以為他在星導寺被毀之日喪命，
 沒想到還活著……"
 92,"TEXT_JOBMNK680_02429_ERIK_700_064","阻攔星導教重建的居然是你大難不死的師兄……"
@@ -154,20 +154,20 @@ int32,str,str
 94,"TEXT_JOBMNK680_02429_A2_000_001","用拳頭弄清他真正的意圖吧"
 95,"TEXT_JOBMNK680_02429_A2_000_002","你對自己的師兄下得了手嗎？"
 96,"TEXT_JOBMNK680_02429_WIDARGELT_800_065","嗯，也只能這麼做了。
-阿德里算是我在這世上最後的親人了，
+阿德裡算是我在這世上最後的親人了，
 說實話，我也不想和他拼個你死我活……"
-97,"TEXT_JOBMNK680_02429_WIDARGELT_900_065","……阿德里算是我在這世上最後的親人了，
+97,"TEXT_JOBMNK680_02429_WIDARGELT_900_065","……阿德裡算是我在這世上最後的親人了，
 說實話，我也不想和他拼個你死我活……"
 98,"TEXT_JOBMNK680_02429_WIDARGELT_100_066","但我的拳上擔著為基拉巴尼亞人民帶回希望的使命。
 如果他為了復辟王權，無論如何都要阻礙我重建星導教……"
 99,"TEXT_JOBMNK680_02429_WIDARGELT_200_066","那我也不得不選擇跟他拚命了！"
-100,"TEXT_JOBMNK680_02429_ERIK_000_065","但阿德里背後有骸旅團的支持。
+100,"TEXT_JOBMNK680_02429_ERIK_000_065","但阿德裡背後有骸旅團的支持。
 星導教的招式對專門獵殺武僧的骸旅團可起不了作用。
 這你打算怎麼解決？"
 101,"TEXT_JOBMNK680_02429_WIDARGELT_000_066","確實，他們已經完全破解了星導教的招式……
 所以我們必須學會新的戰鬥方式才行。
 學會不拘泥於招式套路，完全自由的戰鬥方式。"
-102,"TEXT_JOBMNK680_02429_WIDARGELT_000_067"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託了。
+102,"TEXT_JOBMNK680_02429_WIDARGELT_000_067","<Highlight>ObjectParameter(1)</Highlight>，拜託了。
 希望你能將在格鬥家公會學到的東西
 和你在戰鬥中學到的技術傳授給我們。"
 103,"TEXT_JOBMNK680_02429_Q1_000_000","要說什麼？"
@@ -177,13 +177,13 @@ int32,str,str
 放心吧，我不會再消沉了！
 不論是多麼艱苦的修行，我都能堅持下去！"
 107,"TEXT_JOBMNK680_02429_WIDARGELT_000_069","那我這就去將這件事告訴弟子們。
-我們在從前星導教徒刻苦鑽研之地「幻我園」會合吧。"
+我們在從前星導教徒刻苦鑽研之地「幻我園」匯合吧。"
 108,"TEXT_JOBMNK680_02429_ERIK_000_070","呵呵呵……看來已經不必為他擔心了。
 老朽要去一趟烏爾達哈做老朽該做的事情。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這邊就拜託你了。"
+<Highlight>ObjectParameter(1)</Highlight>，這邊就拜託你了。"
 109,"TEXT_JOBMNK680_02429_WIDARGELT_000_080","泰奧巴爾德率領的是曾經焚毀了星導寺的骸旅團。
 我們的招數對那些專門殺害武僧的傢伙完全不起作用。"
-110,"TEXT_JOBMNK680_02429_WIDARGELT_000_081","既然如此，我們只有學習 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 不拘泥於星導教的招式，
+110,"TEXT_JOBMNK680_02429_WIDARGELT_000_081","既然如此，我們只有學習<Highlight>ObjectParameter(1)</Highlight>不拘泥於星導教的招式，
 才有可能戰勝他們！"
 111,"TEXT_JOBMNK680_02429_DZENTSA_000_082","好！我一定好好學！"
 112,"TEXT_JOBMNK680_02429_OTCHAKHA_000_083","我會加油的！"
@@ -226,7 +226,7 @@ int32,str,str
 129,"TEXT_JOBMNK680_02429_WIDARGELT_000_096","呼……呼……嘔……
 如此……艱苦的修行……怪不得你……這麼強……
 不過……我們也不會……輕言放棄！"
-130,"TEXT_JOBMNK680_02429_WIDARGELT_000_097","我、我們還可以……
+130,"TEXT_JOBMNK680_02429_WIDARGELT_000_097","我、我們還能行……
 請……繼續指導我們！！"
 131,"TEXT_JOBMNK680_02429_WIDARGELT_000_098","（★未使用／削除予定★）"
 132,"TEXT_JOBMNK680_02429_HEWERALD_000_099","(-？？？？-)不好意思，突然來訪。
@@ -238,7 +238,7 @@ int32,str,str
 135,"TEXT_JOBMNK680_02429_WIDARGELT_100_100","什麼？！
 那我們快去博士那裡吧！"
 136,"TEXT_JOBMNK680_02429_HEWERALD_200_100","博士不想打擾三位修行，
-派我來說 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人一個人過去就行……"
+派我來說<Highlight>ObjectParameter(1)</Highlight>大人一個人過去就行……"
 137,"TEXT_JOBMNK680_02429_WIDARGELT_300_100","這樣啊……好，我明白了。"
 138,"TEXT_JOBMNK680_02429_WIDARGELT_000_101","我們會……反覆練習你教導的內容……直到掌握為止。
 你放心去找博士吧……"
@@ -246,7 +246,7 @@ int32,str,str
 那我們走吧。"
 140,"TEXT_JOBMNK680_02429_DZENTSA_000_105","我再也不想輸那麼慘了！
 為此我要拚命修行！"
-141,"TEXT_JOBMNK680_02429_OTCHAKHA_000_110","不能總是依賴師父和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+141,"TEXT_JOBMNK680_02429_OTCHAKHA_000_110","不能總是依賴師父和<Highlight>ObjectParameter(1)</Highlight>，
 我們自己也要變強才行。"
 142,"TEXT_JOBMNK680_02429_HEWERALD_000_120","我們快點去找艾里克博士吧。"
 143,"TEXT_JOBMNK680_02429_HEWERALD_000_121","嘻……嘻嘻嘻……嘻嘻嘻嘻嘻。"
@@ -254,7 +254,7 @@ int32,str,str
 真是蠢貨，居然一點都沒懷疑，自己一個人就跑來了！"
 145,"TEXT_JOBMNK680_02429_HEWERALD_000_123","哎呀，我可沒騙你喲？
 艾里克叫你可是真的。"
-146,"TEXT_JOBMNK680_02429_HEWERALD_000_124","不過叫的是「救命啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……」罷了！！"
+146,"TEXT_JOBMNK680_02429_HEWERALD_000_124","不過叫的是「救命啊……<Highlight>ObjectParameter(1)</Highlight>……」罷了！！"
 147,"TEXT_JOBMNK680_02429_QIB_001_TODO_1","打倒敵人"
 148,"TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_00","對泰奧巴爾德大人來說，你實在是太礙事了！！"
 149,"TEXT_JOBMNK680_02429_QIB_001_HEWERALD_BATTLETALK_01","哈哈哈！
@@ -278,18 +278,18 @@ int32,str,str
 161,"TEXT_JOBMNK680_02429_HEWERALD_000_137","看來這次行動是失敗了……
 沒辦法，我們撤！"
 162,"TEXT_JOBMNK680_02429_WIDARGELT_000_139","不用在意我們，你快去看看博士吧。"
-163,"TEXT_JOBMNK680_02429_DZENTSA_100_139","不、不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+163,"TEXT_JOBMNK680_02429_DZENTSA_100_139","不、不愧是<Highlight>ObjectParameter(1)</Highlight>……
 指導修行的方式居然如此可怕……"
 164,"TEXT_JOBMNK680_02429_OTCHAKHA_200_139","雖然修行很艱苦……
 但為了能幫上師父，我一定要堅持到底！"
-165,"TEXT_JOBMNK680_02429_ERIK_000_140","真是不好意思， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+165,"TEXT_JOBMNK680_02429_ERIK_000_140","真是不好意思，<Highlight>ObjectParameter(1)</Highlight>……
 老朽從烏爾達哈回來時被那幫傢伙抓住了。"
 166,"TEXT_JOBMNK680_02429_WIDARGELT_000_141","對不起，博士。
 你都是為了幫我才會遇到危險……"
 167,"TEXT_JOBMNK680_02429_ERIK_000_142","不必自責，這是老朽自己的意願。
 而且老朽此行的目的已經順利達成，
 你們放下心來繼續修行即可。"
-168,"TEXT_JOBMNK680_02429_OTCHAKHA_000_143","二位，話等會再說吧！我們最好先儘快離開這裡。
+168,"TEXT_JOBMNK680_02429_OTCHAKHA_000_143","二位，話等會再說吧！我們最好先盡快離開這裡。
 他們也許還有人潛伏在附近。"
 169,"TEXT_JOBMNK680_02429_ERIK_000_144","你說得對。
 我們回阿拉加納去。"
@@ -299,16 +299,16 @@ int32,str,str
 171,"TEXT_JOBMNK680_02429_DZENTSA_100_146","嘿嘿，我是不是變強了？"
 172,"TEXT_JOBMNK680_02429_OTCHAKHA_200_147","呼……呼……
 修行完沒休息就趕來了，呼吸還沒平復下來……"
-173,"TEXT_JOBMNK680_02429_WIDARGELT_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我要再次向你致謝。
+173,"TEXT_JOBMNK680_02429_WIDARGELT_000_150","<Highlight>ObjectParameter(1)</Highlight>，我要再次向你致謝。
 感謝你教導我們戰鬥的方法。
-託你的福，我們成功救下了艾里克博士。"
+托你的福，我們成功救下了艾里克博士。"
 174,"TEXT_JOBMNK680_02429_WIDARGELT_000_151","博士雖然沒受太重的傷，
 但以防萬一還是讓集落裡的醫生給他看看吧。"
 175,"TEXT_JOBMNK680_02429_WIDARGELT_000_152","等艾里克博士痊癒後，
 我決定向泰奧巴爾德發起決鬥。
 希望你能先等待一段時間。"
 176,"TEXT_JOBMNK680_02429_DZENTSA_000_155","我們的拳終於能打中骸旅團了。
-都是多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的特訓……
+都是多虧了<Highlight>ObjectParameter(1)</Highlight>的特訓……
 真是……太艱苦了……"
 177,"TEXT_JOBMNK680_02429_OTCHAKHA_000_160","稍微休息一會後我要繼續進行鍛鍊。
 得將你教的東西徹底掌握才行。"

@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 和雷吉圖進行了交談。為了尋找羅尼圖，和水晶都阿馬羅棧橋的雷吉圖談談。"
-2,"TEXT_BANDWA001_03896_SEQ_02","和雷吉圖進行了交談。獲得了羅尼圖的目擊情報，和中庸工藝館的雷吉圖談談。"
+2,"TEXT_BANDWA001_03896_SEQ_02","和雷吉圖進行了交談。獲取了羅尼圖的目擊情報，和中庸工藝館的雷吉圖談談。"
 3,"TEXT_BANDWA001_03896_SEQ_03","在中庸工藝館順利地找到了羅尼圖。為了借土地，和雷克蘭德清融街的羅尼圖談談。"
 4,"TEXT_BANDWA001_03896_SEQ_04","從蘿拉希雅那裡借到了用作據點的土地。羅尼圖決定參考沃茨的想法，製作矮人戰車。和奧斯塔爾嚴命城附近的羅尼圖談談。"
 5,"TEXT_BANDWA001_03896_SEQ_05","和羅尼圖進行了交談。準備好建造工作區需要的東西，並交給奧斯塔爾嚴命城附近的羅尼圖。"
@@ -70,17 +70,17 @@ int32,str,str
 紙條上是這麼寫的啦哩！"
 56,"TEXT_BANDWA001_03896_SYSTEM_000_007","（★未使用／削除予定★）"
 57,"TEXT_BANDWA001_03896_SYSTEM_000_008","（★未使用／削除予定★）"
-58,"TEXT_BANDWA001_03896_RONITT_100_007","(-羅尼圖的紙條-)我到水晶都找 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 去了！"
+58,"TEXT_BANDWA001_03896_RONITT_100_007","(-羅尼圖的紙條-)我到水晶都找<Highlight>ObjectParameter(1)</Highlight>去了！"
 59,"TEXT_BANDWA001_03896_RONITT_100_008","(-羅尼圖的紙條-)擅自離開村子這件事，麻煩幫我糊弄一下老長老！
 我不在的這段時間，工作就交給自走人偶吧！"
 60,"TEXT_BANDWA001_03896_REGITT_000_009","(-雷吉圖-)雖然看起來自信滿滿，但他可是羅尼圖啊，
-那個笨手笨腳的倒楣蛋，肯定正在哪哭鼻子呢！
+那個笨手笨腳的倒霉蛋，肯定正在哪哭鼻子呢！
 證據就是……他要找的人現在就站在我眼前啦哩！"
 61,"TEXT_BANDWA001_03896_SAILEWQ_000_010","嗯，是啊……這確實令人擔心。
 羅尼圖這還是第一次離開珂露西亞島吧？
 他那麼不擅長和人說話，會不會被嚇到啊。"
 62,"TEXT_BANDWA001_03896_EUELISS_000_011","說的是啊……
-他那麼仰賴 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+他那麼仰賴<Highlight>ObjectParameter(1)</Highlight>，
 現在肯定會非常不安吧……"
 63,"TEXT_BANDWA001_03896_REGITT_000_012","(-雷吉圖-)羅尼圖不在的這段時間，磷礦石的交易不會受影響吧啦哩？"
 64,"TEXT_BANDWA001_03896_EUELISS_000_013","那倒不用擔心。
@@ -105,13 +105,13 @@ int32,str,str
 你們需要什麼幫助嗎？"
 75,"TEXT_BANDWA001_03896_REGITT_000_023","你見過我的同伴沒？
 我正在找和我一樣打扮的矮人族啦哩！"
-76,"TEXT_BANDWA001_03896_CITYGUARD_000_024","我剛才還在中庸工藝館的角落看到了一個面生的矮人族呢。
+76,"TEXT_BANDWA001_03896_CITYGUARD_000_024","我剛才還在中庸工藝館的角落看到了一個眼生的矮人族呢。
 還以為他正在玩捉迷藏，原來是迷路了嗎？"
 77,"TEXT_BANDWA001_03896_REGITT_000_025","那肯定就是羅尼圖啦哩！
 我們快去中庸工藝館看看吧！
 多謝啦，這位小哥！"
 78,"TEXT_BANDWA001_03896_CITYGUARD_100_025","真稀奇啊，今天看到好幾個矮人族了呢。"
-79,"TEXT_BANDWA001_03896_CITYGUARD_000_026","我剛才還在中庸工藝館的角落看到了一個面生的矮人族呢。
+79,"TEXT_BANDWA001_03896_CITYGUARD_000_026","我剛才還在中庸工藝館的角落看到了一個眼生的矮人族呢。
 還以為他正在玩捉迷藏，原來是迷路了嗎？"
 80,"TEXT_BANDWA001_03896_REGITT_000_030","這裡就是中庸工藝館嗎……真夠熱鬧的啦哩！
 羅尼圖究竟在哪呢？"
@@ -119,22 +119,22 @@ int32,str,str
 找到羅尼圖了啦哩！"
 82,"TEXT_BANDWA001_03896_RONITT_100_050","嗚……嗚嗚……
 怎麼會有這麼多人啊……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你在哪啊……"
-83,"TEXT_BANDWA001_03896_AUTOMATON03896_000_050","沙沙……發現 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 正在接近。"
+<Highlight>ObjectParameter(1)</Highlight>你在哪啊……"
+83,"TEXT_BANDWA001_03896_AUTOMATON03896_000_050","沙沙……發現<Highlight>ObjectParameter(1)</Highlight>。
+<Highlight>ObjectParameter(1)</Highlight>正在接近。"
 84,"TEXT_BANDWA001_03896_RONITT_000_051","嗚、嗚哇哇哇！！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！！"
+<Highlight>ObjectParameter(1)</Highlight>！！"
 85,"TEXT_BANDWA001_03896_WALDEN_000_052","嗯？
 給我小心點！你這傢伙！"
 86,"TEXT_BANDWA001_03896_KATLISS_000_060","原來如此，這個矮人族小弟弟聽說
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在水晶都借用了房間，
+<Highlight>ObjectParameter(1)</Highlight>在水晶都借用了房間，
 便千里迢迢跑到這裡了啊。"
 87,"TEXT_BANDWA001_03896_RONITT_000_061","是、是啊……
-可是，這個村子沒辦法用「啦哩吼」溝通……嗚嗚……"
+可是，這個村子沒法用「啦哩吼」溝通……嗚嗚……"
 88,"TEXT_BANDWA001_03896_REGITT_000_062","不過你沒事就好啦哩！
-話說回來，你為什麼要找 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？"
+話說回來，你為什麼要找<Highlight>ObjectParameter(1)</Highlight>？"
 89,"TEXT_BANDWA001_03896_RONITT_000_063","我聽老長老說了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……正在為世界而戰！"
+<Highlight>ObjectParameter(1)</Highlight>……正在為世界而戰！"
 90,"TEXT_BANDWA001_03896_RONITT_000_064","一想到這個，我就坐不住了！
 死黨正在拚命戰鬥，可我卻在做什麼呢！
 所以在找到應做的事情之前，我是不會回圖姆拉村的！"
@@ -142,8 +142,8 @@ int32,str,str
 這個世上需要幫助的人還多得很呢。
 矮人族可不能再整天悠哉悠哉地喝小酒了！"
 92,"TEXT_BANDWA001_03896_REGITT_000_066","喝、喝酒可是很重要的啦哩……
-算了，所以你是來向 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 表達決意的嗎？"
-93,"TEXT_BANDWA001_03896_RONITT_100_067","既然你是透過「戰鬥」來消除世上的威脅……"
+算了，所以你是來向<Highlight>ObjectParameter(1)</Highlight>表達決意的嗎？"
+93,"TEXT_BANDWA001_03896_RONITT_100_067","既然你是通過「戰鬥」來消除世上的威脅……"
 94,"TEXT_BANDWA001_03896_RONITT_000_067","那我就要用你不會的「製作」技藝……
 來改變世界！"
 95,"TEXT_BANDWA001_03896_Q1_000_000","要說什麼？"
@@ -193,7 +193,7 @@ int32,str,str
 116,"TEXT_BANDWA001_03896_KATLISS_000_084","我會和嚴命城的同伴說一聲的，
 不過你們還是要和地主，也就是清融街的蘿拉希雅大姐打聲招呼。
 她是位喜歡溫泉的菁靈族女性哦。"
-117,"TEXT_BANDWA001_03896_RONITT_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也一起來吧！
+117,"TEXT_BANDWA001_03896_RONITT_000_085","<Highlight>ObjectParameter(1)</Highlight>也一起來吧！
 向著清融街出發嘍！"
 118,"TEXT_BANDWA001_03896_KATLISS_000_086","加油！
 蘿拉希雅大姐那邊就拜託了。"
@@ -211,7 +211,7 @@ int32,str,str
 計劃太過兒戲的話，我可是不會把土地借給你們的。"
 125,"TEXT_BANDWA001_03896_RONITT_000_096","我想改良這個自走人偶，
 使貨物免遭獨行食罪靈的襲擊……
-總之，就是透過改善運輸手段的方式來幫助人們！"
+總之，就是通過改善運輸手段的方式來幫助人們！"
 126,"TEXT_BANDWA001_03896_LORATHIA_000_097","(-蘿拉希雅-)自走人偶嗎？
 你不會是想讓這個小機器來運送商隊的貨物吧？"
 127,"TEXT_BANDWA001_03896_LORATHIA_100_097","(-蘿拉希雅-)這東西的載貨量連個木桶都不如，
@@ -227,7 +227,7 @@ int32,str,str
 各位，你們看這個！"
 133,"TEXT_BANDWA001_03896_LORATHIA_100_103","(-蘿拉希雅-)哦？這是？
 真是相當古老的畫呢……"
-134,"TEXT_BANDWA001_03896_RONITT_100_104","這是很久很久以前，比發生光之氾濫還要早的時候，
+134,"TEXT_BANDWA001_03896_RONITT_100_104","這是很久很久以前，比發生光之泛濫還要早的時候，
 我們的祖先——天才鐵匠沃茨留下的
 具備戰鬥能力的交通工具的概念草圖。"
 135,"TEXT_BANDWA001_03896_RONITT_110_105","其名為「矮人戰車」！"
@@ -276,7 +276,7 @@ int32,str,str
 為了躲避食罪靈，他們移居到了水晶都，之後那裡便荒廢了。
 正好我也不知道該如何打理，你們就隨意使用吧。"
 156,"TEXT_BANDWA001_03896_RONITT_000_120","這裡就是即將成為我們據點的地方！"
-157,"TEXT_BANDWA001_03896_RONITT_000_121"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，聽說你是工匠的時候，
+157,"TEXT_BANDWA001_03896_RONITT_000_121","<Highlight>ObjectParameter(1)</Highlight>，聽說你是工匠的時候，
 我雖然很吃驚，但更多的是高興。
 同為工匠的話，我們就有了「製作」這個共同點了不是嗎？"
 158,"TEXT_BANDWA001_03896_RONITT_000_122","我從小就夢想著像沃茨一樣，用自己的手藝為大家做貢獻。
@@ -285,7 +285,7 @@ int32,str,str
 159,"TEXT_BANDWA001_03896_RONITT_000_126","而、而且……如果能有你這個死黨和我一起
 進行這個巨大的挑戰，那真是再可靠不過了！
 所以說……"
-160,"TEXT_BANDWA001_03896_RONITT_000_127"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你願意作為我們的同伴，
+160,"TEXT_BANDWA001_03896_RONITT_000_127","<Highlight>ObjectParameter(1)</Highlight>，你願意作為我們的同伴，
 一起挑戰製作矮人戰車嗎？！"
 161,"TEXT_BANDWA001_03896_Q3_000_000","要說什麼？"
 162,"TEXT_BANDWA001_03896_A3_000_001","請多指教啦哩！"
@@ -353,6 +353,6 @@ int32,str,str
 與矮人族「沃茨之錘」的關係程度到達了「友好」。
 開啟了矮人族的友好部族任務。"
 194,"TEXT_BANDWA001_03896_SYSTEM_000_151","今後可以在沃茨之錘的雷吉圖處，
-接受可重複進行的友好部族日常任務。"
+接受可重覆進行的友好部族日常任務。"
 195,"TEXT_BANDWA001_03896_SYSTEM_000_152","並且可以在「蜜茲圖」處購入友好部族所經營的商品。
 在今後的冒險裡善加利用吧！"

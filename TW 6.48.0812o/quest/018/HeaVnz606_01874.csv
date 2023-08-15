@@ -78,7 +78,7 @@ int32,str,str
 58,"TEXT_HEAVNZ606_01874_RONTREMONT_000_030","請你將這面旗交給拉妮艾特大人吧，
 身為克羅德班大人妹妹的她也沒能參加追悼儀式，
 想必現在非常懊悔。"
-59,"TEXT_HEAVNZ606_01874_LANIAITTE_000_040","你來了啊， <Highlight>ObjectParameter(1)</Highlight> 。
+59,"TEXT_HEAVNZ606_01874_LANIAITTE_000_040","你來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 請隨意。"
 60,"TEXT_HEAVNZ606_01874_LANIAITTE_000_041","……鋼衛塔的戰旗嗎。
 讓你擔心了非常抱歉，這面旗子我就收下了。"

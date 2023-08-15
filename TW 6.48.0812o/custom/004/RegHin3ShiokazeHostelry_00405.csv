@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_000","歡迎光臨。
 客人想喝點什麼，先來上一杯吧？"
-1,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_Q1_000_000","想瞭解什麼？"
+1,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_Q1_000_000","想了解什麼？"
 2,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_001","你是做什麼的？"
 3,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_002","這裡是什麼地方？"
 4,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_003","取消"
@@ -17,7 +17,7 @@ int32,str,str
 但那都是極少的。來這家店的客人大部分酒品都還不錯。"
 8,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_020","這裡是黃金港最大的酒館，因為空氣中飄滿了海潮的香氣，
 所以有了潮風亭這麼一個名字。
-賣的酒呢，全都是紅州釀出的最高級純米酒。"
+賣的酒呢，全都是紅州釀出的最上級純米酒。"
 9,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_021","不過這裡卻並不是一個純粹喝酒的地方。
 有人在此等待異國的商人，也有人在此送別啟程的友人……
 這裡可以算是一個相遇與分離的十字路口。"

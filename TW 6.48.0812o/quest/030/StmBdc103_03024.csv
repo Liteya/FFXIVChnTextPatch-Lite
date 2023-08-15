@@ -3,12 +3,12 @@
 int32,str,str
 0,"TEXT_STMBDC103_03024_SEQ_00","海貓茶屋的夕霧想去紅玉海尋找豪雪的下落。"
 1,"TEXT_STMBDC103_03024_SEQ_01","一行人決定去紅玉海繼續尋找豪雪與夜露。前往黃金港的第二防波堤，和幫忙準備船隻的算盤談談。"
-2,"TEXT_STMBDC103_03024_SEQ_02","來自帝國本土的帝國兵已經追著豪雪與夜露前往紅玉海了。和紅玉海紅玉炮臺的阿爾菲諾談談。"
+2,"TEXT_STMBDC103_03024_SEQ_02","來自帝國本土的帝國兵已經追著豪雪與夜露前往紅玉海了。和紅玉海紅玉砲台的阿爾菲諾談談。"
 3,"TEXT_STMBDC103_03024_SEQ_03","為了解救酒杯島上的海賊眾與豪雪、夜露，擊敗了發動襲擊的帝國軍。在紅玉海確認豪雪等人的平安。"
 4,"TEXT_STMBDC103_03024_SEQ_04","因多瑪城崩塌而下落不明的豪雪與夜露漂流到了一座孤島上。夜露失去了從前的記憶，而豪雪決定將如何處置夜露交由飛燕定奪。和酒杯島的阿爾菲諾談談。"
-5,"TEXT_STMBDC103_03024_SEQ_05","一行人決定先跟留在船上的阿莉塞與算盤會合。前往酒杯島的碼頭，和阿莉塞談談。"
+5,"TEXT_STMBDC103_03024_SEQ_05","一行人決定先跟留在船上的阿莉塞與算盤匯合。前往酒杯島的碼頭，和阿莉塞談談。"
 6,"TEXT_STMBDC103_03024_SEQ_06","阿莉塞同樣對夜露失憶一事表示難以置信。算盤將眾人送到了漁村的附近。和紅玉海奧薩德東岸的算盤談談。"
-7,"TEXT_STMBDC103_03024_SEQ_07","幫忙救出了豪雪與夜露的算盤有一件能賺錢的事想找冒險者商量。為了補充慘遭阿爾菲諾揮霍的拂曉資金，建議有空去找算盤瞭解詳情。"
+7,"TEXT_STMBDC103_03024_SEQ_07","幫忙救出了豪雪與夜露的算盤有一件能賺錢的事想找冒險者商量。為了補充慘遭阿爾菲諾揮霍的拂曉資金，建議有空去找算盤了解詳情。"
 8,"TEXT_STMBDC103_03024_SEQ_08",""
 9,"TEXT_STMBDC103_03024_SEQ_09",""
 10,"TEXT_STMBDC103_03024_SEQ_10",""
@@ -26,10 +26,10 @@ int32,str,str
 22,"TEXT_STMBDC103_03024_SEQ_22",""
 23,"TEXT_STMBDC103_03024_SEQ_23",""
 24,"TEXT_STMBDC103_03024_TODO_00","和第二防波堤的算盤對話"
-25,"TEXT_STMBDC103_03024_TODO_01","和紅玉炮臺的阿爾菲諾對話"
-26,"TEXT_STMBDC103_03024_TODO_02","和紅玉炮臺的阿爾菲諾對話"
+25,"TEXT_STMBDC103_03024_TODO_01","和紅玉砲台的阿爾菲諾對話"
+26,"TEXT_STMBDC103_03024_TODO_02","和紅玉砲台的阿爾菲諾對話"
 27,"TEXT_STMBDC103_03024_TODO_03","和阿爾菲諾對話"
-28,"TEXT_STMBDC103_03024_TODO_04","和阿莉塞會合"
+28,"TEXT_STMBDC103_03024_TODO_04","和阿莉塞匯合"
 29,"TEXT_STMBDC103_03024_TODO_05","和漁村附近的算盤對話"
 30,"TEXT_STMBDC103_03024_TODO_06",""
 31,"TEXT_STMBDC103_03024_TODO_07",""
@@ -53,21 +53,21 @@ int32,str,str
 而且他們之間異常和睦的氛圍也很令人在意……"
 49,"TEXT_STMBDC103_03024_YUGIRI_000_000","雖然疑似是夜露的女性留下了很多疑點，
 但能確定他們出發前往了紅玉海已經是再好不過。
-我們也需要儘快出發前往紅玉海才行。"
-50,"TEXT_STMBDC103_03024_YUGIRI_000_001","走，先去第二防波堤和大家會合吧。
+我們也需要盡快出發前往紅玉海才行。"
+50,"TEXT_STMBDC103_03024_YUGIRI_000_001","走，先去第二防波堤和大家匯合吧。
 相信算盤閣下與塔塔露閣下已經為我們準備好了船隻。"
 51,"TEXT_STMBDC103_03024_YUGIRI_000_010","與我們分頭行動的同伴們也都順利完成了自己的任務。
 有同伴幫忙的感覺真好。"
-52,"TEXT_STMBDC103_03024_ALPHINAUD_000_015","魚道結束後立刻就跑了。
+52,"TEXT_STMBDC103_03024_ALPHINAUD_000_015","魚道完事後立馬就跑了。
 看來是相當不樂意跟阿莉塞在一起……"
 53,"TEXT_STMBDC103_03024_ALISAIE_000_020","我在暗處觀察了魚道討好帝國人的過程。
-他透過諂媚來降低對手戒心的手段非常了得。
+他通過諂媚來降低對手戒心的手段非常了得。
 還真是誰都有自己擅長的東西呢。"
 54,"TEXT_STMBDC103_03024_TATARU_000_025","我們在準備船隻的同時還搞到了好多黃金港的交易情報。
 算盤在這方面的嗅覺超級靈敏！"
 55,"TEXT_STMBDC103_03024_SOROBAN_000_030","辛苦了——
 阿莉塞也已經過來了——"
-56,"TEXT_STMBDC103_03024_ALISAIE_000_031","我這邊還蠻順利。
+56,"TEXT_STMBDC103_03024_ALISAIE_000_031","我這邊還挺順利。
 魚道接觸了帝國軍的高官，弄到了新的情報。"
 57,"TEXT_STMBDC103_03024_ALISAIE_000_032","據說那些在大使館集結的帝國兵都是從加雷馬本土過來的，
 駐守東方支部的帝國兵事先根本沒接到任何通知，
@@ -86,15 +86,15 @@ int32,str,str
 62,"TEXT_STMBDC103_03024_TATARU_000_037","……阿爾菲諾大少爺。
 你居然價都不講就花了這麼一大筆錢出去！！"
 63,"TEXT_STMBDC103_03024_TATARU_000_038","唉，心累……現在還是先找豪雪先生要緊。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、阿莉塞、夕霧，
+<Highlight>ObjectParameter(1)</Highlight>、阿莉塞、夕霧，
 你們快點出發吧！"
 64,"TEXT_STMBDC103_03024_TATARU_100_038","至於阿爾菲諾——塔塔露有非常非常重要的話要對你說。
 回來之後請立刻來見我——聽、明、白、沒、有？"
 65,"TEXT_STMBDC103_03024_ALPHINAUD_000_039","非常非常重要的話？
 嗯，我明白了，辦完事後我會去找你的。"
-66,"TEXT_STMBDC103_03024_SOROBAN_000_044","那我們先去紅玉炮臺吧——
+66,"TEXT_STMBDC103_03024_SOROBAN_000_044","那我們先去紅玉砲台吧——
 要先抵達那裡才能向紅玉海出發——
-而且說不定紅玉炮臺那裡會有人見過豪雪他們——"
+而且說不定紅玉砲台那裡會有人見過豪雪他們——"
 67,"TEXT_STMBDC103_03024_YUGIRI_000_050","塔塔露閣下應該是生氣了。
 贖刀的事給你們添了麻煩，真是萬分抱歉……"
 68,"TEXT_STMBDC103_03024_ALISAIE_000_055","阿爾菲諾那個傻瓜，
@@ -108,7 +108,7 @@ int32,str,str
 你準備好了嗎？"
 72,"TEXT_STMBDC103_03024_YUGIRI_000_080","既然被夜露害得最慘的豪雪都說要等主公定奪，
 那在下也接受他的意見吧。"
-73,"TEXT_STMBDC103_03024_GOSETSU_000_083","有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下在，接下來的路途可以放心了。"
+73,"TEXT_STMBDC103_03024_GOSETSU_000_083","有<Highlight>ObjectParameter(1)</Highlight>閣下在，接下來的路途可以放心了。"
 74,"TEXT_STMBDC103_03024_YOTSUYU_000_085","我、我只要跟著你就可以了嗎？"
 75,"TEXT_STMBDC103_03024_TANSUI_000_088","多虧了你們趕來，我們才沒遭受太大的損失。
 別在這看我們善後了，快把那個女人帶去多瑪吧。"
@@ -141,7 +141,7 @@ int32,str,str
 明明是一直想衝過去參戰——
 我攔你攔得可辛苦了——"
 89,"TEXT_STMBDC103_03024_ALISAIE_000_123","你、你就別多嘴行嗎！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 雖然厲害，但畢竟又要保護豪雪又要戰鬥，
+<Highlight>ObjectParameter(1)</Highlight>雖然厲害，但畢竟又要保護豪雪又要戰鬥，
 我當然會擔心啊！"
 90,"TEXT_STMBDC103_03024_ALISAIE_000_124","比起這些，我們現在應該處理的問題是……"
 91,"TEXT_STMBDC103_03024_YOTSUYU_000_125","呃，請、請問有什麼事嗎……"
@@ -151,10 +151,10 @@ int32,str,str
 93,"TEXT_STMBDC103_03024_YOTSUYU_000_127","那兩個姐姐好可怕……
 她們真的是爺爺的同伴嗎？
 為什麼要用那麼嚇人的眼神看露兒？"
-94,"TEXT_STMBDC103_03024_GOSETSU_000_128","……對不起，先忍一忍吧。
+94,"TEXT_STMBDC103_03024_GOSETSU_000_128","……對不住，先忍一忍吧。
 她們確實是老夫最信賴的同伴沒錯。"
 95,"TEXT_STMBDC103_03024_YOTSUYU_000_129","嗯……露兒聽爺爺的……"
-96,"TEXT_STMBDC103_03024_YUGIRI_000_130","…………。"
+96,"TEXT_STMBDC103_03024_YUGIRI_000_130","……"
 97,"TEXT_STMBDC103_03024_ALPHINAUD_000_133","我們出發吧……
 飛燕閣下一定很擔心豪雪閣下的安危。"
 98,"TEXT_STMBDC103_03024_SOROBAN_000_136","那我們快走吧——？
@@ -163,7 +163,7 @@ int32,str,str
 99,"TEXT_STMBDC103_03024_SOROBAN_000_137","我先把你們送到漁村附近隱蔽無人的地方吧——"
 100,"TEXT_STMBDC103_03024_YUGIRI_000_140","……總之先回多瑪見主公吧。"
 101,"TEXT_STMBDC103_03024_ALPHINAUD_000_143","我沒見過從前的夜露，
-不過現在的她和從你們口中瞭解到的她確實是判若兩人……"
+不過現在的她和從你們口中了解到的她確實是判若兩人……"
 102,"TEXT_STMBDC103_03024_ALISAIE_000_145","我們得避免接近漁村。
 如果夜露被村民發現了的話，
 怕是會引起騷動。"
@@ -173,7 +173,7 @@ int32,str,str
 我們不去那邊那個村子嗎？"
 105,"TEXT_STMBDC103_03024_SOROBAN_000_160","豪雪和夜露都已經順利救出，
 我就先在此告辭了——"
-106,"TEXT_STMBDC103_03024_SOROBAN_000_161"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請在事情辦完後來找我一下吧——
+106,"TEXT_STMBDC103_03024_SOROBAN_000_161","<Highlight>ObjectParameter(1)</Highlight>，請在事情辦完後來找我一下吧——
 我有事想找你商量——"
 107,"TEXT_STMBDC103_03024_SOROBAN_000_162","是一件運氣好的話能賺大錢的好事——"
 108,"TEXT_STMBDC103_03024_SOROBAN_000_163","你們贖刀不是用了好多錢嗎——
@@ -184,8 +184,8 @@ int32,str,str
 那把刀究竟多少錢，你有仔細確認過嗎？"
 111,"TEXT_STMBDC103_03024_ALISAIE_000_166","我可是聽說有的寶刀能賣出一棟宅子的價格。"
 112,"TEXT_STMBDC103_03024_ALPHINAUD_000_167","宅宅宅子？！不、不會這麼巧吧……"
-113,"TEXT_STMBDC103_03024_ALPHINAUD_000_168"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，對不起！
-請你事後務必去找算盤瞭解一下能賺錢的消息！
+113,"TEXT_STMBDC103_03024_ALPHINAUD_000_168","<Highlight>ObjectParameter(1)</Highlight>，對不起！
+請你事後務必去找算盤了解一下能賺錢的消息！
 我、我也會動用自己的個人資產幫忙償還的！拜託了！"
 114,"TEXT_STMBDC103_03024_UME_105_000","（★未使用／削除予定★）"
 115,"TEXT_STMBDC103_03024_YUGIRI_000_040","（★未使用／削除予定★）"
@@ -203,7 +203,7 @@ int32,str,str
 126,"TEXT_STMBDC103_03024_TANSUI_BATTLETALK_001_002","你、你們是？！
 來幫忙嗎？感謝！"
 127,"TEXT_STMBDC103_03024_TANSUI_BATTLETALK_002_001","你們應該是在找豪雪老爺子吧？
-他正在樓梯上面的高臺上和帝國兵交手！"
+他正在樓梯上面的高台上和帝國兵交手！"
 128,"TEXT_STMBDC103_03024_LEADER_BATTLETALK_005_001","別管夜露大人了，先解決掉這些礙事的傢伙！"
 129,"TEXT_STMBDC103_03024_ALPHINAUD_BATTLETALK_005_002","帝國兵衝我們來了！
 我們迎擊！"
@@ -215,13 +215,13 @@ int32,str,str
 133,"TEXT_STMBDC103_03024_TANSUI__BATTLETALK_007_002","喂！那個魔導兵器不太對勁！
 難道是要自爆？！"
 134,"TEXT_STMBDC103_03024_LEADER_BATTLETALK_008_001","唔，真是些硬骨頭……快派更多兵力過來！"
-135,"TEXT_STMBDC103_03024_YUGIRI_BATTLETALK_009_001","竟然同時出現2臺！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請將魔導兵器引到這邊來！"
+135,"TEXT_STMBDC103_03024_YUGIRI_BATTLETALK_009_001","竟然同時出現2台！
+<Highlight>ObjectParameter(1)</Highlight>閣下，請將魔導兵器引到這邊來！"
 136,"TEXT_STMBDC103_03024_LEADER_BATTLETALK_011_001","可惡，竟然還在負隅頑抗！
 呼叫母艦……請求投放魔導六輪裝甲進入戰場！！"
 137,"TEXT_STMBDC103_03024_ALPHINAUD_BATTLETALK_011_002","終於派出殺手鐧了？！
 不知會有怎樣的攻擊模式，請小心！"
-138,"TEXT_STMBDC103_03024_LEADER_BATTLETALK_011_003","去死啊！放出魔導炮塔改！
+138,"TEXT_STMBDC103_03024_LEADER_BATTLETALK_011_003","去死啊！放出魔導砲塔改！
 開火！開火！開火——！"
 139,"TEXT_STMBDC103_03024_ALPHINAUD_BATTLETALK_011_004","糟糕，快拉開距離！！"
 140,"TEXT_STMBDC103_03024_LEADER_BATTLETALK_017_001","將所有兵力都集結過來！
@@ -232,9 +232,9 @@ int32,str,str
 142,"TEXT_STMBDC103_03024_YUGIRI_BATTLETALK_018_001","在下也要發動忍村流傳的奧義了！
 霧氣化影，分身禦敵——疾馳吧，霧影！"
 143,"TEXT_STMBDC103_03024_YUGIRI_BATTLETALK_018_101","在下的影子們能幫忙吸引一半的魔導兵器。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，其餘的就交給你來誘導了！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，其餘的就交給你來誘導了！"
 144,"TEXT_STMBDC103_03024_ALPHINAUD_BATTLETALK_018_002","很好，魔力蓄滿了！
 時機已至——迷你的星辰，化為碎片隕落大地吧！星體風暴！"
 145,"TEXT_STMBDC103_03024_YUGIRI_DEAD_BATTLETALK_DEAD","豪雪……好不容易才找到你，卻……"
-146,"TEXT_STMBDC103_03024_ALPHINAUD_DEAD_BATTLETALK_DEAD","對不起……我扯後腿了……"
+146,"TEXT_STMBDC103_03024_ALPHINAUD_DEAD_BATTLETALK_DEAD","對不起……我拖後腿了……"
 147,"TEXT_STMBDC103_03024_TANSUI_DEAD_BATTLETALK_DEAD","我竟然會這樣……真是慚愧……"

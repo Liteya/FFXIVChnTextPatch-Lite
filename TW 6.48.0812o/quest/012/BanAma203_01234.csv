@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA203_01234_SEQ_00","灰陣營的納爾基．冬有事想要委託冒險者。"
-1,"TEXT_BANAMA203_01234_SEQ_01","接受了納爾基．冬的委託。調查贊拉克祭場周圍的<Sheet(EObj,2003015,0)/>，獲得<Sheet(EventItem,2001151,0)/>。"
-2,"TEXT_BANAMA203_01234_SEQ_02","獲得了<Sheet(EventItem,2001151,0)/>。將<Sheet(EventItem,2001151,0)/>交給灰陣營的納爾基．冬。"
-3,"TEXT_BANAMA203_01234_SEQ_03","將<Sheet(EventItem,2001151,0)/>交給了納爾基．冬。納爾基．冬很感謝冒險者。他預測冒險者奪取武器之後，敵對蜥蜴人族也會安分一段時間。此期間好好休息即可。"
+0,"TEXT_BANAMA203_01234_SEQ_00","灰陣營的納爾基·冬有事想要委託冒險者。"
+1,"TEXT_BANAMA203_01234_SEQ_01","接受了納爾基·冬的委託。調查贊拉克祭場周圍的<Sheet(EObj,2003015,0)/>，獲取<Sheet(EventItem,2001151,0)/>。"
+2,"TEXT_BANAMA203_01234_SEQ_02","獲得了<Sheet(EventItem,2001151,0)/>。將<Sheet(EventItem,2001151,0)/>交給灰陣營的納爾基·冬。"
+3,"TEXT_BANAMA203_01234_SEQ_03","將<Sheet(EventItem,2001151,0)/>交給了納爾基·冬。納爾基·冬很感謝冒險者。他預測冒險者奪取武器之後，敵對蜥蜴人族也會安分一段時間。此期間好好休息即可。"
 4,"TEXT_BANAMA203_01234_SEQ_04",""
 5,"TEXT_BANAMA203_01234_SEQ_05",""
 6,"TEXT_BANAMA203_01234_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANAMA203_01234_SEQ_22",""
 23,"TEXT_BANAMA203_01234_SEQ_23",""
 24,"TEXT_BANAMA203_01234_TODO_00","從贊拉克祭場周圍的<Sheet(EObj,2003015,0)/>中得到<Sheet(EventItem,2001151,0)/>"
-25,"TEXT_BANAMA203_01234_TODO_01","將<Sheet(EventItem,2001151,0)/>交給納爾基．冬"
+25,"TEXT_BANAMA203_01234_TODO_01","將<Sheet(EventItem,2001151,0)/>交給納爾基·冬"
 26,"TEXT_BANAMA203_01234_TODO_02",""
 27,"TEXT_BANAMA203_01234_TODO_03",""
 28,"TEXT_BANAMA203_01234_TODO_04",""

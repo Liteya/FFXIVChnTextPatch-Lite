@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_000_001","哈哈，店還沒開呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！"
-1,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001","哈哈，現在還沒辦法做生意呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！
-訂的貨全不到，這店簡直沒辦法開了！"
-2,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_002","需要將「漆黑的反叛者主線任務」推進到特定的階段
+1,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001","哈哈，現在還沒法做生意呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！
+訂的貨全不到，這店簡直沒法開了！"
+2,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_002","需要將「暗影之逆焰主線任務」推進到特定的階段
 才能開始與當前地區的廣域交易商進行交易。"
-3,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_012","需要使雷克蘭德、珂露西亞島、安穆．艾蘭、伊爾美格、
+3,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_012","需要使雷克蘭德、珂露西亞島、安穆·艾蘭、伊爾美格、
 拉凱提卡大森林、黑風海的危命任務完成度達到3級
 才能開始與此廣域交易商進行交易。"
 4,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_002_001","哈哈，真是開心！
@@ -23,5 +23,5 @@ int32,str,str
 10,"TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_002_001","歡迎光臨。
 本店的商品都是從諾弗蘭特各地運來的，
 您可以使用雙色寶石進行交換。"
-11,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_002","可以和遊末邦的「廣域交易商 佩德蘿尼爾」進行交易了！"
+11,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_999_002","可以和游末邦的「廣域交易商 佩德蘿尼爾」進行交易了！"
 12,"TEXT_CMNFATSHOP1N4TOWN_00584_PEDRONILLE_003_001","這些是本店的推薦商品，請來看看吧。"

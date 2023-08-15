@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN605_03001_TODO_21",""
 46,"TEXT_BANKJN605_03001_TODO_22",""
 47,"TEXT_BANKJN605_03001_TODO_23",""
-48,"TEXT_BANKJN605_03001_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，幫幫我吧——
+48,"TEXT_BANKJN605_03001_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，幫幫我吧——
 紅甲族的傢伙奪走了我們的商品！"
 49,"TEXT_BANKJN605_03001_ZUKIN_000_001","憤怒的同伴為了奪回商品，
 單身闖入了絕鬼島，現在還沒有回來——
@@ -62,7 +62,7 @@ int32,str,str
 52,"TEXT_BANKJN605_03001_BALLOON_000_012","休想活著回去！"
 53,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_015","你是碧玉尋寶眾的人麼？！
 十分感謝你救了在下——"
-54,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_016","託你的福，在下成功取回了被奪走的商品——
+54,"TEXT_BANKJN605_03001_HOTTURTLE03001_000_016","托你的福，在下成功取回了被奪走的商品——
 趁追兵還沒出現，我們分頭行動回村子吧——"
 55,"TEXT_BANKJN605_03001_ZUKIN_000_020","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，你沒事就好——
 被你救下的碧甲族也平安無事地回來了——

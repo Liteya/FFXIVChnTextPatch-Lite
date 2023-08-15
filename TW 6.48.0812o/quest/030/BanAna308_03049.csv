@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANANA308_03049_SEQ_22",""
 23,"TEXT_BANANA308_03049_SEQ_23",""
 24,"TEXT_BANANA308_03049_TODO_00","在無垢乾谷的<Sheet(EObj,2009337,0)/>張望
-從<Sheet(BNpcName,7024,0)/>身上獲得<Sheet(EventItem,2002436,0)/>"
+從<Sheet(BNpcName,7024,0)/>身上獲取<Sheet(EventItem,2002436,0)/>"
 25,"TEXT_BANANA308_03049_TODO_01","將<Sheet(EventItem,2002436,0)/>交給耶夏娜"
 26,"TEXT_BANANA308_03049_TODO_02",""
 27,"TEXT_BANANA308_03049_TODO_03",""
@@ -54,7 +54,7 @@ int32,str,str
 46,"TEXT_BANANA308_03049_TODO_22",""
 47,"TEXT_BANANA308_03049_TODO_23",""
 48,"TEXT_BANANA308_03049_ESHANA_000_000","嘶——同志，你來得正是時候。
-其實是這樣的，我想請你籌集糧草，也就是去獲得食材。"
+其實是這樣的，我想請你籌集糧草，也就是去獲取食材。"
 49,"TEXT_BANANA308_03049_ESHANA_000_001","以目前的補給，維持溫飽自然是沒問題，
 但是始終有一些食材不夠用……
 所以想請你去弄些<Sheet(EventItem,2002436,0)/>回來。"

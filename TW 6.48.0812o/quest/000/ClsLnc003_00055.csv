@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_CLSLNC003_00055_SEQ_00","槍術師公會會長伊維因想托冒險者去辦一件急事……"
 1,"TEXT_CLSLNC003_00055_SEQ_01","伊維因托冒險者去確認前往東部林區的槍術師和富爾克的情況。前往東部林區，尋找富爾克。"
-2,"TEXT_CLSLNC003_00055_SEQ_02","為了救出槍術師，就一定要對富爾克言聽計從……將他所交付的深色鍊金藥撒在大樹的樹根上，消滅掉隨之出現的魔物。"
+2,"TEXT_CLSLNC003_00055_SEQ_02","為了救出槍術師，就必須要對富爾克言聽計從……將他所交付的深色煉金藥撒在大樹的樹根上，消滅掉隨之出現的魔物。"
 3,"TEXT_CLSLNC003_00055_SEQ_03","消滅了狂怒樹精。向東部林區的富爾克報告。"
 4,"TEXT_CLSLNC003_00055_SEQ_04","接下來埋伏在中央林區的再生的殘樁附近，消滅隨後出現的首領黑狼。前往指定地點，等待魔物出現。"
 5,"TEXT_CLSLNC003_00055_SEQ_05","富爾克說，只有他準備的試煉才能鍛鍊出真正的勇氣，並再次勸冒險者退出槍術師公會，說罷他便離去。回到槍術師公會，向伊維因報告。"
@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_CLSLNC003_00055_SEQ_22",""
 23,"TEXT_CLSLNC003_00055_SEQ_23",""
 24,"TEXT_CLSLNC003_00055_TODO_00","和東部林區的富爾克對話"
-25,"TEXT_CLSLNC003_00055_TODO_01","將深色鍊金藥撒在大樹的樹根上"
+25,"TEXT_CLSLNC003_00055_TODO_01","將深色煉金藥撒在大樹的樹根上"
 26,"TEXT_CLSLNC003_00055_TODO_02","向富爾克報告"
 27,"TEXT_CLSLNC003_00055_TODO_03","在再生的殘樁的指定地點等待"
 28,"TEXT_CLSLNC003_00055_TODO_04","向槍術師公會的伊維因報告"
@@ -52,7 +52,7 @@ int32,str,str
 46,"TEXT_CLSLNC003_00055_TODO_22",""
 47,"TEXT_CLSLNC003_00055_TODO_23",""
 48,"TEXT_CLSLNC003_00055_YWAIN_000_1","你來得正好！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快來幫我個忙。"
+<Highlight>ObjectParameter(1)</Highlight>，快來幫我個忙。"
 49,"TEXT_CLSLNC003_00055_YWAIN_000_2","還記得以前干擾你試煉的那個槍術師富爾克嗎？
 就是那個來踢館的男人。"
 50,"TEXT_CLSLNC003_00055_YWAIN_000_3","他好像又來向我們公會的槍術師挑釁了。
@@ -85,11 +85,11 @@ int32,str,str
 只有在危險時刻才能磨練出「勇氣」。
 也就是說，只與普通的魔物戰鬥，是無法磨練勇氣的。"
 64,"TEXT_CLSLNC003_00055_FOULQUES_000_18","那麼，就要惹怒魔物，讓它變得更加殘暴。"
-65,"TEXT_CLSLNC003_00055_FOULQUES_000_19","將這深色鍊金藥撒在大樹的樹根上。
+65,"TEXT_CLSLNC003_00055_FOULQUES_000_19","將這深色煉金藥撒在大樹的樹根上。
 因憤怒而變得狂暴的魔物定會來襲擊你的。
 你去將它們殺個片甲不留。"
 66,"TEXT_CLSLNC003_00055_CLSLNC003MOB1_000_30","唔……"
-67,"TEXT_CLSLNC003_00055_FOULQUES_000_31","快將深色鍊金藥撒在大樹的樹根上。
+67,"TEXT_CLSLNC003_00055_FOULQUES_000_31","快將深色煉金藥撒在大樹的樹根上。
 你要是反抗的話，我就不管這個槍術師的死活了喲？"
 68,"TEXT_CLSLNC003_00055_CLSLNC003MOB1_000_40","對、對不起……"
 69,"TEXT_CLSLNC003_00055_FOULQUES_000_41","你打倒了殘暴的狂怒樹精了啊。
@@ -103,7 +103,7 @@ int32,str,str
 73,"TEXT_CLSLNC003_00055_CLSLNC003MOB1_000_50","對、對不起……"
 74,"TEXT_CLSLNC003_00055_FOULQUES_000_51","你埋伏在中央林區的再生的殘樁，等待狼群出現。
 消滅掉領頭的首領黑狼。"
-75,"TEXT_CLSLNC003_00055_FOULQUES_000_60","幹得漂亮， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+75,"TEXT_CLSLNC003_00055_FOULQUES_000_60","幹得漂亮，<Highlight>ObjectParameter(1)</Highlight>。
 投身於危險之中，鍛鍊出你的勇氣了吧？"
 76,"TEXT_CLSLNC003_00055_FOULQUES_000_61","而且你還維護了再生的殘樁的治安，
 格里達尼亞人可是很重視這殘樁的。"
@@ -130,7 +130,7 @@ int32,str,str
 85,"TEXT_CLSLNC003_00055_YWAIN_000_74","面對狂怒樹精你不慌不亂，
 被首領黑狼包圍你也無所動搖。
 你最大限度地發揮出了槍術的力量，與強敵奮戰到底。"
-86,"TEXT_CLSLNC003_00055_YWAIN_000_75","……你的確是成長了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+86,"TEXT_CLSLNC003_00055_YWAIN_000_75","……你的確是成長了，<Highlight>ObjectParameter(1)</Highlight>。
 我認可你的實力，並將槍術師公會的傳承之技
 貫穿尖傳授於你。"
 87,"TEXT_CLSLNC003_00055_YWAIN_000_76","那個扭曲了勇氣含義的槍術師富爾克……

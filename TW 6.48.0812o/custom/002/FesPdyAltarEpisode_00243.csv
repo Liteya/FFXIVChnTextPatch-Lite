@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_000","我是侍奉於大商人納納帕西的僕人。
 關於主人正在進行的特別計劃，
 就由我來為各位冒險者加以說明。"
-1,"TEXT_FESPDYALTAREPISODE_00243_Q1_000_000","想瞭解什麼？"
+1,"TEXT_FESPDYALTAREPISODE_00243_Q1_000_000","想了解什麼？"
 2,"TEXT_FESPDYALTAREPISODE_00243_A1_000_001","你們在這裡是做什麼的？"
 3,"TEXT_FESPDYALTAREPISODE_00243_A1_000_002","什麼是「女兒節」？"
 4,"TEXT_FESPDYALTAREPISODE_00243_A1_000_003","「艾德薇雅公主」是什麼人？"
@@ -19,7 +19,7 @@ int32,str,str
 12,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_011","那可不是一件容易事！
 依照計劃，我們要重現出索恩朝時代的真人比例人偶，
 然後搭配上現代的服裝和飾品展示出來。"
-13,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_012","而這展示臺，
+13,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_012","而這展示台，
 則是預定以放置真人比例人偶所用。"
 14,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_013","如您所見，
 這就是依照索恩朝時期的真人比例人偶製作出的裝飾人偶。
@@ -64,9 +64,9 @@ int32,str,str
 29,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_040","最下層的部分，準備設定三具騎士造型的人偶。
 這三具人偶，被統稱為「三騎士」。"
 30,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_041","最下層的部分設定的三具人偶，
-乃是模仿守衛王家的銀冑團三騎士。
+乃是模仿守衛王家的銀胄團三騎士。
 而重點，則是人偶手中所持的劍。"
-31,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_042","烏爾達哈的國父「薩薩加恩一世」在創設銀冑團時，
+31,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_042","烏爾達哈的國父「薩薩加恩一世」在創設銀胄團時，
 向「偉大三騎士」賜封了這三把劍。
 這三把劍均是用同一塊石材製造的，正可謂是兄弟之劍。"
 32,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_043","這三把劍分別是柯塔納、咎瓦尤斯、杜蘭達爾……
@@ -82,10 +82,10 @@ int32,str,str
 36,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_053","另一人則是貓魅族的逐日之民。
 這對人偶是為了紀念在經歷無數的對峙摩擦之後，烏爾達哈終於與
 撒溝厲沙漠的烏氏一族建立關係，開闢了穿越沙漠連通兩地的商路。"
-37,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_060","第三層的部分，準備設定鍊金術士、雕金匠、裁衣匠造型的人偶。
+37,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_060","第三層的部分，準備設定煉金術士、雕金匠、裁衣匠造型的人偶。
 這三具人偶，被統稱為「三工」。"
 38,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_061","第三層的部分設定的三具人偶，
-乃是模仿鍊金術士、雕金匠、裁衣匠造型的人偶。
+乃是模仿煉金術士、雕金匠、裁衣匠造型的人偶。
 這三種工匠的人偶，被統稱為「三工」。"
 39,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_062","這三工並非是特指歷史上的某個人物。
 一般認為，她們代表了掌控烏爾達哈生產命脈的工匠們，
@@ -96,7 +96,7 @@ int32,str,str
 41,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_070","設定在最上層的男性人偶，
 模仿的是那位與艾德薇雅公主喜結連理的平民出身的少年。"
 42,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_071","他在公主失蹤事件時與公主相遇。
-對公主一見鍾情的少年這樣向公主請求道：
+對公主一見鐘情的少年這樣向公主請求道：
 「如果我能成為騎士，請你和我結婚。」"
 43,"TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_072","事件過去數年之後，
 付出了不懈努力的少年終於實現了願望，成為了近衛騎士。

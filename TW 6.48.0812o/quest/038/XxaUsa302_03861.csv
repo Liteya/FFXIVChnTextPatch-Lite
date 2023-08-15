@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_XXAUSA302_03861_SEQ_00","梅梅盧恩交易站的特特盧恩，有事想請冒險者幫忙。"
-1,"TEXT_XXAUSA302_03861_SEQ_01","接受了幫助特特盧恩製作<Sheet(EventItem,2000594,0)/>的委託。在愚者瀑布附近討伐<Sheet(BNpcName,28,0)/>，獲得3根<Sheet(EventItem,2003009,0)/>。"
+1,"TEXT_XXAUSA302_03861_SEQ_01","接受了幫助特特盧恩製作<Sheet(EventItem,2000594,0)/>的委託。在愚者瀑布附近討伐<Sheet(BNpcName,28,0)/>，獲取3根<Sheet(EventItem,2003009,0)/>。"
 2,"TEXT_XXAUSA302_03861_SEQ_02","將集齊的材料交給梅梅盧恩交易站的特特盧恩。"
 3,"TEXT_XXAUSA302_03861_SEQ_03","有了冒險者收集的材料，製作<Sheet(EventItem,2000594,0)/>的準備工作就結束了。距離製作完成還需要一些時間。"
 4,"TEXT_XXAUSA302_03861_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_XXAUSA302_03861_SEQ_21",""
 22,"TEXT_XXAUSA302_03861_SEQ_22",""
 23,"TEXT_XXAUSA302_03861_SEQ_23",""
-24,"TEXT_XXAUSA302_03861_TODO_00","從<Sheet(BNpcName,28,0)/>身上獲得<Sheet(EventItem,2003009,0)/>"
+24,"TEXT_XXAUSA302_03861_TODO_00","從<Sheet(BNpcName,28,0)/>身上獲取<Sheet(EventItem,2003009,0)/>"
 25,"TEXT_XXAUSA302_03861_TODO_01","將<Sheet(EventItem,2003009,0)/>交給特特盧恩"
 26,"TEXT_XXAUSA302_03861_TODO_02",""
 27,"TEXT_XXAUSA302_03861_TODO_03",""
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_XXAUSA302_03861_TODO_22",""
 47,"TEXT_XXAUSA302_03861_TODO_23",""
 48,"TEXT_XXAUSA302_03861_SYSTEM_100_000","需要先放棄進行中的主線任務才可領取此任務。
-請在快捷指令的任務情報中開啟日誌，然後放棄該任務。"
+請在快捷指令的任務情報中打開日誌，然後放棄該任務。"
 49,"TEXT_XXAUSA302_03861_TETEROON_000_000","特特盧恩，要給巴斯卡隆回禮。
 巴斯卡隆，很喜歡<Sheet(EventItem,2000594,0)/>。
 醇香美酒，要鼓起幹勁開始做啦。"

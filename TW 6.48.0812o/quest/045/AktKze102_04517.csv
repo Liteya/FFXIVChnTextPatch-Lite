@@ -10,7 +10,7 @@ int32,str,str
 3,"TEXT_AKTKZE102_04517_SEQ_03","和夢明威進行了交談。幫助夢明威收集沙土。從痛苦月谷的<Sheet(EObj,2012508,0)/>收集<Sheet(EventItem,2003327,0)/>。"
 4,"TEXT_AKTKZE102_04517_SEQ_04","收集到了<Sheet(EventItem,2003327,0)/>。將其交給痛苦月谷的夢明威。"
 5,"TEXT_AKTKZE102_04517_SEQ_05","將<Sheet(EventItem,2003327,0)/>交給了夢明威。返回最佳威兔洞，向思省威報告。"
-6,"TEXT_AKTKZE102_04517_SEQ_06","向思省威報告完畢。冒險者決定繼續與夢明威一起行動，為他找到最適合的夢想。"
+6,"TEXT_AKTKZE102_04517_SEQ_06","向思省威報告完畢。冒險者決定繼續與夢明威一起行動，為他找到最合適的夢想。"
 7,"TEXT_AKTKZE102_04517_SEQ_07",""
 8,"TEXT_AKTKZE102_04517_SEQ_08",""
 9,"TEXT_AKTKZE102_04517_SEQ_09",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_AKTKZE102_04517_TODO_21",""
 46,"TEXT_AKTKZE102_04517_TODO_22",""
 47,"TEXT_AKTKZE102_04517_TODO_23",""
-48,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_000","哇，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_000","哇，是<Highlight>ObjectParameter(1)</Highlight>！
 謝謝你來找我！
 那我們趕快開始吧，我這就給你介紹我的日常生活！"
 49,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_001","平日裡的話，我基本都是在忙著工作！
@@ -75,19 +75,19 @@ int32,str,str
 他需要有人為他採集調和材料用的水晶。"
 57,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_013","這樣的話，只要拿回跟平常一樣的材料就行了，對吧！
 交給我吧！"
-58,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_014"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這個工作正巧適合！
+58,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_014","<Highlight>ObjectParameter(1)</Highlight>，這個工作正巧合適！
 地點是在痛苦月谷，
 我們出發吧！"
-59,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！！
+59,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_020","<Highlight>ObjectParameter(1)</Highlight>！！
 你來啦！"
 60,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_021","思省威要求的水晶，
-我已經差不多采夠了！
+我已經差不多採夠了！
 不過……"
 61,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_022","倉庫裡的沙土好像也不夠用了，需要補充。
 我記得聽過構營威提過這麼一嘴，
 我們要不順便幫他採點帶回去吧。"
 62,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_023","這個工作很簡單的，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 要不要來和我一起工作看看？
+<Highlight>ObjectParameter(1)</Highlight>要不要來和我一起工作看看？
 很有趣的！"
 63,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_024","感謝你的幫助！
 在這邊收集<Sheet(EventItem,2003327,0)/>就行，
@@ -101,7 +101,7 @@ int32,str,str
 思省威一定會很開心的！
 快去向思省威報告這個好消息吧！"
 68,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_033","快去向思省威報告這個好消息吧！
-難得 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你幫了忙，
+難得<Highlight>ObjectParameter(1)</Highlight>你幫了忙，
 請你親自向他報告吧！"
 69,"TEXT_AKTKZE102_04517_THINKINGWAY_000_040","二位辛苦啦！
 你們把委託要的水晶帶回來了嗎？"
@@ -125,7 +125,7 @@ int32,str,str
 76,"TEXT_AKTKZE102_04517_THINKINGWAY_000_047","不會吧，這怎麼可能呢……
 你以為採水晶的地方離這裡有多遠啊？"
 77,"TEXT_AKTKZE102_04517_THINKINGWAY_000_048","總之……謝謝你們倆把沙土帶回來了。"
-78,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_049"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+78,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_049","<Highlight>ObjectParameter(1)</Highlight>！
 感謝你願意來幫忙！謝謝你！"
 79,"TEXT_AKTKZE102_04517_DREAMINGWAY_000_050","還有，那個，就是……
 關於我的夢想，你有了什麼想法嗎？"

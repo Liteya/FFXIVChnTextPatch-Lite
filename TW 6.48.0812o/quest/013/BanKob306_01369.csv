@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_BANKOB306_01369_SEQ_00","第789洞穴團採礦地的第789團清潔工博布，想要一件東西。"
-1,"TEXT_BANKOB306_01369_SEQ_01","第789團清潔工博布似乎很羨慕第13洞穴團的伙食。前往黑金湖，向第13團鍊金術士加吉詢問打開裝有食材的<Sheet(EObj,2003945,0)/>的方法。"
-2,"TEXT_BANKOB306_01369_SEQ_02","第13團鍊金術士加吉告訴冒險者，想要打開<Sheet(EObj,2003945,0)/>的話，需要先拿到鑰匙。首先前往武伽瑪羅武裝礦山，接觸<Sheet(EObj,2003930,0)/>，討伐出現的<Sheet(BNpcName,2709,0)/>。"
-3,"TEXT_BANKOB306_01369_SEQ_03","討伐了<Sheet(BNpcName,2709,0)/>。打開武伽瑪羅武裝礦山的<Sheet(EObj,2003930,0)/>，獲得<Sheet(EventItem,2001282,0)/>。"
+1,"TEXT_BANKOB306_01369_SEQ_01","第789團清潔工博布似乎很羨慕第13洞穴團的伙食。前往黑金湖，向第13團煉金術士加吉詢問打開裝有食材的<Sheet(EObj,2003945,0)/>的方法。"
+2,"TEXT_BANKOB306_01369_SEQ_02","第13團煉金術士加吉告訴冒險者，想要打開<Sheet(EObj,2003945,0)/>的話，需要先拿到鑰匙。首先前往武伽瑪羅武裝礦山，接觸<Sheet(EObj,2003930,0)/>，討伐出現的<Sheet(BNpcName,2709,0)/>。"
+3,"TEXT_BANKOB306_01369_SEQ_03","討伐了<Sheet(BNpcName,2709,0)/>。打開武伽瑪羅武裝礦山的<Sheet(EObj,2003930,0)/>，獲取<Sheet(EventItem,2001282,0)/>。"
 4,"TEXT_BANKOB306_01369_SEQ_04","獲得了<Sheet(EventItem,2001282,0)/>。接下來在武伽瑪羅武裝礦山，接觸<Sheet(EObj,2003945,0)/>，討伐出現的<Sheet(BNpcName,2710,0)/>。"
-5,"TEXT_BANKOB306_01369_SEQ_05","討伐了<Sheet(BNpcName,2710,0)/>。在武伽瑪羅武裝礦山，對<Sheet(EObj,2003945,0)/>使用<Sheet(EventItem,2001282,0)/>，獲得<Sheet(EventItem,2001283,0)/>。"
+5,"TEXT_BANKOB306_01369_SEQ_05","討伐了<Sheet(BNpcName,2710,0)/>。在武伽瑪羅武裝礦山，對<Sheet(EObj,2003945,0)/>使用<Sheet(EventItem,2001282,0)/>，獲取<Sheet(EventItem,2001283,0)/>。"
 6,"TEXT_BANKOB306_01369_SEQ_06","獲得了需要的<Sheet(EventItem,2001283,0)/>。前往第789洞穴團採礦地，將<Sheet(EventItem,2001283,0)/>交給第789團清潔工博布。"
 7,"TEXT_BANKOB306_01369_SEQ_07","將<Sheet(EventItem,2001283,0)/>交給第789團清潔工博布後，他立刻狼吞虎嚥了起來。據說這東西對地靈族來說，是相當美味的食材。第789團清潔工博布越發不能原諒獨佔<Sheet(EventItem,2001283,0)/>的第13洞穴團了。"
 8,"TEXT_BANKOB306_01369_SEQ_08",""
@@ -25,11 +25,11 @@ int32,str,str
 21,"TEXT_BANKOB306_01369_SEQ_21",""
 22,"TEXT_BANKOB306_01369_SEQ_22",""
 23,"TEXT_BANKOB306_01369_SEQ_23",""
-24,"TEXT_BANKOB306_01369_TODO_00","和第13團鍊金術士加吉對話"
+24,"TEXT_BANKOB306_01369_TODO_00","和第13團煉金術士加吉對話"
 25,"TEXT_BANKOB306_01369_TODO_01","調查<Sheet(EObj,2003930,0)/> 討伐<Sheet(BNpcName,2709,0)/>"
-26,"TEXT_BANKOB306_01369_TODO_02","打開<Sheet(EObj,2003930,0)/> 獲得<Sheet(EventItem,2001282,0)/>"
+26,"TEXT_BANKOB306_01369_TODO_02","打開<Sheet(EObj,2003930,0)/> 獲取<Sheet(EventItem,2001282,0)/>"
 27,"TEXT_BANKOB306_01369_TODO_03","調查<Sheet(EObj,2003945,0)/> 討伐<Sheet(BNpcName,2710,0)/>"
-28,"TEXT_BANKOB306_01369_TODO_04","對<Sheet(EObj,2003945,0)/>使用<Sheet(EventItem,2001282,0)/> 獲得<Sheet(EventItem,2001283,0)/>"
+28,"TEXT_BANKOB306_01369_TODO_04","對<Sheet(EObj,2003945,0)/>使用<Sheet(EventItem,2001282,0)/> 獲取<Sheet(EventItem,2001283,0)/>"
 29,"TEXT_BANKOB306_01369_TODO_05","將<Sheet(EventItem,2001283,0)/>交給第789團清潔工博布"
 30,"TEXT_BANKOB306_01369_TODO_06",""
 31,"TEXT_BANKOB306_01369_TODO_07",""
@@ -60,10 +60,10 @@ int32,str,str
 51,"TEXT_BANKOB306_01369_BOBU_000_003","可惡啊 別說打開金壺了
 我們連接近 都做不到啊……
 不過 我打聽到 一個線索！"
-52,"TEXT_BANKOB306_01369_BOBU_000_004","第13團鍊金術士加吉……好像知道 金壺的事情。
+52,"TEXT_BANKOB306_01369_BOBU_000_004","第13團煉金術士加吉……好像知道 金壺的事情。
 那傢伙是 解決問題的關鍵。
 你去問問他 詳細的情況吧。"
-53,"TEXT_BANKOB306_01369_BOBU_000_005","向第13團鍊金術士加吉 打聽情報
+53,"TEXT_BANKOB306_01369_BOBU_000_005","向第13團煉金術士加吉 打聽情報
 把<Sheet(EObj,2003945,0)/>中的東西 拿來給我！"
 54,"TEXT_BANKOB306_01369_BALLOON_KOBOLD_006","鑰匙 不能給你！"
 55,"TEXT_BANKOB306_01369_GAJI_000_010","你要打開 <Sheet(EObj,2003945,0)/>嗎？
@@ -77,8 +77,8 @@ int32,str,str
 58,"TEXT_BANKOB306_01369_GAJI_000_013","而且<Sheet(EObj,2003945,0)/> 也有人看管
 負責看管的是 <Sheet(BNpcName,2710,0)/>。
 不將其幹掉的話 就無法順利打開哦。"
-59,"TEXT_BANKOB306_01369_GAJI_000_014","（★未使用／削除予定★）"
-60,"TEXT_BANKOB306_01369_GAJI_000_015","（★未使用／削除予定★）"
+59,"TEXT_BANKOB306_01369_GAJI_000_014","（未使用/預計刪除）"
+60,"TEXT_BANKOB306_01369_GAJI_000_015","（未使用/預計刪除）"
 61,"TEXT_BANKOB306_01369_BOBU_000_020","你 拿到了嗎？
 好厲害！ 你成功了啊！
 快把東西 給我吧！"
@@ -90,4 +90,4 @@ int32,str,str
 我越來越無法原諒 佐加那群混蛋了！"
 64,"TEXT_BANKOB306_01369_POPMESSAGE_000_000","察覺到了敵人的氣息！"
 65,"TEXT_BANKOB306_01369_POPMESSAGE_000_001","打倒出現的敵人之後才能進行下一步動作。"
-66,"TEXT_BANKOB306_01369_POP_MESSAGE","（★未使用／削除予定★）"
+66,"TEXT_BANKOB306_01369_POP_MESSAGE","（★未使用／預定刪除★）"

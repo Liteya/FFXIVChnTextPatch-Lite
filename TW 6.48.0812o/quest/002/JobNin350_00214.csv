@@ -49,14 +49,14 @@ int32,str,str
 45,"TEXT_JOBNIN350_00214_TODO_21",""
 46,"TEXT_JOBNIN350_00214_TODO_22",""
 47,"TEXT_JOBNIN350_00214_TODO_23",""
-48,"TEXT_JOBNIN350_00214_TSUBAME_000_000","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人麼，
+48,"TEXT_JOBNIN350_00214_TSUBAME_000_000","這不是<Highlight>ObjectParameter(1)</Highlight>大人麼，
 嘻嘻嘻，看起來作為忍者，你已經越來越強了！"
 49,"TEXT_JOBNIN350_00214_TSUBAME_000_001","朧大人正在屋內等你。
 請進去吧。"
 50,"TEXT_JOBNIN350_00214_OBORO_000_005","只要靜下心來……行禮一定也能水到渠成……"
 51,"TEXT_JOBNIN350_00214_TSUBAME_000_010","嘻嘻嘻，你越來越強了！
 看來你很快就能超越我了。"
-52,"TEXT_JOBNIN350_00214_OBORO_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……你變強了。
+52,"TEXT_JOBNIN350_00214_OBORO_000_020","<Highlight>ObjectParameter(1)</Highlight>……你變強了。
 但是在成長的可不是只有你一個人。"
 53,"TEXT_JOBNIN350_00214_OBORO_000_021","看呀，多麼自然的行禮……
 這是我每日鍛鍊的成果。

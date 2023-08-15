@@ -59,7 +59,7 @@ int32,str,str
 53,"TEXT_JOBAST299_02123_JANNEQUINARD_000_002","是嗎，真是遺憾。
 不過你能來到這裡，想必也是某種緣分。
 從現在起，試著關注一下這滿天星辰如何？"
-54,"TEXT_JOBAST299_02123_JANNEQUINARD_000_003","這裡雖是透過觀星來預測龍族動向的
+54,"TEXT_JOBAST299_02123_JANNEQUINARD_000_003","這裡雖是通過觀星來預測龍族動向的
 「占星學家」們的聚集地……
 然而也可以學習到發源於知識之都薩雷安的正統占星術！"
 55,"TEXT_JOBAST299_02123_JANNEQUINARD_000_004","能學習到薩雷安占星魔法的機會可以說是少之又少。
@@ -69,9 +69,9 @@ int32,str,str
 57,"TEXT_JOBAST299_02123_A2_000_001","是"
 58,"TEXT_JOBAST299_02123_A2_000_002","否"
 59,"TEXT_JOBAST299_02123_JANNEQUINARD_000_010","實在是了不起的決斷！你在此時開闢了新的命運。
-我是占星術士雅內基納爾．德．狄蘭達爾。
+我是占星術士雅內基納爾·德·狄蘭達爾。
 目前也是皇都內的唯一一名占星術士。"
-60,"TEXT_JOBAST299_02123_JANNEQUINARD_000_0011","……你叫做 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，我明白了。
+60,"TEXT_JOBAST299_02123_JANNEQUINARD_000_0011","……你叫做<Highlight>ObjectParameter(1)</Highlight>啊，我明白了。
 那麼等你做好準備了，請跟我說一聲。"
 61,"TEXT_JOBAST299_02123_JANNEQUINARD_000_015","哎呀……看來你的命運暫時與占星術士還並無交集。
 但是在時光的流逝中，命運總是不斷變化的……

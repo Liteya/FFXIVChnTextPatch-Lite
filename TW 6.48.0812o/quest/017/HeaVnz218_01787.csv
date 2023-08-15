@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ218_01787_SEQ_21",""
 22,"TEXT_HEAVNZ218_01787_SEQ_22",""
 23,"TEXT_HEAVNZ218_01787_SEQ_23",""
-24,"TEXT_HEAVNZ218_01787_TODO_00","獲得<Sheet(EventItem,2001612,0)/>"
+24,"TEXT_HEAVNZ218_01787_TODO_00","獲取<Sheet(EventItem,2001612,0)/>"
 25,"TEXT_HEAVNZ218_01787_TODO_01","將<Sheet(EventItem,2001612,0)/>交給吃不夠"
 26,"TEXT_HEAVNZ218_01787_TODO_02",""
 27,"TEXT_HEAVNZ218_01787_TODO_03",""
@@ -52,14 +52,14 @@ int32,str,str
 48,"TEXT_HEAVNZ218_01787_UMASOU_000_000","嘁嘁嘁……想一想我就饞得流口水啦。
 值得自豪的黏糊糊的口水簡直跟瀑布一般停不下來……
 我說你啊，能幫我採一些來嗎？"
-49,"TEXT_HEAVNZ218_01787_UMASOU_000_001","你去一趟美夏醒言遺跡正面的高臺上，
+49,"TEXT_HEAVNZ218_01787_UMASOU_000_001","你去一趟美夏醒言遺跡正面的高台上，
 揀3個落在地上的<Sheet(EventItem,2001612,0)/>，
 把它們帶回來給我吧……嘁嘁嘁。"
-50,"TEXT_HEAVNZ218_01787_UMASOU_000_010","你去一趟美夏醒言遺跡正面的高臺上，
+50,"TEXT_HEAVNZ218_01787_UMASOU_000_010","你去一趟美夏醒言遺跡正面的高台上，
 揀3個落在地上的<Sheet(EventItem,2001612,0)/>，
 把它們帶回來給我吧……嘁嘁嘁。"
 51,"TEXT_HEAVNZ218_01787_CIBLEROIT_100_011","嘁嘁嘁……那個東西到底哪裡好吃了。"
-52,"TEXT_HEAVNZ218_01787_UMASOU_000_020","你去一趟美夏醒言遺跡正面的高臺上，
+52,"TEXT_HEAVNZ218_01787_UMASOU_000_020","你去一趟美夏醒言遺跡正面的高台上，
 揀3個落在地上的<Sheet(EventItem,2001612,0)/>，
 把它們帶回來給我吧……嘁嘁嘁。"
 53,"TEXT_HEAVNZ218_01787_UMASOU_000_021","嘁嘁嘁……哎喲，簡直太好吃了！

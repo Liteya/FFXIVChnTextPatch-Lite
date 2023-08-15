@@ -81,7 +81,7 @@ int32,str,str
 61,"TEXT_LUCKZF104_03481_CIUNA_000_021","請賜予那人力量……"
 62,"TEXT_LUCKZF104_03481_CIUNA_000_025","成功了……嗎。"
 63,"TEXT_LUCKZF104_03481_PHYNA_000_030","太好了！
-這次總算是成功了！"
+這回總算是成功了！"
 64,"TEXT_LUCKZF104_03481_CIUNA_000_031","我們……還有儀式見證人的你。
 雖然有些難為情，不過我們終於心意相通了。"
 65,"TEXT_LUCKZF104_03481_PHYNA_000_032","蘭櫟應該還在法諾村一邊擔心一邊等著咱們呢。
@@ -104,9 +104,9 @@ int32,str,str
 74,"TEXT_LUCKZF104_03481_LANILLE_000_046","村裡的人們有著跟你們姐妹同樣的煩惱，
 可是現在你們的答案也就成為了法諾村的答案。"
 75,"TEXT_LUCKZF104_03481_LANILLE_000_047","我們村子將完成從古至今的使命，並且繼續向前邁進。
-這都多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來到了法諾村啊。"
+這都多虧了<Highlight>ObjectParameter(1)</Highlight>來到了法諾村啊。"
 76,"TEXT_LUCKZF104_03481_LANILLE_000_048","我代表全村再次向你表示感謝。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你了。"
+<Highlight>ObjectParameter(1)</Highlight>，謝謝你了。"
 77,"TEXT_LUCKZF104_03481_LANILLE_000_049","還有對於你們的決意，
 我從心裡祈禱你們的前途無限光明。"
 78,"TEXT_LUCKZF104_03481_CIUNA_000_050","我們明明讓你費了那麼多的心……謝謝你，蘭櫟。"

@@ -55,7 +55,7 @@ int32,str,str
 45,"TEXT_BANVAN604_02200_TODO_21",""
 46,"TEXT_BANVAN604_02200_TODO_22",""
 47,"TEXT_BANVAN604_02200_TODO_23",""
-48,"TEXT_BANVAN604_02200_02200_MUNAVANU_000_001","怎麼辦、怎麼辦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_BANVAN604_02200_02200_MUNAVANU_000_001","怎麼辦、怎麼辦，<Highlight>ObjectParameter(1)</Highlight>，
 我們現在就像永不消散的濃霧一樣煩惱。"
 49,"TEXT_BANVAN604_02200_02200_MUNAVANU_000_002","能不能請你去和利努瓦努大人談談，
 看看有沒有辦法解決我們袞杜族的煩惱。"
@@ -63,7 +63,7 @@ int32,str,str
 51,"TEXT_BANVAN604_02200_02200_LINUVANU_000_020","可惡、可惡，冷酷的溫杜族！
 竟敢威脅袞杜族的獵人，並把他們趕跑！
 我心中的怒氣就像那緩緩升起的騰雲一般越積越多！"
-52,"TEXT_BANVAN604_02200_02200_LINUVANU_000_021"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你，
+52,"TEXT_BANVAN604_02200_02200_LINUVANU_000_021","<Highlight>ObjectParameter(1)</Highlight>，拜託你，
 去幫我們趕跑那溫杜族的暴徒吧！"
 53,"TEXT_BANVAN604_02200_02200_LINUVANU_000_022","只要跟商人魯納瓦努說一聲，就能借用騰雲蛇了。
 對著溫杜族的暴徒使用突風，
@@ -78,7 +78,7 @@ int32,str,str
 怕了我的太陽之舞了吧！
 哈哈哈！哈哈哈哈哈！"
 57,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_032","唔！
-混帳、混帳，竟然敢妨礙我跳太陽之舞！
+混賬、混賬，竟然敢妨礙我跳太陽之舞！
 不過就這點小風，是趕不走我的……"
 58,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_040","我、我可不怕你。
 我就像落地生根的大樹一樣，一動也不動！"
@@ -89,7 +89,7 @@ int32,str,str
 嗷嗷嗷嗷嗷……"
 61,"TEXT_BANVAN604_02200_02200_VUNDU02200_000_051","哎喲！
 我認輸、我認輸！
-這麼大的風，沒辦法再跳了。撤退！"
+這麼大的風，沒法再跳了。撤退！"
 62,"TEXT_BANVAN604_02200_02200_LINUVANU_000_060","你回來了、你回來了！
 就算是那粗魯的溫杜族的暴徒，
 也耐不住我們的突風！"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDZ717_02820_SEQ_00","對等石的梅．琳波正在尋找強力幫手。"
+0,"TEXT_STMBDZ717_02820_SEQ_00","對等石的梅·琳波正在尋找強力幫手。"
 1,"TEXT_STMBDZ717_02820_SEQ_01",""
 2,"TEXT_STMBDZ717_02820_SEQ_02",""
 3,"TEXT_STMBDZ717_02820_SEQ_03",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDZ717_02820_SEQ_23",""
 24,"TEXT_STMBDZ717_02820_TODO_00","討伐<Sheet(BNpcName,5696,0)/>
 再討伐現身的<Sheet(BNpcName,5808,0)/>"
-25,"TEXT_STMBDZ717_02820_TODO_01","向梅．琳波報告"
+25,"TEXT_STMBDZ717_02820_TODO_01","向梅·琳波報告"
 26,"TEXT_STMBDZ717_02820_TODO_02",""
 27,"TEXT_STMBDZ717_02820_TODO_03",""
 28,"TEXT_STMBDZ717_02820_TODO_04",""
@@ -66,7 +66,7 @@ int32,str,str
 拜託了……請幫我們奪回狩獵場！"
 53,"TEXT_STMBDZ717_02820_MLINHBO_000_010","我從這裡看到你打倒它的姿態了。
 果然，委託你去討伐它是正確的！"
-54,"TEXT_STMBDZ717_02820_MLINHBO_000_011","它是岩石寄宿乙太後產生的土精。
+54,"TEXT_STMBDZ717_02820_MLINHBO_000_011","它是岩石寄宿乙太後生成的土精。
 據我們一族的傳承所說，上面還寄宿著
 那些在大戰中死於不甘的死者靈魂。"
 55,"TEXT_STMBDZ717_02820_MLINHBO_000_013","（★未使用／削除予定★）"

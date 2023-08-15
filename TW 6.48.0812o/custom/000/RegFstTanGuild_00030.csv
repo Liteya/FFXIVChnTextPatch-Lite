@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGFSTTANGUILD_00030_GEVA_000_1","怎麼了，一副沒見過世面的樣子。
 難道你想打聽關於製革的事情嗎？"
-1,"TEXT_REGFSTTANGUILD_00030_Q1_000_1","想瞭解什麼？"
+1,"TEXT_REGFSTTANGUILD_00030_Q1_000_1","想了解什麼？"
 2,"TEXT_REGFSTTANGUILD_00030_A1_000_1","你是做什麼的？"
 3,"TEXT_REGFSTTANGUILD_00030_A1_000_2","什麼是「製革」？"
 4,"TEXT_REGFSTTANGUILD_00030_A1_000_3","取消"
@@ -11,7 +11,7 @@ int32,str,str
 說明白點就是「公會會長」。"
 6,"TEXT_REGFSTTANGUILD_00030_GEVA_000_3","從上任老大那時起，
 我們公會的製革技術就已經相當出名了，
-不過讓公會名聲響徹艾奧傑亞的可是我哦。"
+不過讓公會名聲響徹艾歐澤亞的可是我哦。"
 7,"TEXT_REGFSTTANGUILD_00030_GEVA_000_4","聽我這麼一說，你大概認為我要開始講一番老套的血淚史了吧。
 其實我也沒有費多少心啦。"
 8,"TEXT_REGFSTTANGUILD_00030_GEVA_000_5","製革匠必須對材料的「生命」報以敬意。
@@ -40,17 +40,17 @@ int32,str,str
 但是你被那個商會挖過去了啊……"
 19,"TEXT_REGFSTTANGUILD_00030_GEVA_000_041","跟我不用不好意思，再怎麼說，公會也不會束縛你的。
 你就到外面開拓新天地吧。"
-20,"TEXT_REGFSTTANGUILD_00030_GEVA_000_050","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了。
+20,"TEXT_REGFSTTANGUILD_00030_GEVA_000_050","啊，<Highlight>ObjectParameter(1)</Highlight>，你回來了。
 看來你在皇都幹得不錯啊。
 你這傢伙真是有一手……"
-21,"TEXT_REGFSTTANGUILD_00030_GEVA_000_051","全新品牌「 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 」總有一天會成為飛．烏爾的對手吧。
+21,"TEXT_REGFSTTANGUILD_00030_GEVA_000_051","全新品牌「<Highlight>ObjectParameter(1)</Highlight>」總有一天會成為飛·烏爾的對手吧。
 到時候你要幫誰啊……"
 22,"TEXT_REGFSTTANGUILD_00030_GEVA_000_060","我說得沒錯吧？阿特魯納是個很奇怪的人吧？
 不過，她的研究經常會給製革匠提供很大的幫助。"
 23,"TEXT_REGFSTTANGUILD_00030_GEVA_000_061","製作標本不僅能提高製匠的手藝，
 還能夠加深大家對動物的理解。
 你可要用心去做啊。"
-24,"TEXT_REGFSTTANGUILD_00030_GEVA_000_070","怎麼了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+24,"TEXT_REGFSTTANGUILD_00030_GEVA_000_070","怎麼了<Highlight>ObjectParameter(1)</Highlight>，
 你找艾尼恩嗎？他在外面製作標本呢。"
 25,"TEXT_REGFSTTANGUILD_00030_GEVA_000_071","那孩子只是沒遇到好的指導者罷了，
 他在製革匠一途上其實很有天分。
@@ -58,23 +58,23 @@ int32,str,str
 26,"TEXT_REGFSTTANGUILD_00030_GEVA_000_080","哎呀，沒想到你居然會來到這裡。
 還以為你徹底把我忘了呢……"
 27,"TEXT_REGFSTTANGUILD_00030_GEVA_000_081","開玩笑的啦。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來。
+<Highlight>ObjectParameter(1)</Highlight>，歡迎回來。
 你就在這裡好好休息吧……"
-28,"TEXT_REGFSTTANGUILD_00030_Q2_000_1","想瞭解什麼？"
+28,"TEXT_REGFSTTANGUILD_00030_Q2_000_1","想了解什麼？"
 29,"TEXT_REGFSTTANGUILD_00030_A2_000_1","最近怎麼樣？"
 30,"TEXT_REGFSTTANGUILD_00030_A2_000_2","什麼是「製革」？"
 31,"TEXT_REGFSTTANGUILD_00030_A2_000_3","取消"
 32,"TEXT_REGFSTTANGUILD_00030_GEVA_000_100","「博薩大叔」那件事對製革匠公會來說，
 實在是一個很沉痛的教訓。"
 33,"TEXT_REGFSTTANGUILD_00030_GEVA_000_101","公會不只是要傳授工匠們技藝，
-還一定要傳授他們正確的志向。"
-34,"TEXT_REGFSTTANGUILD_00030_GEVA_000_102","為了守護「飛．烏爾」的傳統，
+還必須要傳授他們正確的志向。"
+34,"TEXT_REGFSTTANGUILD_00030_GEVA_000_102","為了守護「飛·烏爾」的傳統，
 在人才的培育上，我要更加用心才行。
 希望能多栽培出幾個像你這樣志向遠大的製革匠。"
 35,"TEXT_REGFSTTANGUILD_00030_GEVA_100_100","你和艾尼恩、阿特魯納努力的結晶——標本，
 就放在公會的旁邊哦。
 那個法師也已經同意我們繼續展覽了。"
-36,"TEXT_REGFSTTANGUILD_00030_GEVA_100_101","透過製作標本，你應該也發現了製革匠的新的可能性，
+36,"TEXT_REGFSTTANGUILD_00030_GEVA_100_101","通過製作標本，你應該也發現了製革匠的新的可能性，
 那就是將「生命可貴」傳達給更多的人。
 畢竟就算自己明白，周圍的人也很容易忘記這一點。"
 37,"TEXT_REGFSTTANGUILD_00030_GEVA_100_102","因為標本能表現出生物原本的模樣，所以很容易讓人產生興趣，
@@ -83,10 +83,10 @@ int32,str,str
 38,"TEXT_REGFSTTANGUILD_00030_GEVA_100_103","雖然無法一次性地告訴很多人，但只要帶著真心實意去製革，
 就可以把敬重生命的心情傳達給別人。
 不對……得要製作出能夠傳達心意的東西來才行。"
-39,"TEXT_REGFSTTANGUILD_00030_GEVA_200_100","飛．烏爾進展很順利。
+39,"TEXT_REGFSTTANGUILD_00030_GEVA_200_100","飛·烏爾進展很順利。
 製革匠公會培育出的志向高遠的工匠
 都很好地遵循著傳統。"
-40,"TEXT_REGFSTTANGUILD_00030_GEVA_200_101","說起來，以你的名字冠名的皇都品牌「 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 」
+40,"TEXT_REGFSTTANGUILD_00030_GEVA_200_101","說起來，以你的名字冠名的皇都品牌「<Highlight>ObjectParameter(1)</Highlight>」
 受邀參加了品評會並且獲得了很高的評價。"
 41,"TEXT_REGFSTTANGUILD_00030_GEVA_200_102","而作為艾尼恩和阿特魯納的努力結晶的標本，
 至今依然在向許許多多的人們傳達著「生命可貴」。

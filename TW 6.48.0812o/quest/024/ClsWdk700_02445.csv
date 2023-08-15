@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CLSWDK700_02445_SEQ_00","格里達尼亞的奇彌．基恩加爾正在等待冒險者。"
-1,"TEXT_CLSWDK700_02445_SEQ_01","奇彌．基恩加爾接到了一個新的課題。和刻木匠公會的貝亞坦談談。"
+0,"TEXT_CLSWDK700_02445_SEQ_00","格里達尼亞的奇彌·基恩加爾正在等待冒險者。"
+1,"TEXT_CLSWDK700_02445_SEQ_01","奇彌·基恩加爾接到了一個新的課題。和刻木匠公會的貝亞坦談談。"
 2,"TEXT_CLSWDK700_02445_SEQ_02","蓋伊爾哈德為了解決隊員們的不和，向刻木匠求助。和格里達尼亞蛇巢司令部的格里達尼亞出身的隊員談談。"
 3,"TEXT_CLSWDK700_02445_SEQ_03","格里達尼亞出身的隊員似乎對以前召開的茶會是阿拉米格風格而感到很不滿。和格里達尼亞舊街的阿拉米格出身的隊員談談。"
 4,"TEXT_CLSWDK700_02445_SEQ_04","阿拉米格出身的隊員表示不能原諒格里達尼亞出身的隊員在茶會中中途離場的行為。和刻木匠公會的貝亞坦談談。"
@@ -11,7 +11,7 @@ int32,str,str
 ※如果<Sheet(Item,17883,0)/>不足，可以與貝亞坦對話重新獲得材料，並再次進行挑戰。"
 6,"TEXT_CLSWDK700_02445_SEQ_06","將<Sheet(ItemHQ,17884,0)/>交給了蓋伊爾哈德。和格里達尼亞碧企鵝瀑布的蓋伊爾哈德談談，準備出席茶會。"
 7,"TEXT_CLSWDK700_02445_SEQ_07","蓋伊爾哈德舉辦的茶會成功落幕，隊員們也冰釋前嫌。和刻木匠公會的貝亞坦談談。"
-8,"TEXT_CLSWDK700_02445_SEQ_08","因為奇彌．基恩加爾和冒險者製作了同樣的東西，貝亞坦覺得很是感動。奇彌．基恩加爾為了成為像冒險者那樣了不起的工匠，決定以後也繼續努力。今後也要活用刻木匠的手藝與宗旨幫助大家。"
+8,"TEXT_CLSWDK700_02445_SEQ_08","因為奇彌·基恩加爾和冒險者製作了同樣的東西，貝亞坦覺得很是感動。奇彌·基恩加爾為了成為像冒險者那樣了不起的工匠，決定以後也繼續努力。今後也要活用刻木匠的手藝與宗旨幫助大家。"
 9,"TEXT_CLSWDK700_02445_SEQ_09",""
 10,"TEXT_CLSWDK700_02445_SEQ_10",""
 11,"TEXT_CLSWDK700_02445_SEQ_11",""
@@ -51,12 +51,12 @@ int32,str,str
 45,"TEXT_CLSWDK700_02445_TODO_21",""
 46,"TEXT_CLSWDK700_02445_TODO_22",""
 47,"TEXT_CLSWDK700_02445_TODO_23",""
-48,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_001","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_001","啊，<Highlight>ObjectParameter(1)</Highlight>！
 等你好久啦！"
 49,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_002","師父介紹的委託人好像已經來了！
 你要跟我一起去貝亞坦師父那裡嗎？"
 50,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_003","那我們就出發吧！"
-51,"TEXT_CLSWDK700_02445_BEATINE_000_010","這次的委託人 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 以前應該已經見過了，
+51,"TEXT_CLSWDK700_02445_BEATINE_000_010","這次的委託人<Highlight>ObjectParameter(1)</Highlight>以前應該已經見過了，
 就是這位，為師的朋友蓋伊爾哈德。"
 52,"TEXT_CLSWDK700_02445_GAIRHARD_000_011","之前承蒙關照了。
 多虧冒險者和貝亞坦的幫助，
@@ -74,9 +74,9 @@ int32,str,str
 我們需要先去問問有矛盾的隊員……
 看之前舉辦的茶會有什麼問題……"
 57,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_016","是！
-鄙人奇彌．基恩加爾，
+鄙人奇彌·基恩加爾，
 一定會勇往直前地解決委託！"
-58,"TEXT_CLSWDK700_02445_BEATINE_000_017"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，為師也想請你參加這次的委託，
+58,"TEXT_CLSWDK700_02445_BEATINE_000_017","<Highlight>ObjectParameter(1)</Highlight>，為師也想請你參加這次的委託，
 你意下如何呢？"
 59,"TEXT_CLSWDK700_02445_BEATINE_000_018","為師並不是不信任奇彌，
 只是因為這個委託是給公會的正式委託，
@@ -88,7 +88,7 @@ int32,str,str
 然後再考慮我們應該怎麼做吧……
 打聽完之後，就先回為師這裡來。"
 62,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_021","明白！"
-63,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_025","鄙人奇彌．基恩加爾，
+63,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_025","鄙人奇彌·基恩加爾，
 為了解決委託人的煩惱，
 必定會傾注全部精力！"
 64,"TEXT_CLSWDK700_02445_GAIRHARD_000_030","上一次給你添麻煩了，
@@ -117,7 +117,7 @@ int32,str,str
 為了讓我們和格里達尼亞人培養感情，還為我們舉辦了茶會。"
 75,"TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_049","但那個傢伙，卻在茶會開到一半的時候回去了！
 就因為不爽茶會傾向於阿拉米格的風格！
-我們明明只是想讓他們對阿拉米格多瞭解一點而已！"
+我們明明只是想讓他們對阿拉米格多了解一點而已！"
 76,"TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_050","從那之後，我們就和那些傢伙劃清了界線，
 不管在作戰間隙吃飯的時候還是在隊裡的日常生活中，
 我們都只和阿拉米格人一起行動。"
@@ -146,7 +146,7 @@ int32,str,str
 你會覺得開心嗎？
 如果玩笑開得太過分，小心會被鋸子鋸成碎塊哦……"
 89,"TEXT_CLSWDK700_02445_GAIRHARD_000_075","如果成天惦記著什麼阿拉米格什麼格里達尼亞的，
-在戰場上就沒辦法背對背共同對敵了。
+在戰場上就沒法背對背共同對敵了。
 拜託你了，幫我解決他們之間的問題吧。"
 90,"TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_080","我也不想和他鬧矛盾啊，
 我們畢竟是互相交付生命的隊友。"
@@ -156,12 +156,12 @@ int32,str,str
 92,"TEXT_CLSWDK700_02445_GAIRHARD_000_090","這是……什麼？
 我第一次見……"
 93,"TEXT_CLSWDK700_02445_BEATINE_000_091","是重現了東方茶館的家具啊……
-真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+真不愧是<Highlight>ObjectParameter(1)</Highlight>，
 你的作品還是一如既往地令人心醉。"
 94,"TEXT_CLSWDK700_02445_BEATINE_000_092","好了，接下來讓為師看看奇彌的作品吧。
 你做了什麼呢？"
 95,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_093","我做的是……這個！"
-96,"TEXT_CLSWDK700_02445_BEATINE_000_094","這不是……跟 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一樣的<Sheet(ItemHQ,17884,0)/>嗎……
+96,"TEXT_CLSWDK700_02445_BEATINE_000_094","這不是……跟<Highlight>ObjectParameter(1)</Highlight>一樣的<Sheet(ItemHQ,17884,0)/>嗎……
 奇彌，你為什麼想到要做這個？"
 97,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_095","在決定要做什麼之前，我去找隊員們聊了聊，
 然後感覺，他們並不是想互相仇視，
@@ -170,12 +170,12 @@ int32,str,str
 也不是阿拉米格，而是東方風格的茶會的話，
 就能為他們提供言歸於好的地點了！"
 99,"TEXT_CLSWDK700_02445_BEATINE_000_097","原來如此……嘻嘻嘻……嘻嘻嘻嘻嘻……
-沒想到你居然想到了跟 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一樣的答案，
+沒想到你居然想到了跟<Highlight>ObjectParameter(1)</Highlight>一樣的答案，
 真像一棵成長了的白樺樹啊……"
 100,"TEXT_CLSWDK700_02445_BEATINE_000_098","那我們就馬上使用你們製作的<Sheet(ItemHQ,17884,0)/>
 舉辦東方風格的茶會吧……
 會場呢……為師想想……就定在碧企鵝瀑布吧……"
-101,"TEXT_CLSWDK700_02445_BEATINE_000_099"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和奇彌先去會場吧，
+101,"TEXT_CLSWDK700_02445_BEATINE_000_099","<Highlight>ObjectParameter(1)</Highlight>和奇彌先去會場吧，
 為師稍後也會過去的……
 蓋伊爾哈德，請你去叫你的隊員們……"
 102,"TEXT_CLSWDK700_02445_GAIRHARD_000_100","好。"
@@ -189,7 +189,7 @@ int32,str,str
 107,"TEXT_CLSWDK700_02445_BEATINE_000_105","會場在碧企鵝瀑布，
 請你先去吧……
 為師稍後也會過去的……"
-108,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_110","鄙人奇彌．基恩加爾……很期待茶會！"
+108,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_110","鄙人奇彌·基恩加爾……很期待茶會！"
 109,"TEXT_CLSWDK700_02445_GAIRHARD_000_130","感謝大家前來。"
 110,"TEXT_CLSWDK700_02445_GAIRHARD_000_131","上次的茶會是我安排不周，
 偏向了阿拉米格的文化。"
@@ -199,7 +199,7 @@ int32,str,str
 112,"TEXT_CLSWDK700_02445_GAIRHARD_000_133","但不管你們是出身於阿拉米格，還是格里達尼亞，
 我都沒有區別對待的意思。
 你們全都是我可以交付生命的部下。"
-113,"TEXT_CLSWDK700_02445_GAIRHARD_000_134","為了讓你們瞭解這一點，我請這幾位刻木匠準備了
+113,"TEXT_CLSWDK700_02445_GAIRHARD_000_134","為了讓你們了解這一點，我請這幾位刻木匠準備了
 既不偏格里達尼亞也不偏阿拉米格的平等的會場。
 在他們準備好之前，請大家稍等片刻。"
 114,"TEXT_CLSWDK700_02445_GAIRHARD_000_135","哈哈哈，你們吃了一驚吧？
@@ -215,7 +215,7 @@ int32,str,str
 或許人類也是，不是所有的人都跟我想像得一樣。
 看起來，我是有點狹隘了……"
 119,"TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_140","今後我得多學習阿拉米格的文化才行，
-還要多瞭解跟我一起出任務的同伴。"
+還要多了解跟我一起出任務的同伴。"
 120,"TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_141","……我們也是一樣，要多學習格里達尼亞的文化，
 畢竟對我們來說，這個國家就相當於第二個故鄉。"
 121,"TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_142","……嘿嘿……"
@@ -226,11 +226,11 @@ int32,str,str
 124,"TEXT_CLSWDK700_02445_GAIRHARD_000_145","……現在宴會正是最熱鬧的時候，
 大家玩得高興嗎？"
 125,"TEXT_CLSWDK700_02445_GRIDANIANSOLDIER02445_000_146","高興啊，好久都沒有開過這麼讓人高興的茶會了。
-我之前一直覺得沒辦法和他們互相瞭解，
+我之前一直覺得沒法和他們互相了解，
 正是這種狹隘的想法才導致了隊伍的不和。"
 126,"TEXT_CLSWDK700_02445_ARAMIGOSOLDIER02445_000_147","我們阿拉米格人也是一樣，
-我們的人際關係只侷限於同鄉，實在太封閉了，
-今後也要多敞開心扉，多瞭解格里達尼亞的事才行。"
+我們的人際關係只局限於同鄉，實在太封閉了，
+今後也要多敞開心扉，多了解格里達尼亞的事才行。"
 127,"TEXT_CLSWDK700_02445_GAIRHARD_000_148","你們是在戰場上背靠背一同對敵的戰友，
 我希望你們以後也能加深對彼此的理解，
 共同建築信賴關係。"
@@ -242,34 +242,34 @@ int32,str,str
 而要看是否能滿足委託人的願望。
 從這一點而言，為師給你打滿分……"
 131,"TEXT_CLSWDK700_02445_BEATINE_000_153","你記住，今後也要帶著這種心情繼續修行……
-總有一天，你一定也會成為不輸給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的一流工匠……"
+總有一天，你一定也會成為不輸給<Highlight>ObjectParameter(1)</Highlight>的一流工匠……"
 132,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_154","是，謝謝師父！
-鄙人奇彌．基恩加爾，
+鄙人奇彌·基恩加爾，
 會努力成為真正意義上的一流工匠的！"
 133,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_155","說起來，公會的財政危機解決了嗎？"
 134,"TEXT_CLSWDK700_02445_BEATINE_000_156","……咦，什麼危機？"
 135,"TEXT_CLSWDK700_02445_BEATINE_000_157","我們公會並沒有財政危機啊……
 我們不僅有雙蛇黨這個大客戶，
-而且還有很多常客，經濟上還蠻充裕的啊？"
+而且還有很多常客，經濟上還挺富餘的啊？"
 136,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_158","咦，可是師父！
 你最近不是都不怎麼吃飯嗎！
 都只是喝水……"
 137,"TEXT_CLSWDK700_02445_BEATINE_000_159","那是因為藏在為師心裡的「對樹木的愛」爆發的結果……
-為了瞭解樹木的心情，為師只能站在樹木的立場上思考，
+為了了解樹木的心情，為師只能站在樹木的立場上思考，
 於是就決定像樹木那樣光靠喝水來活著……"
 138,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_160","豁、豁出命去的木匠玩笑……
-看來我對師父的瞭解還遠遠不夠……"
-139,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_161","……對了…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+看來我對師父的了解還遠遠不夠……"
+139,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_161","……對了……<Highlight>ObjectParameter(1)</Highlight>，
 我這次還沒向你道謝呢。"
 140,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_162","現在想想，當初是我誤會了……不對，有一半是師父的錯，
 但是由此卻展開了這次的異國之旅。
 你在這次的旅途中幫了我很多，真的非常感謝你！"
-141,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_163","和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在一起的旅途非常開心！
+141,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_163","和<Highlight>ObjectParameter(1)</Highlight>在一起的旅途非常開心！
 下次再和我一起旅行吧！"
 142,"TEXT_CLSWDK700_02445_CEMIJINJAHL_000_164","那麼，我就先告辭了！
 我要抓緊時間多學習，為了能做出更好的作品！
 有空的時候請來找我玩哦！"
-143,"TEXT_CLSWDK700_02445_BEATINE_000_165"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，為師也要向你道謝……
+143,"TEXT_CLSWDK700_02445_BEATINE_000_165","<Highlight>ObjectParameter(1)</Highlight>，為師也要向你道謝……
 謝謝你幫為師照看她……"
 144,"TEXT_CLSWDK700_02445_BEATINE_000_166","今後你也要活用刻木匠的手藝與宗旨，
 把你的愛分給更多的人啊……嘻嘻嘻嘻嘻……"

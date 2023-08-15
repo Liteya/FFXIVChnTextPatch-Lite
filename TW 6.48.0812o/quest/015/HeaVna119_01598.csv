@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNA119_01598_SEQ_00","神聖裁判所的奧爾什方有事想告訴冒險者。"
-1,"TEXT_HEAVNA119_01598_SEQ_01","與奧爾什方進行了交談。和伊修加爾德福爾唐伯爵府的埃德蒙．德．福爾唐伯爵談談。"
-2,"TEXT_HEAVNA119_01598_SEQ_02","在與埃德蒙．德．福爾唐伯爵等人談話時，冒險者接到了來自教皇的邀請。前往伊修加爾德教皇廳前和教皇廳的祭司談談。"
+1,"TEXT_HEAVNA119_01598_SEQ_01","與奧爾什方進行了交談。和伊修加德福爾唐伯爵府的埃德蒙·德·福爾唐伯爵談談。"
+2,"TEXT_HEAVNA119_01598_SEQ_02","在與埃德蒙·德·福爾唐伯爵等人談話時，冒險者接到了來自教皇的邀請。前往伊修加德教皇廳前和教皇廳的祭司談談。"
 3,"TEXT_HEAVNA119_01598_SEQ_03","和教皇托爾丹七世進行了交談，教皇表明自己與無影有過接觸。回福爾唐伯爵府和阿爾菲諾談談。"
 4,"TEXT_HEAVNA119_01598_SEQ_04","與阿爾菲諾、塔塔露進行了交談。雖然也很在意無影的動向，但根據塔塔露得到的情報，勞班會在近期內被處決。大家下定決心要救出勞班……"
 5,"TEXT_HEAVNA119_01598_SEQ_05",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNA119_01598_SEQ_21",""
 22,"TEXT_HEAVNA119_01598_SEQ_22",""
 23,"TEXT_HEAVNA119_01598_SEQ_23",""
-24,"TEXT_HEAVNA119_01598_TODO_00","和福爾唐伯爵府的埃德蒙．德．福爾唐伯爵對話"
-25,"TEXT_HEAVNA119_01598_TODO_01","和伊修加爾德教皇廳前的教皇廳的祭司對話"
+24,"TEXT_HEAVNA119_01598_TODO_00","和福爾唐伯爵府的埃德蒙·德·福爾唐伯爵對話"
+25,"TEXT_HEAVNA119_01598_TODO_01","和伊修加德教皇廳前的教皇廳的祭司對話"
 26,"TEXT_HEAVNA119_01598_TODO_02","和福爾唐伯爵府的阿爾菲諾對話"
 27,"TEXT_HEAVNA119_01598_TODO_03",""
 28,"TEXT_HEAVNA119_01598_TODO_04",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVNA119_01598_TODO_21",""
 46,"TEXT_HEAVNA119_01598_TODO_22",""
 47,"TEXT_HEAVNA119_01598_TODO_23",""
-48,"TEXT_HEAVNA119_01598_HAURCHEFANT_000_000","好了，打起精神來。透過先前的戰鬥，
+48,"TEXT_HEAVNA119_01598_HAURCHEFANT_000_000","好了，打起精神來。通過先前的戰鬥，
 你成功為阿爾菲諾閣下與塔塔露小姐洗清了嫌疑。
 他們很快就會被釋放了。"
 49,"TEXT_HEAVNA119_01598_HAURCHEFANT_000_001","後續手續就放心交給我，
@@ -60,32 +60,32 @@ int32,str,str
 想必伯爵也在等你回去呢。"
 51,"TEXT_HEAVNA119_01598_ARTOIREL_000_003","決鬥裁判的情況我聽父親說了……
 竟然能對陣兩名蒼穹騎士並取得勝利，
-真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！"
+真不愧是<Highlight>ObjectParameter(1)</Highlight>閣下！"
 52,"TEXT_HEAVNA119_01598_EMMANELLAIN_000_004","皇都的好事之徒都興奮壞了，
 爭相在散播著決鬥裁判的消息。"
 53,"TEXT_HEAVNA119_01598_HONOROIT_000_005","您、您平安無事真是太好了，嗯。"
 54,"TEXT_HEAVNA119_01598_EDMONT_000_010","戰爭神哈羅妮祝福您！
-您成功透過自己的力量與戰爭神的神威證明了友人們的清白！"
+您成功通過自己的力量與戰爭神的神威證明了友人們的清白！"
 55,"TEXT_HEAVNA119_01598_ARTOIREL_000_011","剛才可把我擔心壞了，
 能如此順利的解決真是太好了。"
 56,"TEXT_HEAVNA119_01598_EMMANELLAIN_000_012","哈哈，你同蒼穹騎士的激烈角逐在皇都都傳開了！
 真不愧是我的死黨！"
-57,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_013","對不起，打擾一下！"
+57,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_013","對不起，打攪一下！"
 58,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_014","剛剛教皇廳派使者來了，
-說、說是教皇陛下召見 <Highlight>ObjectParameter(1)</Highlight> 大人……"
+說、說是教皇陛下召見<Highlight>ObjectParameter(1)</Highlight>大人……"
 59,"TEXT_HEAVNA119_01598_EMMANELLAIN_000_015","不是吧，教皇陛下？！"
-60,"TEXT_HEAVNA119_01598_ARTOIREL_000_016"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+60,"TEXT_HEAVNA119_01598_ARTOIREL_000_016","<Highlight>ObjectParameter(1)</Highlight>閣下……
 這可是一件非常光榮的事情！"
 61,"TEXT_HEAVNA119_01598_EDMONT_000_017","嗯，教皇陛下親自下令召見確實是件光榮的事情。
 雖然感覺時機實在有些湊巧，但不可以讓教皇陛下久候。"
-62,"TEXT_HEAVNA119_01598_EDMONT_000_018"," <Highlight>ObjectParameter(1)</Highlight> 閣下……
+62,"TEXT_HEAVNA119_01598_EDMONT_000_018","<Highlight>ObjectParameter(1)</Highlight>閣下……
 阿爾菲諾閣下與塔塔露小姐就請放心交給我們，
-您先前往伊修加爾德教皇廳吧。"
-63,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_019","教皇廳的祭司大人在伊修加爾德教皇廳前等您，請移步。"
-64,"TEXT_HEAVNA119_01598_EDMONT_000_020"," <Highlight>ObjectParameter(1)</Highlight> 閣下……
+您先前往伊修加德教皇廳吧。"
+63,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_019","教皇廳的祭司大人在伊修加德教皇廳前等您，請移步。"
+64,"TEXT_HEAVNA119_01598_EDMONT_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下……
 阿爾菲諾閣下與塔塔露小姐的事請放心交給我們，
-您先前往伊修加爾德教皇廳吧。"
-65,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_021","教皇廳的祭司大人在伊修加爾德教皇廳前等您，請移步。"
-66,"TEXT_HEAVNA119_01598_PRIEST01598_000_030"," <Highlight>ObjectParameter(1)</Highlight> 大人，教皇陛下在等您，請隨我來。"
-67,"TEXT_HEAVNA119_01598_PRIEST01598_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你為我在決鬥裁判挺身而出時，
+您先前往伊修加德教皇廳吧。"
+65,"TEXT_HEAVNA119_01598_HOUSEFORTEMPSSTEWARD01598_000_021","教皇廳的祭司大人在伊修加德教皇廳前等您，請移步。"
+66,"TEXT_HEAVNA119_01598_PRIEST01598_000_030","<Highlight>ObjectParameter(1)</Highlight>大人，教皇陛下在等您，請隨我來。"
+67,"TEXT_HEAVNA119_01598_PRIEST01598_000_040","<Highlight>ObjectParameter(1)</Highlight>，你為我在決鬥裁判挺身而出時，
 我感動得眼淚都要流出來了呢……真的真的謝謝你！"

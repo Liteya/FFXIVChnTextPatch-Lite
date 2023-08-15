@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBDRK680_02918_SEQ_00","莫古利之家的密斯托想要開始下一輪幫助別人的行動。"
+0,"TEXT_JOBDRK680_02918_SEQ_00","莫古力之家的密斯托想要開始下一輪幫助別人的行動。"
 1,"TEXT_JOBDRK680_02918_SEQ_01","密斯托提出希望這次只和冒險者兩人一起去幫助別人。和基拉巴尼亞邊區帝國東方堡的密斯托談談。"
 2,"TEXT_JOBDRK680_02918_SEQ_02","從密斯托那裡得知帝國東方堡似乎沒有需要幫助的人。在基拉巴尼亞邊區的尖槍瀑布尋找心情低落的人。"
 3,"TEXT_JOBDRK680_02918_SEQ_03","找到了奄奄一息的加里艾恩。和尖槍瀑布附近的胡達爾特談談。"
@@ -11,7 +11,7 @@ int32,str,str
 7,"TEXT_JOBDRK680_02918_SEQ_07","和胡達爾特進行了交談，但他的身體十分不穩定。繼續在條紋丘前進，和密斯托談談。"
 8,"TEXT_JOBDRK680_02918_SEQ_08","和密斯托進行了交談，得知胡達爾特已經消失了。對條紋丘的<Sheet(EObj,2008667,0)/>使用噬魂斬，回收乙太。"
 9,"TEXT_JOBDRK680_02918_SEQ_09","回收了乙太。對神拳痕的<Sheet(EObj,2008668,0)/>做情感動作「默哀」。"
-10,"TEXT_JOBDRK680_02918_SEQ_10","獻上了默哀。和伊修加爾德忘憂騎士亭的希德勒格談談。"
+10,"TEXT_JOBDRK680_02918_SEQ_10","獻上了默哀。和伊修加德忘憂騎士亭的希德勒格談談。"
 11,"TEXT_JOBDRK680_02918_SEQ_11","和希德勒格報告了事情的始末。渾身謎團的密斯托似乎還沒有回忘憂騎士亭……等他回來。
 
 ※暗黑騎士的等級達到70級以上時，可以從忘憂騎士亭的希德勒格那裡領取下一個暗黑騎士任務。"
@@ -36,7 +36,7 @@ int32,str,str
 30,"TEXT_JOBDRK680_02918_TODO_06","和密斯托對話"
 31,"TEXT_JOBDRK680_02918_TODO_07","對<Sheet(EObj,2008667,0)/>使用噬魂斬"
 32,"TEXT_JOBDRK680_02918_TODO_08","對神拳痕的<Sheet(EObj,2008668,0)/>做「默哀」的情感動作"
-33,"TEXT_JOBDRK680_02918_TODO_09","和伊修加爾德的希德勒格對話"
+33,"TEXT_JOBDRK680_02918_TODO_09","和伊修加德的希德勒格對話"
 34,"TEXT_JOBDRK680_02918_TODO_10",""
 35,"TEXT_JOBDRK680_02918_TODO_11",""
 36,"TEXT_JOBDRK680_02918_TODO_12",""
@@ -55,7 +55,7 @@ int32,str,str
 但是，沒想到我會受這麼重的傷……"
 49,"TEXT_JOBDRK680_02918_RIELLE_000_005","我給希德勒格處理傷口時才明白，
 對他來說師父有多厲害……"
-50,"TEXT_JOBDRK680_02918_MYSTE_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，希德勒格被他師父打傷，
+50,"TEXT_JOBDRK680_02918_MYSTE_000_010","<Highlight>ObjectParameter(1)</Highlight>，希德勒格被他師父打傷，
 現在傷勢還沒得到恢復……"
 51,"TEXT_JOBDRK680_02918_MYSTE_000_011","我想幫助別人。
 但不能再勉強希德勒格了……
@@ -67,15 +67,15 @@ int32,str,str
 54,"TEXT_JOBDRK680_02918_MYSTE_000_014","基拉巴尼亞的帝國東方堡？
 在那附近曾經發生過大規模戰爭？"
 55,"TEXT_JOBDRK680_02918_MYSTE_000_015","我去！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這次就拜託你了。"
+<Highlight>ObjectParameter(1)</Highlight>，這次就拜託你了。"
 56,"TEXT_JOBDRK680_02918_SIDURGU_000_016","真是的……
 竟然讓小鬼替我擔心，真是沒面子……"
 57,"TEXT_JOBDRK680_02918_SIDURGU_100_016","不過本來幫他的目的就是為了收回你靈魂水晶的乙太。
 只要你跟著他就行了。"
-58,"TEXT_JOBDRK680_02918_SIDURGU_000_017","看樣子我得先回一趟伊修加爾德了。
-等你們在基拉巴尼亞辦完事了就到皇都來會合吧。"
-59,"TEXT_JOBDRK680_02918_SIDURGU_000_020","託你的福我已經能動了。
-之後我們在皇都會合吧。"
+58,"TEXT_JOBDRK680_02918_SIDURGU_000_017","看樣子我得先回一趟伊修加德了。
+等你們在基拉巴尼亞辦完事了就到皇都來匯合吧。"
+59,"TEXT_JOBDRK680_02918_SIDURGU_000_020","托你的福我已經能動了。
+之後我們在皇都匯合吧。"
 60,"TEXT_JOBDRK680_02918_RIELLE_000_025","只要你跟著密斯托我就放心了……
 一路小心啊。"
 61,"TEXT_JOBDRK680_02918_MYSTE_000_030","這裡就是帝國東方堡！
@@ -86,15 +86,15 @@ int32,str,str
 安靜的地方……比如戰場遺跡？"
 64,"TEXT_JOBDRK680_02918_GALLIEN_000_040","哈……哈……有人在那裡嗎？
 我已經……看不清了……"
-65,"TEXT_JOBDRK680_02918_GALLIEN_000_041","你不是…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？！
+65,"TEXT_JOBDRK680_02918_GALLIEN_000_041","你不是……<Highlight>ObjectParameter(1)</Highlight>嗎？！
 我都看到幻覺了嗎！"
 66,"TEXT_JOBDRK680_02918_MYSTE_000_042","不好，這個人很虛弱！
-他是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的朋友嗎？"
+他是<Highlight>ObjectParameter(1)</Highlight>的朋友嗎？"
 67,"TEXT_JOBDRK680_02918_GALLIEN_000_043","你帶了一個可愛的孩子嗎……雖然我看不清……
-不過很遺憾，我可不配當 <Highlight>ObjectParameter(1)</Highlight> 的朋友……"
+不過很遺憾，我可不配當<Highlight>ObjectParameter(1)</Highlight>的朋友……"
 68,"TEXT_JOBDRK680_02918_GALLIEN_000_044","我以前在石場水車的梅弗里德隊長手下工作時，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 給我們送來了救人的藥，是我們的恩人……"
-69,"TEXT_JOBDRK680_02918_GALLIEN_000_045","多虧了 <Highlight>ObjectParameter(1)</Highlight> 送來的藥……救了我和我的同伴一命……
+<Highlight>ObjectParameter(1)</Highlight>給我們送來了救人的藥，是我們的恩人……"
+69,"TEXT_JOBDRK680_02918_GALLIEN_000_045","多虧了<Highlight>ObjectParameter(1)</Highlight>送來的藥……救了我和我的同伴一命……
 大家都被你感動了，想用被你救的這條命做點大事……
 就加入了阿拉米格解放先鋒鐵面公卿的部隊。"
 70,"TEXT_JOBDRK680_02918_GALLIEN_000_046","結果你們都知道了。
@@ -105,17 +105,17 @@ int32,str,str
 不過報應終歸還是來了……
 老天給我降下了重病……我已經不行了……"
 73,"TEXT_JOBDRK680_02918_MYSTE_000_049","不、不行……你不能死！"
-74,"TEXT_JOBDRK680_02918_MYSTE_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我想鼓勵這個人，希望他能活下去……
+74,"TEXT_JOBDRK680_02918_MYSTE_000_050","<Highlight>ObjectParameter(1)</Highlight>，我想鼓勵這個人，希望他能活下去……
 請允許我使用力量！"
 75,"TEXT_JOBDRK680_02918_MYSTE_000_051","求求你……打起精神……
 你有想要見到的人嗎？"
 76,"TEXT_JOBDRK680_02918_GALLIEN_000_052","當然有……
 雖然想再見見所有同伴……
 不過最想見的還是和我最親密的胡達爾特吧。"
-77,"TEXT_JOBDRK680_02918_GALLIEN_000_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也知道……
+77,"TEXT_JOBDRK680_02918_GALLIEN_000_053","<Highlight>ObjectParameter(1)</Highlight>你也知道……
 那傢伙在假扮鐵面公卿的時候見到了你，十分高興……"
 78,"TEXT_JOBDRK680_02918_GALLIEN_000_054","不過……他也死於了那場戰鬥。
-謝謝你， <Highlight>ObjectParameter(1)</Highlight> 的可愛同伴……
+謝謝你，<Highlight>ObjectParameter(1)</Highlight>的可愛同伴……
 竟然願意鼓勵我……"
 79,"TEXT_JOBDRK680_02918_HOUDART_000_055","為了報答他們的好意你也得活下去，加里艾恩。"
 80,"TEXT_JOBDRK680_02918_GALLIEN_000_056","這是我的幻覺嗎……
@@ -186,11 +186,11 @@ int32,str,str
 就算沒有回報、不被任何人銘記也好……
 我和加里艾恩，也要為他們祈禱……"
 109,"TEXT_JOBDRK680_02918_HOUDART_000_145","在世界的角落等待死亡的時候，
-我們曾經幾次在黑暗中看到了名為 <Highlight>ObjectParameter(1)</Highlight> 的光。"
+我們曾經幾次在黑暗中看到了名為<Highlight>ObjectParameter(1)</Highlight>的光。"
 110,"TEXT_JOBDRK680_02918_HOUDART_000_146","還差一點……
 請把你的力量……借給我們……"
 111,"TEXT_JOBDRK680_02918_SYSTEM_000_150","黑色的煙霧在湧動著……"
-112,"TEXT_JOBDRK680_02918_MYSTE_000_160"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+112,"TEXT_JOBDRK680_02918_MYSTE_000_160","<Highlight>ObjectParameter(1)</Highlight>……
 胡達爾特突然消失了……
 意味著記憶和願望已經中斷……加里艾恩他已經……"
 113,"TEXT_JOBDRK680_02918_MYSTE_000_161","胡達爾特明明說這是一個奇蹟……
@@ -204,11 +204,11 @@ int32,str,str
 你收回乙太吧。
 真的……對不起……"
 117,"TEXT_JOBDRK680_02918_MYSTE_000_170","你用噬魂斬收回乙太吧……"
-118,"TEXT_JOBDRK680_02918_SYSTEM_000_075","已經嚥氣了……
+118,"TEXT_JOBDRK680_02918_SYSTEM_000_075","已經咽氣了……
 替加里艾恩完成他的心願。"
 119,"TEXT_JOBDRK680_02918_SYSTEM_000_180","用噬魂斬吸收了黑色的煙霧！
 乙太回到了暗黑騎士的靈魂水晶中……"
-120,"TEXT_JOBDRK680_02918_MYSTE_000_181"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們去為死去的人默哀吧。
+120,"TEXT_JOBDRK680_02918_MYSTE_000_181","<Highlight>ObjectParameter(1)</Highlight>，我們去為死去的人默哀吧。
 就在這前面了……"
 121,"TEXT_JOBDRK680_02918_MYSTE_000_190","只要在這裡默哀就行了吧？"
 122,"TEXT_JOBDRK680_02918_SYSTEM_000_191","破壞神拉爾戈的石碑。"
@@ -220,7 +220,7 @@ int32,str,str
 126,"TEXT_JOBDRK680_02918_MYSTE_000_203","但是根本不夠，遠遠不夠。
 失去和離別總是伴隨人類左右，
 不知何時就會奪走你們重要的東西……"
-127,"TEXT_JOBDRK680_02918_MYSTE_000_204"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 知道這個世界是這樣的嗎？"
+127,"TEXT_JOBDRK680_02918_MYSTE_000_204","<Highlight>ObjectParameter(1)</Highlight>知道這個世界是這樣的嗎？"
 128,"TEXT_JOBDRK680_02918_Q1_000_205","如何作答？"
 129,"TEXT_JOBDRK680_02918_A1_000_206","所以我才選擇了這把大劍"
 130,"TEXT_JOBDRK680_02918_A1_000_207","這也是無可奈何的事"
@@ -238,7 +238,7 @@ int32,str,str
 雖然可能還是沒有什麼實際意義……"
 138,"TEXT_JOBDRK680_02918_MYSTE_000_214","如果我有更多的乙太……
 更強的力量，就能完美解決別人的困難嗎……"
-139,"TEXT_JOBDRK680_02918_MYSTE_000_215","我們回去吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+139,"TEXT_JOBDRK680_02918_MYSTE_000_215","我們回去吧，<Highlight>ObjectParameter(1)</Highlight>。
 希德勒格他們還在皇都等著我們回去呢。
 他一定很擔心我們。"
 140,"TEXT_JOBDRK680_02918_RIELLE_000_220","歡迎回來……發生什麼事了嗎？"

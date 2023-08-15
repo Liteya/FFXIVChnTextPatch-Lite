@@ -26,8 +26,8 @@ int32,str,str
 22,"TEXT_STMBDA607_02533_SEQ_22",""
 23,"TEXT_STMBDA607_02533_SEQ_23",""
 24,"TEXT_STMBDA607_02533_TODO_00","和薩利夏對話"
-25,"TEXT_STMBDA607_02533_TODO_01","和梅．娜格對話"
-26,"TEXT_STMBDA607_02533_TODO_02","和梅．娜格對話"
+25,"TEXT_STMBDA607_02533_TODO_01","和梅·娜格對話"
+26,"TEXT_STMBDA607_02533_TODO_02","和梅·娜格對話"
 27,"TEXT_STMBDA607_02533_TODO_03","和阿爾菲諾對話"
 28,"TEXT_STMBDA607_02533_TODO_04",""
 29,"TEXT_STMBDA607_02533_TODO_05",""
@@ -68,7 +68,7 @@ int32,str,str
 57,"TEXT_STMBDA607_02533_SARISHA_000_050","嘶——事情的始末我已經從我的姐妹那裡聽說了。
 你們不顧自己的安危，同虛假的美神戰鬥，並消滅了她，
 這大恩大德我們永生難忘。"
-58,"TEXT_STMBDA607_02533_ALISAIE_000_051","要謝就謝 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧……
+58,"TEXT_STMBDA607_02533_ALISAIE_000_051","要謝就謝<Highlight>ObjectParameter(1)</Highlight>吧……
 我們只不過是在後方做了些支援。"
 59,"TEXT_STMBDA607_02533_ALISAIE_000_052","而且，討伐蠻神也不過是治標不治本。
 如果不從根本上徹底斷絕想要依賴請神的想法，
@@ -82,7 +82,7 @@ int32,str,str
 62,"TEXT_STMBDA607_02533_SARISHA_000_055","嘶——那是當然。
 毗羅派不會忘記人類友人的恩情。"
 63,"TEXT_STMBDA607_02533_LYSE_000_056","那我們就回對等石了。
-梅．娜格還有梅氏一族都還在擔心呢……
+梅·娜格還有梅氏一族都還在擔心呢……
 薩利夏，你要保重啊。"
 64,"TEXT_STMBDA607_02533_SARISHA_000_060","嘶——非常感謝你們，人類友人。
 姐妹們得知美神被討伐後，也能放心了。"
@@ -93,14 +93,14 @@ int32,str,str
 這才剛剛趕到。"
 67,"TEXT_STMBDA607_02533_CONRAD_000_075","哦，你們沒事就好！
 沒想到阿難陀族竟然進行了請神……"
-68,"TEXT_STMBDA607_02533_MNAAGO_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！你回來了！
+68,"TEXT_STMBDA607_02533_MNAAGO_000_080","<Highlight>ObjectParameter(1)</Highlight>！你回來了！
 正巧皮平協耀將和康拉德隊長剛剛趕到這裡。"
-69,"TEXT_STMBDA607_02533_LYSE_000_081","放心吧，美神吉祥天女已經被 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 打倒了。
+69,"TEXT_STMBDA607_02533_LYSE_000_081","放心吧，美神吉祥天女已經被<Highlight>ObjectParameter(1)</Highlight>打倒了。
 詳細情況是這樣的……"
 70,"TEXT_STMBDA607_02533_MNAAGO_000_082","原來阿難陀族真的召喚了蠻神……
 不過面對如此強大的美神吉祥天女，
 還能絲毫不退讓地與之戰鬥，並打倒了她，真是太厲害了！"
-71,"TEXT_STMBDA607_02533_CONRAD_000_083","嗯，真是多虧有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在。"
+71,"TEXT_STMBDA607_02533_CONRAD_000_083","嗯，真是多虧有<Highlight>ObjectParameter(1)</Highlight>在。"
 72,"TEXT_STMBDA607_02533_PIPIN_000_084","不過，一般進行請神的蠻族，
 基本上都是一些好戰的強硬派蠻族。
 沒想到非好戰的宗派也會進行請神，真是吃驚……"
@@ -117,14 +117,14 @@ int32,str,str
 77,"TEXT_STMBDA607_02533_PIPIN_000_089","父親……勞班總帥決定繼續向山區進軍。"
 78,"TEXT_STMBDA607_02533_LYSE_000_090","那我們也去！"
 79,"TEXT_STMBDA607_02533_PIPIN_000_091","啊，雖然很感激你們能這麼說，但你們需要休息。
-更何況 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 剛剛和蠻神交戰過，
+更何況<Highlight>ObjectParameter(1)</Highlight>剛剛和蠻神交戰過，
 不能再勉強讓<If(PlayerParameter(4))>她<Else/>他</If>連續戰鬥了。"
 80,"TEXT_STMBDA607_02533_PIPIN_000_092","我們是正規的軍人。
 雖然無法和蠻神對抗，但對手是帝國軍的話，
 我們還是能夠對付的。"
 81,"TEXT_STMBDA607_02533_CONRAD_000_093","就是這麼回事。
-梅．娜格，你也和家人聚一聚吧，畢竟好久沒見了。
-等你們休息好了，咱們再在山區會合。"
+梅·娜格，你也和家人聚一聚吧，畢竟好久沒見了。
+等你們休息好了，咱們再在山區匯合。"
 82,"TEXT_STMBDA607_02533_MNAAGO_000_094","謝、謝謝隊長！
 那我就恭敬不如從命了……拂曉的各位也留下來休息吧，
 我們會用梅氏特有的方式招待你們的！"
@@ -168,7 +168,7 @@ int32,str,str
 100,"TEXT_STMBDA607_02533_Q1_000_000","如何作答？"
 101,"TEXT_STMBDA607_02533_A1_000_001","用我們的雙手來阻止！"
 102,"TEXT_STMBDA607_02533_A1_000_002","我也不知道……"
-103,"TEXT_STMBDA607_02533_A1_000_003","…………"
+103,"TEXT_STMBDA607_02533_A1_000_003","……"
 104,"TEXT_STMBDA607_02533_LYSE_000_125","是啊。
 我們也是為此而一直在戰鬥。"
 105,"TEXT_STMBDA607_02533_LYSE_000_126","這樣啊，總覺得你一直都是毫無迷惘地筆直前進，
@@ -179,7 +179,7 @@ int32,str,str
 但即使如此，也要阻止帝國繼續造成更多悲傷！
 ……啊，都這個時間了……差不多也該去休息了。"
 108,"TEXT_STMBDA607_02533_LYSE_000_129","明天還有嚴酷的戰鬥在等著我們……
-晚安了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+晚安了，<Highlight>ObjectParameter(1)</Highlight>。"
 109,"TEXT_STMBDA607_02533_MNAAGO_000_130","那個肉可是我打獵打回來的！
 只要充分發揮自己的所長就好！
 所、所以烹調的事嘛……"
@@ -190,9 +190,9 @@ int32,str,str
 多跟母親學一學嘛。"
 112,"TEXT_STMBDA607_02533_MRAHZNUN_000_145","……要出發了嗎？
 我們會為你們祈禱的，願太陽神阿澤瑪保佑你們。"
-113,"TEXT_STMBDA607_02533_MHAHTOA_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我的女兒就拜託給你們了。
+113,"TEXT_STMBDA607_02533_MHAHTOA_000_150","<Highlight>ObjectParameter(1)</Highlight>，我的女兒就拜託給你們了。
 我只有一個心願，就是希望她能平安無事地回來。"
-114,"TEXT_STMBDA607_02533_ALPHINAUD_000_160","梅．哈特亞女士做的飯菜雖然看上去樸素，
+114,"TEXT_STMBDA607_02533_ALPHINAUD_000_160","梅·哈特亞女士做的飯菜雖然看上去樸素，
 但是每一樣都很用心。
 正是這種家常菜，才讓人感覺更加溫暖吧。"
 115,"TEXT_STMBDA607_02533_ALPHINAUD_000_161","看樣子你也休息得不錯啊。

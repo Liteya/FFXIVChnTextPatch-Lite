@@ -5,7 +5,7 @@ int32,str,str
 1,"TEXT_JOBBRD680_02893_SEQ_01","桑松正牙尉聽了冒險者的意見後，決定了要如何處理記有紅葉戰爭秘密的書。和帝國東方堡的吉德洛談談。"
 2,"TEXT_JOBBRD680_02893_SEQ_02","桑松正牙尉做出的選擇是「在兩城關係穩定下來之後再公布真相」。這時，他們收到了努爾瓦爾寄來的信。為了尋找努爾瓦爾，前往基拉巴尼亞邊區的賢者樹，在<Sheet(EObj,2008682,0)/>等待。"
 3,"TEXT_JOBBRD680_02893_SEQ_03","努爾瓦爾並沒有出現在約好的地方，冒險者反倒遭遇了蒙面人的襲擊。返回帝國東方堡，和吉德洛談談。"
-4,"TEXT_JOBBRD680_02893_SEQ_04","桑松正牙尉被努爾瓦爾寄來的信叫出去了。從基拉巴尼亞邊區的東境混和林折回賢者樹，追上衝出去的吉德洛。"
+4,"TEXT_JOBBRD680_02893_SEQ_04","桑松正牙尉被努爾瓦爾寄來的信叫出去了。從基拉巴尼亞邊區的東境混交林折回賢者樹，追上衝出去的吉德洛。"
 5,"TEXT_JOBBRD680_02893_SEQ_05","桑松正牙尉落入了努爾瓦爾的手中。前往格里達尼亞的蛇巢司令部，和吉德洛談談。"
 6,"TEXT_JOBBRD680_02893_SEQ_06","吉德洛雖然將事情彙報給了上級，但卻沒有把最關鍵的書交出去。為了救出桑松正牙尉養精蓄銳。
 
@@ -69,8 +69,8 @@ int32,str,str
 嗯，雖然我對他的做法不齒，但卻也能理解他的理念……"
 57,"TEXT_JOBBRD680_02893_SANSON_000_020","你覺得不應該引起沒必要的動亂啊，
 嗯，身為一個軍人，我也覺得這是個好的選擇。"
-58,"TEXT_JOBBRD680_02893_SANSON_000_025","不愧是 <Highlight>ObjectParameter(1)</Highlight> ，很冷靜的判斷啊……
-要想做出正確的決定，首先應該瞭解情況，
+58,"TEXT_JOBBRD680_02893_SANSON_000_025","不愧是<Highlight>ObjectParameter(1)</Highlight>，很冷靜的判斷啊……
+要想做出正確的決定，首先應該了解情況，
 確定內容正確後再做決定。"
 59,"TEXT_JOBBRD680_02893_SANSON_000_030","……謝謝你，我做好最後的心理準備了，
 身為隊長，我會做出自己的選擇。"
@@ -111,12 +111,12 @@ int32,str,str
 74,"TEXT_JOBBRD680_02893_SANSON_000_052","……這、這封信！
 寄信人上寫著努爾瓦爾的名字！"
 75,"TEXT_JOBBRD680_02893_SANSON_000_053","(-努爾瓦爾寄來的信-)「書的處置權就交給雙蛇黨吧。
- 只不過，我希望能與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 最後單獨談談。
+ 只不過，我希望能與<Highlight>ObjectParameter(1)</Highlight>最後單獨談談。
  我在賢者樹附近恭候……」"
 76,"TEXT_JOBBRD680_02893_GUYDELOT_000_054","……不管怎麼看這封信都太可疑了。
 會不會是陷阱？"
 77,"TEXT_JOBBRD680_02893_SANSON_000_055","……可是，他沒有必要特意
-把我們之中最厲害的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 叫出去吧，
+把我們之中最厲害的<Highlight>ObjectParameter(1)</Highlight>叫出去吧，
 說不定是真的有什麼話要說……"
 78,"TEXT_JOBBRD680_02893_SANSON_000_056","……這也是個好機會，可以把我們這邊的想法告訴他。
 能請你去一趟賢者樹嗎？
@@ -128,8 +128,8 @@ int32,str,str
 81,"TEXT_JOBBRD680_02893_GUYDELOT_000_075","這有可能是敵人的陷阱。
 如果真讓我說中了，你就隨便應付一下，趕快回來。"
 82,"TEXT_JOBBRD680_02893_BALLOON_000_080","來了……"
-83,"TEXT_JOBBRD680_02893_BALLOON_000_085","………"
-84,"TEXT_JOBBRD680_02893_GUYDELOT_000_090","……咦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，只有你自己嗎？
+83,"TEXT_JOBBRD680_02893_BALLOON_000_085","……"
+84,"TEXT_JOBBRD680_02893_GUYDELOT_000_090","……咦，<Highlight>ObjectParameter(1)</Highlight>，只有你自己嗎？
 桑松人呢？"
 85,"TEXT_JOBBRD680_02893_GUYDELOT_000_091","你走之後又來了一封信，
 說他還是想跟桑松談談，讓桑松也過去。
@@ -139,7 +139,7 @@ int32,str,str
 87,"TEXT_JOBBRD680_02893_GUYDELOT_000_093","因為你已經先去了，我就覺得應該沒事，
 所以讓他一個人過去了！
 我應該跟著他一起的，根本就不該理會那混蛋的要求！"
-88,"TEXT_JOBBRD680_02893_GUYDELOT_000_094"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+88,"TEXT_JOBBRD680_02893_GUYDELOT_000_094","<Highlight>ObjectParameter(1)</Highlight>，
 我們沿著這裡通往賢者樹的路找找！
 桑松有可能在路上被他們襲擊了！"
 89,"TEXT_JOBBRD680_02893_GUYDELOT_000_100","……桑松一直帶在身上的手冊掉在這裡了。
@@ -172,4 +172,4 @@ int32,str,str
 101,"TEXT_JOBBRD680_02893_GUYDELOT_000_144","不過，我們現在要等雙蛇黨高層和努爾瓦爾雙方的態度，
 才好制定作戰計劃。
 為了到時候能狠狠教訓努爾瓦爾，你就先去養精蓄銳吧。"
-102,"TEXT_JOBBRD680_02893_POPMESSAGE_100_046","（★未使用／削除予定★） "
+102,"TEXT_JOBBRD680_02893_POPMESSAGE_100_046","（★未使用／削除予定★）"

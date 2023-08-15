@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_STMBDZ610_02788_SEQ_00","朵塔兒水洲的朵塔兒部的戰士對優秀的戰士很感興趣。"
 1,"TEXT_STMBDZ610_02788_SEQ_01","和朵塔兒部的戰士對話"
 2,"TEXT_STMBDZ610_02788_SEQ_02","不走出線並前往暮暉王座的胸口"
-3,"TEXT_STMBDZ610_02788_SEQ_03","獲得<Sheet(EventItem,2002367,0)/>"
+3,"TEXT_STMBDZ610_02788_SEQ_03","獲取<Sheet(EventItem,2002367,0)/>"
 4,"TEXT_STMBDZ610_02788_SEQ_04","將<Sheet(EventItem,2002367,0)/>交給朵塔兒部的戰士"
 5,"TEXT_STMBDZ610_02788_SEQ_05","和朵塔兒部的戰士對話"
 6,"TEXT_STMBDZ610_02788_SEQ_06",""
@@ -28,7 +28,7 @@ int32,str,str
 24,"TEXT_STMBDZ610_02788_TODO_00","和朵塔兒部的戰士對話"
 25,"TEXT_STMBDZ610_02788_TODO_01","前往朵塔兒部的戰士身邊"
 26,"TEXT_STMBDZ610_02788_TODO_02","不走出線並前往暮暉王座的胸口"
-27,"TEXT_STMBDZ610_02788_TODO_03","獲得<Sheet(EventItem,2002367,0)/>"
+27,"TEXT_STMBDZ610_02788_TODO_03","獲取<Sheet(EventItem,2002367,0)/>"
 28,"TEXT_STMBDZ610_02788_TODO_04","將<Sheet(EventItem,2002367,0)/>交給朵塔兒部的戰士"
 29,"TEXT_STMBDZ610_02788_TODO_05","和朵塔兒部的戰士對話"
 30,"TEXT_STMBDZ610_02788_TODO_06",""
@@ -61,7 +61,7 @@ int32,str,str
 我會在東邊的沙漠等你。"
 52,"TEXT_STMBDZ610_02788_INSTRUCTOR02788_000_010","你來了啊。
 這就是展示力量的儀式……前往暮暉王座的胸口，
-然後獲得<Sheet(EventItem,2002367,0)/>！"
+然後獲取<Sheet(EventItem,2002367,0)/>！"
 53,"TEXT_STMBDZ610_02788_INSTRUCTOR02788_000_011","需要注意的是如果走歪了，就要重新開始。
 你有興趣的話，想挑戰幾次都可以。
 那麼，開始吧！"
@@ -83,6 +83,6 @@ int32,str,str
 60,"TEXT_STMBDZ610_02788_INSTRUCTOR02788_000_022","本來我們不會給完成訓練的人以報酬，
 不過你是外來的旅行者，
 就按照外面的規定，給你報酬好了。"
-61,"TEXT_STMBDZ610_02788_INSTRUCTOR02788_000_023"," <Highlight>ObjectParameter(1)</Highlight> 。
+61,"TEXT_STMBDZ610_02788_INSTRUCTOR02788_000_023","<Highlight>ObjectParameter(1)</Highlight>。
 我記住你了，
 朵塔兒部隨時歡迎你。"

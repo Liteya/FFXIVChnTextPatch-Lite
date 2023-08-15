@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANANA506_03063_SEQ_22",""
 23,"TEXT_BANANA506_03063_SEQ_23",""
 24,"TEXT_BANANA506_03063_TODO_00","在威羅迪納河的<Sheet(EObj,2009356,0)/>使用<Sheet(EventItem,2002446,0)/>
-從出現的<Sheet(BNpcName,7034,0)/>身上獲得<Sheet(EventItem,2002447,0)/>"
+從出現的<Sheet(BNpcName,7034,0)/>身上獲取<Sheet(EventItem,2002447,0)/>"
 25,"TEXT_BANANA506_03063_TODO_01","將<Sheet(EventItem,2002447,0)/>交給耶夏娜"
 26,"TEXT_BANANA506_03063_TODO_02",""
 27,"TEXT_BANANA506_03063_TODO_03",""
@@ -68,7 +68,7 @@ int32,str,str
 不用頻繁地補充。"
 53,"TEXT_BANANA506_03063_ESHANA_000_012","我們阿難陀族自古以來一直使用松明與篝火。
 而且，製作燈油時所產生的副產品藥膏，
-對我們的肌膚與鱗片可以起到保溼的效果，這一點讓我們很中意。"
+對我們的肌膚與鱗片可以起到保濕的效果，這一點讓我們很中意。"
 54,"TEXT_BANANA506_03063_ESHANA_000_013","也就是說，與燈光一同，你也為我們阿難陀族的肌膚與鱗片……
 ……算了，果然還是只道謝就好吧。
 謝謝你。"

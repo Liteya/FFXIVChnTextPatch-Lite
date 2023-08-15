@@ -6,9 +6,9 @@ int32,str,str
 1,"TEXT_CHRHDY101_04652_SEQ_01","※本任務為<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 職業固定任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-曼德維爾家的傭人將曼德維爾武器的製作據點告訴了冒險者。和拉札罕鍊金術製藥堂的曼德維爾家的傭人談談。"
+曼德維爾家的傭人將曼德維爾武器的製作據點告訴了冒險者。和拉札罕煉金術製藥堂的曼德維爾家的傭人談談。"
 2,"TEXT_CHRHDY101_04652_SEQ_02","與戈德伯特、蓋羅爾特二人齊聚一堂，聽取了曼德維爾武器的說明。冒險者需要收集3個<Sheet(Item,38420,0)/>。和拉札罕乙太之光廣場的玖布倫娜談談。"
-3,"TEXT_CHRHDY101_04652_SEQ_03","和玖布倫娜進行了交談，可以利用神典石交換<Sheet(Item,38420,0)/>。將3個<Sheet(Item,38420,0)/>交給鍊金術製藥堂的蓋羅爾特。"
+3,"TEXT_CHRHDY101_04652_SEQ_03","和玖布倫娜進行了交談，可以利用神典石交換<Sheet(Item,38420,0)/>。將3個<Sheet(Item,38420,0)/>交給煉金術製藥堂的蓋羅爾特。"
 4,"TEXT_CHRHDY101_04652_SEQ_04","在冒險者、蓋羅爾特和戈德伯特的努力下，曼德維爾武器完成了。要進行下一階段的強化作業需要繼續解讀古文書，三人暫時解散。等事情有進展之後，再來看看。"
 5,"TEXT_CHRHDY101_04652_SEQ_05",""
 6,"TEXT_CHRHDY101_04652_SEQ_06",""
@@ -61,20 +61,20 @@ int32,str,str
 52,"TEXT_CHRHDY101_04652_A2_000_001","製作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的曼德維爾武器"
 53,"TEXT_CHRHDY101_04652_SYSTEM_120_000","接受任務「曼德維爾家的古老武器」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 54,"TEXT_CHRHDY101_04652_SYSTEM_130_000","請轉換為與所需曼德維爾武器相應的特職，
 再次和曼德維爾家的傭人談談。"
-55,"TEXT_CHRHDY101_04652_SERVANT04652_000_000","您就是 <Highlight>ObjectParameter(1)</Highlight> 閣下吧，幸會。
+55,"TEXT_CHRHDY101_04652_SERVANT04652_000_000","您就是<Highlight>ObjectParameter(1)</Highlight>閣下吧，幸會。
 感謝您願意協助製作曼德維爾武器。"
 56,"TEXT_CHRHDY101_04652_SERVANT04652_000_001","相關事宜家主已經吩咐過了。
-我們借用了鍊金術製藥堂的一角作為製作據點。
+我們借用了煉金術製藥堂的一角作為製作據點。
 勞駕您移步那邊詳談。"
 57,"TEXT_CHRHDY101_04652_SERVANT04652_000_010","這裡就是曼德維爾武器的製作據點。"
 58,"TEXT_CHRHDY101_04652_SERVANT04652_100_010","在製作過程中可能需要多次往返此地，
 還請不要忘記與附近的城內乙太之晶共鳴以便移動。"
 59,"TEXT_CHRHDY101_04652_SERVANT04652_000_011","我這就去請家主過來，
 請稍等片刻。"
-60,"TEXT_CHRHDY101_04652_GODBERT_000_020","嚯嚯！你願意幫忙真是太好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！"
+60,"TEXT_CHRHDY101_04652_GODBERT_000_020","嚯嚯！你願意幫忙真是太好了，<Highlight>ObjectParameter(1)</Highlight>閣下！"
 61,"TEXT_CHRHDY101_04652_GODBERT_000_021","我們這就開始製作……咳，在那之前，
 我先就曼德維爾武器做一些說明。"
 62,"TEXT_CHRHDY101_04652_GODBERT_000_022","所謂曼德維爾武器，
@@ -86,7 +86,7 @@ int32,str,str
 64,"TEXT_CHRHDY101_04652_GODBERT_000_024","而我們本次的目的就是重現曼德維爾武器！
 目前我已經籌集到了高純度的鏝元素礦石！"
 65,"TEXT_CHRHDY101_04652_GODBERT_000_025","只不過仍欠缺一些必要的素材。
- <Highlight>ObjectParameter(1)</Highlight> 閣下是身經百戰的老練冒險者，
+<Highlight>ObjectParameter(1)</Highlight>閣下是身經百戰的老練冒險者，
 我希望由你去籌集這些素材，並為製作武器提供一些建議。"
 66,"TEXT_CHRHDY101_04652_GODBERT_000_026","謝謝。
 另外，因為我的本職畢竟是雕金匠，在鍛造武器方面還是個門外漢，
@@ -109,7 +109,7 @@ int32,str,str
 和這種大叔一起工作能有什麼幹勁啊？
 如果可以的話我也不想幹啊！"
 75,"TEXT_CHRHDY101_04652_GODBERT_000_050","嚯……這樣啊。
-我還特意讓羅薇娜商會請艾奧傑亞最好的武器工匠來呢……"
+我還特意讓羅薇娜商會請艾歐澤亞最好的武器工匠來呢……"
 76,"TEXT_CHRHDY101_04652_GODBERT_000_051","蓋羅爾特閣下不願意合作也沒辦法。
 我再去請其他人來幫忙吧。"
 77,"TEXT_CHRHDY101_04652_GEROLT_000_053","等等，我剛剛是開玩笑的！
@@ -122,13 +122,13 @@ int32,str,str
 多謝了！"
 80,"TEXT_CHRHDY101_04652_GEROLT_000_056","行了，總之現在人都齊了，
 我們趕緊著手製作曼德維爾武器吧！"
-81,"TEXT_CHRHDY101_04652_GODBERT_000_057","話是這麼說，不過我們也沒辦法馬上開工。
+81,"TEXT_CHRHDY101_04652_GODBERT_000_057","話是這麼說，不過我們也沒法馬上開工。
 要製作曼德維爾武器，目前還要解決3個問題。"
 82,"TEXT_CHRHDY101_04652_GODBERT_000_058","首先要解決的就是鏝元素的加工方法。
 根據古文書的記載，在加工這種礦石時
 用了一種十分特殊的加工方法。"
 83,"TEXT_CHRHDY101_04652_GEROLT_000_059","這個就交給我吧，
-畢竟你也是為了這個才僱我來的。
+畢竟你也是為了這個才雇我來的。
 我會好好幹活的。"
 84,"TEXT_CHRHDY101_04652_GODBERT_000_060","嚯嚯！那就拜託閣下了！"
 85,"TEXT_CHRHDY101_04652_GODBERT_000_061","第二個問題是裝飾件的問題。
@@ -140,12 +140,12 @@ int32,str,str
 我會打磨出與曼德維爾武器相稱的裝飾件！"
 88,"TEXT_CHRHDY101_04652_GODBERT_000_064","最後的問題就只剩籌集特級曼德維爾油了。
 它是由極其罕見的<Sheet(Item,38420,0)/>
-透過大型鍊金爐萃取出的一種油。"
+通過大型煉金爐萃取出的一種油。"
 89,"TEXT_CHRHDY101_04652_GEROLT_000_065","之前你說的那個特殊製法的梗概中也說了，
 那個什麼油似乎就是提高乙太傳導率的秘訣。"
-90,"TEXT_CHRHDY101_04652_GODBERT_000_066","我已經與鍊金術製藥堂商量好了，他們願意提供設備
+90,"TEXT_CHRHDY101_04652_GODBERT_000_066","我已經與煉金術製藥堂商量好了，他們願意提供設備
 供我們進行萃取作業。現在就只剩籌集<Sheet(Item,38420,0)/>了。
-製作武器大概需要3個，就拜託 <Highlight>ObjectParameter(1)</Highlight> 閣下了。"
+製作武器大概需要3個，就拜託<Highlight>ObjectParameter(1)</Highlight>閣下了。"
 91,"TEXT_CHRHDY101_04652_GODBERT_000_067","我也會去收集裝飾件所需的各種素材！"
 92,"TEXT_CHRHDY101_04652_GEROLT_000_068","那邊就交給你了！
 我就在這邊盯著爐子，再仔細研究一下製作方法。"
@@ -157,7 +157,7 @@ int32,str,str
 95,"TEXT_CHRHDY101_04652_GEROLT_000_072","<Sheet(Item,38420,0)/>可以在乙太之光廣場的
 玖布倫娜那裡拿到。
 總之你自己去看看吧。"
-96,"TEXT_CHRHDY101_04652_JUBRUNNAH_000_080","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧。
+96,"TEXT_CHRHDY101_04652_JUBRUNNAH_000_080","你就是<Highlight>ObjectParameter(1)</Highlight>吧。
 羅薇娜小姐吩咐過讓我協助你，
 有什麼需要儘管說吧。"
 97,"TEXT_CHRHDY101_04652_JUBRUNNAH_000_081","想要<Sheet(Item,38420,0)/>嗎？
@@ -192,7 +192,7 @@ int32,str,str
 曼德維爾家代代都執著於研究各種油，
 一直傳承著煉油的秘訣。"
 110,"TEXT_CHRHDY101_04652_GEROLT_000_105","秘訣？就算有秘訣，
-也沒辦法在這麼短的時間內補上所需的成分吧？"
+也沒法在這麼短的時間內補上所需的成分吧？"
 111,"TEXT_CHRHDY101_04652_GODBERT_000_106","嚯嚯嚯，不如來實際看一看吧！"
 112,"TEXT_CHRHDY101_04652_GEROLT_000_107","喂喂，怎麼一下子就把衣服脫了？！
 這傢伙果然就是個變態吧！"
@@ -225,12 +225,12 @@ int32,str,str
 但俗話說得好，天外有天，人外有人。"
 127,"TEXT_CHRHDY101_04652_GEROLT_000_122","你就在旁邊好好看著吧，
 我的技術可是超一流的！"
-128,"TEXT_CHRHDY101_04652_GODBERT_000_200","武器製作完成了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！"
+128,"TEXT_CHRHDY101_04652_GODBERT_000_200","武器製作完成了，<Highlight>ObjectParameter(1)</Highlight>閣下！"
 129,"TEXT_CHRHDY101_04652_GEROLT_000_201","這就是集我們三人之力製作的——
 曼德維爾武器……"
 130,"TEXT_CHRHDY101_04652_GEROLT_000_202","<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>！"
 131,"TEXT_CHRHDY101_04652_GEROLT_000_203","<Sheet(Item,IntegerParameter(1),0)/>！"
-132,"TEXT_CHRHDY101_04652_GODBERT_000_204","能親眼見證曼德維爾武器重現都是多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！
+132,"TEXT_CHRHDY101_04652_GODBERT_000_204","能親眼見證曼德維爾武器重現都是多虧了<Highlight>ObjectParameter(1)</Highlight>閣下！
 感激不盡！"
 133,"TEXT_CHRHDY101_04652_GEROLT_000_205","大叔，也別高興得太早了。
 這只是第一階段而已。"
@@ -262,9 +262,9 @@ int32,str,str
 其他雜活你就自己想辦法吧。"
 145,"TEXT_CHRHDY101_04652_GODBERT_000_214","那我就先回去繼續解讀古文書了。
 期待與二位的下次見面，失陪了！"
-146,"TEXT_CHRHDY101_04652_SYSTEM_000_216","今後可以透過鍊金術製藥堂的曼德維爾家的工匠
-領取可重複完成任務，
-獲得不同職業的曼德維爾武器。"
+146,"TEXT_CHRHDY101_04652_SYSTEM_000_216","今後可以通過煉金術製藥堂的曼德維爾家的工匠
+領取可重覆完成任務，
+獲取不同職業的曼德維爾武器。"
 147,"TEXT_CHRHDY101_04652_SYSTEM_000_217","請轉換為與所需曼德維爾武器相應的特職，
 和曼德維爾家的工匠談談。"
 148,"TEXT_CHRHDY101_04652_SERVANT04652_000_002","（★未使用／削除予定★）"

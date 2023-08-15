@@ -55,8 +55,8 @@ int32,str,str
 蓋伊爾哈德又委託了工作哦。"
 49,"TEXT_CLSWDK008_00537_BEATINE_000_002","這次委託的是<Sheet(ItemHQ,　1925,0)/>……
 這可是只有老練的弓箭手才能用得來的弓啊。"
-50,"TEXT_CLSWDK008_00537_BEATINE_000_003","這一定是他的……
-一定是蓋伊爾哈德的新弓！"
+50,"TEXT_CLSWDK008_00537_BEATINE_000_003","這肯定是他的……
+肯定是蓋伊爾哈德的新弓！"
 51,"TEXT_CLSWDK008_00537_BEATINE_000_004","當然，要製作這種弓也不是一件簡單的事情……
 但是，以你現在的手藝……
 一定能做出一件優秀的作品的！"
@@ -75,11 +75,11 @@ int32,str,str
 這宛若波浪的彎曲形也是這種弓的一大特徵。"
 58,"TEXT_CLSWDK008_00537_BEATINE_000_015","複合弓原材料的性質，還有其形狀的意義……
 都在你絕妙的加工下展現了出來！
-真是太棒了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+真是太棒了，<Highlight>ObjectParameter(1)</Highlight>！"
 59,"TEXT_CLSWDK008_00537_BEATINE_000_016","這正是配得上如今的蓋伊爾哈德的弓啊。
 他正在蛇巢司令部等待結果。
 你快去送給他吧！"
-60,"TEXT_CLSWDK008_00537_GAIRHARD_000_020","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+60,"TEXT_CLSWDK008_00537_GAIRHARD_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>。
 我委託的<Sheet(ItemHQ,　1925,0)/>怎麼樣了？"
 61,"TEXT_CLSWDK008_00537_GAIRHARD_000_021","嗯……不管怎麼看，這都是把一流的弓。
 拜託你果然沒錯。"

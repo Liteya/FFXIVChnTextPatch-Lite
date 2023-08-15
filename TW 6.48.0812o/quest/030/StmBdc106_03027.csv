@@ -51,14 +51,14 @@ int32,str,str
 47,"TEXT_STMBDC106_03027_TODO_23",""
 48,"TEXT_STMBDC106_03027_ALISAIE_000_000","對了，機會難得，
 我們就好好看看多瑪飛地的重建狀況如何……咦？"
-49,"TEXT_STMBDC106_03027_YUGIRI_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你在這裡呀。
+49,"TEXT_STMBDC106_03027_YUGIRI_000_001","<Highlight>ObjectParameter(1)</Highlight>閣下，你在這裡呀。
 能佔用你一點時間嗎……"
 50,"TEXT_STMBDC106_03027_ALISAIE_000_002","夕霧和……朝陽大使。
-你們找 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 有什麼事嗎？"
+你們找<Highlight>ObjectParameter(1)</Highlight>有什麼事嗎？"
 51,"TEXT_STMBDC106_03027_ASAHI_000_003","是的，我一直想和鼎鼎大名的弒神英雄聊聊，
 萬萬沒想到會在此處相遇，
 實在是有點緊張……"
-52,"TEXT_STMBDC106_03027_ALISAIE_000_004","……將 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 稱作英雄真的可以嗎？
+52,"TEXT_STMBDC106_03027_ALISAIE_000_004","……將<Highlight>ObjectParameter(1)</Highlight>稱作英雄真的可以嗎？
 你怎麼也算是帝國人吧？"
 53,"TEXT_STMBDC106_03027_ASAHI_000_005","<If(PlayerParameter(4))>她<Else/>他</If>雖然也曾與友軍交戰，
 但正如先前我說的，帝國也同樣有著殲滅蠻神的目標。
@@ -73,15 +73,15 @@ int32,str,str
 我想好好看看故鄉的現狀。
 有<If(PlayerParameter(4))>她們<Else/>他們</If>同行，夕霧女士也能放心了吧？"
 57,"TEXT_STMBDC106_03027_YUGIRI_000_009","……有這兩位同行確實能夠保障大使閣下的安全。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你意下如何？"
+<Highlight>ObjectParameter(1)</Highlight>，你意下如何？"
 58,"TEXT_STMBDC106_03027_Q1_000_000","如何作答？"
 59,"TEXT_STMBDC106_03027_A1_000_001","可以"
 60,"TEXT_STMBDC106_03027_A1_000_002","不想一起去"
 61,"TEXT_STMBDC106_03027_ALISAIE_000_010","我也同意。
-可以瞭解下多瑪的現狀，又能順便聽聽帝國的事情。
-重點是反正閒著。"
+可以了解下多瑪的現狀，又能順便聽聽帝國的事情。
+關鍵是反正閒著。"
 62,"TEXT_STMBDC106_03027_ALISAIE_000_015","哎呀有什麼不行的？
-可以瞭解下多瑪的現狀，又能順便聽聽帝國的事情。
+可以了解下多瑪的現狀，又能順便聽聽帝國的事情。
 反正也是閒著，我會陪你一起的，不必擔心。"
 63,"TEXT_STMBDC106_03027_ASAHI_000_021","啊，太好了！
 那我們四個一起吧。

@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ513_02764_SEQ_22",""
 23,"TEXT_STMBDZ513_02764_SEQ_23",""
 24,"TEXT_STMBDZ513_02764_TODO_00","討伐3隻<Sheet(BNpcName,5775,0)/>
-再從隨之出現的<Sheet(BNpcName,5929,0)/>身上獲得大甲殼和大爪"
+再從隨之出現的<Sheet(BNpcName,5929,0)/>身上獲取大甲殼和大爪"
 25,"TEXT_STMBDZ513_02764_TODO_01","將<Sheet(EventItem,2002322,0)/>和<Sheet(EventItem,2002323,0)/>交給模兒部的年輕女子"
 26,"TEXT_STMBDZ513_02764_TODO_02",""
 27,"TEXT_STMBDZ513_02764_TODO_03",""
@@ -65,13 +65,13 @@ int32,str,str
 為了遵循神諭完成婚事，無論如何都需要你的幫助！"
 53,"TEXT_STMBDZ513_02764_BRIDE02764_000_005","去西邊打倒3隻左右的<Sheet(BNpcName,5775,0)/>，
 就一定能激怒<Sheet(BNpcName,5929,0)/>，把它引出來。"
-54,"TEXT_STMBDZ513_02764_BRIDE02764_000_006","然後從它身上獲得
+54,"TEXT_STMBDZ513_02764_BRIDE02764_000_006","然後從它身上獲取
 <Sheet(EventItem,2002322,0)/>和<Sheet(EventItem,2002323,0)/>。
 拜託了，無論如何都需要你的幫助！"
 55,"TEXT_STMBDZ513_02764_BRIDE02764_000_010","你拿到<Sheet(EventItem,2002322,0)/>和
 <Sheet(EventItem,2002323,0)/>了嗎？"
 56,"TEXT_STMBDZ513_02764_BRIDE02764_000_011","謝、謝謝你！
-這個壞掉的嫁妝，是嫁入其他部落時一定要有的東西。
+這個壞掉的嫁妝，是嫁入其他部落時必須要有的東西。
 如果沒有它，就結不了婚了。"
 57,"TEXT_STMBDZ513_02764_BRIDE02764_000_012","雖然嫁到別的部落有些寂寞，不過這也沒辦法，
 模兒部的人非常少，可選擇的結婚對象也沒幾個，

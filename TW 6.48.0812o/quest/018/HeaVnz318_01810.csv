@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ318_01810_SEQ_00","不潔三塔的格林坎比鬱悶至極。"
-1,"TEXT_HEAVNZ318_01810_SEQ_01","格林坎比委託冒險者去摘<Sheet(EObj,2005673,0)/>。前往龍堡參天高地的哀思洞窟，獲得<Sheet(EObj,2005673,0)/>。"
+1,"TEXT_HEAVNZ318_01810_SEQ_01","格林坎比委託冒險者去摘<Sheet(EObj,2005673,0)/>。前往龍堡參天高地的哀思洞窟，獲取<Sheet(EObj,2005673,0)/>。"
 2,"TEXT_HEAVNZ318_01810_SEQ_02","獲得了<Sheet(EObj,2005673,0)/>。將<Sheet(EventItem,2001629,0)/>交給不潔三塔的格林坎比。"
 3,"TEXT_HEAVNZ318_01810_SEQ_03","將<Sheet(EventItem,2001629,0)/>交給了格林坎比。由於要孵蛋，長時間不能挪動身體，這使得它很是煩躁。<Sheet(EventItem,2001629,0)/>的香氣可以緩解這種煩躁。"
 4,"TEXT_HEAVNZ318_01810_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ318_01810_SEQ_21",""
 22,"TEXT_HEAVNZ318_01810_SEQ_22",""
 23,"TEXT_HEAVNZ318_01810_SEQ_23",""
-24,"TEXT_HEAVNZ318_01810_TODO_00","獲得<Sheet(EventItem,2001629,0)/>"
+24,"TEXT_HEAVNZ318_01810_TODO_00","獲取<Sheet(EventItem,2001629,0)/>"
 25,"TEXT_HEAVNZ318_01810_TODO_01","將<Sheet(EventItem,2001629,0)/>交給格林坎比"
 26,"TEXT_HEAVNZ318_01810_TODO_02",""
 27,"TEXT_HEAVNZ318_01810_TODO_03",""

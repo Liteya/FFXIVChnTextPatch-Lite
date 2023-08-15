@@ -3,9 +3,9 @@
 int32,str,str
 0,"TEXT_LUCKMB105_03306_SEQ_00","伊爾美格的桑克瑞德若有所思。"
 1,"TEXT_LUCKMB105_03306_SEQ_01","從桑克瑞德處得知，目前可以前往仙子族的聚集地。和伊爾美格群花館的桑克瑞德談談。"
-2,"TEXT_LUCKMB105_03306_SEQ_02","和桑克瑞德進行了交談。從群花館的<Sheet(EObj,2009816,0)/>獲得<Sheet(EventItem,2002533,0)/>。"
+2,"TEXT_LUCKMB105_03306_SEQ_02","和桑克瑞德進行了交談。從群花館的<Sheet(EObj,2009816,0)/>獲取<Sheet(EventItem,2002533,0)/>。"
 3,"TEXT_LUCKMB105_03306_SEQ_03","獲得了<Sheet(EventItem,2002533,0)/>。將<Sheet(EventItem,2002533,0)/>交給群花館的桑克瑞德。"
-4,"TEXT_LUCKMB105_03306_SEQ_04","桑克瑞德使仙子族們現出了身影。為了儘快和于里昂熱會合，幫仙子族們做事。"
+4,"TEXT_LUCKMB105_03306_SEQ_04","桑克瑞德使仙子族們現出了身影。為了盡快和於里昂熱匯合，幫仙子族們做事。"
 5,"TEXT_LUCKMB105_03306_SEQ_05",""
 6,"TEXT_LUCKMB105_03306_SEQ_06",""
 7,"TEXT_LUCKMB105_03306_SEQ_07",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKMB105_03306_SEQ_22",""
 23,"TEXT_LUCKMB105_03306_SEQ_23",""
 24,"TEXT_LUCKMB105_03306_TODO_00","和桑克瑞德對話"
-25,"TEXT_LUCKMB105_03306_TODO_01","從<Sheet(EObj,2009816,0)/>獲得<Sheet(EventItem,2002533,0)/>"
+25,"TEXT_LUCKMB105_03306_TODO_01","從<Sheet(EObj,2009816,0)/>獲取<Sheet(EventItem,2002533,0)/>"
 26,"TEXT_LUCKMB105_03306_TODO_02","將<Sheet(EventItem,2002533,0)/>交給桑克瑞德"
 27,"TEXT_LUCKMB105_03306_TODO_03",""
 28,"TEXT_LUCKMB105_03306_TODO_04",""
@@ -73,8 +73,8 @@ int32,str,str
 卻能感覺到有視線盯著我們……"
 57,"TEXT_LUCKMB105_03306_RYNE_000_040","嗯……這種時候應該……"
 58,"TEXT_LUCKMB105_03306_THANCRED_000_050","果然到了群花館啊，
-然而看不到仙子族的身影也就沒辦法交涉了……"
-59,"TEXT_LUCKMB105_03306_THANCRED_000_051"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，抱歉，你能不能也去找找
+然而看不到仙子族的身影也就沒法交涉了……"
+59,"TEXT_LUCKMB105_03306_THANCRED_000_051","<Highlight>ObjectParameter(1)</Highlight>，抱歉，你能不能也去找找
 有沒有一種尖端像漩渦一樣捲起來的草？"
 60,"TEXT_LUCKMB105_03306_THANCRED_000_052","那種草叫做「透鏡草」，
 可以用來找出仙子族的位置。
@@ -89,9 +89,9 @@ int32,str,str
 64,"TEXT_LUCKMB105_03306_PIXIEVOICEA03306_000_071","(-可愛的小孩子的聲音-)呵呵呵呵……
 喂，你叫什麼名字呀？"
 65,"TEXT_LUCKMB105_03306_Q1_000_000","如何作答？"
-66,"TEXT_LUCKMB105_03306_A1_000_001"," <Highlight>ObjectParameter(1)</Highlight> "
-67,"TEXT_LUCKMB105_03306_A1_000_002","…………"
-68,"TEXT_LUCKMB105_03306_PIXIEVOICEA03306_000_072","(-可愛的小孩子的聲音-) <Highlight>ObjectParameter(1)</Highlight> ！
+66,"TEXT_LUCKMB105_03306_A1_000_001","<Highlight>ObjectParameter(1)</Highlight>"
+67,"TEXT_LUCKMB105_03306_A1_000_002","……"
+68,"TEXT_LUCKMB105_03306_PIXIEVOICEA03306_000_072","(-可愛的小孩子的聲音-)<Highlight>ObjectParameter(1)</Highlight>！
 像晨露一般可愛，又像毛毛蟲一樣奇怪的名字！"
 69,"TEXT_LUCKMB105_03306_PIXIEVOICEA03306_000_073","(-可愛的小孩子的聲音-)銘刻碾碎再縫好，把你變成人家的話語。
 成為了人家的話語，你就是人家的東西了。
@@ -103,7 +103,7 @@ int32,str,str
 要我幫忙嗎？"
 73,"TEXT_LUCKMB105_03306_Q2_000_000","如何作答？"
 74,"TEXT_LUCKMB105_03306_A2_000_001","你知道哪個是透鏡草嗎？"
-75,"TEXT_LUCKMB105_03306_A2_000_002","…………"
+75,"TEXT_LUCKMB105_03306_A2_000_002","……"
 76,"TEXT_LUCKMB105_03306_PIXIEVOICEB03306_000_077","(-說悄悄話般的聲音-)當然，我當然知道。
 我是好心腸的妖靈，就告訴你好了。"
 77,"TEXT_LUCKMB105_03306_PIXIEVOICEB03306_000_078","(-說悄悄話般的聲音-)來，像睡覺的時候一樣閉上眼睛……
@@ -117,7 +117,7 @@ int32,str,str
 你是從哪裡來的？"
 81,"TEXT_LUCKMB105_03306_Q3_000_000","如何作答？"
 82,"TEXT_LUCKMB105_03306_A3_000_001","水晶都"
-83,"TEXT_LUCKMB105_03306_A3_000_002","…………"
+83,"TEXT_LUCKMB105_03306_A3_000_002","……"
 84,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_081","(-開心的小孩子的聲音-)哎呀哎呀，哦呀哦呀，水晶都……
 那是哪啊？夢中的都市嗎？"
 85,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_082","(-開心的小孩子的聲音-)你一直都是伊爾美格的人哦！
@@ -125,9 +125,9 @@ int32,str,str
 86,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_083","(-開心的小孩子的聲音-)哎？沒有聽到嗎？
 問你話呢，你在這裡做什麼呢？"
 87,"TEXT_LUCKMB105_03306_Q4_000_000","如何作答？"
-88,"TEXT_LUCKMB105_03306_A4_000_001","要去見于里昂熱"
+88,"TEXT_LUCKMB105_03306_A4_000_001","要去見於里昂熱"
 89,"TEXT_LUCKMB105_03306_A4_000_002","走開！"
-90,"TEXT_LUCKMB105_03306_A4_000_003","…………"
+90,"TEXT_LUCKMB105_03306_A4_000_003","……"
 91,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_084","(-開心的小孩子的聲音-)什麼嘛，這不是能聽到嘛！
 那就再來和我聊聊嘛？"
 92,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_085","(-開心的小孩子的聲音-)不停地說，不停地說，
@@ -145,4 +145,4 @@ int32,str,str
 用這個找出妖靈的位置之後，
 應該就能提出平等的交涉了。"
 98,"TEXT_LUCKMB105_03306_THANCRED_000_092","先讓大家都過來吧，
-于里昂熱老師的秘傳要派上用場了。"
+於里昂熱老師的秘傳要派上用場了。"

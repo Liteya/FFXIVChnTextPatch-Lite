@@ -63,7 +63,7 @@ int32,str,str
 這個這個，要裝滿哦。
 <Sheet(EventItem,2000590,0)/>，要拿來5根。"
 51,"TEXT_GAIUSA302_00734_DUMMY_000_010","（在愚者瀑布的指定地點使用空桶裝滿瀑布水）"
-52,"TEXT_GAIUSA302_00734_DUMMY_000_011","（討伐<Sheet(BNpcName,28,0)/>獲得5根<Sheet(EventItem,2000589,0)/>）"
+52,"TEXT_GAIUSA302_00734_DUMMY_000_011","（討伐<Sheet(BNpcName,28,0)/>獲取5根<Sheet(EventItem,2000589,0)/>）"
 53,"TEXT_GAIUSA302_00734_TETEROON_000_020","醇香美酒，要鼓起幹勁開始做啦。
 材料材料，你都找來了嗎？"
 54,"TEXT_GAIUSA302_00734_TETEROON_000_021","醇香美酒，製作材料都集齊啦！

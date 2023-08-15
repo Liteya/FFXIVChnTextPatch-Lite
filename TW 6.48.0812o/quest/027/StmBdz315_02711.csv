@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDZ315_02711_SEQ_23",""
 24,"TEXT_STMBDZ315_02711_TODO_00","在<Sheet(EObj,2008136,0)/>張望"
 25,"TEXT_STMBDZ315_02711_TODO_01","和骰子對話"
-26,"TEXT_STMBDZ315_02711_TODO_02","討伐<Sheet(BNpcName,5739,0)/> 獲得其身上可能會掉落的<Sheet(EventItem,2002101,0)/>"
+26,"TEXT_STMBDZ315_02711_TODO_02","討伐<Sheet(BNpcName,5739,0)/> 獲取其身上可能會掉落的<Sheet(EventItem,2002101,0)/>"
 27,"TEXT_STMBDZ315_02711_TODO_03","將<Sheet(EventItem,2002101,0)/>交給骰子"
 28,"TEXT_STMBDZ315_02711_TODO_04",""
 29,"TEXT_STMBDZ315_02711_TODO_05",""
@@ -53,15 +53,15 @@ int32,str,str
 有件要對碧甲族的大家保密的事想拜託你——"
 49,"TEXT_STMBDZ315_02711_SAIKORO_000_001","我在村子東北的沉船小林丸上
 找到了<Sheet(EventItem,2002101,0)/>，
-但那裡有些扭來扭去的傢伙，害我怎麼都沒辦法拿到——"
+但那裡有些扭來扭去的傢伙，害我怎麼都沒法拿到——"
 50,"TEXT_STMBDZ315_02711_SAIKORO_000_002","被別人知道了我害怕的話會淪為笑柄的，
 你能不告訴別人幫我找到它嗎——？"
 51,"TEXT_STMBDZ315_02711_SAIKORO_000_003","<Sheet(EventItem,2002101,0)/>就在
 沉沒在村子東北邊的小林丸附近——
 我也好想快點獨當一面啊——"
-52,"TEXT_STMBDZ315_02711_SYSTEM_000_010","<Sheet(EventItem,2002101,0)/>似乎不在這……"
+52,"TEXT_STMBDZ315_02711_SYSTEM_000_010","<Sheet(EventItem,2002101,0)/>貌似不在這……"
 53,"TEXT_STMBDZ315_02711_SAIKORO_000_020","你沒找到——？
-那一定是被扭來扭去的<Sheet(BNpcName,5739,0)/>
+那肯定是被扭來扭去的<Sheet(BNpcName,5739,0)/>
 拿走了——！"
 54,"TEXT_STMBDZ315_02711_SAIKORO_000_021","那群傢伙一般都待在自凝島——
 雖然不知道是誰拿走了，但直到找到為止，

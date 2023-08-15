@@ -16,7 +16,7 @@ int32,str,str
 4,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_050","歡迎來到清融街！
 這裡的溫泉可以不分晝夜隨時使用！
 一邊仰望星空一邊泡溫泉緩解疲勞實在是最棒的享受！"
-5,"TEXT_REGNOR4CLEARMELT_00587_Q1_000_000","想瞭解什麼？"
+5,"TEXT_REGNOR4CLEARMELT_00587_Q1_000_000","想了解什麼？"
 6,"TEXT_REGNOR4CLEARMELT_00587_A1_000_001","你是做什麼的？"
 7,"TEXT_REGNOR4CLEARMELT_00587_A1_000_002","這裡是什麼地方？"
 8,"TEXT_REGNOR4CLEARMELT_00587_A1_000_003","取消"
@@ -26,10 +26,10 @@ int32,str,str
 10,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_201","而且獨行食罪靈或是魔物也有可能會到這裡來。
 所以只要是有人來這裡泡溫泉，
 我就不能離開崗位，繼續監視溫泉的狀況。"
-11,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_210","聽說今後不用再擔心光之氾濫的問題了，
-不過人們平日蓄積的疲勞或是舊傷是不會消失的。
+11,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_210","聽說今後不用再擔心光之泛濫的問題了，
+不過人們平日積攢的疲勞或是舊傷是不會消失的。
 所以只要還有人願意來泡溫泉，我就會繼續在這裡看守下去。"
-12,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_400","這清融街在光之氾濫以前曾經是以溫泉而馳名的住宿街。
+12,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_400","這清融街在光之泛濫以前曾經是以溫泉而馳名的住宿街。
 現在則是用於療養的設施。"
 13,"TEXT_REGNOR4CLEARMELT_00587_KEEBOSTT_000_402","溫泉的話別處也可以泡，可是這裡的溫泉非常特別！
 從周圍山上流下的融雪水經過地下加溫之後成為了溫泉，

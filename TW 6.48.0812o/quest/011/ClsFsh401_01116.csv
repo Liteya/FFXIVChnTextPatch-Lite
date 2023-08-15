@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_CLSFSH401_01116_SEQ_00","捕魚人公會的希希蒲有事想要委託給冒險者。"
-1,"TEXT_CLSFSH401_01116_SEQ_01","接受了希希蒲的委託。和利姆薩．羅敏薩捕魚人公會的西貝爾對話。"
-2,"TEXT_CLSFSH401_01116_SEQ_02","和西貝爾進行了交談。將5條<Sheet(Item,　4905,0)/>交給利姆薩．羅敏薩捕魚人公會的西貝爾。只有雨天時，才能在格里達尼亞的翡翠湖濱釣場裡用<Sheet(Item,　2601,0)/>作魚餌釣到<Sheet(Item,　4905,0)/>。"
+1,"TEXT_CLSFSH401_01116_SEQ_01","接受了希希蒲的委託。和利姆薩·羅敏薩捕魚人公會的西貝爾對話。"
+2,"TEXT_CLSFSH401_01116_SEQ_02","和西貝爾進行了交談。將5條<Sheet(Item,　4905,0)/>交給利姆薩·羅敏薩捕魚人公會的西貝爾。只有雨天時，才能在格里達尼亞的翡翠湖濱釣場裡用<Sheet(Item,　2601,0)/>作魚餌釣到<Sheet(Item,　4905,0)/>。"
 3,"TEXT_CLSFSH401_01116_SEQ_03","將<Sheet(Item,　4905,0)/>交給了西貝爾。她高度讚揚了冒險者的技術，今後也想繼續交予冒險者工作。不要辜負西貝爾的期待，繼續積累捕魚人的修行。
 
 ※捕魚人的等級達到45級以上時，可以從希希蒲那裡領取下一個捕魚人任務。"
@@ -61,8 +61,8 @@ int32,str,str
 51,"TEXT_CLSFSH401_01116_SISIPU_000_003","商會負責進貨的「西貝爾」就在公會門口，
 去和她談談吧。
 之後的工作就交給你自由發揮了。"
-52,"TEXT_CLSFSH401_01116_SYBELL_000_010","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
-初次見面，我是西貝爾．溫萊特！
+52,"TEXT_CLSFSH401_01116_SYBELL_000_010","你就是<Highlight>ObjectParameter(1)</Highlight>吧？
+初次見面，我是西貝爾·溫萊特！
 久仰「冒險捕魚人」的大名，有事想拜託你！"
 53,"TEXT_CLSFSH401_01116_SYBELL_000_011","想請你去釣一種叫「<Sheet(Item,　4905,0)/>」的魚。
 它生息在格里達尼亞的翡翠湖濱釣場裡……
@@ -86,7 +86,7 @@ int32,str,str
 如果籌備不到的話，上司會讓我吃不了兜著走。"
 60,"TEXT_CLSFSH401_01116_SYBELL_000_021","這就是「<Sheet(Item,　4905,0)/>」嗎！
 而且，這魚可真大！
-交給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 果然是正確的！"
+交給<Highlight>ObjectParameter(1)</Highlight>果然是正確的！"
 61,"TEXT_CLSFSH401_01116_SYBELL_000_022","這種魚好像有特殊的療效。
 不，應該說「傳聞有特殊的療效」才對。"
 62,"TEXT_CLSFSH401_01116_SYBELL_000_023","據說它對上了年紀的男性固有的某種煩惱非常有效……
@@ -94,7 +94,7 @@ int32,str,str
 63,"TEXT_CLSFSH401_01116_SYBELL_000_024","總之，只要有這個「<Sheet(Item,　4905,0)/>」，
 我們就能在烏爾達哈市場佔據一席之地了!"
 64,"TEXT_CLSFSH401_01116_SYBELL_000_025","話說回來，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 真是非常優秀的「冒險捕魚人」呢。
+<Highlight>ObjectParameter(1)</Highlight>真是非常優秀的「冒險捕魚人」呢。
 百聞不如一見，比傳說的還厲害。"
 65,"TEXT_CLSFSH401_01116_SYBELL_000_026","今後還請繼續用你的高超技術幫助我們。
 我們商會的生意一定會越來越興旺。

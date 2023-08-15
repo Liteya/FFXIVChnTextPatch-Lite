@@ -89,7 +89,7 @@ int32,str,str
 62,"TEXT_STMBDZ928_02884_TOPHER_000_030","原來如此……部下都沒事我就放心了。
 多虧了你的幫忙，<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>！"
 63,"TEXT_STMBDZ928_02884_TOPHER_000_031","不過，居然是<Sheet(BNpcName,5944,0)/>……
-雖然還不清楚原因，不過它是一種類似自然產生的巨像兵，
+雖然還不清楚原因，不過它是一種類似自然生成的巨像兵，
 可以理解為是水晶變異成的魔法生物。"
 64,"TEXT_STMBDZ928_02884_TOPHER_000_032","雖然它的行為和生物很像，可實際上並沒有理性。
 它只為追求乙太，因為會襲擊包括人類在內的所有生物，

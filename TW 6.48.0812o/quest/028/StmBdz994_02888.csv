@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_100_000","阿拉米格已經近在咫尺了。
 終於可以親眼見到了！"
 49,"TEXT_STMBDZ994_02888_BERTLIANA_000_000","是時候繼續前進了。
-我們要穿過阿拉米格解放軍和艾奧傑亞同盟軍共同收復的帝國白山堡，
+我們要穿過阿拉米格解放軍和艾歐澤亞同盟軍共同收復的帝國白山堡，
 向基拉巴尼亞湖區前進。"
 50,"TEXT_STMBDZ994_02888_BERTLIANA_000_001","之後，只要一心朝阿拉米格前進就行了……
 我們繼續加油吧！"
@@ -67,7 +67,7 @@ int32,str,str
 有一些協助帝國軍監視市民的奸細混入難民中企圖逃跑。
 你們沒有證明身份的證件嗎？"
 55,"TEXT_STMBDZ994_02888_JANYN_000_012","什、什麼？！
-原來 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也是同行者啊！"
+原來<Highlight>ObjectParameter(1)</Highlight>閣下也是同行者啊！"
 56,"TEXT_STMBDZ994_02888_JANYN_000_013","失禮了……
 請原諒！"
 57,"TEXT_STMBDZ994_02888_JANYN_000_014","很抱歉阻攔了各位。
@@ -84,7 +84,7 @@ int32,str,str
 61,"TEXT_STMBDZ994_02888_JANYN_000_018","如你所見，阿拉米格已近在咫尺，
 但路上還有很多魔物有待驅逐。
 請務必小心。"
-62,"TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_000_019","（★未使用／削除予定★）"
+62,"TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_000_019","（★未使用／預定刪除★）"
 63,"TEXT_STMBDZ994_02888_POPMESSAGE_110_020","敵人發起了攻擊！"
 64,"TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_100_020","可惡……好危險！"
 65,"TEXT_STMBDZ994_02888_BERTLIANA_000_020","正如那位士兵所說，
@@ -92,7 +92,7 @@ int32,str,str
 我們擊退了幾隻，但還是沒能撐下去。"
 66,"TEXT_STMBDZ994_02888_BERTLIANA_000_021","還差一點就到阿拉米格了。
 找到古恩德巴爾德的外甥韋查德先生，
-和他會合吧。"
+和他匯合吧。"
 67,"TEXT_STMBDZ994_02888_BERTLIANA_000_022","這裡就是阿拉米格啊！
 終於到達了，太好了！"
 68,"TEXT_STMBDZ994_02888_PASSIONATESOLDIER02888_000_023","終於回到了故土！"
@@ -102,7 +102,7 @@ int32,str,str
 好氣派啊！"
 71,"TEXT_STMBDZ994_02888_WICHARD_000_032","大家一路上辛苦了！
 我是古恩德巴爾德的外甥，韋查德。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，您沒事真是太好了！"
+<Highlight>ObjectParameter(1)</Highlight>，您沒事真是太好了！"
 72,"TEXT_STMBDZ994_02888_BERTLIANA_000_033","您好，韋查德先生！
 我是博特里阿娜，是第一批回歸人員的領頭人。"
 73,"TEXT_STMBDZ994_02888_BERTLIANA_000_034","我出生於薩納蘭，關於此地只是有所耳聞，

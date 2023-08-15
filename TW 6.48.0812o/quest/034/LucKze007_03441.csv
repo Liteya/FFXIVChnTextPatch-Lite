@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_LUCKZE007_03441_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-蛇行枝的馬里爾好像想請冒險者幫忙。"
+蛇行枝的馬裡爾好像想請冒險者幫忙。"
 1,"TEXT_LUCKZE007_03441_SEQ_01",""
 2,"TEXT_LUCKZE007_03441_SEQ_02",""
 3,"TEXT_LUCKZE007_03441_SEQ_03",""
@@ -27,10 +27,10 @@ int32,str,str
 22,"TEXT_LUCKZE007_03441_SEQ_22",""
 23,"TEXT_LUCKZE007_03441_SEQ_23",""
 24,"TEXT_LUCKZE007_03441_TODO_00","在「說話」頻道下輸入「野玫瑰」
-向熟練的衛士打招呼（tuktu）"
+向熟練的衛士打招呼 (tuktu)"
 25,"TEXT_LUCKZE007_03441_TODO_01","在「說話」頻道下輸入「野玫瑰」
-向新人衛士打招呼（tuktu）"
-26,"TEXT_LUCKZE007_03441_TODO_02","向馬里爾報告"
+向新人衛士打招呼 (tuktu)"
+26,"TEXT_LUCKZE007_03441_TODO_02","向馬裡爾報告"
 27,"TEXT_LUCKZE007_03441_TODO_03",""
 28,"TEXT_LUCKZE007_03441_TODO_04",""
 29,"TEXT_LUCKZE007_03441_TODO_05",""
@@ -80,7 +80,7 @@ int32,str,str
 我還要繼續追蹤那傢伙。"
 59,"TEXT_LUCKZE007_03441_VETERANSOLDIER03441_000_014","你能去找一找新人衛士嗎？
 找到了就讓他回蛇行枝，
-向馬里爾報告。"
+向馬裡爾報告。"
 60,"TEXT_LUCKZE007_03441_NEWBIESOLDIER03441_000_020","呀啊，饒了我吧！"
 61,"TEXT_LUCKZE007_03441_SYSTEM_100_020","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「野玫瑰」的詞句。"
@@ -91,7 +91,7 @@ int32,str,str
 實在是太可怕了……所以我就逃走了。
 真是太丟人了。"
 65,"TEXT_LUCKZE007_03441_NEWBIESOLDIER03441_000_023","沒關係，我已經冷靜下來了，我這就回蛇行枝去。
-雖然感覺沒臉見馬里爾，
+雖然感覺沒臉見馬裡爾，
 但也不能不回去報告啊……"
 66,"TEXT_LUCKZE007_03441_MARIL_000_030","謝謝你，幫大忙了！
 搞定了野獸的熟練的衛士，

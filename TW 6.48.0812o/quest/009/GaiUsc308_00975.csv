@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC308_00975_SEQ_00","赫丁想要將<Sheet(EventItem,2000753,0)/>交還給冒險者。"
-1,"TEXT_GAIUSC308_00975_SEQ_01","所需的偏屬性水晶全部集齊了。將<Sheet(EventItem,2000753,0)/>交給格里達尼亞飛艇坪的席德。利翁內萊會帶領冒險者前往登艇大廳內部。"
-2,"TEXT_GAIUSC308_00975_SEQ_02","將偏屬性水晶交給了席德。這下子，不論什麼樣的暴風都擋不住飛空艇企業號了。"
+1,"TEXT_GAIUSC308_00975_SEQ_01","所需的偏屬性水晶全部集齊了。將<Sheet(EventItem,2000753,0)/>交給格里達尼亞飛艇坪的西德。利翁內萊會帶領冒險者前往登艇大廳內部。"
+2,"TEXT_GAIUSC308_00975_SEQ_02","將偏屬性水晶交給了西德。這下子，不論什麼樣的暴風都擋不住飛空艇企業號了。"
 3,"TEXT_GAIUSC308_00975_SEQ_03",""
 4,"TEXT_GAIUSC308_00975_SEQ_04",""
 5,"TEXT_GAIUSC308_00975_SEQ_05",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSC308_00975_SEQ_21",""
 22,"TEXT_GAIUSC308_00975_SEQ_22",""
 23,"TEXT_GAIUSC308_00975_SEQ_23",""
-24,"TEXT_GAIUSC308_00975_TODO_00","將<Sheet(EventItem,2000753,0)/>交給格里達尼亞飛艇坪的席德"
+24,"TEXT_GAIUSC308_00975_TODO_00","將<Sheet(EventItem,2000753,0)/>交給格里達尼亞飛艇坪的西德"
 25,"TEXT_GAIUSC308_00975_TODO_01",""
 26,"TEXT_GAIUSC308_00975_TODO_02",""
 27,"TEXT_GAIUSC308_00975_TODO_03",""
@@ -58,7 +58,7 @@ int32,str,str
 肯定意味著發生了什麼大事。"
 51,"TEXT_GAIUSC308_00975_HEDYN_000_003","不過，我只是一名研究者。不會向你打聽緣由的。
 我們「零組」全體組員，祝各位旗開得勝……呃。"
-52,"TEXT_GAIUSC308_00975_CID_000_010","是 <Highlight>ObjectParameter(1)</Highlight> 啊。
+52,"TEXT_GAIUSC308_00975_CID_000_010","是<Highlight>ObjectParameter(1)</Highlight>啊。
 朗貝爾坦把其餘的偏屬性水晶都送來了。
 剩下的就只有你那塊了。"
 53,"TEXT_GAIUSC308_00975_CID_000_020","偏屬性水晶都集齊了……

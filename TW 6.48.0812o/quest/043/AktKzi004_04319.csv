@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_AKTKZI004_04319_TODO_22",""
 47,"TEXT_AKTKZI004_04319_TODO_23",""
 48,"TEXT_AKTKZI004_04319_DICKON_000_000","喲，決定好要點什麼了嗎？"
-49,"TEXT_AKTKZI004_04319_DICKON_000_001","咦……這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？"
+49,"TEXT_AKTKZI004_04319_DICKON_000_001","咦……這不是<Highlight>ObjectParameter(1)</Highlight>嗎？"
 50,"TEXT_AKTKZI004_04319_DICKON_000_002","阿莉塞小姐似乎和富爾什諾閣下和解了啊。
 雖然她很忙，但還是擠出了時間，
 特地來向我進行了彙報。"
@@ -68,7 +68,7 @@ int32,str,str
 怎麼了？找我有事嗎？"
 55,"TEXT_AKTKZI004_04319_LALAFELLGENTLEMAN04319_000_021","哦，原來是送三明治的啊。
 謝謝，這家店的三明治真是絕了。
-我兒子也非常喜歡這裡的蝴蝶餅。"
+我兒子也非常喜歡這裡的卷餅。"
 56,"TEXT_AKTKZI004_04319_LALAFELLGENTLEMAN04319_000_022","我年輕時曾是薩雷安魔法大學的學生。
 跟同期的路易索瓦都以魔法學為目標，彼此意氣相投，
 相互激勵，共同鑽研。"
@@ -80,7 +80,7 @@ int32,str,str
 最終，他獲得了賢人的稱號。"
 59,"TEXT_AKTKZI004_04319_LALAFELLGENTLEMAN04319_000_025","雖然我覺得臉上有光，但身為父親，我也感到了憂慮。
 擔心他會不會跟路易索瓦一樣，
-為了艾奧傑亞拼上性命……"
+為了艾歐澤亞拼上性命……"
 60,"TEXT_AKTKZI004_04319_LALAFELLGENTLEMAN04319_000_026","但看到你之後我確信了。
 你們拂曉血盟是秉持著信念在前行，
 而我的孩子也是在堅持貫徹自己內心的真實想法。"
@@ -88,7 +88,7 @@ int32,str,str
 抱歉耽誤了你這麼長時間。"
 62,"TEXT_AKTKZI004_04319_LALAFELLGENTLEMAN04319_000_028","還有……
 感謝你陪我的孩子戰鬥到了最後一刻。"
-63,"TEXT_AKTKZI004_04319_DICKON_000_030","你回來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+63,"TEXT_AKTKZI004_04319_DICKON_000_030","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 和那位老爺爺交流過了麼？"
 64,"TEXT_AKTKZI004_04319_DICKON_000_031","老爺爺是背水咖啡廳的常客。
 聽說有拂曉血盟的人來到了這裡，

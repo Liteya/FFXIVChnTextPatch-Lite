@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNA319_01620_SEQ_00","莫古利之家的莫古唐想要對冒險者進行試煉。"
-1,"TEXT_HEAVNA319_01620_SEQ_01","接受莫古唐的考驗，去收集藥材。在翻雲霧海招惡荒島獲得3朵<Sheet(EventItem,2001581,0)/>。"
-2,"TEXT_HEAVNA319_01620_SEQ_02","獲得了3朵<Sheet(EventItem,2001581,0)/>。將<Sheet(EventItem,2001581,0)/>交給莫古利之家的莫古唐。"
+0,"TEXT_HEAVNA319_01620_SEQ_00","莫古力之家的莫古唐想要對冒險者進行試煉。"
+1,"TEXT_HEAVNA319_01620_SEQ_01","接受莫古唐的考驗，去收集藥材。在翻雲霧海招惡荒島獲取3朵<Sheet(EventItem,2001581,0)/>。"
+2,"TEXT_HEAVNA319_01620_SEQ_02","獲得了3朵<Sheet(EventItem,2001581,0)/>。將<Sheet(EventItem,2001581,0)/>交給莫古力之家的莫古唐。"
 3,"TEXT_HEAVNA319_01620_SEQ_03","將<Sheet(EventItem,2001581,0)/>交給了莫古唐。莫古唐似乎要用這種花製作絨絨止癢藥，只要塗一下這種藥，頭上的絨球就會變得清爽無比。"
 4,"TEXT_HEAVNA319_01620_SEQ_04",""
 5,"TEXT_HEAVNA319_01620_SEQ_05",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNA319_01620_SEQ_21",""
 22,"TEXT_HEAVNA319_01620_SEQ_22",""
 23,"TEXT_HEAVNA319_01620_SEQ_23",""
-24,"TEXT_HEAVNA319_01620_TODO_00","獲得<Sheet(EventItem,2001581,0)/>"
+24,"TEXT_HEAVNA319_01620_TODO_00","獲取<Sheet(EventItem,2001581,0)/>"
 25,"TEXT_HEAVNA319_01620_TODO_01","將<Sheet(EventItem,2001581,0)/>交給莫古唐"
 26,"TEXT_HEAVNA319_01620_TODO_02",""
 27,"TEXT_HEAVNA319_01620_TODO_03",""
@@ -71,4 +71,4 @@ int32,str,str
 56,"TEXT_HEAVNA319_01620_MOGHAN_000_012","如果你頭上的絨球也癢癢了，可以來找莫古庫啵！
 用了莫古調製的藥，保證你的絨球清爽無比庫啵！"
 57,"TEXT_HEAVNA319_01620_SYSTEM_000_900","完成了莫古靈的所有試煉！
-去向莫古利之家的莫古靈報告吧。"
+去向莫古力之家的莫古靈報告吧。"

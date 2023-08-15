@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKMA117_04373_SEQ_00","薰香丘陵的尼答娜正在觀望冒險者的情況。"
+0,"TEXT_AKTKMA117_04373_SEQ_00","熏香丘陵的尼答娜正在觀望冒險者的情況。"
 1,"TEXT_AKTKMA117_04373_SEQ_01",""
 2,"TEXT_AKTKMA117_04373_SEQ_02",""
 3,"TEXT_AKTKMA117_04373_SEQ_03",""
@@ -60,11 +60,11 @@ int32,str,str
 雖然不多，但我也給出一些報酬……
 能拜託你嗎？"
 52,"TEXT_AKTKMA117_04373_NIDHANA_000_004","太好了，真是幫大忙了！
-靈草就生長在卡嘉雅舞臺的附近。
+靈草就生長在卡嘉雅舞台的附近。
 先從山丘下去向東走吧！"
 53,"TEXT_AKTKMA117_04373_NIDHANA_000_010","我、我說……可能是我的錯覺，
 總覺得有人盯著我們……"
-54,"TEXT_AKTKMA117_04373_NIDHANA_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，小心！"
+54,"TEXT_AKTKMA117_04373_NIDHANA_000_011","<Highlight>ObjectParameter(1)</Highlight>，小心！"
 55,"TEXT_AKTKMA117_04373_BALLON_000_012","發現目標……"
 56,"TEXT_AKTKMA117_04373_BALLON_000_013","開始捕捉……"
 57,"TEXT_AKTKMA117_04373_NIDHANA_000_020","嚇、嚇死我了……
@@ -74,7 +74,7 @@ int32,str,str
 59,"TEXT_AKTKMA117_04373_NIDHANA_000_022","那就好！
 我們繼續走吧，
 順著路直走很快就到了。"
-60,"TEXT_AKTKMA117_04373_NIDHANA_000_030","到了，這前面就是卡嘉雅舞臺了！"
+60,"TEXT_AKTKMA117_04373_NIDHANA_000_030","到了，這前面就是卡嘉雅舞台了！"
 61,"TEXT_AKTKMA117_04373_NIDHANA_000_031","卡嘉雅是一名傳說級的舞者。
 她的傳人在這裡修行、向神獻舞。"
 62,"TEXT_AKTKMA117_04373_NIDHANA_000_032","這片聖地長有品質不錯的靈草，
@@ -82,13 +82,13 @@ int32,str,str
 這期間能拜託你在附近戒備嗎？"
 63,"TEXT_AKTKMA117_04373_NIDHANA_000_033","綁架人的傢伙應該不會出現了……
 不過還是以防萬一為好。
-我們走吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-64,"TEXT_AKTKMA117_04373_NIDHANA_000_040","我會儘快採集好的。
+我們走吧，<Highlight>ObjectParameter(1)</Highlight>！"
+64,"TEXT_AKTKMA117_04373_NIDHANA_000_040","我會盡快採集好的。
 這期間就拜託你戒備了！"
 65,"TEXT_AKTKMA117_04373_NIDHANA_000_050","謝謝你幫忙看著！
 多虧了你，我已經收集到了足夠多的靈草。"
-66,"TEXT_AKTKMA117_04373_NIDHANA_000_051","既然已經結束了，我們就直接回遺烈鄉吧！"
-67,"TEXT_AKTKMA117_04373_NIDHANA_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這次真是麻煩你了。
+66,"TEXT_AKTKMA117_04373_NIDHANA_000_051","既然已經完事了，我們就直接回遺烈鄉吧！"
+67,"TEXT_AKTKMA117_04373_NIDHANA_000_060","<Highlight>ObjectParameter(1)</Highlight>，這回真是麻煩你了。
 靈草補充完畢，
 距離護符完成就只差一步了，我得努力啦！"
 68,"TEXT_AKTKMA117_04373_NIDHANA_000_061","雖然不是很多，不過請你收下護衛的報酬吧！

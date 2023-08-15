@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_JOBMCH450_01701_TODO_21",""
 46,"TEXT_JOBMCH450_01701_TODO_22",""
 47,"TEXT_JOBMCH450_01701_TODO_23",""
-48,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_000","呀，你看起來狀態不錯嘛， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_000","呀，你看起來狀態不錯嘛，<Highlight>ObjectParameter(1)</Highlight>。
 我們準備開個作戰會議，主要想聊一下模擬戰的事，
 你也來參加吧。"
 49,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_001","人都到齊了，讓我們開始吧。
@@ -62,7 +62,7 @@ int32,str,str
 現在機工士並沒有受到多大的關注，
 為什麼提達爾格蘭什大人會將工房看做眼中釘呢？"
 52,"TEXT_JOBMCH450_01701_ROSTNSTHAL_000_004","槍械是只要扣下扳機就可以殺人的工具，
-所以在利姆薩．羅敏薩有著嚴格的持槍限制。"
+所以在利姆薩·羅敏薩有著嚴格的持槍限制。"
 53,"TEXT_JOBMCH450_01701_ROSTNSTHAL_000_005","在狹隘的階級社會，如果底層的平民拿到了槍，
 那槍口一定會對向貪戀手中權力的貴族。"
 54,"TEXT_JOBMCH450_01701_ROSTNSTHAL_000_006","現在貴族們過於輕視機工士，
@@ -73,18 +73,18 @@ int32,str,str
 讓有才能的平民們大展身手不都是為了皇都好……"
 56,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_008","為了讓世人明白這些，
 我們一定要贏得這場模擬戰！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、喬伊，拜託了！"
+<Highlight>ObjectParameter(1)</Highlight>、喬伊，拜託了！"
 57,"TEXT_JOBMCH450_01701_ROSTNSTHAL_000_009","你為模擬戰準備好對策了？"
 58,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_010","是的，我的測量器中跳出了好幾種作戰方案。
 雖然想立刻實際演習一下，但暴露給敵人知道就沒有意義了。
-只能儘量到遠離皇都的地方進行嘗試……"
+只能盡量到遠離皇都的地方進行嘗試……"
 59,"TEXT_JOBMCH450_01701_ROSTNSTHAL_000_011","那我們到東拉諾西亞的鮮血濱去吧。
 我去準備一塊可以肆意開火的場地。"
 60,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_012","喬伊，你在伯爵府的日常工作之餘順便做一下旅行的準備。"
 61,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_013","我專門為模擬戰開發了機工兵裝用的擴裝機能。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我希望先讓你試用一下，
+<Highlight>ObjectParameter(1)</Highlight>，我希望先讓你試用一下，
 請留下來讓我幫你調整一下機工兵裝。"
-62,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_020","對不起，改造機工兵裝是我為了單獨和你談談而找的藉口。
+62,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_020","對不起，改造機工兵裝是我為了單獨和你談談而找的借口。
 雖然我對父親說過平民拿上槍立刻就能擁有戰鬥力，
 但其實這句話只對了一半。"
 63,"TEXT_JOBMCH450_01701_STEPHANIVIEN_000_021","對手如果是巨大的龍族，確實是開槍就能命中。

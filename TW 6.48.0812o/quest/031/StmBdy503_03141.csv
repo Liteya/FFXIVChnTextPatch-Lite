@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDY503_03141_TODO_21",""
 46,"TEXT_STMBDY503_03141_TODO_22",""
 47,"TEXT_STMBDY503_03141_TODO_23",""
-48,"TEXT_STMBDY503_03141_KOZAKURA_000_000","這不是 <Highlight>ObjectParameter(1)</Highlight> 嗎！
+48,"TEXT_STMBDY503_03141_KOZAKURA_000_000","這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 讓你再次來訪這裡，真是不好意思……"
 49,"TEXT_STMBDY503_03141_KOZAKURA_000_001","謝謝你之前為我們的同胞返鄉提供幫助。"
 50,"TEXT_STMBDY503_03141_KOZAKURA_000_002","多虧了你，我們車前會有了足夠的人手，
@@ -65,7 +65,7 @@ int32,str,str
 56,"TEXT_STMBDY503_03141_A1_000_008","不用拘謹，說來聽聽！"
 57,"TEXT_STMBDY503_03141_A1_000_009","……報酬是什麼？"
 58,"TEXT_STMBDY503_03141_KOZAKURA_000_010","謝、謝謝你！
- <Highlight>ObjectParameter(1)</Highlight> 真是很可靠啊！"
+<Highlight>ObjectParameter(1)</Highlight>真是很可靠啊！"
 59,"TEXT_STMBDY503_03141_KOZAKURA_000_011","謹遵吩咐！！
 請讓我小櫻細緻地為你說明一遍！"
 60,"TEXT_STMBDY503_03141_KOZAKURA_000_012","當、當然了，絕對不讓你吃虧的！
@@ -93,7 +93,7 @@ int32,str,str
 困難雖多，但我們多瑪之民絕對不會放棄。"
 69,"TEXT_STMBDY503_03141_KOZAKURA_000_021","負責指揮的我們之所以會為自己取名車前會，
 正是為了取車前草……即使是被車輪碾壓，仍然會朝天舒展葉子——
-這種不屈不撓的精神與堅強作為寓意。"
+這種不屈不撓的精神與堅強作為喻義。"
 70,"TEXT_STMBDY503_03141_KOZAKURA_000_022","所以我們要堅韌不拔，茁壯成長！
 在建設多瑪飛地過程中，將困擾這個國家的問題，
 一個接一個地解決掉！"
@@ -105,10 +105,10 @@ int32,str,str
 跟那裡的名叫三葉的女性打聲招呼吧。"
 73,"TEXT_STMBDY503_03141_KOZAKURA_000_030","能麻煩你去飛地北側的廣場嗎？
 跟那裡的名叫三葉的女性打聲招呼吧。"
-74,"TEXT_STMBDY503_03141_MITSUBA_000_040","哎呀，這不是 <Highlight>ObjectParameter(1)</Highlight> 嗎。
+74,"TEXT_STMBDY503_03141_MITSUBA_000_040","哎呀，這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
 ……怎麼啦？是肚子餓了嗎？"
 75,"TEXT_STMBDY503_03141_KOZAKURA_000_041","你好，三葉。
-我委託了 <Highlight>ObjectParameter(1)</Highlight> 來協助此次的計劃。"
+我委託了<Highlight>ObjectParameter(1)</Highlight>來協助此次的計劃。"
 76,"TEXT_STMBDY503_03141_KOZAKURA_000_042","然後我想請你說明一下這個場所的情況……"
 77,"TEXT_STMBDY503_03141_MITSUBA_000_043","是這樣啊！
 那我可得負起責任說明一下。"
@@ -134,7 +134,7 @@ int32,str,str
 85,"TEXT_STMBDY503_03141_MITSUBA_000_051","不過現在還處於場所的準備階段。
 今後要幹的工作有很多，如果有了你的協助，那真是幫大忙了。"
 86,"TEXT_STMBDY503_03141_KOZAKURA_100_051","三葉，謝謝你的說明。"
-87,"TEXT_STMBDY503_03141_KOZAKURA_000_052","那麼實際要委託 <Highlight>ObjectParameter(1)</Highlight> 的內容，
+87,"TEXT_STMBDY503_03141_KOZAKURA_000_052","那麼實際要委託<Highlight>ObjectParameter(1)</Highlight>的內容，
 等回到車前會所再為你說明。"
 88,"TEXT_STMBDY503_03141_KOZAKURA_000_053","真的很抱歉讓你這麼跑來跑去的……
 我就先回去等著你了。"
@@ -148,7 +148,7 @@ int32,str,str
 92,"TEXT_STMBDY503_03141_KOZAKURA_000_082","資材、食材、衣服還有藥品……不管哪種都行，
 只要是你不再使用的物品，能不能出讓給我們呢？"
 93,"TEXT_STMBDY503_03141_KOZAKURA_000_083","當然，我們是不會讓你免費讓給我們的。
-我們會從日常的營運資金中抽出
+我們會從日常的運營資金中抽出
 與你出讓的物品相應的報酬的。"
 94,"TEXT_STMBDY503_03141_KOZAKURA_000_084","如果你願意幫忙的話，
 就把不再需要的物品放進我旁邊的<Sheet(EObj,2009567,0)/>。

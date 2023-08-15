@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_LUCKMD101_03606_SEQ_00","懸掛公館的管理員十分慌張。"
 1,"TEXT_LUCKMD101_03606_SEQ_01","從懸掛公館的管理員處得知，雷克蘭德遭到了食罪靈的襲擊。在水晶都露天席大廣場的<Sheet(EObj,2009895,0)/>張望。"
-2,"TEXT_LUCKMD101_03606_SEQ_02","在露天席大廣場和阿爾菲諾、阿莉塞會合了。操縱水晶都乙太之光廣場附近的<Sheet(EObj,2009896,0)/>。"
+2,"TEXT_LUCKMD101_03606_SEQ_02","在露天席大廣場和阿爾菲諾、阿莉塞匯合了。操縱水晶都乙太之光廣場附近的<Sheet(EObj,2009896,0)/>。"
 3,"TEXT_LUCKMD101_03606_SEQ_03","啟動了第1處控制裝置。操縱水晶都乙太之光廣場附近的第2處<Sheet(EObj,2009896,0)/>。"
 4,"TEXT_LUCKMD101_03606_SEQ_04","啟動了第2處控制裝置，展開了防衛壁。和乙太之光廣場附近的阿爾菲諾談談。"
 5,"TEXT_LUCKMD101_03606_SEQ_05","和阿爾菲諾等人一同加入了雷克蘭德防衛戰。返回奧斯塔爾嚴命城。"
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_LUCKMD101_03606_TODO_21",""
 46,"TEXT_LUCKMD101_03606_TODO_22",""
 47,"TEXT_LUCKMD101_03606_TODO_23",""
-48,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_000","啊、啊…… <Highlight>ObjectParameter(1)</Highlight> ！
+48,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_000","啊、啊……<Highlight>ObjectParameter(1)</Highlight>！
 你終於醒了！"
 49,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_001","現在事態緊急，
 大量的食罪靈突然出現在雷克蘭德，
@@ -59,15 +59,15 @@ int32,str,str
 所以，還請你保持冷靜！"
 51,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_003","……不用擔心你？
 謝謝，那能麻煩你幫個忙嗎？"
-52,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_004","我沒辦法離開這裡，
+52,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_004","我沒法離開這裡，
 所以想請你替我去露天席大廣場看看，
 幫幫受到驚嚇和遇到困難的人。"
 53,"TEXT_LUCKMD101_03606_GUIDEOFTHEPENDANTS_000_005","要是沒有問題的話那最好不過了。
 還請你……務必幫忙！"
 54,"TEXT_LUCKMD101_03606_SYSTEM_000_010","這裡沒有發生什麼大的騷動……"
-55,"TEXT_LUCKMD101_03606_ALISAIE_000_011","(-？？？？-)啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+55,"TEXT_LUCKMD101_03606_ALISAIE_000_011","(-？？？？-)啊，<Highlight>ObjectParameter(1)</Highlight>！"
 56,"TEXT_LUCKMD101_03606_ALISAIE_000_012","這到底是怎麼回事啊？！
-我剛騎著阿馬羅從安穆．艾蘭回來，
+我剛騎著阿馬羅從安穆·艾蘭回來，
 就看到食罪靈殺了過來！"
 57,"TEXT_LUCKMD101_03606_ALISAIE_000_013","雷克蘭德的光不是已經被驅散了嗎？！
 到底為什麼！"
@@ -89,9 +89,9 @@ int32,str,str
 65,"TEXT_LUCKMD101_03606_SYSTEM_000_030","成功啟動了裝置！"
 66,"TEXT_LUCKMD101_03606_ALISAIE_000_040","我想問你的事多到數不清，
 但現在還是先戰鬥吧！
-我們也得上了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+我們也得上了，<Highlight>ObjectParameter(1)</Highlight>！"
 67,"TEXT_LUCKMD101_03606_ALPHINAUD_000_050","快點準備戰鬥！
-先和衛兵團還有桑克瑞德會合，
+先和衛兵團還有桑克瑞德匯合，
 擊退襲擊雷克蘭德的食罪靈！"
 68,"TEXT_LUCKMD101_03606_ALISAIE_000_100","真討厭，天氣變糟了！"
 69,"TEXT_LUCKMD101_03606_ALPHINAUD_000_101","前方發生了戰鬥，
@@ -129,7 +129,7 @@ int32,str,str
 那是……在朝著瞭望塔前進？"
 92,"TEXT_LUCKMD101_03606_ALPHINAUD_BATTLETALK_000_040","我們也一邊幫助途中的衛兵們，一邊朝著瞭望塔走！"
 93,"TEXT_LUCKMD101_03606_ALISAIE_BATTLETALK_000_041","太慘烈了……
-于里昂熱他們沒事吧……"
+於里昂熱他們沒事吧……"
 94,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_050","來得正好！
 這傢伙我來擋著，你們掩護其他人！"
 95,"TEXT_LUCKMD101_03606_URIANGER_BATTLETALK_000_060","請去打倒和衛兵們交戰的食罪靈！"
@@ -137,7 +137,7 @@ int32,str,str
 97,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_080","我要用魔法先發制人將其擊倒！
 不要讓敵人干擾我詠唱！"
 98,"TEXT_LUCKMD101_03606_URIANGER_BATTLETALK_000_090","把其他的食罪靈也一起清理掉吧，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請把食罪靈都引到一起！"
+<Highlight>ObjectParameter(1)</Highlight>，請把食罪靈都引到一起！"
 99,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_100","讓你們見識一下……魔女瑪托雅的力量！"
 100,"TEXT_LUCKMD101_03606_URIANGER_BATTLETALK_000_110","不愧是魔女瑪托雅。
 這樣一來這裡的戰況也轉向優勢了……"
@@ -154,7 +154,7 @@ int32,str,str
 107,"TEXT_LUCKMD101_03606_SOLDIER_BATTLETALK_000_152","（★未使用／削除予定★）"
 108,"TEXT_LUCKMD101_03606_THANCRED_BATTLETALK_000_160","嘖……來不及了嗎……"
 109,"TEXT_LUCKMD101_03606_THANCRED_BATTLETALK_000_170","我去追那個大傢伙！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你們先去奧斯塔爾嚴命城！"
+<Highlight>ObjectParameter(1)</Highlight>，你們先去奧斯塔爾嚴命城！"
 110,"TEXT_LUCKMD101_03606_RYNE_BATTLETALK_000_180","桑克瑞德！我也和你一起！"
 111,"TEXT_LUCKMD101_03606_ALPHINAUD_BATTLETALK_000_181","我們直走，
 小心點……前面是戰鬥最激烈的區域了！"
@@ -166,14 +166,14 @@ int32,str,str
 大家都小心一點！"
 115,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_202","它好像呼喚了同伴。
 而且好像還使用了防衛類的魔法……"
-116,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_203"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，先打倒隨從！"
+116,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_203","<Highlight>ObjectParameter(1)</Highlight>，先打倒隨從！"
 117,"TEXT_LUCKMD101_03606_ALPHINAUD_BATTLETALK_000_210","那傢伙正在積蓄魔力？！
 糟了，大家快集中！"
 118,"TEXT_LUCKMD101_03606_YSHTOLA_BATTLETALK_000_211","（★未使用／削除予定★）"
-119,"TEXT_LUCKMD101_03606_ALPHINAUD_BATTLETALK_000_212","以萊維耶勒爾之名——戰藝！"
+119,"TEXT_LUCKMD101_03606_ALPHINAUD_BATTLETALK_000_212","以萊韋耶勒爾之名——戰藝！"
 120,"TEXT_LUCKMD101_03606_ALISAIE_BATTLETALK_000_220","增援？！
 這個數量可難辦了啊……"
-121,"TEXT_LUCKMD101_03606_ALISAIE_BATTLETALK_000_221"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩你爭取點時間。
+121,"TEXT_LUCKMD101_03606_ALISAIE_BATTLETALK_000_221","<Highlight>ObjectParameter(1)</Highlight>，麻煩你爭取點時間。
 其他人請把力量借給我！"
 122,"TEXT_LUCKMD101_03606_ALPHINAUD_BATTLETALK_000_230","是那個招式嗎？！
 好，大家，把乙太傳給阿莉塞！"

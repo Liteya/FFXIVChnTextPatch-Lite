@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CHRHDY151_04653_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊規則：  職業固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-鍊金術製藥堂的曼德維爾家的工匠已經準備好了製作的事宜。"
+煉金術製藥堂的曼德維爾家的工匠已經準備好了製作的事宜。"
 1,"TEXT_CHRHDY151_04653_SEQ_01","※本任務為<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 職業固定任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
@@ -89,7 +89,7 @@ int32,str,str
 65,"TEXT_CHRHDY151_04653_GEROLT_000_014","<Sheet(Item,IntegerParameter(1),0)/>！"
 66,"TEXT_CHRHDY151_04653_CRAFTER04653_000_015","不愧是最厲害的武器工匠。
 多麼完美的品質！
-只靠我可沒辦法達到這種完成度！"
+只靠我可沒法達到這種完成度！"
 67,"TEXT_CHRHDY151_04653_GEROLT_000_016","哈哈哈，對本大爺來說，這種程度不過是小菜一碟！"
 68,"TEXT_CHRHDY151_04653_CRAFTER04653_000_017","如果您還想製作其他曼德維爾武器，
 只要準備好<Sheet(Item,38420,0)/>，

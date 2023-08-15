@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_LUCKMA303_03293_CASSARD_000_001","好了……吃也吃飽了，
 也該帶你去你的目的地了……"
 50,"TEXT_LUCKMA303_03293_CASSARD_000_002","抱歉，去之前能再給我點時間嗎？
-我有幾筆交易必須得趕緊在這鼴靈市集做完。"
+我有幾筆交易必須得趕緊在這鼴靈集市做完。"
 51,"TEXT_LUCKMA303_03293_CASSARD_000_003","哦，你要來幫忙麼？
 謝啦，那看來可以快點弄完了！"
 52,"TEXT_LUCKMA303_03293_CASSARD_000_004","我給你寫個清單，
@@ -65,8 +65,8 @@ int32,str,str
 待會見！"
 54,"TEXT_LUCKMA303_03293_SYSTEM_000_006","在任務進行中，可以隨時查看任務道具<Sheet(EventItem,2002717,0)/>。
 根據清單取貨吧！"
-55,"TEXT_LUCKMA303_03293_MEMO03293_000_010","(-卡薩德的清單-)委託特翁通的食用仙人掌，
-委託特沃妥的鐵礦石。"
+55,"TEXT_LUCKMA303_03293_MEMO03293_000_010","(-卡薩德的清單-)委託忒翁通的食用仙人掌，
+委託忒沃妥的鐵礦石。"
 56,"TEXT_LUCKMA303_03293_MEMO03293_000_011","(-卡薩德的清單-)委託莫伊米準備了拿巴示艾蘭的古董。
 不過要去穆歐牟那裡取貨。"
 57,"TEXT_LUCKMA303_03293_THONTON_000_015","工作、工作、十分順利～"
@@ -81,7 +81,7 @@ int32,str,str
 不過要是給錢的話倒是也能賣……"
 63,"TEXT_LUCKMA303_03293_MHILMIL_000_033","你是給卡薩德跑腿的人啊？！
 他要的拿巴示艾蘭的古董已經交給穆歐牟了！"
-64,"TEXT_LUCKMA303_03293_LATGAR_000_034","欸……你是和卡薩德一起來的吧？
+64,"TEXT_LUCKMA303_03293_LATGAR_000_034","誒……你是和卡薩德一起來的吧？
 他沒讓我給他進貨啊。"
 65,"TEXT_LUCKMA303_03293_THONTON_000_035","啊，你是卡薩德的同伴啊？
 等好久了，那就是食用仙人掌，
@@ -117,21 +117,21 @@ int32,str,str
 83,"TEXT_LUCKMA303_03293_CASSARD_000_054","接下來我得去找仲裁的商人
 問很多事情。
 你得在這等我一會……"
-84,"TEXT_LUCKMA303_03293_TESLEEN_000_055","(-？？？？-)欸？卡薩德先生？
+84,"TEXT_LUCKMA303_03293_TESLEEN_000_055","(-？？？？-)誒？卡薩德先生？
 好久不見了！"
 85,"TEXT_LUCKMA303_03293_CASSARD_000_056","哦，泰絲琳？！
 你來得正好！"
 86,"TEXT_LUCKMA303_03293_CASSARD_000_057","這傢伙要去見住在你那邊的阿莉塞，
 我想帶<If(PlayerParameter(4))>她<Else/>他</If>過去，但是現在沒空啊。"
-87,"TEXT_LUCKMA303_03293_TESLEEN_000_058","……你該不會是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？"
+87,"TEXT_LUCKMA303_03293_TESLEEN_000_058","……你該不會是<Highlight>ObjectParameter(1)</Highlight>？"
 88,"TEXT_LUCKMA303_03293_TESLEEN_000_059","你就是那個非常非常厲害的遍覽世界的旅行者、
 人見人愛花見花開的、
-那個 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！"
+那個<Highlight>ObjectParameter(1)</Highlight>？！"
 89,"TEXT_LUCKMA303_03293_TESLEEN_000_060","是真的！
 我從阿莉塞那裡聽說了好多你的事！
 真沒想到能見到本人！"
 90,"TEXT_LUCKMA303_03293_TESLEEN_000_061","我是泰絲琳。
-是僱了阿莉塞當保鏢的
+是雇了阿莉塞當保鏢的
 上路客店的看護人！"
 91,"TEXT_LUCKMA303_03293_TESLEEN_000_062","可以的話換我來帶<If(PlayerParameter(4))>她<Else/>他</If>過去吧？
 正好我也買完東西了……"

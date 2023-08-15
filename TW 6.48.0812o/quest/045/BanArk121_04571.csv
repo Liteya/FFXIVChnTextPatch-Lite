@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANARK121_04571_SEQ_22",""
 23,"TEXT_BANARK121_04571_SEQ_23",""
 24,"TEXT_BANARK121_04571_TODO_00","對眾僧林園的<Sheet(EObj,2012895,0)/>使用<Sheet(EventItem,2003407,0)/>"
-25,"TEXT_BANARK121_04571_TODO_01","獲得<Sheet(EventItem,2003408,0)/>"
+25,"TEXT_BANARK121_04571_TODO_01","獲取<Sheet(EventItem,2003408,0)/>"
 26,"TEXT_BANARK121_04571_TODO_02","將<Sheet(EventItem,2003408,0)/>交給摩羅盧"
 27,"TEXT_BANARK121_04571_TODO_03",""
 28,"TEXT_BANARK121_04571_TODO_04",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANARK121_04571_TODO_21",""
 46,"TEXT_BANARK121_04571_TODO_22",""
 47,"TEXT_BANARK121_04571_TODO_23",""
-48,"TEXT_BANARK121_04571_MARU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請聽我說……
+48,"TEXT_BANARK121_04571_MARU_000_000","<Highlight>ObjectParameter(1)</Highlight>，請聽我說……
 我有份工作想要委託你，不過有點危險。"
 49,"TEXT_BANARK121_04571_MARU_000_001","我聽勘恰娜說過，
 你作為冒險者接手過各類大大小小的工作……
@@ -65,7 +65,7 @@ int32,str,str
 將泥岩打碎溶於水中，就會化作十分細膩的泥，
 可以當作天然的防曬霜使用……"
 53,"TEXT_BANARK121_04571_MARU_000_012","河馬的皮膚其實是很敏感的，
-如果不注意保溼的話，很容易開裂受傷。
+如果不注意保濕的話，很容易開裂受傷。
 所以我才委託了你這份工作……"
 54,"TEXT_BANARK121_04571_MARU_000_013","那我這就和同伴們開始著手製作防曬霜吧。
 這是謝禮，請收下。"

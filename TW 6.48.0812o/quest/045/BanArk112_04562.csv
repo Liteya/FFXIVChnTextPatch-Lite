@@ -52,25 +52,25 @@ int32,str,str
 45,"TEXT_BANARK112_04562_TODO_21",""
 46,"TEXT_BANARK112_04562_TODO_22",""
 47,"TEXT_BANARK112_04562_TODO_23",""
-48,"TEXT_BANARK112_04562_MARU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我這邊有點人手不足，
+48,"TEXT_BANARK112_04562_MARU_000_001","<Highlight>ObjectParameter(1)</Highlight>，我這邊有點人手不足，
 所以我想請你幫個忙……"
 49,"TEXT_BANARK112_04562_MARU_000_002","做菜的時候，像動物的骨頭……
-還有蔬菜的根葉之類的部分不是沒辦法食用嗎？
+還有蔬菜的根葉之類的部分不是沒法食用嗎？
 我原本以為這些只能扔掉，沒想到有人願意要。"
 50,"TEXT_BANARK112_04562_MARU_000_003","我這裡有一些從廚房收集的<Sheet(EventItem,2003419,0)/>。
-請把這些送到戴米爾遺烈鄉的熱心的鍊金術士和
+請把這些送到代米爾遺烈鄉的熱心的煉金術士和
 波洛伽護法村的年輕的桓娑鳥飼養員手中……"
-51,"TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_010","哎呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎！
+51,"TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_010","哎呀，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 正好……咦，你已經把東西帶來了嗎？"
 52,"TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_011","真是太感謝了！
 骨頭和根莖中含有許多有用的成分。
-作為鍊金藥的素材可是有著很大的用處！"
+作為煉金藥的素材可是有著很大的用處！"
 53,"TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_012","話說你最近身體有什麼變化嗎？
 比如受了什麼奇怪的傷，或者脊椎伸縮不自然之類的？
 亦或是晚上睡不著，總是容易餓，還有掉頭髮什麼的……"
 54,"TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_013","哎呀，不好意思！！
 咳，原本想著你要是有什麼問題的話能不能試試我的藥……
-但一直把你留在這裡也不太適合啊，以後有機會再說吧！"
+但一直把你留在這裡也不太合適啊，以後有機會再說吧！"
 55,"TEXT_BANARK112_04562_YOUNGHANSAKEEPER04562_000_014","是河馬騎手團的人嗎？辛苦了！"
 56,"TEXT_BANARK112_04562_YOUNGHANSAKEEPER04562_000_015","你們總是能分給我一些廢棄食材，真是幫大忙了。
 畢竟水果蔬菜的廚餘部分是家畜們很好的飼料。"

@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_LUCKZE008_03442_SEQ_23",""
 24,"TEXT_LUCKZE008_03442_TODO_00","和溫和的武器工匠對話並用吹箭射擊牙齒結實的豚豬"
 25,"TEXT_LUCKZE008_03442_TODO_01","和溫和的武器工匠對話"
-26,"TEXT_LUCKZE008_03442_TODO_02","調查<Sheet(EObj,2010621,0)/>並獲得<Sheet(EventItem,2002567,0)/>"
+26,"TEXT_LUCKZE008_03442_TODO_02","調查<Sheet(EObj,2010621,0)/>並獲取<Sheet(EventItem,2002567,0)/>"
 27,"TEXT_LUCKZE008_03442_TODO_03","向蛇行枝的溫和的武器工匠報告"
 28,"TEXT_LUCKZE008_03442_TODO_04",""
 29,"TEXT_LUCKZE008_03442_TODO_05",""
@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_LUCKZE008_03442_TODO_21",""
 46,"TEXT_LUCKZE008_03442_TODO_22",""
 47,"TEXT_LUCKZE008_03442_TODO_23",""
-48,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_001","你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+48,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_001","你是<Highlight>ObjectParameter(1)</Highlight>吧？
 我從瑪托雅大人那裡聽說你的事了。
 是這樣的，我有事想拜託你……"
 49,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_002","我負責製作供這個集落使用的長槍。
@@ -60,7 +60,7 @@ int32,str,str
 你很擅長用吹箭吧！
 請務必使用那種獨特的技術幫我收集素材！"
 51,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_006","獵物就在蛇水湖邊出沒。
-一會兒我們到現場會合吧！"
+一會兒我們到現場匯合吧！"
 52,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_010","你來了啊。
 快爬到樹上用枝葉隱蔽起來，
 埋伏獵物吧。"
@@ -72,13 +72,13 @@ int32,str,str
 看來是真的啊！"
 55,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_100_011","接下來就請你去查看一下射中的豚豬，
 拿到<Sheet(EventItem,2002567,0)/>吧。
-我去收集其他素材，之後我們在蛇行枝會合吧！"
+我去收集其他素材，之後我們在蛇行枝匯合吧！"
 56,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_100_020","平安拿到<Sheet(EventItem,2002567,0)/>了嗎？"
 57,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_020","哇，這牙可真厲害！
 加工一下除了能做成槍頭，也能做成小型匕首吧。"
 58,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_021","說起來，你應該在想，
 明明殺掉獵物就能輕鬆獲得素材吧。"
-59,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_022","因為光之氾濫，如今世界消失了大半，
+59,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_022","因為光之泛濫，如今世界消失了大半，
 野獸的數量也不得不重視起來……"
 60,"TEXT_LUCKZE008_03442_GENTLECRAFTSMAN03442_000_023","豚豬現在正處在繁殖期。
 現在如果殺死它，那它們的個體數量也會銳減。

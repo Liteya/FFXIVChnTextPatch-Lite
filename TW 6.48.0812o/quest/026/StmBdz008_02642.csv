@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_STMBDZ008_02642_TODO_23",""
 48,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_000","抱歉，能幫我個忙嗎？
 有個新兵跑去定期巡邏之後
-就失去聯繫了。"
+就失去聯絡了。"
 49,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_001","根據計劃，他要去東南方向的流星尾巡邏一圈
 然後就回來的……
 請你和我一起去救他。"
@@ -74,12 +74,12 @@ int32,str,str
 56,"TEXT_STMBDZ008_02642_SYSTEM_000_016","<Sheet(EventItem,2002184,0)/>落入了洞穴中。再次和老練的士官對話。"
 57,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_017","你已經撒好<Sheet(EventItem,2002184,0)/>了啊。"
 58,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_018","接下來要從在懸崖上撒了<Sheet(EventItem,2002184,0)/>的地方跳下去！
-透過落地時的衝擊讓<Sheet(EventItem,2002184,0)/>爆炸，
+通過落地時的衝擊讓<Sheet(EventItem,2002184,0)/>爆炸，
 好把<Sheet(BNpcName,5868,0)/>給引出來！"
 59,"TEXT_STMBDZ008_02642_SYSTEM_100_018","在未騎乘坐騎的狀態下，從懸崖上向著標記處跳下去，
 讓<Sheet(EventItem,2002184,0)/>爆炸。"
 60,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_019","接下來要從在懸崖上撒了<Sheet(EventItem,2002184,0)/>的地方跳下去！
-透過落地時的衝擊讓<Sheet(EventItem,2002184,0)/>爆炸，
+通過落地時的衝擊讓<Sheet(EventItem,2002184,0)/>爆炸，
 好把<Sheet(BNpcName,5868,0)/>給引出來！"
 61,"TEXT_STMBDZ008_02642_SYSTEM_100_019","在未騎乘坐騎的狀態下，從懸崖上向著標記處跳下去，
 讓<Sheet(EventItem,2002184,0)/>爆炸。"
@@ -98,7 +98,7 @@ int32,str,str
 67,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_040","多虧了你，新兵才能安全回來，
 而且還防止了機密情報外洩。
 能夠答應這突如其來的援助請求真是謝謝你了。"
-68,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_041","其實我就出身於這邊的東境混和林。
+68,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_041","其實我就出身於這邊的東境混交林。
 用<Sheet(EventItem,2002184,0)/>引出怪物的方法，
 還是我二十年前做獵人的時候學會的。"
 69,"TEXT_STMBDZ008_02642_OLDSOLDIER02642_000_042","那傢伙在當地可是十分有名的魔物，

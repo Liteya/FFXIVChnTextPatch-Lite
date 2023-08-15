@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ714_02817_SEQ_21",""
 22,"TEXT_STMBDZ714_02817_SEQ_22",""
 23,"TEXT_STMBDZ714_02817_SEQ_23",""
-24,"TEXT_STMBDZ714_02817_TODO_00","獲得<Sheet(EventItem,2002344,0)/>"
+24,"TEXT_STMBDZ714_02817_TODO_00","獲取<Sheet(EventItem,2002344,0)/>"
 25,"TEXT_STMBDZ714_02817_TODO_01","將<Sheet(EventItem,2002344,0)/>交給伽利摩"
 26,"TEXT_STMBDZ714_02817_TODO_02",""
 27,"TEXT_STMBDZ714_02817_TODO_03",""
@@ -55,7 +55,7 @@ int32,str,str
 可伽黎亞派的傢伙不知適量摘取，
 使得巢穴附近根本摘取不到<Sheet(EventItem,2002344,0)/>了。"
 50,"TEXT_STMBDZ714_02817_GARIMA_000_002","據說威羅迪納河的西岸生長著<Sheet(EventItem,2002344,0)/>，
-不過，為保護領地而戰的我們去入侵人類的領地總覺得不太適合。
+不過，為保護領地而戰的我們去入侵人類的領地總覺得不太合適。
 所以，我想讓身為人類的你幫我去摘一些回來。"
 51,"TEXT_STMBDZ714_02817_GARIMA_000_003","身為人類的你，可能會覺得，
 花而已，等它再次盛開不就好了。

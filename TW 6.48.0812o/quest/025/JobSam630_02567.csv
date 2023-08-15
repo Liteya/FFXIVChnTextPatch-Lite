@@ -51,14 +51,14 @@ int32,str,str
 45,"TEXT_JOBSAM630_02567_TODO_21",""
 46,"TEXT_JOBSAM630_02567_TODO_22",""
 47,"TEXT_JOBSAM630_02567_TODO_23",""
-48,"TEXT_JOBSAM630_02567_MOMOZIGO_000_000","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_JOBSAM630_02567_MOMOZIGO_000_000","喲，<Highlight>ObjectParameter(1)</Highlight>！
 流沙屋收到了一封給你的信。
 是上次來拜訪老爺子的那名女武士寄來的。"
 49,"TEXT_JOBSAM630_02567_MOMOZIGO_000_001","你和她明明只有一面之緣，她卻專程寄信過來……
 究竟是有什麼事找你呢？
 總之你快拆開看看吧。"
-50,"TEXT_JOBSAM630_02567_MAKOTO_000_002","(-真琴的信-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下敬啟。
-感謝閣下先前在艾奧傑亞的無私幫助。
+50,"TEXT_JOBSAM630_02567_MAKOTO_000_002","(-真琴的信-)<Highlight>ObjectParameter(1)</Highlight>閣下敬啟。
+感謝閣下先前在艾歐澤亞的無私幫助。
 我現已順利回到黃金港，提筆寫下此信，實乃有一事相求。"
 51,"TEXT_JOBSAM630_02567_MAKOTO_000_003","(-真琴的信-)此前曾向閣下提及的雨月一派，
 其勢力現正以遠超我們想像的速度飛速擴張。"
@@ -67,7 +67,7 @@ int32,str,str
 可以說是正被神出鬼沒的雨月一派玩弄於股掌之中。"
 53,"TEXT_JOBSAM630_02567_MAKOTO_000_005","(-真琴的信-)為此，我希望能得到身負無雙齋大人真傳的你的幫助。"
 54,"TEXT_JOBSAM630_02567_MAKOTO_000_006","(-真琴的信-)也許這對你來說是發生在異國他鄉的不關己之事。
-但如果幕府倒臺，我國定會再次陷入戰亂之中，
+但如果幕府倒台，我國定會再次陷入戰亂之中，
 這戰亂會波及數之不盡的無辜百姓。"
 55,"TEXT_JOBSAM630_02567_MAKOTO_000_007","(-真琴的信-)為了維護太平之世，我摒棄羞愧之情，書此信以求閣下的支援。
 如果閣下有意助我赤誠組一臂之力，還請移步黃金港。
@@ -90,7 +90,7 @@ int32,str,str
 能請你去酒杯島看看情況嗎？"
 63,"TEXT_JOBSAM630_02567_POPMESSAGE_100_028","敵人發起了攻擊！"
 64,"TEXT_JOBSAM630_02567_BALLOON_100_029","是敵人的增援！殺！"
-65,"TEXT_JOBSAM630_02567_MAKOTO_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+65,"TEXT_JOBSAM630_02567_MAKOTO_000_030","<Highlight>ObjectParameter(1)</Highlight>閣下。
 感謝你前來相助。"
 66,"TEXT_JOBSAM630_02567_MAKOTO_000_031","我們得到消息稱雨月一派會在這裡密談，
 所以決定先過來埋伏好刺探情報……"
@@ -109,7 +109,7 @@ int32,str,str
 72,"TEXT_JOBSAM630_02567_MAKOTO_000_037","而另一邊，雨月的思想卻傾向了偏激的方向。
 他認為想要改變這個國家，就只有推翻幕府這一條路可走。"
 73,"TEXT_JOBSAM630_02567_MAKOTO_000_038","我國確實有著各種各樣的問題。
-但如果幕府倒臺的話，各地的大名為了一爭天下，
+但如果幕府倒台的話，各地的大名為了一爭天下，
 肯定會再次燃起戰火，讓遠東之國倒退回戰爭年代。"
 74,"TEXT_JOBSAM630_02567_MAKOTO_000_039","所以為了維護和平，我們一定要阻止雨月的野心……
 好了，帶上同伴的遺體，我們回赤誠組營房去吧。"
@@ -120,13 +120,13 @@ int32,str,str
 77,"TEXT_JOBSAM630_02567_SHIDEN_000_051","事情我都聽她說了，
 沒想到你居然是那位劍豪無雙齋最後的弟子。
 如果你願意助我們一臂之力的話，我們當然歡迎之至。"
-78,"TEXT_JOBSAM630_02567_MAKOTO_000_052"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請容我正式確認一下你的意願。"
+78,"TEXT_JOBSAM630_02567_MAKOTO_000_052","<Highlight>ObjectParameter(1)</Highlight>閣下，請容我正式確認一下你的意願。"
 79,"TEXT_JOBSAM630_02567_MAKOTO_000_053","你不遠萬里來到黃金港，
 是為了助我們赤誠組一臂之力嗎？"
 80,"TEXT_JOBSAM630_02567_Q1_000_054","要助赤誠組一臂之力嗎？"
 81,"TEXT_JOBSAM630_02567_A1_000_055","（★未使用／削除予定★）"
 82,"TEXT_JOBSAM630_02567_A2_000_056","（★未使用／削除予定★）"
-83,"TEXT_JOBSAM630_02567_MAKOTO_000_057","非常感謝， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+83,"TEXT_JOBSAM630_02567_MAKOTO_000_057","非常感謝，<Highlight>ObjectParameter(1)</Highlight>閣下。
 無雙齋大人的弟子成了我們的同伴……
 真是沒有比這更振奮人心的消息了。"
 84,"TEXT_JOBSAM630_02567_MAKOTO_000_058","……這樣啊，非常遺憾。
@@ -134,7 +134,7 @@ int32,str,str
 我們會一直在這裡等你……"
 85,"TEXT_JOBSAM630_02567_MAKOTO_000_059","我想要將你介紹給赤誠組的局長認識，
 不過在那之前我有一個請求。"
-86,"TEXT_JOBSAM630_02567_MAKOTO_000_060","我希望 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下能隱瞞自己無雙齋弟子的身份。"
+86,"TEXT_JOBSAM630_02567_MAKOTO_000_060","我希望<Highlight>ObjectParameter(1)</Highlight>閣下能隱瞞自己無雙齋弟子的身份。"
 87,"TEXT_JOBSAM630_02567_MAKOTO_000_061","也許對你來說這很不可理喻，但在這遠東之國，
 人們普遍認為調教出大罪人雨月的無雙齋大人也不是善類。
 隱瞞身份能讓閣下免受一些不必要的懷疑。"
@@ -146,13 +146,13 @@ int32,str,str
 90,"TEXT_JOBSAM630_02567_SHIDEN_000_064","先前也是為了迎接大人物，導致我不能離開這裡半步，
 剛好你來了，我才拜託你去紅玉海幫忙……
 現在就讓我將組裡最頑固最不知變通的金剛局長叫來吧。"
-91,"TEXT_JOBSAM630_02567_MAKOTO_000_065","這位 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下願意成為我們赤誠組的同伴。
-<If(PlayerParameter(4))>她<Else/>他</If>是來自艾奧傑亞的武士，劍術非常高超。"
+91,"TEXT_JOBSAM630_02567_MAKOTO_000_065","這位<Highlight>ObjectParameter(1)</Highlight>閣下願意成為我們赤誠組的同伴。
+<If(PlayerParameter(4))>她<Else/>他</If>是來自艾歐澤亞的武士，劍術非常高超。"
 92,"TEXT_JOBSAM630_02567_MAKOTO_000_066","局、局長！
 你做什麼？！"
 93,"TEXT_JOBSAM630_02567_KONGO_000_067","一個外國人哪裡能信？
 你怎麼知道<If(PlayerParameter(4))>她<Else/>他</If>不是雨月一派甚至是帝國的奸細？！"
-94,"TEXT_JOBSAM630_02567_MAKOTO_000_068"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下不是那樣的人！
+94,"TEXT_JOBSAM630_02567_MAKOTO_000_068","<Highlight>ObjectParameter(1)</Highlight>閣下不是那樣的人！
 我可以保證<If(PlayerParameter(4))>她<Else/>他</If>的來歷清白！"
 95,"TEXT_JOBSAM630_02567_SHIDEN_000_069","別這樣別這樣，是哪裡人又有什麼關係。
 我們不也都是從農民、商人家裡出來的，沒有人正經來自武家門第。
@@ -164,7 +164,7 @@ int32,str,str
 局長他心裡也是怒火沖天……"
 98,"TEXT_JOBSAM630_02567_SHIDEN_000_072","我們現在連雨月一派的全貌都未能探清，
 也完全不知道雨月究竟潛伏在哪裡。"
-99,"TEXT_JOBSAM630_02567_SHIDEN_000_073","而且從這回事件來看，我們的情報一定是被洩露了出去。
+99,"TEXT_JOBSAM630_02567_SHIDEN_000_073","而且從這次事件來看，我們的情報肯定是被洩露了出去。
 也許赤誠組內部有敵人的間諜……"
 100,"TEXT_JOBSAM630_02567_SHIDEN_000_074","在這樣嚴峻的形勢下，
 幕府官拜大老的重臣又準備來黃金港訪問異國大使館……"

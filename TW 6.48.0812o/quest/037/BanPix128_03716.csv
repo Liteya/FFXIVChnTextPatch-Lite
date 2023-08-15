@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANPIX128_03716_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-群花館的烏因．尼伊想要試試新藥的效果。"
+群花館的烏因·尼伊想要試試新藥的效果。"
 1,"TEXT_BANPIX128_03716_SEQ_01",""
 2,"TEXT_BANPIX128_03716_SEQ_02",""
 3,"TEXT_BANPIX128_03716_SEQ_03",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANPIX128_03716_SEQ_22",""
 23,"TEXT_BANPIX128_03716_SEQ_23",""
 24,"TEXT_BANPIX128_03716_TODO_00","對普拉恩尼茸洞的睡眼惺忪的恩莫使用<Sheet(EventItem,2002943,0)/>"
-25,"TEXT_BANPIX128_03716_TODO_01","向烏因．尼伊報告"
+25,"TEXT_BANPIX128_03716_TODO_01","向烏因·尼伊報告"
 26,"TEXT_BANPIX128_03716_TODO_02",""
 27,"TEXT_BANPIX128_03716_TODO_03",""
 28,"TEXT_BANPIX128_03716_TODO_04",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANPIX128_03716_TODO_21",""
 46,"TEXT_BANPIX128_03716_TODO_22",""
 47,"TEXT_BANPIX128_03716_TODO_23",""
-48,"TEXT_BANPIX128_03716_UINNEE_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_BANPIX128_03716_UINNEE_000_001","<Highlight>ObjectParameter(1)</Highlight>，<Highlight>ObjectParameter(1)</Highlight>！
 你能不能幫我個忙呢？"
 49,"TEXT_BANPIX128_03716_UINNEE_000_002","前幾天，我進入了一個為單相思苦惱的孩子的夢裡，
 看著那孩子，連我也跟著難受了起來……
@@ -63,11 +63,11 @@ int32,str,str
 51,"TEXT_BANPIX128_03716_UINNEE_000_004","所以，你能不能對普拉恩尼茸洞的睡眼惺忪的恩莫
 用一下這個<Sheet(EventItem,2002943,0)/>呢？
 我去的話，會被他提防的。拜託你了！"
-52,"TEXT_BANPIX128_03716_NUMOU03716_000_010","……唔……睏……
+52,"TEXT_BANPIX128_03716_NUMOU03716_000_010","……唔……困……
 有什麼東西……"
 53,"TEXT_BANPIX128_03716_NUMOU03716_000_011","哇哦哦！"
 54,"TEXT_BANPIX128_03716_NUMOU03716_000_012","這不是讓前任緹坦妮雅大人得到解脫的英雄，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 本人嘛！"
+<Highlight>ObjectParameter(1)</Highlight>本人嘛！"
 55,"TEXT_BANPIX128_03716_NUMOU03716_000_013","再、再次得以拜見，這、這是何等充滿了魅力的……
 完美的容貌啊……
 哈……讓我無法移開目光……啵。"
@@ -90,7 +90,7 @@ int32,str,str
 信的內容我就替他保密吧，不然的話他太可憐了。
 ……噗噗噗！"
 63,"TEXT_BANPIX128_03716_UINNEE_000_024","你不用擔心，藥效應該不會很長，
-下次再見面的時候，他應該早就忘得一乾二淨了。
+下次再見面的時候，他估計早就忘得一乾二淨了。
 謝謝你的幫助，下次也要拜託你了哦！"
 64,"TEXT_BANPIX128_03716_UINNEE_000_025","哎呀，居然是那種反應啊……
 我沒談過戀愛，所以有點搞錯了呢。

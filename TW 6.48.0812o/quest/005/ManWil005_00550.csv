@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_MANWIL005_00550_TODO_21",""
 46,"TEXT_MANWIL005_00550_TODO_22",""
 47,"TEXT_MANWIL005_00550_TODO_23",""
-48,"TEXT_MANWIL005_00550_PAPASHAN_000"," <Highlight>ObjectParameter(1)</Highlight> 閣下！
+48,"TEXT_MANWIL005_00550_PAPASHAN_000","<Highlight>ObjectParameter(1)</Highlight>閣下！
 你是一位值得信賴的冒險者，
 我有件事想要拜託給你！"
 49,"TEXT_MANWIL005_00550_PAPASHAN_001","情況緊急！
@@ -64,12 +64,12 @@ int32,str,str
 不對，我這烏鴉嘴！連萬一都不能有！"
 54,"TEXT_MANWIL005_00550_PAPASHAN_006","我已經委託好幾個冒險者去進行尋找了，
 可是根本沒辦法靜下心來等消息……"
-55,"TEXT_MANWIL005_00550_PAPASHAN_007"," <Highlight>ObjectParameter(1)</Highlight> 閣下！
+55,"TEXT_MANWIL005_00550_PAPASHAN_007","<Highlight>ObjectParameter(1)</Highlight>閣下！
 你能協助我們來尋找莉莉菈小姐嗎？"
 56,"TEXT_MANWIL005_00550_PAPASHAN_008","太好了，感激不盡！
 請你務必不惜一切代價，找到莉莉菈小姐！"
 57,"TEXT_MANWIL005_00550_PAPASHAN_009","位於這裡東南方向的大霸王樹那邊還沒有人去。"
-58,"TEXT_MANWIL005_00550_PAPASHAN_010"," <Highlight>ObjectParameter(1)</Highlight> 閣下！
+58,"TEXT_MANWIL005_00550_PAPASHAN_010","<Highlight>ObjectParameter(1)</Highlight>閣下！
 還請你以那附近為中心進行尋找！"
 59,"TEXT_MANWIL005_00550_LILILA_000_15","(-穿袍子的少女-)……薩薩加恩大人……"
 60,"TEXT_MANWIL005_00550_000010_LILILA","(-穿袍子的少女-)薩薩加恩大人，請恕我無能……
@@ -80,7 +80,7 @@ int32,str,str
 63,"TEXT_MANWIL005_00550_000040_THANCRED","(-帥氣的男子-)我已經多次勸您不可單身出行，
 您怎麼總是聽不進去？"
 64,"TEXT_MANWIL005_00550_000050_LILILA","不要管我！
-莉莉菈想一個人待著！
+莉莉菈想一個人呆著！
 你退下！"
 65,"TEXT_MANWIL005_00550_000060_THANCRED","(-帥氣的男子-)最近世道不怎麼太平，
 我不能隨便離開您的身邊。"
@@ -137,7 +137,7 @@ int32,str,str
 但保護大小姐您的使命，
 我1天也沒有懈怠過！"
 97,"TEXT_MANWIL005_00550_LILILA_023","……老爺子，你也知道。
-我……一定要承擔責任……"
+我……必須要承擔責任……"
 98,"TEXT_MANWIL005_00550_PAPASHAN_024","那件事就請您忘掉吧。
 我們會把一切恢復成原樣的。"
 99,"TEXT_MANWIL005_00550_PAPASHAN_025","您安心等待就好。
@@ -146,9 +146,9 @@ int32,str,str
 100,"TEXT_MANWIL005_00550_LILILA_026","我知道了，我不會再這麼做了。
 我跟你保證。
 ……這樣可以了吧。"
-101,"TEXT_MANWIL005_00550_PAPASHAN_027","哦， <Highlight>ObjectParameter(1)</Highlight> 閣下！
+101,"TEXT_MANWIL005_00550_PAPASHAN_027","哦，<Highlight>ObjectParameter(1)</Highlight>閣下！
 你回來了！"
-102,"TEXT_MANWIL005_00550_PAPASHAN_028","我聽其他參與搜索工作的冒險者說，
+102,"TEXT_MANWIL005_00550_PAPASHAN_028","我聽其他參與搜尋工作的冒險者說，
 你前往的那附近發生了與魔物的戰鬥。
 我很是擔心啊。"
 103,"TEXT_MANWIL005_00550_PAPASHAN_029","不過，我該怎麼答謝你才好！
@@ -157,7 +157,7 @@ int32,str,str
 那一定是那位名叫桑克瑞德的賢人。"
 105,"TEXT_MANWIL005_00550_PAPASHAN_031","他從以前就開始在烏爾達哈對乙太進行調查。
 雖然看上去很奇怪，不過不是什麼可疑的人。"
-106,"TEXT_MANWIL005_00550_PAPASHAN_032"," <Highlight>ObjectParameter(1)</Highlight> 閣下，
+106,"TEXT_MANWIL005_00550_PAPASHAN_032","<Highlight>ObjectParameter(1)</Highlight>閣下，
 有你這樣有能力的冒險者到來，
 我真是感到非常高興。"
 107,"TEXT_MANWIL005_00550_PAPASHAN_033","今後也請你成為烏爾達哈市民們的力量。

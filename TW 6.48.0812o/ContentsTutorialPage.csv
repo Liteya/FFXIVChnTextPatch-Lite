@@ -11,26 +11,26 @@ int32,Image,str
 
 南方博茲雅戰線任務中，只要任意職業達到71級即可參加。
 在參加任務時，當前職業等級將被同步到80級。
-此外，不論現有裝備如何，都將被自動調整至最適合的品級，
+此外，不論現有裝備如何，都將被自動調整至最合適的品級，
 因此無需提前準備裝備。
 
 <UIForeground>0F</UIForeground>※參加任務的職業可以使用當前職業80級以內（包含80級）的全部技能。<UIForeground>01</UIForeground>"
-3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■獲得戰果提升反抗軍等級！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■獲得戰果提升義軍等級！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-南方博茲雅戰線任務中專門設定了一種反抗軍等級。
-戰果可以透過參加「衝突戰」、「緊急遭遇戰」等大規模作戰行動，
+南方博茲雅戰線任務中專門設定了一種義軍等級。
+戰果可以通過參加「衝突戰」、「緊急遭遇戰」等大規模作戰行動，
 並取得一定的評價後得到提升。
 
 <UIForeground>0F</UIForeground>※僅打倒魔獸或帝國兵無法獲得戰果。
 戰果將在作戰行動完成時獲得，敬請注意！<UIForeground>01</UIForeground>"
 4,86802,"戰果積累到一定程度時，
-可以向據點內的反抗軍司令部軍官（反抗軍等級）報告。
-當戰果達到一定程度，反抗軍等級將會提升。
+可以向據點內的義軍司令部軍官（義軍等級）報告。
+當戰果達到一定程度，義軍等級將會提升。
 
-隨著反抗軍等級的提升，行動的範圍會越來越廣，任務也會繼續推進。
-為了今後更為有利地展開作戰活動，請積極地提升反抗軍等級。
+隨著義軍等級的提升，行動的範圍會越來越廣，任務也會繼續推進。
+為了今後更為有利地展開作戰活動，請積極地提升義軍等級。
 
-<UIForeground>0F</UIForeground>※反抗軍等級必須經過戰果報告才能提升。
+<UIForeground>0F</UIForeground>※義軍等級必須經過戰果報告才能提升。
 當戰果積累到一定程度時，請不要忘記向軍官報告！<UIForeground>01</UIForeground>"
 5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■活用職業的等級同步規則！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -56,20 +56,20 @@ int32,Image,str
 8,86805,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——關於進入迷宮的兩種方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 第一種是<UIForeground>0F</UIForeground>和輔助隊員組成小隊單獨進入迷宮<UIForeground>01</UIForeground>，
-第二種是<UIForeground>0F</UIForeground>利用配對功能與其他玩家組成小隊進入迷宮<UIForeground>01</UIForeground>。
+第二種是<UIForeground>0F</UIForeground>利用匹配功能與其他玩家組成小隊進入迷宮<UIForeground>01</UIForeground>。
 
 當然，玩家也可以在進入迷宮前，事先與其他玩家組成小隊共同參與迷宮挑戰。
 <UIForeground>0F</UIForeground>不管以上述何種方式進入迷宮，均可參與迷宮挑戰<UIForeground>01</UIForeground>。"
 9,86806,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——善用輔助隊員挑戰迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 作為玩家，你可以憑藉<UIForeground>0F</UIForeground>輔助隊員<UIForeground>01</UIForeground>的協助，<UIForeground>0F</UIForeground>獨自挑戰迷宮<UIForeground>01</UIForeground>。
-我們將這個系統稱呼為<UIForeground>0F</UIForeground>任務支援者<UIForeground>01</UIForeground>。
+我們將這個系統稱呼為<UIForeground>0F</UIForeground>劇情輔助器<UIForeground>01</UIForeground>。
 
-可以使用任務支援者的迷宮，在入口處會設有<UIForeground>0F</UIForeground>進入點和任務支援者可用的圖示<UIForeground>01</UIForeground>。"
-10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——善用輔助隊員挑戰迷宮．續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+可以使用劇情輔助器的迷宮，在入口處會設有<UIForeground>0F</UIForeground>進入點和劇情輔助器可用的圖標<UIForeground>01</UIForeground>。"
+10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——善用輔助隊員挑戰迷宮·續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 訪問進入點，選擇<UIForeground>0F</UIForeground>和輔助隊員進入<UIForeground>01</UIForeground>後，
-將會打開<UIForeground>0F</UIForeground>任務支援者窗口<UIForeground>01</UIForeground>。
+將會打開<UIForeground>0F</UIForeground>劇情輔助器窗口<UIForeground>01</UIForeground>。
 
 <UIForeground>0F</UIForeground>輔助隊員的職業或特職<UIForeground>01</UIForeground>會根據你當前的職業或特職<UIForeground>0F</UIForeground>自動調整<UIForeground>01</UIForeground>為最佳組合。
 <UIForeground>0F</UIForeground>按下進入按鈕後<UIForeground>01</UIForeground>就可以與非玩家角色一同挑戰迷宮了！"
@@ -82,63 +82,63 @@ int32,Image,str
 將會打開<UIForeground>0F</UIForeground>任務搜尋器窗口<UIForeground>01</UIForeground>。
 <UIForeground>0F</UIForeground>勾選想要挑戰的迷宮名稱<UIForeground>01</UIForeground>，然後<UIForeground>0F</UIForeground>按下參加按鈕<UIForeground>01</UIForeground>，
 系統就會自動地將參加相同任務的玩家組成小隊。
-這個過程被稱為<UIForeground>0F</UIForeground>配對<UIForeground>01</UIForeground>。"
-12,86809,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——與其他玩家組隊挑戰迷宮．續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+這個過程被稱為<UIForeground>0F</UIForeground>匹配<UIForeground>01</UIForeground>。"
+12,86809,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——與其他玩家組隊挑戰迷宮·續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-在<UIForeground>0F</UIForeground>配對完成<UIForeground>01</UIForeground>時會有<UIForeground>0F</UIForeground>聲音提示，並彈出窗口<UIForeground>01</UIForeground>。
+在<UIForeground>0F</UIForeground>匹配完成<UIForeground>01</UIForeground>時會有<UIForeground>0F</UIForeground>聲音提示，並彈出窗口<UIForeground>01</UIForeground>。
 <UIForeground>0F</UIForeground>按下出發按鈕<UIForeground>01</UIForeground>就可以進行挑戰了！
 
-透過配對與你組成小隊的是<UIForeground>0F</UIForeground>同樣在這個世界展開冒險的其他玩家<UIForeground>01</UIForeground>。
+通過匹配與你組成小隊的是<UIForeground>0F</UIForeground>同樣在這個世界展開冒險的其他玩家<UIForeground>01</UIForeground>。
 還請不要忘記向對方打聲招呼問候，比如「你好」「請多關照」之類的，
 與隊友齊心協力一起完成迷宮挑戰吧！"
 13,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>可以挑戰的迷宮數量將會不斷增加！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 隨著你的冒險不斷推進，可以挑戰的迷宮數量也會不斷增加。
-<UIForeground>0F</UIForeground>當前不可使用任務支援者的迷宮及任務<UIForeground>01</UIForeground>請多<UIForeground>0F</UIForeground>利用任務搜尋器<UIForeground>01</UIForeground>參與挑戰！
+<UIForeground>0F</UIForeground>當前不可使用劇情輔助器的迷宮及任務<UIForeground>01</UIForeground>請多<UIForeground>0F</UIForeground>利用任務搜尋器<UIForeground>01</UIForeground>參與挑戰！
 
-此外成功挑戰過的迷宮也可以重複進行挑戰。
+此外成功挑戰過的迷宮也可以重覆進行挑戰。
 可以從<UIForeground>0F</UIForeground>快捷指令<UIForeground>01</UIForeground>的<UIForeground>0F</UIForeground>任務情報<UIForeground>01</UIForeground>選單選擇<UIForeground>0F</UIForeground>任務搜尋器<UIForeground>01</UIForeground>
-或<UIForeground>0F</UIForeground>任務支援者<UIForeground>01</UIForeground>再次進行挑戰。"
+或<UIForeground>0F</UIForeground>劇情輔助器<UIForeground>01</UIForeground>再次進行挑戰。"
 14,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>想要再次查看說明時<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-開啟任務搜尋器或任務支援者窗口，
+打開任務搜尋器或劇情輔助器窗口，
 <UIForeground>0F</UIForeground>按下「？」按鈕<UIForeground>01</UIForeground>即可查看之前說明的內容。
 
 以上兩項功能對推進劇情能起到重要的幫助！
 請充分利用這些功能，享受愉快的冒險旅程吧！"
-15,86812,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>開放了新型任務——異變迷宮！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+15,86812,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>開放了新型任務——多變迷宮！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>0F</UIForeground>異變迷宮<UIForeground>01</UIForeground>需要和相關人物一起探索迷宮內的<UIForeground>0F</UIForeground>分歧路線<UIForeground>01</UIForeground>，
+<UIForeground>0F</UIForeground>多變迷宮<UIForeground>01</UIForeground>需要和相關人物一起探索迷宮內的<UIForeground>0F</UIForeground>分歧路線<UIForeground>01</UIForeground>，
 找出藏在迷宮內的<UIForeground>0F</UIForeground>故事<UIForeground>01</UIForeground>。
 
-找到的故事會一個一個記載到異變迷宮專用的筆記或記錄冊上。
+找到的故事會一個一個記載到多變迷宮專用的筆記或記錄冊上。
 
 迷宮中會有一些隱藏的分歧路線。
 發現所有的路線，找出藏在迷宮中的故事吧。"
 16,86812,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>一起探索的人數<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-異變迷宮可以以任意人數進行探索，但最多不得超過4人。
+多變迷宮可以以任意人數進行探索，但最多不得超過4人。
 難度將會根據探索人數進行<UIForeground>0F</UIForeground>自動調整<UIForeground>01</UIForeground>。
 
 可以和熟知的同伴組隊進行探索，
-也可以透過自動配對，與其他玩家組隊進行探索。
+也可以通過自動匹配，與其他玩家組隊進行探索。
 當然，也可以單人進行探索，但是迷宮的難度可能會相對難一些。"
-17,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>異變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+17,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-在異變迷宮內可以使用「<UIForeground>0F</UIForeground>異變技能<UIForeground>01</UIForeground>」，
-以方便冒險者透過任意職業構成探索迷宮。
+在多變迷宮內可以使用「<UIForeground>0F</UIForeground>多變技能<UIForeground>01</UIForeground>」，
+以方便冒險者通過任意職業構成探索迷宮。
 
 無論是防護職業還是進攻職業，都可以使用<UIForeground>0F</UIForeground>特殊的治療和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
 當然，其他的職業同樣也準備了不同的<UIForeground>0F</UIForeground>特殊技能<UIForeground>01</UIForeground>。
 
-探索時可以使用2種不同的異變技能，也可以隨時透過專用的窗口更換異變技能。"
+探索時可以使用2種不同的多變技能，也可以隨時通過專用的窗口更換多變技能。"
 18,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>進入方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-進入異變迷宮時，需要與<UIForeground>0F</UIForeground>入口處的非玩家角色對話<UIForeground>01</UIForeground>，
+進入多變迷宮時，需要與<UIForeground>0F</UIForeground>入口處的非玩家角色對話<UIForeground>01</UIForeground>，
 或者選擇快捷指令「任務情報」的「<UIForeground>0F</UIForeground>特殊迷宮探索器<UIForeground>01</UIForeground>」，
-打開專用的窗口進入異變迷宮。
+打開專用的窗口進入多變迷宮。
 
-有關異變技能的設定、閱讀已發現的故事以及特殊迷宮探索相關的內容，
+有關多變技能的設定、閱讀已發現的故事以及特殊迷宮探索相關的內容，
 均可以在此專用窗口中進行操作。"
 19,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>開拓無人島是可以讓你在專屬於自己的小島上自由地享受慢生活的玩法！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -153,7 +153,7 @@ int32,Image,str
 21,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■開拓經驗值與開拓等級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 在無人島內進行活動會獲得開拓經驗值，
-當開拓經驗值蓄積到一定程度後，將會提升開拓等級。
+當開拓經驗值積攢到一定程度後，將會提升開拓等級。
 
 開拓等級上升後，能在島內做的事情也會逐漸變多。"
 22,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■開拓目標<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

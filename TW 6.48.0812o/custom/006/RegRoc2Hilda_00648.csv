@@ -3,9 +3,9 @@
 int32,str,str
 0,"TEXT_REGROC2HILDA_00648_Q1_000_000","想要問些什麼？"
 1,"TEXT_REGROC2HILDA_00648_A1_000_001","最近怎麼樣？"
-2,"TEXT_REGROC2HILDA_00648_A1_000_002","關於伊修加爾德火槍隊"
+2,"TEXT_REGROC2HILDA_00648_A1_000_002","關於伊修加德火槍隊"
 3,"TEXT_REGROC2HILDA_00648_A1_000_003","取消"
-4,"TEXT_REGROC2HILDA_00648_HILDA_000_000","雖然有些人看到教皇不在想要看準時機發動叛亂，
+4,"TEXT_REGROC2HILDA_00648_HILDA_000_000","雖然有些人看到教皇不在想要瞅準時機發動叛亂，
 但我一定會阻止這群笨蛋的。
 所以你就安心地去完成你的使命吧。"
 5,"TEXT_REGROC2HILDA_00648_HILDA_000_010","皇都這邊就交給我吧。
@@ -13,12 +13,12 @@ int32,str,str
 哼，我也在背後幫他一把。"
 6,"TEXT_REGROC2HILDA_00648_HILDA_000_020","在看到你騎在龍族背上時，
 我真的感覺貴族和平民間的互相爭鬥實在太愚蠢了。
-多虧你打破了伊修加爾德的常識啊。"
+多虧你打破了伊修加德的常識啊。"
 7,"TEXT_REGROC2HILDA_00648_HILDA_000_021","時代開始改變了……
 雖然我們的生活狀態沒辦法一下子改變，
 但更好的明天一定會來的。"
 8,"TEXT_REGROC2HILDA_00648_HILDA_000_030","啊，艾默里克已經告訴你那件事了吧？
-我們也想為重生的伊修加爾德出一份力。
+我們也想為重生的伊修加德出一份力。
 所以集結了反抗組織的同伴們，組成了警備團。"
 9,"TEXT_REGROC2HILDA_00648_HILDA_000_040","你聽說了嗎？關於那個率領豪膽將軍精兵的祭司。
 據說後來他被抓時眼神空洞地怪笑，
@@ -31,12 +31,12 @@ int32,str,str
 我就感慨頗深。
 也讓邪龍見識見識我們的力量吧！"
 13,"TEXT_REGROC2HILDA_00648_HILDA_000_060","無論如何我一定會保護好雲霧街！
-絕不讓那時候的悲劇重演！"
-14,"TEXT_REGROC2HILDA_00648_HILDA_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+決不讓那時候的悲劇重演！"
+14,"TEXT_REGROC2HILDA_00648_HILDA_000_070","<Highlight>ObjectParameter(1)</Highlight>！
 你把邪龍那個混蛋打倒了吧！
 幹得漂亮！不愧是英雄大人！"
 15,"TEXT_REGROC2HILDA_00648_HILDA_000_080","不可思議的是，自從成立了下議院後，
-想要加入警備團的志工在不斷增加。"
+想要加入警備團的志願者在不斷增加。"
 16,"TEXT_REGROC2HILDA_00648_HILDA_000_081","或許是大家發現了就算身為平民
 也有能做到的事而情緒高漲吧。
 我也不會輸給他們呢！"
@@ -50,15 +50,15 @@ int32,str,str
 雖然很在意火槍的來源，但這方面就交給羅斯特恩斯塔爾去查吧。"
 20,"TEXT_REGROC2HILDA_00648_HILDA_000_920","斯特凡尼維安一定能發現寶劍上隱藏的秘密。
 我們現在的任務就是好好訓練，為之後的工作做好準備。"
-21,"TEXT_REGROC2HILDA_00648_HILDA_000_930","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+21,"TEXT_REGROC2HILDA_00648_HILDA_000_930","喲，<Highlight>ObjectParameter(1)</Highlight>！
 多虧了你和教官的指導，火槍隊這邊一切順利！"
 22,"TEXT_REGROC2HILDA_00648_HILDA_000_931","由於有米斯卡丹從中協調，我們和神殿騎士團
 之間的配合也沒出什麼問題。一定要再接再厲，
-讓大家認識到我們火槍隊也是守護伊修加爾德的一份力量。"
-23,"TEXT_REGROC2HILDA_00648_HILDA_000_940","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+讓大家認識到我們火槍隊也是守護伊修加德的一份力量。"
+23,"TEXT_REGROC2HILDA_00648_HILDA_000_940","喲，<Highlight>ObjectParameter(1)</Highlight>！
 最近火槍隊跟我這邊都沒什麼事，
-託你的福，萬事順利！"
-24,"TEXT_REGROC2HILDA_00648_HILDA_000_941","說起來你知道喬伊拿起槍來就會性格大變的原因嗎？
+托你的福，萬事順利！"
+24,"TEXT_REGROC2HILDA_00648_HILDA_000_941","說起來你知道喬伊拿起槍來就會性情大變的原因嗎？
 每次問她都會被岔開話題，真的好在意啊……"
 25,"TEXT_REGROC2HILDA_00648_HILDA_000_950","露琪亞都跟我說了。
 是你拯救了世界啊！

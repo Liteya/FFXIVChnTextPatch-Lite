@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMCH600_01712_SEQ_00","天鋼機工房的斯特凡尼維安有事想通知冒險者。"
-1,"TEXT_JOBMCH600_01712_SEQ_01","討伐<Sheet(BNpcName,4224,0)/>的日子已經確定，斯特凡尼維安決定開一場誓師宴會。和伊修加爾德基礎層的羅斯特恩斯塔爾、喬伊、塞萊斯特、博朗杜安．德．艾因哈特伯爵談談。"
+1,"TEXT_JOBMCH600_01712_SEQ_01","討伐<Sheet(BNpcName,4224,0)/>的日子已經確定，斯特凡尼維安決定開一場誓師宴會。和伊修加德基礎層的羅斯特恩斯塔爾、喬伊、塞萊斯特、博朗杜安·德·艾因哈特伯爵談談。"
 2,"TEXT_JOBMCH600_01712_SEQ_02","向天鋼機工房的有關人員打了招呼。和天鋼機工房的斯特凡尼維安談談。"
 3,"TEXT_JOBMCH600_01712_SEQ_03","和斯特凡尼維安進行了交談。前往庫爾札斯西部高地的雙子池和斯特凡尼維安談談。"
 4,"TEXT_JOBMCH600_01712_SEQ_04","和斯特凡尼維安進行交談，討伐了<Sheet(BNpcName,4224,0)/>。返回天鋼機工房和斯特凡尼維安談談。"
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_JOBMCH600_01712_TODO_21",""
 46,"TEXT_JOBMCH600_01712_TODO_22",""
 47,"TEXT_JOBMCH600_01712_TODO_23",""
-48,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+48,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_000","<Highlight>ObjectParameter(1)</Highlight>……
 討伐<Sheet(BNpcName,4224,0)/>的審查日定下來了……
 這是決定工房命運的一戰。"
 49,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_001","我想在出陣前開一場誓師加犒勞大家的宴會。
@@ -69,9 +69,9 @@ int32,str,str
 同時也是為了我自己……
 我對你感激不盡哪。"
 54,"TEXT_JOBMCH600_01712_JOYE_000_010","在工房舉辦是吧？好的，喬伊這就過去。
-啊，對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，
+啊，對了，<Highlight>ObjectParameter(1)</Highlight>大人，
 喬伊有些話想趁機對你說……"
-55,"TEXT_JOBMCH600_01712_JOYE_000_011","都是多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人的幫助喬伊才能回到工房……
+55,"TEXT_JOBMCH600_01712_JOYE_000_011","都是多虧了<Highlight>ObjectParameter(1)</Highlight>大人的幫助喬伊才能回到工房……
 喬伊不想再次失去工房了。
 為了不讓自己選擇的道路再次關閉，喬伊會好好加油的！"
 56,"TEXT_JOBMCH600_01712_CELESTAUX_000_010","在工房開誓師宴會？
@@ -86,19 +86,19 @@ int32,str,str
 請轉告我那個兒子，告訴他我祝你們能贏得勝利、抓住未來。"
 60,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_019","很久沒有像這樣與人對飲了。
 這讓我想起了從前……但絕不能再重蹈覆轍了……"
-61,"TEXT_JOBMCH600_01712_JOYE_000_019"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人也快來享用吧！
+61,"TEXT_JOBMCH600_01712_JOYE_000_019","<Highlight>ObjectParameter(1)</Highlight>大人也快來享用吧！
 菜餚和酒水都非常美味，全是一上桌就被大家消滅了。
-似乎都是少爺籌備的。"
+貌似都是少爺籌備的。"
 62,"TEXT_JOBMCH600_01712_CELESTAUX_000_019","啊，好吃……好久沒吃到這麼好吃的菜了……
 令我的緊張與不安全都飛走了……"
-63,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你叫大家過來。
+63,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_020","<Highlight>ObjectParameter(1)</Highlight>，謝謝你叫大家過來。
 父親的心意我收到了！"
 64,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_021","今天大家就敞開了吃喝吧！
 一定要將<Sheet(BNpcName,4224,0)/>討伐成功！"
 65,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_022","(-工房的機工士們-)嗷——！！"
 66,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_023","大家的眼神都變得如此堅定……
 邀請你成為機工士真是一個再正確不過的選擇了。"
-67,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_024"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你一直在為工房裡的大家帶來好影響……
+67,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_024","<Highlight>ObjectParameter(1)</Highlight>，你一直在為工房裡的大家帶來好影響……
 都是多虧了你當初願意成為一名機工士啊。"
 68,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_025","這次作戰雖然非常嚴酷，但同時也是一個很好的機會。
 恐怕很大程度上都要依靠你的力量，拜託了。
@@ -108,7 +108,7 @@ int32,str,str
 現在就等<Sheet(BNpcName,4224,0)/>出現了。"
 71,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_031","這位是來為本次審查作見證的教皇廳的祭司大人。
 誘餌方面也已經準備好了。"
-72,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_032","根據阿德內爾占星臺的預測，
+72,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_032","根據阿德內爾占星台的預測，
 <Sheet(BNpcName,4224,0)/>很快就會有所行動……
 它發現了作為誘餌的運輸部隊後一定會進行襲擊。"
 73,"TEXT_JOBMCH600_01712_OBSERVER01712_000_033","(-教皇廳的祭司-)只要天鋼機工房的各位捨命戰鬥，
@@ -124,27 +124,27 @@ int32,str,str
 誓必擊殺<Sheet(BNpcName,4224,0)/>，並且全員生還！"
 77,"TEXT_JOBMCH600_01712_QIB_001_TODO_1","打倒龍族！"
 78,"TEXT_JOBMCH600_01712_QIB_001_TODO_2","保護提達爾格蘭什，打倒龍族！"
-79,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_PCDEAD","唔，對不起……我不行了……"
+79,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_PCDEAD","唔，對不住……我不行了……"
 80,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_DEAD","失手了……後面就全交給你了……"
 81,"TEXT_JOBMCH600_01712_QIB_001_JOYE_BATTLETALK_DEAD","射……咦，什麼都看不清了……身體也不能動了……"
 82,"TEXT_JOBMCH600_01712_QIB_001_SEREST_BATTLETALK_DEAD","對不起……我已經不行了……"
 83,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_DEAD","我真是愚蠢，居然會對機工士抱有期望……"
 84,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_00","賭上一切，贏取這場戰鬥的勝利！"
 85,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_01","會聽到怎樣的慘叫聲呢……哦吼吼吼……"
-86,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_02"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！塞萊斯特那邊有新的敵人了出現了！
+86,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>！塞萊斯特那邊有新的敵人了出現了！
 請快點過去支援！"
 87,"TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_03","嘖，真是怎麼殺也殺不完！
 請來支援這邊！"
 88,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_04","龍族眷屬來得比想像中還要多呀，哦吼吼吼……"
 89,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_05","塞萊斯特！請保護提達爾格蘭什！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們來做它的對手！"
+<Highlight>ObjectParameter(1)</Highlight>，我們來做它的對手！"
 90,"TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_06","明白了，我們會把他保護好的……雖然他是個混蛋！"
 91,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_07","萬萬沒想到竟會被機工士保護……"
 92,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_08","敵方又有增援了！這樣下去提達爾格蘭什他們就有危險了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 請去塞萊斯特那邊進行支援！"
+<Highlight>ObjectParameter(1)</Highlight>請去塞萊斯特那邊進行支援！"
 93,"TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_09","可惡……敵人的數量太多，壓制不住了！"
 94,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_10","機工士果然只有這種程度嗎……"
-95,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_11"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請小心！敵人有些不對勁！"
+95,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_11","<Highlight>ObjectParameter(1)</Highlight>，請小心！敵人有些不對勁！"
 96,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_070","<Sheet(BNpcName,4224,0)/>……
 必須打敗它才能洗清工房的嫌疑嗎……"
 97,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_071","我以天鋼機工房工房長的身份向全員下令！
@@ -172,11 +172,11 @@ int32,str,str
 我們擊敗了<Sheet(BNpcName,4224,0)/>！"
 108,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_091","真是千鈞一髮……
 謝謝你們救了我們。
-我決定將密謀叛亂的檢舉撤銷，我保證。"
+我決定將密謀叛亂的舉報撤銷，我保證。"
 109,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_092","請讓我為這次救命之恩道謝。
 如果有什麼願望的話，我都可以答應。"
 110,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_093","你小子！
-至今做了那麼多壞事，以為道個歉就算結束了嗎？"
+至今做了那麼多壞事，以為道個歉就算完事了嗎？"
 111,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_094","算了算了，我的願望只有一個……
 就是希望你能認同天鋼機工房和機工士，
 發誓不要再阻撓我們的活動。"
@@ -184,7 +184,7 @@ int32,str,str
 整天和平民接觸的人的想法我果然是搞不懂啊。"
 113,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_096","但我保證你的願望會得到實現。
 回去後我也會好好思考一下運用機工士的方法。"
-114,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_097","我們若想發揮全力進行戰鬥，就一定要有可靠的前衛吸引敵人。
+114,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_097","我們若想發揮全力進行戰鬥，就必須要有可靠的前衛吸引敵人。
 所以騎士肯定也能以一種新的形態活躍在戰場上。"
 115,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_098","那當然，騎士永遠都會是戰場的主角。
 為了皇都的幸福和繁榮，就讓我好好期待一下機工士的能力吧。
@@ -194,7 +194,7 @@ int32,str,str
 多虧了這次戰鬥，我感覺自己終於能再次邁步向前了……"
 117,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_100","喬伊……你的技術越來越厲害了。
 今後就由你來指導機工士們吧。"
-118,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_101"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，今後你也要遵從自己的意志開槍。
+118,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_101","<Highlight>ObjectParameter(1)</Highlight>，今後你也要遵從自己的意志開槍。
 那將會鼓舞到很多你身邊的人。
 對我來說，工房裡的大家正是如此……"
 119,"TEXT_JOBMCH600_01712_JOYE_000_102","你要走了嗎？"
@@ -203,12 +203,12 @@ int32,str,str
 今後我也會默默支持你們的，再見了。"
 121,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_104","作戰結束了。
 我們也回去吧，回「天鋼機工房」去！"
-122,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_110"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+122,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_110","<Highlight>ObjectParameter(1)</Highlight>。
 請再次讓我對你表示感謝……真的是非常感謝你。
 這下子工房和機工士的未來一下子就被打開了。"
 123,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_111","教官離開了，工房中也已經沒有比你更強的人了。
 你也從工房畢業，驅使在皇都學到的這些技術，
-將機工士之名傳響整個艾奧傑亞吧。"
+將機工士之名傳響整個艾歐澤亞吧。"
 124,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_112","當然，也隨時歡迎你回工房來玩。
 我們會一直在這裡，
 以成為討伐龍族之槍，守護皇都之盾為目標而努力。"

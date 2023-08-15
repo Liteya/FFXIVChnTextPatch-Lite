@@ -6,7 +6,7 @@ int32,str,str
 
 ※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。"
 2,"TEXT_GAIUSE113_01187_SEQ_02","梅德吉絲提爾處已經沒有<Sheet(EventItem,2001081,0)/>了。和巨龍首營地的酒商伊曼紐爾對話。"
-3,"TEXT_GAIUSE113_01187_SEQ_03","據伊曼紐爾說，<Sheet(EventItem,2001081,0)/>的採集地出現了魔物，因此才斷了貨。調查巨龍首營地西南方的<Sheet(EObj,2002854,0)/>，獲得<Sheet(EventItem,2001081,0)/>。"
+3,"TEXT_GAIUSE113_01187_SEQ_03","據伊曼紐爾說，<Sheet(EventItem,2001081,0)/>的採集地出現了魔物，因此才斷了貨。調查巨龍首營地西南方的<Sheet(EObj,2002854,0)/>，獲取<Sheet(EventItem,2001081,0)/>。"
 4,"TEXT_GAIUSE113_01187_SEQ_04","順利獲得了<Sheet(EventItem,2001081,0)/>。將<Sheet(EventItem,2001081,0)/>交給沙之家的塔塔露。"
 5,"TEXT_GAIUSE113_01187_SEQ_05","順利將<Sheet(EventItem,2001081,0)/>交給了塔塔露。塔塔露好像有急事要傳達給冒險者……"
 6,"TEXT_GAIUSE113_01187_SEQ_06",""
@@ -96,9 +96,9 @@ int32,str,str
 那裡有魔物出沒，請小心。"
 64,"TEXT_GAIUSE113_01187_TATARU_000_030","只要調配出營養豐富的藥茶，
 就能讓大家精力充沛。
-我就全靠 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你了！"
+我就全靠<Highlight>ObjectParameter(1)</Highlight>你了！"
 65,"TEXT_GAIUSE113_01187_TATARU_000_040","就是它！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你！"
+<Highlight>ObjectParameter(1)</Highlight>，謝謝你！"
 66,"TEXT_GAIUSE113_01187_TATARU_000_041","我馬上就去調配特製藥茶！
 我會親自精心調配的！"
 67,"TEXT_GAIUSE113_01187_TATARU_000_042","啦啦啦～啦啦啦～

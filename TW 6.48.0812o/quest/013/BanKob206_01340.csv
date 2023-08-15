@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_BANKOB206_01340_SEQ_00","第789洞穴團採礦地的第789團工匠博古，想要消除不滿。"
-1,"TEXT_BANKOB206_01340_SEQ_01","第789團工匠博古想除掉守護第13洞穴團鍊金工房的<Sheet(BNpcName,2700,0)/>。和黑金湖的第13團鍊金術士加吉對話，他知道通往第13洞穴團鍊金工房的暗道。"
-2,"TEXT_BANKOB206_01340_SEQ_02","第13團鍊金術士加吉告訴了冒險者破壞控制<Sheet(BNpcName,2700,0)/>的<Sheet(EObj,2003647,0)/>的方法。為了讓<Sheet(EObj,2003647,0)/>過熱，討伐4隻第13洞穴團鍊金工房<Sheet(EObj,2003647,0)/>附近的<Sheet(BNpcName,2700,0)/>。"
-3,"TEXT_BANKOB206_01340_SEQ_03","討伐了<Sheet(EObj,2003647,0)/>附近的<Sheet(BNpcName,2700,0)/>，成功令<Sheet(EObj,2003647,0)/>過熱。對第13洞穴團鍊金工房裡的<Sheet(EObj,2003647,0)/>使用<Sheet(EventItem,2001222,0)/>，破壞掉它。"
+1,"TEXT_BANKOB206_01340_SEQ_01","第789團工匠博古想除掉守護第13洞穴團煉金工房的<Sheet(BNpcName,2700,0)/>。和黑金湖的第13團煉金術士加吉對話，他知道通往第13洞穴團煉金工房的暗道。"
+2,"TEXT_BANKOB206_01340_SEQ_02","第13團煉金術士加吉告訴了冒險者破壞控制<Sheet(BNpcName,2700,0)/>的<Sheet(EObj,2003647,0)/>的方法。為了讓<Sheet(EObj,2003647,0)/>過熱，討伐4隻第13洞穴團煉金工房<Sheet(EObj,2003647,0)/>附近的<Sheet(BNpcName,2700,0)/>。"
+3,"TEXT_BANKOB206_01340_SEQ_03","討伐了<Sheet(EObj,2003647,0)/>附近的<Sheet(BNpcName,2700,0)/>，成功令<Sheet(EObj,2003647,0)/>過熱。對第13洞穴團煉金工房裡的<Sheet(EObj,2003647,0)/>使用<Sheet(EventItem,2001222,0)/>，破壞掉它。"
 4,"TEXT_BANKOB206_01340_SEQ_04","破壞了<Sheet(EObj,2003647,0)/>。向第789洞穴團採礦地的第789團工匠博古報告。"
 5,"TEXT_BANKOB206_01340_SEQ_05","將成功破壞<Sheet(EObj,2003647,0)/>一事向第789團工匠博古報告完畢。他洋洋得意地說，今後就可以無法無天了。如果今後警備被加強，再去協助他。"
 6,"TEXT_BANKOB206_01340_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_BANKOB206_01340_SEQ_21",""
 22,"TEXT_BANKOB206_01340_SEQ_22",""
 23,"TEXT_BANKOB206_01340_SEQ_23",""
-24,"TEXT_BANKOB206_01340_TODO_00","和黑金湖的第13團鍊金術士加吉對話"
-25,"TEXT_BANKOB206_01340_TODO_01","討伐第13洞穴團鍊金工房裡<Sheet(EObj,2003647,0)/>附近的<Sheet(BNpcName,2700,0)/>"
+24,"TEXT_BANKOB206_01340_TODO_00","和黑金湖的第13團煉金術士加吉對話"
+25,"TEXT_BANKOB206_01340_TODO_01","討伐第13洞穴團煉金工房裡<Sheet(EObj,2003647,0)/>附近的<Sheet(BNpcName,2700,0)/>"
 26,"TEXT_BANKOB206_01340_TODO_02","對<Sheet(EObj,2003647,0)/>使用<Sheet(EventItem,2001222,0)/>"
 27,"TEXT_BANKOB206_01340_TODO_03","向第789團工匠博古報告"
 28,"TEXT_BANKOB206_01340_TODO_04",""
@@ -50,20 +50,20 @@ int32,str,str
 46,"TEXT_BANKOB206_01340_TODO_22",""
 47,"TEXT_BANKOB206_01340_TODO_23",""
 48,"TEXT_BANKOB206_01340_BOGU_000_000","冒險者 大事不好了！
-我們潛入 第13洞穴團鍊金工房
+我們潛入 第13洞穴團煉金工房
 想要偷 不對 是想要籌備物資來的……"
 49,"TEXT_BANKOB206_01340_BOGU_000_001","但那裡 有<Sheet(BNpcName,2700,0)/>把守！
 不管怎麼打 巨像兵都會復活 十分難纏。
 不過 我們當然是 從沒打倒過它們啦。"
 50,"TEXT_BANKOB206_01340_BOGU_000_002","冒險者 拜託你
-請你潛入 第13洞穴團鍊金工房
+請你潛入 第13洞穴團煉金工房
 去破壞掉 <Sheet(EObj,2003647,0)/>。"
 51,"TEXT_BANKOB206_01340_BOGU_000_003","只要用這<Sheet(EventItem,2001222,0)/> 粉碎操縱巨像兵的<Sheet(EObj,2003647,0)/>
 巨像兵就不會 再復活了。"
-52,"TEXT_BANKOB206_01340_BOGU_000_004","只要和看門的 第13團鍊金術士加吉說一聲
-就能進入 第13洞穴團鍊金工房了！"
+52,"TEXT_BANKOB206_01340_BOGU_000_004","只要和看門的 第13團煉金術士加吉說一聲
+就能進入 第13洞穴團煉金工房了！"
 53,"TEXT_BANKOB206_01340_BOGU_000_005","冒險者 拜託你
-請你潛入 第13洞穴團鍊金工房
+請你潛入 第13洞穴團煉金工房
 去破壞掉 <Sheet(EObj,2003647,0)/>。"
 54,"TEXT_BANKOB206_01340_GAJI_000_010","怎麼 你想破壞<Sheet(EObj,2003647,0)/>？
 可光憑<Sheet(EventItem,2001222,0)/> 是破壞不了它的喲。"
@@ -83,7 +83,7 @@ int32,str,str
 60,"TEXT_BANKOB206_01340_BOGU_000_021","太棒了！
 你立大功了 冒險者！
 這樣一來 我們就可以 無法無天了！"
-61,"TEXT_BANKOB206_01340_SCENE00023_EVENTAREA_WARP_YESNO_TITLE","要進入第13洞穴團鍊金工房嗎？"
+61,"TEXT_BANKOB206_01340_SCENE00023_EVENTAREA_WARP_YESNO_TITLE","要進入第13洞穴團煉金工房嗎？"
 62,"TEXT_BANKOB206_01340_SCENE00023_EVENTAREA_WARP_YESNO_YES","是"
 63,"TEXT_BANKOB206_01340_SCENE00023_EVENTAREA_WARP_YESNO_NO","否"
 64,"TEXT_BANKOB206_01340_POP_MESSAGE","（★未使用／削除予定★）"

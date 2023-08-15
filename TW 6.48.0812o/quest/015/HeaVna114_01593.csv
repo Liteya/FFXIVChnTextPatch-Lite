@@ -49,20 +49,20 @@ int32,str,str
 45,"TEXT_HEAVNA114_01593_TODO_21",""
 46,"TEXT_HEAVNA114_01593_TODO_22",""
 47,"TEXT_HEAVNA114_01593_TODO_23",""
-48,"TEXT_HEAVNA114_01593_MARIELLE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>小姐<Else/>先生</If>應該也察覺到了吧？
+48,"TEXT_HEAVNA114_01593_MARIELLE_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>先生</If>應該也察覺到了吧？
 我們部隊的士氣非常低迷……"
 49,"TEXT_HEAVNA114_01593_MARIELLE_000_001","雲頂營地這裡地處偏僻，
 龍族也一次都沒有在這裡出現過，
 導致有些想要立功的人無功可立。"
 50,"TEXT_HEAVNA114_01593_MARIELLE_000_002","關鍵的捍衛者號又是那副樣子，
-萬一皇都遇襲這裡也沒辦法參加戰鬥。"
+萬一皇都遇襲這裡也沒法參加戰鬥。"
 51,"TEXT_HEAVNA114_01593_MARIELLE_000_003","說實話，這裡就是個左遷的地方。
-教皇廳沒期待這裡有所作為，在這裡也不可能出人頭地，
+教皇廳沒期待這裡有所作為，在這裡也沒可能出人頭地，
 所以士兵們的士氣也都萎靡不振。"
-52,"TEXT_HEAVNA114_01593_MARIELLE_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>小姐<Else/>先生</If>，
+52,"TEXT_HEAVNA114_01593_MARIELLE_000_004","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>先生</If>，
 能請你去探望一下在放哨的士兵們嗎？
 要是有人在偷懶，就「激勵」他一下。"
-53,"TEXT_HEAVNA114_01593_MARIELLE_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>小姐<Else/>先生</If>，
+53,"TEXT_HEAVNA114_01593_MARIELLE_000_005","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>小姐<Else/>先生</If>，
 能請你去探望一下在放哨的士兵們嗎？
 要是有人在偷懶，就「激勵」他一下。"
 54,"TEXT_HEAVNA114_01593_KIGHTA01593_000_010","哇，什麼鬼？！
@@ -89,9 +89,9 @@ int32,str,str
 64,"TEXT_HEAVNA114_01593_EMMANELLAIN_000_032","你的「激勵」讓我意識到了這一點。
 我決定去找拉妮艾特談談，
 要求換一個刺激一點的工作。"
-65,"TEXT_HEAVNA114_01593_EMMANELLAIN_000_033","啊，是你呀 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+65,"TEXT_HEAVNA114_01593_EMMANELLAIN_000_033","啊，是你呀<Highlight>ObjectParameter(1)</Highlight>……
 有在為我建功立業嗎？
-還沒就拜託你儘快吧……我可沒那麼閒。"
+還沒就拜託你盡快吧……我可沒那麼閒。"
 66,"TEXT_HEAVNA114_01593_EMMANELLAIN_000_034","喂喂，你在搞什麼呢……
 有空做這些莫名其妙的事，還不如快去幫我建功立業。"
 67,"TEXT_HEAVNA114_01593_HONOROIT_000_035","埃、埃馬內蘭少爺……

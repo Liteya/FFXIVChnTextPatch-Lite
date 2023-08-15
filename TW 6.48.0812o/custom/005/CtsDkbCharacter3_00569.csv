@@ -8,9 +8,9 @@ int32,str,str
 3,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_012","（★未使用／削除予定★）"
 4,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_013","（★未使用／削除予定★）"
 5,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_014","（★未使用／削除予定★）"
-6,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_020","繳納了委託品，
+6,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_020","交納了委託品，
 貝斯里克實際感受到你做出了貢獻。"
-7,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_021","今後也請繼續繳納委託品，
+7,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_021","今後也請繼續交納委託品，
 積累貢獻度！"
 8,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_000","那孩子還在治療中，
 傷其實並不是很嚴重……
@@ -21,12 +21,12 @@ int32,str,str
 10,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_051","感謝你，以防萬一我試吃了一下，
 我還是第一次見到這麼高品質的藥餌……好棒啊！
 分成幾次餵給它，應該就能解毒了。"
-11,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_100","多虧有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫忙，
+11,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_100","多虧有<Highlight>ObjectParameter(1)</Highlight>的幫忙，
 「跳跳」有一點恢復的徵兆了！
 真是太感謝你了。"
 12,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_101","啊，跳跳是那孩子的名字，
-總是沒有名字感覺蠻可憐的，
-就按照貝魯布跳躍種的風格取了個名字。"
+總是沒有名字感覺挺可憐的，
+就按照貝魯布跳躍種的風格起了個名字。"
 13,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_102","雖然情況還說不好，不過繼續治療的話，
 很快就能解毒並恢復行走能力吧。"
 14,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_103","話說回來，你的技術比傳聞中的還要厲害！
@@ -40,9 +40,9 @@ int32,str,str
 跳跳也還會需要我們的幫助。"
 18,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_140","嗯……根據檢查結果和牧場管理員的報告，
 治療過程良好……接下來要考慮的就是……"
-19,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_145","鍊金術士或烹調師的等級達到73級以上時，
-可以從中庸工藝館的貝斯里克那裡領取下一個繳納委託品的任務。"
-20,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+19,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_145","煉金術士或烹調師的等級達到73級以上時，
+可以從中庸工藝館的貝斯里克那裡領取下一個交納委託品的任務。"
+20,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_150","<Highlight>ObjectParameter(1)</Highlight>！
 你來得正是時候。"
 21,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_151","我正要去給跳跳診療，
 順便把你做的藥餌送過去。
@@ -56,7 +56,7 @@ int32,str,str
 25,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_155","嗯，傷口狀態良好。
 接下來就是多吃餌料，
 要是能恢復體力直到能自己站起來就放心了！"
-26,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_156","話說回來，貝魯布地區因為光之氾濫已經消失了100年了，
+26,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_156","話說回來，貝魯布地區因為光之泛濫已經消失了100年了，
 居然還存活著不為人知的貝魯布跳躍種……
 到現在我也不敢相信。"
 27,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_157","它們原為家畜，想要獨自在野外生存是很困難的，
@@ -71,12 +71,12 @@ int32,str,str
 該多麼傷心害怕啊……"
 31,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_161","我們回去吧！
 跳跳要恢復活力肯定還少不了你的幫助！"
-32,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_162","………………。"
-33,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_163"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 製作的藥餌，
+32,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_162","……"
+33,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_163","<Highlight>ObjectParameter(1)</Highlight>製作的藥餌，
 跟跳跳的體質很合得來，也不用擔心有副作用。
 真的是幫了大忙了！"
 34,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_164","可是，這樣一直臥病修養，
-不利於體力的恢復，想自己站起來應該會很困難，
+不利於體力的恢復，想自己站起來估計會很困難，
 為此我想請你再製作一些藥餌。"
 35,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_165","現在由於毒素的影響，它的腸胃比較虛弱，
 普通的餌料對現在的那孩子來說刺激性太強……所以，
@@ -110,12 +110,12 @@ int32,str,str
 很可怕吧……呵呵呵，要保密哦！"
 45,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_305","……畢竟，都是過去的事了。"
 46,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_306","現在的我是溫厚善良的獸醫！
-哎呀呀，我對 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 
+哎呀呀，我對<Highlight>ObjectParameter(1)</Highlight>
 真是可以無話不談啊。"
 47,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_307","從今往後，也請繼續關照！"
-48,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_320","鍊金術士或烹調師的等級達到75級以上時，
-可以從中庸工藝館的貝斯里克那裡領取下一個繳納委託品的任務。"
-49,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_350"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真是驚人！
+48,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_320","煉金術士或烹調師的等級達到75級以上時，
+可以從中庸工藝館的貝斯里克那裡領取下一個交納委託品的任務。"
+49,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_350","<Highlight>ObjectParameter(1)</Highlight>，真是驚人！
 跳跳的體力才剛恢復到可以站起來，
 它就能自己進食了！"
 50,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_351","我們趕快去牧場看看情況吧！"
@@ -126,14 +126,14 @@ int32,str,str
 漸漸增加餌料的量和種類吧。"
 53,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_354","來，跳跳！
 吃飯了！"
-54,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_355","…………。"
+54,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_355","……"
 55,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_356","嗯……
 果然還是不行啊……"
-56,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_357","這個孩子，一定要我或者管理員當面試毒，
+56,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_357","這個孩子，必須要我或者管理員當面試毒，
 否則絕對一口都不吃……
 恐怕還對毒餌有心理陰影吧……"
 57,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_358","……這裡沒有毒藥，你放心吃吧。
-這是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為了你
+這是<Highlight>ObjectParameter(1)</Highlight>為了你
 努力製作出來的。"
 58,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_359","能這樣自己吃飯，
 體力也能很快恢復了吧。"
@@ -151,7 +151,7 @@ int32,str,str
 現在正是和跳跳心靈溝通的好機會！"
 64,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_365","作為友好的證明，就讓我騎到背上吧！
 阿馬羅戰士貝斯里克可不是白叫的，你就放心吧！"
-65,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_366","………………。"
+65,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_366","……"
 66,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_367","……有點為時過早了啊！"
 67,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_368","好，我得打起精神！
 為了幫助這孩子我們還有很多事要做！
@@ -159,7 +159,7 @@ int32,str,str
 68,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_369","啾……"
 69,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_370","一直以來多謝你的幫助……謝謝。
 像你這麼可靠的工匠真是可遇不可求，
-我都想將你僱來做我的專屬助手了！"
+我都想將你雇來做我的專屬助手了！"
 70,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_371","雖然說起來很丟人……但我自己製作的藥餌，
 都不敢給阿馬羅們吃……哈哈。"
 71,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_372","總、總之，我在你交給我的藥餌中，
@@ -198,7 +198,7 @@ int32,str,str
 86,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_505","哎呀，別看我這樣，我可是很擅長做飯和做炸藥的！
 我的拿手菜，是用牧場產的4個雞蛋製作的營養豐富的蛋包飯。
 烘豆也很拿手……嗯？不是這意思？"
-87,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_506","如果是對 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話，
+87,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_506","如果是對<Highlight>ObjectParameter(1)</Highlight>的話，
 說出來也沒問題吧。"
 88,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_507","那是我還在做傭兵時的事了。
 和我搭檔的阿馬羅，跟我建立了深刻的友誼。
@@ -226,20 +226,20 @@ int32,str,str
 98,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_540","嗯……
 心情變得平靜一些了！
 話說回來，關於跳跳……"
-99,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_545","鍊金術士或烹調師的等級達到78級以上時，
-可以從中庸工藝館的貝斯里克那裡領取下一個繳納委託品的任務。"
+99,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_545","煉金術士或烹調師的等級達到78級以上時，
+可以從中庸工藝館的貝斯里克那裡領取下一個交納委託品的任務。"
 100,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_550","絕對沒錯，跳跳確實回到牧場了！
 我們快去聖林牧場吧。"
 101,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_551","跳跳！
-你最喜歡的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來了喲！"
+你最喜歡的<Highlight>ObjectParameter(1)</Highlight>來了喲！"
 102,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_552","為什麼回來了呢？
 是那邊的阿馬羅夥伴欺負你了嗎？"
 103,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_553","不……不是那樣的！"
-104,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_554"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！大叔！
+104,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_554","<Highlight>ObjectParameter(1)</Highlight>！大叔！
 我想和大家一起，住、住在這裡！"
 105,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_555","說、說……
 說話了？！"
-106,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_556","說起來雲村的圖帕克．阿馬羅
+106,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_556","說起來雲村的圖帕克·阿馬羅
 確實說過古代血脈覺醒了這樣的話……"
 107,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_557","啾……對不起，
 一直瞞著你們……但我沒有惡意。"
@@ -253,11 +253,11 @@ int32,str,str
 112,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_562","我只是想和人類對話而已，就遭遇了這麼殘酷的事情……
 為什麼我要遇到這種事……
 什麼都很可怕要堅持不住了……"
-113,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_563","但是吃了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 做的飯，
+113,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_563","但是吃了<Highlight>ObjectParameter(1)</Highlight>做的飯，
 我心裡暖暖的很激動，身體也輕盈了許多。
 上次有這種感覺還是在我小的時候！"
 114,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_564","我果然還是喜歡人類的，
-而且最喜歡 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 了，
+而且最喜歡<Highlight>ObjectParameter(1)</Highlight>了，
 能為我做美味的食物，讓我很安心！"
 115,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_565","我想在水晶都為喜歡的人類做出貢獻，
 我可以為人們傳遞這裡的阿馬羅的想法，
@@ -274,13 +274,13 @@ int32,str,str
 它們都很羨慕……"
 121,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_570","那……到底是怎麼看待我的呢？"
 122,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_571","大叔的話……也沒什麼……"
-123,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_572","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+123,"TEXT_CTSDKBCHARACTER3_00569_SKIP_000_572","對了，<Highlight>ObjectParameter(1)</Highlight>！
 能不能做些美味的食物給這裡的阿馬羅們吃啊？！
 要是能做出我故鄉貝魯布地區流傳的食物，它們肯定會很高興！"
 124,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_573","哦，這個辦法好！
 這樣就能和其他阿馬羅拉近關係了，
 肯定很快就能融入其中了。"
-125,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_574"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+125,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_574","<Highlight>ObjectParameter(1)</Highlight>，
 為了這個孩子，
 能請你製作<Sheet(Item,27251,0)/>嗎？"
 126,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_575","需要的材料我會向跳跳打聽並整理給你的。
@@ -292,14 +292,14 @@ int32,str,str
 只是靠聽來的情報就能做出這樣的食物！
 你的手藝真是驚人啊……"
 129,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_651","感謝你，以防萬一我試吃了一下，
-世上有這麼美味又富有營養的餌料真的適合嗎？！
+世上有這麼美味又富有營養的餌料真的合適嗎？！
 你的手藝真是驚人啊……"
 130,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_700","謝謝你！製作了這麼多，牧場裡的阿馬羅們也夠分了。
 我馬上就去交給牧場管理員們！"
-131,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_701"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也偶爾
+131,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_701","<Highlight>ObjectParameter(1)</Highlight>也偶爾
 去牧場看看吧？
 跳跳肯定也會很高興的！"
-132,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_702"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+132,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_702","<Highlight>ObjectParameter(1)</Highlight>，
 我無論如何都想守護那些孩子們。
 它們是純粹的、最喜歡人類的、坦率的生物。"
 133,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_703","可是再遇到像這次的緊急情況時，
@@ -318,9 +318,9 @@ int32,str,str
 牧場的聶莫琴閔有些事情想要說明。
 稍微休息一下，然後再來找我吧！"
 140,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_707","此外，可以領取中庸工藝館交易的劇情任務了。
-鍊金術士或烹調師的等級達到80級以上時，
+煉金術士或烹調師的等級達到80級以上時，
 可以從中庸工藝館的貝斯里克那裡領取任務。"
-141,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_750","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+141,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_750","哎呀，<Highlight>ObjectParameter(1)</Highlight>！
 你來找我了啊，
 是對藏在神秘面紗後的我產生興趣了嗎？"
 142,"TEXT_CTSDKBCHARACTER3_00569_BETHRIC_000_751","呵呵呵……這可是個秘密！"
@@ -328,7 +328,7 @@ int32,str,str
 無法獲得報酬。
 請整理背包後再次和貝斯里克對話。"
 144,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_850","要和食藥工藝部進行交易，
-職業必須為鍊金術士或是烹調師。"
+職業必須為煉金術士或是烹調師。"
 145,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_900","接到了新的委託，交貨列表已經更新。
 和貝斯里克對話，查看新的交貨列表。"
 146,"TEXT_CTSDKBCHARACTER3_00569_SYSTEM_000_910","食藥工藝部的貢獻等級提高了！

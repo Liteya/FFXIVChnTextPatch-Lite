@@ -71,9 +71,9 @@ int32,str,str
 58,"TEXT_STMBDZ109_02659_CHOICE1A2_000_013","隨便打打就能獲勝"
 59,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_014","瞄準魔物堅硬外殼的縫隙……嗎？
 雖然並沒有能在戰鬥中實踐的自信，但我絕不會說洩氣的話。
-我想立刻回到訓練中去，把你剛才告訴我的技巧活用起來。"
+我想立馬回到訓練中去，把你剛才告訴我的技巧活用起來。"
 60,"TEXT_STMBDZ109_02659_SOLDIERMAN02659_000_015","真……真不愧是戰鬥經驗豐富的冒險者說出來的……
-能達到這個水準，肯定也是付出過很大的努力的吧。
+能達到這個水平，肯定也是付出過很大的努力的吧。
 我現在就回去訓練，爭取早日追上你的腳步。"
 61,"TEXT_STMBDZ109_02659_SOLDIERWOMAN02659_000_016","……<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>大人！
 早就聽說過……啊不對、久仰大名！
@@ -91,7 +91,7 @@ int32,str,str
 68,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_030","你和新兵們的實力相差太多，經驗沒能派上用場啊。
 不過也不是白費功夫。
 能和被稱為英雄的冒險者說上話，也能鼓舞到新兵們的士氣。"
-69,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_031","我就沒辦法起到這種作用。
+69,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_031","我就沒法起到這種作用。
 長官不是部下憧憬的對象，也不能成為那樣的對象。"
 70,"TEXT_STMBDZ109_02659_SWETHRYKBROOKSTONE_000_032","畢竟我們有時候要命令士兵們拚死衝鋒陷陣。
 但即便是那種時候，我們也一直祈禱他們能夠活下來。

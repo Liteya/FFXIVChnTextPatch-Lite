@@ -60,14 +60,14 @@ int32,str,str
 出城後你就能看到它們。"
 51,"TEXT_CLSGLA021_00286_MYLLA_000_4","當然了，你要用劍去打倒它們。
 快去吧，
-可別讓我失望喲， <Highlight>ObjectParameter(1)</Highlight> ！"
-52,"TEXT_CLSGLA021_00286_MYLLA_000_10","你回來了啊， <Highlight>ObjectParameter(1)</Highlight> 。
+可別讓我失望喲，<Highlight>ObjectParameter(1)</Highlight>！"
+52,"TEXT_CLSGLA021_00286_MYLLA_000_10","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 怎麼樣，你順利打倒魔物了嗎？"
-53,"TEXT_CLSGLA021_00286_MYLLA_000_11","不要忘記這次戰鬥的感覺，
+53,"TEXT_CLSGLA021_00286_MYLLA_000_11","不要忘記這回戰鬥的感覺，
 今後你也要一心揮劍。
 積累作為劍術師的經驗。"
 54,"TEXT_CLSGLA021_00286_MYLLA_000_12","等你用慣了手中的劍，再來這裡找我。
 新人，我很看好你喲！"
 55,"TEXT_CLSGLA021_00286_SYSTEM_000_15","開啟了「劍術師」的職業任務。
 等級達到「5級」以上時，才可以領取下一個任務。
-提高等級後再來公會。 "
+提高等級後再來公會。"

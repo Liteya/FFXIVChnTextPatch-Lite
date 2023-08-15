@@ -51,16 +51,16 @@ int32,str,str
 47,"TEXT_HEAVNZ611_01879_TODO_23",""
 48,"TEXT_HEAVNZ611_01879_AIRPORTINVESTIGATOR01871_000_003","同伴在四處調查的時候，
 發現了疑似古戰場的地方。"
-49,"TEXT_HEAVNZ611_01879_MAENNE_000_000","就在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 前往東北方時，
+49,"TEXT_HEAVNZ611_01879_MAENNE_000_000","就在<Highlight>ObjectParameter(1)</Highlight>前往東北方時，
 我們在西邊發現了兩處疑似戰場遺跡的地方。
 我們想測量這兩個地方的乙太。"
 50,"TEXT_HEAVNZ611_01879_MAENNE_000_001","我已經派出兩支部隊去分別測量了，
 可是那附近魔物較多，想必測量起來非常困難。
 能否請你去支援一下各個部隊？"
 51,"TEXT_HEAVNZ611_01879_MAENNE_000_002","首先請你前往南方牆壁，
-與我的部下會合，支援一下他們。"
+與我的部下匯合，支援一下他們。"
 52,"TEXT_HEAVNZ611_01879_MAENNE_000_013","首先請你前往南方牆壁，
-與我的部下會合，支援一下他們。"
+與我的部下匯合，支援一下他們。"
 53,"TEXT_HEAVNZ611_01879_SOUTHINVESTIGATOR01879_000_010","呀，冒險者。
 你是來幫我們的嗎？
 真是太感謝了。"

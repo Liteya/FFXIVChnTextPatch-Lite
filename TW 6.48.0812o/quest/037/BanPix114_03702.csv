@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANPIX114_03702_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-群花館的烏因．尼伊好像在思考什麼。"
+群花館的烏因·尼伊好像在思考什麼。"
 1,"TEXT_BANPIX114_03702_SEQ_01",""
 2,"TEXT_BANPIX114_03702_SEQ_02",""
 3,"TEXT_BANPIX114_03702_SEQ_03",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANPIX114_03702_SEQ_22",""
 23,"TEXT_BANPIX114_03702_SEQ_23",""
 24,"TEXT_BANPIX114_03702_TODO_00","調查聖法斯里克天庭的<Sheet(EObj,2010898,0)/>"
-25,"TEXT_BANPIX114_03702_TODO_01","向烏因．尼伊報告"
+25,"TEXT_BANPIX114_03702_TODO_01","向烏因·尼伊報告"
 26,"TEXT_BANPIX114_03702_TODO_02",""
 27,"TEXT_BANPIX114_03702_TODO_03",""
 28,"TEXT_BANPIX114_03702_TODO_04",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANPIX114_03702_TODO_21",""
 46,"TEXT_BANPIX114_03702_TODO_22",""
 47,"TEXT_BANPIX114_03702_TODO_23",""
-48,"TEXT_BANPIX114_03702_UINNEE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，可以聽我說幾句嗎？
+48,"TEXT_BANPIX114_03702_UINNEE_000_000","<Highlight>ObjectParameter(1)</Highlight>，可以聽我說幾句嗎？
 為了讓夢裡的孩子們開心，我認真地想了一下。"
 49,"TEXT_BANPIX114_03702_UINNEE_000_001","但是，我越想越不知道怎麼辦才好了……
 所以我想，「意想不到的東西」才是最好的！"
@@ -83,5 +83,5 @@ int32,str,str
 不過，拜託你果然是正確的選擇。"
 62,"TEXT_BANPIX114_03702_UINNEE_000_025","多虧了你，我能做出「意想不到的東西」了，
 孩子們肯定會開心吧！
-謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+謝謝你，<Highlight>ObjectParameter(1)</Highlight>！"
 63,"TEXT_BANPIX114_03702_UINNEE_000_026","（★未使用／削除予定★）"

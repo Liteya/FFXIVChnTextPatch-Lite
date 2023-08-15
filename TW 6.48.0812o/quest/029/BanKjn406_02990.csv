@@ -52,9 +52,9 @@ int32,str,str
 45,"TEXT_BANKJN406_02990_TODO_21",""
 46,"TEXT_BANKJN406_02990_TODO_22",""
 47,"TEXT_BANKJN406_02990_TODO_23",""
-48,"TEXT_BANKJN406_02990_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，要不要體驗優雅的尋寶之旅啊？
+48,"TEXT_BANKJN406_02990_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，要不要體驗優雅的尋寶之旅啊？
 詳情請去問負責照顧斑鰩的枕頭吧——"
-49,"TEXT_BANKJN406_02990_MAKURA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你的到來——
+49,"TEXT_BANKJN406_02990_MAKURA_000_010","<Highlight>ObjectParameter(1)</Highlight>，歡迎你的到來——
 斑鰩變得更加聰明伶俐了哦——"
 50,"TEXT_BANKJN406_02990_MAKURA_000_011","斑鰩不是有時候光游泳就能把寶物吸進去嗎？
 現在斑鰩的這個技能更加進化了，
@@ -72,7 +72,7 @@ int32,str,str
 56,"TEXT_BANKJN406_02990_SYSTEM_000_027","沉積物中可能埋藏著寶物。
 和碧玉水的枕頭交談，
 騎著斑鰩在地圖上標記的地點附近進行吸引。"
-57,"TEXT_BANKJN406_02990_ZUKIN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，歡迎回來！
+57,"TEXT_BANKJN406_02990_ZUKIN_000_030","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，歡迎回來！
 斑鰩的肚子被撐得鼓鼓的呢——
 看來應該能吐出來不少好寶物！"
 58,"TEXT_BANKJN406_02990_ZUKIN_000_031","只要使用吸引的話，今後的尋寶也會輕鬆很多呢——

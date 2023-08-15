@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSHRV010_00012_TODO_21",""
 46,"TEXT_CLSHRV010_00012_TODO_22",""
 47,"TEXT_CLSHRV010_00012_TODO_23",""
-48,"TEXT_CLSHRV010_00012_FUFUCHA_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有個工作想拜託你。
+48,"TEXT_CLSHRV010_00012_FUFUCHA_000_000","<Highlight>ObjectParameter(1)</Highlight>，我有個工作想拜託你。
 ……因為只有你理解我的心情。"
 49,"TEXT_CLSHRV010_00012_FUFUCHA_000_001","格里達尼亞蛇巢司令部委託我們去收集<Sheet(Item,　5536,0)/>。
 ……我很在意事情的原委。"
@@ -78,9 +78,9 @@ int32,str,str
 過會雙蛇黨會派人去取的。"
 58,"TEXT_CLSHRV010_00012_FUFUCHA_000_020","事情我已經都聽說了。
 那麼我就收下這20束<Sheet(Item,　5536,0)/>了。"
-59,"TEXT_CLSHRV010_00012_FUFUCHA_000_021","辛苦你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+59,"TEXT_CLSHRV010_00012_FUFUCHA_000_021","辛苦你了，<Highlight>ObjectParameter(1)</Highlight>。
 ……果然又要開戰了。"
-60,"TEXT_CLSHRV010_00012_FUFUCHA_000_22","既然加文都這麼說，那一定是真的了。
+60,"TEXT_CLSHRV010_00012_FUFUCHA_000_22","既然加文都這麼說，那肯定是真的了。
 他是不會撒謊的……
 戰爭又要打響了……"
 61,"TEXT_CLSHRV010_00012_FUFUCHA_000_023","……以前我也和你說過，

@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB106_00825_SEQ_00","遺忘綠洲的烏．庫巴．提亞，有東西想要冒險者幫忙收集。"
-1,"TEXT_GAIUSB106_00825_SEQ_01","烏．庫巴．提亞想要籌備箭頭。從<Sheet(BNpcName,285,0)/>身上獲得6個<Sheet(EventItem,2000646,0)/>。"
-2,"TEXT_GAIUSB106_00825_SEQ_02","獲得了6個<Sheet(EventItem,2000646,0)/>。將其交給遺忘綠洲的烏．庫巴．提亞。"
-3,"TEXT_GAIUSB106_00825_SEQ_03","將<Sheet(EventItem,2000646,0)/>交給了烏．庫巴．提亞。他似乎有一定把握能當上族長了。"
+0,"TEXT_GAIUSB106_00825_SEQ_00","遺忘綠洲的烏·庫巴·提亞，有東西想要冒險者幫忙收集。"
+1,"TEXT_GAIUSB106_00825_SEQ_01","烏·庫巴·提亞想要籌備箭頭。從<Sheet(BNpcName,285,0)/>身上獲得6個<Sheet(EventItem,2000646,0)/>。"
+2,"TEXT_GAIUSB106_00825_SEQ_02","獲得了6個<Sheet(EventItem,2000646,0)/>。將其交給遺忘綠洲的烏·庫巴·提亞。"
+3,"TEXT_GAIUSB106_00825_SEQ_03","將<Sheet(EventItem,2000646,0)/>交給了烏·庫巴·提亞。他似乎有一定把握能當上族長了。"
 4,"TEXT_GAIUSB106_00825_SEQ_04",""
 5,"TEXT_GAIUSB106_00825_SEQ_05",""
 6,"TEXT_GAIUSB106_00825_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSB106_00825_SEQ_22",""
 23,"TEXT_GAIUSB106_00825_SEQ_23",""
 24,"TEXT_GAIUSB106_00825_TODO_00","從<Sheet(BNpcName,285,0)/>身上獲得<Sheet(EventItem,2000646,0)/>"
-25,"TEXT_GAIUSB106_00825_TODO_01","將<Sheet(EventItem,2000646,0)/>交給烏．庫巴．提亞"
+25,"TEXT_GAIUSB106_00825_TODO_01","將<Sheet(EventItem,2000646,0)/>交給烏·庫巴·提亞"
 26,"TEXT_GAIUSB106_00825_TODO_02",""
 27,"TEXT_GAIUSB106_00825_TODO_03",""
 28,"TEXT_GAIUSB106_00825_TODO_04",""
@@ -57,7 +57,7 @@ int32,str,str
 50,"TEXT_GAIUSB106_00825_UKHUBATIA_000_002","首先為了磨練弓術本領，我需要箭。
 希望你能從<Sheet(BNpcName,285,0)/>身上獲得6個<Sheet(EventItem,2000646,0)/>，
 那是製作箭頭的材料。"
-51,"TEXT_GAIUSB106_00825_DUMMY_000_020","打倒盲頭蟹，獲得6個<Sheet(EventItem,2000646,0)/>"
+51,"TEXT_GAIUSB106_00825_DUMMY_000_020","打倒盲頭蟹，獲取6個<Sheet(EventItem,2000646,0)/>"
 52,"TEXT_GAIUSB106_00825_UKHUBATIA_000_030","這都是為了磨練我的弓術本領。
 你去拿6個<Sheet(EventItem,2000646,0)/>來吧。"
 53,"TEXT_GAIUSB106_00825_UKHUBATIA_000_035","謝謝你，冒險者。

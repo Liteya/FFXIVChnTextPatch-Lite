@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ002_02636_SEQ_22",""
 23,"TEXT_STMBDZ002_02636_SEQ_23",""
 24,"TEXT_STMBDZ002_02636_TODO_00","和特布對話"
-25,"TEXT_STMBDZ002_02636_TODO_01","獲得<Sheet(EventItem,2002077,0)/>"
+25,"TEXT_STMBDZ002_02636_TODO_01","獲取<Sheet(EventItem,2002077,0)/>"
 26,"TEXT_STMBDZ002_02636_TODO_02","將<Sheet(EventItem,2002077,0)/>交給阿海里莎"
 27,"TEXT_STMBDZ002_02636_TODO_03",""
 28,"TEXT_STMBDZ002_02636_TODO_04",""
@@ -49,15 +49,15 @@ int32,str,str
 45,"TEXT_STMBDZ002_02636_TODO_21",""
 46,"TEXT_STMBDZ002_02636_TODO_22",""
 47,"TEXT_STMBDZ002_02636_TODO_23",""
-48,"TEXT_STMBDZ002_02636_AHELISSA_000_000","飯還沒做好呢……欸？你要來幫忙嗎？
+48,"TEXT_STMBDZ002_02636_AHELISSA_000_000","飯還沒做好呢……誒？你要來幫忙嗎？
 那太好了，你要是有空的話，能幫我從材料存放處的特布那裡
 拿6束<Sheet(EventItem,2002077,0)/>來嗎？"
 49,"TEXT_STMBDZ002_02636_AHELISSA_000_001","我想用它來給菜餚調味，
 結果卻不夠了。
-我在忙著做菜，沒辦法離開這裡，就拜託你了。"
+我在忙著做菜，沒法離開這裡，就拜託你了。"
 50,"TEXT_STMBDZ002_02636_AHELISSA_000_002","你能幫我從材料存放處的特布那裡
 拿6束<Sheet(EventItem,2002077,0)/>來嗎？
-我在忙著做菜，沒辦法離開這裡，就拜託你了。"
+我在忙著做菜，沒法離開這裡，就拜託你了。"
 51,"TEXT_STMBDZ002_02636_TEBBE_000_010","原來如此，你要6束<Sheet(EventItem,2002077,0)/>啊。
 怎麼辦，我這裡現在只有2束……
 總之先把這些給你吧。"
@@ -68,7 +68,7 @@ int32,str,str
 應該很容易找到的。"
 54,"TEXT_STMBDZ002_02636_AHELISSA_000_013","能幫我從材料存放處的特布那裡
 拿6束<Sheet(EventItem,2002077,0)/>來嗎？
-我在忙著做菜，沒辦法離開這裡，就拜託你了。"
+我在忙著做菜，沒法離開這裡，就拜託你了。"
 55,"TEXT_STMBDZ002_02636_AHELISSA_000_031","拜託你的<Sheet(EventItem,2002077,0)/>已經拿到了嗎？"
 56,"TEXT_STMBDZ002_02636_AHELISSA_000_032","謝謝你，幫大忙了！
 然後……那個……對不起……

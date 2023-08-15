@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA911_00806_SEQ_00","鄧斯坦哨塔的奧布里奧非常疲憊。"
-1,"TEXT_GAIUSA911_00806_SEQ_01","代替奧布里奧進行水質調查。在萌芽池獲得<Sheet(EventItem,2000634,0)/>。"
+1,"TEXT_GAIUSA911_00806_SEQ_01","代替奧布里奧進行水質調查。在萌芽池獲取<Sheet(EventItem,2000634,0)/>。"
 2,"TEXT_GAIUSA911_00806_SEQ_02","返回鄧斯坦哨塔，將<Sheet(EventItem,2000634,0)/>交給奧布里奧。"
 3,"TEXT_GAIUSA911_00806_SEQ_03","奧布里奧手頭的工作算是解決了……但是回家對他來說還是很遙遠的事情。"
 4,"TEXT_GAIUSA911_00806_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSA911_00806_SEQ_21",""
 22,"TEXT_GAIUSA911_00806_SEQ_22",""
 23,"TEXT_GAIUSA911_00806_SEQ_23",""
-24,"TEXT_GAIUSA911_00806_TODO_00","獲得<Sheet(EventItem,2000634,0)/>"
+24,"TEXT_GAIUSA911_00806_TODO_00","獲取<Sheet(EventItem,2000634,0)/>"
 25,"TEXT_GAIUSA911_00806_TODO_01","將<Sheet(EventItem,2000634,0)/>交給奧布里奧"
 26,"TEXT_GAIUSA911_00806_TODO_02",""
 27,"TEXT_GAIUSA911_00806_TODO_03",""
@@ -63,7 +63,7 @@ int32,str,str
 55,"TEXT_GAIUSA911_00806_TODO_000_002","（★未使用／削除予定★）"
 56,"TEXT_GAIUSA911_00806_HOBRIAUT_000_010","所謂的「頭號助手」都不知道有多少個了，我真是不想幹了……
 但是馬爾塞特老師的調查不結束，
-我們也就沒辦法回去……"
+我們也就沒法回去……"
 57,"TEXT_GAIUSA911_00806_HOBRIAUT_000_020","喔喔，您採來水樣了啊！
 這下子總該……不，那是馬爾塞特老師啊。
 肯定只是被指派新的工作而已……"

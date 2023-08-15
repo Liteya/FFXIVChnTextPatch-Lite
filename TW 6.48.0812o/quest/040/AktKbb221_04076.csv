@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKBB221_04076_SEQ_00","夜遊魂總部的德魯西拉正在等待阿恩吉斯的聯繫。"
+0,"TEXT_AKTKBB221_04076_SEQ_00","夜遊魂總部的德魯西拉正在等待阿恩吉斯的聯絡。"
 1,"TEXT_AKTKBB221_04076_SEQ_01","從夜遊魂的組織成員口中得知阿恩吉斯被人殺害了。德魯西拉一言不發地前往了目前遺體所在的墓地。和現世迴廊艾拉里格墓地前的德魯西拉談談。"
 2,"TEXT_AKTKBB221_04076_SEQ_02","阿恩吉斯的遺體被安置在艾拉里格墓地。德魯西拉委託祭司好好祭奠他的遺體。和中薩納蘭棄石貧民窟的德魯西拉談談。"
 3,"TEXT_AKTKBB221_04076_SEQ_03","德魯西拉向阿恩吉斯的妻子傳達了死訊。為了報個人的仇恨而將阿恩吉斯捲入其中，對此德魯西拉深感後悔，可是阿恩吉斯的妻子並沒有責怪自己的恩人。和中薩納蘭菲斯卡冒險者營地附近大橋的德魯西拉談談。"
@@ -10,7 +10,7 @@ int32,str,str
 若是離開了夜遊魂總部，白玉小巷的夜遊魂成員會帶領冒險者再次前往總部。"
 6,"TEXT_AKTKBB221_04076_SEQ_06","據說奧迦斯是附身在了德魯西拉祖父的遺體上。德魯西拉提醒被奧迦斯看中的冒險者不要輕敵。鍛鍊自己的實力，做好與奧迦斯戰鬥的準備。
 
-※收割者的等級達到78級以上時，可以從夜遊魂總部的德魯西拉那裡領取下一個收割者任務。"
+※釤鐮客的等級達到78級以上時，可以從夜遊魂總部的德魯西拉那裡領取下一個釤鐮客任務。"
 7,"TEXT_AKTKBB221_04076_SEQ_07",""
 8,"TEXT_AKTKBB221_04076_SEQ_08",""
 9,"TEXT_AKTKBB221_04076_SEQ_09",""
@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_AKTKBB221_04076_TODO_21",""
 46,"TEXT_AKTKBB221_04076_TODO_22",""
 47,"TEXT_AKTKBB221_04076_TODO_23",""
-48,"TEXT_AKTKBB221_04076_HERMIN_000_001","現在就等阿恩吉斯的聯繫了。
+48,"TEXT_AKTKBB221_04076_HERMIN_000_001","現在就等阿恩吉斯的聯絡了。
 畢竟比起情報的收集與分析，
 我還是更擅長「集資」這類體力活。"
 49,"TEXT_AKTKBB221_04076_DRUSILLA_000_010","是你啊……
@@ -64,25 +64,25 @@ int32,str,str
 53,"TEXT_AKTKBB221_04076_LEMURESMEMBERA_000_014","阿恩吉斯他……他死了！"
 54,"TEXT_AKTKBB221_04076_HERMIN_000_015","什……你說什麼？！"
 55,"TEXT_AKTKBB221_04076_LEMURESMEMBERA_000_016","幾個小時前銅刃團在荒野發現了被遺棄在那裡的阿恩吉斯的遺體。
-現在聯繫我們說人已經送到艾拉里格墓地了……"
+現在聯絡我們說人已經送到艾拉里格墓地了……"
 56,"TEXT_AKTKBB221_04076_HERMIN_000_017","是、是誰幹的！
-我們絕對要找出凶手讓他付出應有的代價！
+我們絕對要找出兇手讓他付出應有的代價！
 喂，召集全體成員，準備開戰！"
 57,"TEXT_AKTKBB221_04076_LEMURESMEMBERA_000_018","冷靜、赫爾敏！
 現在總之先冷靜下來，等待老大的指示！"
-58,"TEXT_AKTKBB221_04076_LEMURESMEMBERA_000_019","抱歉， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+58,"TEXT_AKTKBB221_04076_LEMURESMEMBERA_000_019","抱歉，<Highlight>ObjectParameter(1)</Highlight>。
 我得在這裡看著赫爾敏，省得她做出不理智的事情。
 就麻煩你去現世迴廊的艾拉里格墓地找老大吧！"
 59,"TEXT_AKTKBB221_04076_HERMIN_000_030","是誰殺了阿恩吉斯大叔！
 不可原諒……絕不能原諒！"
 60,"TEXT_AKTKBB221_04076_LEMURESMEMBERA_000_035","阿恩吉斯的遺體被臨時安置在現世迴廊的艾拉里格墓地那裡。
 請你去找老大吧。"
-61,"TEXT_AKTKBB221_04076_DRUSILLA_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……你來了啊。
+61,"TEXT_AKTKBB221_04076_DRUSILLA_000_040","<Highlight>ObjectParameter(1)</Highlight>……你來了啊。
 先跟我走一趟，我要去見阿恩吉斯最後一面。"
 62,"TEXT_AKTKBB221_04076_DRUSILLA_000_041","有人嗎！
 守墓人在嗎！！"
 63,"TEXT_AKTKBB221_04076_NALDTHALPRIEST_000_042","請肅靜……
-請不要打擾逝者的安寧。"
+請不要打攪逝者的安寧。"
 64,"TEXT_AKTKBB221_04076_DRUSILLA_000_043","給我閉嘴，你這個臭祭司！
 聽銅刃團說有位男性被害者的遺體被送到了這裡。
 快點帶我過去！"
@@ -96,7 +96,7 @@ int32,str,str
 68,"TEXT_AKTKBB221_04076_NALDTHALPRIEST_000_047","哎，隨、隨你便吧！"
 69,"TEXT_AKTKBB221_04076_DRUSILLA_000_048","怎麼會這樣……阿恩吉斯！
 可惡啊……！"
-70,"TEXT_AKTKBB221_04076_DRUSILLA_000_049"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你別過來了……
+70,"TEXT_AKTKBB221_04076_DRUSILLA_000_049","<Highlight>ObjectParameter(1)</Highlight>，你別過來了……
 阿恩吉斯現在這樣……拜託了……"
 71,"TEXT_AKTKBB221_04076_DRUSILLA_000_050","祭司……剛才真是抱歉了。
 能請你好好地祭奠他嗎？"
@@ -105,7 +105,7 @@ int32,str,str
 則需要捐贈相應的金額……"
 73,"TEXT_AKTKBB221_04076_DRUSILLA_000_052","金錢方面我是不會吝嗇的。
 到時候你派人到夜遊魂總部說一下需要多少錢就行……"
-74,"TEXT_AKTKBB221_04076_DRUSILLA_000_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你能不能再稍等一會？
+74,"TEXT_AKTKBB221_04076_DRUSILLA_000_053","<Highlight>ObjectParameter(1)</Highlight>，請你能不能再稍等一會？
 我還得再去找一個人談談，你的事情之後再說。"
 75,"TEXT_AKTKBB221_04076_DRUSILLA_000_054","現在這個時間的話，
 那個人應該在中薩納蘭的棄石貧民窟才對。
@@ -135,17 +135,17 @@ int32,str,str
 又或者可能是那些高官們覺得我丈夫很礙眼，於是設計了這種陰謀。"
 86,"TEXT_AKTKBB221_04076_ARNEGISWIFE_000_079","總之真相已經不得而知。
 我們夫婦就此再也無法生活在帝國。
-所以途經中立城邦拉札罕，逃到了艾奧傑亞……"
+所以途經中立城邦拉札罕，逃到了艾歐澤亞……"
 87,"TEXT_AKTKBB221_04076_DRUSILLA_000_080","之後的事情我還記得。
-因為工作關係，當時我去了利姆薩．羅敏薩的港口，
+因為工作關係，當時我去了利姆薩·羅敏薩的港口，
 那邊的衛兵吵嚷著說發現了帝國的間諜來著。"
 88,"TEXT_AKTKBB221_04076_ARNEGISWIFE_000_081","嗯，當時好不容易才逃到了這邊，
 沒想到又要被人追趕，心裡差點就絕望了呢。"
 89,"TEXT_AKTKBB221_04076_ARNEGISWIFE_000_082","不過幸虧有老大伸手相助。
 讓我們加入了夜遊魂，成為了這個大家庭的一員。
-現在能過著這樣的生活都是託老大的福。"
+現在能過著這樣的生活都是托老大的福。"
 90,"TEXT_AKTKBB221_04076_DRUSILLA_000_083","可我……
-卻因為個人復仇的事情將阿恩吉斯捲了進來……"
+卻因為個人復仇的事情將阿恩吉斯卷了進來……"
 91,"TEXT_AKTKBB221_04076_DRUSILLA_000_084","我看過阿恩吉斯的遺體了……
 犯人就是我正在追的那個妖異奧迦斯。"
 92,"TEXT_AKTKBB221_04076_ARNEGISWIFE_000_085","我丈夫一直都在說他很榮幸能為老大這位恩人效力。"
@@ -154,7 +154,7 @@ int32,str,str
 那為了能讓阿恩吉斯瞑目……"
 94,"TEXT_AKTKBB221_04076_DRUSILLA_000_087","嗯，我明白。
 我一定會讓奧迦斯付出應有的代價。"
-95,"TEXT_AKTKBB221_04076_DRUSILLA_000_088"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+95,"TEXT_AKTKBB221_04076_DRUSILLA_000_088","<Highlight>ObjectParameter(1)</Highlight>……
 我有話要跟你講清楚。
 這裡人有點多，你能來北邊的橋嗎？"
 96,"TEXT_AKTKBB221_04076_ARNEGISWIFE_000_089","啊、阿恩吉斯……
@@ -173,7 +173,7 @@ int32,str,str
 102,"TEXT_AKTKBB221_04076_DRUSILLA_000_095","手下被幹掉後，那傢伙也就察覺到了我們的存在，
 於是便出手進行了反擊。
 阿恩吉斯的死想必就是那傢伙在警告我們不要繼續再追他吧。"
-103,"TEXT_AKTKBB221_04076_DRUSILLA_000_096","奧迦斯會抓走看上的獵物，透過拷問享受獵物痛苦時的樣子，
+103,"TEXT_AKTKBB221_04076_DRUSILLA_000_096","奧迦斯會抓走看上的獵物，通過拷問享受獵物痛苦時的樣子，
 簡直就是個有著十足惡趣味令人作嘔的畜生。
 阿恩吉斯的遺體也是……那樣子實在是太慘不忍睹了。"
 104,"TEXT_AKTKBB221_04076_DRUSILLA_000_097","我們從追擊的一方變成了防守的一方。
@@ -186,7 +186,7 @@ int32,str,str
 108,"TEXT_AKTKBB221_04076_A1_000_002","事已至此，我不能臨陣脫逃"
 109,"TEXT_AKTKBB221_04076_DRUSILLA_000_100","謝謝你。"
 110,"TEXT_AKTKBB221_04076_DRUSILLA_000_101","既然你願意為了阿恩吉斯拚命戰鬥，
-那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你對我們來說也算是家人了。"
+那<Highlight>ObjectParameter(1)</Highlight>你對我們來說也算是家人了。"
 111,"TEXT_AKTKBB221_04076_ORCUS_000_102","(-？？？？-)家人嗎……"
 112,"TEXT_AKTKBB221_04076_DRUSILLA_000_103","你是……奧迦斯！"
 113,"TEXT_AKTKBB221_04076_ORCUS_000_104","還以為是哪個追兵這麼執著，
@@ -198,7 +198,7 @@ int32,str,str
 不過我更在意的是……"
 117,"TEXT_AKTKBB221_04076_ORCUS_000_108","原本已經被我吞食的你
 怎麼還會站在這裡？！"
-118,"TEXT_AKTKBB221_04076_DRUSILLA_000_109"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+118,"TEXT_AKTKBB221_04076_DRUSILLA_000_109","<Highlight>ObjectParameter(1)</Highlight>！
 麻煩你援護我！"
 119,"TEXT_AKTKBB221_04076_ORCUS_000_110","哎呀哎呀，還沒來得及品味再會的感動，
 就要殺個你死我活了嗎？"
@@ -217,7 +217,7 @@ int32,str,str
 128,"TEXT_AKTKBB221_04076_ORCUS_000_118","不管多麼優秀的素材，
 要是不肯下工夫的話，
 可做不出最棒的菜餚！"
-129,"TEXT_AKTKBB221_04076_ORCUS_000_119","你是叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧。
+129,"TEXT_AKTKBB221_04076_ORCUS_000_119","你是叫<Highlight>ObjectParameter(1)</Highlight>吧。
 等你的靈魂被恐懼與憎惡所填滿時，
 我再來找你！"
 130,"TEXT_AKTKBB221_04076_ORCUS_000_120","下次見了……我的美食！"
@@ -227,7 +227,7 @@ int32,str,str
 我曾經一度敗在奧迦斯手下。
 那時候我的家人都慘遭他的毒手……"
 133,"TEXT_AKTKBB221_04076_DRUSILLA_200_130","我想你一定在意他說我原本被他吞食這件事，
-但現在我沒辦法冷靜跟你說明。
+但現在我沒法冷靜跟你說明。
 等過幾天再重新跟你細談一下吧。"
 134,"TEXT_AKTKBB221_04076_DRUSILLA_000_131","既然獵物已經跑掉了，再待在這裡也無濟於事。
 先回總部吧。"
@@ -236,7 +236,7 @@ int32,str,str
 居然如此看不起我們！"
 136,"TEXT_AKTKBB221_04076_DRUSILLA_000_150","被他擺了一道……
 我們完全處於被動了。"
-137,"TEXT_AKTKBB221_04076_DRUSILLA_000_151","我想 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也看到了，
+137,"TEXT_AKTKBB221_04076_DRUSILLA_000_151","我想<Highlight>ObjectParameter(1)</Highlight>你也看到了，
 奧迦斯附身在人的身體……也就是我祖父的遺體上。
 而且不知道他用了什麼方法，還使遺體變年輕了。"
 138,"TEXT_AKTKBB221_04076_DRUSILLA_000_152","因此他比其他有著異形外表的妖異更容易混跡在人群當中。"

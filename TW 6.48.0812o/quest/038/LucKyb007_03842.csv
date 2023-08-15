@@ -49,14 +49,14 @@ int32,str,str
 45,"TEXT_LUCKYB007_03842_TODO_21",""
 46,"TEXT_LUCKYB007_03842_TODO_22",""
 47,"TEXT_LUCKYB007_03842_TODO_23",""
-48,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_001","哎呀，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_001","哎呀，是<Highlight>ObjectParameter(1)</Highlight>！
 你與神兵的戰鬥我已經在暗處見識過了！"
 49,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_002","不過真是沒想到，
 帝國軍居然成功開發出了究極神兵的後繼機種……"
 50,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_003","啊，當我得知這個情報的時候，你知道我有多興奮嗎？
 哎呀真是個愚蠢的問題，你是絕對不可能知道的。
 不僅將亞拉戈帝國誕生的蠻神兵器在現代重新復活……"
-51,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_004","還透過最新的魔導技術開發出了後繼機種，
+51,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_004","還通過最新的魔導技術開發出了後繼機種，
 你能相信嗎？不，這已經不是信不信的問題，這根本就是個威脅！
 你沒有聽錯，就是個威脅。"
 52,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_000_005","（★未使用／削除予定★）"
@@ -72,7 +72,7 @@ int32,str,str
 嘿嘿嘿……我要製造的可不是單純的模型哦！"
 59,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_200_010","這是對古代亞拉戈文明的遺物進行改造後的裝置……
 其名為「模擬戰系統」！"
-60,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_300_010","透過對我製造出的模型進行掃描，
+60,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_300_010","通過對我製造出的模型進行掃描，
 可以模擬體驗到與神兵之間更加激烈的戰鬥！
 雖然不知道是什麼原理，不過亞拉戈文明真是厲害！"
 61,"TEXT_LUCKYB007_03842_WEAPONSGIENGINEER_400_010","怎麼樣？已經開始興奮了吧？

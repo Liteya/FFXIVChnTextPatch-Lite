@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB508_00877_SEQ_00","聖阿達瑪．蘭達瑪教會的埃莉內德，正在尋找可以協助她進行祈禱的人。"
-1,"TEXT_GAIUSB508_00877_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往聖阿達瑪．蘭達瑪教會找埃莉內德重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_GAIUSB508_00877_SEQ_00","聖阿達瑪·蘭達瑪教會的埃莉內德，正在尋找可以協助她進行祈禱的人。"
+1,"TEXT_GAIUSB508_00877_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往聖阿達瑪·蘭達瑪教會找埃莉內德重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。"
-2,"TEXT_GAIUSB508_00877_SEQ_02","在最終祈禱紀念地獻上了禱告。返回聖阿達瑪．蘭達瑪教會，向埃莉內德報告。"
+2,"TEXT_GAIUSB508_00877_SEQ_02","在最終祈禱紀念地獻上了禱告。返回聖阿達瑪·蘭達瑪教會，向埃莉內德報告。"
 3,"TEXT_GAIUSB508_00877_SEQ_03","向埃莉內德報告完畢。要是禱告能傳達給同伴們就好了……"
 4,"TEXT_GAIUSB508_00877_SEQ_04",""
 5,"TEXT_GAIUSB508_00877_SEQ_05",""
@@ -28,9 +28,9 @@ int32,str,str
 22,"TEXT_GAIUSB508_00877_SEQ_22",""
 23,"TEXT_GAIUSB508_00877_SEQ_23",""
 24,"TEXT_GAIUSB508_00877_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往聖阿達瑪．蘭達瑪教會找埃莉內德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往聖阿達瑪·蘭達瑪教會找埃莉內德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSB508_00877_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往聖阿達瑪．蘭達瑪教會找埃莉內德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往聖阿達瑪·蘭達瑪教會找埃莉內德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB508_00877_TODO_02",""
 27,"TEXT_GAIUSB508_00877_TODO_03",""
 28,"TEXT_GAIUSB508_00877_TODO_04",""
@@ -65,7 +65,7 @@ int32,str,str
 祈禱襲擊他們的人都能受到公正的制裁。
 我們能做到的，也就只有這種事了……"
 53,"TEXT_GAIUSB508_00877_DUMMY_000_010","（在最終祈禱紀念地，對紀念碑做「祈禱」的情感動作）"
-54,"TEXT_GAIUSB508_00877_SYSTEM_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為同伴們獻上了禱告……"
+54,"TEXT_GAIUSB508_00877_SYSTEM_000_010","<Highlight>ObjectParameter(1)</Highlight>為同伴們獻上了禱告……"
 55,"TEXT_GAIUSB508_00877_ELUNED_000_020","沒想到遇難者中居然也有您的熟人……
 願他們都能安息……"
 56,"TEXT_GAIUSB508_00877_ELUNED_000_021","願死後回歸乙太的眾人，

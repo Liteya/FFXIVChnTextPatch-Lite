@@ -51,18 +51,18 @@ int32,str,str
 45,"TEXT_JOBAST540_02022_TODO_21",""
 46,"TEXT_JOBAST540_02022_TODO_22",""
 47,"TEXT_JOBAST540_02022_TODO_23",""
-48,"TEXT_JOBAST540_02022_JANNEQUINARD_000_000","別來無恙， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBAST540_02022_JANNEQUINARD_000_000","別來無恙，<Highlight>ObjectParameter(1)</Highlight>。
 蕾薇瓦老師下一次的演講會的召開地點已經決定了。
 這次要吸取前一次的教訓，來舉辦一場成功的演講會吧。"
 49,"TEXT_JOBAST540_02022_JANNEQUINARD_000_001","這次的演講地點是聖菲內雅連隊露營地，
 那裡的人長年奮戰在與龍族戰鬥的第一線上。
-咱們就在那裡會合吧。"
+咱們就在那裡匯合吧。"
 50,"TEXT_JOBAST540_02022_JANNEQUINARD_000_009","這次要吸取前一次的教訓，來舉辦一場成功的演講會吧。"
 51,"TEXT_JOBAST540_02022_BALLOON_000_010","（★未使用／削除予定★）"
 52,"TEXT_JOBAST540_02022_BALLOON_000_011","（★未使用／削除予定★）"
-53,"TEXT_JOBAST540_02022_JANNEQUINARD_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+53,"TEXT_JOBAST540_02022_JANNEQUINARD_000_010","<Highlight>ObjectParameter(1)</Highlight>……
 這裡比預想的還要危險……"
-54,"TEXT_JOBAST540_02022_LEVEVA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，小心點。
+54,"TEXT_JOBAST540_02022_LEVEVA_000_010","<Highlight>ObjectParameter(1)</Highlight>，小心點。
 我們剛開始進行演講會的宣傳，坎佩蘭就遭到了毆打。"
 55,"TEXT_JOBAST540_02022_JANNEQUINARD_000_011","他們聽說占星術士要來，
 似乎就想當然地認為我們是來占卜龍族的動向的。
@@ -70,7 +70,7 @@ int32,str,str
 56,"TEXT_JOBAST540_02022_LEVEVA_000_012","薩雷安式占星術的本職並不是預測龍的行動。
 正因如此我們才應該向他們展示我們的治癒能力。"
 57,"TEXT_JOBAST540_02022_LEVEVA_000_013","我聽說這支連隊裡有很多傷員。
-就透過治療那些傷員，
+就通過治療那些傷員，
 來讓他們切身體驗一下占星魔法的力量吧。"
 58,"TEXT_JOBAST540_02022_LEVEVA_000_020","這就是占星魔法的治癒之力……"
 59,"TEXT_JOBAST540_02022_JANNEQUINARD_000_020","放輕鬆，馬上就會好起來的。"
@@ -81,7 +81,7 @@ int32,str,str
 這就是占星魔法的治癒力嗎……效果非凡啊。"
 64,"TEXT_JOBAST540_02022_WOUNDEDC02022_100_020","誰能救救我……"
 65,"TEXT_JOBAST540_02022_WOUNDEDC02022_000_020","得救了……真是太感謝了。
-欸，這就是占星術的治療魔法啊。"
+誒，這就是占星術的治療魔法啊。"
 66,"TEXT_JOBAST540_02022_LEVEVA_000_030","嗚……大家……離我遠點……"
 67,"TEXT_JOBAST540_02022_JANNEQUINARD_000_031","蕾薇瓦老師，您怎麼了？！
 是什麼急病發作了嗎？！"
@@ -94,7 +94,7 @@ int32,str,str
 72,"TEXT_JOBAST540_02022_CELIE_000_036","(-北洋的秘術師-)抓住未經哲學家議會許可就遠赴他鄉的占星術士。
 這可是我的任務呢。"
 73,"TEXT_JOBAST540_02022_LEVEVA_000_037","就算等待議會的結論，結果不也是否決派遣而已嗎！
-我是以個人名義來到伊修加爾德的，
+我是以個人名義來到伊修加德的，
 議會沒有理由對我的個人行為指手畫腳！"
 74,"TEXT_JOBAST540_02022_CELIE_000_038","(-北洋的秘術師-)這種狡辯是行不通的哦。
 你這種任意普及管轄之外的知識的行為，
@@ -102,9 +102,9 @@ int32,str,str
 75,"TEXT_JOBAST540_02022_CELIE_000_039","(-北洋的秘術師-)事實上在上次的演講會上，你不是也被大家討厭了嘛。
 本來還想混在人群中接近你的，
 結果連一個聽眾都沒有，真慘啊。"
-76,"TEXT_JOBAST540_02022_JANNEQUINARD_000_040","……原來如此， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 治療的那些騎兵，
+76,"TEXT_JOBAST540_02022_JANNEQUINARD_000_040","……原來如此，<Highlight>ObjectParameter(1)</Highlight>治療的那些騎兵，
 其實是你的部下嗎……"
-77,"TEXT_JOBAST540_02022_CELIE_000_041","(-北洋的秘術師-)我家主人並不希望十幾年前在伊修加爾德發生的
+77,"TEXT_JOBAST540_02022_CELIE_000_041","(-北洋的秘術師-)我家主人並不希望十幾年前在伊修加德發生的
 那起悲慘事件再度重演呢……
 就是那個占星術士、你的父親被謀殺的悲劇。"
 78,"TEXT_JOBAST540_02022_JANNEQUINARD_000_042","你說什麼？蕾薇瓦老師是他的女兒？！
@@ -112,35 +112,35 @@ int32,str,str
 79,"TEXT_JOBAST540_02022_CELIE_000_043","(-北洋的秘術師-)這次只是個警告！
 到底要不要向父親的仇敵傳授知識，
 你還是想想清楚吧！"
-80,"TEXT_JOBAST540_02022_JANNEQUINARD_000_044"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快替蕾薇瓦老師治療！"
-81,"TEXT_JOBAST540_02022_JANNEQUINARD_000_048"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩你幫蕾薇瓦老師治療……"
-82,"TEXT_JOBAST540_02022_JANNEQUINARD_000_049"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩你幫蕾薇瓦老師治療……"
+80,"TEXT_JOBAST540_02022_JANNEQUINARD_000_044","<Highlight>ObjectParameter(1)</Highlight>，快替蕾薇瓦老師治療！"
+81,"TEXT_JOBAST540_02022_JANNEQUINARD_000_048","<Highlight>ObjectParameter(1)</Highlight>，麻煩你幫蕾薇瓦老師治療……"
+82,"TEXT_JOBAST540_02022_JANNEQUINARD_000_049","<Highlight>ObjectParameter(1)</Highlight>，麻煩你幫蕾薇瓦老師治療……"
 83,"TEXT_JOBAST540_02022_LEVEVA_000_050","謝謝你們，
 傷口已經完全癒合了。"
 84,"TEXT_JOBAST540_02022_JANNEQUINARD_000_051","非常對不起……
 都是因為我的任性要求，才讓老師遭遇危險……
 我沒有想到哲學家議會居然對占星術的外傳如此忌諱……"
 85,"TEXT_JOBAST540_02022_LEVEVA_000_052","這是我自己選擇的道路，不是你的錯。
-我從聽說父親在伊修加爾德推廣占星術的那一刻起，
+我從聽說父親在伊修加德推廣占星術的那一刻起，
 就決心繼承他的遺志了……"
-86,"TEXT_JOBAST540_02022_LEVEVA_000_053","父親他……果然是被伊修加爾德人所殺害的啊。
-前幾天聽到被殺的占星術士的事時就隱約感覺到了……
-我……無法原諒伊修加爾德人！"
+86,"TEXT_JOBAST540_02022_LEVEVA_000_053","父親他……果然是被伊修加德人所殺害的啊。
+前些天聽到被殺的占星術士的事時就隱約感覺到了……
+我……無法原諒伊修加德人！"
 87,"TEXT_JOBAST540_02022_JANNEQUINARD_000_054","即使如此，路菲因他也……
-直到最後都對伊修加爾德……
-對伊修加爾德人的未來充滿信心。"
+直到最後都對伊修加德……
+對伊修加德人的未來充滿信心。"
 88,"TEXT_JOBAST540_02022_LEVEVA_000_055","為什麼……你會知道？！
 路菲因正是……父親的名字……"
 89,"TEXT_JOBAST540_02022_JANNEQUINARD_000_056","路菲因是我在薩雷安留學期間的學友。
 我親眼見證了他生命的最後一刻……
-在伊修加爾德將占星術發揚光大，是我和他共同的夢想。"
+在伊修加德將占星術發揚光大，是我和他共同的夢想。"
 90,"TEXT_JOBAST540_02022_JANNEQUINARD_000_057","這個還是交給蕾薇瓦老師來保管吧。
 這本日記是路菲因的遺物，
 一路支持我走到了現在，是我的精神支柱……"
-91,"TEXT_JOBAST540_02022_LEVEVA_000_058","……我還是不能原諒伊修加爾德人。
-但是，我也沒想到能以這樣的形式瞭解到父親的想法……
-能夠下定決心來到伊修加爾德，真是太好了……"
-92,"TEXT_JOBAST540_02022_JANNEQUINARD_000_059","作為一名伊修加爾德人，我並不敢奢求您的原諒。
+91,"TEXT_JOBAST540_02022_LEVEVA_000_058","……我還是不能原諒伊修加德人。
+但是，我也沒想到能以這樣的形式了解到父親的想法……
+能夠下定決心來到伊修加德，真是太好了……"
+92,"TEXT_JOBAST540_02022_JANNEQUINARD_000_059","作為一名伊修加德人，我並不敢奢求您的原諒。
 但是請允許我說一句……
 您挺身對抗命運的身姿，和路菲因簡直一模一樣。"
 93,"TEXT_JOBAST540_02022_LEVEVA_000_060","……是嗎，我和父親一樣嗎……
@@ -148,7 +148,7 @@ int32,str,str
 努力改變命運才行……"
 94,"TEXT_JOBAST540_02022_QUIMPERAIN_000_061","……如果是各位的話，一定能夠做到。
 就連曾經不信任占星術的在下，
-如今也想要讓更多人去瞭解占星術了。"
+如今也想要讓更多人去了解占星術了。"
 95,"TEXT_JOBAST540_02022_JANNEQUINARD_000_062","連固執的坎佩蘭都……這可是個大收穫。
 看來命運的齒輪已經開始轉動了呢。"
 96,"TEXT_JOBAST540_02022_LEVEVA_000_063","雅內基納爾，我決定了，
@@ -159,7 +159,7 @@ int32,str,str
 你要好好保護蕾薇瓦老師，拜託你了。"
 98,"TEXT_JOBAST540_02022_LEVEVA_000_065","雅內基納爾……
 有時間的話，跟我講講父親的事吧。"
-99,"TEXT_JOBAST540_02022_JANNEQUINARD_000_066","……那麼 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+99,"TEXT_JOBAST540_02022_JANNEQUINARD_000_066","……那麼<Highlight>ObjectParameter(1)</Highlight>，
 我們回占星院去吧。"
 100,"TEXT_JOBAST540_02022_LEVEVA_000_069","父親的日記，我會每晚邊觀星邊讀的……"
 101,"TEXT_JOBAST540_02022_JANNEQUINARD_000_070","雖說演講會延期了，但是我們的努力也開始展現成果。

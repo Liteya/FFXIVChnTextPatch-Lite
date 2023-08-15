@@ -5,8 +5,8 @@ int32,str,str
 1,"TEXT_STMBDZ617_02795_SEQ_01","和乞失里黑進行了交談。馬兀赤好像在尋找冒險者。和朵塔兒水洲的馬兀赤談談。"
 2,"TEXT_STMBDZ617_02795_SEQ_02","和馬兀赤進行了交談。馬兀赤想要品嘗奧羅尼部的「名廚」烹飪的菜餚。這位名廚也許就是指「小弟」也速根。和晨曦王座的也速根談談。"
 3,"TEXT_STMBDZ617_02795_SEQ_03","和也速根進行了交談。「名廚」果然就是也速根。也速根表示自己不能直接到朵塔兒部做菜，但同時暗示道，如果有<Sheet(BNpcName,5785,0)/>的<Sheet(EventItem,2002372,0)/>，就可以進行製作。和太陽湖的馬兀赤談談。"
-4,"TEXT_STMBDZ617_02795_SEQ_04","和馬兀赤進行了交談。馬兀赤意氣風發地前去狩獵<Sheet(BNpcName,5785,0)/>了。冒險者也前往月神沙漠北端，從<Sheet(BNpcName,5785,0)/>身上獲得<Sheet(EventItem,2002372,0)/>。"
-5,"TEXT_STMBDZ617_02795_SEQ_05","從<Sheet(BNpcName,5785,0)/>身上得到了<Sheet(EventItem,2002372,0)/>。和太陽湖的馬兀赤會合，將<Sheet(EventItem,2002372,0)/>拿給他看。"
+4,"TEXT_STMBDZ617_02795_SEQ_04","和馬兀赤進行了交談。馬兀赤意氣風發地前去狩獵<Sheet(BNpcName,5785,0)/>了。冒險者也前往月神沙漠北端，從<Sheet(BNpcName,5785,0)/>身上獲取<Sheet(EventItem,2002372,0)/>。"
+5,"TEXT_STMBDZ617_02795_SEQ_05","從<Sheet(BNpcName,5785,0)/>身上得到了<Sheet(EventItem,2002372,0)/>。和太陽湖的馬兀赤匯合，將<Sheet(EventItem,2002372,0)/>拿給他看。"
 6,"TEXT_STMBDZ617_02795_SEQ_06","讓馬兀赤看了<Sheet(EventItem,2002372,0)/>。馬兀赤收集了比冒險者多許多的肉。自從開始鍛鍊格鬥術後，馬兀赤好像開始嶄露頭角了。馬兀赤委託冒險者將這些肉交給也速根。將<Sheet(EventItem,2002373,0)/>交給晨曦王座的也速根。"
 7,"TEXT_STMBDZ617_02795_SEQ_07","將<Sheet(EventItem,2002373,0)/>交給了也速根。在看到超乎想像的大量的肉後，也速根對馬兀赤產生了興趣。也速根表示要親自將做好的菜送到馬兀赤手裡。和太陽湖的馬兀赤談談。"
 8,"TEXT_STMBDZ617_02795_SEQ_08","和馬兀赤進行了交談。也速根和馬兀赤儘管出身於不同的部落，不過卻承認了彼此的能力。今後，二人將一同外出打獵，利用獲得的食材練習廚藝。冒險者則成為了奧羅尼部和朵塔兒部溝通的橋樑。"
@@ -54,7 +54,7 @@ int32,str,str
 49,"TEXT_STMBDZ617_02795_KISHILIGH_000_001","我不知道具體是什麼事，
 不過聽說他對維亞吉兒部傳來的消息很感興趣。
 你去找馬兀赤談談吧。"
-50,"TEXT_STMBDZ617_02795_MAUCI_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，找你許久了！
+50,"TEXT_STMBDZ617_02795_MAUCI_000_000","<Highlight>ObjectParameter(1)</Highlight>，找你許久了！
 我又有事想拜託你了。"
 51,"TEXT_STMBDZ617_02795_MAUCI_000_001","多虧你，我有了窮極格鬥術這個新目標。
 我也一直在為此修行，不過總是覺得缺點什麼。"
@@ -67,14 +67,14 @@ int32,str,str
 對方大概不會輕易請我吃飯。
 而且，我也不知道這位「名廚」是誰……"
 55,"TEXT_STMBDZ617_02795_MAUCI_000_005","所以我就想了，
-也許 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 會知道些消息。
+也許<Highlight>ObjectParameter(1)</Highlight>會知道些消息。
 你知道這位「名廚」是誰嗎？"
 56,"TEXT_STMBDZ617_02795_Q1_000_000","如何作答？"
 57,"TEXT_STMBDZ617_02795_A1_000_001","也速根"
 58,"TEXT_STMBDZ617_02795_A1_000_002","小弟"
 59,"TEXT_STMBDZ617_02795_MAUCI_000_006","原來如此，他叫也速根啊……
 即便他是小弟，那也和身為朵塔兒男兒的我沒有任何關係。"
-60,"TEXT_STMBDZ617_02795_MAUCI_000_007"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+60,"TEXT_STMBDZ617_02795_MAUCI_000_007","<Highlight>ObjectParameter(1)</Highlight>，
 你認識也速根對吧？
 可否把他介紹給我？"
 61,"TEXT_STMBDZ617_02795_MAUCI_000_008","謝謝，我們兩個部落之間關係不好，有你幫忙真是太好了！
@@ -83,7 +83,7 @@ int32,str,str
 62,"TEXT_STMBDZ617_02795_KISHILIGH_000_015","馬兀赤在找你。
 我不記得消息內容了，
 如果你想知道的話，就去找他吧。"
-63,"TEXT_STMBDZ617_02795_ESUGEN_000_020","呀， <Highlight>ObjectParameter(1)</Highlight> ，好久不見！
+63,"TEXT_STMBDZ617_02795_ESUGEN_000_020","呀，<Highlight>ObjectParameter(1)</Highlight>，好久不見！
 你還好嗎？
 我還在照舊當我的小弟給大家做飯呢。"
 64,"TEXT_STMBDZ617_02795_ESUGEN_000_021","那碗湯藥效不錯，
@@ -106,18 +106,18 @@ int32,str,str
 我這裡等著。"
 71,"TEXT_STMBDZ617_02795_MAUCI_000_035","這位「名廚」一定就是也速根！
 可不可以告訴他，我想嘗嘗他做的菜？"
-72,"TEXT_STMBDZ617_02795_MAUCI_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+72,"TEXT_STMBDZ617_02795_MAUCI_000_040","<Highlight>ObjectParameter(1)</Highlight>，
 那個，也速根怎麼說？"
 73,"TEXT_STMBDZ617_02795_MAUCI_000_041","這話說得好奇怪，也就是說只要打倒<Sheet(BNpcName,5785,0)/>，
 收集<Sheet(EventItem,2002372,0)/>就可以了吧？
 奧羅尼部也有懂得通融的人啊……"
 74,"TEXT_STMBDZ617_02795_MAUCI_000_042","那我們就分頭收集<Sheet(EventItem,2002372,0)/>吧。
 這種野獸很難對付，正好可以藉此修行！
-收集好了就到這裡會合吧！"
+收集好了就到這裡匯合吧！"
 75,"TEXT_STMBDZ617_02795_ESUGEN_000_045","要是能從<Sheet(BNpcName,5785,0)/>身上得到
 <Sheet(EventItem,2002372,0)/>，就能製作美食了。
 ……沒什麼，我是在自言自語。"
-76,"TEXT_STMBDZ617_02795_MAUCI_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，回來了啊！
+76,"TEXT_STMBDZ617_02795_MAUCI_000_050","<Highlight>ObjectParameter(1)</Highlight>，回來了啊！
 你收集了多少<Sheet(EventItem,2002372,0)/>？"
 77,"TEXT_STMBDZ617_02795_MAUCI_100_050","哎呀，這點就夠了啊。
 我一開始沒數，後來才發現自己打倒了5隻。
@@ -144,7 +144,7 @@ int32,str,str
 85,"TEXT_STMBDZ617_02795_MAUCI_000_070","啊？他要親自送過來嗎？！
 正好我剛才打獵打得肚子餓了。
 我很期待！"
-86,"TEXT_STMBDZ617_02795_ESUGEN_000_071"," <Highlight>ObjectParameter(1)</Highlight> ，我把菜帶來了。
+86,"TEXT_STMBDZ617_02795_ESUGEN_000_071","<Highlight>ObjectParameter(1)</Highlight>，我把菜帶來了。
 這就是你說的朵塔兒部的年輕人嗎？"
 87,"TEXT_STMBDZ617_02795_MAUCI_000_072","您就是那位「名廚」啊！
 我是馬兀赤！
@@ -165,17 +165,17 @@ int32,str,str
 我很想提高廚藝，但不擅長狩獵……"
 93,"TEXT_STMBDZ617_02795_MAUCI_000_078","……其實，我以前也一直是個弱者。
 不過，那是因為武器和戰法都不適合我。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫助我發現了這一點。"
+<Highlight>ObjectParameter(1)</Highlight>幫助我發現了這一點。"
 94,"TEXT_STMBDZ617_02795_MAUCI_000_079","……如果可以的話，今後我們一起去狩獵吧。
 也許可以發現適合也速根先生的戰法。
-而且，透過教別人，我也可以變得更強。"
+而且，通過教別人，我也可以變得更強。"
 95,"TEXT_STMBDZ617_02795_ESUGEN_000_080","馬兀赤……謝謝！
 那我就不客氣了。
 真沒想到能和朵塔兒部的人成為朋友！"
-96,"TEXT_STMBDZ617_02795_MAUCI_000_081"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你幫我。
+96,"TEXT_STMBDZ617_02795_MAUCI_000_081","<Highlight>ObjectParameter(1)</Highlight>，謝謝你幫我。
 多虧了你，我今後可以繼續吃到「名廚」做的飯菜了，
 而且還能和也速根先生一起去打獵！"
-97,"TEXT_STMBDZ617_02795_MAUCI_000_082"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 似乎有改變別人人生的能力啊。
+97,"TEXT_STMBDZ617_02795_MAUCI_000_082","<Highlight>ObjectParameter(1)</Highlight>似乎有改變別人人生的能力啊。
 不管怎樣……謝謝你介紹我們認識！"
 98,"TEXT_STMBDZ617_02795_ESUGEN_000_085","菜做好之後，我會悄悄拿過去的。
 你就先過去吧。"

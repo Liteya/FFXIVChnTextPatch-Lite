@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN404_02988_TODO_21",""
 46,"TEXT_BANKJN404_02988_TODO_22",""
 47,"TEXT_BANKJN404_02988_TODO_23",""
-48,"TEXT_BANKJN404_02988_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，有件事想要拜託給你——
+48,"TEXT_BANKJN404_02988_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，有件事想要拜託給你——
 尋寶眾的夥伴們在附近的海面上發現了漂浮著的<Sheet(EObj,2009102,0)/>——"
 49,"TEXT_BANKJN404_02988_ZUKIN_000_001","那有可能是非常稀少貴重的東西，麻煩你快點去拿回來——
 不過，要是不慎重保管的話就會有損價值，

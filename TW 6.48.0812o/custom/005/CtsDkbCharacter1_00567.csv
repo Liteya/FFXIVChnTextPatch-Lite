@@ -7,14 +7,14 @@ int32,str,str
 2,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_051","我就收下了！
 如此高品質的手甲，
 就算是被阿馬羅咬到也不會有一絲傷痕吧！"
-3,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦你了。
+3,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_100","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了。
 我已經把那些手甲作為樣品給勇人族送過去了，
 真想快點看看他們會有什麼樣的反應呢！"
 4,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_101","打擾了。"
 5,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_102","嗯嗯？怎麼了？"
 6,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_103","你提供給我們的手甲……
 我有事情想跟製作了它的工匠說。"
-7,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_104","那……正是這位 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 開發的新商品。"
+7,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_104","那……正是這位<Highlight>ObjectParameter(1)</Highlight>開發的新商品。"
 8,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_105","原本我們勇人族沒有穿著那種金屬製品的習慣，
 因為我們生來就具有鋼鐵般的硬鱗，
 而且我們也不喜歡豪華的裝飾品。"
@@ -25,11 +25,11 @@ int32,str,str
 11,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_108","嗚哇——
 這下可沒希望了……"
 12,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_109","可是當我們戴上你製作的手甲工作後，你猜怎麼樣？
-就算是被阿馬羅的尖牙咬到，也是毫髮無傷！"
+就算是被阿馬羅的尖牙咬到，也是毫髮無損！"
 13,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_110","而且手甲本身也感覺不到重量，
 我們可以靈活地使用自己的四根手指！
 就跟沒戴手甲一樣！"
-14,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_111","看來製作者很瞭解我們，所以才能做出這樣的商品。
+14,"TEXT_CTSDKBCHARACTER1_00567_ZUNTRAINER00567_000_111","看來製作者很了解我們，所以才能做出這樣的商品。
 我們不能空手收下這麼好的東西，之後我們會付款的。
 我想說的就是這些。"
 15,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_112","我還以為是生意泡湯了呢，
@@ -44,7 +44,7 @@ int32,str,str
 不過在那之前，咱們還得去尋找下一個顧客！"
 19,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_166","金屬工藝部的貢獻等級提高了！
 伊奧拉認為你是黑鐵工房的生命線！"
-20,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_150","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+20,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_150","哎呀，<Highlight>ObjectParameter(1)</Highlight>！
 你來得正好，其實……"
 21,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_151","那個，你聽我說！
 你製作的手甲有追加訂單了！"
@@ -55,7 +55,7 @@ int32,str,str
 我想請你為下一個未來的顧客——鼴靈族……
 開發出適合賣給他們的新商品！"
 25,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_155","你知道鼴靈族嗎？
-就是住在安穆．艾蘭周邊，
+就是住在安穆·艾蘭周邊，
 有著鼴鼠外表並且擅長採掘和交易的獸人！"
 26,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_156","我姑且是打聽到關於他們的事情，
 可是沒能打聽到可以用於開發新商品的情報……"
@@ -66,7 +66,7 @@ int32,str,str
 那個意外的好吃哦。
 在我拿不到工資卻還要幹活的時候，一直都是靠吃那個填飽肚子。"
 29,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_159","……抱歉，都是我不好！"
-30,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_160","雖然剛才說的話一點都沒辦法作為參考……
+30,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_160","雖然剛才說的話一點都沒法作為參考……
 不過，你有決定好要製作什麼了嗎？
 你好好想想你故鄉的事情，仔細考慮一下！"
 31,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_161","鼴靈族和地靈族很像。
@@ -90,10 +90,10 @@ int32,str,str
 40,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_250","我就收下了！
 鼴靈族們肯定會很高興的！"
 41,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_251","我就收下了！
-用這個罐子保存過的白蚯蚓應該會很美味吧！
+用這個罐子保存過的白蚯蚓估計會很美味吧！
 不過我是不會想吃的！"
 42,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_300","……呼。
-我把你製作的新商品已經賣到鼴靈市集了。
+我把你製作的新商品已經賣到鼴靈集市了。
 希望他們能夠喜歡。"
 43,"TEXT_CTSDKBCHARACTER1_00567_MORDMERCHANT00567_000_301","製作出<Sheet(Item,27233,0)/>的工房……就是這裡嗎？
 我想跟、工匠打聲招呼。"
@@ -112,11 +112,11 @@ int32,str,str
 製作出這個容器的、工匠一定是非常、喜愛白蚯蚓的人！"
 51,"TEXT_CTSDKBCHARACTER1_00567_MORDMERCHANT00567_000_309","如果增產、成功的話、一定要跟、我們交易！
 咱們就這麼定了、拜託你們了！"
-52,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_310","最後倒是蠻順利的……
+52,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_310","最後倒是挺順利的……
 ……話說你喜歡白蚯蚓啊？"
 53,"TEXT_CTSDKBCHARACTER1_00567_EISMON_000_311","我很喜歡啊！
 因為這個白蚯蚓和普通的蚯蚓不一樣，很有肉質……"
-54,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_312","這次我們又欠了你一個人情啊……
+54,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_312","這回我們又欠了你一個人情啊……
 不過多虧了你，我把她請回來了。"
 55,"TEXT_CTSDKBCHARACTER1_00567_COLANA_000_313","我叫科拉娜。
 我想你應該從伊奧拉那裡聽說過了，
@@ -129,14 +129,14 @@ int32,str,str
 58,"TEXT_CTSDKBCHARACTER1_00567_COLANA_000_316","你聽到了嗎，艾斯蒙！
 你要是敢在我面前偷工減料我可饒不了你！"
 59,"TEXT_CTSDKBCHARACTER1_00567_EISMON_000_317","白蚯蚓之所以肉質很厚實，
-是因為棲息在像是安穆．艾蘭這樣乾燥地區的緣故……"
+是因為棲息在像是安穆·艾蘭這樣乾燥地區的緣故……"
 60,"TEXT_CTSDKBCHARACTER1_00567_COLANA_000_318","這傢伙到底是怎麼了？"
-61,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_319","總、總之就差把素．任德請回來了！
+61,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_319","總、總之就差把素·任德請回來了！
 為此需要開拓新的顧客才行。
-我期待著 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你下回的表現哦！"
+我期待著<Highlight>ObjectParameter(1)</Highlight>你下回的表現哦！"
 62,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_366","金屬工藝部的貢獻等級提高了！
 伊奧拉認為你是黑鐵工房的殺手鐧！"
-63,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_350","我終於等到你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+63,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_350","我終於等到你了，<Highlight>ObjectParameter(1)</Highlight>！"
 64,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_350","你聽我說，上次那個食材容器大賣特賣啊！
 你果然是一位了不起的工匠！"
 65,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_351","追加訂單的事情就交給科拉娜和艾斯蒙。
@@ -174,9 +174,9 @@ int32,str,str
 這種細緻的工作就輪到我出場了。"
 80,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_364","別看科拉娜性格豪爽，
 可她卻很擅長細緻的工作呢……"
-81,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_365","總之， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-這次我也期待著你能夠施展出你精湛的技藝！
-為了請回素．任德，請你做出鰭人族喜歡的新商品吧！"
+81,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_365","總之，<Highlight>ObjectParameter(1)</Highlight>！
+這回我也期待著你能夠施展出你精湛的技藝！
+為了請回素·任德，請你做出鰭人族喜歡的新商品吧！"
 82,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_367","接到了新的委託，交貨列表已經更新。
 和伊奧拉對話，查看新的交貨列表。"
 83,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_400","科拉娜回來之後，黑鐵工房再次有了活力。
@@ -186,7 +186,7 @@ int32,str,str
 不愧是你的手藝啊！"
 85,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_451","我就收下了！
 我從未見過如此高品質的作品！
-有了這個魚槍，應該連鯨魚都能捕捉到！"
+有了這個魚槍，估計連鯨魚都能捕捉到！"
 86,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_500","你新開發的魚槍已經一個都不剩地交給鰭人族了。
 他們到底會給出什麼樣的評價，
 期待的同時也很擔心……"
@@ -202,12 +202,12 @@ int32,str,str
 93,"TEXT_CTSDKBCHARACTER1_00567_ONDOFISHERMAN00567_000_507","你們，可聽好了……
 從你們那裡，買到的金屬魚槍，不僅比傳統的，珊瑚魚槍要耐用，
 而且，在海裡也，不會生鏽……真是太棒了！"
-94,"TEXT_CTSDKBCHARACTER1_00567_ONDOFISHERMAN00567_000_508","居住在，海底的我們，沒辦法像陸地人，那樣，
+94,"TEXT_CTSDKBCHARACTER1_00567_ONDOFISHERMAN00567_000_508","居住在，海底的我們，沒法像陸地人，那樣，
 利用火，來鍛造，金屬。"
 95,"TEXT_CTSDKBCHARACTER1_00567_ONDOFISHERMAN00567_000_509","做出那個魚叉的工匠，真了不起。
 我為了表達感謝，穿越了大海，從河川，逆流而上，
 再跨越了陸地，終於來到了，這裡！"
-96,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_510","那就請你傳達給那邊的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧。
+96,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_510","那就請你傳達給那邊的<Highlight>ObjectParameter(1)</Highlight>吧。
 新商品的開發全都是由<If(PlayerParameter(4))>她<Else/>他</If>負責的。"
 97,"TEXT_CTSDKBCHARACTER1_00567_ONDOFISHERMAN00567_000_511","你是和，阿爾菲諾，在一起的，冒險者！
 沒想到，你居然還有，工匠的才能，真是令人意外！
@@ -220,8 +220,8 @@ int32,str,str
 100,"TEXT_CTSDKBCHARACTER1_00567_SUEREND_000_514","(-令人不快的男人的聲音-)哼……看來還蠻順利的嘛……
 我想現在你們是不需要我了。"
 101,"TEXT_CTSDKBCHARACTER1_00567_COLANA_000_515","這種討厭的說話方式……
-你是……素．任德！"
-102,"TEXT_CTSDKBCHARACTER1_00567_SUEREND_000_516","你是叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+你是……素·任德！"
+102,"TEXT_CTSDKBCHARACTER1_00567_SUEREND_000_516","你是叫<Highlight>ObjectParameter(1)</Highlight>？
 我看到了你和鰭人族交易的一部分過程，我只能說你幹得不錯，
 就算跟被譽為名匠的伊奧拉的父親相比也毫不遜色。"
 103,"TEXT_CTSDKBCHARACTER1_00567_SUEREND_000_517","雖然我是想過既然我離開了黑鐵工房現在又有什麼臉面回來，
@@ -235,7 +235,7 @@ int32,str,str
 107,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_521","雖然看起來是個愛擺架子的傢伙，
 不過作為工匠的手藝卻是一流的，
 就連我父親都很賞識他幹活的速度呢。"
-108,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_522","不管怎樣，託你的福我們和鰭人族建立了貿易關係，
+108,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_522","不管怎樣，托你的福我們和鰭人族建立了貿易關係，
 總算把工匠們都請回來了！
 真的非常感謝！"
 109,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_523","請繼續幫我們開發新商品吧！
@@ -245,8 +245,8 @@ int32,str,str
 111,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_524","此外，可以領取中庸工藝館交易的劇情任務了。
 和伊奧拉對話即可接受任務。
 完成任務後，交貨列表將會更新。"
-112,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_550","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-這次要打算開發什麼樣的新商品啊！"
+112,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_550","喲，<Highlight>ObjectParameter(1)</Highlight>！
+這回要打算開發什麼樣的新商品啊！"
 113,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_550","最近那三個人好像總是在熱心地工作著……
 不過他們既然是工匠，這也是理所應當的……"
 114,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_551","算了……
@@ -262,17 +262,17 @@ int32,str,str
 118,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_555","所以呢，和衛兵團之間的交易也有我個人的情感交織在裡面。
 現在黑鐵工房的經營狀況也開始向上走了，我想繼承父親的遺志，
 給衛兵團提供新的商品。"
-119,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_556","不瞞你說，上次和咱們做過交易的尼伊．麻恩，
+119,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_556","不瞞你說，上次和咱們做過交易的尼伊·麻恩，
 跟我談到過一種蘊含魔力的寶玉。"
 120,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_557","而且據說孚布特王國的騎士
 曾經把這種寶玉當做驅除魔法的護身符。"
 121,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_558","聽到這個我就突然想起來，
 以前父親總是擔心他為衛兵團製作的鎧甲無法承受魔法攻擊，
 他在去世前，還都在忙著對鎧甲進行改良呢。"
-122,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_559","所以這次新商品的企劃能不能交給我呢？
+122,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_559","所以這回新商品的企劃能不能交給我呢？
 我想請你用蘊含魔力的寶玉製作出<Sheet(Item,27235,0)/>……
 這樣就可以彌補那種鎧甲的弱點了！"
-123,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_560","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+123,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_560","謝謝你，<Highlight>ObjectParameter(1)</Highlight>！
 那就請你試著做下咱們合作開發的
 最後的新商品——<Sheet(Item,27235,0)/>！"
 124,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_562","接到了新的委託，交貨列表已經更新。
@@ -284,7 +284,7 @@ int32,str,str
 這樣一來衛兵團活著回來的機會也會有所上升吧！"
 127,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_651","我就收下了！
 這樣一來衛兵團的人們應該就再也不用畏懼魔法，
-可以拿出勇氣衝在前線了！"
+可以拿出勇氣沖在前線了！"
 128,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_700","我已經把東西交給衛兵團了，
 這樣一來最後的商品也算是開發完成了。
 之後就看顧客能不能滿意了……"
@@ -296,13 +296,13 @@ int32,str,str
 我有話要說。"
 132,"TEXT_CTSDKBCHARACTER1_00567_REYNA_000_704","我們從你父親那一代就開始採購的裝備雖然很優秀，
 但是在對魔法的防護性上確實存在著問題。
-而這次的首飾剛好能彌補這個弱點……"
+而這回的首飾剛好能彌補這個弱點……"
 133,"TEXT_CTSDKBCHARACTER1_00567_REYNA_000_705","對於時常要執行危險任務的衛兵來說，
 沒有什麼東西能比這個更令人安心的了。
 所以我是來直接道謝的。"
 134,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_706","是嗎……你們能喜歡真是太好了。
 不過雖然企劃是我做的，
-但實際打造出東西的人是這位 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+但實際打造出東西的人是這位<Highlight>ObjectParameter(1)</Highlight>。"
 135,"TEXT_CTSDKBCHARACTER1_00567_REYNA_000_707","什麼？是你？！
 沒想到你作為工匠也是一流的好手。"
 136,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_708","<If(PlayerParameter(4))>她<Else/>他</If>真的是和我父親一樣都是值得尊敬的工匠。"
@@ -326,19 +326,19 @@ int32,str,str
 146,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_802","（★未使用／削除予定★）"
 147,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_803","（★未使用／削除予定★）"
 148,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_804","（★未使用／削除予定★）"
-149,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_810","繳納了委託品，
+149,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_810","交納了委託品，
 伊奧拉實際感受到你做出了貢獻。"
-150,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_811","今後也請繼續繳納委託品，
+150,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_811","今後也請繼續交納委託品，
 積累貢獻度！"
 151,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_820","鍛鐵匠、鑄甲匠或雕金匠的等級達到73級以上時，
-可以從中庸工藝館的伊奧拉那裡領取下一個繳納委託品的任務。"
+可以從中庸工藝館的伊奧拉那裡領取下一個交納委託品的任務。"
 152,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_821","鍛鐵匠、鑄甲匠或雕金匠的等級達到75級以上時，
-可以從中庸工藝館的伊奧拉那裡領取下一個繳納委託品的任務。"
+可以從中庸工藝館的伊奧拉那裡領取下一個交納委託品的任務。"
 153,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_822","鍛鐵匠、鑄甲匠或雕金匠的等級達到78級以上時，
-可以從中庸工藝館的伊奧拉那裡領取下一個繳納委託品的任務。"
-154,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_830","哦——這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+可以從中庸工藝館的伊奧拉那裡領取下一個交納委託品的任務。"
+154,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_830","哦——這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 你是因為擔心就過來看我的？
-正如你所見，我們現在幹得蠻好的！"
+正如你所見，我們現在幹得挺好的！"
 155,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_840","背包已滿，
 無法獲得報酬。
 請整理背包後再次和伊奧拉對話。"

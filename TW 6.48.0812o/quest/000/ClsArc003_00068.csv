@@ -5,8 +5,8 @@ int32,str,str
 1,"TEXT_CLSARC003_00068_SEQ_01","呂西安娜讓冒險者去師兄西爾瓦爾那裡接受弓術指導。去和弓箭手公會的西爾瓦爾對話。"
 2,"TEXT_CLSARC003_00068_SEQ_02","西爾瓦爾命令冒險者去破壞東部林區的靶子。為了能夠有效率地破壞靶子，在行動的時候，要注意觀察周圍魔物的動作，不要被它們察覺。使用「強力射擊」，破壞設定在東部林區的6個弓術用的靶子。"
 3,"TEXT_CLSARC003_00068_SEQ_03","成功破壞了靶子。向弓箭手公會的西爾瓦爾報告。"
-4,"TEXT_CLSARC003_00068_SEQ_04","西爾瓦爾命令冒險者去擊退出現在北部林區河邊的鳥人族斥候部隊。不必打倒所有敵人，只要討伐率領部隊的「侵略者 內茲爾．卡特蘭」就可以。前往指定地點，伏擊敵人。"
-5,"TEXT_CLSARC003_00068_SEQ_05","成功討伐了侵略者 內茲爾．卡特蘭，並擊退了斥候部隊。回到弓箭手公會，向西爾瓦爾報告。"
+4,"TEXT_CLSARC003_00068_SEQ_04","西爾瓦爾命令冒險者去擊退出現在北部林區河邊的鳥人族斥候部隊。不必打倒所有敵人，只要討伐率領部隊的「侵略者 內茲爾·卡特蘭」就可以。前往指定地點，伏擊敵人。"
+5,"TEXT_CLSARC003_00068_SEQ_05","成功討伐了侵略者 內茲爾·卡特蘭，並擊退了斥候部隊。回到弓箭手公會，向西爾瓦爾報告。"
 6,"TEXT_CLSARC003_00068_SEQ_06","西爾瓦爾說冒險者的表現只是僥倖。不管怎麼說，他認可了冒險者完成的結果。向弓箭手公會的呂西安娜報告。"
 7,"TEXT_CLSARC003_00068_SEQ_07","呂西安娜說，西爾瓦爾只是口是心非，其實他已經認可了冒險者。據說西爾瓦爾在說謊的時候，會習慣性地用手遮住嘴。接受了兩位前輩的指導，作為學成了弓箭手公會基礎的證明，呂西安娜將公會的傳承之技教給了冒險者。為了能夠熟練運用這項技能，繼續磨練弓術。
 
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSARC003_00068_TODO_21",""
 46,"TEXT_CLSARC003_00068_TODO_22",""
 47,"TEXT_CLSARC003_00068_TODO_23",""
-48,"TEXT_CLSARC003_00068_LUCIANE_000_1","你來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_CLSARC003_00068_LUCIANE_000_1","你來了，<Highlight>ObjectParameter(1)</Highlight>。
 看樣子你的弓術進步了不少啊。"
 49,"TEXT_CLSARC003_00068_LUCIANE_000_2","之前也告訴你了，
 這次我打算讓你的師兄「西爾瓦爾」來對你進行指導。"
@@ -85,7 +85,7 @@ int32,str,str
 63,"TEXT_CLSARC003_00068_TALK_SCENE00002_000","todo來了再換"
 64,"TEXT_CLSARC003_00068_SILVAIRRE_000_30","看來你把靶子都破壞掉了啊。
 就冒險者來說，你還是有點毅力的。
-不過你不要以為這種程度就可以說是瞭解「弓術」了。"
+不過你不要以為這種程度就可以說是了解「弓術」了。"
 65,"TEXT_CLSARC003_00068_SILVAIRRE_000_31","弓術的歷史悠久而深邃。
 我們森林之民在格里達尼亞經歷了無數次的戰爭，
 才將弓術練就至此。"
@@ -94,14 +94,14 @@ int32,str,str
 這些全都是經過我們長期摸索得出的……"
 67,"TEXT_CLSARC003_00068_SILVAIRRE_000_33","……真是愚蠢。
 反正你們這些外來者是理解不了的。"
-68,"TEXT_CLSARC003_00068_SILVAIRRE_000_34","但什麼事都說不定。
+68,"TEXT_CLSARC003_00068_SILVAIRRE_000_34","但什麼事都說不準。
 如果你有那個決心，
 想要學習高深的森林之民的本領的話……"
 69,"TEXT_CLSARC003_00068_SILVAIRRE_000_35","那就去北部林區，最近有人在河邊目擊到了我們的宿敵
 「鳥人族」的斥候部隊，你去把他們擊退吧。"
 70,"TEXT_CLSARC003_00068_SILVAIRRE_000_36","別擔心，我不是讓你殲滅整個部隊，
-而是射殺部隊的首領「侵略者 內茲爾．卡特蘭」。"
-71,"TEXT_CLSARC003_00068_SILVAIRRE_000_37","「侵略者 內茲爾．卡特蘭」會派雜兵偵察周圍的狀況。
+而是射殺部隊的首領「侵略者 內茲爾·卡特蘭」。"
+71,"TEXT_CLSARC003_00068_SILVAIRRE_000_37","「侵略者 內茲爾·卡特蘭」會派雜兵偵察周圍的狀況。
 你需要伺機躲過雜兵的視線，只將目標射殺。"
 72,"TEXT_CLSARC003_00068_SILVAIRRE_000_38","這才是格里達尼亞的弓術。
 活用我在剛剛的試煉中教給你的技巧，
@@ -110,7 +110,7 @@ int32,str,str
 我就承認你是認真對待弓術的。
 ……當然前提是你真的擁有這份認真。"
 74,"TEXT_CLSARC003_00068_SILVAIRRE_000_40","事情我已經聽北部林區的衛兵說了。
-看來你擊退了「侵略者 內茲爾．卡特蘭」。
+看來你擊退了「侵略者 內茲爾·卡特蘭」。
 沒想到你真的能夠突破那群雜兵。"
 75,"TEXT_CLSARC003_00068_SILVAIRRE_000_41","……哼，看來你運氣還不錯。
 雖說是僥倖，但我也不會食言。
@@ -119,21 +119,21 @@ int32,str,str
 77,"TEXT_CLSARC003_00068_LUCIANE_000_50","聽說你擊退了鳥人族的斥候部隊啊。
 真是太讓人吃驚了，竟然能夠避開那群雜兵的視線。"
 78,"TEXT_CLSARC003_00068_LEIHALIAPOH_000_51","但是啊！把這種事當做訓練實在是太危險了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 可是冒險者啊！
+<Highlight>ObjectParameter(1)</Highlight>可是冒險者啊！
 和那傢伙不一樣，又不是格里達尼亞的忠犬。"
-79,"TEXT_CLSARC003_00068_LEIHALIAPOH_000_52","而且 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 都冒著這麼大的風險完成任務了，
+79,"TEXT_CLSARC003_00068_LEIHALIAPOH_000_52","而且<Highlight>ObjectParameter(1)</Highlight>都冒著這麼大的風險完成任務了，
 那傢伙竟然說是「僥倖」！"
 80,"TEXT_CLSARC003_00068_LUCIANE_000_53","並不是那樣的。"
 81,"TEXT_CLSARC003_00068_LEIHALIAPOH_000_54","啊？"
-82,"TEXT_CLSARC003_00068_LUCIANE_000_55","西爾瓦爾其實已經認可了 <Highlight>ObjectParameter(1)</Highlight> 的實力。
+82,"TEXT_CLSARC003_00068_LUCIANE_000_55","西爾瓦爾其實已經認可了<Highlight>ObjectParameter(1)</Highlight>的實力。
 你看他在說「僥倖」的時候，用手遮嘴巴了吧？"
 83,"TEXT_CLSARC003_00068_LUCIANE_000_56","他在不想說出真心話的時候，就會有那個小動作。
 可能他自己也沒有覺察到，
-其實他已經對 <Highlight>ObjectParameter(1)</Highlight> 擁有的實力感到震驚了。"
+其實他已經對<Highlight>ObjectParameter(1)</Highlight>擁有的實力感到震驚了。"
 84,"TEXT_CLSARC003_00068_LUCIANE_000_57","呵呵，所謂旁觀者清……
 人往往是看不清自己的。"
-85,"TEXT_CLSARC003_00068_LUCIANE_000_58","你幹得不錯， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
-你透過蕾伊和西爾瓦爾的指導，
+85,"TEXT_CLSARC003_00068_LUCIANE_000_58","你幹得不錯，<Highlight>ObjectParameter(1)</Highlight>。
+你通過蕾伊和西爾瓦爾的指導，
 證明了你作為弓箭手的實力。"
 86,"TEXT_CLSARC003_00068_LUCIANE_000_59","作為你學成弓術基礎的證明，
 我將傳授給你一項公會的傳承之技。"
@@ -143,7 +143,7 @@ int32,str,str
 88,"TEXT_CLSARC003_00068_LUCIANE_000_61","你可以在實戰中進行確認。
 如果是你的話，應該能夠掌握使用這項技能的時機。
 繼續保持這種狀態努力吧。"
-89,"TEXT_CLSARC003_00068_QIB_TODO_001","打倒侵略者 內茲爾．卡特蘭！"
+89,"TEXT_CLSARC003_00068_QIB_TODO_001","打倒侵略者 內茲爾·卡特蘭！"
 90,"TEXT_CLSARC003_00068_INSTANCE_BATTLE_YESNO_TITLE","要開始「西爾瓦爾的弓術訓練」的戰鬥嗎？"
 91,"TEXT_CLSARC003_00068_INSTANCE_BATTLE_YESNO_YES","是"
 92,"TEXT_CLSARC003_00068_INSTANCE_BATTLE_YESNO_NO","否"
@@ -151,6 +151,6 @@ int32,str,str
 94,"TEXT_CLSARC003_00068_MIRAUDONT_BATTLETALK_01","沒想到在巡視時會遇到鳥人族！
 冒險者，我也來助你一臂之力！"
 95,"TEXT_CLSARC003_00068_MIRAUDONT_BATTLETALK_02","讓你們見識一下衛兵的氣魄！"
-96,"TEXT_CLSARC003_00068_MIRAUDONT_BATTLETALK_03","注意，他們會使用水系高階魔法！
+96,"TEXT_CLSARC003_00068_MIRAUDONT_BATTLETALK_03","注意，他們會使用水系高級魔法！
 和他們保持距離！"
 97,"TEXT_CLSARC003_00068_MIRAUDONT_BATTLETALK_DEAD","好不甘心，我對不起衛兵的稱號……"

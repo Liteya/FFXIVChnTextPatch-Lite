@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ220_02692_SEQ_22",""
 23,"TEXT_STMBDZ220_02692_SEQ_23",""
 24,"TEXT_STMBDZ220_02692_TODO_00","在<Sheet(EObj,2008711,0)/>使用<Sheet(EventItem,2002288,0)/>
-從出現的<Sheet(BNpcName,5936,0)/>身上獲得<Sheet(EventItem,2002289,0)/>"
+從出現的<Sheet(BNpcName,5936,0)/>身上獲取<Sheet(EventItem,2002289,0)/>"
 25,"TEXT_STMBDZ220_02692_TODO_01","將<Sheet(EventItem,2002289,0)/>交給貝桶"
 26,"TEXT_STMBDZ220_02692_TODO_02",""
 27,"TEXT_STMBDZ220_02692_TODO_03",""
@@ -65,7 +65,7 @@ int32,str,str
 在那附近使用<Sheet(EventItem,2002288,0)/>，
 就能把它們吸引過來——"
 53,"TEXT_STMBDZ220_02692_KAIOKE_000_004","請去沖之岩的洞窟或者海灘上，從<Sheet(BNpcName,5936,0)/>身上
-獲得2份<Sheet(EventItem,2002289,0)/>——
+獲取2份<Sheet(EventItem,2002289,0)/>——
 使用<Sheet(EventItem,2002288,0)/>可以把它們吸引過來——"
 54,"TEXT_STMBDZ220_02692_KAIOKE_000_010","你得到<Sheet(EventItem,2002289,0)/>了嗎？"
 55,"TEXT_STMBDZ220_02692_KAIOKE_000_011","噢噢——明明這麼大一隻肉卻還很緊實嘛，很好吃的樣子——

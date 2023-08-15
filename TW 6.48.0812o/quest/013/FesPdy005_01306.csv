@@ -8,7 +8,7 @@ int32,str,str
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-接受了賽倫蒂碧提的委託，繼續幫忙宣傳艾德薇雅公主人偶。將艾德薇雅公主作為寵物召喚出來，保持這個狀態，對利姆薩．羅敏薩的興致高昂的女孩子使用<Sheet(EventItem,2001159,0)/>。
+接受了賽倫蒂碧提的委託，繼續幫忙宣傳艾德薇雅公主人偶。將艾德薇雅公主作為寵物召喚出來，保持這個狀態，對利姆薩·羅敏薩的興致高昂的女孩子使用<Sheet(EventItem,2001159,0)/>。
 
 ※本任務要將艾德薇雅公主人偶作為寵物帶著行走才能進行。
 　若不將公主人偶召喚出來則無法進行。
@@ -18,7 +18,7 @@ int32,str,str
 ※公主人偶消失後，
 　和烏爾達哈雕金匠公會的賽倫蒂碧對話，
 　即可再次帶公主人偶行走。"
-2,"TEXT_FESPDY005_01306_SEQ_02","利姆薩．羅敏薩的艾德薇雅公主人偶宣傳活動結束了。將艾德薇雅公主作為寵物召喚出來，保持這個狀態，向烏爾達哈雕金匠公會的賽倫蒂碧提報告。"
+2,"TEXT_FESPDY005_01306_SEQ_02","利姆薩·羅敏薩的艾德薇雅公主人偶宣傳活動結束了。將艾德薇雅公主作為寵物召喚出來，保持這個狀態，向烏爾達哈雕金匠公會的賽倫蒂碧提報告。"
 3,"TEXT_FESPDY005_01306_SEQ_03","經過冒險者的努力宣傳，寄放的艾德薇雅公主人偶在第二階段的人氣投票中躍居首位。只要繼續保持首位，就能如願高價販售艾德薇雅公主人偶了。可是，艾德薇雅公主人偶聽到這番話後，出現了奇怪的徵兆。"
 4,"TEXT_FESPDY005_01306_SEQ_04",""
 5,"TEXT_FESPDY005_01306_SEQ_05",""
@@ -41,7 +41,7 @@ int32,str,str
 22,"TEXT_FESPDY005_01306_SEQ_22",""
 23,"TEXT_FESPDY005_01306_SEQ_23",""
 24,"TEXT_FESPDY005_01306_TODO_00","帶著艾德薇雅公主
-對利姆薩．羅敏薩的興致高昂的女孩子使用<Sheet(EventItem,2001159,0)/>"
+對利姆薩·羅敏薩的興致高昂的女孩子使用<Sheet(EventItem,2001159,0)/>"
 25,"TEXT_FESPDY005_01306_TODO_01","向雕金匠公會的賽倫蒂碧提報告"
 26,"TEXT_FESPDY005_01306_TODO_02",""
 27,"TEXT_FESPDY005_01306_TODO_03",""
@@ -65,32 +65,32 @@ int32,str,str
 45,"TEXT_FESPDY005_01306_TODO_21",""
 46,"TEXT_FESPDY005_01306_TODO_22",""
 47,"TEXT_FESPDY005_01306_TODO_23",""
-48,"TEXT_FESPDY005_01306_SERENDIPITY_000_000","哇， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_FESPDY005_01306_SERENDIPITY_000_000","哇，<Highlight>ObjectParameter(1)</Highlight>！
 艾德薇雅公主人偶的宣傳還要繼續麻煩你啊！"
 49,"TEXT_FESPDY005_01306_SERENDIPITY_000_001","要讓艾德薇雅公主人偶在大賽中獲勝，
 還需要更多更多淑女的投票。"
 50,"TEXT_FESPDY005_01306_SERENDIPITY_000_002","所以，請你帶著艾德薇雅公主人偶，
 展示給很多很多人看！
-這次請你去海洋之都利姆薩．羅敏薩！"
+這次請你去海洋之都利姆薩·羅敏薩！"
 51,"TEXT_FESPDY005_01306_SERENDIPITY_000_003","據艾斯泰姆宣傳部的人說，
 海洋之都的人民像晴空豔陽一樣開朗。"
 52,"TEXT_FESPDY005_01306_SERENDIPITY_000_004","如果能讓豔陽般「興致高昂的女孩子」產生興趣的話，
 自然就能吸引大街小巷的關注了！"
-53,"TEXT_FESPDY005_01306_SERENDIPITY_000_005","那麼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_FESPDY005_01306_SERENDIPITY_000_005","那麼，<Highlight>ObjectParameter(1)</Highlight>！
 你和艾德薇雅公主一同去海洋之都做宣傳，
 我把宣傳策略傳達給你！"
 54,"TEXT_FESPDY005_01306_SERENDIPITY_000_010","在地圖上標記的地段找到「興致高昂的女孩子」，
 對她們使用<Sheet(EventItem,2001159,0)/>。
 開心起來的女孩子們會喜歡上公主人偶的！"
-55,"TEXT_FESPDY005_01306_SERENDIPITY_000_011","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+55,"TEXT_FESPDY005_01306_SERENDIPITY_000_011","哎呀，<Highlight>ObjectParameter(1)</Highlight>，
 你是來迎接艾德薇雅公主人偶的吧？"
 56,"TEXT_FESPDY005_01306_Q1_000_001","要領取艾德薇雅公主人偶嗎？"
 57,"TEXT_FESPDY005_01306_A1_000_001","是"
 58,"TEXT_FESPDY005_01306_A2_000_002","否"
-59,"TEXT_FESPDY005_01306_SERENDIPITY_000_012"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，一路走好！
+59,"TEXT_FESPDY005_01306_SERENDIPITY_000_012","<Highlight>ObjectParameter(1)</Highlight>，一路走好！
 這個孩子就拜託你了！"
 60,"TEXT_FESPDY005_01306_SERENDIPITY_000_013","艾德薇雅公主人偶等你等得望眼欲穿。
-請儘快來迎接她哦！"
+請盡快來迎接她哦！"
 61,"TEXT_FESPDY005_01306_SERENDIPITY_000_014","在地圖上標記的地段找到「興致高昂的女孩子」，
 對她們使用<Sheet(EventItem,2001159,0)/>。
 開心起來的女孩子們會喜歡上公主人偶的！"
@@ -129,7 +129,7 @@ int32,str,str
 73,"TEXT_FESPDY005_01306_CHARISMA_L3_000_040","我覺得女兒節應該裝飾得更華麗一些。
 就像在海裡游來游去的五彩斑斕的魚一樣！
 如果艾德薇雅公主還活著，一定會說同樣的話！"
-74,"TEXT_FESPDY005_01306_CHARISMA_L3_000_041","哇，用這個就能把節日妝點得更華麗了！
+74,"TEXT_FESPDY005_01306_CHARISMA_L3_000_041","哇，用這個就能把節日裝點得更華麗了！
 就算是逃出王宮的瘋丫頭艾德薇雅公主，
 看到了也一定會喜歡的！"
 75,"TEXT_FESPDY005_01306_CHARISMA_L3_000_042","呀，那個人偶頷首的樣子好可愛！
@@ -139,20 +139,20 @@ int32,str,str
 我也要買！！"
 77,"TEXT_FESPDY005_01306_CHARISMA_L3_000_045","她是我見過的最可愛的人偶！
 我會給你的人偶投票。"
-78,"TEXT_FESPDY005_01306_SERENDIPITY_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+78,"TEXT_FESPDY005_01306_SERENDIPITY_000_050","<Highlight>ObjectParameter(1)</Highlight>！
 歡迎回來，等你好久了！"
 79,"TEXT_FESPDY005_01306_SERENDIPITY_000_051","嘿嘿，猜猜是什麼事？
 啦啦啦，特大喜訊！
 據第二階段的統計顯示，我家的公主人偶躍居首位，好厲害！"
 80,"TEXT_FESPDY005_01306_SERENDIPITY_000_052","哇，艾德薇雅公主看起來也好高興！
-看她那燦爛的笑容，堪比利姆薩．羅敏薩的太陽！
+看她那燦爛的笑容，堪比利姆薩·羅敏薩的太陽！
 ……話雖如此，人偶的表情並不會變化，啊哈哈。"
 81,"TEXT_FESPDY005_01306_SERENDIPITY_000_053","艾德薇雅公主似乎很喜歡跟你在一起。
 人們看到她開心的樣子，也會打起精神來，
 公主的人氣也就越來越高。"
 82,"TEXT_FESPDY005_01306_SERENDIPITY_000_054","照這個樣子繼續攜手努力，一定能獲得優勝！
 勝出後，這個孩子就能被富豪買走，享盡榮華富貴了。"
-83,"TEXT_FESPDY005_01306_SERENDIPITY_000_055","所以， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+83,"TEXT_FESPDY005_01306_SERENDIPITY_000_055","所以，<Highlight>ObjectParameter(1)</Highlight>，
 為了這個孩子的幸福，請你加油！"
 84,"TEXT_FESPDY005_01306_SERENDIPITY_000_056","哎呀，怎麼了……
 艾德薇雅公主燦爛的笑容忽然僵住了。

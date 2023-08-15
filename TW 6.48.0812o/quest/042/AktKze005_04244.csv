@@ -26,8 +26,8 @@ int32,str,str
 21,"TEXT_AKTKZE005_04244_SEQ_21",""
 22,"TEXT_AKTKZE005_04244_SEQ_22",""
 23,"TEXT_AKTKZE005_04244_SEQ_23",""
-24,"TEXT_AKTKZE005_04244_TODO_00","從<Sheet(EObj,2012593,0)/>獲得<Sheet(EventItem,2003367,0)/>"
-25,"TEXT_AKTKZE005_04244_TODO_01","從<Sheet(EObj,2012594,0)/>獲得<Sheet(EventItem,2003368,0)/>"
+24,"TEXT_AKTKZE005_04244_TODO_00","從<Sheet(EObj,2012593,0)/>獲取<Sheet(EventItem,2003367,0)/>"
+25,"TEXT_AKTKZE005_04244_TODO_01","從<Sheet(EObj,2012594,0)/>獲取<Sheet(EventItem,2003368,0)/>"
 26,"TEXT_AKTKZE005_04244_TODO_02","將<Sheet(EventItem,2003367,0)/>交給閃閃亮亮的兔兔族"
 27,"TEXT_AKTKZE005_04244_TODO_03","將<Sheet(EventItem,2003368,0)/>交給跳靈威"
 28,"TEXT_AKTKZE005_04244_TODO_04","和眼睛閃閃發光的兔兔族對話"
@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_AKTKZE005_04244_TODO_23",""
 48,"TEXT_AKTKZE005_04244_LOPORRITSA04244_000_000","哇，是人類！
 你特地過來找我，
-是想問我臺階上的中控水晶是什麼，對吧？我沒說錯吧？"
+是想問我台階上的中控水晶是什麼，對吧？我沒說錯吧？"
 49,"TEXT_AKTKZE005_04244_LOPORRITSA04244_000_001","其實，原來的月球上既沒有空氣，也沒有足夠的重力。
 多虧了有中控水晶平衡了月球上的屬性之力，
 嘆息海才變成了人類能夠生存的地方。"

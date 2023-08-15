@@ -50,32 +50,32 @@ int32,str,str
 45,"TEXT_AKTKZE012_04251_TODO_21",""
 46,"TEXT_AKTKZE012_04251_TODO_22",""
 47,"TEXT_AKTKZE012_04251_TODO_23",""
-48,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_000","冒險者 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_000","冒險者<Highlight>ObjectParameter(1)</Highlight>！
 我有個問題想參考一下你的意見，你方便嗎？"
 49,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_001","是公園的事情，你有沒有覺得公園裡的顏色還不夠豔麗？
 所以，我打算在這裡再多種一些花。"
 50,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_002","愛情威的花園裡開了很多漂亮的花，
-我想從那裡移栽一些適合的花過來，
-機會難得，希望你能替我挑選適合的花。"
+我想從那裡移栽一些合適的花過來，
+機會難得，希望你能替我挑選合適的花。"
 51,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_003","太好了！太開心了！
-那我們趕快去花園裡挑選適合的花吧！"
+那我們趕快去花園裡挑選合適的花吧！"
 52,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_010","你看這個花園如何？
-我聽說在人類的審美里，同一種花朵也要顏色越多才越好看。
+我聽說在人類的審美裡，同一種花朵也要顏色越多才越好看。
 我希望公園也能這樣，這樣所有人類就都會喜歡我們的公園啦！"
 53,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_011","這裡的花一共有<Sheet(EventItem,2003372,0)/>、<Sheet(EventItem,2003373,0)/>、
 和<Sheet(EventItem,2003374,0)/>這三種！
 不管哪一種感覺都很適合公園。"
-54,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_012","我就想麻煩 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你來替我選，
+54,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_012","我就想麻煩<Highlight>ObjectParameter(1)</Highlight>你來替我選，
 請你告訴我，你最喜歡的花是哪一種吧！"
-55,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_013","我覺得不管把哪種花種進公園裡都很適合！
-所以才想要拜託 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你，
+55,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_013","我覺得不管把哪種花種進公園裡都很合適！
+所以才想要拜託<Highlight>ObjectParameter(1)</Highlight>你，
 請你告訴我，你最喜歡的花是哪一種吧！"
 56,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_020","這種花最主要的特徵就是其獨有的顆粒感！
 把它種在公園裡的話，公園一定會變得特別可愛！"
 57,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_021","這種花最大的特徵就是黏液晶晶亮的部分！
 把它種在公園裡的話，一定會成為一條靚麗的風景線！"
 58,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_022","這種花最大的特徵就是這種顫顫巍巍彈性十足的樣子，
-把它種在公園裡的話，就會有一種稍稍與眾不同的高階感！"
+把它種在公園裡的話，就會有一種稍稍與眾不同的高級感！"
 59,"TEXT_AKTKZE012_04251_SYSTEM_100_022","確定要選這種花嗎？"
 60,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_100_022","決定選哪種花之後記得告訴我哦！"
 61,"TEXT_AKTKZE012_04251_HAPPYLOPORRIT04251_000_023","那我們回公園去吧！

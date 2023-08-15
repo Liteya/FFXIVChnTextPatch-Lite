@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ307_01799_SEQ_00","不潔三塔的特．伊斯拉垂涎欲滴。"
-1,"TEXT_HEAVNZ307_01799_SEQ_01","和特．伊斯拉進行了交談。前往龍堡參天高地的阿瓦隆尼亞古陸，討伐<Sheet(BNpcName,3577,0)/>，獲得3份<Sheet(EventItem,2001623,0)/>。"
-2,"TEXT_HEAVNZ307_01799_SEQ_02","獲得了<Sheet(EventItem,2001623,0)/>。將<Sheet(EventItem,2001623,0)/>交給不潔三塔的特．伊斯拉。"
-3,"TEXT_HEAVNZ307_01799_SEQ_03","將<Sheet(EventItem,2001623,0)/>交給了特．伊斯拉。特．伊斯拉十分滿意，並表示自己也想趕快去狩獵。"
+0,"TEXT_HEAVNZ307_01799_SEQ_00","不潔三塔的特·伊斯拉垂涎欲滴。"
+1,"TEXT_HEAVNZ307_01799_SEQ_01","和特·伊斯拉進行了交談。前往龍堡參天高地的阿瓦隆尼亞古陸，討伐<Sheet(BNpcName,3577,0)/>，獲取3份<Sheet(EventItem,2001623,0)/>。"
+2,"TEXT_HEAVNZ307_01799_SEQ_02","獲得了<Sheet(EventItem,2001623,0)/>。將<Sheet(EventItem,2001623,0)/>交給不潔三塔的特·伊斯拉。"
+3,"TEXT_HEAVNZ307_01799_SEQ_03","將<Sheet(EventItem,2001623,0)/>交給了特·伊斯拉。特·伊斯拉十分滿意，並表示自己也想趕快去狩獵。"
 4,"TEXT_HEAVNZ307_01799_SEQ_04",""
 5,"TEXT_HEAVNZ307_01799_SEQ_05",""
 6,"TEXT_HEAVNZ307_01799_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNZ307_01799_SEQ_21",""
 22,"TEXT_HEAVNZ307_01799_SEQ_22",""
 23,"TEXT_HEAVNZ307_01799_SEQ_23",""
-24,"TEXT_HEAVNZ307_01799_TODO_00","從<Sheet(BNpcName,3577,0)/>身上獲得<Sheet(EventItem,2001623,0)/>"
-25,"TEXT_HEAVNZ307_01799_TODO_01","將<Sheet(EventItem,2001623,0)/>交給特．伊斯拉"
+24,"TEXT_HEAVNZ307_01799_TODO_00","從<Sheet(BNpcName,3577,0)/>身上獲取<Sheet(EventItem,2001623,0)/>"
+25,"TEXT_HEAVNZ307_01799_TODO_01","將<Sheet(EventItem,2001623,0)/>交給特·伊斯拉"
 26,"TEXT_HEAVNZ307_01799_TODO_02",""
 27,"TEXT_HEAVNZ307_01799_TODO_03",""
 28,"TEXT_HEAVNZ307_01799_TODO_04",""

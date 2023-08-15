@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMC121_03342_SEQ_00","蛇行枝的雅．修特拉有事要告訴冒險者。"
+0,"TEXT_LUCKMC121_03342_SEQ_00","蛇行枝的雅·修特拉有事要告訴冒險者。"
 1,"TEXT_LUCKMC121_03342_SEQ_01",""
 2,"TEXT_LUCKMC121_03342_SEQ_02",""
 3,"TEXT_LUCKMC121_03342_SEQ_03",""
@@ -25,9 +25,9 @@ int32,str,str
 21,"TEXT_LUCKMC121_03342_SEQ_21",""
 22,"TEXT_LUCKMC121_03342_SEQ_22",""
 23,"TEXT_LUCKMC121_03342_SEQ_23",""
-24,"TEXT_LUCKMC121_03342_TODO_00","和雅．修特拉對話"
+24,"TEXT_LUCKMC121_03342_TODO_00","和雅·修特拉對話"
 25,"TEXT_LUCKMC121_03342_TODO_01","在<Sheet(EObj,2009894,0)/>等待"
-26,"TEXT_LUCKMC121_03342_TODO_02","和水晶都的雅．修特拉對話"
+26,"TEXT_LUCKMC121_03342_TODO_02","和水晶都的雅·修特拉對話"
 27,"TEXT_LUCKMC121_03342_TODO_03","和懸掛公館的管理員對話"
 28,"TEXT_LUCKMC121_03342_TODO_04",""
 29,"TEXT_LUCKMC121_03342_TODO_05",""
@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_LUCKMC121_03342_THANCRED_000_000","中了永暗之子的毒的人已經喝了解藥，
 沒有人毒發身亡。
 光是這一點就要向魔女瑪托雅的執著致敬了。"
-49,"TEXT_LUCKMC121_03342_RYNE_000_005","雖說遊末邦軍撤退了，但畢竟剛打完一仗，
+49,"TEXT_LUCKMC121_03342_RYNE_000_005","雖說游末邦軍撤退了，但畢竟剛打完一仗，
 所以我們決定先看一眼蛇行枝的情況再回去。"
 50,"TEXT_LUCKMC121_03342_RYNE_000_006","我像這樣和當地的人聊天、
 並且在一個地方停留許久還是第一次……
@@ -64,9 +64,9 @@ int32,str,str
 我們恐怕就很難討伐靈光衛了。"
 53,"TEXT_LUCKMC121_03342_YSHTOLA_000_020","好了……剛才我已經順嘴說出來了，
 我也要回水晶都，
-正式和你們會合。"
+正式和你們匯合。"
 54,"TEXT_LUCKMC121_03342_YSHTOLA_000_021","做好出發準備我們就啟程吧……
-不過在那之前， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，可否佔用你一點時間？
+不過在那之前，<Highlight>ObjectParameter(1)</Highlight>，可否佔用你一點時間？
 請單獨來我的房間一趟。"
 55,"TEXT_LUCKMC121_03342_YSHTOLA_000_030","……你一個人來了啊。
 出發之前，關於你的身體我有事要說。"
@@ -76,16 +76,16 @@ int32,str,str
 57,"TEXT_LUCKMC121_03342_YSHTOLA_000_032","恐怕是打倒靈光衛時放出的光
 並沒有被光之加護抵消……
 而是全部被擁有加護的你給吸收了。"
-58,"TEXT_LUCKMC121_03342_YSHTOLA_000_033","……這件事于里昂熱已經發現了。
+58,"TEXT_LUCKMC121_03342_YSHTOLA_000_033","……這件事於里昂熱已經發現了。
 他好像在思考解決辦法，
 我覺得可以相信他。"
 59,"TEXT_LUCKMC121_03342_YSHTOLA_000_034","但接下來繼續討伐靈光衛的話就會變得越來越危險……
 請你務必牢記在心。
 一旦感到有什麼不對勁的一定要及時和我商量。"
 60,"TEXT_LUCKMC121_03342_YSHTOLA_000_035","……我想說的就是這些。
-好了，我會儘快做好出發準備的，
+好了，我會盡快做好出發準備的，
 你就先去蛇行枝門口等我吧。"
-61,"TEXT_LUCKMC121_03342_YSHTOLA_000_040","我會儘快做好出發準備的，你就先去蛇行枝門口等我吧。
+61,"TEXT_LUCKMC121_03342_YSHTOLA_000_040","我會盡快做好出發準備的，你就先去蛇行枝門口等我吧。
 ……不過這堆書要如何是好呢。"
 62,"TEXT_LUCKMC121_03342_YSHTOLA_000_041","以前在我還小的時候，
 我曾經對瑪托雅說過，怎麼能把書隨便堆在地板上呢？
@@ -122,10 +122,10 @@ int32,str,str
 不過既然你在這裡，也就是說……"
 78,"TEXT_LUCKMC121_03342_ALPHINAUD_000_084","果然，拉凱提卡大森林的靈光衛也被消滅了！
 這真是個好消息！"
-79,"TEXT_LUCKMC121_03342_MYSTERYVOICE_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和大家都幹得不錯。
-聽說遊末邦軍向各地派兵之後，
+79,"TEXT_LUCKMC121_03342_MYSTERYVOICE_000_085","<Highlight>ObjectParameter(1)</Highlight>和大家都幹得不錯。
+聽說游末邦軍向各地派兵之後，
 我和阿爾菲諾都很擔心你們……"
-80,"TEXT_LUCKMC121_03342_THANCRED_000_086","說到遊末邦，你那邊怎麼樣了？
+80,"TEXT_LUCKMC121_03342_THANCRED_000_086","說到游末邦，你那邊怎麼樣了？
 見到沃斯里了嗎？"
 81,"TEXT_LUCKMC121_03342_MYSTERYVOICE_000_087","見到了……以防萬一我用了幻影，還真派上了用場。
 其實他……"
@@ -139,7 +139,7 @@ int32,str,str
 我也覺得大家，尤其是你，應該好好休息一下。"
 86,"TEXT_LUCKMC121_03342_THANCRED_000_092","那現在就先去休息，
 等之後再集合。"
-87,"TEXT_LUCKMC121_03342_GUIDEOFTHEPENDANTS_000_100","歡迎回來， <Highlight>ObjectParameter(1)</Highlight> 。
+87,"TEXT_LUCKMC121_03342_GUIDEOFTHEPENDANTS_000_100","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>。
 你又去了什麼很遠的地方嗎？"
 88,"TEXT_LUCKMC121_03342_GUIDEOFTHEPENDANTS_000_101","你的房間和離開前一樣……
 要直接回去休息嗎？"

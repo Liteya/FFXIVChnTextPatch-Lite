@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSYL104_01260_SEQ_00","妖精暫留地的特那克希亞有很緊急的事情想要委託給冒險者。"
-1,"TEXT_BANSYL104_01260_SEQ_01","接受了特那克希亞的委託。調查百靈啼的<Sheet(EObj,2003221,0)/>，獲得<Sheet(EventItem,2001178,0)/>。"
+1,"TEXT_BANSYL104_01260_SEQ_01","接受了特那克希亞的委託。調查百靈啼的<Sheet(EObj,2003221,0)/>，獲取<Sheet(EventItem,2001178,0)/>。"
 2,"TEXT_BANSYL104_01260_SEQ_02","獲得了<Sheet(EventItem,2001178,0)/>。對百靈啼的<Sheet(EObj,2003229,0)/>使用<Sheet(EventItem,2001178,0)/>，救出被捉的妖精。"
 3,"TEXT_BANSYL104_01260_SEQ_03","對<Sheet(EObj,2003229,0)/>使用了<Sheet(EventItem,2001178,0)/>，救出了被捉的妖精。向妖精暫留地的特那克希亞報告。"
 4,"TEXT_BANSYL104_01260_SEQ_04","順利地救出了特那克希亞的夥伴。特那克希亞為有冒險者這樣的朋友而感到高興。下次有機會再協助他。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANSYL104_01260_SEQ_21",""
 22,"TEXT_BANSYL104_01260_SEQ_22",""
 23,"TEXT_BANSYL104_01260_SEQ_23",""
-24,"TEXT_BANSYL104_01260_TODO_00","調查百靈啼的<Sheet(EObj,2003221,0)/> 獲得<Sheet(EventItem,2001178,0)/>"
+24,"TEXT_BANSYL104_01260_TODO_00","調查百靈啼的<Sheet(EObj,2003221,0)/> 獲取<Sheet(EventItem,2001178,0)/>"
 25,"TEXT_BANSYL104_01260_TODO_01","對<Sheet(EObj,2003229,0)/>使用<Sheet(EventItem,2001178,0)/>"
 26,"TEXT_BANSYL104_01260_TODO_02","向特那克希亞報告"
 27,"TEXT_BANSYL104_01260_TODO_03",""
@@ -54,7 +54,7 @@ int32,str,str
 我的夥伴被捉住了呼啾！"
 49,"TEXT_BANSYL104_01260_TONAXIA_000_001","那些傢伙也太過分了呼啾！
 居然唆使<Sheet(EObj,2003229,0)/>把我的夥伴給捉了起來呼啾！"
-50,"TEXT_BANSYL104_01260_TONAXIA_000_002","總之，一定要趕緊救出我的夥伴，
+50,"TEXT_BANSYL104_01260_TONAXIA_000_002","總之，必須要趕緊救出我的夥伴，
 不然不知道還會被壞妖精們做什麼呼啾！
 請你來幫我吧呼啾！"
 51,"TEXT_BANSYL104_01260_TONAXIA_000_003","<Sheet(EObj,2003229,0)/>很害怕<Sheet(EventItem,2001178,0)/>呼啾。

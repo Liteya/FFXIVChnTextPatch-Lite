@@ -17,7 +17,7 @@ int32,str,str
 5,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_040","你來了啊，突破了最終訓練的勇士！
 我每天都在為你祈禱，希望你能在戰場上活用在這裡學到的經驗，
 有時間的話，你要不要聽聽防護職業的秘訣啊？"
-6,"TEXT_REGSEABEGINNERTANKGUIDE_00337_Q1_000_000","想瞭解什麼？"
+6,"TEXT_REGSEABEGINNERTANKGUIDE_00337_Q1_000_000","想了解什麼？"
 7,"TEXT_REGSEABEGINNERTANKGUIDE_00337_A1_000_001","如何集中仇恨？"
 8,"TEXT_REGSEABEGINNERTANKGUIDE_00337_A1_000_002","如何從遠處集中仇恨？"
 9,"TEXT_REGSEABEGINNERTANKGUIDE_00337_A1_000_003","如何集中多名敵人的仇恨？"
@@ -38,7 +38,7 @@ int32,str,str
 一定要記得在戰鬥前先開啟「守護」！"
 18,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_107","連擊則是會在成功時提升招式的威力，
 因此也更容易將敵人的仇恨集中在自己身上。"
-19,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_108","最基礎的就是先使用「重劈」再使用「凶殘裂」的連擊了！"
+19,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_108","最基礎的就是先使用「重劈」再使用「兇殘裂」的連擊了！"
 20,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_110","仇恨……將敵人的殺意集中在自己身上，
 吸引他們來攻擊自己，
 以此來救助同伴的性命。"
@@ -66,7 +66,7 @@ int32,str,str
 增援在近處的話就用先鋒劍和暴亂劍連擊，
 在遠處的話就給他一記投盾！"
 31,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_165","如果敵人的增援出現，就要立刻吸引增援的仇恨！
-增援在近處的話就用重劈和凶殘裂連擊，
+增援在近處的話就用重劈和兇殘裂連擊，
 在遠處的話就給他一記飛斧！"
 32,"TEXT_REGSEABEGINNERTANKGUIDE_00337_TANKCOACH00337_000_170","如果敵人的增援出現，就要立刻吸引增援的仇恨！
 增援在近處的話就用重斬和吸收斬連擊，

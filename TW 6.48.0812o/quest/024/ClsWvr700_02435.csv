@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CLSWVR700_02435_SEQ_00","黃金港的啟明有事想要和冒險者商量。"
 1,"TEXT_CLSWVR700_02435_SEQ_01","已經重新獲得藝伎資格的琴蝶拒絕了啟明的賀禮。啟明委託冒險者幫他探聽原因。和黃金港三條花街的琴蝶談談。"
 2,"TEXT_CLSWVR700_02435_SEQ_02","和琴蝶進行了交談。因為琴鶴已經決定隱退，琴蝶從此一生都無法超越前輩，這讓她變得自暴自棄起來。向樂座街的啟明報告。"
-3,"TEXT_CLSWVR700_02435_SEQ_03","向啟明報告完畢。決定委託琴鶴參演琴蝶的回歸舞臺——黃金曼舞。和黃金港第一防波堤的琴鶴談談。"
+3,"TEXT_CLSWVR700_02435_SEQ_03","向啟明報告完畢。決定委託琴鶴參演琴蝶的回歸舞台——黃金曼舞。和黃金港第一防波堤的琴鶴談談。"
 4,"TEXT_CLSWVR700_02435_SEQ_04","和琴鶴進行了交談，她答應在黃金曼舞中出演。條件是琴蝶和琴鶴要穿著同樣的衣服，跳同樣的舞。和樂座街的啟明談談。"
 5,"TEXT_CLSWVR700_02435_SEQ_05","和啟明進行了交談。得知可以與前輩最後一決勝負的琴蝶立即投入到了練習之中。因為這件事，啟明委託冒險者製作兩件<Sheet(ItemHQ,17924,0)/>。和樂座街的矢切談談，領取材料<Sheet(Item,17923,0)/>。"
 6,"TEXT_CLSWVR700_02435_SEQ_06","從矢切那裡領取了必要的材料。製作兩件<Sheet(ItemHQ,17924,0)/>，並將其交給樂座街的啟明。
@@ -51,10 +51,10 @@ int32,str,str
 45,"TEXT_CLSWVR700_02435_TODO_21",""
 46,"TEXT_CLSWVR700_02435_TODO_22",""
 47,"TEXT_CLSWVR700_02435_TODO_23",""
-48,"TEXT_CLSWVR700_02435_KEIMEI_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了！
+48,"TEXT_CLSWVR700_02435_KEIMEI_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來了！
 琴蝶重整旗鼓從見習生做起了，
 她十分努力，因此可以提前做回藝伎！"
-49,"TEXT_CLSWVR700_02435_KEIMEI_000_001","回歸的舞臺定在一年一度的黃金曼舞，
+49,"TEXT_CLSWVR700_02435_KEIMEI_000_001","回歸的舞台定在一年一度的黃金曼舞，
 這是三條花街最大的活動，也是舞伎和藝伎都會參加的
 豪華舞蹈公演，每年都會吸引大量黃金港的觀眾。"
 50,"TEXT_CLSWVR700_02435_KEIMEI_000_002","可以說，在這次公演中獲得最高評價的藝伎
@@ -62,7 +62,7 @@ int32,str,str
 當然了，最近這幾年一直都是琴鶴獨佔鰲頭。"
 51,"TEXT_CLSWVR700_02435_KEIMEI_000_003","可是，琴鶴卻突然宣布要結婚隱退，
 辭掉了這次黃金曼舞的出演！
-應該琴蝶的提前回歸也是因為受到了這件事的影響吧。"
+估計琴蝶的提前回歸也是因為受到了這件事的影響吧。"
 52,"TEXT_CLSWVR700_02435_KEIMEI_000_004","如果琴鶴走了，那麼琴蝶想要成為首席就不再是夢想！
 於是我為了這次盛大的活動，迫不及待地想送她一份禮物，
 可卻被她拒絕了……"
@@ -72,8 +72,8 @@ int32,str,str
 54,"TEXT_CLSWVR700_02435_KEIMEI_000_009","琴蝶心心念念的回歸近在眼前，她卻顯得十分失落。
 她那麼愛逞強，我猜她大概不想把真心話告訴我，
 所以能麻煩你去趟三條花街，幫我跟琴蝶談談嗎？"
-55,"TEXT_CLSWVR700_02435_KOTOCHO_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊。
-我在見習期間十分努力，因此很快就可以重回藝伎的舞臺了。
+55,"TEXT_CLSWVR700_02435_KOTOCHO_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了啊。
+我在見習期間十分努力，因此很快就可以重回藝伎的舞台了。
 ……可是，我卻提不起幹勁來。"
 56,"TEXT_CLSWVR700_02435_KOTOCHO_000_011","琴鶴姐姐要隱退了……
 小的時候，我在黃金曼舞上看到了姐姐的舞姿，
@@ -83,7 +83,7 @@ int32,str,str
 雖然有時候會感到很疲累……但卻非常幸福。"
 58,"TEXT_CLSWVR700_02435_KOTOCHO_000_013","在園遊會與姐姐一決勝負的時候，我高興地拼盡了全力……
 但卻……輸得那麼慘。"
-59,"TEXT_CLSWVR700_02435_KOTOCHO_000_014","因此，為了能早日與姐姐站在同樣的舞臺上，
+59,"TEXT_CLSWVR700_02435_KOTOCHO_000_014","因此，為了能早日與姐姐站在同樣的舞台上，
 我努力打雜努力練習，好不容易抓住了機會，可是……
 看來我的夢想一生都無法實現了……"
 60,"TEXT_CLSWVR700_02435_KOTOCHOU_000_015","（★未使用／削除予定★）"
@@ -91,12 +91,12 @@ int32,str,str
 62,"TEXT_CLSWVR700_02435_KOTOCHO_000_015","這種心情很對不起為我著想的少東家，
 因此我拒絕了他送給我的賀禮。不，不只對少東家……
 對其他客人，對花街來說，我的想法都很失禮。"
-63,"TEXT_CLSWVR700_02435_KOTOCHO_000_016"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，今天能請你先回去嗎？
+63,"TEXT_CLSWVR700_02435_KOTOCHO_000_016","<Highlight>ObjectParameter(1)</Highlight>，今天能請你先回去嗎？
 我想一個人想想今後的事，
 抱歉啊。"
 64,"TEXT_CLSWVR700_02435_KOTOCHO_000_019","我想一個人想想今後的事，
 抱歉啊。"
-65,"TEXT_CLSWVR700_02435_KEIMEI_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+65,"TEXT_CLSWVR700_02435_KEIMEI_000_020","<Highlight>ObjectParameter(1)</Highlight>，
 琴蝶怎麼樣了？"
 66,"TEXT_CLSWVR700_02435_KEIMEI_000_021","原來如此，因為琴鶴的隱退，她失去了自己的目標，
 所以自暴自棄起來了……"
@@ -106,15 +106,15 @@ int32,str,str
 68,"TEXT_CLSWVR700_02435_KEIMEI_000_023","給予舞伎和藝伎支援的人也被稱為「恩主」。
 但是，她們向恩主尋求的並不只是金錢，
 還有心靈上的支持……"
-69,"TEXT_CLSWVR700_02435_KEIMEI_000_024"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能麻煩你跟我一起
+69,"TEXT_CLSWVR700_02435_KEIMEI_000_024","<Highlight>ObjectParameter(1)</Highlight>，能麻煩你跟我一起
 說服琴鶴晚一些再隱退嗎？"
 70,"TEXT_CLSWVR700_02435_KEIMEI_000_025","她現在應該在第一防波堤。
-等我給店裡的人安排好工作之後就去找你會合，
+等我給店裡的人安排好工作之後就去找你匯合，
 請你先去找琴鶴吧。"
 71,"TEXT_CLSWVR700_02435_KEIMEI_000_029","我們去找琴鶴說服她晚一些再隱退吧。
 她現在應該在第一防波堤，
-等我做完工作之後就去找你會合。"
-72,"TEXT_CLSWVR700_02435_KOTOTSURU_000_030","哎呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎。
+等我做完工作之後就去找你匯合。"
+72,"TEXT_CLSWVR700_02435_KOTOTSURU_000_030","哎呀，這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
 你找我有事嗎？"
 73,"TEXT_CLSWVR700_02435_KEIMEI_000_031","琴鶴！
 我想懇請你一件事！"
@@ -133,12 +133,12 @@ int32,str,str
 這次我也希望你能拉她一把。"
 79,"TEXT_CLSWVR700_02435_KOTOTSURU_000_037","為什麼你要拜託我？
 你這個「恩主」就在她身邊，
-況且不是還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎。"
+況且不是還有<Highlight>ObjectParameter(1)</Highlight>嗎。"
 80,"TEXT_CLSWVR700_02435_Q1_000_000","為什麼需要琴鶴的幫助？"
 81,"TEXT_CLSWVR700_02435_A1_000_001","因為琴鶴是琴蝶的目標"
 82,"TEXT_CLSWVR700_02435_A1_000_002","因為琴鶴是琴蝶仰慕的對象"
-83,"TEXT_CLSWVR700_02435_A1_000_003","…………"
-84,"TEXT_CLSWVR700_02435_KEIMEI_000_038","沒錯……對琴蝶來說，你是她一定要超越的目標。
+83,"TEXT_CLSWVR700_02435_A1_000_003","……"
+84,"TEXT_CLSWVR700_02435_KEIMEI_000_038","沒錯……對琴蝶來說，你是她必須要超越的目標。
 可是，你的隱退導致你們之間的較量無疾而終，
 這才使她變得自暴自棄。"
 85,"TEXT_CLSWVR700_02435_KEIMEI_000_039","沒錯，琴蝶是因為看了你的舞才立志成為藝伎的。
@@ -148,12 +148,12 @@ int32,str,str
 畢竟我是她的「恩主」，
 從她還是舞伎的時候就一直在支援她了……"
 87,"TEXT_CLSWVR700_02435_KEIMEI_000_041","對琴蝶來說，
-你既是她立志成為藝伎的契機，也是一定要超越的最大目標……
+你既是她立志成為藝伎的契機，也是必須要超越的最大目標……
 因此她現在才因失去了目標而自暴自棄。"
 88,"TEXT_CLSWVR700_02435_KEIMEI_000_042","她需要與你認真地一決勝負……
 所以我希望你能再給她最後一次機會。"
 89,"TEXT_CLSWVR700_02435_KOTOTSURU_000_043","你們兩個可真夠壞的啊……
-既然這是我最後的舞臺，那我一定會全力以赴的，
+既然這是我最後的舞台，那我一定會全力以赴的，
 萬一那孩子又輸給了我，說不定她會就此一蹶不振哦？"
 90,"TEXT_CLSWVR700_02435_KEIMEI_000_044","……如果真是那樣，那就說明琴蝶只有這麼點能耐。
 一個半途而廢的藝伎，就算留在沒有你的花街也不會有任何用……
@@ -169,7 +169,7 @@ int32,str,str
 琴蝶的衣服自不必說，
 我的那件也麻煩啟明先生了？"
 95,"TEXT_CLSWVR700_02435_KEIMEI_000_049","當然可以，就當作是我送給你的結婚賀禮吧。
-衣服的製作就拜託 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 了。"
+衣服的製作就拜託<Highlight>ObjectParameter(1)</Highlight>了。"
 96,"TEXT_CLSWVR700_02435_KEIMEI_000_050","在黃金曼舞上，很少有人會跳多瑪的傳統舞蹈……
 再加上我們準備的衣服，這樣你們所有的條件就都是一樣的……
 這表示，你想單純地在舞藝上與她一較高下了？"
@@ -180,10 +180,10 @@ int32,str,str
 你在方方面面上都為她著想，真的很謝謝你。
 剩下的就只有相信她那雙曾經吸引我的眼睛了……"
 99,"TEXT_CLSWVR700_02435_KOTOTSURU_000_053","那我也要快點去練習了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我很期待看到你做的衣服哦。"
+<Highlight>ObjectParameter(1)</Highlight>，我很期待看到你做的衣服哦。"
 100,"TEXT_CLSWVR700_02435_KEIMEI_000_054","那麼我就先回店裡，
 順便把琴蝶也叫過去。"
-101,"TEXT_CLSWVR700_02435_KOTOCHO_000_059"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，又見面了呢。
+101,"TEXT_CLSWVR700_02435_KOTOCHO_000_059","<Highlight>ObjectParameter(1)</Highlight>，又見面了呢。
 我是被少東家突然叫過來的，
 不過我也正好有話要說就是了。"
 102,"TEXT_CLSWVR700_02435_KEIMEI_000_060","大家都到齊了。
@@ -194,11 +194,11 @@ int32,str,str
 如果我連與她較量的機會都沒有的話，
 那我就失去了繼續當藝伎的意義。所以，我也不要當藝伎了！"
 105,"TEXT_CLSWVR700_02435_KEIMEI_000_063","別急，琴蝶，
-琴鶴已經決定要把黃金曼舞當作自己最後的舞臺了，
+琴鶴已經決定要把黃金曼舞當作自己最後的舞台了，
 為了最後與你一決勝負。"
 106,"TEXT_CLSWVR700_02435_KOTOCHO_000_064","您說的是真的嗎？！"
 107,"TEXT_CLSWVR700_02435_KEIMEI_000_065","但是她有一個條件，
-那就是你們要穿著由 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 縫製的同樣的服裝，
+那就是你們要穿著由<Highlight>ObjectParameter(1)</Highlight>縫製的同樣的服裝，
 一起跳多瑪的傳統舞蹈「天女之舞」。"
 108,"TEXT_CLSWVR700_02435_KOTOCHO_000_066","和姐姐穿同樣的衣服跳同樣的舞……"
 109,"TEXT_CLSWVR700_02435_KOTOCHO_000_067","少東家，我不隱退了！
@@ -206,9 +206,9 @@ int32,str,str
 然後無牽無掛地送姐姐離開！"
 110,"TEXT_CLSWVR700_02435_KEIMEI_000_068","呵呵呵，你的目光又變成當初吸引我的那種了。
 你就用最美的舞去祝福琴鶴的隱退吧！"
-111,"TEXT_CLSWVR700_02435_KOTOCHO_000_069","少東家， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，太感謝你們了！！
+111,"TEXT_CLSWVR700_02435_KOTOCHO_000_069","少東家，<Highlight>ObjectParameter(1)</Highlight>，太感謝你們了！！
 那我現在就去努力練習。"
-112,"TEXT_CLSWVR700_02435_KEIMEI_000_070","那麼 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+112,"TEXT_CLSWVR700_02435_KEIMEI_000_070","那麼<Highlight>ObjectParameter(1)</Highlight>，
 就拜託你製作<Sheet(ItemHQ,17924,0)/>了。
 必要的材料請去大天屋掌櫃矢切那裡領取吧。"
 113,"TEXT_CLSWVR700_02435_KEIMEI_000_071","我準備了最高級的純白色布料，
@@ -228,7 +228,7 @@ int32,str,str
 不愧是長年君臨花街頂點的琴鶴小姐啊。"
 119,"TEXT_CLSWVR700_02435_YAGIRI_000_082","天女之舞是邀請躲在岩石後面的天女參加宴會的英勇之舞，
 一直都是傳達「款待之心」的代表作。
-用這支舞在宴席上招待客人，也能展現藝伎的心意呢。"
+用這支舞在宴席上招待客人，也能體現藝伎的心意呢。"
 120,"TEXT_CLSWVR700_02435_YAGIRI_000_083","不知道琴蝶小姐能不能體會到
 前輩的良苦用心啊？
 黃金曼舞可真讓人期待……"
@@ -238,13 +238,13 @@ int32,str,str
 那就快點交給翹首以盼的少東家吧。
 啊，我也想快點看到天女的羽衣……"
 123,"TEXT_CLSWVR700_02435_KEIMEI_000_090","純白的<Sheet(ItemHQ,17924,0)/>
-對 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來說也是一種挑戰，
+對<Highlight>ObjectParameter(1)</Highlight>來說也是一種挑戰，
 我很期待看到成品。"
 124,"TEXT_CLSWVR700_02435_KEIMEI_000_091","衣服的做工就在黃金曼舞的舞蹈上確認吧，
 我現在要快點把衣服給她們兩個拿去。"
-125,"TEXT_CLSWVR700_02435_KEIMEI_000_092"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你在黃金曼舞的會場
+125,"TEXT_CLSWVR700_02435_KEIMEI_000_092","<Highlight>ObjectParameter(1)</Highlight>，請你在黃金曼舞的會場
 等待她們穿著這件衣服登場！"
-126,"TEXT_CLSWVR700_02435_KEIMEI_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，還好趕上了，
+126,"TEXT_CLSWVR700_02435_KEIMEI_000_100","<Highlight>ObjectParameter(1)</Highlight>，還好趕上了，
 黃金曼舞的壓軸表演——那兩個人的舞蹈就要開始了。"
 127,"TEXT_CLSWVR700_02435_KEIMEI_000_101","這是……天女從天而降了嗎……
 身著羽衣的兩個人看上去像在發光……"
@@ -256,11 +256,11 @@ int32,str,str
 永遠沉浸在英勇之舞的世界中……"
 131,"TEXT_CLSWVR700_02435_KEIMEI_000_105","辛苦你們了，
 我已經完全沉醉在鶴與蝶帶來的樂土之舞中了。"
-132,"TEXT_CLSWVR700_02435_KOTOCHO_000_106","這都要感謝 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 製作的衣服，
+132,"TEXT_CLSWVR700_02435_KOTOCHO_000_106","這都要感謝<Highlight>ObjectParameter(1)</Highlight>製作的衣服，
 我也覺得自己好像真的變成了天女。
-我在舞臺上跳舞的時候都分不清自己和姐姐呢。"
+我在舞台上跳舞的時候都分不清自己和姐姐呢。"
 133,"TEXT_CLSWVR700_02435_KOTOTSURU_000_107","我也是……這是我有生以來最幸福的一刻。
-多虧了琴蝶，我才能用最美的舞臺為我的藝伎生涯畫上句號。
+多虧了琴蝶，我才能用最美的舞台為我的藝伎生涯劃上句號。
 琴蝶，你在我的嚴厲指導下一直都沒有放棄，真是辛苦你了。"
 134,"TEXT_CLSWVR700_02435_KOTOCHO_000_108","姐姐才是為了我一直在努力，我真的很感謝。
 這麼久才發現姐姐的「款待」之情，對不起。"
@@ -274,18 +274,18 @@ int32,str,str
 139,"TEXT_CLSWVR700_02435_YAGIRI_000_119","能看到她們兩個的英勇之舞，真是無比幸福啊。
 而且你製作的羽衣讓她們看上去比平時更加閃耀了。
 從那兩件衣服上能看出你身為工匠的真本事，我感到很是震撼。"
-140,"TEXT_CLSWVR700_02435_KEIMEI_000_120"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+140,"TEXT_CLSWVR700_02435_KEIMEI_000_120","<Highlight>ObjectParameter(1)</Highlight>，
 這次也要謝謝你製作的美麗衣服。"
 141,"TEXT_CLSWVR700_02435_KEIMEI_000_121","因為她們兩個最終平分秋色，
 所以今後就要由琴蝶來接替琴鶴擔負整個花街。
 大家都承認琴蝶已經是與琴鶴不相上下的藝伎了。"
 142,"TEXT_CLSWVR700_02435_KEIMEI_000_122","我聽琴蝶說，她今後打算穿著琴鶴送給她的藝服
-以及 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為她製作的禮服
+以及<Highlight>ObjectParameter(1)</Highlight>為她製作的禮服
 來招待客人。"
 143,"TEXT_CLSWVR700_02435_KEIMEI_000_123","這大概代表了她的決心吧，
 她想把琴鶴守護的傳統與她自己掀起的新風結合起來，
 擔負著花街走下去。"
-144,"TEXT_CLSWVR700_02435_KEIMEI_000_124","而我與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的契約
+144,"TEXT_CLSWVR700_02435_KEIMEI_000_124","而我與<Highlight>ObjectParameter(1)</Highlight>的契約
 到此也暫且屆滿了，
 感謝你為琴蝶製作的諸多傑作。"
 145,"TEXT_CLSWVR700_02435_KEIMEI_000_125","等你下次再來黃金港的時候，還請到大天屋一敘。

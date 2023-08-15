@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ209_01778_SEQ_00","尾羽集落的維爾堯姆正四處召集人手。"
-1,"TEXT_HEAVNZ209_01778_SEQ_01","維爾堯姆委託冒險者去採集<Sheet(EventItem,2001607,0)/>。前往龍堡參天高地的南方洞窟，獲得<Sheet(EventItem,2001607,0)/>。"
+1,"TEXT_HEAVNZ209_01778_SEQ_01","維爾堯姆委託冒險者去採集<Sheet(EventItem,2001607,0)/>。前往龍堡參天高地的南方洞窟，獲取<Sheet(EventItem,2001607,0)/>。"
 2,"TEXT_HEAVNZ209_01778_SEQ_02","獲得了<Sheet(EventItem,2001607,0)/>。將<Sheet(EventItem,2001607,0)/>交給尾羽集落的維爾堯姆。"
 3,"TEXT_HEAVNZ209_01778_SEQ_03","維爾堯姆用基薩爾野菜和<Sheet(EventItem,2001607,0)/>做出了<Sheet(EventItem,2001608,0)/>。前往指定地點，將<Sheet(EventItem,2001608,0)/>放在<Sheet(EObj,2005600,0)/>。"
 4,"TEXT_HEAVNZ209_01778_SEQ_04","將<Sheet(EventItem,2001608,0)/>放在了<Sheet(EObj,2005600,0)/>上。向尾羽集落的維爾堯姆報告。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ209_01778_SEQ_21",""
 22,"TEXT_HEAVNZ209_01778_SEQ_22",""
 23,"TEXT_HEAVNZ209_01778_SEQ_23",""
-24,"TEXT_HEAVNZ209_01778_TODO_00","獲得<Sheet(EventItem,2001607,0)/>"
+24,"TEXT_HEAVNZ209_01778_TODO_00","獲取<Sheet(EventItem,2001607,0)/>"
 25,"TEXT_HEAVNZ209_01778_TODO_01","將<Sheet(EventItem,2001607,0)/>交給維爾堯姆"
 26,"TEXT_HEAVNZ209_01778_TODO_02","將<Sheet(EventItem,2001608,0)/>放在<Sheet(EObj,2005600,0)/>上"
 27,"TEXT_HEAVNZ209_01778_TODO_03","向維爾堯姆報告"

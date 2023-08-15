@@ -5,7 +5,7 @@ int32,str,str
 歡迎來到巴德龍的酒館「沉溺海豚亭」！
 這裡是冒險者們的故鄉！"
 1,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_001","來者不拒，往者不追。
-這也正是這條街上的「自由風氣」的展現。
+這也正是這條街上的「自由風氣」的體現。
 你也盡可放輕鬆。"
 2,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_002","但是，靈災所造成的創傷還殘留在各處。
 需要你們冒險者幫忙的地方有很多。
@@ -14,34 +14,34 @@ int32,str,str
 看來你很努力啊！"
 4,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_011","沒想到那個初出茅廬的新人，
 已經成長得這麼優秀了……真是讓人感慨啊。"
-5,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_020","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+5,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_020","你就是<Highlight>ObjectParameter(1)</Highlight>吧？
 聽說你最近在各地都表現得很活躍嘛。"
 6,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_021","我叫巴德龍。
 是這家「沉溺海豚亭」的店主。"
 7,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_022","這裡是你們這些冒險者的休息廳。
 畢竟現在這個世道……很多人都需要你們冒險者的幫助。
 還請你們不惜餘力地幫助那些人。"
-8,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_030","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+8,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_030","這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 哈哈，變得那麼優秀……我差點沒認出來。"
-9,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_031","我這小店對於「艾奧傑亞的英雄」來說，
+9,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_031","我這小店對於「艾歐澤亞的英雄」來說，
 多少有些簡陋……
 但你依然能像以前一樣過來，我還是很高興的。"
 10,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_032","總之我的店是一直開著的，
 你要經常過來坐坐啊。"
-11,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊！
+11,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_040","<Highlight>ObjectParameter(1)</Highlight>，你來了啊！
 難得來一次，一定要好好坐坐。"
 12,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_041","……怎麼，想知道我的過去？
 那這樣吧……如果你能比我活得時間長，
 那我就把之前的那枚硬幣，連同我的過去一起交給你。"
-13,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我都聽說了！
+13,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_050","<Highlight>ObjectParameter(1)</Highlight>，我都聽說了！
 真是讓我捏了把汗，不過看你沒事就好。"
-14,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_051","竟然誣陷艾奧傑亞的英雄是逆賊，
+14,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_051","竟然誣陷艾歐澤亞的英雄是逆賊，
 烏爾達哈那幫傢伙真是做得出來。
 雖然我們城邦也有很多問題，但看來他們那邊問題更嚴重……"
-15,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_052","哦，不該說這些不適合的話，
+15,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_052","哦，不該說這些不合適的話，
 畢竟店裡來來往往的人比較多。
 在風聲退去之前，你還是要多加小心啊。"
-16,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_060","傳聞我都聽說了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+16,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_060","傳聞我都聽說了，<Highlight>ObjectParameter(1)</Highlight>！
 娜娜莫陛下的「病」已經康復，
 你總算能堂堂正正走在大街上，不用再擔驚受怕了。"
 17,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_061","真是可喜可賀可喜可賀！
@@ -50,16 +50,16 @@ int32,str,str
 18,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_070","黑衣森林的國境線那邊好像發生了大事，
 就連這海之都都傳得沸沸揚揚……
 無論發生什麼，你可一定要活著回來啊。"
-19,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_080","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+19,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_080","喲，<Highlight>ObjectParameter(1)</Highlight>！
 聽說現在和帝國那邊的戰況十分激烈，
 我一些傭兵時代的朋友也上了戰場，真是令人擔心……"
-20,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒事吧。
+20,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_090","<Highlight>ObjectParameter(1)</Highlight>，你沒事吧。
 雖然帝都的情況很糟糕，
 不過好在末日塔已經消失了，總算鬆了一口氣。"
 21,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_100","關於拉札罕的慘狀我已經有所耳聞。
 拉諾西亞這裡似乎也出現了偽神獸。
 真是的，世界到底怎麼了？"
-22,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_110","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+22,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_110","喲，<Highlight>ObjectParameter(1)</Highlight>！
 你乘坐的魔導船回來的時候，
 那可真是感動死我了！"
 23,"TEXT_REGSEATHEDROWNINGWENCH_00158_BADERON_000_111","拯救星球的英雄大駕光臨，

@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSC207_00966_SEQ_00","船舶墓場的艾拉毗．塔洛毗，想要將湯熬得更加美味。"
-1,"TEXT_GAIUSC207_00966_SEQ_01","艾拉毗．塔洛毗想要一些可以加入湯中的香料。調查船舶墓場的<Sheet(EObj,2002188,0)/>，獲得<Sheet(EventItem,2000748,0)/>。"
-2,"TEXT_GAIUSC207_00966_SEQ_02","獲得了<Sheet(EventItem,2000748,0)/>。將其交給船舶墓場的艾拉毗．塔洛毗。"
-3,"TEXT_GAIUSC207_00966_SEQ_03","將<Sheet(EventItem,2000748,0)/>交給了艾拉毗．塔洛毗。但香料已經徹底變質了……"
+0,"TEXT_GAIUSC207_00966_SEQ_00","船舶墓場的艾拉毗·塔洛毗，想要將湯熬得更加美味。"
+1,"TEXT_GAIUSC207_00966_SEQ_01","艾拉毗·塔洛毗想要一些可以加入湯中的香料。調查船舶墓場的<Sheet(EObj,2002188,0)/>，獲得<Sheet(EventItem,2000748,0)/>。"
+2,"TEXT_GAIUSC207_00966_SEQ_02","獲得了<Sheet(EventItem,2000748,0)/>。將其交給船舶墓場的艾拉毗·塔洛毗。"
+3,"TEXT_GAIUSC207_00966_SEQ_03","將<Sheet(EventItem,2000748,0)/>交給了艾拉毗·塔洛毗。但香料已經徹底變質了……"
 4,"TEXT_GAIUSC207_00966_SEQ_04",""
 5,"TEXT_GAIUSC207_00966_SEQ_05",""
 6,"TEXT_GAIUSC207_00966_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_GAIUSC207_00966_SEQ_21",""
 22,"TEXT_GAIUSC207_00966_SEQ_22",""
 23,"TEXT_GAIUSC207_00966_SEQ_23",""
-24,"TEXT_GAIUSC207_00966_TODO_00","從<Sheet(EObj,2002188,0)/>中獲得<Sheet(EventItem,2000748,0)/>"
-25,"TEXT_GAIUSC207_00966_TODO_01","將<Sheet(EventItem,2000748,0)/>交給艾拉毗．塔洛毗"
+24,"TEXT_GAIUSC207_00966_TODO_00","從<Sheet(EObj,2002188,0)/>中獲取<Sheet(EventItem,2000748,0)/>"
+25,"TEXT_GAIUSC207_00966_TODO_01","將<Sheet(EventItem,2000748,0)/>交給艾拉毗·塔洛毗"
 26,"TEXT_GAIUSC207_00966_TODO_02",""
 27,"TEXT_GAIUSC207_00966_TODO_03",""
 28,"TEXT_GAIUSC207_00966_TODO_04",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_GAIUSC207_00966_TODO_23",""
 48,"TEXT_GAIUSC207_00966_ERAPITAROPI_000_000","我原本計劃趁著幽靈騷亂的機會，來這個島上掙點小錢。
 但沒想到所謂的幽靈，居然是真的死靈……
-真是倒了大黴了……"
+真是倒了大霉了……"
 49,"TEXT_GAIUSC207_00966_ERAPITAROPI_000_001","我本還想去趟船舶墓場，
 找找看有沒有什麼值錢的東西呢，
 這樣下去根本幹不成活。"
@@ -61,8 +61,8 @@ int32,str,str
 51,"TEXT_GAIUSC207_00966_ERAPITAROPI_000_003","對了……
 我記得曾在漂來的船上看到過<Sheet(EventItem,2000748,0)/>。
 你去取一些回來。等飯做好了，我會分你一份的。"
-52,"TEXT_GAIUSC207_00966_DUMMY_000_000","點選船舶墓場的道具，獲得香料。"
-53,"TEXT_GAIUSC207_00966_SYSTEM_000_000","（★未使用／削除予定★）"
+52,"TEXT_GAIUSC207_00966_DUMMY_000_000","點擊船舶墓場的道具，獲得香料。"
+53,"TEXT_GAIUSC207_00966_SYSTEM_000_000","（未使用/預計刪除）"
 54,"TEXT_GAIUSC207_00966_ERAPITAROPI_000_010","我等你好久了！
 快把香料給我，魚都快煮爛了。"
 55,"TEXT_GAIUSC207_00966_ERAPITAROPI_000_020","沒錯，就是它，謝謝！

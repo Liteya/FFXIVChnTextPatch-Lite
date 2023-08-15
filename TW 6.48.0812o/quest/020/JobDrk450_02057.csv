@@ -2,13 +2,13 @@
 #,,
 int32,str,str
 0,"TEXT_JOBDRK450_02057_SEQ_00","雲霧街的弗雷正在等待冒險者。"
-1,"TEXT_JOBDRK450_02057_SEQ_01","和弗雷再會，挑戰新的儀式。和拉諾西亞低地莫拉比造船廠的弗雷會合。"
-2,"TEXT_JOBDRK450_02057_SEQ_02","和弗雷會合了，但強勢的貿易商人委託了冒險者工作。和拉諾西亞低地砂鹽灘的弗雷對話。"
+1,"TEXT_JOBDRK450_02057_SEQ_01","和弗雷再會，挑戰新的儀式。和拉諾西亞低地莫拉比造船廠的弗雷匯合。"
+2,"TEXT_JOBDRK450_02057_SEQ_02","和弗雷匯合了，但強勢的貿易商人委託了冒險者工作。和拉諾西亞低地砂鹽灘的弗雷對話。"
 3,"TEXT_JOBDRK450_02057_SEQ_03","和弗雷一起從盧恩族手裡奪回了<Sheet(EventItem,2001813,0)/>。和砂鹽灘的弗雷對話。"
 4,"TEXT_JOBDRK450_02057_SEQ_04","弗雷讓冒險者先一步回去。將<Sheet(EventItem,2001813,0)/>交給莫拉比造船廠的強勢的貿易商人。"
 5,"TEXT_JOBDRK450_02057_SEQ_05","將<Sheet(EventItem,2001813,0)/>交給了強勢的貿易商人。弗雷不滿貿易商人的蠻橫態度，當場離開了。在莫拉比造船廠尋找弗雷。"
 6,"TEXT_JOBDRK450_02057_SEQ_06","找到了弗雷，繼續進行儀式。和莫拉比造船廠的弗雷共鳴。"
-7,"TEXT_JOBDRK450_02057_SEQ_07","在和弗雷共鳴時，冒險者再次聽到了聲音。弗雷說，如果真心想保護聲音的主人，就和他一起離開艾奧傑亞。他還將在老地方等待冒險者……
+7,"TEXT_JOBDRK450_02057_SEQ_07","在和弗雷共鳴時，冒險者再次聽到了聲音。弗雷說，如果真心想保護聲音的主人，就和他一起離開艾歐澤亞。他還將在老地方等待冒險者……
 
 ※暗黑騎士的等級達到50級以上時，可以從雲霧街的弗雷那裡領取下一個暗黑騎士任務。"
 8,"TEXT_JOBDRK450_02057_SEQ_08",""
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBDRK450_02057_SEQ_21",""
 22,"TEXT_JOBDRK450_02057_SEQ_22",""
 23,"TEXT_JOBDRK450_02057_SEQ_23",""
-24,"TEXT_JOBDRK450_02057_TODO_00","和莫拉比造船廠的弗雷會合"
+24,"TEXT_JOBDRK450_02057_TODO_00","和莫拉比造船廠的弗雷匯合"
 25,"TEXT_JOBDRK450_02057_TODO_01","和砂鹽灘的弗雷對話"
 26,"TEXT_JOBDRK450_02057_TODO_02","和弗雷對話"
 27,"TEXT_JOBDRK450_02057_TODO_03","將<Sheet(EventItem,2001813,0)/>交給強勢的貿易商人"
@@ -51,10 +51,10 @@ int32,str,str
 45,"TEXT_JOBDRK450_02057_TODO_21",""
 46,"TEXT_JOBDRK450_02057_TODO_22",""
 47,"TEXT_JOBDRK450_02057_TODO_23",""
-48,"TEXT_JOBDRK450_02057_FRAY_000_000","又見面了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_JOBDRK450_02057_FRAY_000_000","又見面了，<Highlight>ObjectParameter(1)</Highlight>，
 還記得上次儀式時我跟你說的話麼？
 那以後我也思考了許多。"
-49,"TEXT_JOBDRK450_02057_FRAY_000_001","畢竟關於那個「需要你保護的人」，我們瞭解的還太少，
+49,"TEXT_JOBDRK450_02057_FRAY_000_001","畢竟關於那個「需要你保護的人」，我們了解的還太少，
 讓你為了他去拋棄全世界，
 你肯定也不會接受的。"
 50,"TEXT_JOBDRK450_02057_FRAY_000_002","那麼我們還是需要不斷進行儀式，
@@ -69,7 +69,7 @@ int32,str,str
 我想先測試一下你的實力。"
 54,"TEXT_JOBDRK450_02057_FRAY_000_006","這次我們換換心情，
 去拉諾西亞低地的莫拉比造船廠吧……"
-55,"TEXT_JOBDRK450_02057_FRAY_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+55,"TEXT_JOBDRK450_02057_FRAY_000_010","<Highlight>ObjectParameter(1)</Highlight>……
 看到海你會想起什麼？"
 56,"TEXT_JOBDRK450_02057_FRAY_000_011","雖說邀你來這裡的是我，但對於海，我還真沒有什麼美好的回憶。
 以前我也和你說過，在與和你很像的那個人旅行的時候，
@@ -86,9 +86,9 @@ int32,str,str
 60,"TEXT_JOBDRK450_02057_STYRNLONA_000_015","但是，黑渦團也是有職權範圍的。
 如果是要追回被盜商品，請去找黃衫隊……"
 61,"TEXT_JOBDRK450_02057_MERCHANT02057_000_016","那可不行，那些傢伙都不把你的事當事看。
-你們就代替他們幫幫我吧。"
+你們就代替他們幫幫我唄。"
 62,"TEXT_JOBDRK450_02057_STYRNLONA_000_017","這不是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/><Highlight>ObjectParameter(1)</Highlight>閣下</If><Else/><Highlight>ObjectParameter(1)</Highlight>閣下</If>嘛！"
-63,"TEXT_JOBDRK450_02057_STYRNLONA_000_018","討伐蠻神利維坦的時候真是承蒙你關照了！
+63,"TEXT_JOBDRK450_02057_STYRNLONA_000_018","討伐蠻神利維亞桑的時候真是承蒙你關照了！
 你那奮不顧身的一戰不知拯救了多少百姓……"
 64,"TEXT_JOBDRK450_02057_MERCHANT02057_000_019","咦？！
 難道你就是傳說中弒神的冒險者？！"
@@ -96,9 +96,9 @@ int32,str,str
 大英雄，我現在遇到困難了。"
 66,"TEXT_JOBDRK450_02057_MERCHANT02057_000_021","我的商品被狡猾的盧恩族給偷走了，
 再這樣下去我就要餓死街頭了……嗚嗚嗚……"
-67,"TEXT_JOBDRK450_02057_FRAY_000_022"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+67,"TEXT_JOBDRK450_02057_FRAY_000_022","<Highlight>ObjectParameter(1)</Highlight>，
 別忘了我之前跟你說的話。
-我們有更重要的目的，不要管這些無干的人。"
+我們有更重要的目的，不要管這些無關的人。"
 68,"TEXT_JOBDRK450_02057_FRAY_000_023","不理他黃衫隊也會來解決的。
 你現在需要去打倒強敵，舉行儀式……"
 69,"TEXT_JOBDRK450_02057_MERCHANT02057_000_024","大英雄，你可不能不管我的死活呀！
@@ -120,7 +120,7 @@ int32,str,str
 78,"TEXT_JOBDRK450_02057_MERCHANT02057_000_037","他們的大本營就在西南邊的砂鹽灘！
 潛入那裡打得他們腦袋開花，
 幫可憐的商人奪回他的貨物！"
-79,"TEXT_JOBDRK450_02057_FRAY_000_040","……這已經超出了暗黑騎士的工作範圍了。
+79,"TEXT_JOBDRK450_02057_FRAY_000_040","……這已經超出了暗黑騎士的工作範疇了。
 我也跟你一起去，速戰速決。"
 80,"TEXT_JOBDRK450_02057_STYRNLONA_000_050","把你捲進了麻煩事，真是對不起。
 請不要太過於勉強自己……"
@@ -161,30 +161,30 @@ int32,str,str
 別看我這樣，我有各種各樣的客人……"
 95,"TEXT_JOBDRK450_02057_FRAY_000_097","開什麼玩笑！"
 96,"TEXT_JOBDRK450_02057_FRAY_000_098","什麼大英雄！都是你們為了自己方便才這麼喊的！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也是人，
+<Highlight>ObjectParameter(1)</Highlight>也是人，
 去戰鬥也會受傷，受了傷也會感到痛！"
 97,"TEXT_JOBDRK450_02057_FRAY_000_099","不管多疼、多痛苦，只要你們開口，
- <Highlight>ObjectParameter(1)</Highlight> 依然會為了你們去戰鬥！"
+<Highlight>ObjectParameter(1)</Highlight>依然會為了你們去戰鬥！"
 98,"TEXT_JOBDRK450_02057_FRAY_000_100","不光是這次……那時也是同樣。
- <Highlight>ObjectParameter(1)</Highlight> 面對洶湧的海嘯與凶猛的蠻神，
+<Highlight>ObjectParameter(1)</Highlight>面對洶湧的海嘯與兇猛的蠻神，
 在孤舟上為了你們浴血奮戰！"
 99,"TEXT_JOBDRK450_02057_FRAY_000_101","而你們……而你們拋下我們去了哪裡？
 口口聲聲說著只有被選中的人才能去戰鬥，
 又怎麼知道我們為此犧牲了多少？"
-100,"TEXT_JOBDRK450_02057_FRAY_000_102","你們奪走了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+100,"TEXT_JOBDRK450_02057_FRAY_000_102","你們奪走了<Highlight>ObjectParameter(1)</Highlight>……
 所以<If(PlayerParameter(4))>她<Else/>他</If>才總是找不到答案，
 才成為不了真正的暗黑騎士！"
 101,"TEXT_JOBDRK450_02057_MERCHANT02057_000_103","咿！嚇死個人呀！
 招他惹他了，那麼生氣幹什麼！"
 102,"TEXT_JOBDRK450_02057_STYRNLONA_000_104","他說在船上與蠻神戰鬥過……
-難道他是你擊退利維坦時的同伴？"
+難道他是你擊退利維亞桑時的同伴？"
 103,"TEXT_JOBDRK450_02057_STYRNLONA_000_105","如果是這樣的話，那真是我有眼不識泰山，對不起。
 正如他所說，討伐蠻神的確責任重大……"
 104,"TEXT_JOBDRK450_02057_MERCHANT02057_000_110","真是的，憑什麼我被罵啊！
 算了，剩下的我自己想辦法！再也不求你了！"
-105,"TEXT_JOBDRK450_02057_STYRNLONA_000_115","討伐利維坦時是我負責領大家上船的，
+105,"TEXT_JOBDRK450_02057_STYRNLONA_000_115","討伐利維亞桑時是我負責領大家上船的，
 那時候好像沒見到過他呀？"
-106,"TEXT_JOBDRK450_02057_FRAY_000_110","對不起， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+106,"TEXT_JOBDRK450_02057_FRAY_000_110","對不起，<Highlight>ObjectParameter(1)</Highlight>……
 我一激動，說了不該說的。"
 107,"TEXT_JOBDRK450_02057_FRAY_100_110","我也知道自己沒能好好給你做暗黑騎士的指導，
 你肯定會懷疑我吧……"
@@ -202,7 +202,7 @@ int32,str,str
 必須由你去找到這個「弱者」，不然就沒有意義。"
 115,"TEXT_JOBDRK450_02057_FRAY_000_123","所以……來舉行儀式吧……"
 116,"TEXT_JOBDRK450_02057_FRAY_000_125","……你是貨真價實的暗黑騎士，
-你身上散發出的暗黑之力，還有那些透過鍛鍊習得的技巧，
+你身上散發出的暗黑之力，還有那些通過鍛鍊習得的技巧，
 都不是虛幻……"
 117,"TEXT_JOBDRK450_02057_FRAY_000_126","但你還記得最開始，在皇都救助女孩的時候，
 我所說的暗黑騎士最初的課題嗎？"
@@ -230,13 +230,13 @@ int32,str,str
 128,"TEXT_JOBDRK450_02057_FRAY_000_144","(-？？？？-)我說的沒錯吧？
 等著我……"
 129,"TEXT_JOBDRK450_02057_FRAY_000_145","喂……
- <Highlight>ObjectParameter(1)</Highlight> ……"
+<Highlight>ObjectParameter(1)</Highlight>……"
 130,"TEXT_JOBDRK450_02057_FRAY_000_146","……看來你又聽到了聲音。"
 131,"TEXT_JOBDRK450_02057_FRAY_000_147","我不會問你聽到了什麼，想到了什麼的。
 這次你做好為了保護那個人而拋棄世界的覺悟了嗎？"
 132,"TEXT_JOBDRK450_02057_FRAY_000_148","如果你即使拋棄英雄的地位與名聲，
 也要保護他的話，
-就和我一起離開這艾奧傑亞吧。"
+就和我一起離開這艾歐澤亞吧。"
 133,"TEXT_JOBDRK450_02057_FRAY_000_149","在這裡你根本無法只保護他一個人。
 只有離開這裡……你才能開始暗黑騎士的人生。"
 134,"TEXT_JOBDRK450_02057_FRAY_000_150","……我會在老地方等你的。
@@ -250,7 +250,7 @@ int32,str,str
 139,"TEXT_JOBDRK450_02057_BOSS_BATTLETALK_01","這些那些，全都是，約約盧恩的！
 小的們，把他們打跑！"
 140,"TEXT_JOBDRK450_02057_FRAY_BATTLETALK_04","幹得漂亮，接下來就差把商品奪回來了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你了。"
+<Highlight>ObjectParameter(1)</Highlight>，拜託你了。"
 141,"TEXT_JOBDRK450_02057_FRAY_BATTLETALK_05","商品好像就在這個木箱裡。
 太好了……把它拿回去吧……唔……"
 142,"TEXT_JOBDRK450_02057_FRAY_BATTLETALK_02","唔……

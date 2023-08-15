@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDZ505_02756_SEQ_00","重逢市集的查姆布亦正在尋找幫手。"
+0,"TEXT_STMBDZ505_02756_SEQ_00","重逢集市的查姆布亦正在尋找幫手。"
 1,"TEXT_STMBDZ505_02756_SEQ_01",""
 2,"TEXT_STMBDZ505_02756_SEQ_02",""
 3,"TEXT_STMBDZ505_02756_SEQ_03",""
@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_STMBDZ505_02756_CHAMBUI_000_001","今天客人特別多，
 做包子的材料快不夠了。
 雖然女兒們都去幫忙狩獵了，可還是補不上。"
-50,"TEXT_STMBDZ505_02756_CHAMBUI_000_002","所以我想請你去打倒市集外面亂竄的<Sheet(BNpcName,5773,0)/>，
+50,"TEXT_STMBDZ505_02756_CHAMBUI_000_002","所以我想請你去打倒集市外面亂竄的<Sheet(BNpcName,5773,0)/>，
 然後從它們身上取4個<Sheet(EventItem,2002111,0)/>拿回來。"
 51,"TEXT_STMBDZ505_02756_CHAMBUI_000_003","（★未使用／削除予定★）"
 52,"TEXT_STMBDZ505_02756_DAZCALHUSBAND02756_000_004","……今天好忙啊，
@@ -73,7 +73,7 @@ int32,str,str
 找我有什麼事？"
 58,"TEXT_STMBDZ505_02756_DAZCALHUSBAND02756_000_021","啊，你幫我妻子忙來著啊，
 真是謝謝你了。"
-59,"TEXT_STMBDZ505_02756_DAZCALHUSBAND02756_000_022","只有來這市集的時候，
+59,"TEXT_STMBDZ505_02756_DAZCALHUSBAND02756_000_022","只有來這集市的時候，
 我才會和部落以外的人說話，所以有些緊張……
 剛才態度有些失禮，真是抱歉。"
 60,"TEXT_STMBDZ505_02756_DAZCALHUSBAND02756_000_023","……那麼，我回去做包子了。

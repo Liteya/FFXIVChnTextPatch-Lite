@@ -68,7 +68,7 @@ int32,str,str
 51,"TEXT_JOBREL300_02328_A2_000_000","創造<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器"
 52,"TEXT_JOBREL300_02328_SYSTEM_000_001","接受任務「培育人造元靈」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 53,"TEXT_JOBREL300_02328_SYSTEM_000_002","請轉換為與所需元靈武器相應的特職，
 再次和阿爾達希爾對話。"
 54,"TEXT_JOBREL300_02328_SYSTEM_000_003","要接受任務「培育人造元靈」，
@@ -99,12 +99,12 @@ int32,str,str
 我初次造訪田園郡時結識了一位女性，
 她的研究課題應該能派上用場。"
 65,"TEXT_JOBREL300_02328_ARDASHIR_000_007","她的名字叫烏蘭。基於對寶石獸狂熱的愛，
-她研究出了透過攝取水晶中的乙太來培育寶石獸的方法。
+她研究出了通過攝取水晶中的乙太來培育寶石獸的方法。
 人造元靈同樣是魔法生物，我覺得這個方法也適用！"
-66,"TEXT_JOBREL300_02328_ARDASHIR_000_008"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我想去拜訪烏蘭小姐，請求她的協助。"
+66,"TEXT_JOBREL300_02328_ARDASHIR_000_008","<Highlight>ObjectParameter(1)</Highlight>，我想去拜訪烏蘭小姐，請求她的協助。"
 67,"TEXT_JOBREL300_02328_ARDASHIR_000_009","她為了拜魔法生物界的權威為師，
 應該是一直停留在田園郡才對。
-我們去那邊會合吧！"
+我們去那邊匯合吧！"
 68,"TEXT_JOBREL300_02328_ARDASHIR_000_010","這次也去找烏蘭小姐幫忙吧！
 放心，我已經事先和她打過招呼了。
 還和上次一樣，拜託你了！"
@@ -112,19 +112,19 @@ int32,str,str
 70,"TEXT_JOBREL300_02328_SYSTEM_000_007","任務「培育人造元靈」無法從日誌直接放棄。
 想要放棄時請和阿爾達希爾對話。"
 71,"TEXT_JOBREL300_02328_ARNOTT_000_011","嗯？你找烏蘭大人有何貴幹？"
-72,"TEXT_JOBREL300_02328_ARNOTT_000_012","你好啊 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我聽說了你要來。"
+72,"TEXT_JOBREL300_02328_ARNOTT_000_012","你好啊<Highlight>ObjectParameter(1)</Highlight>，我聽說了你要來。"
 73,"TEXT_JOBREL300_02328_ULAN_000_020","找我有什麼事嗎？
 莫非是被我家美麗的「鑽石」迷住了？"
 74,"TEXT_JOBREL300_02328_ULAN_000_021","是阿爾達希爾讓你過來找我的呀。
-……嗯，這裡不太適合，我們找個寬敞點的地方說話吧。"
+……嗯，這裡不太合適，我們找個寬敞點的地方說話吧。"
 75,"TEXT_JOBREL300_02328_ULAN_100_021","我叫烏蘭，是一名熱愛寶石獸的研究員。
 你和阿爾達希爾是什麼關係？"
 76,"TEXT_JOBREL300_02328_ARDASHIR_000_022","久疏問候了，烏蘭小姐。
 我今天來是想請求你的協助。"
-77,"TEXT_JOBREL300_02328_ARDASHIR_100_023","這位是與我一起進行研究的同伴 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+77,"TEXT_JOBREL300_02328_ARDASHIR_100_023","這位是與我一起進行研究的同伴<Highlight>ObjectParameter(1)</Highlight>。"
 78,"TEXT_JOBREL300_02328_ULAN_000_023","原來是阿爾達希爾的研究夥伴。
 好吧，有什麼事說來聽聽。"
-79,"TEXT_JOBREL300_02328_ULAN_000_024","原來如此……我瞭解前因後果了。
+79,"TEXT_JOBREL300_02328_ULAN_000_024","原來如此……我了解前因後果了。
 你是想將我的「水晶攝取育成法」，
 應用到你們在研究的人造元靈上。"
 80,"TEXT_JOBREL300_02328_ULAN_000_025","嗯，從理論上來說確實是可行的。
@@ -153,7 +153,7 @@ int32,str,str
 阿爾達希爾負責換我的知識，冒險者負責換我的技術，
 我把需要品的清單寫在筆記上分別交給二位。"
 89,"TEXT_JOBREL300_02328_ARDASHIR_000_033","好，我這就去準備。
-那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們之後再見！"
+那<Highlight>ObjectParameter(1)</Highlight>，我們之後再見！"
 90,"TEXT_JOBREL300_02328_ULAN_000_034","真是個閒不下來的小傢伙……"
 91,"TEXT_JOBREL300_02328_ULAN_000_035","好了，寫在筆記上的東西你隨便找一組拿來給我吧。"
 92,"TEXT_JOBREL300_02328_ULAN_000_036","我會將專門為魔法生物研發的粉末狀結晶
@@ -200,11 +200,11 @@ int32,str,str
 不小心弄丟的話再找阿諾特要。
 行動起來吧。"
 109,"TEXT_JOBREL300_02328_SYSTEM_000_010","想讓人造元靈成長時，
-請裝備上<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器．超導，
+請裝備上<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器·超導，
 然後和烏蘭對話選擇「培育人造元靈」。"
 110,"TEXT_JOBREL300_02328_SYSTEM_000_011","培育人造元靈時，要先消耗「<Sheet(Item,15841,0)/>」與「<Sheet(Item,15840,0)/>」，
 調配出相應數量的「調整水晶砂」。"
-111,"TEXT_JOBREL300_02328_SYSTEM_000_012","而透過「調整水晶砂」，
+111,"TEXT_JOBREL300_02328_SYSTEM_000_012","而通過「調整水晶砂」，
 則能在人造元靈的5種狀態參數中，選擇任意的屬性進行強化。
 請經過充分思考後，選擇要強化的屬性。"
 112,"TEXT_JOBREL300_02328_SYSTEM_000_013","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>可以強化的屬性為：
@@ -216,10 +216,10 @@ int32,str,str
 114,"TEXT_JOBREL300_02328_SYSTEM_100_014","另外，任務道具「<Sheet(EventItem,2001993,0)/>」上，
 記錄著交換<Sheet(Item,15841,0)/>所需的道具。"
 115,"TEXT_JOBREL300_02328_SYSTEM_000_015","而當前與烏蘭協力培育的人造元靈，
-可以透過任務道具「<Sheet(EventItem,2001994,0)/>」隨時進行屬性確認。"
+可以通過任務道具「<Sheet(EventItem,2001994,0)/>」隨時進行屬性確認。"
 116,"TEXT_JOBREL300_02328_SYSTEM_000_020","如需重新調整人造元靈，
-請先將<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器．超導
-移出裝備、背包和兵裝庫，例如交予雇員保管。"
+請先將<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器·超導
+移出裝備、背包和兵裝庫，例如交予僱員保管。"
 117,"TEXT_JOBREL300_02328_ULAN_000_050","先將小人造元靈寄宿著的武器裝備上吧。
 裝好後我們來一起推動小人造元靈的成長！"
 118,"TEXT_JOBREL300_02328_ULAN_100_050","先將<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>裝備上吧。
@@ -229,7 +229,7 @@ int32,str,str
 121,"TEXT_JOBREL300_02328_A2_000_011","交換<Sheet(Item,15841,0)/>"
 122,"TEXT_JOBREL300_02328_A3_000_012","聽取說明"
 123,"TEXT_JOBREL300_02328_A4_000_013","取消"
-124,"TEXT_JOBREL300_02328_Q1_000_020","想瞭解什麼？"
+124,"TEXT_JOBREL300_02328_Q1_000_020","想了解什麼？"
 125,"TEXT_JOBREL300_02328_A1_000_020","如何培育人造元靈？"
 126,"TEXT_JOBREL300_02328_A2_000_021","如何取得所需道具？"
 127,"TEXT_JOBREL300_02328_A3_000_022","取消"
@@ -238,11 +238,11 @@ int32,str,str
 129,"TEXT_JOBREL300_02328_ULAN_000_052","取得這兩樣道具後，
 裝備上寄宿著人造元靈的武器來找我即可。"
 130,"TEXT_JOBREL300_02328_SYSTEM_000_022","想讓人造元靈成長時，
-請裝備上<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器．超導，
+請裝備上<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器·超導，
 然後和烏蘭對話選擇「培育人造元靈」。"
 131,"TEXT_JOBREL300_02328_SYSTEM_000_023","培育人造元靈時，要先消耗「<Sheet(Item,15841,0)/>」與「<Sheet(Item,15840,0)/>」，
 調配出相應數量的「調整水晶砂」。"
-132,"TEXT_JOBREL300_02328_SYSTEM_000_024","而透過「調整水晶砂」，
+132,"TEXT_JOBREL300_02328_SYSTEM_000_024","而通過「調整水晶砂」，
 則能在人造元靈的5種狀態參數中，選擇任意的屬性進行強化。"
 133,"TEXT_JOBREL300_02328_SYSTEM_000_025","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>可以強化的屬性為：
 暴擊、直擊、信念、堅韌、技能速度
@@ -265,12 +265,12 @@ int32,str,str
 如果<Sheet(EventItem,2001994,0)/>丟了，你可以找阿諾特談談。
 我想他會拿一個新的給你。"
 141,"TEXT_JOBREL300_02328_ULAN_000_060","冒險者，你的人造元靈成長得不錯呀？"
-142,"TEXT_JOBREL300_02328_ARNOTT_000_061","是的，這資料和培育鑽石時的資料對比起來毫不遜色，
+142,"TEXT_JOBREL300_02328_ARNOTT_000_061","是的，這數據和培育鑽石時的數據對比起來毫不遜色，
 可以確定至今的培育都非常成功。"
 143,"TEXT_JOBREL300_02328_ARNOTT_000_062","是的，記得上次在這之後還繼續進行了培育，
 不過在我看來現在的狀態就已經非常不錯了。
 可以確定至今的培育都非常成功。"
-144,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_063","主人……我還可以……"
+144,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_063","主人……我還能行……"
 145,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_064","為了和你去看同樣的世界、同樣的風景……
 我要變得……更強才行……"
 146,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_065","主人……我還能繼續……"
@@ -286,13 +286,13 @@ int32,str,str
 151,"TEXT_JOBREL300_02328_ULAN_000_070","你來得正是時候，阿爾達希爾。
 剛剛，已經成長到了很高水準的人造元靈
 表現出了還渴望繼續成長的意願。"
-152,"TEXT_JOBREL300_02328_ULAN_000_071","涉足我們從未獲得過研究資料的領域非常危險……
+152,"TEXT_JOBREL300_02328_ULAN_000_071","涉足我們從未獲得過研究數據的領域非常危險……
 你們確定要繼續嗎？"
 153,"TEXT_JOBREL300_02328_ARDASHIR_000_072","當然！既然是人造元靈的意願，那我肯定不會阻止！
 不過作為人造元靈身體的武器有些令我擔心，
 不知道會不會抵達極限……"
 154,"TEXT_JOBREL300_02328_ARDASHIR_000_073","這樣好了，我回研究據點去和蓋羅爾特先生準備新的武器。
-為不斷成長的人造元靈製造一個適合的新身體！"
+為不斷成長的人造元靈製造一個合適的新身體！"
 155,"TEXT_JOBREL300_02328_ULAN_000_074","真是越來越有趣了！
 既然如此，就徹底讓人造元靈成長一番吧！"
 156,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_080","主人……對不起。
@@ -302,9 +302,9 @@ int32,str,str
 158,"TEXT_JOBREL300_02328_ULAN_000_082","不妙啊，阿爾達希爾的擔憂成真了。
 作為人造元靈身體的武器抵達了極限，
 跟不上人造元靈的成長了。"
-159,"TEXT_JOBREL300_02328_ULAN_000_083"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+159,"TEXT_JOBREL300_02328_ULAN_000_083","<Highlight>ObjectParameter(1)</Highlight>……
 你快帶著人造元靈去阿爾達希爾那裡。
-我這就聯繫他一下，告訴他發生的事情。"
+我這就聯絡他一下，告訴他發生的事情。"
 160,"TEXT_JOBREL300_02328_ARNOTT_000_084","請把這個交給阿爾達希爾。
 這<Sheet(EventItem,2001994,0)/>能幫他確認人造元靈的狀況……"
 161,"TEXT_JOBREL300_02328_ULAN_100_091","請拿上<Sheet(EventItem,2001994,0)/>回去見阿爾達希爾吧。
@@ -329,7 +329,7 @@ int32,str,str
 人造元靈為了登上高峰表現出了這麼驚人的毅力，
 這可得好好獎勵一下才行呢！"
 173,"TEXT_JOBREL300_02328_GEROLT_100_095","呼……呼……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 接好！！"
+<Highlight>ObjectParameter(1)</Highlight>接好！！"
 174,"TEXT_JOBREL300_02328_GEROLT_000_096","這是我用在這亞拉戈之地掌握的新技術完成的傑作！
 其名為<Sheet(Item,IntegerParameter(1),0)/>！"
 175,"TEXT_JOBREL300_02328_GEROLT_000_097","這是我用在這亞拉戈之地掌握的新技術完成的傑作！
@@ -357,7 +357,7 @@ int32,str,str
 186,"TEXT_JOBREL300_02328_BUKINOSEIREI_100_105","就像我新換的<Sheet(Item,IntegerParameter(1),0)/>與<Sheet(Item,IntegerParameter(2),0)/>一樣，
 請蓋羅爾特給他也做一具棒棒的新身體！"
 187,"TEXT_JOBREL300_02328_ARDASHIR_000_108","噗……哈哈哈哈哈，太有趣了。
-人類的靈魂可沒辦法隨便轉換身體呀。
+人類的靈魂可沒法隨便轉換身體呀。
 而且這大叔做的身體，送我我都不用。"
 188,"TEXT_JOBREL300_02328_ARDASHIR_000_109","哎呀，我真是太幸福了。
 不僅達成了想和你對話的心願，
@@ -369,13 +369,13 @@ int32,str,str
 在新的容器中好好休息吧。"
 192,"TEXT_JOBREL300_02328_ARDASHIR_000_113","人造元靈得到了巨大的成長。
 雖然還缺乏一些常識，但也算是極棒的成果了。"
-193,"TEXT_JOBREL300_02328_ARDASHIR_000_114","相信隨著和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你一起冒險，
+193,"TEXT_JOBREL300_02328_ARDASHIR_000_114","相信隨著和<Highlight>ObjectParameter(1)</Highlight>你一起冒險，
 人造元靈會學會更多的東西，人格也會逐漸完善起來的。
 請你在各方面也多多指導、幫助人造元靈吧。"
 194,"TEXT_JOBREL300_02328_GEROLT_000_115","是啊，可千萬別養大後變成了這個死小鬼的臭屁性格。"
 195,"TEXT_JOBREL300_02328_ARDASHIR_000_116","這句話請容我原封不動還給你。"
 196,"TEXT_JOBREL300_02328_ARDASHIR_000_117","總之這次真是辛苦了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也好好休整一下，
+<Highlight>ObjectParameter(1)</Highlight>也好好休整一下，
 為下次研究做準備吧。"
 197,"TEXT_JOBREL300_02328_GEROLT_000_118","阿爾達希爾這傢伙……千萬別得意忘形啊……
 這種時候最是容易遺忘掉一些關鍵的地方。"
@@ -383,4 +383,4 @@ int32,str,str
 多注意人造元靈的狀況吧。"
 199,"TEXT_JOBREL300_02328_ARDASHIR_000_120","這次人造元靈也取得了巨大的成長！
 現在先好好休息一下吧，為下一次成長做準備。"
-200,"TEXT_JOBREL300_02328_SYSTEM_000_050","成功將「元靈武器．超導」強化為「百鍊成鋼的元靈武器」！"
+200,"TEXT_JOBREL300_02328_SYSTEM_000_050","成功將「元靈武器·超導」強化為「百鍊成鋼的元靈武器」！"

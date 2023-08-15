@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA302_01243_SEQ_00","灰陣營的雅德夫．夏想要告訴冒險者機會來了。"
-1,"TEXT_BANAMA302_01243_SEQ_01","接受了雅德夫．夏的委託。討伐不悔戰陣的<Sheet(BNpcName,1840,0)/>及其護衛<Sheet(BNpcName,1839,0)/>各3名。"
-2,"TEXT_BANAMA302_01243_SEQ_02","討伐了<Sheet(BNpcName,1839,0)/>和<Sheet(BNpcName,1840,0)/>。向灰陣營的雅德夫．夏報告。"
-3,"TEXT_BANAMA302_01243_SEQ_03","向灰陣營的雅德夫．夏報告完畢。雅德夫．夏說，多虧了冒險者鼎力相助，灰黨的未來一片光明。但是不能光依靠冒險者，自身的鍛鍊也不能懈怠。下次有機會再協助他。"
+0,"TEXT_BANAMA302_01243_SEQ_00","灰陣營的雅德夫·夏想要告訴冒險者機會來了。"
+1,"TEXT_BANAMA302_01243_SEQ_01","接受了雅德夫·夏的委託。討伐不悔戰陣的<Sheet(BNpcName,1840,0)/>及其護衛<Sheet(BNpcName,1839,0)/>各3名。"
+2,"TEXT_BANAMA302_01243_SEQ_02","討伐了<Sheet(BNpcName,1839,0)/>和<Sheet(BNpcName,1840,0)/>。向灰陣營的雅德夫·夏報告。"
+3,"TEXT_BANAMA302_01243_SEQ_03","向灰陣營的雅德夫·夏報告完畢。雅德夫·夏說，多虧了冒險者鼎力相助，灰黨的未來一片光明。但是不能光依靠冒險者，自身的鍛鍊也不能懈怠。下次有機會再協助他。"
 4,"TEXT_BANAMA302_01243_SEQ_04",""
 5,"TEXT_BANAMA302_01243_SEQ_05",""
 6,"TEXT_BANAMA302_01243_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_BANAMA302_01243_SEQ_23",""
 24,"TEXT_BANAMA302_01243_TODO_00","討伐<Sheet(BNpcName,1840,0)/>"
 25,"TEXT_BANAMA302_01243_TODO_01","討伐<Sheet(BNpcName,1839,0)/>"
-26,"TEXT_BANAMA302_01243_TODO_02","向雅德夫．夏報告"
+26,"TEXT_BANAMA302_01243_TODO_02","向雅德夫·夏報告"
 27,"TEXT_BANAMA302_01243_TODO_03",""
 28,"TEXT_BANAMA302_01243_TODO_04",""
 29,"TEXT_BANAMA302_01243_TODO_05",""

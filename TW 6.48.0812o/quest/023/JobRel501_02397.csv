@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_JOBREL501_02397_SEQ_00","加工系統正在對設計圖進行確認。"
-1,"TEXT_JOBREL501_02397_SEQ_01","阿爾達希爾向冒險者講解了<Sheet(Item,16932,0)/>的製作方法。透過各種途徑收集15個<Sheet(Item,16933,0)/>，交給阿濟茲拉螺旋港的加工系統。"
+1,"TEXT_JOBREL501_02397_SEQ_01","阿爾達希爾向冒險者講解了<Sheet(Item,16932,0)/>的製作方法。通過各種途徑收集15個<Sheet(Item,16933,0)/>，交給阿濟茲拉螺旋港的加工系統。"
 2,"TEXT_JOBREL501_02397_SEQ_02","將材料交給了加工系統。在阿爾達希爾和加工系統的聯合作業下，成功製造出了<Sheet(Item,16932,0)/>。人造元靈的靈魂凝聚度升滿後，將<Sheet(Item,16932,0)/>交給蓋羅爾特。"
 3,"TEXT_JOBREL501_02397_SEQ_03",""
 4,"TEXT_JOBREL501_02397_SEQ_04",""
@@ -64,7 +64,7 @@ int32,str,str
 擁有合成人工結晶時必要的性質。"
 54,"TEXT_JOBREL501_02397_ARDASHIR_000_007","不過我只在師父的研究室見過它的樣本，
 具體怎樣獲得我也不是很清楚。"
-55,"TEXT_JOBREL501_02397_ARDASHIR_000_008","希望你能透過冒險者之間的情報網調查一下它怎樣獲得，
+55,"TEXT_JOBREL501_02397_ARDASHIR_000_008","希望你能通過冒險者之間的情報網調查一下它怎樣獲得，
 然後進行收集。"
 56,"TEXT_JOBREL501_02397_ARDASHIR_000_009","我知道這很困難，
 但<Sheet(Item,16933,0)/>還是只能麻煩你幫忙收集了。
@@ -74,21 +74,21 @@ int32,str,str
 交給加工系統就可以了！"
 58,"TEXT_JOBREL501_02397_ARDASHIR_000_011","你要製造<Sheet(Item,16932,0)/>吧？
 那我去負責收集六屬性的高純度水晶。"
-59,"TEXT_JOBREL501_02397_ARDASHIR_000_012"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你去收集15個<Sheet(Item,16933,0)/>！
+59,"TEXT_JOBREL501_02397_ARDASHIR_000_012","<Highlight>ObjectParameter(1)</Highlight>，拜託你去收集15個<Sheet(Item,16933,0)/>！
 收集到之後交給加工系統就好！"
 60,"TEXT_JOBREL501_02397_SYSTEM_000_016","製作<Sheet(Item,16932,0)/>所要用到的<Sheet(Item,16933,0)/>
 可以從很多種途徑獲得。"
 61,"TEXT_JOBREL501_02397_SYSTEM_000_017","請和其他玩家互通情報，
-一起探索其獲得方式。"
+一起探索其獲取方式。"
 62,"TEXT_JOBREL501_02397_PROCESSSYSTEM_000_020","沙……沙沙……
 請裝填材料。
-重複，請裝填材料。"
+重覆，請裝填材料。"
 63,"TEXT_JOBREL501_02397_PROCESSSYSTEM_000_021","裝填材料確認……
-品質、數量透過……"
-64,"TEXT_JOBREL501_02397_ARDASHIR_000_022"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+品質、數量通過……"
+64,"TEXT_JOBREL501_02397_ARDASHIR_000_022","<Highlight>ObjectParameter(1)</Highlight>！
 你湊齊<Sheet(Item,16933,0)/>了？！"
 65,"TEXT_JOBREL501_02397_ARDASHIR_000_023","辛苦你了。
-那就儘快開始作業吧，
+那就盡快開始作業吧，
 我也去把收集到的六屬性高純度水晶拿來。"
 66,"TEXT_JOBREL501_02397_ARDASHIR_100_023","這下就全都準備好了！
 那開始加工作業吧。"

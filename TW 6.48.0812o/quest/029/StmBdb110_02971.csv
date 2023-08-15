@@ -58,13 +58,13 @@ int32,str,str
 51,"TEXT_STMBDB110_02971_ALPHINAUD_000_011","我在村落裡轉了一圈，找到了能利用的建築物，
 這樣一來就能把難民們叫過來了。"
 52,"TEXT_STMBDB110_02971_FLAMEHERALD_000_012","抱歉，打擾一下！"
-53,"TEXT_STMBDB110_02971_FLAMEHERALD_000_013"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+53,"TEXT_STMBDB110_02971_FLAMEHERALD_000_013","<Highlight>ObjectParameter(1)</Highlight>閣下，
 勞班總帥有事想要當面告訴您！"
 54,"TEXT_STMBDB110_02971_ALPHINAUD_000_014","具體事宜就交給我和瓦特他們吧。
-和烏爾達哈那邊的聯繫也由我來做，
+和烏爾達哈那邊的聯絡也由我來做，
 你就放心去找勞班總帥吧。"
 55,"TEXT_STMBDB110_02971_FLAMEHERALD_000_015","十分感謝！
-那麼請您去阿拉米格人居住區大門等待！ "
+那麼請您去阿拉米格人居住區大門等待！"
 56,"TEXT_STMBDB110_02971_WATT_000_020","阿爾菲諾真是聰明到令我驚訝。
 一眨眼就算出來修復工房所需的資金了。"
 57,"TEXT_STMBDB110_02971_WISCAR_000_025","我會去和莉瑟隊長商量，
@@ -79,7 +79,7 @@ int32,str,str
 62,"TEXT_STMBDB110_02971_RAUBAHN_000_051","話說……阿雷恩瓦爾德，
 你在找我們？有什麼事嗎？"
 63,"TEXT_STMBDB110_02971_ARENVALD_000_052","勞班總帥……
-正好 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也在。"
+正好<Highlight>ObjectParameter(1)</Highlight>也在。"
 64,"TEXT_STMBDB110_02971_ARENVALD_000_053","是這樣的，阿難陀族來到了正門那裡，
 而且來的不是協助過解放軍的毗羅派，
 而是進行過蠻神召喚的伽黎亞派……"
@@ -89,11 +89,11 @@ int32,str,str
 不過我還以為討厭與人類接觸的伽黎亞派
 是不會前來參加的……"
 67,"TEXT_STMBDB110_02971_RAUBAHN_000_056","總之，只能先去看看再說了。
-皮平馬上去和同盟軍部隊會合，提高警惕。"
-68,"TEXT_STMBDB110_02971_RAUBAHN_000_057"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能跟我一起去嗎？
+皮平馬上去和同盟軍部隊匯合，提高警惕。"
+68,"TEXT_STMBDB110_02971_RAUBAHN_000_057","<Highlight>ObjectParameter(1)</Highlight>，能跟我一起去嗎？
 你和她們接觸過，有你在我比較放心。"
 69,"TEXT_STMBDB110_02971_LYSE_000_060","你們來了，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、勞班！"
+<Highlight>ObjectParameter(1)</Highlight>、勞班！"
 70,"TEXT_STMBDB110_02971_QALYANAPATRIARCH_000_061","嘶——你是那時候的……"
 71,"TEXT_STMBDB110_02971_QALYANAPATRIARCH_000_062","我不會忘記你對美神吉祥天女所做的一切，
 不過我們不是來打架的……"
@@ -105,7 +105,7 @@ int32,str,str
 我們是不會認可召喚蠻神的……"
 74,"TEXT_STMBDB110_02971_LYSE_000_065","如果你們想參加大會，我有個條件，
 那就是在進入阿拉米格王宮前摘掉所有水晶裝飾。
-當然，會議結束後會退還給你們的……"
+當然，會議結束後會返還給你們的……"
 75,"TEXT_STMBDB110_02971_QALYANAPATRIARCH_000_066","嘶——不得已，就接受你們的條件好了。
 但是護衛的武器不能交給你們。
 我們並沒有完全相信人類……"

@@ -52,9 +52,9 @@ int32,str,str
 48,"TEXT_LUCKHA304_04002_MARIORIE_000_000","你看弗朗塞爾滿臉興奮的表情，
 看樣子是想跟你聊聊呢！
 快過去找他吧！"
-49,"TEXT_LUCKHA304_04002_FRANCEL_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！非常感謝你！
+49,"TEXT_LUCKHA304_04002_FRANCEL_000_010","<Highlight>ObjectParameter(1)</Highlight>！非常感謝你！
 演奏會讓我感到很愉快！"
-50,"TEXT_LUCKHA304_04002_FONCRINEAU_000_011","我作為一名觀眾從臺下觀看了 <Highlight>ObjectParameter(1)</Highlight> 和少爺的演奏……
+50,"TEXT_LUCKHA304_04002_FONCRINEAU_000_011","我作為一名觀眾從台下觀看了<Highlight>ObjectParameter(1)</Highlight>和少爺的演奏……
 真是一次十分精彩的演奏會。"
 51,"TEXT_LUCKHA304_04002_FONCRINEAU_000_012","真的……
 沒想到在我活著的時候能夠迎來這樣的時代！"
@@ -63,8 +63,8 @@ int32,str,str
 53,"TEXT_LUCKHA304_04002_FRANCEL_000_014","不過話說回來，
 沒想到就連你也參與其中，
 和他們一起偷偷策劃了這麼棒的活動啊。"
-54,"TEXT_LUCKHA304_04002_FRANCEL_000_015","從舞臺上看到人們心情舒暢地聽著我們的演奏……
-我打從心裡感到能夠重建好這條街實在是太好了。"
+54,"TEXT_LUCKHA304_04002_FRANCEL_000_015","從舞台上看到人們心情舒暢地聽著我們的演奏……
+我打心底感到能夠重建好這條街實在是太好了。"
 55,"TEXT_LUCKHA304_04002_FRANCEL_000_016","這不光是有你的功勞，
 還多虧了眾多其他國家工匠的鼎力協助。"
 56,"TEXT_LUCKHA304_04002_FRANCEL_000_017","我有一件事想問問你。"
@@ -78,13 +78,13 @@ int32,str,str
 既是友人也是心中一直憧憬的人物。
 你們一直都是我的榜樣。"
 60,"TEXT_LUCKHA304_04002_FRANCEL_000_021","那個……
-你覺得透過這次的重建工程，
+你覺得通過這次的重建工程，
 我做到像你和奧爾什方那樣，為人們帶來幸福和快樂了嗎？"
 61,"TEXT_LUCKHA304_04002_FRANCEL_100_021","雖然我覺得我的確努力過了，
 但我對自己實在是沒什麼自信。"
 62,"TEXT_LUCKHA304_04002_Q1_000_000","如何作答？"
 63,"TEXT_LUCKHA304_04002_A1_000_001","當然"
-64,"TEXT_LUCKHA304_04002_A1_000_002","算是還可以吧"
+64,"TEXT_LUCKHA304_04002_A1_000_002","算是還行吧"
 65,"TEXT_LUCKHA304_04002_FRANCEL_000_022","是真的嗎？
 那太好了！我好高興！
 至今的努力都沒有白費啊！"
@@ -98,7 +98,7 @@ int32,str,str
 並把它延續到後世，
 我想這是我們這些生者所能做到的報恩吧。"
 70,"TEXT_LUCKHA304_04002_FRANCEL_000_026","因此我希望你也能一直保持著笑容。"
-71,"TEXT_LUCKHA304_04002_FRANCEL_000_027","身為英雄的你有太多太多的東西要去揹負，
+71,"TEXT_LUCKHA304_04002_FRANCEL_000_027","身為英雄的你有太多太多的東西要去背負，
 不過我也會向哈羅妮祈求，
 希望有數不盡的幸福降臨於你。"
 72,"TEXT_LUCKHA304_04002_THOMELIN__000_028","(-？？？？-)總監閣下——！！"
@@ -106,14 +106,14 @@ int32,str,str
 現在那、那位大人來到蒼天街了……
 請你馬上來一趟無名眾人廣場！"
 74,"TEXT_LUCKHA304_04002_FRANCEL_000_030","不知道出了什麼事……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們過去看看吧！"
+<Highlight>ObjectParameter(1)</Highlight>，我們過去看看吧！"
 75,"TEXT_LUCKHA304_04002_FONCRINEAU_000_035","希望不會發生什麼可怕的事情……"
 76,"TEXT_LUCKHA304_04002_FRANCEL_000_040","那位大人……難道是……
 我已經吩咐過托梅林去接那位大人了，
 我們在這裡等等吧！"
 77,"TEXT_LUCKHA304_04002_AYMERIC_000_041","突然來訪真是抱歉，弗朗塞爾。
 打擾了。"
-78,"TEXT_LUCKHA304_04002_AYMERIC_000_042"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+78,"TEXT_LUCKHA304_04002_AYMERIC_000_042","<Highlight>ObjectParameter(1)</Highlight>！
 既然你也在這裡的話，
 那也就是說我來晚了啊。"
 79,"TEXT_LUCKHA304_04002_AYMERIC_000_043","蒼天街的重建乃是皇都的夙願。
@@ -127,8 +127,8 @@ int32,str,str
 我能順便問問到底舉辦了什麼活動嗎？"
 83,"TEXT_LUCKHA304_04002_FRANCEL_000_048","當然……
 蒼天街的居民們建立了樂團，舉辦了演奏會。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也一起參加了！"
-84,"TEXT_LUCKHA304_04002_AYMERIC_000_049","哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎……？"
+<Highlight>ObjectParameter(1)</Highlight>也一起參加了！"
+84,"TEXT_LUCKHA304_04002_AYMERIC_000_049","哦，<Highlight>ObjectParameter(1)</Highlight>嗎……？"
 85,"TEXT_LUCKHA304_04002_AYMERIC_000_050","是嗎……
 市民策劃了演奏會，也有人們前來欣賞……
 這個國家也擁有了如此平穩祥和的時間啊。"
@@ -136,16 +136,16 @@ int32,str,str
 還有生活在雲霧街為溫飽而發愁的人們，
 他們都能積極地投入到文化活動中，實在是令人高興。"
 87,"TEXT_LUCKHA304_04002_AYMERIC_000_052","音樂所代表的文化能夠豐富人們的內心。
-想必蒼天街今後將會成為伊修加爾德進一步發展的基礎吧。"
+想必蒼天街今後將會成為伊修加德進一步發展的基礎吧。"
 88,"TEXT_LUCKHA304_04002_AYMERIC_000_053","這全都是多虧了你這位總監，
 為參加了重建工程的所有人以及民眾提供了牢靠的保障政策。
 弗朗塞爾，我在此向你表達謝意。"
 89,"TEXT_LUCKHA304_04002_FRANCEL_000_054","過獎了，艾默里克閣下！
 今後我還會繼續努力下去。"
-90,"TEXT_LUCKHA304_04002_AYMERIC_000_055","雖然時間不長，不過能瞭解到蒼天街的情況真是太好了。
+90,"TEXT_LUCKHA304_04002_AYMERIC_000_055","雖然時間不長，不過能了解到蒼天街的情況真是太好了。
 改日我再來視察好了。
 先告辭一步。"
-91,"TEXT_LUCKHA304_04002_FONCRINEAU_000_060","與艾默里克閣下暢談時， <Highlight>ObjectParameter(1)</Highlight> 與少爺的身姿……
+91,"TEXT_LUCKHA304_04002_FONCRINEAU_000_060","與艾默里克閣下暢談時，<Highlight>ObjectParameter(1)</Highlight>與少爺的身姿……
 顯得十分的英氣。"
 92,"TEXT_LUCKHA304_04002_FRANCEL_000_070","哈，緊張死我了！
 沒想到艾默里克閣下也來到了這裡。"
@@ -159,15 +159,15 @@ int32,str,str
 96,"TEXT_LUCKHA304_04002_FRANCEL_000_074","當然，這不是說我作為總監的工作已經結束。
 住在這裡的人們還要繼續生活下去。
 今後我也會繼續支撐著這條街一直走下去。"
-97,"TEXT_LUCKHA304_04002_FRANCEL_000_075"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+97,"TEXT_LUCKHA304_04002_FRANCEL_000_075","<Highlight>ObjectParameter(1)</Highlight>。
 如果你有空的話，也偶爾來這裡看看。
 我們會一直等候著你的到來。"
 98,"TEXT_LUCKHA304_04002_SYSTEM_000_080","在冒險者的活躍表現下，
-伊修加爾德重建的工程計劃全部完工了！"
+伊修加德重建的工程計劃全部完工了！"
 99,"TEXT_LUCKHA304_04002_SYSTEM_000_081","此外，今後可以繼續對雲冠群島進行探索，
-以及在無名眾人廣場繳納製品。
+以及在無名眾人廣場交納製品。
 請繼續協助蒼天街！"
-100,"TEXT_LUCKHA304_04002_SYSTEM_000_082","此外，透過聖羅埃勒廣場的瑪麗奧絲，
+100,"TEXT_LUCKHA304_04002_SYSTEM_000_082","此外，通過聖羅埃勒廣場的瑪麗奧絲，
 可以隨時舉辦蒼天街重建紀念演奏會了！
 詳細情況請向她諮詢。"
 101,"TEXT_LUCKHA304_04002_SYSTEM_000_083","另外，從無名眾人廣場的男性畫商處

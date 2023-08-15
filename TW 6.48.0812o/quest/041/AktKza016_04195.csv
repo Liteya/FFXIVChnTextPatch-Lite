@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_AKTKZA016_04195_SEQ_21",""
 22,"TEXT_AKTKZA016_04195_SEQ_22",""
 23,"TEXT_AKTKZA016_04195_SEQ_23",""
-24,"TEXT_AKTKZA016_04195_TODO_00","以<Sheet(EventItem,2003121,0)/>作為提示 獲得<Sheet(EventItem,2003122,0)/>"
+24,"TEXT_AKTKZA016_04195_TODO_00","以<Sheet(EventItem,2003121,0)/>作為提示 獲取<Sheet(EventItem,2003122,0)/>"
 25,"TEXT_AKTKZA016_04195_TODO_01","將<Sheet(EventItem,2003122,0)/>交給帕貝洛瓦"
 26,"TEXT_AKTKZA016_04195_TODO_02",""
 27,"TEXT_AKTKZA016_04195_TODO_03",""
@@ -66,7 +66,7 @@ int32,str,str
 53,"TEXT_AKTKZA016_04195_PARBELOIX_000_005","非常感謝！
 需要讓你幫忙採集的是<Sheet(EventItem,2003122,0)/>的蘑菇，
 特徵是「分為三叉的紅色傘狀」。"
-54,"TEXT_AKTKZA016_04195_PARBELOIX_000_006","洞窟里長有各種蘑菇，
+54,"TEXT_AKTKZA016_04195_PARBELOIX_000_006","洞窟裡長有各種蘑菇，
 為了方便參考，我已經畫了出來！
 請收下！"
 55,"TEXT_AKTKZA016_04195_PARBELOIX_000_007","如果不知道該採哪種蘑菇的話，
@@ -85,9 +85,9 @@ int32,str,str
 感謝你能幫忙採到！"
 62,"TEXT_AKTKZA016_04195_PARBELOIX_000_022","在黃金谷棲息著一種名為水蜥魔餌的蘑菇，
 這是我對其孢子進行品種改良後的產物。"
-63,"TEXT_AKTKZA016_04195_PARBELOIX_000_023","雖然擁有極佳的藥效，但水蜥魔餌很凶猛，
+63,"TEXT_AKTKZA016_04195_PARBELOIX_000_023","雖然擁有極佳的藥效，但水蜥魔餌很兇猛，
 所以我在嘗試著將它們改良成不會動的蘑菇。"
-64,"TEXT_AKTKZA016_04195_PARBELOIX_000_024","上次由於改良失敗，水蜥魔餌變得更加凶猛了，
+64,"TEXT_AKTKZA016_04195_PARBELOIX_000_024","上次由於改良失敗，水蜥魔餌變得更加兇猛了，
 不過這次似乎不會動了，我也就放心了。
 這是我的一點心意，請收下吧！"
 65,"TEXT_AKTKZA016_04195_SYSTEM_000_025","<Sheet(EventItem,2003121,0)/>。"

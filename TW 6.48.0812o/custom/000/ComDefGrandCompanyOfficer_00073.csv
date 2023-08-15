@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_000","這裡是海洋之都利姆薩．羅敏薩的大國防聯軍黑渦軍令部。
+0,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_000","這裡是海洋之都利姆薩·羅敏薩的大國防聯軍黑渦軍令部。
 歡迎立志守護這座城邦、充滿熱情的有志之士前來。"
 1,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_001","這裡是森林之都格里達尼亞的大國防聯軍蛇巢司令部。
 歡迎想要給予格里達尼亞支援與引導的有志之士前來。"
@@ -14,7 +14,7 @@ int32,str,str
 5,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_005","你目前還沒有能力來完成恆輝隊的任務。
 請繼續磨練自己，等擁有開拓新道路的力量之後再來吧。"
 6,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_006","完成一定量的主線任務後才可加入大國防聯軍。"
-7,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_007","這裡是海洋之都利姆薩．羅敏薩的大國防聯軍黑渦軍令部。"
+7,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_007","這裡是海洋之都利姆薩·羅敏薩的大國防聯軍黑渦軍令部。"
 8,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_007","抱歉，我們只對隸屬於黑渦團的成員開放服務，請諒解。"
 9,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_008","這裡是森林之都格里達尼亞的大國防聯軍蛇巢司令部。"
 10,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_100_008","不好意思，讓你白跑一趟……
@@ -31,9 +31,9 @@ int32,str,str
 17,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_A1_001","想要申請調動"
 18,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_A1_002","取消"
 19,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_013","……哎呀？你這不是才剛剛調動過嗎？
-請<Value>IntegerParameter(1)</Value>天後再來吧。"
+請<Value>IntegerParameter(1)</Value>天后再來吧。"
 20,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_014","抱歉……你最近剛剛進行過調動。
-所以請你在<Value>IntegerParameter(1)</Value>天後再來辦理。"
+所以請你在<Value>IntegerParameter(1)</Value>天后再來辦理。"
 21,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_015","……咦？你最近剛剛調動過啊。
 不好意思，你得等<Value>IntegerParameter(1)</Value>天之後才能辦理。"
 22,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_016","所屬大國防聯軍有過變動的話，
@@ -63,15 +63,15 @@ int32,str,str
 我也理解那是無法輕易捨棄的……"
 34,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_025","不過，如果你有志加入恆輝隊的話，
 那就必須做好一切歸零的覺悟。"
-35,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_150_023","轉入黑渦團是需要繳納註冊費用的……
+35,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_150_023","轉入黑渦團是需要交納註冊費用的……
 你身上的錢好像不夠，等攢足金幣後再來吧。"
-36,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_150_024","轉入雙蛇黨是需要繳納註冊費用的……
+36,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_150_024","轉入雙蛇黨是需要交納註冊費用的……
 恕我直言，你身上的錢好像不夠。
 等攢足金幣後再來吧。"
-37,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_150_025","轉入恆輝隊是需要繳納註冊費用的……
+37,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_150_025","轉入恆輝隊是需要交納註冊費用的……
 你身上的錢好像不夠，等攢足金幣後再來找我吧。"
 38,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_026","你想要轉到黑渦團嗎？
-我們當然歡迎了， <Highlight>ObjectParameter(1)</Highlight> 。"
+我們當然歡迎了，<Highlight>ObjectParameter(1)</Highlight>。"
 39,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_026","嗯……
 看來你這是第一次進行調動啊。
 那麼，這次的註冊費用就免了。"
@@ -80,7 +80,7 @@ int32,str,str
 41,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_027","哦……你這是第一次進行調動啊。
 那麼這次的註冊費用就不用交了。"
 42,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_028","你要轉到我們恆輝隊嗎？
-你這個決定實在是太明智了， <Highlight>ObjectParameter(1)</Highlight> 。"
+你這個決定實在是太明智了，<Highlight>ObjectParameter(1)</Highlight>。"
 43,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_028","嗯？你這是第一次進行調動啊。
 那這次的註冊費用就免了。"
 44,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_029","轉到目標大國防聯軍後，
@@ -92,7 +92,7 @@ int32,str,str
 在調動後數值均會重置為零。"
 47,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_092_029","不過，在重新回歸到過去在編的大國防聯軍之後，
 這些報酬可以繼續繼承調動前的狀態。"
-48,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_110_029","此外，冒險者分隊的所有資料則可以繼承到目標大國防聯軍。"
+48,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_110_029","此外，冒險者分隊的所有數據則可以繼承到目標大國防聯軍。"
 49,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_111_029","但是，如果所屬黑渦團的情況下軍銜未達到「協漩尉」，
 所屬雙蛇黨的情況下軍銜未達到「協牙尉」，
 所屬恆輝隊的情況下軍銜未達到「協耀尉」是無法進入軍營的。"
@@ -103,7 +103,7 @@ int32,str,str
 53,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_A2_001","調動"
 54,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_A2_002","取消"
 55,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_031","恭喜你！從現在起，
-你就是海洋之都利姆薩．羅敏薩大國防聯軍黑渦團的一員了！"
+你就是海洋之都利姆薩·羅敏薩大國防聯軍黑渦團的一員了！"
 56,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_031","請竭盡所能，努力為本國發展做出貢獻！
 期待你能有更加出色的表現！"
 57,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_032","恭喜你！從現在起，
@@ -114,9 +114,9 @@ int32,str,str
 你就是沙漠之都烏爾達哈大國防聯軍恆輝隊的一員了！"
 60,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_033","不要驕傲自滿於今日的榮光，要為明日的成功加倍努力！
 期待你能有更加出色的表現！"
-61,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_034","轉入黑渦團需要繳納註冊費用，沒問題吧？"
-62,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_035","轉入雙蛇黨需要繳納註冊費用，沒問題吧？"
-63,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_036","轉入恆輝隊需要繳納註冊費用，沒問題吧？"
+61,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_034","轉入黑渦團需要交納註冊費用，沒問題吧？"
+62,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_035","轉入雙蛇黨需要交納註冊費用，沒問題吧？"
+63,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_036","轉入恆輝隊需要交納註冊費用，沒問題吧？"
 64,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_Q3_000","要支付50000金幣，調動到<Switch(IntegerParameter(1))><Case(1)>黑渦團</Case><Case(2)>雙蛇黨</Case><Case(3)>恆輝隊</Case></Switch>嗎？"
 65,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_A3_001","調動"
 66,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_A3_002","取消"
@@ -132,34 +132,34 @@ int32,str,str
 74,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_039","目前無法再進行晉升。
 你已經達到了符合自己實力與職責的軍銜。"
 75,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_040","要想晉升到更高的軍銜，
-需要得到爾．阿夏正漩校的認定。"
+需要得到爾·阿夏正漩校的認定。"
 76,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_041","要想晉升到更高的軍銜，
 需要得到沃爾賽勒正牙校的認定。"
 77,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_042","要想晉升到更高的軍銜，
 需要得到斯威夫特正耀校的認定。"
 78,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_043","……嗯，看來你已經得到正漩校的認定了。
-不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If>。
+不愧是<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If>。
 那麼，就由我來為你辦理晉升手續吧。"
 79,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_044","……看來你已經得到正牙校的認定了。
-不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If>。
+不愧是<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If>。
 那麼，就由我來為你辦理晉升手續吧。"
 80,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_045","……嗯，看來你已經得到正耀校的認定了啊！
-不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
+不愧是<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
 那麼，就由我來為你辦理晉升手續吧。"
-81,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_046","爾．阿夏正漩校就在你右手邊不遠處。
+81,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_046","爾·阿夏正漩校就在你右手邊不遠處。
 你去正漩校那裡領取認定任務後，前去完成即可。"
 82,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_047","沃爾賽勒正牙校就在你左手邊不遠處。
 請你去他那裡領取認定任務。"
 83,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_048","斯威夫特正耀校就在你右手邊不遠處。
 你去正耀校那裡領取認定任務後，前去完成即可。"
 84,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_049","要想晉升到更高的軍銜，
-一定要完成討伐筆記裡的<Value>IntegerParameter(1)</Value>級大國防聯軍項目，
+必須要完成討伐筆記裡的<Value>IntegerParameter(1)</Value>級大國防聯軍項目，
 以此來展示你的實力。"
 85,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_050","要想晉升到更高的軍銜，
-一定要完成討伐筆記裡的<Value>IntegerParameter(1)</Value>級大國防聯軍項目，
+必須要完成討伐筆記裡的<Value>IntegerParameter(1)</Value>級大國防聯軍項目，
 以此來展示你的實力。"
 86,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_051","要想晉升到更高的軍銜，
-一定要完成討伐筆記裡的<Value>IntegerParameter(1)</Value>級大國防聯軍項目，
+必須要完成討伐筆記裡的<Value>IntegerParameter(1)</Value>級大國防聯軍項目，
 以此來展示你的實力。"
 87,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_052","……看來你已經達成<Value>IntegerParameter(1)</Value>級項目了啊。
 你的實力的確不俗。
@@ -198,7 +198,7 @@ int32,str,str
 你所展現出的實力的確不凡！
 那麼，就由我來為你辦理晉升手續吧！"
 99,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_064","你目前還沒有完成認定任務。
-你需要從爾．阿夏正漩校那裡領取認定任務，並將它完成。"
+你需要從爾·阿夏正漩校那裡領取認定任務，並將它完成。"
 100,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_065","你目前還沒有完成認定任務。
 你需要從沃爾賽勒正牙校那裡領取認定任務，並將它完成。"
 101,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_066","你目前還沒有完成認定任務。
@@ -225,34 +225,34 @@ int32,str,str
 110,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_075","你當前的軍銜是「<Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>」。
 要想晉升到「<Sheet(GCRankUldahMaleText,IntegerParameter(5),0)/>」，需要滿足以下條件。"
 111,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_076","恭喜你晉升！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現！"
+<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現！"
 112,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_077","恭喜你晉升！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現！"
+<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現！"
 113,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_078","恭喜你晉升！
- <Highlight>ObjectParameter(1)</Highlight> <Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現！"
+<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現！"
 114,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_079","恭喜你晉升！
 軍銜提升後，就可以領取「交付稀有品」這類新任務了！"
-115,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_079"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/>！
+115,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_079","<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/>！
 期待你能有更加出色的表現！"
 116,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_080","恭喜你晉升！
 軍銜提升後，就可以領取「交付稀有品」這類新任務了！"
-117,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_100_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/>，
+117,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_100_080","<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/>，
 期待你能有更加出色的表現！"
 118,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_081","恭喜你晉升！
 軍銜提升後，就可以領取「交付稀有品」這類新任務了！"
-119,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_100_081"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>！
+119,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_100_081","<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>！
 期待你能有更加出色的表現！"
 120,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_082","恭喜你晉升！
-你可以透過軍隊理符領取新的任務了！"
-121,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_082"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/>！
+你可以通過軍隊理符領取新的任務了！"
+121,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_082","<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/>！
 期待你能有更加出色的表現！"
 122,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_083","恭喜你晉升！
-你可以透過軍隊理符領取新的任務了！"
-123,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_100_083"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現。
+你可以通過軍隊理符領取新的任務了！"
+123,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_100_083","<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/>，期待你能有更加出色的表現。
 "
 124,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_084","恭喜你晉升！
-你可以透過軍隊理符領取新的任務了！"
-125,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_100_084"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>！
+你可以通過軍隊理符領取新的任務了！"
+125,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_100_084","<Highlight>ObjectParameter(1)</Highlight><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/>！
 期待你能有更加出色的表現！"
 126,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_085","恭喜你晉升！
 你的優異表現得到了3國的認可，經商議決定，
@@ -302,33 +302,33 @@ int32,str,str
 144,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_000_088","成功完成大國防聯軍的任務後，可以得到「軍票」。"
 145,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_STORMPERSONNEL_100_088","軍票類似一種貨幣，
 可以用來交換裝備和消耗品，在晉升時也需要用到。
-努力完成任務，獲得更多的軍票吧。"
+努力完成任務，獲取更多的軍票吧。"
 146,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_000_089","成功完成大國防聯軍的任務後，可以得到「軍票」。"
 147,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SERPENTPERSONNEL_100_089","軍票類似一種貨幣，
 可以用來交換裝備和消耗品，在晉升時也需要用到。
-請努力完成任務，獲得更多的軍票吧。"
+請努力完成任務，獲取更多的軍票吧。"
 148,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_000_090","成功完成大國防聯軍的任務後，可以得到「軍票」。"
 149,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_FLAMEPERSONNEL_100_090","軍票類似一種貨幣，
 可以用來交換裝備和消耗品，在晉升時也需要用到。
-你就努力完成任務，獲得更多的軍票吧。"
+你就努力完成任務，獲取更多的軍票吧。"
 150,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_091","完成與大國防聯軍相關聯的任務就可以得到軍票。
 這也是一種能夠獲得較多軍票的手段。"
-151,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_100_091","另外，透過完成「危命任務」、達成討伐筆記中的「大國防聯軍」項目、
+151,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_100_091","另外，通過完成「危命任務」、達成討伐筆記中的「大國防聯軍」項目、
 「籌備軍需品」或「籌備補給品」等，都可以得到軍票。"
-152,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_092","從艾奧傑亞各地的「聯繫軍官」那裡
+152,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_092","從艾歐澤亞各地的「聯絡軍官」那裡
 領取單人專用理符「軍隊理符」，也可以獲得軍票。"
-153,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_093","軍隊理符可以從任意聯繫軍官那裡領取，
+153,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_093","軍隊理符可以從任意聯絡軍官那裡領取，
 不受所屬軍隊的限制。
-聯繫軍官分布在以下區域。"
+聯絡軍官分布在以下區域。"
 154,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_094","拉諾西亞低地的莫拉比造船廠，
 黑衣森林東部林區的霍桑山寨，
 東薩納蘭的枯骨營地。"
-155,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_095","距離利姆薩．羅敏薩最近的聯繫軍官位於
+155,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_095","距離利姆薩·羅敏薩最近的聯絡軍官位於
 拉諾西亞低地的莫拉比造船廠。
-你可以去找聯繫軍官詢問詳情。"
-156,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_096","距離格里達尼亞最近的聯繫軍官位於
+你可以去找聯絡軍官詢問詳情。"
+156,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_096","距離格里達尼亞最近的聯絡軍官位於
 黑衣森林東部林區的霍桑山寨。
-你可以去找聯繫軍官詢問詳情。"
-157,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_097","距離烏爾達哈最近的聯繫軍官位於
+你可以去找聯絡軍官詢問詳情。"
+157,"TEXT_COMDEFGRANDCOMPANYOFFICER_00073_SYSTEM_000_097","距離烏爾達哈最近的聯絡軍官位於
 東薩納蘭的枯骨營地。
-你可以去找聯繫軍官詢問詳情。"
+你可以去找聯絡軍官詢問詳情。"

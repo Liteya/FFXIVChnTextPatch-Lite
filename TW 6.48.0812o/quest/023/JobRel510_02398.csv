@@ -54,7 +54,7 @@ int32,str,str
 需持有或裝備上<Sheet(Item,IntegerParameter(1),0)/>與<Sheet(Item,IntegerParameter(2),0)/>。"
 49,"TEXT_JOBREL510_02398_SYSTEM_000_002","要接受任務「研究結束」，
 需持有或裝備上<Sheet(Item,IntegerParameter(1),0)/>。"
-50,"TEXT_JOBREL510_02398_ARDASHIR_100_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你休息好了嗎？"
+50,"TEXT_JOBREL510_02398_ARDASHIR_100_001","<Highlight>ObjectParameter(1)</Highlight>，你休息好了嗎？"
 51,"TEXT_JOBREL510_02398_ARDASHIR_200_001","哈哈，你果然很在意這個吧。
 不過它還沒有最終調整完畢。
 究竟是什麼呢，請容我先賣個關子。"
@@ -70,12 +70,12 @@ int32,str,str
 拜託了！"
 56,"TEXT_JOBREL510_02398_SYSTEM_000_010","沒有反應……
 阿爾達希爾還在進行調整。"
-57,"TEXT_JOBREL510_02398_ROWENA_000_010","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+57,"TEXT_JOBREL510_02398_ROWENA_000_010","啊，<Highlight>ObjectParameter(1)</Highlight>。
 元靈武器的研究有什麼進展了嗎？"
 58,"TEXT_JOBREL510_02398_ROWENA_000_011","哦？研究終於結束了呀。
 我知道了，一會我去阿爾達希爾那邊一趟。
 你先回去吧，我還有個重要的生意要談。"
-59,"TEXT_JOBREL510_02398_ARDASHIR_100_020","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+59,"TEXT_JOBREL510_02398_ARDASHIR_100_020","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>！
 不好意思，展示我的作品需要用到移植了新魂石的真元靈武器。"
 60,"TEXT_JOBREL510_02398_ARDASHIR_100_021","請你將<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>帶來吧！"
 61,"TEXT_JOBREL510_02398_ARDASHIR_200_020","請你將<Sheet(Item,IntegerParameter(1),0)/>帶來吧！"
@@ -108,19 +108,19 @@ int32,str,str
 74,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_028","嗯，當然。
 只要主人同意，我願意一直陪在主人身邊。"
 75,"TEXT_JOBREL510_02398_ROWENA_000_029","你們聊得很開心嘛。"
-76,"TEXT_JOBREL510_02398_ROWENA_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 已經都告訴我了，
+76,"TEXT_JOBREL510_02398_ROWENA_000_030","<Highlight>ObjectParameter(1)</Highlight>已經都告訴我了，
 這孩子就是人造元靈吧？"
-77,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_031","初次見面，我是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的搭檔。"
-78,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_032","初次見面，我是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的搭檔。"
+77,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_031","初次見面，我是<Highlight>ObjectParameter(1)</Highlight>的搭檔。"
+78,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_032","初次見面，我是<Highlight>ObjectParameter(1)</Highlight>的搭檔。"
 79,"TEXT_JOBREL510_02398_ARDASHIR_000_033","怎麼樣，羅薇娜女士，是不是很棒？
 寄宿在武器中為主人提供支援的人造元靈……
 這就是我們的研究成果——魔法生物的新存在形式！"
 80,"TEXT_JOBREL510_02398_ROWENA_000_034","原來如此……
 能夠培養出順從的人造元靈啊……"
 81,"TEXT_JOBREL510_02398_ROWENA_000_035","看起來很有賺頭……"
-82,"TEXT_JOBREL510_02398_ROWENA_000_036","不錯不錯，看來我的鉅額投資沒有白費。
+82,"TEXT_JOBREL510_02398_ROWENA_000_036","不錯不錯，看來我的巨額投資沒有白費。
 今後就請向著實用化的方向繼續努力吧。"
-83,"TEXT_JOBREL510_02398_ARDASHIR_000_037","我會牢記與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和蓋羅爾特先生合作時學到的東西，
+83,"TEXT_JOBREL510_02398_ARDASHIR_000_037","我會牢記與<Highlight>ObjectParameter(1)</Highlight>和蓋羅爾特先生合作時學到的東西，
 盡全力讓實用化產品面世！"
 84,"TEXT_JOBREL510_02398_ARDASHIR_000_038","為此，我打算回故鄉一趟，
 找一個專門協助我進行研究的武具工匠回來。"
@@ -139,7 +139,7 @@ int32,str,str
 不過呢，如果你幫阿爾達希爾進行人造元靈實用化的研究，
 我倒是可以稍微少收你一點……"
 90,"TEXT_JOBREL510_02398_ROWENA_000_044","好了，我還有其他生意要談，先回去了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、阿爾達希爾，拜拜。"
+<Highlight>ObjectParameter(1)</Highlight>、阿爾達希爾，拜拜。"
 91,"TEXT_JOBREL510_02398_GEROLT_000_045","我們今後也要攜起手來、一起努力才是啊！
 你說是不是這個理，阿爾達希爾！！"
 92,"TEXT_JOBREL510_02398_ARDASHIR_000_046","心領了。

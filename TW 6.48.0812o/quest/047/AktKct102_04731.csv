@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKCT102_04731_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊規則： 職業固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-中庸工藝館前的喬菈．佐開始著手改良莫雯卓越工具。"
+中庸工藝館前的喬菈·佐開始著手改良莫雯卓越工具。"
 1,"TEXT_AKTKCT102_04731_SEQ_01","※本任務為<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 職業固定任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-改良莫雯卓越工具所需的材料，可使用交易資本與秦娜娜兌換。將背包或兵裝庫中的莫雯卓越工具和材料交給中庸工藝館前的喬菈．佐，拜託她進行下一階段的改良。"
-2,"TEXT_AKTKCT102_04731_SEQ_02","莫雯卓越工具的改良工作進展到了第2階段。成功將莫雯卓越工具改良得越發趁手了。為了進一步提升工具的性能，與喬菈．佐等人一起繼續改良莫雯卓越工具。"
+改良莫雯卓越工具所需的材料，可使用交易資本與秦娜娜兌換。將背包或兵裝庫中的莫雯卓越工具和材料交給中庸工藝館前的喬菈·佐，拜託她進行下一階段的改良。"
+2,"TEXT_AKTKCT102_04731_SEQ_02","莫雯卓越工具的改良工作進展到了第2階段。成功將莫雯卓越工具改良得越發趁手了。為了進一步提升工具的性能，與喬菈·佐等人一起繼續改良莫雯卓越工具。"
 3,"TEXT_AKTKCT102_04731_SEQ_03",""
 4,"TEXT_AKTKCT102_04731_SEQ_04",""
 5,"TEXT_AKTKCT102_04731_SEQ_05",""
@@ -34,7 +34,7 @@ int32,str,str
 <If(Equal(IntegerParameter(4),16))><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>180個<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Sheet(Item,38791,0)/>
 <Else/><If(Equal(IntegerParameter(4),17))><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>180個<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Sheet(Item,38789,0)/>
 <Else/><If(Equal(IntegerParameter(4),18))><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60個<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Sheet(Item,38803,0)/>
-<Else/></If></If></If>交給中庸工藝館前的喬菈．佐"
+<Else/></If></If></If>交給中庸工藝館前的喬菈·佐"
 25,"TEXT_AKTKCT102_04731_TODO_01",""
 26,"TEXT_AKTKCT102_04731_TODO_02",""
 27,"TEXT_AKTKCT102_04731_TODO_03",""
@@ -65,13 +65,13 @@ int32,str,str
 51,"TEXT_AKTKCT102_04731_A1_000_002","改良<Sheet(ClassJob,PlayerParameter(68),0)/>的莫雯卓越工具"
 52,"TEXT_AKTKCT102_04731_SYSTEM_000_004","接受任務「誠信為本的改良計劃」後，
 直至完成或放棄該任務，
-其間都無法同時以其他職業重複接受該任務。"
+其間都無法同時以其他職業重覆接受該任務。"
 53,"TEXT_AKTKCT102_04731_SYSTEM_000_005","請切換成想要改良的莫雯卓越工具所對應的職業，
-再次與喬菈．佐交談。"
+再次與喬菈·佐交談。"
 54,"TEXT_AKTKCT102_04731_SYSTEM_000_003","需持有或裝備上<Sheet(Item,IntegerParameter(1),0)/>，
 才能進行任務「誠信為本的改良計劃」。"
 55,"TEXT_AKTKCT102_04731_SYSTEM_100_004","已擁有<Sheet(Item,IntegerParameter(1),0)/>。
-請切換成其他職業，再次與喬菈．佐交談。"
+請切換成其他職業，再次與喬菈·佐交談。"
 56,"TEXT_AKTKCT102_04731_CHORAZOI_000_007","你看過交給你的工具了嗎？
 我們要以它為原型，改良製作莫雯卓越工具，
 我正在看拿到的設計圖呢！"
@@ -85,7 +85,7 @@ int32,str,str
 60,"TEXT_AKTKCT102_04731_GRENOLDT_000_011","首先，我們要把材料都備齊。
 雖說莫雯卓越商會那邊說會替我們準備好需要的東西，
 但有些稀有的材料很難獲得。"
-61,"TEXT_AKTKCT102_04731_GRENOLDT_000_012","所以我希望能借助你的本領，
+61,"TEXT_AKTKCT102_04731_GRENOLDT_000_012","所以我希望能藉助你的本領，
 為莫雯卓越商會製作一些等價的物品，用來交易交換。
 這個過程，希望你能使用接下來要改良的莫雯卓越工具來做。"
 62,"TEXT_AKTKCT102_04731_GRENOLDT_000_013","使用並習慣作為雛形的武器，找到其將來的可能性，
@@ -94,15 +94,14 @@ int32,str,str
 63,"TEXT_AKTKCT102_04731_CHORAZOI_000_015","我也會以不浪費稀有材料為目標，
 研讀改良的工程進展，多加練習！"
 64,"TEXT_AKTKCT102_04731_GRENOLDT_000_016","好！就是要這樣的氣勢。
-我也要努力不愧對 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫助，
+我也要努力不愧對<Highlight>ObjectParameter(1)</Highlight>的幫助，
 全心全意地完成我作為工匠的工作！"
 65,"TEXT_AKTKCT102_04731_CHORAZOI_000_017","你還願意幫忙改良莫雯卓越工具嗎？
 太好啦！我們這就開始製作新的莫雯卓越工具吧！"
 66,"TEXT_AKTKCT102_04731_CHORAZOI_000_018","那……這次需要的材料是
 <Sheet(Item,IntegerParameter(1),0)/>！"
 67,"TEXT_AKTKCT102_04731_CHORAZOI_100_018","然後，為了讓商會那邊提供我們需要的稀有材料，
-希望你可以準備一些能作為交易資本的
-<If(Equal(IntegerParameter(1),1))><Sheet(ItemMP,38756,0)/><Else/><If(Equal(IntegerParameter(1),2))><Sheet(ItemMP,38757,0)/><Else/><If(Equal(IntegerParameter(1),3))><Sheet(ItemMP,38758,0)/><Else/><If(Equal(IntegerParameter(1),4))><Sheet(ItemMP,38759,0)/><Else/><If(Equal(IntegerParameter(1),5))><Sheet(ItemMP,38760,0)/><Else/><If(Equal(IntegerParameter(1),6))><Sheet(ItemMP,38761,0)/><Else/><If(Equal(IntegerParameter(1),7))><Sheet(ItemMP,38762,0)/><Else/><If(Equal(IntegerParameter(1),8))><Sheet(ItemMP,38763,0)/><Else/></If></If></If></If></If></If></If></If>。"
+希望你可以準備一些能作為交易資本的<If(Equal(IntegerParameter(1),1))><Sheet(ItemMP,38756,0)/><Else/><If(Equal(IntegerParameter(1),2))><Sheet(ItemMP,38757,0)/><Else/><If(Equal(IntegerParameter(1),3))><Sheet(ItemMP,38758,0)/><Else/><If(Equal(IntegerParameter(1),4))><Sheet(ItemMP,38759,0)/><Else/><If(Equal(IntegerParameter(1),5))><Sheet(ItemMP,38760,0)/><Else/><If(Equal(IntegerParameter(1),6))><Sheet(ItemMP,38761,0)/><Else/><If(Equal(IntegerParameter(1),7))><Sheet(ItemMP,38762,0)/><Else/><If(Equal(IntegerParameter(1),8))><Sheet(ItemMP,38763,0)/><Else/></If></If></If></If></If></If></If></If>。"
 68,"TEXT_AKTKCT102_04731_CHORAZOI_000_020","對了，別忘了蓋雷諾爾特的話，
 製作的時候一定要使用之後要改良的莫雯卓越工具！"
 69,"TEXT_AKTKCT102_04731_CHORAZOI_000_021","等你完成之後，把成品交給那邊的秦娜娜就好！
@@ -131,17 +130,17 @@ int32,str,str
 她會為你交換商會收集來的稀有材料。
 你要是忘記了這些手續，可以過來請蓋雷諾爾特教你。"
 78,"TEXT_AKTKCT102_04731_SYSTEM_000_022","將主工具以及改良所需要的稀有材料
-交給中庸工藝館前的喬菈．佐，
+交給中庸工藝館前的喬菈·佐，
 可獲得經過改良的工具。"
-79,"TEXT_AKTKCT102_04731_SYSTEM_000_023","將交易資本繳納給中庸工藝館前的秦娜娜
+79,"TEXT_AKTKCT102_04731_SYSTEM_000_023","將交易資本交納給中庸工藝館前的秦娜娜
 就能獲得改良工具所需要的稀有材料。"
 80,"TEXT_AKTKCT102_04731_SYSTEM_000_024","交易資本
 可以在製作筆記的「特殊配方」中，
 找到裡面的「莫雯卓越工具」項進行製作。"
 81,"TEXT_AKTKCT102_04731_SYSTEM_000_025","此外，製作交易資本時需要裝備莫雯卓越工具。
-部分素材可以透過工票獲得。"
+部分素材可以通過工票獲得。"
 82,"TEXT_AKTKCT102_04731_SYSTEM_000_026","交易資本，
-可以透過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
+可以通過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
 83,"TEXT_AKTKCT102_04731_SYSTEM_000_027","此外，採集交易資本時需要裝備莫雯卓越工具。"
 84,"TEXT_AKTKCT102_04731_SYSTEM_000_028","可作為交易資本的魚，
 需要用到專用的釣餌。
@@ -153,19 +152,19 @@ int32,str,str
 首先麻煩你用莫雯卓越工具準備出需要的交易資本。"
 88,"TEXT_AKTKCT102_04731_GRENOLDT_000_032","之後只要你將籌集到的交易資本交給秦娜娜，
 她就能幫你把商會籌集的稀有材料準備好。
-一切都準備就緒後，你就去找喬菈．佐幫你改良工具吧。"
+一切都準備就緒後，你就去找喬菈·佐幫你改良工具吧。"
 89,"TEXT_AKTKCT102_04731_SYSTEM_000_034","將主工具以及改良所需要的稀有材料
-交給中庸工藝館前的喬菈．佐，
+交給中庸工藝館前的喬菈·佐，
 可獲得經過改良的工具。"
-90,"TEXT_AKTKCT102_04731_SYSTEM_000_035","將交易資本繳納給中庸工藝館前的秦娜娜
+90,"TEXT_AKTKCT102_04731_SYSTEM_000_035","將交易資本交納給中庸工藝館前的秦娜娜
 就能獲得改良工具所需要的稀有材料。"
 91,"TEXT_AKTKCT102_04731_SYSTEM_000_036","交換稀有材料所需的交易資本
 可以在製作筆記的「特殊配方」中，
 找到裡面的「莫雯卓越工具」項進行製作。"
 92,"TEXT_AKTKCT102_04731_SYSTEM_000_037","此外，製作交易資本時需要裝備莫雯卓越工具。
-部分素材可以透過工票獲得。"
+部分素材可以通過工票獲得。"
 93,"TEXT_AKTKCT102_04731_SYSTEM_000_038","交換稀有材料所需的交易資本，
-可以透過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
+可以通過採集筆記中的「莫雯卓越工具」項來確認採集地點。"
 94,"TEXT_AKTKCT102_04731_SYSTEM_000_039","此外，採集交易資本時需要裝備莫雯卓越工具。"
 95,"TEXT_AKTKCT102_04731_SYSTEM_000_040","可作為交易資本的魚，
 需要用到專用的釣餌。
@@ -173,13 +172,13 @@ int32,str,str
 96,"TEXT_AKTKCT102_04731_SYSTEM_000_041","此外，釣可作為交易資本的魚時需要裝備莫雯卓越工具。"
 97,"TEXT_AKTKCT102_04731_SYSTEM_000_042","完成本任務時，
 請卸下需要改良的莫雯卓越工具並放入背包或兵裝庫中。"
-98,"TEXT_AKTKCT102_04731_CHORAZOI_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！謝謝你！
+98,"TEXT_AKTKCT102_04731_CHORAZOI_000_050","<Highlight>ObjectParameter(1)</Highlight>！謝謝你！
 需要的稀有材料都集齊了！
 請把需要改良的工具和材料都交給我吧！"
 99,"TEXT_AKTKCT102_04731_CHORAZOI_000_051","千辛萬苦才收集來的稀有材料……
 我一定會讓它變成最棒的工具的！"
-100,"TEXT_AKTKCT102_04731_GRENOLDT_000_052","無論是準備那麼多交易資本的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
-還是透過特別的管道收集稀有材料的莫雯閣下，
+100,"TEXT_AKTKCT102_04731_GRENOLDT_000_052","無論是準備那麼多交易資本的<Highlight>ObjectParameter(1)</Highlight>，
+還是通過特別的渠道收集稀有材料的莫雯閣下，
 你可要對得起<If(PlayerParameter(4))>她們<Else/>他們</If>的努力啊！"
 101,"TEXT_AKTKCT102_04731_CHORAZOI_000_053","我這就去借用金屬工藝部的設備改良工具！
 請你在這裡稍等一會兒！"
@@ -188,9 +187,9 @@ int32,str,str
 但我順利地把工具改良好啦！"
 103,"TEXT_AKTKCT102_04731_CHORAZOI_000_055","因為我這都是照著蓋雷諾爾特的圖紙改良的，
 所以工具的性能提升應該是有保證的！"
-104,"TEXT_AKTKCT102_04731_GRENOLDT_000_056","雖然我也在旁邊一邊幫忙一邊看著，
-不過喬菈．佐自己的本事也是相當不錯的，
-可以放心地把東西交給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+104,"TEXT_AKTKCT102_04731_GRENOLDT_000_056","雖然我也在邊上一邊幫忙一邊看著，
+不過喬菈·佐自己的本事也是相當不錯的，
+可以放心地把東西交給<Highlight>ObjectParameter(1)</Highlight>。"
 105,"TEXT_AKTKCT102_04731_CHORAZOI_000_057","這次我也順利地把工具改良到了第二階段。
 我想這次調整新的工具的經歷，
 也讓我的能力稍稍提升了一些吧！"

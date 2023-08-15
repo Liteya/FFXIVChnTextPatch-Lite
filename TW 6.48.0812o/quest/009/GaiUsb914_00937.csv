@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB914_00937_SEQ_00","野戰醫院的席德想要冒險者幫忙。"
-1,"TEXT_GAIUSB914_00937_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往白雲崖前哨找席德重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_GAIUSB914_00937_SEQ_00","野戰醫院的西德想要冒險者幫忙。"
+1,"TEXT_GAIUSB914_00937_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往白雲崖前哨找西德重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。"
-2,"TEXT_GAIUSB914_00937_SEQ_02","收集齊了席德需要的材料。將<Sheet(EventItem,2000732,0)/>交給白雲崖前哨的席德。"
+2,"TEXT_GAIUSB914_00937_SEQ_02","收集齊了西德需要的材料。將<Sheet(EventItem,2000732,0)/>交給白雲崖前哨的西德。"
 3,"TEXT_GAIUSB914_00937_SEQ_03","改良了蒸餾器，好不容易才要在野戰醫院獲得信賴，可又被異端審問官吉耶姆給破壞了。看來不對異端審問官想想辦法的話，就很難取得進展。"
 4,"TEXT_GAIUSB914_00937_SEQ_04",""
 5,"TEXT_GAIUSB914_00937_SEQ_05",""
@@ -28,9 +28,9 @@ int32,str,str
 22,"TEXT_GAIUSB914_00937_SEQ_22",""
 23,"TEXT_GAIUSB914_00937_SEQ_23",""
 24,"TEXT_GAIUSB914_00937_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往白雲崖前哨找席德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往白雲崖前哨找西德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSB914_00937_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往白雲崖前哨找席德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往白雲崖前哨找西德重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB914_00937_TODO_02",""
 27,"TEXT_GAIUSB914_00937_TODO_03",""
 28,"TEXT_GAIUSB914_00937_TODO_04",""
@@ -74,7 +74,7 @@ int32,str,str
 我們的蒸餾器現在變得好厲害哦！"
 55,"TEXT_GAIUSB914_00937_ASTIDIEN_000_032","哦哦……雖然不知道該怎麼使用這功能，
 但是真是好厲害啊……
-這種技術在伊修加爾德聞所未聞！"
+這種技術在伊修加德聞所未聞！"
 56,"TEXT_GAIUSB914_00937_CENOTA_000_033","這兩個人非常積極地做貢獻，現在大家都在談論呢！
 還給我送飯吃呢……
 我們要不要告訴德里耶蒙閣下，說他們很值得信賴？"
@@ -90,4 +90,4 @@ int32,str,str
 61,"TEXT_GAIUSB914_00937_CID_000_038","唔……就只差一步了！
 那傢伙跟我們有什麼仇嗎？！"
 62,"TEXT_GAIUSB914_00937_CID_000_039","只要有那個異端審問官在，我們就寸步難行……
-看來一定要想個對策才行了……"
+看來必須要想個對策才行了……"

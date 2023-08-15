@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_BANARK123_04573_SEQ_21",""
 22,"TEXT_BANARK123_04573_SEQ_22",""
 23,"TEXT_BANARK123_04573_SEQ_23",""
-24,"TEXT_BANARK123_04573_TODO_00","前往摩耶幻泉獲得<Sheet(EObj,2012905,0)/>"
+24,"TEXT_BANARK123_04573_TODO_00","前往摩耶幻泉獲取<Sheet(EObj,2012905,0)/>"
 25,"TEXT_BANARK123_04573_TODO_01","將<Sheet(EventItem,2003410,0)/>交給摩羅盧"
 26,"TEXT_BANARK123_04573_TODO_02",""
 27,"TEXT_BANARK123_04573_TODO_03",""
@@ -53,7 +53,7 @@ int32,str,str
 46,"TEXT_BANARK123_04573_TODO_22",""
 47,"TEXT_BANARK123_04573_TODO_23",""
 48,"TEXT_BANARK123_04573_MARU_000_000","我一直在等你。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你會游泳嗎？"
+<Highlight>ObjectParameter(1)</Highlight>你會游泳嗎？"
 49,"TEXT_BANARK123_04573_MARU_000_001","其實是剛剛從新港回來的同伴
 接到了來自勘恰娜的委託。"
 50,"TEXT_BANARK123_04573_MARU_000_002","似乎是希望我們幫忙打掃一下
@@ -67,6 +67,6 @@ int32,str,str
 勘恰娜那邊就由我來負責傳達。"
 54,"TEXT_BANARK123_04573_MARU_000_012","其實這些苔蘚是河馬愛吃的食物。
 不僅營養豐富，而且非常美味……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 要不要也嘗一下？"
+<Highlight>ObjectParameter(1)</Highlight>要不要也嘗一下？"
 55,"TEXT_BANARK123_04573_MARU_000_013","開玩笑的啦，開玩笑……
 還是把這些報酬給你吧。"

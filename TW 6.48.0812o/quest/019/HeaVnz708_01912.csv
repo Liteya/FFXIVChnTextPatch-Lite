@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ708_01912_SEQ_00","尊杜集落的西努瓦利有非常危險的事要委託冒險者。"
-1,"TEXT_HEAVNZ708_01912_SEQ_01","西努瓦利委託冒險者去搶奪<Sheet(EventItem,2001671,0)/>。前往阿巴拉提亞雲海的瓦納溫杜集落，獲得3個<Sheet(EventItem,2001671,0)/>。"
+1,"TEXT_HEAVNZ708_01912_SEQ_01","西努瓦利委託冒險者去搶奪<Sheet(EventItem,2001671,0)/>。前往阿巴拉提亞雲海的瓦納溫杜集落，獲取3個<Sheet(EventItem,2001671,0)/>。"
 2,"TEXT_HEAVNZ708_01912_SEQ_02","成功奪取了3個<Sheet(EventItem,2001671,0)/>。將<Sheet(EventItem,2001671,0)/>交給尊杜集落的西努瓦利。"
 3,"TEXT_HEAVNZ708_01912_SEQ_03","將<Sheet(EventItem,2001671,0)/>交給了西努瓦利。這些貢品原本是尊杜族獻給溫杜族來保證族人安全的。可是這份安全也全要看溫杜族的心情，這次奪回貢品，是為了儲蓄更多貢品以免出事。"
 4,"TEXT_HEAVNZ708_01912_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ708_01912_SEQ_21",""
 22,"TEXT_HEAVNZ708_01912_SEQ_22",""
 23,"TEXT_HEAVNZ708_01912_SEQ_23",""
-24,"TEXT_HEAVNZ708_01912_TODO_00","獲得<Sheet(EventItem,2001671,0)/>"
+24,"TEXT_HEAVNZ708_01912_TODO_00","獲取<Sheet(EventItem,2001671,0)/>"
 25,"TEXT_HEAVNZ708_01912_TODO_01","將<Sheet(EventItem,2001671,0)/>交給西努瓦利"
 26,"TEXT_HEAVNZ708_01912_TODO_02",""
 27,"TEXT_HEAVNZ708_01912_TODO_03",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVNZ708_01912_TODO_21",""
 46,"TEXT_HEAVNZ708_01912_TODO_22",""
 47,"TEXT_HEAVNZ708_01912_TODO_23",""
-48,"TEXT_HEAVNZ708_01912_HINUVALI_000_000","絕不能、絕不能，再這麼隱忍下去了。
+48,"TEXT_HEAVNZ708_01912_HINUVALI_000_000","決不能、決不能，再這麼隱忍下去了。
 旅行者，我有事情想拜託你，
 雖然這好比飛蛾撲火，危險至極……"
 49,"TEXT_HEAVNZ708_01912_HINUVALI_000_001","瓦納溫杜集落裡保管著許多<Sheet(EventItem,2001671,0)/>，

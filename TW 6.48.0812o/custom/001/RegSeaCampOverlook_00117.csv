@@ -11,7 +11,7 @@ int32,str,str
 不過和地靈族幹仗的生活也不錯。
 我就是這麼認為的。"
 4,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_100_012","雖然我們的戰場從船上變成了懸崖上，
-不過為了保護利姆薩．羅敏薩的生活也不錯。
+不過為了保護利姆薩·羅敏薩的生活也不錯。
 我就是這麼認為的。"
 5,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_020","這裡是和地靈族對抗的前線基地。
 在懸崖上可以很好地監控他們的武裝礦山……
@@ -27,7 +27,7 @@ int32,str,str
 9,"TEXT_REGSEACAMPOVERLOOK_00117_SWYGRAE_000_032","主要是與第2洞穴團的傢伙們
 一起監視被精煉的地靈族，
 同時再一點一點對他們進行治療。"
-10,"TEXT_REGSEACAMPOVERLOOK_00117_Q1_000_000","想瞭解什麼？"
+10,"TEXT_REGSEACAMPOVERLOOK_00117_Q1_000_000","想了解什麼？"
 11,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_001","你是做什麼的？"
 12,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_002","這裡是什麼地方？"
 13,"TEXT_REGSEACAMPOVERLOOK_00117_A1_000_003","取消"

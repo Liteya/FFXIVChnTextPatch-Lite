@@ -58,7 +58,7 @@ int32,str,str
 我很擔心那邊是不是遇到了什麼麻煩……
 不好意思，可以麻煩你幫忙去找一下嗎？"
 50,"TEXT_BANARK104_04554_MARU_000_003","其他同伴已經到塔門一帶去尋找了，
-就勞煩 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 到波洛伽護法村附近找一下吧！"
+就勞煩<Highlight>ObjectParameter(1)</Highlight>到波洛伽護法村附近找一下吧！"
 51,"TEXT_BANARK104_04554_WORRIEDARKASODARA04554_000_010","啊，太好了！
 你是來找我的吧！"
 52,"TEXT_BANARK104_04554_WORRIEDARKASODARA04554_000_011","我在從波洛伽護法村回去的路上遭到了猛獸的襲擊。"

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSC506_00994_SEQ_21",""
 22,"TEXT_GAIUSC506_00994_SEQ_22",""
 23,"TEXT_GAIUSC506_00994_SEQ_23",""
-24,"TEXT_GAIUSC506_00994_TODO_00","在<Sheet(EObj,2002211,0)/>等待 對現身的<Sheet(BNpcName,2061,0)/>使用<Sheet(EventItem,2000962,0)/> 從它身上獲得<Sheet(EventItem,2000934,0)/>"
+24,"TEXT_GAIUSC506_00994_TODO_00","在<Sheet(EObj,2002211,0)/>等待 對現身的<Sheet(BNpcName,2061,0)/>使用<Sheet(EventItem,2000962,0)/> 從它身上獲取<Sheet(EventItem,2000934,0)/>"
 25,"TEXT_GAIUSC506_00994_TODO_01","將<Sheet(EventItem,2000934,0)/>交給克林托塔"
 26,"TEXT_GAIUSC506_00994_TODO_02",""
 27,"TEXT_GAIUSC506_00994_TODO_03",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_GAIUSC506_00994_TODO_23",""
 48,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_000","這裡的調查員們，全都沉迷於挖掘遺跡的工作中。
 但我不同，我來這裡另有目的……
-我真正想瞭解的是衛月。"
+我真正想了解的是衛月。"
 49,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_001","5年前，伴隨著耀眼的紅光，巨大的衛月墜落了……
 你不覺得這是一個非常值得挑戰的研究課題嗎？"
 50,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_002","有一塊衛月碎片就落在了歌詠裂谷，
@@ -60,11 +60,11 @@ int32,str,str
 51,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_003","拜託你了，冒險者。
 能否請你去打倒<Sheet(BNpcName,2061,0)/>，
 把<Sheet(EventItem,2000934,0)/>奪回來呢？"
-52,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_004","但那傢伙不僅體型巨大，還異常凶猛……
+52,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_004","但那傢伙不僅體型巨大，還異常兇猛……
 這個<Sheet(EventItem,2000962,0)/>就交給你使用吧。
 這裡面裝滿了妖異討厭的刺激性物質。"
-53,"TEXT_GAIUSC506_00994_DUMMY_000_010","打倒<Sheet(EventItem,2000962,0)/>→獲得<Sheet(EventItem,2000934,0)/>"
-54,"TEXT_GAIUSC506_00994_DUMMYTODO_000_010","（★未使用／削除予定★）"
+53,"TEXT_GAIUSC506_00994_DUMMY_000_010","打倒<Sheet(EventItem,2000962,0)/>→獲取<Sheet(EventItem,2000934,0)/>"
+54,"TEXT_GAIUSC506_00994_DUMMYTODO_000_010","（未使用/預計刪除）"
 55,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_020","冒險者，你回來啦。
 取回衛月的遺物了嗎？"
 56,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_030","這可是重要的標本！
@@ -77,5 +77,5 @@ int32,str,str
 59,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_033","水晶塔和衛月……
 居然真的有超級文明能夠創造出那樣的東西，
 這真是一個值得挑戰的謎題！謝謝你，冒險者！"
-60,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_034","（★未使用／削除予定★）"
+60,"TEXT_GAIUSC506_00994_KLYNTHOTA_000_034","（未使用/預計刪除）"
 61,"TEXT_GAIUSC506_00994_POP_MESSAGE_000","察覺到了敵人的氣息！"

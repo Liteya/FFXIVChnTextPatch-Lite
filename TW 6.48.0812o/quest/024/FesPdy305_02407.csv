@@ -77,7 +77,7 @@ int32,str,str
 57,"TEXT_FESPDY305_02407_NARUMI_000_006","所以，我會相信冒險者的決定，相信烏拉拉和馬夏，
 盡全力做好主演的！"
 58,"TEXT_FESPDY305_02407_NARUMI_000_007","我差不多得去準備演出了。
-我一定會努力，爭取獻上一場 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也覺得精彩的演出！"
+我一定會努力，爭取獻上一場<Highlight>ObjectParameter(1)</Highlight>也覺得精彩的演出！"
 59,"TEXT_FESPDY305_02407_BUTLER_000_010","你想好要讓誰當主演了嗎？"
 60,"TEXT_FESPDY305_02407_BUTLER_000_011","這樣啊，你想讓鳴海來當主演啊。
 的確，如果她當主演的話，

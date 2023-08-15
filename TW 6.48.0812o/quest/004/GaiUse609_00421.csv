@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE609_00421_SEQ_00","石之家的敏菲利亞很在意塔塔露的行蹤。"
-1,"TEXT_GAIUSE609_00421_SEQ_01","塔塔露最近對秘術產生了興趣。前往利姆薩．羅敏薩的秘術師公會，和塔塔露對話。"
+1,"TEXT_GAIUSE609_00421_SEQ_01","塔塔露最近對秘術產生了興趣。前往利姆薩·羅敏薩的秘術師公會，和塔塔露對話。"
 2,"TEXT_GAIUSE609_00421_SEQ_02","塔塔露加入了秘術師公會。由於要完成試煉，所以她離開公會出發去了試煉之地。和秘術師公會的圖比爾蓋姆對話。"
 3,"TEXT_GAIUSE609_00421_SEQ_03","圖比爾蓋姆讓塔塔露去檢查貨物了。前往中拉諾西亞的和風陸門，在<Sheet(EObj,2005073,0)/>尋找塔塔露。"
 4,"TEXT_GAIUSE609_00421_SEQ_04","塔塔露被魔物包圍，召喚獸又棄她而去，只能選擇逃離戰鬥……和和風陸門附近的塔塔露對話。"
@@ -50,16 +50,16 @@ int32,str,str
 46,"TEXT_GAIUSE609_00421_TODO_22",""
 47,"TEXT_GAIUSE609_00421_TODO_23",""
 48,"TEXT_GAIUSE609_00421_MINFILIA_000_000","突發事件真是接連不斷啊。"
-49,"TEXT_GAIUSE609_00421_MINFILIA_000_001","是這樣的，于里昂熱先生說，
+49,"TEXT_GAIUSE609_00421_MINFILIA_000_001","是這樣的，於里昂熱先生說，
 最近塔塔露總是向他詢問秘術的事。"
-50,"TEXT_GAIUSE609_00421_MINFILIA_000_002","或許塔塔露是去利姆薩．羅敏薩學習正宗的秘術了吧。"
+50,"TEXT_GAIUSE609_00421_MINFILIA_000_002","或許塔塔露是去利姆薩·羅敏薩學習正宗的秘術了吧。"
 51,"TEXT_GAIUSE609_00421_MINFILIA_000_003","希望你能去秘術師公會看看塔塔露。
 雖然她說不用擔心她，但我還是有點放不下心來。"
-52,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_004","那姑娘已經去下面的訓練場了？
+52,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_004","那姑娘已經去下邊的訓練場了？
 有幹勁是好事，不過欲速則不達，
-我擔心她衝得太猛，會迷失了方向。"
+我擔心她沖得太猛，會迷失了方向。"
 53,"TEXT_GAIUSE609_00421_TATARU_000_010","噢？！
-這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎！你在這裡做什麼？"
+這不是<Highlight>ObjectParameter(1)</Highlight>嗎！你在這裡做什麼？"
 54,"TEXT_GAIUSE609_00421_TATARU_000_011","原來如此，
 敏菲利亞真是太愛操心啦！"
 55,"TEXT_GAIUSE609_00421_TATARU_000_012","我來學習秘術，
@@ -69,7 +69,7 @@ int32,str,str
 57,"TEXT_GAIUSE609_00421_TATARU_000_014","一會，
 我要去完成秘術師公會的代理會長圖比爾蓋姆小姐交給我的試煉！
 出發！前往試煉之地！"
-58,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_030","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 麼，
+58,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_030","這不是<Highlight>ObjectParameter(1)</Highlight>麼，
 今天來公會有什麼事啊？"
 59,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_031","原來如此，你和塔塔露認識啊。
 我想你這個老秘術師一眼就看出來了，
@@ -78,7 +78,7 @@ int32,str,str
 不知她能不能完成最初的試煉……"
 61,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_033","我讓她去和風陸門外的盛夏灘檢查貨物了。
 作為她的前輩，你能不能幫我去看看她完成得怎麼樣了？"
-62,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_040","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 麼，
+62,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_040","這不是<Highlight>ObjectParameter(1)</Highlight>麼，
 今天來公會有什麼事啊？"
 63,"TEXT_GAIUSE609_00421_THUBYRGEIM_000_041","原來如此，你和塔塔露認識啊。
 你也是個秘術師，我想你一眼就看出來了，
@@ -109,12 +109,12 @@ int32,str,str
 74,"TEXT_GAIUSE609_00421_TATARU_000_074","媽呀！魔物！
 上！我的奴僕寶石獸！
 清除掉一切擋路的敵人！"
-75,"TEXT_GAIUSE609_00421_TATARU_000_075","…………………。"
+75,"TEXT_GAIUSE609_00421_TATARU_000_075","……"
 76,"TEXT_GAIUSE609_00421_TATARU_000_076","娘親——"
-77,"TEXT_GAIUSE609_00421_TATARU_000_090","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+77,"TEXT_GAIUSE609_00421_TATARU_000_090","……<Highlight>ObjectParameter(1)</Highlight>，
 你什麼都別說了，我想靜靜……"
 78,"TEXT_GAIUSE609_00421_TATARU_000_091","看你的表情，
-一定是由始至終看了我的戰鬥了……"
+肯定是由始至終看了我的戰鬥了……"
 79,"TEXT_GAIUSE609_00421_TATARU_000_092","不……那根本就不叫戰鬥……
 我被寶石獸拋棄，還夾著尾巴從魔物面前逃跑了……"
 80,"TEXT_GAIUSE609_00421_TATARU_000_093","不得不承認……

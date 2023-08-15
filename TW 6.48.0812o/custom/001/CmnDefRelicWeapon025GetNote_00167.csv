@@ -20,12 +20,12 @@ int32,str,str
 15,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_030","每部記載上古英雄的«黃道文書»都有很多種類。
 我需要選出你能讀得懂的古書，
 所以能裝備上相稱的武器讓我看一下嗎？"
-16,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_0000_SYSTEM_000_035","裝備上「上古武器．魂晶」和古．茱薩奈對話，
+16,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_0000_SYSTEM_000_035","裝備上「上古武器·魂晶」和古·茱薩奈對話，
 才可以交換相應的黃道文書。"
 17,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_040","……咦？已經沒有和那件武器相關的«黃道文書»了。
 你竟然全部都讀完了啊，可真夠閒的。"
 18,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_045","已將當前武器的黃道文書全部完成。
-把上古武器．魂晶交給林場水車的加爾贊。"
+把上古武器·魂晶交給林場水車的加爾贊。"
 19,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_050","……哎呀，看來你已經把那個種類的古書都看完了啊。
 不過這些不是全部，
 你要不要選擇其他種類的看看？"
@@ -38,8 +38,8 @@ int32,str,str
 然後這個給你，這就是«黃道文書»。
 雖然不知道你要用它幹嘛……不過加油吧。"
 23,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_075","獲得了黃道文書。
-可以開啟「物品」中的「任務道具」，
-透過使用黃道文書，查看試煉內容。"
+可以打開「物品」中的「任務道具」，
+通過使用黃道文書，查看試煉內容。"
 24,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q","確定要用<Value>IntegerParameter(3)</Value>個<Sheet(Item,IntegerParameter(2),0)/>
 交換<Sheet(EventItem,IntegerParameter(1),0)/>嗎？"
 25,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q2","當前所持的武器和黃道文書的進度不符。

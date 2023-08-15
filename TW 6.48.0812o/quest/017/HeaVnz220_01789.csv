@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_HEAVNZ220_01789_SEQ_00","自由腦窟穴的吃不夠很在意這片森林。"
 1,"TEXT_HEAVNZ220_01789_SEQ_01","吃不夠拜託冒險者討伐<Sheet(BNpcName,3568,0)/>。前往龍堡參天高地的荒煙野地，討伐4隻<Sheet(BNpcName,3568,0)/>。"
 2,"TEXT_HEAVNZ220_01789_SEQ_02","討伐了<Sheet(BNpcName,3568,0)/>。向自由腦窟穴的吃不夠報告。"
-3,"TEXT_HEAVNZ220_01789_SEQ_03","將討伐了<Sheet(BNpcName,3568,0)/>一事向吃不夠報告完畢。在他們的認識中，戰鬥只是為了獲得食物的必要手段而已。看樣子他已經吃過<Sheet(BNpcName,3568,0)/>，知道這東西的味道有多糟糕了……"
+3,"TEXT_HEAVNZ220_01789_SEQ_03","將討伐了<Sheet(BNpcName,3568,0)/>一事向吃不夠報告完畢。在他們的認識中，戰鬥只是為了獲取食物的必要手段而已。看樣子他已經吃過<Sheet(BNpcName,3568,0)/>，知道這東西的味道有多糟糕了……"
 4,"TEXT_HEAVNZ220_01789_SEQ_04",""
 5,"TEXT_HEAVNZ220_01789_SEQ_05",""
 6,"TEXT_HEAVNZ220_01789_SEQ_06",""

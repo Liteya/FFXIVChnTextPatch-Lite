@@ -6,14 +6,14 @@ int32,str,str
 只靠著毫無變化的配給食物，大家都會厭煩的！"
 1,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_010","如果你能為百貨市場的發展出一份力的話，那就太好了。
 詳細的事項請你去詢問車前會所的小櫻吧。"
-2,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_020","啊， <Highlight>ObjectParameter(1)</Highlight> 。
+2,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>。
 看來你提供了不少物資啊。
 謝謝你！"
 3,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_021","雖然現在還只是在組建骨架，
 今後將在那裡建一間像樣的廚房和食品店。"
-4,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_022","目前的問題是可以陳列的商品也就只有稻米和蔬菜……
+4,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_022","目前的問題是可以陳列的商品也就只有大米和蔬菜……
 還有一些河魚之類的……"
-5,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_023","這裡的稻米非常美味，
+5,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_023","這裡的大米非常美味，
 只是要是做法能再多些花樣的話就好了，
 那樣的話大家的身心也一定會感到更滿足喜悅的。"
 6,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_024","其實以前我們會去山野裡狩獵，
@@ -23,7 +23,7 @@ int32,str,str
 或者是車前會能夠找新的貿易對象以後才能吃到了……"
 8,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_BROWN00487_000_026","(-？？？？-)喂、喂！
 沒事吧，要挺住啊！"
-9,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_RED00487_000_027","大哥……我這次、可能真的是不行了……
+9,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_RED00487_000_027","大哥……我這回、可能真的是不行了……
 肚子……太餓了……已經……"
 10,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_RED00487_000_028","就算我這麼倒下了……
 你也一定要讓飛燕加入布都嘎部……
@@ -62,7 +62,7 @@ int32,str,str
 26,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_A1_000_044","這就有點……"
 27,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_045","你瞎說什麼呢？！
 你要是亂說話，夕霧和白狼馬上會飛奔過來的啊！
-這可不是被打幾下屁股就能結束的！"
+這可不是被打幾下屁股就能完事的！"
 28,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_046","你們也真是的……
 不過飛燕大人好像也時常懷念在太陽神草原時的生活呢。"
 29,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_047","也許你們可以試試用美食把他勾引走？
@@ -76,14 +76,14 @@ int32,str,str
 33,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_060","啊，你是來看看情況的嗎？
 多虧了你，我這邊很順利。
 今天的味噌湯也放了很多的根菜哦！"
-34,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_070","歡迎光臨， <Highlight>ObjectParameter(1)</Highlight> ！
+34,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_070","歡迎光臨，<Highlight>ObjectParameter(1)</Highlight>！
 快來看啊，我們這漂亮的廚房！"
 35,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_071","這剛蒸好的熱騰騰的包子。
 不僅有太陽神草原風味的肉包子，
 也有加重調味的菜包和甜甜的豆包哦！"
 36,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_072","當然米飯也做好了，
 想要喝湯的話就往右走，
-今天是蘿蔔味噌湯！"
+今天是蘿蔔味噌汁！"
 37,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_073","……是不是很香啊？
 這一切都多虧了你們，真是謝謝了。"
 38,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_FISHER00487_000_074","那個，你就是這裡的負責人三葉吧。
@@ -92,7 +92,7 @@ int32,str,str
 你找我有什麼事嗎？"
 40,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_FISHER00487_000_076","沒別的事，就是我想把從紅玉海捕到的魚批發給你。
 當然貝類和藻類也有很多。"
-41,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_077","你這個提議倒是讓我蠻高興，但是怎麼這麼突然啊。
+41,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_077","你這個提議倒是讓我挺高興，但是怎麼這麼突然啊。
 短時間能捕這麼多魚，是不是什麼異變的前兆啊？"
 42,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_FISHER00487_000_078","不是不是，我們捕魚量沒有多少變化啦……
 應該說是人手變多了……人家給我們的……那個……"
@@ -100,10 +100,10 @@ int32,str,str
 他們希望拿這些來交換酒和陸地上的美食。"
 44,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_080","啊哈，原來如此。
 想必那些傢伙們最近的生活也很難熬吧。
-應該是終於厭煩了每日啃海帶的生活吧。"
+估計是終於厭煩了每日啃海帶的生活吧。"
 45,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_081","……好吧，我答應了！
 對方是幫忙解放多瑪的朋友，
-既然願意用食材來抵帳，那就讓他們吃個飽吧。"
+既然願意用食材來抵賬，那就讓他們吃個飽吧。"
 46,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_082","而且如果是海鮮的話，我可是非常歡迎啊。
 用來燉煮也行，做刺身也不錯……
 章魚呢？有沒有章魚啊？！"
@@ -120,13 +120,13 @@ int32,str,str
 現場烹飪加工後還會賣給那邊的小酒鋪。
 你要不要買點糖回去做禮品啊？"
 52,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_110","你們倆來得正好。
-尤其是 <Highlight>ObjectParameter(1)</Highlight> ，
+尤其是<Highlight>ObjectParameter(1)</Highlight>，
 我一直想讓你看看現在的百貨市場！"
 53,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_111","來吧，用你的眼睛與鼻子去享受這幸福的市場吧！"
 54,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_112","……這裡真的大變樣了。
 就像計劃好的一樣……
 不對，是變成了比預想中還要好的市場！"
-55,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_113","不管哪個都是有了 <Highlight>ObjectParameter(1)</Highlight> 的協助才建成的。
+55,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_113","不管哪個都是有了<Highlight>ObjectParameter(1)</Highlight>的協助才建成的。
 我代表車前會再次向你表示感謝……"
 56,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_114","等、等一下！
 小櫻你這就有點不對了。"
@@ -146,7 +146,7 @@ int32,str,str
 62,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_120","是嗎！
 本來想表達感謝的應該是我才對……
 你們能吃飽喝足了，那就最好了。"
-63,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_121","……在這個時候有點對不起，
+63,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_121","……在這個時候有點對不住，
 小櫻能跟你商量一下工作的話題嗎？"
 64,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_122","其實啊，包括在這個市場使用的鍋、窯之類在內的鐵器，
 全都有些毛病了。"
@@ -158,14 +158,14 @@ int32,str,str
 目前有2個解決方案。"
 67,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_125","一個是在國內建設工房，
 讓多瑪人民重新開始製造物品……"
-68,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_126","另一個是透過貿易賺取外匯，
+68,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_126","另一個是通過貿易賺取外匯，
 用來購買難以製作的物品。"
 69,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_127","不論哪種方案都有各自的優缺點，
-我覺得同時實施比較適合……"
+我覺得同時實施比較合適……"
 70,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_TSURANUKI_000_128","(-？？？？-)哈！
 你說的怎麼這麼沒骨氣啊，小櫻！
 當然是要選擇自己製作啊！"
-71,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_TSURANUKI_000_129","喲，小櫻還有 <Highlight>ObjectParameter(1)</Highlight> 。
+71,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_TSURANUKI_000_129","喲，小櫻還有<Highlight>ObjectParameter(1)</Highlight>。
 是我呀，我是參加過攻打多瑪城作戰的鍛鐵匠貫啊！"
 72,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_TSURANUKI_000_130","看到你們建好了一個不錯的市場，我就是來喝一杯的，
 但讓我聽到了不能置之不理的話題啊，
@@ -174,7 +174,7 @@ int32,str,str
 比起打鐵，你還是先把自己的腦袋重新鍛造一下吧。"
 74,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_132","那個……這邊這位是蘭師傅……
 是多瑪傳統工藝之一撈紙的大師。"
-75,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_ARARAGI_000_133","……小櫻你沒必要搭理這個白痴。
+75,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_ARARAGI_000_133","……小櫻你沒必要搭理這個白癡。
 我覺得你說的那個「賣出買入」的方案也有道理。"
 76,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_ARARAGI_000_134","現在這個國家還沒進入正軌……
 只能先和外界互幫互助，把最起碼的事情做好才對。"
@@ -185,7 +185,7 @@ int32,str,str
 79,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_137","不、不管是自己製作日用品，
 還是製作銷售工藝品，
 最終的目標都是讓匠人街重建起來！"
-80,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_138"," <Highlight>ObjectParameter(1)</Highlight> ，你如果還有能夠出讓給我們的物品的話，
+80,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_138","<Highlight>ObjectParameter(1)</Highlight>，你如果還有能夠出讓給我們的物品的話，
 請繼續放進<Sheet(EObj,2009567,0)/>裡，
 就請你、就請你多多關照了！"
 81,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_SYSTEM_000_139","百貨市場建設完成！
@@ -197,8 +197,8 @@ int32,str,str
 83,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_150","多虧匠人街的建設完成了，我們這邊廚具的問題也解決了。
 就算現在有再多的食材送到這裡，
 我們也能輕鬆地處理給你看！"
-84,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_160","在農耕地種出的稻米當然也會賣到我這裡。
-而且這種米好吃的讓人慾罷不能啊！
+84,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_160","在農耕地種出的大米當然也會賣到我這裡。
+而且這種米好吃的讓人欲罷不能啊！
 不僅適合用來做壽司，做出的飯糰、蓋飯什麼的全都好吃！"
 85,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_170","這裡的人們幹活很賣力所以胃口就很好。
 這樣我們做飯的才有幹勁嘛！

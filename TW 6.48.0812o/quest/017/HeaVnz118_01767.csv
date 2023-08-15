@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ118_01767_SEQ_00","聖菲內雅連隊露營地的讓泰洛的傷口很疼。"
-1,"TEXT_HEAVNZ118_01767_SEQ_01","讓泰洛交給冒險者一個<Sheet(EventItem,2001603,0)/>。前往庫爾札斯西部高地的龍涎，在當地的溫泉獲得<Sheet(EObj,2005591,0)/>。"
+1,"TEXT_HEAVNZ118_01767_SEQ_01","讓泰洛交給冒險者一個<Sheet(EventItem,2001603,0)/>。前往庫爾札斯西部高地的龍涎，在當地的溫泉獲取<Sheet(EObj,2005591,0)/>。"
 2,"TEXT_HEAVNZ118_01767_SEQ_02","將<Sheet(EventItem,2001603,0)/>裝滿了<Sheet(EventItem,2001604,0)/>。將<Sheet(EventItem,2001604,0)/>帶回去交給聖菲內雅連隊露營地的讓泰洛。"
 3,"TEXT_HEAVNZ118_01767_SEQ_03","將<Sheet(EventItem,2001604,0)/>交給了讓泰洛。這種溫泉水對傷口的恢復有一定的治療效果。"
 4,"TEXT_HEAVNZ118_01767_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ118_01767_SEQ_21",""
 22,"TEXT_HEAVNZ118_01767_SEQ_22",""
 23,"TEXT_HEAVNZ118_01767_SEQ_23",""
-24,"TEXT_HEAVNZ118_01767_TODO_00","獲得<Sheet(EObj,2005591,0)/>"
+24,"TEXT_HEAVNZ118_01767_TODO_00","獲取<Sheet(EObj,2005591,0)/>"
 25,"TEXT_HEAVNZ118_01767_TODO_01","將<Sheet(EventItem,2001604,0)/>交給讓泰洛"
 26,"TEXT_HEAVNZ118_01767_TODO_02",""
 27,"TEXT_HEAVNZ118_01767_TODO_03",""
@@ -52,9 +52,9 @@ int32,str,str
 48,"TEXT_HEAVNZ118_01767_JANTELLOT_000_000","疼疼疼……哎喲這……
 呵，讓你見笑了。
 我一時大意，就成了這副模樣。"
-49,"TEXT_HEAVNZ118_01767_JANTELLOT_000_001","雖說發現了高級的龍族是件好事，
+49,"TEXT_HEAVNZ118_01767_JANTELLOT_000_001","雖說發現了上級的龍族是件好事，
 可我不但沒能幹掉它，反而被它狠狠地咬了一口。
-不趕緊把傷口治好，這計劃可就沒辦法進行了。"
+不趕緊把傷口治好，這計劃可就沒法進行了。"
 50,"TEXT_HEAVNZ118_01767_JANTELLOT_000_002","龍涎那裡倒是有溫泉……
 能麻煩你跑一趟，幫我從那裡帶回些<Sheet(EventItem,2001604,0)/>嗎？
 那裡的溫泉對傷口癒合很有幫助。"

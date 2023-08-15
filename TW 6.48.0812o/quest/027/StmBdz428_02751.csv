@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_STMBDZ428_02751_TODO_23",""
 48,"TEXT_STMBDZ428_02751_GYORIN_000_000","我打算向魚譜先生諮詢，
 看他有沒有什麼建議。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也一起來聽吧。"
+<Highlight>ObjectParameter(1)</Highlight>也一起來聽吧。"
 49,"TEXT_STMBDZ428_02751_GYOFU_000_001","怎麼了噗？
 魚鱗那傢伙，垂頭喪氣的噗。"
 50,"TEXT_STMBDZ428_02751_GYORIN_000_010","魚譜先生，魚譜先生。
@@ -73,15 +73,15 @@ int32,str,str
 56,"TEXT_STMBDZ428_02751_GYOFU_000_016","也許那裡面有著連多瑪的人都不會製作的
 不得了的寶物啊噗。"
 57,"TEXT_STMBDZ428_02751_GYOFU_000_017","……不過，那一帶有很多墮落成盜賊的狼人族，
-還有很多凶猛的蜪犬，實在很危險……
+還有很多兇猛的蜪犬，實在很危險……
 死了也就不能成為有錢人了，千萬別輕舉妄動啊噗。"
-58,"TEXT_STMBDZ428_02751_GYORIN_000_018","噢噢，那裡說不定會有寶物嗎？！
+58,"TEXT_STMBDZ428_02751_GYORIN_000_018","噢噢，那裡沒準會有寶物嗎？！
 謝謝你提供這麼好的消息！"
 59,"TEXT_STMBDZ428_02751_GYORIN_000_019","畫卷裡面說過，
 要想成為有錢人，
 就要做好準備，挑戰危險。"
 60,"TEXT_STMBDZ428_02751_GYORIN_000_020","不過，我還是有點害怕，
-所以， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 可否來陪我？
+所以，<Highlight>ObjectParameter(1)</Highlight>可否來陪我？
 我這就出發了，跟我來吧！"
 61,"TEXT_STMBDZ428_02751_GYOFU_000_021","魚鱗那傢伙，怎麼就不聽取忠告呢噗……
 旅行者啊，魚鱗就拜託給你了噗！"
@@ -96,7 +96,7 @@ int32,str,str
 發現有好多可怕的狼人族在那裡。"
 66,"TEXT_STMBDZ428_02751_GYORIN_000_042","我想請你吸引他們的注意力，
 而我則趁機收集值錢的東西。
-我相信 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的實力，拜託了！"
+我相信<Highlight>ObjectParameter(1)</Highlight>的實力，拜託了！"
 67,"TEXT_STMBDZ428_02751_POPMESSAGE_100_042","敵人發起了攻擊！"
 68,"TEXT_STMBDZ428_02751_GYORIN_000_050","謝謝你吸引了他們的注意力！
 戰鬥的聲音讓我好害怕，
@@ -129,6 +129,6 @@ int32,str,str
 79,"TEXT_STMBDZ428_02751_GYORIN_000_069","我決定了……
 從今天開始，我要開一家店！名字就叫「暴發戶」！
 人頭攢動，生意興隆，我會挺起鬍子，繼續努力的！"
-80,"TEXT_STMBDZ428_02751_GYORIN_000_070","這一切都多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫助！
+80,"TEXT_STMBDZ428_02751_GYORIN_000_070","這一切都多虧了<Highlight>ObjectParameter(1)</Highlight>的幫助！
 真的謝謝你！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 真是我的好朋友！"
+<Highlight>ObjectParameter(1)</Highlight>真是我的好朋友！"

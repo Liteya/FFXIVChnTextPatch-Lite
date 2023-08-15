@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ634_01902_SEQ_00","雲頂營地的卡里博正眺望著農田。"
-1,"TEXT_HEAVNZ634_01902_SEQ_01","卡里博委託冒險者收集<Sheet(EventItem,2001656,0)/>。在阿巴拉提亞雲海的牧牛臺獲得<Sheet(EventItem,2001656,0)/>。"
+1,"TEXT_HEAVNZ634_01902_SEQ_01","卡里博委託冒險者收集<Sheet(EventItem,2001656,0)/>。在阿巴拉提亞雲海的牧牛台獲取<Sheet(EventItem,2001656,0)/>。"
 2,"TEXT_HEAVNZ634_01902_SEQ_02","收集了<Sheet(EventItem,2001656,0)/>。將<Sheet(EventItem,2001656,0)/>交給雲頂營地的卡里博。"
 3,"TEXT_HEAVNZ634_01902_SEQ_03","將<Sheet(EventItem,2001656,0)/>交給了卡里博。因為雲海的土壤養分非常少，所以需要用這種黑土撒到田裡。……事後要好好洗洗手才行。"
 4,"TEXT_HEAVNZ634_01902_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ634_01902_SEQ_21",""
 22,"TEXT_HEAVNZ634_01902_SEQ_22",""
 23,"TEXT_HEAVNZ634_01902_SEQ_23",""
-24,"TEXT_HEAVNZ634_01902_TODO_00","獲得<Sheet(EventItem,2001656,0)/>"
+24,"TEXT_HEAVNZ634_01902_TODO_00","獲取<Sheet(EventItem,2001656,0)/>"
 25,"TEXT_HEAVNZ634_01902_TODO_01","將<Sheet(EventItem,2001656,0)/>交給卡里博"
 26,"TEXT_HEAVNZ634_01902_TODO_02",""
 27,"TEXT_HEAVNZ634_01902_TODO_03",""

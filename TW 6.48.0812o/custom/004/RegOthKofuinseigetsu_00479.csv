@@ -8,7 +8,7 @@ int32,str,str
 來解讀各種書籍，學習有關祭禮的知識。"
 2,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_001","«諸國風俗問狀答»乃是遠東之國的御用學者
 向各地的學問人寄送了問卷，並將問卷答案回收整理而成的書籍。
-透過這本書籍可以學到各種地域的傳統文化。"
+通過這本書籍可以學到各種地域的傳統文化。"
 3,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_002","雖然還有不少改善的餘地，
 但是你不覺得建有轉魂塔的祭場很具有文明的氣息嗎？"
 4,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_003","如果你在黃金港找到了不錯的書籍的話，
@@ -40,12 +40,12 @@ int32,str,str
 15,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_014","據«諸國風俗問狀答»記載，祭禮謝禮用來答謝準備祭禮的人們，
 感謝他們幫忙烘托出與常日不同的絢爛風景，
 也感謝他們讓參加者忘記了平凡的日常、享受快樂。"
-16,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_015","現在我正在執筆註定會受萬人追捧的著作«大鯰大祭記»，
+16,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_015","現在我正在執筆注定會受萬人追捧的著作«大鯰大祭記»，
 等到脫稿之日，我想把你的名字也寫進謝辭裡。
 你就期待著書籍的完成吧。"
 17,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_050","我就在這裡等待魚麗的歸來。
 希望不會出什麼意外……"
-18,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_051","你回來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。話說魚信怎麼了？"
+18,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_051","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>。話說魚信怎麼了？"
 19,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_052","我已經從魚信那裡知道了現在的情況，
 我們在準備好計策之後就前往黃金港。"
 20,"TEXT_REGOTHKOFUINSEIGETSU_00479_KOFUINSEIGETSU_000_053","我和魚信一起對神轎進行了改造，延長了神轎的飛行距離。

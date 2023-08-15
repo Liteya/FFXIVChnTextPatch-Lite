@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB409_00865_SEQ_00","瞭望陣營地的布魯艾丁，回想起了某件事。"
-1,"TEXT_GAIUSB409_00865_SEQ_01","<Sheet(BNpcName,1980,0)/>正是使得布拉烏吉巴爾負傷的元凶，他說不定就在附近。為了誘出<Sheet(BNpcName,1980,0)/>，冒險者要找出<Sheet(EObj,2002093,0)/>，並用<Sheet(EventItem,2000672,0)/>摧毀它。"
+1,"TEXT_GAIUSB409_00865_SEQ_01","<Sheet(BNpcName,1980,0)/>正是使得布拉烏吉巴爾負傷的元兇，他說不定就在附近。為了誘出<Sheet(BNpcName,1980,0)/>，冒險者要找出<Sheet(EObj,2002093,0)/>，並用<Sheet(EventItem,2000672,0)/>摧毀它。"
 2,"TEXT_GAIUSB409_00865_SEQ_02","在<Sheet(EObj,2002259,0)/>等待，打倒現身的<Sheet(BNpcName,1980,0)/>。"
 3,"TEXT_GAIUSB409_00865_SEQ_03","打倒<Sheet(BNpcName,1980,0)/>，獲得了<Sheet(EventItem,2000871,0)/>。讓瞭望陣營地的布魯艾丁查看。"
 4,"TEXT_GAIUSB409_00865_SEQ_04","將<Sheet(BNpcName,1980,0)/>的討伐過程向布魯艾丁彙報完畢。將<Sheet(EventItem,2000871,0)/>交給石綠湖營地的布拉烏吉巴爾。"
@@ -74,9 +74,9 @@ int32,str,str
 說不好會反過來進攻這裡。
 我會留在此處加強戒備。"
 56,"TEXT_GAIUSB409_00865_DUMMY_000_010","用炸藥炸毀3個地靈族的爆破筒"
-57,"TEXT_GAIUSB409_00865_TODO_000_010","（★未使用／削除予定★）"
+57,"TEXT_GAIUSB409_00865_TODO_000_010","（未使用/預計刪除）"
 58,"TEXT_GAIUSB409_00865_DUMMY_000_020","在最後的大爆破筒處等待，打倒出現的地靈族"
-59,"TEXT_GAIUSB409_00865_TODO_000_020","（★未使用／削除予定★）"
+59,"TEXT_GAIUSB409_00865_TODO_000_020","（未使用/預計刪除）"
 60,"TEXT_GAIUSB409_00865_BLOEIDIN_000_030","怎麼樣？！
 <Sheet(BNpcName,1980,0)/>出現了嗎？！"
 61,"TEXT_GAIUSB409_00865_BLOEIDIN_000_031","這是……他的頭盔？！

@@ -73,7 +73,7 @@ int32,str,str
 嘻嘻，嘻嘻嘻嘻嘻。"
 57,"TEXT_CLSWDK001_00139_BEATINE_000_10","哎呀……
 已經製作完成3面「<Sheet(Item,2219,0)/>」了嗎？"
-58,"TEXT_CLSWDK001_00139_BEATINE_000_11","…… <Highlight>ObjectParameter(1)</Highlight> ……
+58,"TEXT_CLSWDK001_00139_BEATINE_000_11","……<Highlight>ObjectParameter(1)</Highlight>……
 這個……簡直……哇……"
 59,"TEXT_CLSWDK001_00139_BEATINE_000_12","完美無缺的「<Sheet(Item,2219,0)/>」！
 真是令人嘆為觀止……"
@@ -105,7 +105,7 @@ int32,str,str
 71,"TEXT_CLSWDK001_00139_BEATINE_000_24","當你可以熟練地使用羊角錘，
 為更多的木材灌注力量的時候……
 我將會給予你第三個試煉。"
-72,"TEXT_CLSWDK001_00139_SYSTEM_000_30","透過改變裝備，
+72,"TEXT_CLSWDK001_00139_SYSTEM_000_30","通過改變裝備，
 可以提高「作業精度」、「加工精度」和「製作力」。"
 73,"TEXT_CLSWDK001_00139_SYSTEM_000_31","「作業精度」是提升作業進度的能力，
 「加工精度」是提升製品品質的能力，

@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSC303_00970_SEQ_22",""
 23,"TEXT_GAIUSC303_00970_SEQ_23",""
 24,"TEXT_GAIUSC303_00970_TODO_00","將<Sheet(EventItem,2000749,0)/>交給德蕾希亞"
-25,"TEXT_GAIUSC303_00970_TODO_01","討伐魔物 同時獲得<Sheet(EventItem,2000750,0)/>"
+25,"TEXT_GAIUSC303_00970_TODO_01","討伐魔物 同時獲取<Sheet(EventItem,2000750,0)/>"
 26,"TEXT_GAIUSC303_00970_TODO_02","將<Sheet(EventItem,2000750,0)/>交給凱因"
 27,"TEXT_GAIUSC303_00970_TODO_03",""
 28,"TEXT_GAIUSC303_00970_TODO_04",""
@@ -70,9 +70,9 @@ int32,str,str
 它偶爾會掉落在百靈啼那一帶呢呼啾。"
 56,"TEXT_GAIUSC303_00970_DELLEXIA_000_013","不過，百靈啼附近有很多壞妖精呼啾。
 你要是去那一帶的話，一定要多加小心呼啾！"
-57,"TEXT_GAIUSC303_00970_DUMMY_000_020","點選百靈啼的<Sheet(EventItem,2000750,0)/>，
+57,"TEXT_GAIUSC303_00970_DUMMY_000_020","點擊百靈啼的<Sheet(EventItem,2000750,0)/>，
 打倒襲來的精煉妖精，獲得3個<Sheet(EventItem,2000750,0)/>。"
-58,"TEXT_GAIUSC303_00970_TODO_000_021","（★未使用／削除予定★）"
+58,"TEXT_GAIUSC303_00970_TODO_000_021","（未使用/預計刪除）"
 59,"TEXT_GAIUSC303_00970_KAIN_000_030","真是漂亮……
 要是能再加上可愛動人的妖精鈴蘭，
 這裡就完美無缺了……"

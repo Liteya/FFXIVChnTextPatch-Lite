@@ -6,12 +6,12 @@ int32,str,str
 1,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_001","我聽說阿拉基利解放了，
 就趕到了這裡，想要狩獵這附近的怪物。
 我可以給你介紹介紹比較受關注的獵物。"
-2,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_Q1_000_000","想瞭解什麼？"
-3,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_001","關於B級魔物：食夫毒婦——蛇僕螞蜓"
-4,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_002","關於B級魔物：食魚巨漢——布卡卜"
-5,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_003","關於A級魔物：藍毛獅鷲——弗克施泰因"
-6,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_004","關於A級魔物：火炎驕子——熔骨炎蠍"
-7,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_005","關於S級魔物：最後的暴君——爬骨怪龍"
+2,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_Q1_000_000","想了解什麼？"
+3,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_001","關於B級怪物：食夫毒婦——蛇僕螞蜓"
+4,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_002","關於B級怪物：食魚巨漢——布卡卜"
+5,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_003","關於A級怪物：藍毛獅鷲——弗克施泰因"
+6,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_004","關於A級怪物：火炎驕子——熔骨炎蠍"
+7,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_005","關於S級怪物：最後的暴君——爬骨怪龍"
 8,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_A1_000_006","取消"
 9,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_010","百蟲綱魔物恐甲螞蜓的雌性要比雄性體格強壯，
 而且更有力氣。"
@@ -35,7 +35,7 @@ int32,str,str
 但是，遭到帝國侵略後，情況就發生了翻天覆地的轉變。"
 17,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_032","因為不想讓獅鷲被帝國軍奪去，
 弗克施泰因家的家主就將家畜棚的大門打開，
-讓這些凶猛的捕食者重返了藍天。"
+讓這些兇猛的捕食者重返了藍天。"
 18,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_040","說到帝國軍補給部隊的襲擊者，
 一般會想到阿拉米格解放軍，
 但似乎也有例外。"
@@ -44,7 +44,7 @@ int32,str,str
 它的目標就是魔導兵器的燃料——青磷水。"
 20,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_042","每當熔骨炎蠍奪取青磷水後，吐出的火焰熱量都會增加，
 甚至連追擊它的帝國軍部隊都束手無策。
-它不斷地重複著奪取青磷水的行為，威脅程度日益增加。"
+它不斷地重覆著奪取青磷水的行為，威脅程度日益增加。"
 21,"TEXT_CTSHNT40ALAGHIRI_00429_WICKEDAMBUSH_000_050","曾經，在東方貿易繁盛的時期，
 人們為了守護街道的安寧，僱傭了許多傭兵來狩獵魔物。
 甚至有物種因此遭到滅絕。"

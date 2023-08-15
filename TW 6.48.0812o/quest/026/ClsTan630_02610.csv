@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CLSTAN630_02610_SEQ_00","樹蔭東屋入口附近的阿特魯納已經做好了製作標本的準備。"
-1,"TEXT_CLSTAN630_02610_SEQ_01","和阿特魯納進行了交談。聽說她已經決定將標本擺在製革匠公會的空地上。為了製作亨格長頸駝的標本，先要找瓦努族打聽一下。在會合地點——阿巴拉提亞雲海的尊杜集落附近和阿特魯納談談。"
+1,"TEXT_CLSTAN630_02610_SEQ_01","和阿特魯納進行了交談。聽說她已經決定將標本擺在製革匠公會的空地上。為了製作亨格長頸駝的標本，先要找瓦努族打聽一下。在匯合地點——阿巴拉提亞雲海的尊杜集落附近和阿特魯納談談。"
 2,"TEXT_CLSTAN630_02610_SEQ_02","和阿特魯納進行了交談。阿特魯納似乎有話想和尊杜集落的長老說。和尊杜集落的索努瓦努談談。"
 3,"TEXT_CLSTAN630_02610_SEQ_03","和索努瓦努進行了交談。索努瓦努出於好意去幫冒險者尋找亨格長頸駝的屍體，而阿特魯納則讓冒險者與艾尼恩一起前去觀察長頸駝。在尊杜集落東南的<Sheet(EObj,2008261,0)/>觀察巨大長頸駝的全身。"
 4,"TEXT_CLSTAN630_02610_SEQ_04","對長頸駝進行了觀察。返回尊杜集落，向阿特魯納報告。"
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_CLSTAN630_02610_TODO_21",""
 46,"TEXT_CLSTAN630_02610_TODO_22",""
 47,"TEXT_CLSTAN630_02610_TODO_23",""
-48,"TEXT_CLSTAN630_02610_ATELLOUNE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來啦。
+48,"TEXT_CLSTAN630_02610_ATELLOUNE_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來啦。
 標本的展覽地點終於定下來了！
 蓋娃說我們可以使用製革匠公會下面的空地。"
 49,"TEXT_CLSTAN630_02610_ATELLOUNE_101_000","她似乎是想表示自己支持我的工作，
@@ -71,7 +71,7 @@ int32,str,str
 不過我還是希望能弄到可以製成標本的亨格長頸駝的屍體。"
 54,"TEXT_CLSTAN630_02610_ATELLOUNE_000_002","啊，當然是要自然死亡的那種哦。千萬不能把活生生的長頸駝
 打死再捉回來，這麼愚蠢的行為與我們的事業是完全相悖的。
-說到這裡……你認不認識什麼對長頸駝比較瞭解的雲海居民？"
+說到這裡……你認不認識什麼對長頸駝比較了解的雲海居民？"
 55,"TEXT_CLSTAN630_02610_Q1_000_000","熟悉長頸駝的雲海居民是指？"
 56,"TEXT_CLSTAN630_02610_A1_000_001","瓦努族……"
 57,"TEXT_CLSTAN630_02610_A1_000_002","胖鳥……"
@@ -85,7 +85,7 @@ int32,str,str
 我帶著艾尼恩先走一步。"
 61,"TEXT_CLSTAN630_02610_ENION_000_000","阿特魯納小姐一直找不到展覽地點，看上去很是頭疼。
 我覺得……可能是她拜託別人的方式有問題。"
-62,"TEXT_CLSTAN630_02610_ATELLOUNE_000_010","等你半天了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+62,"TEXT_CLSTAN630_02610_ATELLOUNE_000_010","等你半天了，<Highlight>ObjectParameter(1)</Highlight>，
 快快，快把我們介紹給瓦努族。"
 63,"TEXT_CLSTAN630_02610_ATELLOUNE_000_011","如果要打聽事情的話，嗯……
 還是找集落的長老比較好吧？
@@ -106,7 +106,7 @@ int32,str,str
 皮做成衣服，骨頭就像這樣，用在建築物上，
 這是我們的習俗。"
 70,"TEXT_CLSTAN630_02610_ATELLOUNE_200_021","原來如此，捕捉到的生命要徹底加以利用，絕不能浪費啊……
-瓦努族也蠻能幹的嘛。"
+瓦努族也挺能幹的嘛。"
 71,"TEXT_CLSTAN630_02610_SONUVANU_200_022","因為這全是由我們的自私而奪走的生命啊……
 言歸正傳、言歸正傳，你們要找的亨格長頸駝正如其名，
 過去大多生活在亨格坩堝。"
@@ -116,7 +116,7 @@ int32,str,str
 73,"TEXT_CLSTAN630_02610_ATELLOUNE_300_021","謝謝你，真是幫了我們大忙了。
 那我們就在這裡等吧。"
 74,"TEXT_CLSTAN630_02610_ENION_000_023","那個……人家肯幫我們找長頸駝雖然很好，
-可這樣我們就沒辦法看到活生生的亨格長頸駝了！
+可這樣我們就沒法看到活生生的亨格長頸駝了！
 我也是第一次來這裡，也從來沒見過亨格長頸駝……"
 75,"TEXT_CLSTAN630_02610_ATELLOUNE_000_024","哎呀……這的確是個問題呢。
 為了製作還原度高的標本，觀察是很必要的。"
@@ -125,7 +125,7 @@ int32,str,str
 如果想觀察的話，只要觀察這附近的長頸駝應該就足夠了。"
 77,"TEXT_CLSTAN630_02610_ATELLOUNE_100_024","有你這句話我就放心了。
 那我們現在該做的，就是去觀察長頸駝！"
-78,"TEXT_CLSTAN630_02610_ATELLOUNE_000_025"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你就帶著艾尼恩去好好觀察一下附近的長頸駝吧。
+78,"TEXT_CLSTAN630_02610_ATELLOUNE_000_025","<Highlight>ObjectParameter(1)</Highlight>，你就帶著艾尼恩去好好觀察一下附近的長頸駝吧。
 要把它的全身上下都看個一清二楚哦！"
 79,"TEXT_CLSTAN630_02610_SONUVANU_000_026","長頸駝都棲息在尊杜集落的東南處……
 你們要小心，別像絨毛一樣迷失了方向。"
@@ -136,7 +136,7 @@ int32,str,str
 仔細地觀察它的全身吧！"
 82,"TEXT_CLSTAN630_02610_SYSTEM_100_040","接下來就開始觀察了。
 如果你發現了巨大的長頸駝，在瞄準後
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察！"
 83,"TEXT_CLSTAN630_02610_ENION_000_040","（★未使用／削除予定★）"
 84,"TEXT_CLSTAN630_02610_ENION_000_041","哇……雖然我在畫上看過長頸駝，
 但活的長頸駝更有魄力呢！
@@ -150,11 +150,11 @@ int32,str,str
 87,"TEXT_CLSTAN630_02610_SONUVANU_000_046","怎麼了、怎麼了，人類勇者啊。
 長頸駝就棲息在尊杜集落的東南方。"
 88,"TEXT_CLSTAN630_02610_SANUVANU_000_047","怎麼了、怎麼了，人類勇者啊。
-獲得長頸駝的工作就交給我們，你只需要去觀察就好。"
+獲取長頸駝的工作就交給我們，你只需要去觀察就好。"
 89,"TEXT_CLSTAN630_02610_ENION_000_048","長頸駝好像就在這附近。
 稍微有點遠，
 我們選一隻最大個的長頸駝來觀察它的全身吧！"
-90,"TEXT_CLSTAN630_02610_ATELLOUNE_000_050","回來啦 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+90,"TEXT_CLSTAN630_02610_ATELLOUNE_000_050","回來啦<Highlight>ObjectParameter(1)</Highlight>，
 你們已經仔細觀察過長頸駝了是吧。
 我這邊也拿到了瓦努族獵人帶回來的屍體。"
 91,"TEXT_CLSTAN630_02610_ATELLOUNE_100_050","外表乍看上去跟長頸駝沒什麼分別，
@@ -172,7 +172,7 @@ int32,str,str
 反正你能用乙太之晶，不如自己想辦法回去？
 至於報酬……這項事業可以賦予你的充實感就足夠了吧。"
 96,"TEXT_CLSTAN630_02610_ATELLOUNE_000_053","那麼，之後就在標本的展覽地點——
-格里達尼亞製革匠公會的空地上會合吧。"
+格里達尼亞製革匠公會的空地上匯合吧。"
 97,"TEXT_CLSTAN630_02610_ENION_000_055","原來長頸駝倒下來是這樣的啊……
 因為剛才才見過它生氣勃勃的模樣，
 現在這副樣子就更讓人印象深刻了。"
@@ -182,7 +182,7 @@ int32,str,str
 心裡就像照耀小島的陽光一樣高興！"
 100,"TEXT_CLSTAN630_02610_HANTERVANUVANU02610_000_058","怎麼了、怎麼了，人類勇者啊！
 不需要向我們道謝，因為你對我們有恩啊！"
-101,"TEXT_CLSTAN630_02610_ATELLOUNE_000_060","你來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+101,"TEXT_CLSTAN630_02610_ATELLOUNE_000_060","你來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 那隻從阿巴拉提亞雲海運回來的亨格長頸駝的屍體，
 我已經讓艾尼恩在不傷害它的同時把它加以分解了。"
 102,"TEXT_CLSTAN630_02610_ATELLOUNE_000_061","給，這就是從那隻亨格長頸駝身上剝下來的皮，
@@ -192,19 +192,19 @@ int32,str,str
 讓它變成能夠長時間保存的<Sheet(ItemHQ,17910,0)/>。"
 104,"TEXT_CLSTAN630_02610_ATELLOUNE_000_063","製作完成後就把東西交給艾尼恩，
 後面就是他的工作了。"
-105,"TEXT_CLSTAN630_02610_ATELLOUNE_100_063","如果有高品質的<Sheet(ItemHQ,17910,0)/>，
+105,"TEXT_CLSTAN630_02610_ATELLOUNE_100_063","如果有優質的<Sheet(ItemHQ,17910,0)/>，
 我想他一定就可以做出完美的標本！"
 106,"TEXT_CLSTAN630_02610_SYSTEM_100_063","在能工巧匠的職業任務中，
 需要使用任務裡獲得的材料進行製作。"
 107,"TEXT_CLSTAN630_02610_SYSTEM_100_064","如果製作失敗，
-可以透過和相關非玩家角色對話再次獲得材料。"
+可以通過和相關非玩家角色對話再次獲得材料。"
 108,"TEXT_CLSTAN630_02610_SYSTEM_100_065","讓我們來實際體驗一下吧！
-開啟「製作筆記」裡的「特殊配方」，
+打開「製作筆記」裡的「特殊配方」，
 從「職業故事」中選擇要製作的道具後，就可以開始製作了。"
 109,"TEXT_CLSTAN630_02610_ATELLOUNE_000_065","長頸駝就交給我們了。
 等處理好之後，我們在我選的那個展覽地點——
-格里達尼亞製革匠公會的空地上會合。"
-110,"TEXT_CLSTAN630_02610_ENION_000_066"," <Highlight>ObjectParameter(1)</Highlight> ，就算是為了人家給我們的長頸駝，
+格里達尼亞製革匠公會的空地上匯合。"
+110,"TEXT_CLSTAN630_02610_ENION_000_066","<Highlight>ObjectParameter(1)</Highlight>，就算是為了人家給我們的長頸駝，
 我們也要做出好標本來！"
 111,"TEXT_CLSTAN630_02610_ENION_000_070","我這邊的準備工作就快做好了。
 如果<Sheet(ItemHQ,17910,0)/>製作完畢就交給我吧，
@@ -213,18 +213,18 @@ int32,str,str
 真是一張漂亮的毛皮！
 你居然處理得這麼完美，連下腹的逆毛都沒有損傷到！"
 113,"TEXT_CLSTAN630_02610_ENION_100_071","那些硬邦邦的毛是長頸駝種族的特徵，在製作毛皮的時候
-想要把它們原封不動地留下來是需要非常高超的技術的！ <Highlight>ObjectParameter(1)</Highlight> 的手藝可真讓我感動！"
+想要把它們原封不動地留下來是需要非常高超的技術的！<Highlight>ObjectParameter(1)</Highlight>的手藝可真讓我感動！"
 114,"TEXT_CLSTAN630_02610_ATELLOUNE_000_072","好了，接下來就是艾尼恩的工作了……
 你可要好好幹活，
-別浪費了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 製作的毛皮！"
+別浪費了<Highlight>ObjectParameter(1)</Highlight>製作的毛皮！"
 115,"TEXT_CLSTAN630_02610_ATELLOUNE_000_073","你也留在這裡看看艾尼恩的工作吧。
 一方面他有可能需要你的幫助，另一方面，對於製革匠來說，
 這也是個能夠看到製作標本過程的好機會，不是嗎？"
-116,"TEXT_CLSTAN630_02610_ENION_000_074","在 <Highlight>ObjectParameter(1)</Highlight> 的眼皮底下工作……
+116,"TEXT_CLSTAN630_02610_ENION_000_074","在<Highlight>ObjectParameter(1)</Highlight>的眼皮底下工作……
 雖然很讓人緊張，但我會加油的！"
 117,"TEXT_CLSTAN630_02610_ENION_000_075","鏘鏘！完成了！
 我把亨格長頸駝的標本做好了！"
-118,"TEXT_CLSTAN630_02610_ENION_000_076","還要感謝 <Highlight>ObjectParameter(1)</Highlight> 幫我把毛皮黏上去，
+118,"TEXT_CLSTAN630_02610_ENION_000_076","還要感謝<Highlight>ObjectParameter(1)</Highlight>幫我把毛皮黏上去，
 這個標本看著真是栩栩如生！"
 119,"TEXT_CLSTAN630_02610_ATELLOUNE_000_077","原來如此……你用了長頸駝的大腿骨
 來加強承重的脖子啊。"
@@ -233,13 +233,13 @@ int32,str,str
 我又學會了很多新知識！"
 121,"TEXT_CLSTAN630_02610_ATELLOUNE_101_077","你們兩個都做得很不錯。
 這個標本很適合用來宣傳我們的事業。"
-122,"TEXT_CLSTAN630_02610_ATELLOUNE_000_078","自從伊修加爾德對外開放後，長頸駝革就作為皮革材料傳到了各地，
+122,"TEXT_CLSTAN630_02610_ATELLOUNE_000_078","自從伊修加德對外開放後，長頸駝革就作為皮革材料傳到了各地，
 連格里達尼亞這裡也經常能看到。
 如果把這個標本擺出來，就能讓更多人知道長頸駝原本的模樣了。"
 123,"TEXT_CLSTAN630_02610_ATELLOUNE_000_079","不過，這才只是一個開始而已！
-為了讓更多人瞭解我研究的偉大之處，我得快點選好接下來的題材。
+為了讓更多人了解我研究的偉大之處，我得快點選好接下來的題材。
 等我選好之後，就要繼續拜託你們了。"
-124,"TEXT_CLSTAN630_02610_ATELLOUNE_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，<Sheet(ItemHQ,17910,0)/>已經做好了嗎？
+124,"TEXT_CLSTAN630_02610_ATELLOUNE_000_085","<Highlight>ObjectParameter(1)</Highlight>，<Sheet(ItemHQ,17910,0)/>已經做好了嗎？
 如果做好了的話，就去拿給艾尼恩吧。"
 125,"TEXT_CLSTAN630_02610_ATELLOUNE_000_086","你還想要<Sheet(Item,17909,0)/>？
 ……唉，我真是太明智了。

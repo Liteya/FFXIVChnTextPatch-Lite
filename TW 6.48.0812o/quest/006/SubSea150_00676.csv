@@ -59,10 +59,10 @@ int32,str,str
 51,"TEXT_SUBSEA150_00676_MIOUNNE_000_10","啊，歡迎光臨。
 請隨意坐。
 哎？真是抱歉……"
-52,"TEXT_SUBSEA150_00676_MIOUNNE_000_11","巴德龍在聯繫裡所說的那個冒險者居然會是你啊。"
-53,"TEXT_SUBSEA150_00676_MIOUNNE_000_12","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+52,"TEXT_SUBSEA150_00676_MIOUNNE_000_11","巴德龍在聯絡裡所說的那個冒險者居然會是你啊。"
+53,"TEXT_SUBSEA150_00676_MIOUNNE_000_12","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>。
 你能來那我就放心了。"
-54,"TEXT_SUBSEA150_00676_MIOUNNE_000_13","我收到巴德龍的聯繫，
+54,"TEXT_SUBSEA150_00676_MIOUNNE_000_13","我收到巴德龍的聯絡，
 他所說的冒險者就是你嗎？"
 55,"TEXT_SUBSEA150_00676_MIOUNNE_000_14","我是繆恩。
 是這家魔女咖啡館的店主。

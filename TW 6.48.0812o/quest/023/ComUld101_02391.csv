@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_COMULD101_02391_TODO_21",""
 46,"TEXT_COMULD101_02391_TODO_22",""
 47,"TEXT_COMULD101_02391_TODO_23",""
-48,"TEXT_COMULD101_02391_FLAMEPERSONNEL_000_000"," <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，我等你好久了！
+48,"TEXT_COMULD101_02391_FLAMEPERSONNEL_000_000","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，我等你好久了！
 你作為我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>的一員，最近十分活躍。
 我有一個消息要告訴你。"
 49,"TEXT_COMULD101_02391_FLAMEPERSONNEL_000_001","我們準備新設立一個「冒險者分隊」，
@@ -66,7 +66,7 @@ int32,str,str
 但我們也不能把士兵的性命交給沒有覺悟的人。"
 57,"TEXT_COMULD101_02391_FLAMEPERSONNEL_000_006","真的嗎，那太好了！
 我現在就去叫輔佐你日常工作的士官來！"
-58,"TEXT_COMULD101_02391_PLATOONINSTRUCTOR_000_007","很高興見到您， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 分隊長閣下！
+58,"TEXT_COMULD101_02391_PLATOONINSTRUCTOR_000_007","很高興見到您，<Highlight>ObjectParameter(1)</Highlight>分隊長閣下！
 下官就是輔佐分隊長閣下的<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>！"
 59,"TEXT_COMULD101_02391_PLATOONINSTRUCTOR_000_008","這邊幾位就是我們分隊的士兵！"
 60,"TEXT_COMULD101_02391_PLATOONINSTRUCTOR_000_009","他們都是出於對英雄分隊長閣下的敬仰，

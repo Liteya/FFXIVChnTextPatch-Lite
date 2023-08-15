@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_000","我的工作是排除驚擾這片森林的「異物」。
 建議你最好管住自己，別給我們找麻煩……"
 1,"TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_020","地下迷宮的創造者所寫的筆記……
-說不定我們能從中瞭解到他為什麼要創造迷宮……"
+說不定我們能從中了解到他為什麼要創造迷宮……"
 2,"TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_ENTER","<UIForeground>F20235</UIForeground><UIGlow>F20236</UIGlow>挑戰「死者宮殿」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 3,"TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_RESET","重置「攻略進度」"
 4,"TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_BREAKUP","解散「固定隊伍」"

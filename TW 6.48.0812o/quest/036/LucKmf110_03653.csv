@@ -25,12 +25,12 @@ int32,str,str
 21,"TEXT_LUCKMF110_03653_SEQ_21",""
 22,"TEXT_LUCKMF110_03653_SEQ_22",""
 23,"TEXT_LUCKMF110_03653_SEQ_23",""
-24,"TEXT_LUCKMF110_03653_TODO_00","和人民管理局接待員對話"
+24,"TEXT_LUCKMF110_03653_TODO_00","和人民行政局接待員對話"
 25,"TEXT_LUCKMF110_03653_TODO_01","在<Sheet(EObj,2010147,0)/>等待"
-26,"TEXT_LUCKMF110_03653_TODO_02","和人民管理局接待員對話"
-27,"TEXT_LUCKMF110_03653_TODO_03","將<Sheet(EventItem,2002676,0)/>交給人民事務局接待員"
+26,"TEXT_LUCKMF110_03653_TODO_02","和人民行政局接待員對話"
+27,"TEXT_LUCKMF110_03653_TODO_03","將<Sheet(EventItem,2002676,0)/>交給人民秘書局接待員"
 28,"TEXT_LUCKMF110_03653_TODO_04","在<Sheet(EObj,2010148,0)/>等待"
-29,"TEXT_LUCKMF110_03653_TODO_05","和人民事務局接待員對話"
+29,"TEXT_LUCKMF110_03653_TODO_05","和人民秘書局接待員對話"
 30,"TEXT_LUCKMF110_03653_TODO_06","讓桑克瑞德查看<Sheet(EventItem,2002677,0)/>"
 31,"TEXT_LUCKMF110_03653_TODO_07",""
 32,"TEXT_LUCKMF110_03653_TODO_08",""
@@ -60,7 +60,7 @@ int32,str,str
 以及想要化解災難的愛梅特賽爾克等十四人委員會……"
 51,"TEXT_LUCKMF110_03653_ALPHINAUD_000_002","或許，當時的亞馬烏羅提
 的確就跟現在一樣，到處都在談論這個話題。"
-52,"TEXT_LUCKMF110_03653_YSHTOLA_000_003","說起來，于里昂熱……
+52,"TEXT_LUCKMF110_03653_YSHTOLA_000_003","說起來，於里昂熱……
 你對創造魔法有什麼看法？"
 53,"TEXT_LUCKMF110_03653_URIANGER_000_004","創造魔法似乎是……
 以理念為設計圖，產生萬物的創世之術。"
@@ -76,7 +76,7 @@ int32,str,str
 就會從外界，從環境乙太和水晶中吸取魔力。"
 59,"TEXT_LUCKMF110_03653_YSHTOLA_000_010","最終，使用創造魔法就會令周圍的乙太枯竭，
 創世之術反變成了毀滅之術……大概就是這樣吧。"
-60,"TEXT_LUCKMF110_03653_ALISAIE_000_011","聽上去倒是蠻讓人感興趣的……
+60,"TEXT_LUCKMF110_03653_ALISAIE_000_011","聽上去倒是挺讓人感興趣的……
 但是這跟愛梅特賽爾克在哪好像沒關係吧。"
 61,"TEXT_LUCKMF110_03653_ALISAIE_000_012","有人問到和他的行蹤有關的情報了嗎？"
 62,"TEXT_LUCKMF110_03653_THANCRED_000_013","我雖然沒直接打聽到地址，但卻聽到了一件事。
@@ -84,44 +84,44 @@ int32,str,str
 這附近的國會議事堂裡。"
 63,"TEXT_LUCKMF110_03653_RYNE_000_014","我們聽說之後，就去了議事堂。
 但那裡的人說，沒有許可證不能進去……"
-64,"TEXT_LUCKMF110_03653_RYNE_000_015","許可證好像是由人民管理局發行的，
+64,"TEXT_LUCKMF110_03653_RYNE_000_015","許可證好像是由人民行政局發行的，
 我們就去了那裡。
 但那裡的人說，我們沒有登記過戶口，所以不能給我們許可證……"
 65,"TEXT_LUCKMF110_03653_THANCRED_000_016","所以我們就先回來了……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，如果是你的話，
+<Highlight>ObjectParameter(1)</Highlight>，如果是你的話，
 說不定能拿到許可證？"
 66,"TEXT_LUCKMF110_03653_THANCRED_000_017","就跟乘坐電梯的時候一樣。
-你去人民管理局試著申請一下吧。"
+你去人民行政局試著申請一下吧。"
 67,"TEXT_LUCKMF110_03653_THANCRED_000_018","我就趁這個時候去探查一下，
 看看要是萬一實在沒有辦法的話，
 能不能強行闖入議事堂。"
 68,"TEXT_LUCKMF110_03653_URIANGER_000_019","我也跟你一起去。
 你應該也需要魔法方面的建議吧？"
 69,"TEXT_LUCKMF110_03653_RYNE_000_020","那……那我就去問問古代人，
-有沒有可以治療 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的辦法。"
-70,"TEXT_LUCKMF110_03653_RYNE_000_021","畢竟這裡應該有我們不瞭解的知識……
+有沒有可以治療<Highlight>ObjectParameter(1)</Highlight>的辦法。"
+70,"TEXT_LUCKMF110_03653_RYNE_000_021","畢竟這裡應該有我們不了解的知識……
 所以，那個……能陪我一起去嗎？"
 71,"TEXT_LUCKMF110_03653_ALISAIE_000_022","當然可以啦！
 一起去吧，琳。"
-72,"TEXT_LUCKMF110_03653_ALPHINAUD_000_023","那我就和雅．修特拉再往遠走一走，
+72,"TEXT_LUCKMF110_03653_ALPHINAUD_000_023","那我就和雅·修特拉再往遠走一走，
 繼續收集情報。"
 73,"TEXT_LUCKMF110_03653_ALPHINAUD_000_024","一會兒再見……
-這次的會合地點，就定在議事堂前面吧！"
+這次的匯合地點，就定在議事堂前面吧！"
 74,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_030","<UIForeground>F20223</UIForeground>您是想要參觀國會議事堂嗎？
 那麼，請報上您的姓名。<UIForeground>01</UIForeground>"
-75,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_031","<UIForeground>F20223</UIForeground>…… <Highlight>ObjectParameter(1)</Highlight> 大人是吧。
+75,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_031","<UIForeground>F20223</UIForeground>……<Highlight>ObjectParameter(1)</Highlight>大人是吧。
 我來確認一下，請您在附近稍等片刻。<UIForeground>01</UIForeground>"
 76,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_040","<UIForeground>F20223</UIForeground>我正在確認您的戶口登記情況。
 請稍等片刻。<UIForeground>01</UIForeground>"
-77,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_050","(-人民管理局接待員-)<UIForeground>F20223</UIForeground>申請參觀議事堂的 <Highlight>ObjectParameter(1)</Highlight> 大人……
+77,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_050","(-人民行政局接待員-)<UIForeground>F20223</UIForeground>申請參觀議事堂的<Highlight>ObjectParameter(1)</Highlight>大人……
 讓您久等了。<UIForeground>01</UIForeground>"
-78,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_060","<UIForeground>F20223</UIForeground> <Highlight>ObjectParameter(1)</Highlight> 大人……
+78,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_060","<UIForeground>F20223</UIForeground><Highlight>ObjectParameter(1)</Highlight>大人……
 您的戶口已在愛梅特賽爾克大人的要求下進行過登記，
-我為您建立了發行許可證所必要的檔案。<UIForeground>01</UIForeground>"
-79,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_061","<UIForeground>F20223</UIForeground>請您把檔案交給人民事務局接待員，
+我為您建立了發行許可證所必要的文件。<UIForeground>01</UIForeground>"
+79,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_061","<UIForeground>F20223</UIForeground>請您把文件交給人民秘書局接待員，
 然後就可以拿到許可證了。<UIForeground>01</UIForeground>"
 80,"TEXT_LUCKMF110_03653_OFFICIALA03653_000_070","<UIForeground>F20223</UIForeground>請將我交給您的<Sheet(EventItem,2002676,0)/>
-提交給人民事務局接待員。<UIForeground>01</UIForeground>"
+提交給人民秘書局接待員。<UIForeground>01</UIForeground>"
 81,"TEXT_LUCKMF110_03653_AMAUROTADMINISTRATOR_000_080","<UIForeground>F20223</UIForeground>您有什麼事嗎？<UIForeground>01</UIForeground>"
 82,"TEXT_LUCKMF110_03653_AMAUROTADMINISTRATOR_000_081","<UIForeground>F20223</UIForeground>您想要申請參觀議事堂的許可證是嗎？
 這需要辦理一系列手續，
@@ -135,13 +135,13 @@ int32,str,str
 請將它拿給入口處的管理員查看。<UIForeground>01</UIForeground>"
 86,"TEXT_LUCKMF110_03653_AMAUROTADMINISTRATOR_000_110","<UIForeground>F20223</UIForeground>沒有要辦理事務的人了吧，
 能順利完成工作真是太好了……<UIForeground>01</UIForeground>"
-87,"TEXT_LUCKMF110_03653_ALPHINAUD_000_115","我和雅．修特拉在街上轉了轉，
+87,"TEXT_LUCKMF110_03653_ALPHINAUD_000_115","我和雅·修特拉在街上轉了轉，
 發現了一個學術機構——阿尼德羅學院。"
 88,"TEXT_LUCKMF110_03653_ALPHINAUD_000_116","我們本來想，要是能有無影的知識，
 說不定能解決你身體上的問題，
 但那裡的人說什麼都不讓外人進入。"
-89,"TEXT_LUCKMF110_03653_ALISAIE_000_120","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
-90,"TEXT_LUCKMF110_03653_RYNE_000_125","…………。"
+89,"TEXT_LUCKMF110_03653_ALISAIE_000_120","啊……<Highlight>ObjectParameter(1)</Highlight>……"
+90,"TEXT_LUCKMF110_03653_RYNE_000_125","……"
 91,"TEXT_LUCKMF110_03653_URIANGER_000_130","關於是否可以闖入議事堂一事，請去詢問桑克瑞德。
 不過，你手中的那個難道是……"
 92,"TEXT_LUCKMF110_03653_YSHTOLA_000_135","你回來了。
@@ -150,7 +150,7 @@ int32,str,str
 這麼晚才回來，我們很擔心你。
 議事堂那邊怎麼說？"
 94,"TEXT_LUCKMF110_03653_THANCRED_000_141","你申請到參觀許可證了啊！"
-95,"TEXT_LUCKMF110_03653_THANCRED_000_142","我和于里昂熱也認為
+95,"TEXT_LUCKMF110_03653_THANCRED_000_142","我和於里昂熱也認為
 最好不要強行闖入議事堂。
 如果能光明正大地進去，那真是再好不過了。"
 96,"TEXT_LUCKMF110_03653_URIANGER_000_143","議事堂那裡連一名衛兵都沒有，
@@ -189,7 +189,7 @@ int32,str,str
 108,"TEXT_LUCKMF110_03653_ALISAIE_000_155","那還用說嗎？
 而且他們還想利用水晶公的力量，做夢！
 我是絕對不會讓他們利用水晶公去毀滅未來的。"
-109,"TEXT_LUCKMF110_03653_ALISAIE_000_156"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你說是吧。
+109,"TEXT_LUCKMF110_03653_ALISAIE_000_156","<Highlight>ObjectParameter(1)</Highlight>，你說是吧。
 所以，我們一定要找到愛梅特賽爾克，
 贏得世界的未來。"
 110,"TEXT_LUCKMF110_03653_ALISAIE_000_157","到那時，你就親手將它傳達給大家吧。
@@ -200,7 +200,7 @@ int32,str,str
 112,"TEXT_LUCKMF110_03653_RYNE_000_159","……我們與愛梅特賽爾克，不得不戰了嗎。"
 113,"TEXT_LUCKMF110_03653_RYNE_000_160","他能創造出如此逼真的都市……
 應該不會輕易被我們打敗。"
-114,"TEXT_LUCKMF110_03653_RYNE_000_161","而 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+114,"TEXT_LUCKMF110_03653_RYNE_000_161","而<Highlight>ObjectParameter(1)</Highlight>……
 如果再過多使用力量的話……
 說不定身體就……"
 115,"TEXT_LUCKMF110_03653_YSHTOLA_000_162","是否要前進，由你自己來做決定。

@@ -3,10 +3,10 @@
 int32,str,str
 0,"TEXT_HEAVNA329_01630_SEQ_00","天鋼機工房附近的塔塔露有天大的消息要告訴冒險者。"
 1,"TEXT_HEAVNA329_01630_SEQ_01","據塔塔露說，娜娜莫的下落有眉目了，勞班希望能見冒險者一面。前往西薩納蘭黃昏灣的沙之家。"
-2,"TEXT_HEAVNA329_01630_SEQ_02","在沙之家向勞班瞭解了詳情。為了抓住向娜娜莫下毒的侍女，冒險者決定協助勞班。和沙之家的夕霧談談。"
-3,"TEXT_HEAVNA329_01630_SEQ_03","從夕霧處瞭解了下毒者梅里埃爾的資訊。在西薩納蘭的白銀市集收集關於梅里埃爾的情報。"
-4,"TEXT_HEAVNA329_01630_SEQ_04","向居民們詢問了梅里埃爾的情況。在白銀市集尋找梅里埃爾。"
-5,"TEXT_HEAVNA329_01630_SEQ_05","發現了梅里埃爾。在捕捉梅里埃爾時，羅羅力特出現並講述了事件的真相。勞班從羅羅力特手中接過了娜娜莫的解藥，決定和解。和白銀市集的阿爾菲諾談談。"
+2,"TEXT_HEAVNA329_01630_SEQ_02","在沙之家向勞班了解了詳情。為了抓住向娜娜莫下毒的侍女，冒險者決定協助勞班。和沙之家的夕霧談談。"
+3,"TEXT_HEAVNA329_01630_SEQ_03","從夕霧處了解了下毒者梅里埃爾的資訊。在西薩納蘭的白銀集市收集關於梅里埃爾的情報。"
+4,"TEXT_HEAVNA329_01630_SEQ_04","向居民們詢問了梅里埃爾的情況。在白銀集市尋找梅里埃爾。"
+5,"TEXT_HEAVNA329_01630_SEQ_05","發現了梅里埃爾。在捕捉梅里埃爾時，羅羅力特出現並講述了事件的真相。勞班從羅羅力特手中接過了娜娜莫的解藥，決定和解。和白銀集市的阿爾菲諾談談。"
 6,"TEXT_HEAVNA329_01630_SEQ_06","和阿爾菲諾進行了交談。其他不談，總之娜娜莫終於可以醒過來了。"
 7,"TEXT_HEAVNA329_01630_SEQ_07",""
 8,"TEXT_HEAVNA329_01630_SEQ_08",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_HEAVNA329_01630_SEQ_23",""
 24,"TEXT_HEAVNA329_01630_TODO_00","前往黃昏灣的沙之家"
 25,"TEXT_HEAVNA329_01630_TODO_01","和夕霧對話"
-26,"TEXT_HEAVNA329_01630_TODO_02","在白銀市集收集情報"
+26,"TEXT_HEAVNA329_01630_TODO_02","在白銀集市收集情報"
 27,"TEXT_HEAVNA329_01630_TODO_03","尋找梅里埃爾"
 28,"TEXT_HEAVNA329_01630_TODO_04","和阿爾菲諾對話"
 29,"TEXT_HEAVNA329_01630_TODO_05",""
@@ -52,14 +52,14 @@ int32,str,str
 48,"TEXT_HEAVNA329_01630_TATARU_000_000","這次天大的消息正是關於娜娜莫女王陛下下落的消息！"
 49,"TEXT_HEAVNA329_01630_TATARU_000_001","在沙之家療傷的勞班局長希望能見見二位，
 並得到二位的幫助。"
-50,"TEXT_HEAVNA329_01630_ALPHINAUD_000_002","那好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
-在席德他們準備破魔艇的這段時間裡，
+50,"TEXT_HEAVNA329_01630_ALPHINAUD_000_002","那好，<Highlight>ObjectParameter(1)</Highlight>，
+在西德他們準備破魔艇的這段時間裡，
 我們就去解決烏爾達哈的問題吧。"
-51,"TEXT_HEAVNA329_01630_ALPHINAUD_000_003","塔塔露，能請你透過神殿騎士團和埃斯蒂尼安閣下取得聯繫，
+51,"TEXT_HEAVNA329_01630_ALPHINAUD_000_003","塔塔露，能請你通過神殿騎士團和埃斯蒂尼安閣下取得聯絡，
 將發生的事情告訴他嗎？
 他在執行的任務非常危險，但也只能請他繼續堅持一陣子了。"
 52,"TEXT_HEAVNA329_01630_TATARU_000_004","好的！"
-53,"TEXT_HEAVNA329_01630_ALPHINAUD_000_005","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+53,"TEXT_HEAVNA329_01630_ALPHINAUD_000_005","好了，<Highlight>ObjectParameter(1)</Highlight>，
 我們前往沙之家吧。
 在討伐邪龍前先解決掉烏爾達哈的黑暗！"
 54,"TEXT_HEAVNA329_01630_ALPHINAUD_000_006","先聽聽塔塔露帶來的消息吧。
@@ -74,14 +74,14 @@ int32,str,str
 果然是有什麼特別的煉體之法吧。"
 58,"TEXT_HEAVNA329_01630_YUGIRI_000_020","根據情報，那名侍女名為梅里埃爾，
 是一位中原之民的女性。
- <Highlight>ObjectParameter(1)</Highlight> 閣下應該見過她。"
-59,"TEXT_HEAVNA329_01630_YUGIRI_000_021","那次事件後她就回到了自己的老家白銀市集，
+<Highlight>ObjectParameter(1)</Highlight>閣下應該見過她。"
+59,"TEXT_HEAVNA329_01630_YUGIRI_000_021","那次事件後她就回到了自己的老家白銀集市，
 在那裡避人耳目悄悄過著日子。
 先去那邊向居民們打聽打聽吧。"
 60,"TEXT_HEAVNA329_01630_YUGIRI_000_022","根據情報，那名侍女名為梅里埃爾，
 是一位中原之民的女性。
- <Highlight>ObjectParameter(1)</Highlight> 閣下應該見過她。"
-61,"TEXT_HEAVNA329_01630_YUGIRI_000_023","那次事件後她就回到了自己的老家白銀市集，
+<Highlight>ObjectParameter(1)</Highlight>閣下應該見過她。"
+61,"TEXT_HEAVNA329_01630_YUGIRI_000_023","那次事件後她就回到了自己的老家白銀集市，
 在那裡避人耳目悄悄過著日子。
 先去那邊向居民們打聽打聽吧。"
 62,"TEXT_HEAVNA329_01630_ALPHINAUD_000_024","如果是娜娜莫陛下的侍女的話，
@@ -90,10 +90,10 @@ int32,str,str
 究竟躲在哪，梅里埃爾！"
 64,"TEXT_HEAVNA329_01630_PIPPIN_000_026","她應該不會跑到廣場上來才對……"
 65,"TEXT_HEAVNA329_01630_PAPASHAN_000_027","請冷靜下來，勞班閣下。
-不要被怒火矇蔽了自己的眼睛。"
+不要被怒火蒙蔽了自己的眼睛。"
 66,"TEXT_HEAVNA329_01630_DEWLALA_000_028","也聯繫一下那位好了……
 讓一切都有個了結。"
-67,"TEXT_HEAVNA329_01630_PAPASHAN_101_028","白銀市集……
+67,"TEXT_HEAVNA329_01630_PAPASHAN_101_028","白銀集市……
 娜娜莫陛下從前的侍女梅里埃爾應該就在那裡……"
 68,"TEXT_HEAVNA329_01630_DANYELL_000_030","梅里埃爾姐姐確實已經從烏爾達哈搬回來了。
 但看著好像沒什麼精神，總把自己悶在家裡。
@@ -101,16 +101,16 @@ int32,str,str
 69,"TEXT_HEAVNA329_01630_DANYELL_000_031","梅里埃爾姐姐確實已經從烏爾達哈搬回來了。
 但看著好像沒什麼精神，總把自己悶在家裡。
 她家？就是入口附近的民家。"
-70,"TEXT_HEAVNA329_01630_KIKIPU_000_040","啊，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎！
+70,"TEXT_HEAVNA329_01630_KIKIPU_000_040","啊，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 好久不見了，最近還好吧？"
-71,"TEXT_HEAVNA329_01630_KIKIPU_000_041","來這落魄的市集有何貴幹？
+71,"TEXT_HEAVNA329_01630_KIKIPU_000_041","來這落魄的集市有何貴幹？
 這裡好像不是值得讓你們這麼多人齊來拜訪的地方吧。"
 72,"TEXT_HEAVNA329_01630_KIKIPU_000_042","你們在找梅里埃爾小姐？
 她從烏爾達哈回來多半是因為夢想沒能實現吧……
 還是不要去打擾她比較好。"
-73,"TEXT_HEAVNA329_01630_KIKIPU_000_043","啊，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎！
+73,"TEXT_HEAVNA329_01630_KIKIPU_000_043","啊，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 好久不見了，最近還好吧？"
-74,"TEXT_HEAVNA329_01630_KIKIPU_000_044","來這落魄的市集有何貴幹？
+74,"TEXT_HEAVNA329_01630_KIKIPU_000_044","來這落魄的集市有何貴幹？
 這裡好像不是值得讓你們這麼多人齊來拜訪的地方吧。"
 75,"TEXT_HEAVNA329_01630_KIKIPU_000_045","你們在找梅里埃爾小姐？
 她從烏爾達哈回來多半是因為夢想沒能實現吧……

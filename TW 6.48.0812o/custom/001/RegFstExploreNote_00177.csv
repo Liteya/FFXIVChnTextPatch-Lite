@@ -1,21 +1,21 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_000","我叫米莉絲．艾恩哈特，是個探險家。
-你知道「艾奧傑亞全景圖」吧？那是我爺爺繪製的……
+0,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_000","我叫米莉絲·艾恩哈特，是個探險家。
+你知道「艾歐澤亞全景圖」吧？那是我爺爺繪製的……
 受他影響，我家代代都以探險家為職。"
 1,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_001","兄長奈德里克以發現未知的領域為目標……
 而我為了繪製名勝與秘境的風景畫行走在世界各地。"
-2,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_010","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+2,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_010","啊，<Highlight>ObjectParameter(1)</Highlight>！
 探險進展得順利嗎？"
 3,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_011","交給你的那本「探索筆記」上，
 記載著我聽說過的名勝與秘境的傳聞。
-你先借助它在各地看看吧。"
+你先藉助它在各地看看吧。"
 4,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_012","全部完成後，記得把筆記拿來給我看看哦。
 我很期待你的探險成果！"
 5,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_012","……話說回來，
 你從我的堂哥凱斯特那裡也獲得了探索情報吧。"
-6,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_013","那個人獲得情報時有自己的習慣，
+6,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_013","那個人獲取情報時有自己的習慣，
 和我記錄下來的不一樣，所以應該別有一番樂趣。
 還請你多多挑戰！"
 7,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_014","啊，看來你已經見到烏爾格叔叔了。
@@ -26,17 +26,17 @@ int32,str,str
 就可以記錄「探索筆記」。"
 9,"TEXT_REGFSTEXPLORENOTE_00177_SYSTEM_000_014","從「探索筆記」上記載的情報中，
 推測地點與其他條件來進行記錄吧。"
-10,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_020","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+10,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>！
 看來你把我在「探索筆記」上提及的名勝與秘境都走完一遍了呢。"
 11,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_021","竟然能把如此艱辛的探險工作徹底完成，太厲害了！
 你擁有不輸艾恩哈特家的不屈靈魂與好奇心……
 是個了不起的探險家！"
-12,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_022"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+12,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_022","<Highlight>ObjectParameter(1)</Highlight>……
 像你這樣的探險家已經不再需要我的幫助了。
 今後請進行只屬於你自己的探險吧！"
 13,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_023","「探索筆記」上面有一些空白頁。
 將那裡填滿你找到的名勝與秘境吧！！"
-14,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_024","有可能你覺得艾奧傑亞已經沒有什麼地方是你不知道的了。"
+14,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_024","有可能你覺得艾歐澤亞已經沒有什麼地方是你不知道的了。"
 15,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_025","但就算是同一個地方，
 也會根據造訪時的時間、天氣、心境的不同，
 給你呈現不同的風景。"
@@ -44,7 +44,7 @@ int32,str,str
 我期待你能將名勝與秘境最唯美的一瞬間記錄下來哦！"
 17,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_026","……話說回來，
 你從我的堂哥凱斯特那裡也獲得了探索情報吧。"
-18,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_027","那個人獲得情報時有自己的習慣，
+18,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_027","那個人獲取情報時有自己的習慣，
 和我記錄下來的不一樣，所以應該別有一番樂趣。
 還請你多多挑戰！"
 19,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_028","啊，看來你已經見到烏爾格叔叔了。
@@ -55,9 +55,9 @@ int32,str,str
 21,"TEXT_REGFSTEXPLORENOTE_00177_SYSTEM_000_028","活用身為探險家的經驗與直覺，
 從有限情報中推測對應地點及條件，
 來完成「探索筆記」吧。"
-22,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_030","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+22,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_030","啊，<Highlight>ObjectParameter(1)</Highlight>！
 探險的成果如何？"
-23,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_031","有可能你覺得艾奧傑亞已經沒有什麼地方是你不知道的了。"
+23,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_031","有可能你覺得艾歐澤亞已經沒有什麼地方是你不知道的了。"
 24,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_032","但就算是同一個地方，
 也會根據造訪時的時間、天氣、心境的不同，
 給你呈現不同的風景。"
@@ -65,7 +65,7 @@ int32,str,str
 我期待你能將名勝與秘境最唯美的一瞬間記錄下來哦！"
 26,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_033","……話說回來，
 你從我的堂哥凱斯特那裡也獲得了探索情報吧。"
-27,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_034","那個人獲得情報時有自己的習慣，
+27,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_034","那個人獲取情報時有自己的習慣，
 和我記錄下來的不一樣，所以應該別有一番樂趣。
 還請你多多挑戰！"
 28,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_035","啊，看來你已經見到烏爾格叔叔了。
@@ -74,18 +74,18 @@ int32,str,str
 29,"TEXT_REGFSTEXPLORENOTE_00177_SYSTEM_000_034","活用身為探險家的經驗與直覺，
 從有限情報中推測對應地點及條件，
 來完成「探索筆記」吧。"
-30,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_040","太厲害了！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+30,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_040","太厲害了！<Highlight>ObjectParameter(1)</Highlight>！
 你終於把探索筆記填得滿滿了！"
 31,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_041","看這本筆記中的一幅幅風景畫……
 如果不是你找出它們，也許這些永遠也不會被記錄下來。"
 32,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_042","風景並不是能亙古不變的。
 「第七靈災」讓我們每個人都深刻認識到了這一點。
 正因為這樣，你的「探索筆記」才更具價值！"
-33,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_043","記載著艾奧傑亞的「現在」的探險記錄……
+33,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_043","記載著艾歐澤亞的「現在」的探險記錄……
 請好好珍惜它與你經歷的探險！"
 34,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_043","……話說回來，
 你從我的堂哥凱斯特那裡也獲得了探索情報吧。"
-35,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_044","那個人獲得情報時有自己的習慣，
+35,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_044","那個人獲取情報時有自己的習慣，
 和我記錄下來的不一樣，所以應該別有一番樂趣。
 還請你多多挑戰！"
 36,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_100_045","啊，看來你已經見到烏爾格叔叔了。

@@ -66,7 +66,7 @@ int32,str,str
 就請你先去問候一下雪花小姐吧。"
 53,"TEXT_CLSBSM700_02619_BRITHAEL_000_010","你應該能比我早到，
 就請你先去問候一下雪花小姐吧。
-我也……嗯，會儘快趕過去的。"
+我也……嗯，會盡快趕過去的。"
 54,"TEXT_CLSBSM700_02619_SHINTOU_000_015","雪花去第二防波堤接你們了。"
 55,"TEXT_CLSBSM700_02619_SEKKA_000_020","歡迎你的到來！
 剛收到鍛鐵匠公會的來信，
@@ -76,11 +76,11 @@ int32,str,str
 但現在的我，覺得那就是對我最好的鼓勵！"
 57,"TEXT_CLSBSM700_02619_SEKKA_000_022","父親正在「小鍛冶屋」，
 那裡是黃金港工匠們的聚集地。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下請過去打個招呼吧。"
+<Highlight>ObjectParameter(1)</Highlight>閣下請過去打個招呼吧。"
 58,"TEXT_CLSBSM700_02619_BRITHAEL_000_030","走吧，決戰黃金港。"
 59,"TEXT_CLSBSM700_02619_SEKKA_000_035","父親正在「小鍛冶屋」，
 那裡是黃金港工匠們的聚集地。
-請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下過去打個招呼吧。"
+請<Highlight>ObjectParameter(1)</Highlight>閣下過去打個招呼吧。"
 60,"TEXT_CLSBSM700_02619_SHINTOU_000_040","歡迎，看來你沒有選擇臨陣脫逃。
 比試題目已定，由你和雪花參與我即將接下的一份委託。"
 61,"TEXT_CLSBSM700_02619_SHINTOU_000_041","委託來自黃金港中擁有眾多家臣的一位武士大人，
@@ -100,14 +100,14 @@ int32,str,str
 ……呃，你怎麼還在。
 快去第二防波堤等布瑞賽爾吧。"
 68,"TEXT_CLSBSM700_02619_SEKKA_000_060","在布瑞賽爾閣下抵達黃金港前，
-我有件事想要詢問 <Highlight>ObjectParameter(1)</Highlight> 閣下……"
+我有件事想要詢問<Highlight>ObjectParameter(1)</Highlight>閣下……"
 69,"TEXT_CLSBSM700_02619_SEKKA_000_061","自從我離開了鍛鐵匠公會……不，應該是從我在公會的日子起，
 每次見到布瑞賽爾閣下，我都會心跳得厲害……"
-70,"TEXT_CLSBSM700_02619_SEKKA_000_062","最初我覺得他就是個沒用的懦夫，
+70,"TEXT_CLSBSM700_02619_SEKKA_000_062","最初我覺得他就是個沒用的軟蛋，
 但後來他反駁我的父親，還為了我費心費力。
 漸漸地，我的目光就怎麼也離不開他了……"
 71,"TEXT_CLSBSM700_02619_SEKKA_000_063","但是好奇怪……
-明明 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也對我多有關照。
+明明<Highlight>ObjectParameter(1)</Highlight>閣下也對我多有關照。
 為什麼我只有見到布瑞賽爾閣下的時候，會變得奇怪呢？"
 72,"TEXT_CLSBSM700_02619_Q1_000_000","雪花對布瑞賽爾的感情究竟是？"
 73,"TEXT_CLSBSM700_02619_A1_000_001","少女你戀愛了"
@@ -154,12 +154,12 @@ int32,str,str
 89,"TEXT_CLSBSM700_02619_SHINTOU_000_120","<Sheet(ItemHQ,17892,0)/>鍛好了嗎？"
 90,"TEXT_CLSBSM700_02619_SHINTOU_000_130","……嗯，很不錯。我先不多說，
 等雪花的刀也完成了，我來一起給出評價。"
-91,"TEXT_CLSBSM700_02619_SHINTOU_000_200"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你這是把極好的刀……
+91,"TEXT_CLSBSM700_02619_SHINTOU_000_200","<Highlight>ObjectParameter(1)</Highlight>，你這是把極好的刀……
 從這光輝上就能看出其刃鋒利無比，
 足可斬斷侵擾紛亂塵世的黑暗。"
 92,"TEXT_CLSBSM700_02619_SHINTOU_000_201","刀鞘與刀柄的設計也無可挑剔。
 這刀要獻給武士大人，完全沒有任何問題。"
-93,"TEXT_CLSBSM700_02619_SHINTOU_000_202","然後，與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的刀相反……
+93,"TEXT_CLSBSM700_02619_SHINTOU_000_202","然後，與<Highlight>ObjectParameter(1)</Highlight>的刀相反……
 你這批發一買一大捆、半點也不起眼的刀是怎麼回事。
 雪花，你放棄比賽了嗎？"
 94,"TEXT_CLSBSM700_02619_SEKKA_000_203","此刀是我傾盡全力所鑄。
@@ -178,7 +178,7 @@ int32,str,str
 雖然委託的最終內容正如你所說。但我的要求，
 不是讓你們給家臣鍛刀，而是鍛出獻給武士大人用的刀。"
 100,"TEXT_CLSBSM700_02619_SHINTOU_000_209","不論是刀之利，還是形之美，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的刀都遠在你的之上……
+<Highlight>ObjectParameter(1)</Highlight>的刀都遠在你的之上……
 究竟獻上哪柄刀，根本無需猶豫。"
 101,"TEXT_CLSBSM700_02619_SHINTOU_000_210","……不過你考慮到使用者的實際情況而鑄刀的想法並不算錯。
 下次記得不要自作主張，先來找我商量。"
@@ -186,7 +186,7 @@ int32,str,str
 父親，莫非！"
 103,"TEXT_CLSBSM700_02619_SHINTOU_000_212","你現在與從前不同，
 已經不再是那個看父親的臉色盲目鍛刀的傻丫頭啦。
-這次雖然離了題，但你對刀的誠摯之情，已經得到了我的認可。"
+這次雖然跑了題，但你對刀的誠摯之情，已經得到了我的認可。"
 104,"TEXT_CLSBSM700_02619_BRITHAEL_000_213","恭喜你，雪花小姐！終於成功拜入父親門下了！
 這下再沒人勸你放棄做一名刀匠了！"
 105,"TEXT_CLSBSM700_02619_SEKKA_000_214","布瑞賽爾閣下，非常感謝。
@@ -199,7 +199,7 @@ int32,str,str
 109,"TEXT_CLSBSM700_02619_SHINTOU_000_218","……此刻我不是作為一名刀匠，而是作為一個父親發問。
 你口口聲聲說要交流鍛刀技術，
 結果究竟是和我女兒「交流」了些什麼東西？！"
-110,"TEXT_CLSBSM700_02619_BRITHAEL_000_219","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+110,"TEXT_CLSBSM700_02619_BRITHAEL_000_219","……<Highlight>ObjectParameter(1)</Highlight>。
 我感覺到了劇烈的胃痛與生命的危機，先跑路了。
 後面就……交給你了！！"
 111,"TEXT_CLSBSM700_02619_SEKKA_000_220","啊——布瑞賽爾閣下可真膽小。
@@ -213,15 +213,15 @@ int32,str,str
 雪花她，還太年輕了！"
 115,"TEXT_CLSBSM700_02619_SEKKA_000_242","我本身也是這個意思。
 這次鍛出的刀，完全是用從鍛鐵匠公會學來的知識現學現賣。
-我自身的水準還是太差了。"
+我自身的水平還是太差了。"
 116,"TEXT_CLSBSM700_02619_SEKKA_000_243","我打算繼續鑽研，等到能鍛出更好的刀之後，
 再去見布瑞賽爾閣下。"
 117,"TEXT_CLSBSM700_02619_SEKKA_000_244","在那之前，為了讓布瑞賽爾閣下不把我忘掉，
 我就間接地向他傳遞我的愛慕之情好了……"
 118,"TEXT_CLSBSM700_02619_SEKKA_000_245","當然，修行我也不會偷懶的！
 我不會再像從前那樣盲目亂修行了，
-能領會對刀的真意，都是託你的福……"
-119,"TEXT_CLSBSM700_02619_SHINTOU_000_246","哼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。承蒙你的關照了。
+能領會對刀的真意，都是托你的福……"
+119,"TEXT_CLSBSM700_02619_SHINTOU_000_246","哼，<Highlight>ObjectParameter(1)</Highlight>。承蒙你的關照了。
 你回去找那個色小子布瑞賽爾吧。"
 120,"TEXT_CLSBSM700_02619_SHINTOU_000_247","技術交流一事我會先寄信過去。
 你就先回去找布瑞賽爾吧。"
@@ -230,8 +230,8 @@ int32,str,str
 122,"TEXT_CLSBSM700_02619_BRITHAEL_000_249","神刀先生寄來了信，裡面寫了關於技術交流的事情。
 最後結尾的地方還寫著「如果你敢對我女兒出手……」。
 這可完全是誤會呀……嗚嗚嗚……"
-123,"TEXT_CLSBSM700_02619_RANDWULF_000_250","老大，不好意思，在犯病時打擾你。
-你收到一疊比«艾奧傑亞百科全書»還厚的信……
+123,"TEXT_CLSBSM700_02619_RANDWULF_000_250","老大，不好意思，在犯病時打攪你。
+你收到一疊比«艾歐澤亞百科全書»還厚的信……
 寄信人是雪花小姐……"
 124,"TEXT_CLSBSM700_02619_BRITHAEL_000_252","……為什麼會這樣！我只是想安安穩穩地過日子而已呀！
 啊——我的胃……好疼！！"

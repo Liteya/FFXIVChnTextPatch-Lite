@@ -24,7 +24,7 @@ int32,str,str
 自己拿到的三張手牌上的數字加起來
 比對方的高還是低的遊戲。"
 11,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_511","遊戲中會使用寫有1至9的數字的牌，
-數字不會重複。"
+數字不會重覆。"
 12,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_512","猜中了即為勝利。
 若是雙方的手牌數字之和相等，
 則會重來一局。"
@@ -39,9 +39,9 @@ int32,str,str
 17,"TEXT_REGNOR4TISTABIE_00612_Q2_000_533","比對方的手牌數值之和……"
 18,"TEXT_REGNOR4TISTABIE_00612_A2_000_534","低！"
 19,"TEXT_REGNOR4TISTABIE_00612_A2_000_535","高！"
-20,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_536","欸，你覺得低啊。
+20,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_536","誒，你覺得低啊。
 那我們來看看結果吧。"
-21,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_537","欸，你覺得高啊。
+21,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_537","誒，你覺得高啊。
 那我們來看看結果吧。"
 22,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_538","我的手牌數值之和是<Value>IntegerParameter(1)</Value>。
 你的呢？"
@@ -50,7 +50,7 @@ int32,str,str
 25,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_541","不知是你的直覺靈敏還是說好運選擇了你……
 總之今天對你來說看來是一個好日子。"
 26,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_100_541","我說，你難道不想試試你的運氣到底能持續多久嗎？
-下次說不定你能贏得更爽快哦？"
+下次沒準你能贏得更爽快哦？"
 27,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_110_541","是我輸了。
 ……所以呢，怎麼樣？要不要再來一局？
 接不接受我這個輸家的挑戰啊？"

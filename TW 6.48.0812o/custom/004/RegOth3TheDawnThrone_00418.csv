@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000","哎呀，居然會有旅人來到這晨曦王座，真是少見。
 難得見到人來，你有什麼想問的就問吧，
 姐姐來回答你。"
-1,"TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000","想瞭解什麼？"
+1,"TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000","想了解什麼？"
 2,"TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001","你是做什麼的？"
 3,"TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002","這裡是什麼地方？"
 4,"TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003","取消"
@@ -20,6 +20,6 @@ int32,str,str
 9,"TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021","這邊的雕像就是晨曦之父啦。
 我們作為太陽神阿吉木的孩子，可以算是晨曦之父的兄弟姐妹。
 所以由我們來守護並居住在這聖地裡也是理所當然的嘛。"
-10,"TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022","草原中央的這個高臺上視野極好，一目望去可以看到地平線的盡頭，
+10,"TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022","草原中央的這個高台上視野極好，一目望去可以看到地平線的盡頭，
 令人心情舒暢。而且不管是靠近過來的野獸，
 還是敵對的部落，都能看得一清二楚。"

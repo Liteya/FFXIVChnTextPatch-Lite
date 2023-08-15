@@ -29,9 +29,9 @@ int32,str,str
 22,"TEXT_BANNAM302_03104_SEQ_22",""
 23,"TEXT_BANNAM302_03104_SEQ_23",""
 24,"TEXT_BANNAM302_03104_TODO_00","在「說話」頻道下輸入含有「大鯰魚保佑」的詞句
-在恰佳遺骨堂的<Sheet(EObj,2009491,0)/>詠唱祝詞（his whiskers）"
+在恰佳遺骨堂的<Sheet(EObj,2009491,0)/>詠唱祝詞 (his whiskers)"
 25,"TEXT_BANNAM302_03104_TODO_01","在「說話」頻道下輸入含有「大鯰魚保佑」的詞句
-在刃海的<Sheet(EObj,2009492,0)/>詠唱祝詞（his whiskers）"
+在刃海的<Sheet(EObj,2009492,0)/>詠唱祝詞 (his whiskers)"
 26,"TEXT_BANNAM302_03104_TODO_02","向光風院霽月報告"
 27,"TEXT_BANNAM302_03104_TODO_03",""
 28,"TEXT_BANNAM302_03104_TODO_04",""
@@ -91,7 +91,7 @@ int32,str,str
 多虧了你，我編造出的聖地更加地能使人信服了。"
 63,"TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_041","別用那種眼神看著我啊。
 鯰魚精族因為沒有自己的文字，沒有留下什麼記錄。
-所以需要透過巡禮等手段，來創造出幾個聖地。"
+所以需要通過巡禮等手段，來創造出幾個聖地。"
 64,"TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_042","聽好了，真假並不重要。
 «遠東諺語錄»中說，「精誠所至，金石為開」。
 也就是所謂的心誠則靈，信者得救。"

@@ -11,7 +11,7 @@ int32,str,str
 6,"TEXT_BAHAMUTGUIDEENTRANCEWILD_00105_A3_000_016","詢問「巴哈姆特大迷宮真源之章」的開始條件"
 7,"TEXT_BAHAMUTGUIDEENTRANCEWILD_00105_A3_000_017","取消"
 8,"TEXT_BAHAMUTGUIDEENTRANCEWILD_ERKENRAD_000_020","還剩下兩艘拘束艦……
-這都是艾奧傑亞屈指可數的危險地帶，
+這都是艾歐澤亞屈指可數的危險地帶，
 只有依靠你的力量才能夠突破。"
 9,"TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_050","「巴哈姆特大迷宮真源之章」是由多個迷宮組成的，
 其中有些迷宮不能夠使用「返回」。"
@@ -22,7 +22,7 @@ int32,str,str
 12,"TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_053","開始「巴哈姆特大迷宮真源之章」，
 需要8名等級達到
 50級以上的戰鬥菁英或魔法導師來組成隊伍。"
-13,"TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_054","另外，所有成員一定要領取並完成任務「真相的碎片」。"
+13,"TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_054","另外，所有成員必須要領取並完成任務「真相的碎片」。"
 14,"TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_055","「巴哈姆特大迷宮真源之章」的開始地點取決於小隊隊長的進攻進度。"
 15,"TEXT_BAHAMUTGUIDEENTRANCEWILD_SYSTEM_000_056","如果滿足「巴哈姆特大迷宮真源之章」的開始條件，
 未到達小隊隊長進攻進度的成員也可以同步參加。"

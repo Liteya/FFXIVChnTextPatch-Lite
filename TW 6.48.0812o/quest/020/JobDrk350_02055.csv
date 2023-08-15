@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_JOBDRK350_02055_SEQ_00","雲霧街的弗雷正在等待冒險者。"
-1,"TEXT_JOBDRK350_02055_SEQ_01","為了得知觸碰靈魂水晶時到底是誰發出的悲鳴，弗雷提議舉辦獲得暗黑之力的儀式。在南薩納蘭的小阿拉米格和弗雷會合。"
-2,"TEXT_JOBDRK350_02055_SEQ_02","和弗雷會合了。在舉辦儀式之前，需要先打倒強敵，展示自己作為暗黑騎士的實力。和小阿拉米格的古恩德巴爾德對話。"
+1,"TEXT_JOBDRK350_02055_SEQ_01","為了得知觸碰靈魂水晶時到底是誰發出的悲鳴，弗雷提議舉辦獲得暗黑之力的儀式。在南薩納蘭的小阿拉米格和弗雷匯合。"
+2,"TEXT_JOBDRK350_02055_SEQ_02","和弗雷匯合了。在舉辦儀式之前，需要先打倒強敵，展示自己作為暗黑騎士的實力。和小阿拉米格的古恩德巴爾德對話。"
 3,"TEXT_JOBDRK350_02055_SEQ_03","從古恩德巴爾德處獲得了<Sheet(BNpcName,4119,0)/>的情報。和南薩納蘭紅迷宮的弗雷對話。"
 4,"TEXT_JOBDRK350_02055_SEQ_04","和弗雷進行了交談，決定要打倒<Sheet(BNpcName,4119,0)/>。將<Sheet(EventItem,2001812,0)/>放在紅迷宮的<Sheet(EObj,2006291,0)/>上。"
 5,"TEXT_JOBDRK350_02055_SEQ_05","放好了<Sheet(EventItem,2001812,0)/>。在紅迷宮的<Sheet(EObj,2006293,0)/>等待，討伐出現的<Sheet(BNpcName,4119,0)/>。"
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBDRK350_02055_SEQ_21",""
 22,"TEXT_JOBDRK350_02055_SEQ_22",""
 23,"TEXT_JOBDRK350_02055_SEQ_23",""
-24,"TEXT_JOBDRK350_02055_TODO_00","和小阿拉米格的弗雷會合"
+24,"TEXT_JOBDRK350_02055_TODO_00","和小阿拉米格的弗雷匯合"
 25,"TEXT_JOBDRK350_02055_TODO_01","和古恩德巴爾德對話"
 26,"TEXT_JOBDRK350_02055_TODO_02","和紅迷宮的弗雷對話"
 27,"TEXT_JOBDRK350_02055_TODO_03","將<Sheet(EventItem,2001812,0)/>放在<Sheet(EObj,2006291,0)/>"
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_JOBDRK350_02055_TODO_21",""
 46,"TEXT_JOBDRK350_02055_TODO_22",""
 47,"TEXT_JOBDRK350_02055_TODO_23",""
-48,"TEXT_JOBDRK350_02055_FRAY_000_000","又見面了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_JOBDRK350_02055_FRAY_000_000","又見面了，<Highlight>ObjectParameter(1)</Highlight>，
 那我就將記憶中與暗黑騎士有關的知識傳授給你吧。"
 49,"TEXT_JOBDRK350_02055_FRAY_000_001","不過在這之前……
 關於上次的事件，你有沒有什麼在意的地方？"
@@ -69,7 +69,7 @@ int32,str,str
 57,"TEXT_JOBDRK350_02055_FRAY_000_013","為了成為合格的暗黑騎士，找到聲音的主人，
 你需要獲得更強的暗黑之力，
 這樣你也許就會再次聽到那個聲音。"
-58,"TEXT_JOBDRK350_02055_FRAY_000_014","我們需要透過一個特別的儀式來獲得暗黑之力。
+58,"TEXT_JOBDRK350_02055_FRAY_000_014","我們需要通過一個特別的儀式來獲得暗黑之力。
 雖說儀式在哪裡舉辦都可以……
 不過經過上次一事，在皇都內舉辦可能會受到干擾。"
 59,"TEXT_JOBDRK350_02055_FRAY_000_015","我們還是挑個遠一點的地方吧。
@@ -96,16 +96,16 @@ int32,str,str
 在進行儀式之前，需要你展示一下作為暗黑騎士的實力。"
 69,"TEXT_JOBDRK350_02055_FRAY_000_044","要展現實力，和強敵戰鬥是最有效的……
 我們去問問這個村落的頭領，
-看看有沒有適合你的對手。"
+看看有沒有合適你的對手。"
 70,"TEXT_JOBDRK350_02055_FRAY_000_050","要展現實力，和強敵戰鬥是最有效的……
 我們去問問這個村落的頭領，
-看看有沒有適合你的對手。"
+看看有沒有合適你的對手。"
 71,"TEXT_JOBDRK350_02055_GUNDOBALD_000_051","這不是冒險者麼，
 我們這個小地方沒什麼可招待你的，不過還是由衷歡迎你的到來。
 你今天來這裡有什麼事啊？"
 72,"TEXT_JOBDRK350_02055_GUNDOBALD_000_052","……原來如此。
 你為了展現實力，來這裡尋找強敵……"
-73,"TEXT_JOBDRK350_02055_GUNDOBALD_000_053","這樣的話，我來給你介紹一個適合的對手吧。
+73,"TEXT_JOBDRK350_02055_GUNDOBALD_000_053","這樣的話，我來給你介紹一個合適的對手吧。
 最近，南邊的紅迷宮一帶經常有凶暴的<Sheet(BNpcName,4119,0)/>出沒。"
 74,"TEXT_JOBDRK350_02055_GUNDOBALD_000_054","它的攻擊十分強勁，
 就連在這危險之地生活的我們，
@@ -125,7 +125,7 @@ int32,str,str
 80,"TEXT_JOBDRK350_02055_GUNDOBALD_000_060","這就怪了，我感到你倆十分相似，
 就像親密無間的多年旅伴一樣。
 難道是我想多了？"
-81,"TEXT_JOBDRK350_02055_FRAY_000_061","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們該走了。"
+81,"TEXT_JOBDRK350_02055_FRAY_000_061","……<Highlight>ObjectParameter(1)</Highlight>，我們該走了。"
 82,"TEXT_JOBDRK350_02055_GUNDOBALD_000_070","只要把<Sheet(EventItem,2001812,0)/>放在紅迷宮，
 就能引來<Sheet(BNpcName,4119,0)/>了。
 ……你可要加油啊。"
@@ -134,12 +134,12 @@ int32,str,str
 打倒出現的<Sheet(BNpcName,4119,0)/>。"
 84,"TEXT_JOBDRK350_02055_FRAY_000_081","敵人的攻擊十分強勁，
 邊想辦法將傷害降低到最小，
-邊尋找時機體開攻勢，贏得勝利。"
+邊尋找時機展開攻勢，贏得勝利。"
 85,"TEXT_JOBDRK350_02055_FRAY_000_082","祝你成功！"
 86,"TEXT_JOBDRK350_02055_FRAY_000_090","到了你展現暗黑騎士實力的時候了。
 設定好<Sheet(EventItem,2001812,0)/>，
 打倒出現的<Sheet(BNpcName,4119,0)/>。"
-87,"TEXT_JOBDRK350_02055_FRAY_000_100","太漂亮了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+87,"TEXT_JOBDRK350_02055_FRAY_000_100","太漂亮了，<Highlight>ObjectParameter(1)</Highlight>。
 看來你的確比上次進步了不少。"
 88,"TEXT_JOBDRK350_02055_FRAY_000_101","雖說暗黑騎士的本分是「守護」，
 但一味防守，最後招架不住倒下的話，就太得不償失了。"
@@ -165,7 +165,7 @@ int32,str,str
 到底為了什麼而戰鬥……
 好痛……好痛……無法呼吸……誰來救救我……"
 98,"TEXT_JOBDRK350_02055_FRAY_000_124","儀式成功了，
-……如何， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+……如何，<Highlight>ObjectParameter(1)</Highlight>，
 你又聽到那個聲音了嗎？"
 99,"TEXT_JOBDRK350_02055_FRAY_000_125","雖然聽到了聲音，但還是不知道聲音的主人是誰？"
 100,"TEXT_JOBDRK350_02055_FRAY_000_126","但至少我之前的猜測是正確的。
@@ -174,7 +174,7 @@ int32,str,str
 但只有你才能去保護他。"
 102,"TEXT_JOBDRK350_02055_FRAY_000_128","如果他微弱的聲音傳達到了你的心房……
 那麼他的身邊就是你應該去的地方。
-我說的對嗎， <Highlight>ObjectParameter(1)</Highlight> ？"
+我說的對嗎，<Highlight>ObjectParameter(1)</Highlight>？"
 103,"TEXT_JOBDRK350_02055_FRAY_000_129","……你真是個集溫柔與強大於一身的人。
 能被你這樣的暗黑騎士保護，想必是十分幸福的事情。"
 104,"TEXT_JOBDRK350_02055_FRAY_000_130","過去，我曾和像你一樣的人一起旅行過。

@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_CLSARC006_00076_SEQ_00","弓箭手公會的會長呂西安娜身邊好像發生了什麼爭執……"
-1,"TEXT_CLSARC006_00076_SEQ_01","西爾瓦爾為了掌握帕瓦．姆茱克的線索，打算孤身一人前往偷獵者的據點。即刻前往南部林區，阻止西爾瓦爾。"
-2,"TEXT_CLSARC006_00076_SEQ_02","為了擾亂帕瓦．姆茱克一夥的行動，在位於南部林區空居東邊的泉水中吹響骨製警笛。"
-3,"TEXT_CLSARC006_00076_SEQ_03","擊退了偷獵者一夥，成功捕獲了帕瓦．姆茱克。回到弓箭手公會，向呂西安娜報告。"
-4,"TEXT_CLSARC006_00076_SEQ_04","呂西安娜說，冒險者用其雙眼和弓，幫助了蕾伊和西爾瓦爾，並為捕獲帕瓦．姆茱克出了一份力。冒險者已經掌握了「看」——這一弓術精髓。作為完成了弓箭手公會試煉的證明，呂西安娜傳授了「風蝕箭」。牢記呂西安娜、蕾伊、西爾瓦爾所教的東西，堅信自己的雙眼，繼續在弓箭手的道路上走下去。"
+1,"TEXT_CLSARC006_00076_SEQ_01","西爾瓦爾為了掌握帕瓦·姆茱克的線索，打算孤身一人前往偷獵者的據點。即刻前往南部林區，阻止西爾瓦爾。"
+2,"TEXT_CLSARC006_00076_SEQ_02","為了擾亂帕瓦·姆茱克一夥的行動，在位於南部林區空居東邊的泉水中吹響骨製警笛。"
+3,"TEXT_CLSARC006_00076_SEQ_03","擊退了偷獵者一夥，成功捕獲了帕瓦·姆茱克。回到弓箭手公會，向呂西安娜報告。"
+4,"TEXT_CLSARC006_00076_SEQ_04","呂西安娜說，冒險者用其雙眼和弓，幫助了蕾伊和西爾瓦爾，並為捕獲帕瓦·姆茱克出了一份力。冒險者已經掌握了「看」——這一弓術精髓。作為完成了弓箭手公會試煉的證明，呂西安娜傳授了「風蝕箭」。牢記呂西安娜、蕾伊、西爾瓦爾所教的東西，堅信自己的雙眼，繼續在弓箭手的道路上走下去。"
 5,"TEXT_CLSARC006_00076_SEQ_05",""
 6,"TEXT_CLSARC006_00076_SEQ_06",""
 7,"TEXT_CLSARC006_00076_SEQ_07",""
@@ -49,19 +49,19 @@ int32,str,str
 45,"TEXT_CLSARC006_00076_TODO_21",""
 46,"TEXT_CLSARC006_00076_TODO_22",""
 47,"TEXT_CLSARC006_00076_TODO_23",""
-48,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_1","<Highlight>ObjectParameter(1)</Highlight>！
 你來得正好……
 快勸勸西爾瓦爾！"
 49,"TEXT_CLSARC006_00076_LUCIANE_000_2","你太亂來了，西爾瓦爾。
 至少要等雙蛇黨的協助……"
 50,"TEXT_CLSARC006_00076_SILVAIRRE_000_3","帕瓦一夥馬上就要轉移了，已經沒有時間了。
 等雙蛇黨準備好，那些傢伙早就逃走了。"
-51,"TEXT_CLSARC006_00076_SILVAIRRE_000_4","我一定要儘快潛入偷獵者的據點，
+51,"TEXT_CLSARC006_00076_SILVAIRRE_000_4","我必須要盡快潛入偷獵者的據點，
 讓他們吐出有關帕瓦的情報。
 只有一個弓箭手的話，那些傢伙也會放鬆警惕吧。"
 52,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_5","西爾瓦爾……
 我明白你現在的心情，但也不能過於魯莽啊。
-至少要和我，還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 3個人一起……"
+至少要和我，還有<Highlight>ObjectParameter(1)</Highlight>3個人一起……"
 53,"TEXT_CLSARC006_00076_SILVAIRRE_000_6","……哼。
 冒險者和護月之民能懂什麼？"
 54,"TEXT_CLSARC006_00076_LUCIANE_000_7","西爾瓦爾！"
@@ -73,28 +73,28 @@ int32,str,str
 57,"TEXT_CLSARC006_00076_SILVAIRRE_000_10","……我從來沒有把你們當做同伴。
 你們只會礙事，不許跟過來。"
 58,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_11","……真是個笨蛋。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你注意到了嗎？
+<Highlight>ObjectParameter(1)</Highlight>，你注意到了嗎？
 那傢伙又「用手遮住了嘴」。"
 59,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_12","他是不想讓我們受到牽連，所以才說的謊。
 我們走，去南部林區！一定要阻止那傢伙！"
 60,"TEXT_CLSARC006_00076_SILVAIRRE_000_21","唔……竟然會在這種地方……"
 61,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_22","西爾瓦爾！"
-62,"TEXT_CLSARC006_00076_SILVAIRRE_000_23","蕾伊？ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+62,"TEXT_CLSARC006_00076_SILVAIRRE_000_23","蕾伊？<Highlight>ObjectParameter(1)</Highlight>？！
 你們為什麼跟過來！我不是說過你們只會礙事嗎！"
 63,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_24","不要小看我們。
 想要騙過弓箭手的眼睛可不是那麼容易的！"
-64,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_25"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們把這些追兵擊垮！"
+64,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_25","<Highlight>ObjectParameter(1)</Highlight>，我們把這些追兵擊垮！"
 65,"TEXT_CLSARC006_00076_SILVAIRRE_000_30","……我已經說過了。
 我從沒有把你們當做同伴。"
 66,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_31","你根本就沒有看清你自己。
 你在說謊的時候，會用手遮住嘴巴。
 這個小動作連你自己都沒有察覺吧！"
-67,"TEXT_CLSARC006_00076_SILVAIRRE_000_32","……！"
+67,"TEXT_CLSARC006_00076_SILVAIRRE_000_32","……"
 68,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_33","要認真觀察對方的動作，不漏掉一絲細節。
-透過觀察，瞭解其特性，然後考慮如何行動。"
-69,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_34","這是我跟呂西安娜， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+通過觀察，了解其特性，然後考慮如何行動。"
+69,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_34","這是我跟呂西安娜，<Highlight>ObjectParameter(1)</Highlight>……
 還有西爾瓦爾你……學到的東西。"
-70,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_35","的確，我們不夠瞭解格里達尼亞。
+70,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_35","的確，我們不夠了解格里達尼亞。
 所以你要多告訴我們一些，
 多讓我們看一些這座城市的魅力之處啊。"
 71,"TEXT_CLSARC006_00076_SILVAIRRE_000_36","……哼。
@@ -103,16 +103,16 @@ int32,str,str
 73,"TEXT_CLSARC006_00076_SILVAIRRE_000_38","帕瓦那夥人開始轉移了。
 但現在還有機會捉到他們。"
 74,"TEXT_CLSARC006_00076_SILVAIRRE_000_39","我們可以用這個偷獵者之間使用的「骨製警笛」，
-給帕瓦一夥傳送假的訊號，引他們出來。"
+給帕瓦一夥發送假的信號，引他們出來。"
 75,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_40","原來如此，你是為了拿到這個東西，
 所以才到「枯葉堆」來的啊……"
-76,"TEXT_CLSARC006_00076_SILVAIRRE_000_41","這個警笛就交給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你吧。"
+76,"TEXT_CLSARC006_00076_SILVAIRRE_000_41","這個警笛就交給<Highlight>ObjectParameter(1)</Highlight>你吧。"
 77,"TEXT_CLSARC006_00076_SILVAIRRE_000_42","你去「空居」東邊被岩石圍繞的泉水中央，
 吹響這個「骨製警笛」。
 四周的岩石會產生迴音，進而傳到那些傢伙的耳朵裡。"
 78,"TEXT_CLSARC006_00076_SILVAIRRE_000_43","不用擔心之後的事情。
 我會賭上格里達尼亞弓箭手之名，保護同伴的。"
-79,"TEXT_CLSARC006_00076_PAWAHMUJUUK_000_0000","真是的，嗅覺還蠻靈敏的啊。"
+79,"TEXT_CLSARC006_00076_PAWAHMUJUUK_000_0000","真是的，嗅覺還挺靈敏的啊。"
 80,"TEXT_CLSARC006_00076_PAWAHMUJUUK_000_0001","……真是學不乖啊。"
 81,"TEXT_CLSARC006_00076_SILVAIRRE_000_0002","你討厭執著的男人嗎？"
 82,"TEXT_CLSARC006_00076_PAWAHMUJUUK_000_0003","熱情的男人……我並不討厭。"
@@ -127,12 +127,12 @@ int32,str,str
 這次不會讓她再逃了。"
 89,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_75","哼哼！
 看到了吧，這就是我們的弓術！"
-90,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_76","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們回格里達尼亞吧！"
+90,"TEXT_CLSARC006_00076_LEIHALIAPOH_000_76","好了，<Highlight>ObjectParameter(1)</Highlight>，我們回格里達尼亞吧！"
 91,"TEXT_CLSARC006_00076_PAWAHMUJUUK_000_80","唔……"
 92,"TEXT_CLSARC006_00076_LUCIANE_000_60","你回來了。
-謝謝你…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+謝謝你……<Highlight>ObjectParameter(1)</Highlight>。"
 93,"TEXT_CLSARC006_00076_LUCIANE_000_61","你用你那雙弓箭手的眼睛，給予那兩個人幫助，
-並成功捕獲了帕瓦．姆茱克。"
+並成功捕獲了帕瓦·姆茱克。"
 94,"TEXT_CLSARC006_00076_LUCIANE_000_62","我能教給你的事情，也只剩下最後一件了。
 作為你完成了弓箭手公會修練的證明，
 我要將弓箭手公會的傳承之技教給你。"
@@ -146,7 +146,7 @@ int32,str,str
 98,"TEXT_CLSARC006_00076_LUCIANE_000_66","繼續堅信你眼中看到的世界吧，
 今後也請繼續努力。"
 99,"TEXT_CLSARC006_00076_QIB_TODO_001","打倒偷獵者！"
-100,"TEXT_CLSARC006_00076_QIB_TODO_002","打倒「白面鬼」帕瓦．姆茱克一夥！"
+100,"TEXT_CLSARC006_00076_QIB_TODO_002","打倒「白面鬼」帕瓦·姆茱克一夥！"
 101,"TEXT_CLSARC006_00076_INSTANCE_BATTLE_YESNO_TITLE","要開始「毫無迷惘的眼瞳」的戰鬥嗎？"
 102,"TEXT_CLSARC006_00076_INSTANCE_BATTLE_YESNO_YES","是"
 103,"TEXT_CLSARC006_00076_INSTANCE_BATTLE_YESNO_NO","否"
@@ -154,11 +154,11 @@ int32,str,str
 105,"TEXT_CLSARC006_00076_INSTANCE_BATTLE_YESNO_YES_2","是"
 106,"TEXT_CLSARC006_00076_INSTANCE_BATTLE_YESNO_NO_2","否"
 107,"TEXT_CLSARC006_00076_UNNOWN_BATTLETALK_01","一夥的嗎？不會讓你逃掉的！"
-108,"TEXT_CLSARC006_00076_LEIHALIAPOH_BATTLETALK_01","和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一起的話這種小賊不算什麼！"
+108,"TEXT_CLSARC006_00076_LEIHALIAPOH_BATTLETALK_01","和<Highlight>ObjectParameter(1)</Highlight>一起的話這種小賊不算什麼！"
 109,"TEXT_CLSARC006_00076_UNNOWN_BATTLETALK_02","小心！這些傢伙不好對付！"
 110,"TEXT_CLSARC006_00076_UNNOWN_BATTLETALK_03","可惡……區區一個冒險者……"
-111,"TEXT_CLSARC006_00076_LEIHALIAPOH_BATTLETALK_DEAD","抱歉，我扯你後腿了……"
-112,"TEXT_CLSARC006_00076_SILVAIRRE_BATTLETALK_01","蕾伊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，先把那些雜兵收拾掉。
+111,"TEXT_CLSARC006_00076_LEIHALIAPOH_BATTLETALK_DEAD","抱歉，我拖你後腿了……"
+112,"TEXT_CLSARC006_00076_SILVAIRRE_BATTLETALK_01","蕾伊，<Highlight>ObjectParameter(1)</Highlight>，先把那些雜兵收拾掉。
 帕瓦就交給我吧！"
 113,"TEXT_CLSARC006_00076_LEIHALIAPOH_BATTLETALK_02","交給我吧！"
 114,"TEXT_CLSARC006_00076_PAWAHMUJUUK_BATTLETALK_03","呵呵，我會好好疼愛你們的。"
@@ -168,6 +168,6 @@ int32,str,str
 117,"TEXT_CLSARC006_00076_PAWAHMUJUUK_BATTLETALK_06","呵呵，我的鍛鍊方式可跟你們這些在公會裡悠閒度日的少爺小姐是不同的。"
 118,"TEXT_CLSARC006_00076_PAWAHMUJUUK_BATTLETALK_07","……真是猖狂……就讓你們見識下我的絕招。"
 119,"TEXT_CLSARC006_00076_PAWAHMUJUUK_BATTLETALK_08","嘗嘗護月之民出神入化的弓術絕技吧！"
-120,"TEXT_CLSARC006_00076_SILVAIRRE_BATTLETALK_09","蕾伊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，小心！帕瓦攻過來了！"
+120,"TEXT_CLSARC006_00076_SILVAIRRE_BATTLETALK_09","蕾伊，<Highlight>ObjectParameter(1)</Highlight>，小心！帕瓦攻過來了！"
 121,"TEXT_CLSARC006_00076_LEIHALIAPOH_BATTLETALK_DEAD_02","怎麼會在這種時候……抱歉……"
 122,"TEXT_CLSARC006_00076_SILVAIRRE_BATTLETALK_DEAD_02","唔，真是丟臉，要殺出重圍啊……"

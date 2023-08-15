@@ -7,7 +7,7 @@ int32,str
 3,"殲滅敵人"
 4,"追擊敵人"
 5,"令敵人弱化，並利用<If(Equal(IntegerParameter(1),0))>情感動作「安撫」<Else/><Sheet(EventItem,IntegerParameter(1),0)/></If>將其馴服"
-6,"透過<If(Equal(IntegerParameter(1),0))>攻擊<Else/>使用<Sheet(EventItem,IntegerParameter(1),0)/></If>來識破敵人的真身並進行討伐"
+6,"通過<If(Equal(IntegerParameter(1),0))>攻擊<Else/>使用<Sheet(EventItem,IntegerParameter(1),0)/></If>來識破敵人的真身並進行討伐"
 7,"在指定地點巡邏，並擊退敵人"
 8,"收集«妖異全集»的書頁
 召喚出被封印的魔物並將其打倒"

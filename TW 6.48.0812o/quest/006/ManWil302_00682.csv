@@ -3,9 +3,9 @@
 int32,str,str
 0,"TEXT_MANWIL302_00682_SEQ_00","恆輝隊軍官對於冒險者立志加入恆輝隊感到十分高興。"
 1,"TEXT_MANWIL302_00682_SEQ_01","將加入的意願傳達給了恆輝隊軍官。拜訪烏爾達哈的恆輝作戰總部，由恆輝隊人事負責人辦理正式的入隊手續。"
-2,"TEXT_MANWIL302_00682_SEQ_02","在入隊儀式之前，接到了報告稱高風飛行社的飛空艇受到了帝國的炮擊。前往預測墜落地點地平，確認一下情況。"
-3,"TEXT_MANWIL302_00682_SEQ_03","打倒了試圖接管墜落的飛空艇的帝國兵。乘坐在飛空艇上的，是加隆德煉鐵廠的技術員畢格斯和威吉。據畢格斯所說，加隆德煉鐵廠的會長似乎在第七靈災之後就下落不明了……向恆輝作戰總部的恆輝隊人事負責人報告。"
-4,"TEXT_MANWIL302_00682_SEQ_04"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在正式入黨前就完成了一項重要工作，恆輝隊人事負責人對此給予了高度評價。營救出的技術人員也平安歸來了，事件看上去得以解決。與恆輝隊人事負責人交談，舉行入隊儀式。"
+2,"TEXT_MANWIL302_00682_SEQ_02","在入隊儀式之前，接到了報告稱高風飛行社的飛空艇受到了帝國的砲擊。前往預測墜落地點地平，確認一下情況。"
+3,"TEXT_MANWIL302_00682_SEQ_03","打倒了試圖接管墜落的飛空艇的帝國兵。乘坐在飛空艇上的，是加隆德煉鐵廠的技術員比格斯和魏吉。據比格斯所說，加隆德煉鐵廠的會長似乎在第七靈災之後就下落不明了……向恆輝作戰總部的恆輝隊人事負責人報告。"
+4,"TEXT_MANWIL302_00682_SEQ_04","<Highlight>ObjectParameter(1)</Highlight>在正式入黨前就完成了一項重要工作，恆輝隊人事負責人對此給予了高度評價。營救出的技術人員也平安歸來了，事件看上去得以解決。與恆輝隊人事負責人交談，舉行入隊儀式。"
 5,"TEXT_MANWIL302_00682_SEQ_05",""
 6,"TEXT_MANWIL302_00682_SEQ_06",""
 7,"TEXT_MANWIL302_00682_SEQ_07",""
@@ -54,7 +54,7 @@ int32,str,str
 49,"TEXT_MANWIL302_00682_Q1_000_1","要加入烏爾達哈的恆輝隊嗎？"
 50,"TEXT_MANWIL302_00682_A1_000_1","是"
 51,"TEXT_MANWIL302_00682_A1_000_2","否"
-52,"TEXT_MANWIL302_00682_FLAMEOFFICER_000_2","謝天謝地。我還以為前幾個日子作戰中出現的背叛，
+52,"TEXT_MANWIL302_00682_FLAMEOFFICER_000_2","謝天謝地。我還以為前些日子作戰中出現的背叛，
 會讓你喪失對恆輝隊的信任呢……
 你的度量，遠比我想像中要大。"
 53,"TEXT_MANWIL302_00682_FLAMEOFFICER_000_3","我們得到了一名出色的戰友！
@@ -80,24 +80,24 @@ int32,str,str
 61,"TEXT_MANWIL302_00682_Q2_000_1","要做什麼？"
 62,"TEXT_MANWIL302_00682_A2_000_1","報上名字"
 63,"TEXT_MANWIL302_00682_A2_000_2","表示想加入恆輝隊"
-64,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_21","你就是 <Highlight>ObjectParameter(1)</Highlight> 啊！
-我已經收到聯繫了。
+64,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_21","你就是<Highlight>ObjectParameter(1)</Highlight>啊！
+我已經收到聯絡了。
 能將你迎入恆輝隊，我感到萬分高興！"
 65,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_100_21","歡迎來到恆輝隊！
-是 <Highlight>ObjectParameter(1)</Highlight> 對吧！
-我已經收到聯繫了。"
+是<Highlight>ObjectParameter(1)</Highlight>對吧！
+我已經收到聯絡了。"
 66,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_22","那麼這就由我來說明一下入隊的各項規定，
 並召開一個簡短的入隊儀式吧！"
 67,"TEXT_MANWIL302_00682_FLAMEPRIVATE_000_23","報告！"
 68,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_24","出什麼事了？慌慌張張的。"
 69,"TEXT_MANWIL302_00682_FLAMEPRIVATE_000_25","偵察部隊傳來消息！
 高風飛行社的小型飛空艇，
-在西薩納蘭上空，遭到帝國軍炮擊！"
+在西薩納蘭上空，遭到帝國軍砲擊！"
 70,"TEXT_MANWIL302_00682_FLAMEPRIVATE_000_26","之後飛空艇迫降在西薩納蘭的地平！"
 71,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_27","你說什麼？！
 偏偏在這個時候……
 主力部隊全都調出去解決與蜥蜴人族的衝突了。"
-72,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28"," <Highlight>ObjectParameter(1)</Highlight> ！
+72,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28","<Highlight>ObjectParameter(1)</Highlight>！
 在正式入隊前雖有些過意不去，但請你幫忙！"
 73,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_29","飛空艇中應該乘有普通百姓才對！
 那附近在帝國軍的偵察範圍內。
@@ -115,37 +115,37 @@ int32,str,str
 80,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_42","我們是烏爾達哈恆輝隊的人。
 你是加隆德煉鐵廠的技術員吧？
 我們接到飛空艇墜落報告，前來進行營救。"
-81,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_43","你就是 <Highlight>ObjectParameter(1)</Highlight> 吧？
+81,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_43","你就是<Highlight>ObjectParameter(1)</Highlight>吧？
 先行偵察辛苦你了！"
 82,"TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_44","竟然造出了這樣的新型飛空艇……
-席德．南．加隆德這傢伙是多痛恨帝國。"
+西德·南·加隆德這傢伙是多痛恨帝國。"
 83,"TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_45","飛空艇本來就是由我國的魔導技術發展出來的東西……
 是那傢伙自作主張帶出去了而已。
-完全沒有打算給艾奧傑亞！"
+完全沒有打算給艾歐澤亞！"
 84,"TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_46","這艘新型飛空艇，就由我軍接管了！
 把那邊的魔導技術員也帶走！
 準備撤退！"
 85,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_47","他們是帝國南方堡派來的斥候麼……
 打算接管飛空艇啊。"
-86,"TEXT_MANWIL302_00682_BIGGS_000_48","(-飛空艇的乘員-)請救救我的搭檔，救救威吉！
+86,"TEXT_MANWIL302_00682_BIGGS_000_48","(-飛空艇的乘員-)請救救我的搭檔，救救魏吉！
 他沒能逃出來，還藏在小野馬中！"
 87,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_49","小野馬？！
 那麼，這就是傳聞中的新型艇了！"
-88,"TEXT_MANWIL302_00682_BIGGS_000_50","(-飛空艇的乘員-)是在我們老闆，不，席德會長，
+88,"TEXT_MANWIL302_00682_BIGGS_000_50","(-飛空艇的乘員-)是在我們老闆，不，西德會長，
 因第七靈災下落不明後，
-艾奧傑亞首次製造出的飛空艇。"
+艾歐澤亞首次製造出的飛空艇。"
 89,"TEXT_MANWIL302_00682_BIGGS_000_51","(-飛空艇的乘員-)好不容易熬到試飛了。
 明明飛得很順利，可惡……"
-90,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_52","奪回艾奧傑亞的飛空艇，
+90,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_52","奪回艾歐澤亞的飛空艇，
 救出未能逃出的加隆德煉鐵廠技術員！"
-91,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_53"," <Highlight>ObjectParameter(1)</Highlight> ！
+91,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_53","<Highlight>ObjectParameter(1)</Highlight>！
 你也來幫忙嗎？"
 92,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_54","好，全體突擊！
 將他們送去札爾神的座前！"
 93,"TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_55","可惡，敵方襲擊！
 快還擊！"
-94,"TEXT_MANWIL302_00682_WEDGE_000_60","畢格斯！"
-95,"TEXT_MANWIL302_00682_BIGGS_000_61","威吉！
+94,"TEXT_MANWIL302_00682_WEDGE_000_60","比格斯！"
+95,"TEXT_MANWIL302_00682_BIGGS_000_61","魏吉！
 太好了，沒事吧！"
 96,"TEXT_MANWIL302_00682_WEDGE_000_62","太可怕了！"
 97,"TEXT_MANWIL302_00682_BIGGS_000_63","看來沒受傷。
@@ -158,18 +158,18 @@ int32,str,str
 100,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_66","在這期間，由我們對周邊進行警戒。
 剛才的帝國兵看上去是斥候。
 一時半會應該不會有援軍來的。"
-101,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_67"," <Highlight>ObjectParameter(1)</Highlight> ！
+101,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_67","<Highlight>ObjectParameter(1)</Highlight>！
 你返回烏爾達哈的恆輝隊總部，
 將入隊手續辦完吧。"
 102,"TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_68","希望像你這樣出色的冒險者，
-能儘早成為恆輝隊的一員！
-作戰總部那邊就由我負責聯繫了。"
+能盡早成為恆輝隊的一員！
+作戰總部那邊就由我負責聯絡了。"
 103,"TEXT_MANWIL302_00682_BIGGS_000_69","抱歉，剛剛懷疑了你……
 謝謝！
 多虧有你，我們才能得救！"
 104,"TEXT_MANWIL302_00682_BIGGS_000_70","還不快道謝？！"
 105,"TEXT_MANWIL302_00682_WEDGE_000_71","謝謝你救了我們！"
-106,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_80"," <Highlight>ObjectParameter(1)</Highlight> ，平安回來了啊。
+106,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_80","<Highlight>ObjectParameter(1)</Highlight>，平安回來了啊。
 我剛收到了報告。
 幹得漂亮！"
 107,"TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_81","哈哈哈！
@@ -184,7 +184,7 @@ int32,str,str
 111,"TEXT_MANWIL302_00682_QIB_TODO_001","打倒加雷馬帝國兵！"
 112,"TEXT_MANWIL302_00682_FLAMELT_BATTLETALK_001","全體，殲滅帝國軍！"
 113,"TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_001","不要讓他們靠近飛空艇！"
-114,"TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_002","艾奧傑亞的野蠻人來勁了！"
+114,"TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_002","艾歐澤亞的野蠻人來勁了！"
 115,"TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_003","喂，使用那個！"
 116,"TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_004","去吧，魔導先鋒！
 讓他們領教一下魔導技術的可怕之處！"

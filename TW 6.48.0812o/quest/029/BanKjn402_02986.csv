@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANKJN402_02986_SEQ_22",""
 23,"TEXT_BANKJN402_02986_SEQ_23",""
 24,"TEXT_BANKJN402_02986_TODO_00","從痙攣寨附近的<Sheet(BNpcName,6877,0)/>身上
-獲得<Sheet(EventItem,2002403,0)/>"
+獲取<Sheet(EventItem,2002403,0)/>"
 25,"TEXT_BANKJN402_02986_TODO_01","向頭巾報告"
 26,"TEXT_BANKJN402_02986_TODO_02",""
 27,"TEXT_BANKJN402_02986_TODO_03",""
@@ -54,7 +54,7 @@ int32,str,str
 46,"TEXT_BANKJN402_02986_TODO_22",""
 47,"TEXT_BANKJN402_02986_TODO_23",""
 48,"TEXT_BANKJN402_02986_ZUKIN_000_000","已經和鯰魚精們結了緣，
-所以我在交易的商品清單裡新新增了牛鬼的肉——
+所以我在交易的商品清單裡新添加了牛鬼的肉——
 聽說牛鬼的肉是鯰魚精的最愛——"
 49,"TEXT_BANKJN402_02986_ZUKIN_000_001","在自凝島有<Sheet(BNpcName,6877,0)/>出現，
 <If(PlayerParameter(4))>大姐<Else/>大哥</If>，請你大顯身手幫忙狩獵——"

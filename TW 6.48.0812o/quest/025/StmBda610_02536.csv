@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDA610_02536_SEQ_22",""
 23,"TEXT_STMBDA610_02536_SEQ_23",""
 24,"TEXT_STMBDA610_02536_TODO_00","在<Sheet(EObj,2008202,0)/>張望 討伐出現的帝國兵"
-25,"TEXT_STMBDA610_02536_TODO_01","和阿莉塞會合"
+25,"TEXT_STMBDA610_02536_TODO_01","和阿莉塞匯合"
 26,"TEXT_STMBDA610_02536_TODO_02",""
 27,"TEXT_STMBDA610_02536_TODO_03",""
 28,"TEXT_STMBDA610_02536_TODO_04",""
@@ -52,28 +52,28 @@ int32,str,str
 48,"TEXT_STMBDA610_02536_ALISAIE_000_001","我們就分頭在主力部隊進軍路線以外的場所巡邏吧，
 只要看到帝國兵就二話不說消滅掉。"
 49,"TEXT_STMBDA610_02536_ALISAIE_000_002","我也告訴阿雷恩瓦爾德他們咱們負責的區域了。
-你就到地圖示著的範圍進行索敵吧。
-等結束了咱們再在集合點會合。"
+你就到地圖標著的範圍進行索敵吧。
+等結束了咱們再在集合點匯合。"
 50,"TEXT_STMBDA610_02536_BALLOON_000_010","發現敵人！
 消滅敵人！"
 51,"TEXT_STMBDA610_02536_BALLOON_000_015","開始攻擊！"
-52,"TEXT_STMBDA610_02536_ALISAIE_000_020","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你等我一下……"
+52,"TEXT_STMBDA610_02536_ALISAIE_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>，你等我一下……"
 53,"TEXT_STMBDA610_02536_ALISAIE_200_020","不、沒什麼，阿雷恩瓦爾德，你繼續……"
 54,"TEXT_STMBDA610_02536_ALISAIE_100_020","……原來如此，那麼就拜託你們繼續追蹤那些傢伙了……
 一定要多加小心。"
 55,"TEXT_STMBDA610_02536_ALISAIE_000_021","抱歉，剛剛接到阿雷恩瓦爾德的通訊珠通訊，
 說是發現了在邊區目擊到的可疑二人組……
 就讓他們繼續追蹤了。"
-56,"TEXT_STMBDA610_02536_ALISAIE_000_022","那麼…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你那邊怎麼樣？"
+56,"TEXT_STMBDA610_02536_ALISAIE_000_022","那麼……<Highlight>ObjectParameter(1)</Highlight>，你那邊怎麼樣？"
 57,"TEXT_STMBDA610_02536_ALISAIE_000_023","果然有少數的帝國軍部隊在啊。
 我這邊也消滅了幾個敵兵。"
-58,"TEXT_STMBDA610_02536_ALISAIE_000_024","現在主力部隊應該正在進攻監望塔吧。
+58,"TEXT_STMBDA610_02536_ALISAIE_000_024","現在主力部隊估計正在進攻監望塔吧。
 希望那邊也能一切順利……"
 59,"TEXT_STMBDA610_02536_ALISAIE_000_025","什麼！！
 御制監望塔的主塔坍塌了？！"
-60,"TEXT_STMBDA610_02536_ALISAIE_000_026","剛剛聽到了炮擊聲……
-莫非帝國軍從帝國白山堡向監望塔發動炮擊了？！
+60,"TEXT_STMBDA610_02536_ALISAIE_000_026","剛剛聽到了砲擊聲……
+莫非帝國軍從帝國白山堡向監望塔發動砲擊了？！
 那邊明明還有那麼多他們的友軍！"
-61,"TEXT_STMBDA610_02536_ALISAIE_000_027","……不行！通訊珠的訊號中斷了！"
-62,"TEXT_STMBDA610_02536_ALISAIE_000_028"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們也趕快去監望塔吧。
+61,"TEXT_STMBDA610_02536_ALISAIE_000_027","……不行！通訊珠的信號中斷了！"
+62,"TEXT_STMBDA610_02536_ALISAIE_000_028","<Highlight>ObjectParameter(1)</Highlight>，我們也趕快去監望塔吧。
 必須得確認一下主力部隊……還有阿爾菲諾和莉瑟他們的情況！"

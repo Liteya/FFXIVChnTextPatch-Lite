@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSWDK007_00536_TODO_21",""
 46,"TEXT_CLSWDK007_00536_TODO_22",""
 47,"TEXT_CLSWDK007_00536_TODO_23",""
-48,"TEXT_CLSWDK007_00536_BEATINE_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……有個好消息！
+48,"TEXT_CLSWDK007_00536_BEATINE_000_1","<Highlight>ObjectParameter(1)</Highlight>……有個好消息！
 有個……委託給你的工作。"
 49,"TEXT_CLSWDK007_00536_BEATINE_000_2","委託人是蓋伊爾哈德。
 ……你還記得他吧？
@@ -65,9 +65,9 @@ int32,str,str
 卻也因此總是要以身犯險。"
 53,"TEXT_CLSWDK007_00536_BEATINE_000_6","他們是在捨身守護格里達尼亞。
 我也要拜託你……
-為了他們，請你製作出最高品質的<Sheet(ItemHQ,　1917,0)/>吧！"
+為了他們，請你製作出最優質的<Sheet(ItemHQ,　1917,0)/>吧！"
 54,"TEXT_CLSWDK007_00536_BEATINE_000_10","<Sheet(ItemHQ,　1917,0)/>已經做好了嗎？"
-55,"TEXT_CLSWDK007_00536_BEATINE_000_11"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……做得真是太好了！"
+55,"TEXT_CLSWDK007_00536_BEATINE_000_11","<Highlight>ObjectParameter(1)</Highlight>……做得真是太好了！"
 56,"TEXT_CLSWDK007_00536_BEATINE_000_12","製作<Sheet(ItemHQ,　1917,0)/>用的是<Sheet(Item,5373,0)/>,
 這種木材兼具硬度和彈性，耐久性很優良。"
 57,"TEXT_CLSWDK007_00536_BEATINE_000_13","這種「彈性」，對追求「彈力」的弓來說非常重要……"
@@ -75,11 +75,11 @@ int32,str,str
 加工橡木需要很高的技術才行……
 普通的刻木匠可是不容易辦到的啊……"
 59,"TEXT_CLSWDK007_00536_BEATINE_000_15","嘻嘻……這把弓上彙集了無數刻木匠積累下來的經驗，
-也展現著你的成長……"
+也體現著你的成長……"
 60,"TEXT_CLSWDK007_00536_BEATINE_000_16","好了，你把這弓送去給蓋伊爾哈德吧，
 他就在蛇巢司令部……
 看到這弓他也一定會很高興的！"
-61,"TEXT_CLSWDK007_00536_GAIRHARD_000_20","哦，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+61,"TEXT_CLSWDK007_00536_GAIRHARD_000_20","哦，是<Highlight>ObjectParameter(1)</Highlight>啊。
 拜託你做的<Sheet(ItemHQ,　1917,0)/>怎樣了？"
 62,"TEXT_CLSWDK007_00536_GAIRHARD_000_21","喔喔……這真是太完美了！
 拜託你來做果然是正確的選擇。

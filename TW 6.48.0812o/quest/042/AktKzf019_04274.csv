@@ -87,13 +87,13 @@ int32,str,str
 72,"TEXT_AKTKZF019_04274_SYSMES_000_006","伴隨著發出振羽的聲音，桓娑的眼睛都彷彿在閃閃發光……
 看來是餵了正確的飼料。"
 73,"TEXT_AKTKZF019_04274_SYSMES_000_007","桓娑正以空虛的眼神凝望著空中。
-看來是喂錯了飼料。"
+看來是餵錯了飼料。"
 74,"TEXT_AKTKZF019_04274_SYSTEM_100_007","桓娑好像很滿足地凝望著虛空……"
 75,"TEXT_AKTKZF019_04274_SYSTEM_200_007","桓娑彷彿在期待著什麼一樣望著這邊……"
-76,"TEXT_AKTKZF019_04274_VISHRAHD_000_008","喲，怎麼樣，結束了嗎？
+76,"TEXT_AKTKZF019_04274_VISHRAHD_000_008","喲，怎麼樣，完事了嗎？
 幹得不錯呀……
 下次我還想找你來幹，能告訴我你的名字嗎？"
-77,"TEXT_AKTKZF019_04274_VISHRAHD_000_009"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……難道你是那位救助了摩提夏的冒險者嗎？！"
+77,"TEXT_AKTKZF019_04274_VISHRAHD_000_009","<Highlight>ObjectParameter(1)</Highlight>……難道你是那位救助了摩提夏的冒險者嗎？！"
 78,"TEXT_AKTKZF019_04274_VISHRAHD_000_010","我還想著有機會要見你一面呢……
 沒想到把你當做臨時僱傭的幫工了。
 真是抱歉……"

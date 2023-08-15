@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANSYL301_01277_SEQ_00","妖精暫留地的莫奇希亞想要借助冒險者的力量。"
+0,"TEXT_BANSYL301_01277_SEQ_00","妖精暫留地的莫奇希亞想要藉助冒險者的力量。"
 1,"TEXT_BANSYL301_01277_SEQ_01","莫奇希亞委託冒險者去討伐能產出乳根的魔物。討伐妖精領西部的<Sheet(BNpcName,162,0)/>或<Sheet(BNpcName,165,0)/>，收集6份<Sheet(EventItem,2001122,0)/>。"
 2,"TEXT_BANSYL301_01277_SEQ_02","獲得了<Sheet(EventItem,2001122,0)/>。將<Sheet(EventItem,2001122,0)/>交給妖精暫留地的莫奇希亞。"
 3,"TEXT_BANSYL301_01277_SEQ_03","將委託品交給了莫奇希亞。莫奇希亞對這一舉兩得的解決辦法感到很滿意，並感謝了冒險者。下次有機會再協助他。"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANSYL301_01277_SEQ_22",""
 23,"TEXT_BANSYL301_01277_SEQ_23",""
 24,"TEXT_BANSYL301_01277_TODO_00","討伐<Sheet(BNpcName,162,0)/>或<Sheet(BNpcName,165,0)/>
-獲得<Sheet(EventItem,2001122,0)/>"
+獲取<Sheet(EventItem,2001122,0)/>"
 25,"TEXT_BANSYL301_01277_TODO_01","將<Sheet(EventItem,2001122,0)/>交給莫奇希亞"
 26,"TEXT_BANSYL301_01277_TODO_02",""
 27,"TEXT_BANSYL301_01277_TODO_03",""
@@ -59,7 +59,7 @@ int32,str,str
 我想請你去打倒那些能產出乳根的魔物呼啾！"
 51,"TEXT_BANSYL301_01277_MOXIA_000_003","我想請你去除掉<Sheet(BNpcName,162,0)/>或<Sheet(BNpcName,165,0)/>，
 收集6份<Sheet(EventItem,2001122,0)/>呼啾！"
-52,"TEXT_BANSYL301_01277_MOXIA_000_004",""
+52,"TEXT_BANSYL301_01277_MOXIA_000_004","(カット)"
 53,"TEXT_BANSYL301_01277_MOXIA_000_010","我想請你去除掉<Sheet(BNpcName,162,0)/>或<Sheet(BNpcName,165,0)/>，
 收集6份<Sheet(EventItem,2001122,0)/>呼啾！"
 54,"TEXT_BANSYL301_01277_MOXIA_000_020","冒險者朋友！

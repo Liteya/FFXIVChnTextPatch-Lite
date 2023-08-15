@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_LUCKZH005_03515_TODO_21",""
 46,"TEXT_LUCKZH005_03515_TODO_22",""
 47,"TEXT_LUCKZH005_03515_TODO_23",""
-48,"TEXT_LUCKZH005_03515_TOLAS_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_LUCKZH005_03515_TOLAS_000_000","<Highlight>ObjectParameter(1)</Highlight>，
 多虧你的幫助，我平安回到了我的職位上。
 我正要去水晶都執行任務。"
 49,"TEXT_LUCKZH005_03515_TOLAS_000_001","如果你也要回到水晶都，咱們就一起走吧？
@@ -106,7 +106,7 @@ int32,str,str
 滾開……可惡……該死這些魔物……"
 73,"TEXT_LUCKZH005_03515_TOLAS_000_042","剛才的聲音是？！
 是從東邊傳來的！
-快過去看看， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+快過去看看，<Highlight>ObjectParameter(1)</Highlight>！"
 74,"TEXT_LUCKZH005_03515_NIELDEN_000_050","你、你為什麼會在這裡？"
 75,"TEXT_LUCKZH005_03515_TOLAS_000_051","唔……受了點輕傷，不過沒關係。
 你沒事嗎？
@@ -127,14 +127,14 @@ int32,str,str
 現在她已經能夠出色地為患者們進行診療了。"
 82,"TEXT_LUCKZH005_03515_NIELDEN_000_057","那傢伙也想見你。
 請你務必去看看現在的卡蕾雅。"
-83,"TEXT_LUCKZH005_03515_TOLAS_000_058","……我知道了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+83,"TEXT_LUCKZH005_03515_TOLAS_000_058","……我知道了，<Highlight>ObjectParameter(1)</Highlight>，
 也讓你擔心了。
 不好意思，拜託你帶路吧。"
 84,"TEXT_LUCKZH005_03515_NIELDEN_000_059","好，那就決定了！
 立刻出發吧，喬布要塞離這裡不遠了。"
 85,"TEXT_LUCKZH005_03515_TOLAS_000_070","真的不是什麼嚴重的傷……
 但盛情難卻啊。"
-86,"TEXT_LUCKZH005_03515_CALLEA_000_071","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+86,"TEXT_LUCKZH005_03515_CALLEA_000_071","哎呀，<Highlight>ObjectParameter(1)</Highlight>？！
 好久不見啊，竟然能在這裡再見到你！"
 87,"TEXT_LUCKZH005_03515_NIELDEN_000_072","卡蕾雅，幫這個人治療一下。
 他為了保護我而受傷了。"
@@ -147,7 +147,7 @@ int32,str,str
 90,"TEXT_LUCKZH005_03515_TOLAS_000_075","我想給恩人展示一下我的成長嘛，真是出醜了。
 好不容易在你的幫助下我再次握起了劍，
 居然搞成這樣……"
-91,"TEXT_LUCKZH005_03515_CALLEA_000_076","……難道說托拉斯你也得到過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫助嗎？
+91,"TEXT_LUCKZH005_03515_CALLEA_000_076","……難道說托拉斯你也得到過<Highlight>ObjectParameter(1)</Highlight>的幫助嗎？
 其實我也是！"
 92,"TEXT_LUCKZH005_03515_TOLAS_000_077","哦，那可真巧啊！
 到底發生過什麼事呢？"
@@ -158,7 +158,7 @@ int32,str,str
 可別搞得像科爾法思……卡蕾雅的父親那樣。"
 95,"TEXT_LUCKZH005_03515_TOLAS_000_080","(-托拉斯的聲音-)這個太厲害了！
 這個止痛藥是你製作的？"
-96,"TEXT_LUCKZH005_03515_CALLEA_000_081","是的， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫過我的那件事成為了契機，
+96,"TEXT_LUCKZH005_03515_CALLEA_000_081","是的，<Highlight>ObjectParameter(1)</Highlight>幫過我的那件事成為了契機，
 最近我參照父親遺留的筆記開始製作藥品了。"
 97,"TEXT_LUCKZH005_03515_TOLAS_000_082","嗯……效果這麼好，
 奧斯塔爾嚴命城裡應該常備一些。"
@@ -190,7 +190,7 @@ int32,str,str
 111,"TEXT_LUCKZH005_03515_TOLAS_000_093","啊，交給我吧。
 那我先走了。"
 112,"TEXT_LUCKZH005_03515_CALLEA_000_100","要見的人就是這位嗎？"
-113,"TEXT_LUCKZH005_03515_MAUWYL_000_101","咦？ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+113,"TEXT_LUCKZH005_03515_MAUWYL_000_101","咦？<Highlight>ObjectParameter(1)</Highlight>？！
 怎麼回事？你們都是來找我的嗎？"
 114,"TEXT_LUCKZH005_03515_TOLAS_000_102","這是奧斯塔爾嚴命城的部隊需要的物資清單。
 尤其是修補城牆的木材嚴重不足……
@@ -208,7 +208,7 @@ int32,str,str
 我覺得你肯定有什麼特別的能力。"
 120,"TEXT_LUCKZH005_03515_TOLAS_000_108","這項交易要是成功了，
 奧斯塔爾嚴命城的傷病員們就能拿到良藥了。
-要是沒有你，這事也沒辦法辦成。"
+要是沒有你，這事也沒法辦成。"
 121,"TEXT_LUCKZH005_03515_TOLAS_000_109","我之後也打算繼續幫助馬維爾和卡蕾雅，
 逐漸改善雷克蘭德一帶的狀況。
 得要多加利用你幫忙結下的緣分才行啊……"

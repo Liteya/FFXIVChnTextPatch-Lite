@@ -77,15 +77,15 @@ int32,str,str
 不管是衛兵團的夥伴還是馬維爾！"
 57,"TEXT_LUCKZH302_03534_Q1_000_000","如何作答？"
 58,"TEXT_LUCKZH302_03534_A1_000_001","至少該跟馬維爾坦白"
-59,"TEXT_LUCKZH302_03534_A1_000_002","…………。"
+59,"TEXT_LUCKZH302_03534_A1_000_002","……"
 60,"TEXT_LUCKZH302_03534_TOLAS_000_016","該向朋友坦白嗎？
 那傢伙的確在擔心我……不，可是……"
 61,"TEXT_LUCKZH302_03534_TOLAS_000_017","看來你不同意啊。
 你是想說最好跟朋友坦白嗎？"
 62,"TEXT_LUCKZH302_03534_TOLAS_000_018","……抱歉，我先回城了。
 讓我獨自思考一下。"
-63,"TEXT_LUCKZH302_03534_TOLAS_000_030","…………。"
-64,"TEXT_LUCKZH302_03534_MAUWYL_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+63,"TEXT_LUCKZH302_03534_TOLAS_000_030","……"
+64,"TEXT_LUCKZH302_03534_MAUWYL_000_031","<Highlight>ObjectParameter(1)</Highlight>，
 感謝你幫忙尋找托拉斯！"
 65,"TEXT_LUCKZH302_03534_MAUWYL_000_032","可是他回來就一直那樣。
 到底在外面發生了什麼？"

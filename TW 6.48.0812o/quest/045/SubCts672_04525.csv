@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_SUBCTS672_04525_SEQ_00","萊維耶勒爾府的梅麗爾德有禮物想贈送給冒險者。"
+0,"TEXT_SUBCTS672_04525_SEQ_00","萊韋耶勒爾府的梅麗爾德有禮物想贈送給冒險者。"
 1,"TEXT_SUBCTS672_04525_SEQ_01",""
 2,"TEXT_SUBCTS672_04525_SEQ_02",""
 3,"TEXT_SUBCTS672_04525_SEQ_03",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_SUBCTS672_04525_SEQ_21",""
 22,"TEXT_SUBCTS672_04525_SEQ_22",""
 23,"TEXT_SUBCTS672_04525_SEQ_23",""
-24,"TEXT_SUBCTS672_04525_TODO_00","和萊維耶勒爾家的女僕對話"
+24,"TEXT_SUBCTS672_04525_TODO_00","和萊韋耶勒爾家的女傭對話"
 25,"TEXT_SUBCTS672_04525_TODO_01",""
 26,"TEXT_SUBCTS672_04525_TODO_02",""
 27,"TEXT_SUBCTS672_04525_TODO_03",""
@@ -49,20 +49,20 @@ int32,str,str
 45,"TEXT_SUBCTS672_04525_TODO_21",""
 46,"TEXT_SUBCTS672_04525_TODO_22",""
 47,"TEXT_SUBCTS672_04525_TODO_23",""
-48,"TEXT_SUBCTS672_04525_MERYLD_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，平日裡承蒙你照顧。"
+48,"TEXT_SUBCTS672_04525_MERYLD_000_001","<Highlight>ObjectParameter(1)</Highlight>大人，平日裡承蒙你照顧。"
 49,"TEXT_SUBCTS672_04525_MERYLD_000_002","阿梅莉安絲夫人囑託我們為你準備一套服裝當作禮物。"
 50,"TEXT_SUBCTS672_04525_MERYLD_000_003","請允許我們為你調整一下尺寸。
-能麻煩你跟那邊那位萊維耶勒爾家的女僕談談這件事嗎？"
+能麻煩你跟那邊那位萊韋耶勒爾家的女傭談談這件事嗎？"
 51,"TEXT_SUBCTS672_04525_MERYLD_000_004","這件禮物除了飽含阿梅莉安絲夫人的謝意以外，
 也傾注了我們所有傭人對你的感謝。"
 52,"TEXT_SUBCTS672_04525_MERYLD_000_005","今後還請你繼續關照阿爾菲諾少爺與阿莉塞小姐。"
 53,"TEXT_SUBCTS672_04525_MERYLD_000_010","衣服可能需要調整尺寸，
-請你和那邊那位萊維耶勒爾家的女僕說一聲吧。"
-54,"TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，我這裡有要交給你的衣服。"
+請你和那邊那位萊韋耶勒爾家的女傭說一聲吧。"
+54,"TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020","<Highlight>ObjectParameter(1)</Highlight>大人，我這裡有要交給你的衣服。"
 55,"TEXT_SUBCTS672_04525_HOUSEMAID04524_000_021","阿梅莉安絲夫人的眼光雖然很少出錯，
 但以防萬一，還請讓我確認一下尺寸吧。"
 56,"TEXT_SUBCTS672_04525_HOUSEMAID04524_000_022","嗯……唔……不錯。
-肩寬也適合……袖子的長度也是……"
+肩寬也合適……袖子的長度也是……"
 57,"TEXT_SUBCTS672_04525_HOUSEMAID04524_000_023","嗯！十分完美！"
 58,"TEXT_SUBCTS672_04525_HOUSEMAID04524_000_024","讓你久等了，請收下我們的心意吧。
 祝願你的旅途一路平安。"

@@ -98,7 +98,7 @@ int32,str,str
 64,"TEXT_STMBDZ604_02782_ESUGEN_000_017","……那個，如果你願意的話，可否接下來也幫幫我？
 那樣，我就可以用工作之餘進行鍛鍊了。"
 65,"TEXT_STMBDZ604_02782_ESUGEN_000_018","謝謝！
-身為小弟，我實在沒辦法委託兄長們幫忙。
+身為小弟，我實在沒法委託兄長們幫忙。
 對了，你的名字是？"
-66,"TEXT_STMBDZ604_02782_ESUGEN_000_019"," <Highlight>ObjectParameter(1)</Highlight> 啊，
+66,"TEXT_STMBDZ604_02782_ESUGEN_000_019","<Highlight>ObjectParameter(1)</Highlight>啊，
 那就請多關照了！"

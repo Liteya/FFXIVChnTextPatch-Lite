@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC908_01043_SEQ_00","青磷精煉所的艾德爾斯坦，有事情想告訴冒險者。"
-1,"TEXT_GAIUSC908_01043_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往藍霧營地找克拉克德．菲斯特重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1,"TEXT_GAIUSC908_01043_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往藍霧營地找克拉克德·菲斯特重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。"
 2,"TEXT_GAIUSC908_01043_SEQ_02","勞班讓冒險者去鼓舞士兵們。對青磷精煉所的士兵們做情感動作「激勵」。"
@@ -28,11 +28,11 @@ int32,str,str
 22,"TEXT_GAIUSC908_01043_SEQ_22",""
 23,"TEXT_GAIUSC908_01043_SEQ_23",""
 24,"TEXT_GAIUSC908_01043_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往藍霧營地找克拉克德．菲斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往藍霧營地找克拉克德·菲斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSC908_01043_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往藍霧營地找克拉克德．菲斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往藍霧營地找克拉克德·菲斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSC908_01043_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往藍霧營地找克拉克德．菲斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往藍霧營地找克拉克德·菲斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSC908_01043_TODO_03",""
 28,"TEXT_GAIUSC908_01043_TODO_04",""
 29,"TEXT_GAIUSC908_01043_TODO_05",""
@@ -54,7 +54,7 @@ int32,str,str
 45,"TEXT_GAIUSC908_01043_TODO_21",""
 46,"TEXT_GAIUSC908_01043_TODO_22",""
 47,"TEXT_GAIUSC908_01043_TODO_23",""
-48,"TEXT_GAIUSC908_01043_EDELSTEIN_000_000"," <Highlight>ObjectParameter(1)</Highlight> 隊長！
+48,"TEXT_GAIUSC908_01043_EDELSTEIN_000_000","<Highlight>ObjectParameter(1)</Highlight>隊長！
 快去和勞班局長打個招呼吧！"
 49,"TEXT_GAIUSC908_01043_RAUBAHN_000_010","久候多時了！
 聽說你去激勵藍霧營地的士兵了？"
@@ -94,7 +94,7 @@ int32,str,str
 只要你激勵我一下，我就會打起精神來的！"
 64,"TEXT_GAIUSC908_01043_EDELSTEIN_000_080","請激勵我……
 不、不，我心中的恆輝之火一直都在熊熊燃燒。"
-65,"TEXT_GAIUSC908_01043_EDELSTEIN_000_085"," <Highlight>ObjectParameter(1)</Highlight> 隊長！
+65,"TEXT_GAIUSC908_01043_EDELSTEIN_000_085","<Highlight>ObjectParameter(1)</Highlight>隊長！
 我心中的火炎似乎在不知不覺中動搖了……
 即使粉身碎骨、拼上性命，我們也要取得勝利！"
 66,"TEXT_GAIUSC908_01043_EDELSTEIN_000_090","雖然我想再和你聊一會……

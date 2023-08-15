@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_MANFST006_00446_SEQ_00","彎枝牧場的飼養員呂凱洛，好像看到了令人在意的事物……"
 1,"TEXT_MANFST006_00446_SEQ_01","呂凱洛在黑衣森林目擊到了鳥人族的氣球飛過。他將目擊地點寫在了書信中。回到格里達尼亞，將呂凱洛的密封信交給魔女咖啡館的繆恩。"
-2,"TEXT_MANFST006_00446_SEQ_02","呂凱洛的信中似乎提到了棘手的事情。做好萬全準備，以應對各種事態，之後再向繆恩詢問詳情。"
+2,"TEXT_MANFST006_00446_SEQ_02","呂凱洛的信中貌似提到了棘手的事情。做好萬全準備，以應對各種事態，之後再向繆恩詢問詳情。"
 3,"TEXT_MANFST006_00446_SEQ_03",""
 4,"TEXT_MANFST006_00446_SEQ_04",""
 5,"TEXT_MANFST006_00446_SEQ_05",""
@@ -62,7 +62,7 @@ int32,str,str
 53,"TEXT_MANFST006_00446_LUQUELOT_000_6","如果你回到格里達尼亞的話，
 能把這封信交給魔女咖啡館的繆恩嗎？
 拜託你了。"
-54,"TEXT_MANFST006_00446_MIOUNNE_000_10","哎呀， <Highlight>ObjectParameter(1)</Highlight> 。
+54,"TEXT_MANFST006_00446_MIOUNNE_000_10","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 聽說你在彎枝牧場表現得相當出色啊。
 凱夏非常高興，我這個介紹人也覺得很自豪。"
 55,"TEXT_MANFST006_00446_MIOUNNE_000_11","我也得謝謝你啊！"
@@ -73,7 +73,7 @@ int32,str,str
 58,"TEXT_MANFST006_00446_MIOUNNE_000_13","……呂凱洛給我的信麼……
 會是什麼事呢……"
 59,"TEXT_MANFST006_00446_MIOUNNE_000_14","這是……"
-60,"TEXT_MANFST006_00446_MIOUNNE_000_15"," <Highlight>ObjectParameter(1)</Highlight> 。
+60,"TEXT_MANFST006_00446_MIOUNNE_000_15","<Highlight>ObjectParameter(1)</Highlight>。
 ……我也不繞圈子了。
 畢竟你是我們的夥伴。"
 61,"TEXT_MANFST006_00446_MIOUNNE_100_15","所以……

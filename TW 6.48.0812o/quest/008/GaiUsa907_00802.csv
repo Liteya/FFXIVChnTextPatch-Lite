@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSA907_00802_SEQ_00","奇約．莫伊牙兵長可以提供白狼門的通行許可證。"
-1,"TEXT_GAIUSA907_00802_SEQ_01","聽說了冒險者的活躍事蹟，奇約．莫伊願意給冒險者提供白狼門的通行許可。將<Sheet(EventItem,2000791,0)/>交給白狼門的弗朗舍蒙蒂奧。"
-2,"TEXT_GAIUSA907_00802_SEQ_02","可以透過白狼門了。要透過白狼門時就和弗朗舍蒙蒂奧打聲招呼。"
+0,"TEXT_GAIUSA907_00802_SEQ_00","奇約·莫伊牙兵長可以提供白狼門的通行許可證。"
+1,"TEXT_GAIUSA907_00802_SEQ_01","聽說了冒險者的活躍事跡，奇約·莫伊願意給冒險者提供白狼門的通行許可。將<Sheet(EventItem,2000791,0)/>交給白狼門的弗朗舍蒙蒂奧。"
+2,"TEXT_GAIUSA907_00802_SEQ_02","可以通過白狼門了。要通過白狼門時就和弗朗舍蒙蒂奧打聲招呼。"
 3,"TEXT_GAIUSA907_00802_SEQ_03",""
 4,"TEXT_GAIUSA907_00802_SEQ_04",""
 5,"TEXT_GAIUSA907_00802_SEQ_05",""
@@ -49,16 +49,16 @@ int32,str,str
 45,"TEXT_GAIUSA907_00802_TODO_21",""
 46,"TEXT_GAIUSA907_00802_TODO_22",""
 47,"TEXT_GAIUSA907_00802_TODO_23",""
-48,"TEXT_GAIUSA907_00802_TYOHMOUI_000_000","你就是冒險者 <Highlight>ObjectParameter(1)</Highlight> 吧？
-到處都能聽到你的事蹟呢。"
+48,"TEXT_GAIUSA907_00802_TYOHMOUI_000_000","你就是冒險者<Highlight>ObjectParameter(1)</Highlight>吧？
+到處都能聽到你的事跡呢。"
 49,"TEXT_GAIUSA907_00802_TYOHMOUI_000_001","為了今後你能在格里達尼亞建立更多的功績，
 特此准許你可以在白狼門自由通行。"
 50,"TEXT_GAIUSA907_00802_TYOHMOUI_000_002","請你拿上這個<Sheet(EventItem,2000791,0)/>，
 將其交給白狼門的弗朗舍蒙蒂奧，
-就能獲許透過白狼門了。"
+就能獲許通過白狼門了。"
 51,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020","白狼門的外面有很多危險的魔物。
-如果你想透過這道門的話，
+如果你想通過這道門的話，
 就請拿<Sheet(EventItem,2000791,0)/>來。"
 52,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021","這是<Sheet(EventItem,2000791,0)/>……
 是雙蛇黨下了許可啊，沒問題。"
-53,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022","冒險者 <Highlight>ObjectParameter(1)</Highlight> ，以後你要透過白狼門的話，和我說一下就行。"
+53,"TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022","冒險者<Highlight>ObjectParameter(1)</Highlight>，以後你要通過白狼門的話，和我說一下就行。"

@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVND105_02246_SEQ_00","伊修加爾德的阿爾菲諾有些焦躁不安。"
-1,"TEXT_HEAVND105_02246_SEQ_01","阿爾菲諾在擔心埃斯蒂尼安的情況。和伊修加爾德神殿騎士團總部的露琪亞談談。"
-2,"TEXT_HEAVND105_02246_SEQ_02","和露琪亞進行了交談。埃斯蒂尼安還沒有恢復意識。因為福爾唐伯爵等人很擔心，所以先前往伊修加爾德的福爾唐伯爵府。"
+0,"TEXT_HEAVND105_02246_SEQ_00","伊修加德的阿爾菲諾有些焦躁不安。"
+1,"TEXT_HEAVND105_02246_SEQ_01","阿爾菲諾在擔心埃斯蒂尼安的情況。和伊修加德神殿騎士團總部的露琪亞談談。"
+2,"TEXT_HEAVND105_02246_SEQ_02","和露琪亞進行了交談。埃斯蒂尼安還沒有恢復意識。因為福爾唐伯爵等人很擔心，所以先前往伊修加德的福爾唐伯爵府。"
 3,"TEXT_HEAVND105_02246_SEQ_03","福爾唐伯爵等人對於冒險者成功討伐邪龍一事表示稱讚。不過阿爾菲諾還是很擔心埃斯蒂尼安，便再次前往神殿騎士團總部了。在神殿騎士團總部尋找阿爾菲諾，打聽他的去向。"
 4,"TEXT_HEAVND105_02246_SEQ_04","沒有找到阿爾菲諾。詢問過艾默里克之後，得知阿爾菲諾表示至少想要陪在埃斯蒂尼安身邊，現正在看護埃斯蒂尼安。"
 5,"TEXT_HEAVND105_02246_SEQ_05",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVND105_02246_TODO_21",""
 46,"TEXT_HEAVND105_02246_TODO_22",""
 47,"TEXT_HEAVND105_02246_TODO_23",""
-48,"TEXT_HEAVND105_02246_ALPHINAUD_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+48,"TEXT_HEAVND105_02246_ALPHINAUD_000_001","<Highlight>ObjectParameter(1)</Highlight>……
 和邪龍之影的激鬥真是辛苦你了，你做得很好。
 雖然能夠勝利很讓人高興，不過更重要的是你平安無事。"
 49,"TEXT_HEAVND105_02246_ALPHINAUD_000_002","如果沒有你，
@@ -57,11 +57,11 @@ int32,str,str
 50,"TEXT_HEAVND105_02246_ALPHINAUD_000_003","總之，我還是有些擔心埃斯蒂尼安閣下的情況。
 我們一起到神殿騎士團，找露琪亞閣下問一下吧。"
 51,"TEXT_HEAVND105_02246_ALPHINAUD_000_005","我們問一下露琪亞閣下吧。"
-52,"TEXT_HEAVND105_02246_LUCIA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，阿爾菲諾閣下……
+52,"TEXT_HEAVND105_02246_LUCIA_000_010","<Highlight>ObjectParameter(1)</Highlight>閣下，阿爾菲諾閣下……
 你們不僅完成了使命，將聖龍帶來，
 還擊退了邪龍之影，真不知道該怎麼感謝你們。"
 53,"TEXT_HEAVND105_02246_ALPHINAUD_000_011","我所做的只不過是一些微不足道的事情。
-真正的英雄是擊退了邪龍之影的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+真正的英雄是擊退了邪龍之影的<Highlight>ObjectParameter(1)</Highlight>，
 還有不向邪龍之影的意志低頭的埃斯蒂尼安閣下。"
 54,"TEXT_HEAVND105_02246_ALPHINAUD_000_012","那個……埃斯蒂尼安閣下的情況如何？"
 55,"TEXT_HEAVND105_02246_LUCIA_000_013","……他被送到了神殿騎士團醫院，
@@ -75,22 +75,22 @@ int32,str,str
 等他恢復意識後會馬上聯繫你們的，放心吧。
 更何況，福爾唐伯爵他們也很擔心你們。"
 59,"TEXT_HEAVND105_02246_ALPHINAUD_000_017","……我知道了。"
-60,"TEXT_HEAVND105_02246_ALPHINAUD_000_018","那麼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+60,"TEXT_HEAVND105_02246_ALPHINAUD_000_018","那麼，<Highlight>ObjectParameter(1)</Highlight>……
 這裡就交給神殿騎士團吧，我們先回一趟福爾唐伯爵府。"
 61,"TEXT_HEAVND105_02246_LUCIA_000_019","現在就先到福爾唐伯爵府去吧。
 也讓福爾唐家的人放下心。"
-62,"TEXT_HEAVND105_02246_EDMONT_000_020"," <Highlight>ObjectParameter(1)</Highlight> 閣下……
+62,"TEXT_HEAVND105_02246_EDMONT_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下……
 您也很擔心埃斯蒂尼安閣下的情況吧。
 沒事的，不用在意我們。"
 63,"TEXT_HEAVND105_02246_ARTOIREL_000_025","能夠擊退邪龍之影，的確很讓人高興。
 但是，這次防衛線上我們福爾唐家的騎兵團中也有許多人犧牲了。
 一想到犧牲戰士的家屬，就不能只是在這裡歡呼雀躍拍手叫好了。"
-64,"TEXT_HEAVND105_02246_EMMANELLAIN_000_030","製作對龍弩炮的是艾因哈特家管轄的天鋼機工房。
+64,"TEXT_HEAVND105_02246_EMMANELLAIN_000_030","製作對龍弩砲的是艾因哈特家管轄的天鋼機工房。
 活用這些來守護了皇都的我莫非又立下大……嗯哼哼哼哼。"
 65,"TEXT_HEAVND105_02246_HONOROIT_000_035","或許埃馬內蘭少爺身上這無止境的樂觀精神是我該好好學習的，嗯。"
-66,"TEXT_HEAVND105_02246_BUTLER02246_000_040","我們永遠不會忘記你們為了伊修加爾德，
+66,"TEXT_HEAVND105_02246_BUTLER02246_000_040","我們永遠不會忘記你們為了伊修加德，
 拼上性命戰鬥的恩情。"
-67,"TEXT_HEAVND105_02246_HOUSEFORTEMPSSTEWARD02246_000_045","能看到你們平安回來，我打從心底感到高興。
+67,"TEXT_HEAVND105_02246_HOUSEFORTEMPSSTEWARD02246_000_045","能看到你們平安回來，我打心底裡感到高興。
 真的是辛苦你們了……"
 68,"TEXT_HEAVND105_02246_AYMERIC_000_050","啊，是您啊……
 您在找阿爾菲諾閣下？

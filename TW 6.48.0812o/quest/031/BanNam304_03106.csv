@@ -53,14 +53,14 @@ int32,str,str
 45,"TEXT_BANNAM304_03106_TODO_21",""
 46,"TEXT_BANNAM304_03106_TODO_22",""
 47,"TEXT_BANNAM304_03106_TODO_23",""
-48,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你比較喜歡祭場白天的氛圍，
+48,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_000","<Highlight>ObjectParameter(1)</Highlight>你比較喜歡祭場白天的氛圍，
 還是喜歡祭場晚上的氛圍？
 ……算了，哪邊都行。"
 49,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_001","重要的是徹夜舉行祭禮所需要的光源。
-我正在讓人準備用來增築篝火臺的元件，
+我正在讓人準備用來增築篝火台的部件，
 可人手實在是不太夠。"
 50,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_002","請你去和先走一步前往了喬爾艾恩石環的
-頑固的鯰魚精一同做好元件的準備工作。
+頑固的鯰魚精一同做好部件的準備工作。
 希望你不要辜負我對你的期待。"
 51,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_010","你是來幫我一起準備的人嗎噗？
 有個可靠的幫手真是太好了噗！"
@@ -70,11 +70,11 @@ int32,str,str
 我旁邊的貨箱裡有需要用到的素材，在你完成之前可以隨便拿噗！"
 54,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_013","希望你幫我製作用作<Sheet(Item,22727,0)/>的燈油噗。
 我旁邊的貨箱裡有需要用到的素材，在你完成之前可以隨便拿噗！"
-55,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_014","希望你幫我找來用來在篝火臺上燃燒的<Sheet(Item,22623,0)/>噗。
+55,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_014","希望你幫我找來用來在篝火台上燃燒的<Sheet(Item,22623,0)/>噗。
 在喬爾艾恩石環西邊可以採集到它們，請你去幫我採來3個噗！"
-56,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_015","希望你幫我找來用來在篝火臺上燃燒的<Sheet(Item,22649,0)/>噗。
+56,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_015","希望你幫我找來用來在篝火台上燃燒的<Sheet(Item,22649,0)/>噗。
 在喬爾艾恩石環西邊可以採集到它們，請你去幫我採來3個噗！"
-57,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_016","為了榨出用來在篝火臺上燃燒的油脂需要<Sheet(Item,22675,0)/>噗。
+57,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_016","為了榨出用來在篝火台上燃燒的油脂需要<Sheet(Item,22675,0)/>噗。
 使用<Sheet(Item,20613,0)/>之類的用來釣淡水魚的魚餌，
 就可以在亞特卡勒河上游釣到它們，請你去幫我釣來噗！"
 58,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_017","你準備好以後直接交給光風院霽月就好噗！"
@@ -103,10 +103,10 @@ int32,str,str
 交給你了噗！"
 72,"TEXT_BANNAM304_03106_DAILYNAMAZUO03106_000_031","拜託你的東西已經準備好了吧噗？
 直接交給光風院霽月就好噗！"
-73,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_040","那麼，你準備好篝火臺的元件了嗎？"
-74,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_041","哦……不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我果然沒有看走眼。
+73,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_040","那麼，你準備好篝火台的部件了嗎？"
+74,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_041","哦……不愧是<Highlight>ObjectParameter(1)</Highlight>，我果然沒有看走眼。
 這樣就能不眠不休徹夜舉行祭禮了。"
 75,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_042","晚上就該好好休息……你不會是在這麼想吧？
-你聽好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+你聽好，<Highlight>ObjectParameter(1)</Highlight>。"
 76,"TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_043","在夜間點亮燈火，遠離黑暗，文明才會發展至今。
-也就是說，徹夜舉行祭禮，正是文明的展現！"
+也就是說，徹夜舉行祭禮，正是文明的體現！"

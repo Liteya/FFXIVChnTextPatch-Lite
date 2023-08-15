@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ419_02742_SEQ_22",""
 23,"TEXT_STMBDZ419_02742_SEQ_23",""
 24,"TEXT_STMBDZ419_02742_TODO_00","將<Sheet(EventItem,2002106,0)/>交給醉蛙小屋的剪定"
-25,"TEXT_STMBDZ419_02742_TODO_01","獲得<Sheet(EventItem,2002108,0)/>"
+25,"TEXT_STMBDZ419_02742_TODO_01","獲取<Sheet(EventItem,2002108,0)/>"
 26,"TEXT_STMBDZ419_02742_TODO_02","將<Sheet(EventItem,2002107,0)/>和<Sheet(EventItem,2002108,0)/>交給魚鹽"
 27,"TEXT_STMBDZ419_02742_TODO_03",""
 28,"TEXT_STMBDZ419_02742_TODO_04",""
@@ -72,7 +72,7 @@ int32,str,str
 56,"TEXT_STMBDZ419_02742_SENTEI_000_011","嘿，還讓你帶禮物過來，鯰魚精還真機靈啊。
 我雖然不是匠人，但爺爺留下來的遺物倒是有一大堆。
 <Sheet(EventItem,2002107,0)/>的話直接給你好了。"
-57,"TEXT_STMBDZ419_02742_SENTEI_000_012","只是鈴鐺還沒辦法發出聲音，你得去後邊的石場，
+57,"TEXT_STMBDZ419_02742_SENTEI_000_012","只是鈴鐺還沒法發出聲音，你得去後邊的石場，
 把<Sheet(EventItem,2002108,0)/>放進去，那樣應該就能發出好聽的聲音了。"
 58,"TEXT_STMBDZ419_02742_SENTEI_000_013","不過鯰魚精們為什麼要像貓一樣，
 這麼高興地給自己掛個鈴鐺啊……"

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDA509_02946_SEQ_21",""
 22,"TEXT_STMBDA509_02946_SEQ_22",""
 23,"TEXT_STMBDA509_02946_SEQ_23",""
-24,"TEXT_STMBDA509_02946_TODO_00","尋找受僱的運貨人 將<Sheet(EventItem,2002379,0)/>交給他"
+24,"TEXT_STMBDA509_02946_TODO_00","尋找受雇的運貨人 將<Sheet(EventItem,2002379,0)/>交給他"
 25,"TEXT_STMBDA509_02946_TODO_01","將<Sheet(EventItem,2002174,0)/>交給烏爾達哈商會館的塔塔露"
 26,"TEXT_STMBDA509_02946_TODO_02","將<Sheet(EventItem,2002175,0)/>交給烈士庵的阿爾菲諾"
 27,"TEXT_STMBDA509_02946_TODO_03",""
@@ -50,12 +50,12 @@ int32,str,str
 46,"TEXT_STMBDA509_02946_TODO_22",""
 47,"TEXT_STMBDA509_02946_TODO_23",""
 48,"TEXT_STMBDA509_02946_ALISAIE_000_000","那我就繼續去確認軍備了。"
-49,"TEXT_STMBDA509_02946_TATARU_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你是來拿有關魔導裝置的書信的吧。
+49,"TEXT_STMBDA509_02946_TATARU_000_010","<Highlight>ObjectParameter(1)</Highlight>，你是來拿有關魔導裝置的書信的吧。
 那來得正好！"
 50,"TEXT_STMBDA509_02946_TATARU_000_011","從西邊來的船剛剛到港，
-受僱的運貨人送來了貨物和書信。"
-51,"TEXT_STMBDA509_02946_TATARU_000_012","因為當時拜託席德的時候時間就有點緊了，
-所以他沒辦法直接過來，還表示特別遺憾……"
+受雇的運貨人送來了貨物和書信。"
+51,"TEXT_STMBDA509_02946_TATARU_000_012","因為當時拜託西德的時候時間就有點緊了，
+所以他沒法直接過來，還表示特別遺憾……"
 52,"TEXT_STMBDA509_02946_TATARU_000_013","相應的，他說會非常用心地寫一份說明，
 想必內容一定會非常地多！"
 53,"TEXT_STMBDA509_02946_HANCOCK_000_014","……塔塔露小姐，你是把剛剛收到的信放在那邊的架子上了吧？"
@@ -74,16 +74,16 @@ int32,str,str
 得趕緊去找剛剛那個運貨人才行！"
 60,"TEXT_STMBDA509_02946_HANCOCK_000_021","哎呀呀……
 連這封情書也沒拿就飛奔出去了。"
-61,"TEXT_STMBDA509_02946_HANCOCK_000_022"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能麻煩你拿著這封情書，
-幫忙找找受僱的運貨人嗎？"
+61,"TEXT_STMBDA509_02946_HANCOCK_000_022","<Highlight>ObjectParameter(1)</Highlight>，能麻煩你拿著這封情書，
+幫忙找找受雇的運貨人嗎？"
 62,"TEXT_STMBDA509_02946_HANCOCK_000_023","那個運貨人體格和我差不多，
 是個留著黑色短髮、穿著輕便衣服的青年。
-我記得衣服的顏色蠻鮮豔的……"
+我記得衣服的顏色挺鮮豔的……"
 63,"TEXT_STMBDA509_02946_HANCOCK_000_024","我就留在這裡等塔塔露小姐吧，免得錯過了。
 順便也會派我們的人去找找運貨人的。"
 64,"TEXT_STMBDA509_02946_HANCOCK_000_030","那個運貨人體格和我差不多，
 是個留著黑色短髮、穿著輕便衣服的青年。
-我記得衣服的顏色蠻鮮豔的……"
+我記得衣服的顏色挺鮮豔的……"
 65,"TEXT_STMBDA509_02946_TATARU_000_035","咦？咦？
 你不是剛剛那個運貨人啊？！"
 66,"TEXT_STMBDA509_02946_MAND02946_000_040","所以說你認錯人了啊……"
@@ -91,7 +91,7 @@ int32,str,str
 幹嘛啊，我現在可是休息時間……"
 68,"TEXT_STMBDA509_02946_MANA02946_000_051","唔哇，從各種意義上來說，這都是很「厚重」的一封信啊。
 我只是一個攬客的，跟這種東西可無緣。"
-69,"TEXT_STMBDA509_02946_MANB02946_000_060","我說你，有在這裡看到一沓紙嗎？
+69,"TEXT_STMBDA509_02946_MANB02946_000_060","我說你，有在這裡看到一遝紙嗎？
 那上面寫著特別重要的事情。"
 70,"TEXT_STMBDA509_02946_MANB02946_000_061","不不，不是這個。
 傷腦筋了……主人讓我買東西，
@@ -113,19 +113,19 @@ int32,str,str
 塔塔露小姐也回來了哦。"
 79,"TEXT_STMBDA509_02946_TATARU_000_090","嗚嗚，對不起。
 我想起來沒拿那封情書，就又回來了。
-然後就聽說 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 已經拿著去找運貨人了……"
+然後就聽說<Highlight>ObjectParameter(1)</Highlight>已經拿著去找運貨人了……"
 80,"TEXT_STMBDA509_02946_TATARU_000_091","這、這是……
 這封才是寄給我們的書信啊！"
 81,"TEXT_STMBDA509_02946_TATARU_000_092","以防萬一，我拆開看看裡面的內容對不對。
 嗯嗯……哼哼！"
-82,"TEXT_STMBDA509_02946_TATARU_000_093","沒錯，這的的確確是席德寫的書信！
+82,"TEXT_STMBDA509_02946_TATARU_000_093","沒錯，這的的確確是西德寫的書信！
 上面寫了好多有關魔導裝置操作的事情！"
 83,"TEXT_STMBDA509_02946_HANCOCK_000_094","太好了太好了。
 如果這封信送到了赤誠組，
 那麻煩可就大了。"
 84,"TEXT_STMBDA509_02946_TATARU_000_095","是啊……
-在這麼重要的戰役面前，我也一定要更加謹慎才行。"
-85,"TEXT_STMBDA509_02946_TATARU_000_096"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我會繼續觀察帝國的動向的。"
+在這麼重要的戰役面前，我也必須要更加謹慎才行。"
+85,"TEXT_STMBDA509_02946_TATARU_000_096","<Highlight>ObjectParameter(1)</Highlight>，我會繼續觀察帝國的動向的。"
 86,"TEXT_STMBDA509_02946_TATARU_000_097","如果有什麼情況會立刻聯繫你們的，
 麻煩你回去告訴大家一定要小心行事！"
 87,"TEXT_STMBDA509_02946_HANCOCK_000_098","東阿爾迪納德商會也會和海賊眾的人暗中做武器交易的，
@@ -134,18 +134,18 @@ int32,str,str
 還是為了自己的利益啊？"
 89,"TEXT_STMBDA509_02946_HANCOCK_000_100","啊哈哈！
 當然都有了！"
-90,"TEXT_STMBDA509_02946_TATARU_000_101","那 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你就把那封書信帶給阿爾菲諾吧……
+90,"TEXT_STMBDA509_02946_TATARU_000_101","那<Highlight>ObjectParameter(1)</Highlight>，你就把那封書信帶給阿爾菲諾吧……
 拜託你了！"
 91,"TEXT_STMBDA509_02946_TATARU_000_110","一定要小心行事啊！
 如果加雷馬帝國大使館有什麼動向，我會立刻聯繫你們的！"
-92,"TEXT_STMBDA509_02946_HANCOCK_000_115","海賊眾直到最近都蠻衰落的吧，
+92,"TEXT_STMBDA509_02946_HANCOCK_000_115","海賊眾直到最近都挺衰落的吧，
 一定會需要些新的武器裝備，你說對不對？"
 93,"TEXT_STMBDA509_02946_ALISAIE_000_120","雖然想要開始接下來的工作……"
 94,"TEXT_STMBDA509_02946_YUGIRI_000_125","你也回來了啊。
 ……塔塔露閣下還好吧？"
 95,"TEXT_STMBDA509_02946_ALPHINAUD_000_130","你回來得正好。
 我們剛好確認完進攻的路線。"
-96,"TEXT_STMBDA509_02946_ALPHINAUD_000_131","哦，這就是席德寄來的……
+96,"TEXT_STMBDA509_02946_ALPHINAUD_000_131","哦，這就是西德寄來的……
 謝謝，我現在就去看一遍，
 好確保魔導裝置的操作萬無一失。"
 97,"TEXT_STMBDA509_02946_ALPHINAUD_000_132","這樣一來，應該就能解決大龍月門的障壁了。

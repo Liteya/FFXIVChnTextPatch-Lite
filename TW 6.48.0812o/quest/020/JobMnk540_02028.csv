@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMNK540_02028_SEQ_00","喪靈鐘的維達蓋爾特正在等待冒險者的到來。"
-1,"TEXT_JOBMNK540_02028_SEQ_01","維達蓋爾特收到了德．傑恩茶和奧．夏可哈的信件。信上說她們會在衛月爪痕等待。和北薩納蘭衛月爪痕以南的維達蓋爾特談談。"
-2,"TEXT_JOBMNK540_02028_SEQ_02","在與德．傑恩茶和奧．夏可哈戰鬥後，新的脈輪打開了。據她們所說，透過太陰流和太陽流的激烈交鋒可以打開另一重脈輪。她們二人表示不想再與冒險者等人戰鬥，希望冒險者等人放棄武僧的身份，放下話後便離去了。再次和衛月爪痕以南的維達蓋爾特談談。"
+1,"TEXT_JOBMNK540_02028_SEQ_01","維達蓋爾特收到了德·傑恩茶和奧·夏可哈的信件。信上說她們會在衛月爪痕等待。和北薩納蘭衛月爪痕以南的維達蓋爾特談談。"
+2,"TEXT_JOBMNK540_02028_SEQ_02","在與德·傑恩茶和奧·夏可哈戰鬥後，新的脈輪打開了。據她們所說，通過太陰流和太陽流的激烈交鋒可以打開另一重脈輪。她們二人表示不想再與冒險者等人戰鬥，希望冒險者等人放棄武僧的身份，放下話後便離去了。再次和衛月爪痕以南的維達蓋爾特談談。"
 3,"TEXT_JOBMNK540_02028_SEQ_03","另一重脈輪到底是什麼？艾里克博士應該已經來到了摩杜納，他也許會知道些什麼。和喪靈鐘的維達蓋爾特談談。"
 4,"TEXT_JOBMNK540_02028_SEQ_04","據艾里克博士所說，太陰流和維達蓋爾特的太陽流這兩個流派在很久以前曾為一體。不過這兩個流派為何不能齊心協力、互相幫助？繼續鍛鍊自己的本領，等待維達蓋爾特收集情報。
 
@@ -51,10 +51,10 @@ int32,str,str
 45,"TEXT_JOBMNK540_02028_TODO_21",""
 46,"TEXT_JOBMNK540_02028_TODO_22",""
 47,"TEXT_JOBMNK540_02028_TODO_23",""
-48,"TEXT_JOBMNK540_02028_WIDARGELT_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，等你好久了！
+48,"TEXT_JOBMNK540_02028_WIDARGELT_000_000","<Highlight>ObjectParameter(1)</Highlight>，等你好久了！
 ……其實，我收到了來自傑恩茶和夏可哈的信。"
 49,"TEXT_JOBMNK540_02028_WIDARGELT_000_001","信上的內容大概是這樣的。
-她們有話想對我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你說，希望我們到衛月爪痕去……"
+她們有話想對我和<Highlight>ObjectParameter(1)</Highlight>你說，希望我們到衛月爪痕去……"
 50,"TEXT_JOBMNK540_02028_WIDARGELT_000_002","不知道她們……那兩個背叛者打算對我們說些什麼，
 但我還有好多事想要問清楚呢。"
 51,"TEXT_JOBMNK540_02028_WIDARGELT_000_003","其實我還收到了艾里克博士的來信……
@@ -62,7 +62,7 @@ int32,str,str
 但是在此之前我想先見她們一面。"
 52,"TEXT_JOBMNK540_02028_WIDARGELT_000_004","是因為天天在一起修行對她們產生感情了嗎……
 我並不覺得她們是壞人。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們去衛月爪痕吧。"
+<Highlight>ObjectParameter(1)</Highlight>，我們去衛月爪痕吧。"
 53,"TEXT_JOBMNK540_02028_WIDARGELT_000_050","傑恩茶，夏可哈……好久不見了。"
 54,"TEXT_JOBMNK540_02028_DZENTSA_000_051","……感謝你能過來。
 之前我們欺騙了你，真是對不起。"
@@ -71,7 +71,7 @@ int32,str,str
 56,"TEXT_JOBMNK540_02028_OTCHAKHA_000_053","師父……不對，維達蓋爾特。
 你在和我們太陰流交手時感受到脈輪打開了，
 但卻與以往打開脈輪時的感覺不同，沒錯吧？"
-57,"TEXT_JOBMNK540_02028_DZENTSA_000_054","透過兩個流派之間的交手、互相搏殺，
+57,"TEXT_JOBMNK540_02028_DZENTSA_000_054","通過兩個流派之間的交手、互相搏殺，
 雙方都可以打開與自身相對的另一重脈輪。"
 58,"TEXT_JOBMNK540_02028_WIDARGELT_000_055","……與自身相對的另一重脈輪？
 如果這是真的，那我們應該可以互相幫助的。
@@ -81,9 +81,9 @@ int32,str,str
 60,"TEXT_JOBMNK540_02028_OTCHAKHA_000_057","連像這樣子和你們交談都是不被允許的。
 來吧，和我們戰鬥吧……這就是我們的答案！"
 61,"TEXT_JOBMNK540_02028_WIDARGELT_000_058","到頭來還是要動手啊……沒辦法……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，準備戰鬥！"
+<Highlight>ObjectParameter(1)</Highlight>，準備戰鬥！"
 62,"TEXT_JOBMNK540_02028_OTCHAKHA_000_100","哈啊、哈啊……你們還真厲害。
-嘿嘿……託你們的福，我感覺到脈輪打開了。
+嘿嘿……托你們的福，我感覺到脈輪打開了。
 跟師父說的一樣啊。"
 63,"TEXT_JOBMNK540_02028_DZENTSA_000_101","啊……我感覺渾身充滿了力量。
 不過要繼續打開脈輪的話，
@@ -131,12 +131,12 @@ int32,str,str
 83,"TEXT_JOBMNK540_02028_WIDARGELT_000_208","……既然如此，只要雙方齊心協力不就行了嗎。
 可為什麼太陰流卻不這樣做，反而不停地襲擊我們呢……"
 84,"TEXT_JOBMNK540_02028_ERIK_000_209","(-艾里克-)太陰流的情況老朽不清楚！恐怕是他們師父的意思吧！
-哎，要是再有什麼進展的話就聯繫老朽吧！
+哎，要是再有什麼進展的話就聯絡老朽吧！
 老朽也會繼續跟進調查的！"
 85,"TEXT_JOBMNK540_02028_WIDARGELT_000_210","關於太陰流的情況也只能去問傑恩茶和夏可哈了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我去收集她們二人的情報。
+<Highlight>ObjectParameter(1)</Highlight>，我去收集她們二人的情報。
 在這期間就請你堅持鍛鍊吧。"
-86,"TEXT_JOBMNK540_02028_QIB_001_TODO_1","打倒德．傑恩茶和奧．夏可哈！"
+86,"TEXT_JOBMNK540_02028_QIB_001_TODO_1","打倒德·傑恩茶和奧·夏可哈！"
 87,"TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_01","傑恩茶、夏可哈，為什麼我們一定要戰鬥？！"
 88,"TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_01","……少廢話，不拼盡全力的話戰鬥就毫無意義。"
 89,"TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_02","果然很強啊……看我這招如何？！"
@@ -145,7 +145,7 @@ int32,str,str
 那麼再來一次的話你還抵擋得住嗎？！"
 92,"TEXT_JOBMNK540_02028_QIB_001_KEGEMNK02_BATTLETALK_02","戰鬥還沒有結束呢……再接我一招！！"
 93,"TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_02","這個技能……目標是我？！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請與我保持距離！！"
+<Highlight>ObjectParameter(1)</Highlight>，請與我保持距離！！"
 94,"TEXT_JOBMNK540_02028_QIB_001_KEGEMNK01_BATTLETALK_04","明明我們……絕對不能輸的……"
 95,"TEXT_JOBMNK540_02028_QIB_001_KEGEMNK02_BATTLETALK_03","可惡……還真厲害啊……"
-96,"TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_03","嗚…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你一定要打敗她們！"
+96,"TEXT_JOBMNK540_02028_QIB_001_WIDARGELT_BATTLETALK_03","嗚……<Highlight>ObjectParameter(1)</Highlight>，請你一定要打敗她們！"

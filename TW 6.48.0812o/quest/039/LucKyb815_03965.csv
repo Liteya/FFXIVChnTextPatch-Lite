@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKYB815_03965_SEQ_00","從伊修加爾德來的男性有話想對冒險者說。"
-1,"TEXT_LUCKYB815_03965_SEQ_01","和從伊修加爾德來的男性進行了交談。聽說庫洛．阿里亞珀養了一隻奇妙的狐狸，並開創了一種新的玩法。和田園郡羅薇娜會館的宗長談談。"
+0,"TEXT_LUCKYB815_03965_SEQ_00","從伊修加德來的男性有話想對冒險者說。"
+1,"TEXT_LUCKYB815_03965_SEQ_01","和從伊修加德來的男性進行了交談。聽說庫洛·阿里亞珀養了一隻奇妙的狐狸，並開創了一種新的玩法。和田園郡羅薇娜會館的宗長談談。"
 2,"TEXT_LUCKYB815_03965_SEQ_02","和宗長進行了交談。完成「幻巧戰」，在回想起激戰的過程後，將這段故事講給宗長聽聽。作為講述故事的報酬，可以挑戰「幻巧拼圖」了。"
 3,"TEXT_LUCKYB815_03965_SEQ_03",""
 4,"TEXT_LUCKYB815_03965_SEQ_04",""
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_LUCKYB815_03965_TODO_22",""
 47,"TEXT_LUCKYB815_03965_TODO_23",""
 48,"TEXT_LUCKYB815_03965_ISHGARDMAN_000_000","我說你……
-你認識庫洛．阿里亞珀小姐嗎？"
+你認識庫洛·阿里亞珀小姐嗎？"
 49,"TEXT_LUCKYB815_03965_Q1_000_000","如何作答？"
 50,"TEXT_LUCKYB815_03965_A1_000_001","很熟悉"
 51,"TEXT_LUCKYB815_03965_A1_000_002","說起來最近都沒做天書奇談呢……"
@@ -73,17 +73,17 @@ int32,str,str
 你只要到東方的一個名叫醴泉神社的地方，
 就會發現那裡還有一堆能說人話的動物呢。"
 62,"TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_013","怎麼又是這套說辭……真是的。
-給我聽好了，我跟伊修加爾德沒有半點關係，
+給我聽好了，我跟伊修加德沒有半點關係，
 更別說什麼總騎士長了，我根本就不認識。"
 63,"TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_014","哦，你原來知道啊。
 那就好說了。"
 64,"TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_015","我說你這張臉……
-難道你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+難道你就是<Highlight>ObjectParameter(1)</Highlight>？
 那個成為了庫洛創作故事的原型並實際體驗過的人？"
 65,"TEXT_LUCKYB815_03965_FAUXCOMMANDER_000_016","很好，我正等著像你這樣的傢伙出現呢。
 我感覺從你那裡，或許能聽到適合在茶會上談論的、
-讓我的御魂興奮不已的故事。"
-66,"TEXT_LUCKYB815_03965_KHLOEALIAPOF_100_016","喲！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+讓我的禦魂興奮不已的故事。"
+66,"TEXT_LUCKYB815_03965_KHLOEALIAPOF_100_016","喲！<Highlight>ObjectParameter(1)</Highlight>！"
 67,"TEXT_LUCKYB815_03965_KHLOEALIAPOF_000_017","聽說宗長一直是和它的朋友烏龜先生，
 還有狸貓先生邊聊天邊悠閒地度過每一天呢！"
 68,"TEXT_LUCKYB815_03965_KHLOEALIAPOF_000_018","不過大家每天都在聊同樣的事情，
@@ -106,16 +106,16 @@ int32,str,str
 不然的話，時間一長故事就沒有那種逼真的感覺了。
 那麼，就拜託你了。"
 75,"TEXT_LUCKYB815_03965_SYSTEM_000_025","開放了「幻巧戰」。
-可以透過大型任務搜尋器參加。"
+可以通過大型任務搜尋器參加。"
 76,"TEXT_LUCKYB815_03965_SYSTEM_100_025","幻巧戰屬於高難度任務的一種，
 可以以現在的上限等級挑戰過去的蠻神。"
 77,"TEXT_LUCKYB815_03965_SYSTEM_110_025","此外，幻巧戰的挑戰內容預定將在每個大版本更新後進行變更。"
 78,"TEXT_LUCKYB815_03965_SYSTEM_000_026","完成「幻巧戰」後，
-每週可以透過與「宗長」對話挑戰「幻巧拼圖」。"
+每週可以通過與「宗長」對話挑戰「幻巧拼圖」。"
 79,"TEXT_LUCKYB815_03965_SYSTEM_100_026","「幻巧拼圖」的挑戰進度
-可以透過大型任務搜尋器的「幻巧戰」查看詳細情報。"
+可以通過大型任務搜尋器的「幻巧戰」查看詳細情報。"
 80,"TEXT_LUCKYB815_03965_SYSTEM_000_027","此外，「幻巧戰」的完成進度以及「幻巧拼圖」的挑戰進度，
 均會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）重置。"
-81,"TEXT_LUCKYB815_03965_SYSTEM_000_028","可以透過與宗長交談，進一步地瞭解詳細說明。
+81,"TEXT_LUCKYB815_03965_SYSTEM_000_028","可以通過與宗長交談，進一步地了解詳細說明。
 將與強敵戰鬥的故事說給宗長聽，
-挑戰「幻巧拼圖」獲得獎品吧！"
+挑戰「幻巧拼圖」獲取獎品吧！"

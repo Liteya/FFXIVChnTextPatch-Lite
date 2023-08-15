@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_AKTKZD013_04237_SEQ_21",""
 22,"TEXT_AKTKZD013_04237_SEQ_22",""
 23,"TEXT_AKTKZD013_04237_SEQ_23",""
-24,"TEXT_AKTKZD013_04237_TODO_00","獲得<Sheet(EventItem,2003213,0)/>"
+24,"TEXT_AKTKZD013_04237_TODO_00","獲取<Sheet(EventItem,2003213,0)/>"
 25,"TEXT_AKTKZD013_04237_TODO_01","將<Sheet(EventItem,2003213,0)/>交給科茶茶"
 26,"TEXT_AKTKZD013_04237_TODO_02",""
 27,"TEXT_AKTKZD013_04237_TODO_03",""
@@ -50,17 +50,17 @@ int32,str,str
 45,"TEXT_AKTKZD013_04237_TODO_21",""
 46,"TEXT_AKTKZD013_04237_TODO_22",""
 47,"TEXT_AKTKZD013_04237_TODO_23",""
-48,"TEXT_AKTKZD013_04237_KOCHACHA_000_000"," <Highlight>ObjectParameter(1)</Highlight> 閣下，
+48,"TEXT_AKTKZD013_04237_KOCHACHA_000_000","<Highlight>ObjectParameter(1)</Highlight>閣下，
 你聽說武器回收令了嗎？"
 49,"TEXT_AKTKZD013_04237_KOCHACHA_000_001","因為第一軍團接受了停戰協議，
 所以有不少武器被棄置在帝都內，
 為了防止被惡用，他們還將部分武器特意丟棄在了較遠的地方。"
 50,"TEXT_AKTKZD013_04237_KOCHACHA_000_002","因此上面下了命令，
-一旦發現那種武器就儘快回收。"
-51,"TEXT_AKTKZD013_04237_KOCHACHA_000_004"," <Highlight>ObjectParameter(1)</Highlight> 閣下，
+一旦發現那種武器就盡快回收。"
+51,"TEXT_AKTKZD013_04237_KOCHACHA_000_004","<Highlight>ObjectParameter(1)</Highlight>閣下，
 你去帝都時能幫忙回收一下<Sheet(EventItem,2003213,0)/>嗎？
 回收回來的物資交給我就好！"
-52,"TEXT_AKTKZD013_04237_KOCHACHA_000_008"," <Highlight>ObjectParameter(1)</Highlight> 閣下，
+52,"TEXT_AKTKZD013_04237_KOCHACHA_000_008","<Highlight>ObjectParameter(1)</Highlight>閣下，
 拜託你去帝都時幫忙回收一下<Sheet(EventItem,2003213,0)/>。
 回收回來的物資交給我就好！"
 53,"TEXT_AKTKZD013_04237_KOCHACHA_000_010","回收到<Sheet(EventItem,2003213,0)/>了嗎？"

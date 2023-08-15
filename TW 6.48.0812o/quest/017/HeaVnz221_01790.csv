@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ221_01790_SEQ_00","自由腦窟穴的跑得快正看著武器庫發愁。"
-1,"TEXT_HEAVNZ221_01790_SEQ_01","跑得快拜託冒險者準備<Sheet(EventItem,2001614,0)/>。討伐龍堡參天高地唯一腦窟穴的<Sheet(BNpcName,3573,0)/>，獲得2把<Sheet(EventItem,2001614,0)/>。"
+1,"TEXT_HEAVNZ221_01790_SEQ_01","跑得快拜託冒險者準備<Sheet(EventItem,2001614,0)/>。討伐龍堡參天高地唯一腦窟穴的<Sheet(BNpcName,3573,0)/>，獲取2把<Sheet(EventItem,2001614,0)/>。"
 2,"TEXT_HEAVNZ221_01790_SEQ_02","獲得了<Sheet(EventItem,2001614,0)/>。將<Sheet(EventItem,2001614,0)/>交給自由腦窟穴的跑得快。"
 3,"TEXT_HEAVNZ221_01790_SEQ_03","將<Sheet(EventItem,2001614,0)/>交給了跑得快。用於狩獵的槍支必須由好幾隻「同心一族」齊心協力才能製作成功，所以想得到精心製作的槍支只有靠偷的。"
 4,"TEXT_HEAVNZ221_01790_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ221_01790_SEQ_21",""
 22,"TEXT_HEAVNZ221_01790_SEQ_22",""
 23,"TEXT_HEAVNZ221_01790_SEQ_23",""
-24,"TEXT_HEAVNZ221_01790_TODO_00","從<Sheet(BNpcName,3573,0)/>身上獲得<Sheet(EventItem,2001614,0)/>"
+24,"TEXT_HEAVNZ221_01790_TODO_00","從<Sheet(BNpcName,3573,0)/>身上獲取<Sheet(EventItem,2001614,0)/>"
 25,"TEXT_HEAVNZ221_01790_TODO_01","將<Sheet(EventItem,2001614,0)/>交給跑得快"
 26,"TEXT_HEAVNZ221_01790_TODO_02",""
 27,"TEXT_HEAVNZ221_01790_TODO_03",""

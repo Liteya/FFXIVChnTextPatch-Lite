@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMB110_03311_SEQ_00","篤學者莊園的于里昂熱盯著冒險者。"
+0,"TEXT_LUCKMB110_03311_SEQ_00","篤學者莊園的於里昂熱盯著冒險者。"
 1,"TEXT_LUCKMB110_03311_SEQ_01",""
 2,"TEXT_LUCKMB110_03311_SEQ_02",""
 3,"TEXT_LUCKMB110_03311_SEQ_03",""
@@ -26,8 +26,8 @@ int32,str,str
 22,"TEXT_LUCKMB110_03311_SEQ_22",""
 23,"TEXT_LUCKMB110_03311_SEQ_23",""
 24,"TEXT_LUCKMB110_03311_TODO_00","削弱<Sheet(BNpcName,8581,0)/>的體力 使用<Sheet(EventItem,2002572,0)/>將其捕獲"
-25,"TEXT_LUCKMB110_03311_TODO_01","將<Sheet(EventItem,2002573,0)/>交給于里昂熱"
-26,"TEXT_LUCKMB110_03311_TODO_02","和蘇兒．烏因對話"
+25,"TEXT_LUCKMB110_03311_TODO_01","將<Sheet(EventItem,2002573,0)/>交給於里昂熱"
+26,"TEXT_LUCKMB110_03311_TODO_02","和蘇兒·烏因對話"
 27,"TEXT_LUCKMB110_03311_TODO_03",""
 28,"TEXT_LUCKMB110_03311_TODO_04",""
 29,"TEXT_LUCKMB110_03311_TODO_05",""
@@ -50,19 +50,19 @@ int32,str,str
 46,"TEXT_LUCKMB110_03311_TODO_22",""
 47,"TEXT_LUCKMB110_03311_TODO_23",""
 48,"TEXT_LUCKMB110_03311_ALPHINAUD_000_000","現在這邊還沒有問題……大致上。"
-49,"TEXT_LUCKMB110_03311_ALISAIE_000_005","欸，你見到于里昂熱了嗎？"
+49,"TEXT_LUCKMB110_03311_ALISAIE_000_005","誒，你見到於里昂熱了嗎？"
 50,"TEXT_LUCKMB110_03311_THANCRED_000_010","水晶公的第一條指示已經達成了。"
 51,"TEXT_LUCKMB110_03311_RYNE_000_015","啊……呃……我沒問題的，
 這附近的地形我很清楚……"
 52,"TEXT_LUCKMB110_03311_RYNE_000_016","我跟著桑克瑞德東跑西跑去了很多地方，
 其中呆的時間最長……停留了半年以上的就是這裡了。
 我一直都在這裡往晶壤裡注入魔力。"
-53,"TEXT_LUCKMB110_03311_URIANGER_000_020","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+53,"TEXT_LUCKMB110_03311_URIANGER_000_020","對了，<Highlight>ObjectParameter(1)</Highlight>，
 在進入正題之前，有個問題我想問問你。"
 54,"TEXT_LUCKMB110_03311_URIANGER_000_021","你覺得我這身……如何？"
 55,"TEXT_LUCKMB110_03311_Q1_000_000","如何作答？"
 56,"TEXT_LUCKMB110_03311_A1_000_001","你轉職占星術士了？"
-57,"TEXT_LUCKMB110_03311_A1_000_002","輕裝上陣蠻好的"
+57,"TEXT_LUCKMB110_03311_A1_000_002","輕裝上陣挺好的"
 58,"TEXT_LUCKMB110_03311_A1_000_003","一眼沒認出來"
 59,"TEXT_LUCKMB110_03311_URIANGER_000_022","如你所察。
 即使天空被光傾覆，失去了夜晚的黑暗，
@@ -81,7 +81,7 @@ int32,str,str
 64,"TEXT_LUCKMB110_03311_URIANGER_000_027","這身衣裝更適合我現在的戰鬥方式。
 即使天空被光覆蓋，星星也依舊閃耀……
 我將解讀星象，願我們能披荊斬棘、渡過難關……"
-65,"TEXT_LUCKMB110_03311_URIANGER_000_028","今後我將作為占星術士于里昂熱與你一同行動，請多指教。
+65,"TEXT_LUCKMB110_03311_URIANGER_000_028","今後我將作為占星術士於里昂熱與你一同行動，請多指教。
 ……進入正題吧。"
 66,"TEXT_LUCKMB110_03311_URIANGER_000_029","如同之前所說，
 要進入靈光衛所在的夢羽城，
@@ -90,10 +90,10 @@ int32,str,str
 答案很簡單，只要贈與他們想要的禮物就行了。"
 68,"TEXT_LUCKMB110_03311_URIANGER_000_031","我會準備仙子族喜歡的食物，
 也得麻煩桑克瑞德幫忙籌集一部分。"
-69,"TEXT_LUCKMB110_03311_URIANGER_000_032","至於 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，麻煩準備他們喜歡的美麗物件。
+69,"TEXT_LUCKMB110_03311_URIANGER_000_032","至於<Highlight>ObjectParameter(1)</Highlight>，麻煩準備他們喜歡的美麗物件。
 這附近有翅膀十分豔麗的<Sheet(BNpcName,8581,0)/>，
 請在不傷它翅膀的前提下削弱其體力，把它放在這個箱子裡。"
-70,"TEXT_LUCKMB110_03311_THANCRED_000_040","于里昂熱要我也幫忙。
+70,"TEXT_LUCKMB110_03311_THANCRED_000_040","於里昂熱要我也幫忙。
 至少比被仙子族玩弄要好……我猜的。"
 71,"TEXT_LUCKMB110_03311_URIANGER_000_045","請削弱附近的<Sheet(BNpcName,8581,0)/>的體力，
 並用剛才給你的<Sheet(EventItem,2002572,0)/>抓住它。
@@ -116,11 +116,11 @@ int32,str,str
 78,"TEXT_LUCKMB110_03311_RYNE_000_075","我們不在的時候發生了什麼？"
 79,"TEXT_LUCKMB110_03311_URIANGER_000_080","能和阿莉塞小姐他們再會我很開心，
 不過等之後有空再慢慢聊吧。
-我帶來的禮物已經交給了蘇兒．烏因。"
+我帶來的禮物已經交給了蘇兒·烏因。"
 80,"TEXT_LUCKMB110_03311_SULUIN_000_090","呀，歡迎回來！
 你們去的時間可真短，就像羊的尾巴一樣。
 我們還想再和雙胞胎好好地、好好——地玩一玩呢……"
-81,"TEXT_LUCKMB110_03311_SULUIN_000_091","不過于里昂熱拿來的禮物真是太棒啦！
+81,"TEXT_LUCKMB110_03311_SULUIN_000_091","不過於里昂熱拿來的禮物真是太棒啦！
 加了蜂蜜的牛奶、小甜餅，還裝飾著美麗的翅膀！"
 82,"TEXT_LUCKMB110_03311_SULUIN_000_092","既然盡到了禮儀，那麼妖靈就必須作出回應，
 說吧，你們想要什麼？"

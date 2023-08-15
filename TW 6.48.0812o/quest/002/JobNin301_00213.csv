@@ -52,7 +52,7 @@ int32,str,str
 46,"TEXT_JOBNIN301_00213_TODO_22",""
 47,"TEXT_JOBNIN301_00213_TODO_23",""
 48,"TEXT_JOBNIN301_00213_OBORO_000_000","嗯，看來你已經佩戴上忍者之證了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+<Highlight>ObjectParameter(1)</Highlight>……
 現在你就和我們一樣，都是忍者了。"
 49,"TEXT_JOBNIN301_00213_OBORO_000_001","……咳。
 忍者聽訓！"
@@ -81,12 +81,12 @@ int32,str,str
 忍術是不是很有意思？"
 61,"TEXT_JOBNIN301_00213_OBORO_100_040","還有，因為忍者的心得，你會感覺自己的身體也變輕了。
 拔出武器時，甚至能跳起來空翻。
-不過跳太多小心崴到腳。"
+不過跳太多小心扭到腳。"
 62,"TEXT_JOBNIN301_00213_OBORO_000_041","……下面我來和你交手看看吧。
 準備好後就來找我。"
 63,"TEXT_JOBNIN301_00213_TSUBAME_000_045","你要和朧大人交手吧？
 我在這裡為你們加油。"
-64,"TEXT_JOBNIN301_00213_TSUBAME_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，真是漂亮！
+64,"TEXT_JOBNIN301_00213_TSUBAME_000_020","<Highlight>ObjectParameter(1)</Highlight>大人，真是漂亮！
 不愧是被忍者之證選中的人。"
 65,"TEXT_JOBNIN301_00213_OBORO_000_069","嗯……和夕霧大人說的一樣呢。"
 66,"TEXT_JOBNIN301_00213_OBORO_000_070","嗯……"
@@ -96,17 +96,17 @@ int32,str,str
 68,"TEXT_JOBNIN301_00213_OBORO_000_072","燕……算了。
 確實是如行雲流水般的好刃。"
 69,"TEXT_JOBNIN301_00213_OBORO_000_073","……那這下該輪到我來請教了。
-能教我一些艾奧傑亞的風俗、常識嗎？"
+能教我一些艾歐澤亞的風俗、常識嗎？"
 70,"TEXT_JOBNIN301_00213_OBORO_000_074","……感謝你的幫助。"
 71,"TEXT_JOBNIN301_00213_OBORO_000_075","首先，關於東拉諾西亞的……
 ……嗯？一上來的行禮就有問題？"
 72,"TEXT_JOBNIN301_00213_OBORO_000_076","嗯……原來是這樣行禮啊。
 遠離村子的任務就是難啊……咳。"
-73,"TEXT_JOBNIN301_00213_TSUBAME_000_077","朧大人自從來了艾奧傑亞身體一直不怎麼好呢……
+73,"TEXT_JOBNIN301_00213_TSUBAME_000_077","朧大人自從來了艾歐澤亞身體一直不怎麼好呢……
 不過不能著急，知識要循序漸進，
 身體也一樣，我們需要慢慢適應這裡的水土氣候。"
 74,"TEXT_JOBNIN301_00213_OBORO_000_078","……不必，早日完成任務，早日回村子就好了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，今天就到這裡吧。
+<Highlight>ObjectParameter(1)</Highlight>，今天就到這裡吧。
 等你熟練了忍術之後，可以再來小屋找我。"
 75,"TEXT_JOBNIN301_00213_TSUBAME_000_079","……朧大人要先從行禮開始練起呢。"
 76,"TEXT_JOBNIN301_00213_QIB_001_TODO001","打倒鬼火！"
@@ -114,7 +114,7 @@ int32,str,str
 78,"TEXT_JOBNIN301_00213_QIB_001_TODO003","打倒朧！"
 79,"TEXT_JOBNIN301_00213_QIB_001_OBORO_BATTLETALK_01","先收拾掉<Sheet(BNpcName,3162,0)/>吧。
 使用風魔手裏劍等遠程攻擊，在它們靠近前消滅它們。"
-80,"TEXT_JOBNIN301_00213_QIB_001_TSUBAME_BATTLETALK_01"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，就是這樣，加油！"
+80,"TEXT_JOBNIN301_00213_QIB_001_TSUBAME_BATTLETALK_01","<Highlight>ObjectParameter(1)</Highlight>大人，就是這樣，加油！"
 81,"TEXT_JOBNIN301_00213_QIB_001_OBORO_BATTLETALK_02","接下來，我會用通靈之術召出<Sheet(BNpcName,3163,0)/>和<Sheet(BNpcName,3162,0)/>。
 不要驚慌，靜下心來逐個殲滅它們。"
 82,"TEXT_JOBNIN301_00213_QIB_001_OBORO_BATTLETALK_03","幹得不錯。

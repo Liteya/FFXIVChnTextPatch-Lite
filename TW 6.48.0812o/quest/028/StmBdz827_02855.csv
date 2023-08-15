@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ827_02855_SEQ_21",""
 22,"TEXT_STMBDZ827_02855_SEQ_22",""
 23,"TEXT_STMBDZ827_02855_SEQ_23",""
-24,"TEXT_STMBDZ827_02855_TODO_00","在<Sheet(EObj,2008369,0)/>張望 從<Sheet(BNpcName,5874,0)/>身上獲得<Sheet(EventItem,2002222,0)/>"
+24,"TEXT_STMBDZ827_02855_TODO_00","在<Sheet(EObj,2008369,0)/>張望 從<Sheet(BNpcName,5874,0)/>身上獲取<Sheet(EventItem,2002222,0)/>"
 25,"TEXT_STMBDZ827_02855_TODO_01","對<Sheet(EObj,2008370,0)/>使用<Sheet(EventItem,2002222,0)/>"
 26,"TEXT_STMBDZ827_02855_TODO_02","向歐格里報告"
 27,"TEXT_STMBDZ827_02855_TODO_03",""
@@ -55,7 +55,7 @@ int32,str,str
 如果放任不管的話，樹木早晚會枯萎。"
 50,"TEXT_STMBDZ827_02855_OGGERY_000_002","所以我想讓你去西南邊的水源附近張望，
 找到<Sheet(BNpcName,5874,0)/>。
-然後打倒它們，獲得2個<Sheet(EventItem,2002222,0)/>。"
+然後打倒它們，獲取2個<Sheet(EventItem,2002222,0)/>。"
 51,"TEXT_STMBDZ827_02855_OGGERY_000_003","接下來再將獲得的<Sheet(EventItem,2002222,0)/>
 埋到生長在水源旁邊的樹木的樹根處，埋2處就可以了。
 這樣的話，樹木就不會枯萎了，那麼拜託你了。"

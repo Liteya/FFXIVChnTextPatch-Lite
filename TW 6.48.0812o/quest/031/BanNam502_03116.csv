@@ -61,10 +61,10 @@ int32,str,str
 他應該在喬爾艾恩石環附近，麻煩你去看看出了什麼事。"
 50,"TEXT_BANNAM502_03116_KOFUINSEIGETSU_000_002","我想你肯定知道如果是擁有文明的種族，
 那懂得飼養家畜是理所當然的對吧？
-那就麻煩你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+那就麻煩你了，<Highlight>ObjectParameter(1)</Highlight>。"
 51,"TEXT_BANNAM502_03116_DAILYNAMAZUO03116_000_010","哎……真是忙不過來了噗……
 我收集了飼養馬匹所需要的東西，
-可是有些東西卻沒辦法弄到，我正在發愁呢噗。"
+可是有些東西卻沒法弄到，我正在發愁呢噗。"
 52,"TEXT_BANNAM502_03116_DAILYNAMAZUO03116_000_011","我需要的是<Sheet(Item,22736,0)/>的馬蹄鐵噗。
 素材已經給你準備好了，
 就從我旁邊的貨箱裡拿取需要的素材進行製作吧噗。"

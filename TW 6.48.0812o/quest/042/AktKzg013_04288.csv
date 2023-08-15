@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_AKTKZG013_04288_TODO_23",""
 48,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_000","喲，你好！
 你是個使魔吧，叫什麼名字？"
-49,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，幸會！
+49,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_001","<Highlight>ObjectParameter(1)</Highlight>啊，幸會！
 我旁邊的生物叫迅尾獸，
 是我正在觀察的使魔！"
 50,"TEXT_AKTKZG013_04288_GEALCAT04288_000_002","(-迅尾獸-)喵！"
@@ -69,7 +69,7 @@ int32,str,str
 我已經預先想辦法讓關係很差的生物相遇……
 可以的話，能請你幫忙確認一下迅尾獸的反應嗎？"
 56,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_008","對了，如果打起架來的生物們無法冷靜下來的話，
-就直接透過武力鎮壓他們吧！"
+就直接通過武力鎮壓他們吧！"
 57,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_009","那麼等你準備好之後，
 就跟我旁邊的迅尾獸進行交流吧！"
 58,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_020","跟我旁邊的迅尾獸進行交流，
@@ -82,13 +82,13 @@ int32,str,str
 63,"TEXT_AKTKZG013_04288_GEALCAT04288_000_040","嗚喵！"
 64,"TEXT_AKTKZG013_04288_SYTEM_000_041","兩隻創造生物惡狠狠地盯著對方，
 情勢一觸即發……
-一旦發生衝突，就透過武力進行制止。"
+一旦發生衝突，就通過武力進行制止。"
 65,"TEXT_AKTKZG013_04288_GEALCAT04288_000_050","喵嗚！"
 66,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_060","迅尾獸先行回來了，
 那邊的情況怎麼樣？"
 67,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_061","嗯嗯，成功察覺到了危機，趕往現場並進行了警告啊！
 迅尾獸真棒！"
-68,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_062","能夠成功阻止它們的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也很棒！
+68,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_062","能夠成功阻止它們的<Highlight>ObjectParameter(1)</Highlight>也很棒！
 你們都是出色的使魔！"
 69,"TEXT_AKTKZG013_04288_HIPPOTHOE_000_063","因為創造魔法，迅尾獸出生就擁有了翅膀和鈴鐺。
 同時具備優秀的飛翔能力和智力。"

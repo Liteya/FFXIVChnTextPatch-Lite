@@ -57,14 +57,14 @@ int32,str,str
 49,"TEXT_CLSACN021_00454_THUBYRGEIM_000_002","前往拉諾西亞低地，
 打倒「碼頭溝鼠」、「海月水母」和「花甲蟲」各3隻。"
 50,"TEXT_CLSACN021_00454_THUBYRGEIM_000_003","從暴風陸門出去後，就可以看到這幾種魔物了。
-對還沒熟悉秘術的你而言，這些對手正適合。
+對還沒熟悉秘術的你而言，這些對手正合適。
 記住要時刻保持冷靜的判斷力。"
 51,"TEXT_CLSACN021_00454_THUBYRGEIM_000_004","等你完成試煉之時，
 我將認可你正式加入秘術師公會。
 加油吧。"
 52,"TEXT_CLSACN021_00454_THUBYRGEIM_000_010","你回來啦，看來已經完美地通過了試煉呢。
 那麼……再次歡迎你加入秘術師公會！
-今日是秘術師 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的誕生之日。"
+今日是秘術師<Highlight>ObjectParameter(1)</Highlight>的誕生之日。"
 53,"TEXT_CLSACN021_00454_THUBYRGEIM_000_011","去吧，衝出城市，盡可能地翻閱你手中的「魔導書」吧。
 比起當個書呆子，在實戰中你能學到更多。"
 54,"TEXT_CLSACN021_00454_THUBYRGEIM_000_012","等你能熟練召喚寶石獸之後，

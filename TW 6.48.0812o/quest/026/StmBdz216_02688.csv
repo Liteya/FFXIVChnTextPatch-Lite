@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDZ216_02688_SEQ_00","痙攣寨的月影想要展開新的交涉。"
+0,"TEXT_STMBDZ216_02688_SEQ_00","痙攣寨的月影想要開展新的交涉。"
 1,"TEXT_STMBDZ216_02688_SEQ_01","月影希望冒險者能協助他們和東阿爾迪納德商會達成交易。為了得到交付琪琪茉的信件，和痙攣寨的月影談談。"
 2,"TEXT_STMBDZ216_02688_SEQ_02","和月影進行了交談，拿到了信件。前往黃金港第一防波堤，將<Sheet(EventItem,2002225,0)/>交給琪琪茉。"
 3,"TEXT_STMBDZ216_02688_SEQ_03","將信件交給了琪琪茉，交易成立了。同時，琪琪茉向海賊眾委託購買新的商品。將<Sheet(EventItem,2002263,0)/>交給痙攣寨的月影。"
-4,"TEXT_STMBDZ216_02688_SEQ_04","將<Sheet(EventItem,2002263,0)/>交給了月影。冒險者和海賊眾決定分頭獲得琪琪茉委託的商品。和沖之岩東南側的半作會合，獲得<Sheet(EventItem,2002226,0)/>。"
+4,"TEXT_STMBDZ216_02688_SEQ_04","將<Sheet(EventItem,2002263,0)/>交給了月影。冒險者和海賊眾決定分頭獲取琪琪茉委託的商品。和沖之岩東南側的半作匯合，獲取<Sheet(EventItem,2002226,0)/>。"
 5,"TEXT_STMBDZ216_02688_SEQ_05","獲得了受委託的商品。救助半作。"
 6,"TEXT_STMBDZ216_02688_SEQ_06","救助了半作。將<Sheet(EventItem,2002226,0)/>交給痙攣寨的月影。"
 7,"TEXT_STMBDZ216_02688_SEQ_07","將<Sheet(EventItem,2002226,0)/>交給了月影。集齊了琪琪茉委託的商品。終於可以開始和東阿爾迪納德商會展開交易了。不過，會成功嗎？"
@@ -28,7 +28,7 @@ int32,str,str
 24,"TEXT_STMBDZ216_02688_TODO_00","和月影對話"
 25,"TEXT_STMBDZ216_02688_TODO_01","將<Sheet(EventItem,2002225,0)/>交給黃金港的琪琪茉"
 26,"TEXT_STMBDZ216_02688_TODO_02","將<Sheet(EventItem,2002263,0)/>交給痙攣寨的月影"
-27,"TEXT_STMBDZ216_02688_TODO_03","和半作會合 獲得<Sheet(EventItem,2002226,0)/>"
+27,"TEXT_STMBDZ216_02688_TODO_03","和半作匯合 獲取<Sheet(EventItem,2002226,0)/>"
 28,"TEXT_STMBDZ216_02688_TODO_04","救助半作"
 29,"TEXT_STMBDZ216_02688_TODO_05","將<Sheet(EventItem,2002226,0)/>交給月影"
 30,"TEXT_STMBDZ216_02688_TODO_06",""
@@ -49,17 +49,17 @@ int32,str,str
 45,"TEXT_STMBDZ216_02688_TODO_21",""
 46,"TEXT_STMBDZ216_02688_TODO_22",""
 47,"TEXT_STMBDZ216_02688_TODO_23",""
-48,"TEXT_STMBDZ216_02688_SUZUME_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+48,"TEXT_STMBDZ216_02688_SUZUME_000_000","<Highlight>ObjectParameter(1)</Highlight>閣下，
 你就像是引領海賊眾走出困境的領航員。"
-49,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，感謝相助。
+49,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_000","<Highlight>ObjectParameter(1)</Highlight>閣下，感謝相助。
 我們想和東阿爾迪納德商會的琪琪茉閣下正式提出請求，
 所以想請你幫助我們繼續和她商談……"
 50,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_001","海賊眾無法出入黃金港。
 我們先要書寫用於交易的書信，
 所以請和我們同行，前往我們的駐所。"
-51,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_002","（★未使用／削除予定★）"
+51,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_002","（★未使用／預定刪除★）"
 52,"TEXT_STMBDZ216_02688_SUZUME_000_003","那我就去準備商品了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，真是麻煩你了，
+<Highlight>ObjectParameter(1)</Highlight>閣下，真是麻煩你了，
 就拜託你了！"
 53,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_010","抱歉讓你費力了。
 我將交易的條件都寫下來了……
@@ -72,7 +72,7 @@ int32,str,str
 56,"TEXT_STMBDZ216_02688_KIKIMO_000_020","既然你又來了，
 是不是意味著帶來了好消息呢？"
 57,"TEXT_STMBDZ216_02688_KIKIMO_000_021","沒想到事情會這麼順利！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+<Highlight>ObjectParameter(1)</Highlight>，
 感謝你為我們帶來了如此美好的交易。"
 58,"TEXT_STMBDZ216_02688_KIKIMO_000_022","我們非常歡迎和海賊眾的交易。
 月影提出的條件也完全可以接受。
@@ -85,16 +85,16 @@ int32,str,str
 導致我們苦於缺貨。"
 61,"TEXT_STMBDZ216_02688_KIKIMO_000_025","請將這份契約書交給月影。"
 62,"TEXT_STMBDZ216_02688_KIKIMO_000_029","請將這份契約書交給月影。"
-63,"TEXT_STMBDZ216_02688_SUZUME_000_029"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，回來了啊。
+63,"TEXT_STMBDZ216_02688_SUZUME_000_029","<Highlight>ObjectParameter(1)</Highlight>閣下，回來了啊。
 和東阿爾迪納特商會商談得如何？"
-64,"TEXT_STMBDZ216_02688_HANSAKU_000_029"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+64,"TEXT_STMBDZ216_02688_HANSAKU_000_029","<Highlight>ObjectParameter(1)</Highlight>，
 感謝和老大見面！
 多虧了你，連我也得到了獎賞。"
-65,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，回來了啊。
+65,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_030","<Highlight>ObjectParameter(1)</Highlight>閣下，回來了啊。
 那麼，琪琪茉閣下作何表示？"
 66,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_031","不僅承認我們的定價權，還提出了新的交易？！
 天助我也，這下終於可以規避財政危機了。"
-67,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_032"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+67,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_032","<Highlight>ObjectParameter(1)</Highlight>閣下，
 你為我們完成了如此大任，
 我由衷地感謝你。"
 68,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_033","契約書上寫的是，
@@ -125,7 +125,7 @@ int32,str,str
 老大，你是說半作曾經是
 那艘謊稱東阿爾迪納德商會商船的船員？"
 78,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_043","是啊，大概半作想拚命瞞過去。
-他並不是拒絕給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下帶路，
+他並不是拒絕給<Highlight>ObjectParameter(1)</Highlight>閣下帶路，
 而是想如此做而不能……"
 79,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_044","如果和曾經拋棄的夥伴再次相遇，肯定不會有什麼好果子吃。
 那些騙子拒絕繳納紅玉錢，所以已經被裝進木桶，扔進了海裡。
@@ -140,13 +140,13 @@ int32,str,str
 那些人已經扔進海裡了，
 半作也改過自新，成為海賊眾的夥伴了。"
 84,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_048","對了，半作匆忙跑出去，可能需要幫助。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，可否請你幫助他？"
+<Highlight>ObjectParameter(1)</Highlight>閣下，可否請你幫助他？"
 85,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_049","留意行事莽撞的半作的同時，
 到沖之岩東南側海岸找<Sheet(EventItem,2002226,0)/>吧，有一個就好。
 那麼，我也去尋找委託的物品了。"
-86,"TEXT_STMBDZ216_02688_HANSAKU_000_059","（★未使用／削除予定★）"
+86,"TEXT_STMBDZ216_02688_HANSAKU_000_059","（★未使用／預定刪除★）"
 87,"TEXT_STMBDZ216_02688_HANSAKU_000_060","哇，得救了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，多謝啦！
+<Highlight>ObjectParameter(1)</Highlight>，多謝啦！
 不過，你為什麼會在這裡？"
 88,"TEXT_STMBDZ216_02688_HANSAKU_000_061","原來如此，是老大……
 話說半道就跑出去，看來我真的不行啊。
@@ -154,19 +154,19 @@ int32,str,str
 89,"TEXT_STMBDZ216_02688_HANSAKU_000_062","不過，受委託的物件你已經找到了對吧？
 那就趕緊交給老大吧！
 我先回去了！"
-90,"TEXT_STMBDZ216_02688_SUZUME_000_069","竟然讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下給自己擦屁股……
+90,"TEXT_STMBDZ216_02688_SUZUME_000_069","竟然讓<Highlight>ObjectParameter(1)</Highlight>閣下給自己擦屁股……
 半作那傢伙……真是沒用……"
 91,"TEXT_STMBDZ216_02688_HANSAKU_000_069","呀，等了好久！
 如果我兩手空空，實在是說不過去。
 來來，把東西交給老大吧。"
-92,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，辛苦了。
-我從半作那裡瞭解到了事情的經過。
+92,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_070","<Highlight>ObjectParameter(1)</Highlight>閣下，辛苦了。
+我從半作那裡了解到了事情的經過。
 讓貴體操勞，誠感慚愧……"
 93,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_071","哦哦，這真是上等的鰭！
 這下一定能超額回報琪琪茉閣下的期待啊！"
 94,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_072","那麼，就將收集的物品作為禮品，
 準備和琪琪茉閣下的談判吧。
-我們需要儘快敲定扣押物品的交易方式。"
+我們需要盡快敲定扣押物品的交易方式。"
 95,"TEXT_STMBDZ216_02688_SUZUME_000_073","那我就先去準備扣押物品裝船的事了。"
 96,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_074","好。真是值得信賴，拜託了。"
 97,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_075","……不過，雀好像沒有精神啊……

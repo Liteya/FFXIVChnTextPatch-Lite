@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_HEAVNZ633_01901_TODO_21",""
 46,"TEXT_HEAVNZ633_01901_TODO_22",""
 47,"TEXT_HEAVNZ633_01901_TODO_23",""
-48,"TEXT_HEAVNZ633_01901_LANIAITTE_000_000"," <Highlight>ObjectParameter(1)</Highlight> ，你來得正好。
+48,"TEXT_HEAVNZ633_01901_LANIAITTE_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來得正好。
 派遣前往袞杜集落的部隊突然失去了聯繫……"
 49,"TEXT_HEAVNZ633_01901_LANIAITTE_000_001","也許他們遇上了什麼特殊的情況。
 能不能請你馬上奔赴此處，去調查一下情況？"
@@ -71,7 +71,7 @@ int32,str,str
 我先回去了。"
 59,"TEXT_HEAVNZ633_01901_SOLDIERC01901_100_015","還好受傷不重，要是我再多警惕一些……
 這次我欠你個人情。"
-60,"TEXT_HEAVNZ633_01901_LANIAITTE_000_020","你回來了， <Highlight>ObjectParameter(1)</Highlight> ！
+60,"TEXT_HEAVNZ633_01901_LANIAITTE_000_020","你回來了，<Highlight>ObjectParameter(1)</Highlight>！
 前去偵察的部隊怎麼樣了？他們沒事吧？"
 61,"TEXT_HEAVNZ633_01901_LANIAITTE_000_021","……這樣啊，部下們沒有生命危險就好。
 袞杜集落原本是瓦努族中對人類非常友好的袞杜族生活的村落。"

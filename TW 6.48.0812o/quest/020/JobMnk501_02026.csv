@@ -6,12 +6,12 @@ int32,str,str
 冒險者接受了歷史學家艾里克的委託，和武僧維達蓋爾特在各地測量乙太。維達蓋爾特企圖解放阿拉米格，復興他所信仰的拉爾戈星導教。不過冒險者挫敗了他的野心，在被艾里克狠狠地說教了一番後，維達蓋爾特最終改變了自己試圖蠻幹的想法。
 　　　　　　　　　　　　*　*　*
 據艾里克博士所說，維達蓋爾特現在收了弟子。在艾里克博士的強烈要求下，冒險者不得不去查看維達蓋爾特的情況。和摩杜納喪靈鐘的維達蓋爾特談談。"
-2,"TEXT_JOBMNK501_02026_SEQ_02","維達蓋爾特向冒險者介紹了他的兩個弟子，德．傑恩茶和奧．夏可哈，並讓冒險者幫助她們進行修行。和摩杜納銀淚湖北岸的維達蓋爾特談談。"
-3,"TEXT_JOBMNK501_02026_SEQ_03","和維達蓋爾特進行了交談。首先，冒險者要向德．傑恩茶展示自己的實力。和銀淚湖北岸的德．傑恩茶談談，討伐出現的<Sheet(BNpcName,4094,0)/>。"
-4,"TEXT_JOBMNK501_02026_SEQ_04","討伐了出現的<Sheet(BNpcName,4094,0)/>。和銀淚湖北岸的德．傑恩茶談談。"
-5,"TEXT_JOBMNK501_02026_SEQ_05","德．傑恩茶對冒險者強大的實力表示驚嘆。接下來向奧．夏可哈展示自己的實力。和銀淚湖北岸的奧．夏可哈談談，討伐出現的<Sheet(BNpcName,4093,0)/>。"
-6,"TEXT_JOBMNK501_02026_SEQ_06","討伐了出現的<Sheet(BNpcName,4093,0)/>。和銀淚湖北岸的奧．夏可哈談談。"
-7,"TEXT_JOBMNK501_02026_SEQ_07","一旁觀戰的德．傑恩茶和奧．夏可哈見識了冒險者強大的力量後感到非常欣喜。之後聽到了維達蓋爾特的大聲呼喊。和銀淚湖北岸的維達蓋爾特談談。"
+2,"TEXT_JOBMNK501_02026_SEQ_02","維達蓋爾特向冒險者介紹了他的兩個弟子，德·傑恩茶和奧·夏可哈，並讓冒險者幫助她們進行修行。和摩杜納銀淚湖北岸的維達蓋爾特談談。"
+3,"TEXT_JOBMNK501_02026_SEQ_03","和維達蓋爾特進行了交談。首先，冒險者要向德·傑恩茶展示自己的實力。和銀淚湖北岸的德·傑恩茶談談，討伐出現的<Sheet(BNpcName,4094,0)/>。"
+4,"TEXT_JOBMNK501_02026_SEQ_04","討伐了出現的<Sheet(BNpcName,4094,0)/>。和銀淚湖北岸的德·傑恩茶談談。"
+5,"TEXT_JOBMNK501_02026_SEQ_05","德·傑恩茶對冒險者強大的實力表示驚嘆。接下來向奧·夏可哈展示自己的實力。和銀淚湖北岸的奧·夏可哈談談，討伐出現的<Sheet(BNpcName,4093,0)/>。"
+6,"TEXT_JOBMNK501_02026_SEQ_06","討伐了出現的<Sheet(BNpcName,4093,0)/>。和銀淚湖北岸的奧·夏可哈談談。"
+7,"TEXT_JOBMNK501_02026_SEQ_07","一旁觀戰的德·傑恩茶和奧·夏可哈見識了冒險者強大的力量後感到非常欣喜。之後聽到了維達蓋爾特的大聲呼喊。和銀淚湖北岸的維達蓋爾特談談。"
 8,"TEXT_JOBMNK501_02026_SEQ_08","據維達蓋爾特所說，他被使用武僧招數的人所襲擊。這次遇襲似乎導致他的脈輪打開了……和喪靈鐘的維達蓋爾特談談。"
 9,"TEXT_JOBMNK501_02026_SEQ_09","維達蓋爾特講述了遇襲的詳細情況。他在此次遇襲後打開的似乎並不是第七脈輪，這究竟是怎麼回事……
 
@@ -32,10 +32,10 @@ int32,str,str
 23,"TEXT_JOBMNK501_02026_SEQ_23",""
 24,"TEXT_JOBMNK501_02026_TODO_00","和喪靈鐘的維達蓋爾特對話"
 25,"TEXT_JOBMNK501_02026_TODO_01","和維達蓋爾特對話"
-26,"TEXT_JOBMNK501_02026_TODO_02","和德．傑恩茶對話 討伐出現的<Sheet(BNpcName,4094,0)/>"
-27,"TEXT_JOBMNK501_02026_TODO_03","和德．傑恩茶對話"
-28,"TEXT_JOBMNK501_02026_TODO_04","和奧．夏可哈對話 討伐出現的<Sheet(BNpcName,4093,0)/>"
-29,"TEXT_JOBMNK501_02026_TODO_05","和奧．夏可哈對話"
+26,"TEXT_JOBMNK501_02026_TODO_02","和德·傑恩茶對話 討伐出現的<Sheet(BNpcName,4094,0)/>"
+27,"TEXT_JOBMNK501_02026_TODO_03","和德·傑恩茶對話"
+28,"TEXT_JOBMNK501_02026_TODO_04","和奧·夏可哈對話 討伐出現的<Sheet(BNpcName,4093,0)/>"
+29,"TEXT_JOBMNK501_02026_TODO_05","和奧·夏可哈對話"
 30,"TEXT_JOBMNK501_02026_TODO_06","和維達蓋爾特對話"
 31,"TEXT_JOBMNK501_02026_TODO_07","和喪靈鐘的維達蓋爾特對話"
 32,"TEXT_JOBMNK501_02026_TODO_08",""
@@ -58,7 +58,7 @@ int32,str,str
 老朽正想與你就最新的論文進行一番探討呢。
 不過，你還記得那個傢伙嗎？"
 49,"TEXT_JOBMNK501_02026_ERIK_000_001","嗯，就是那個被老朽狠狠說教了一番的維達蓋爾特！"
-50,"TEXT_JOBMNK501_02026_ERIK_000_002","在老朽「超自然探求者．艾里克」親自對他進行愛的教育後，
+50,"TEXT_JOBMNK501_02026_ERIK_000_002","在老朽「超自然探求者·艾里克」親自對他進行愛的教育後，
 他的內心似乎產生了激烈的動搖！"
 51,"TEXT_JOBMNK501_02026_ERIK_000_003","就這樣，維達蓋爾特洗心革面了。
 他不再被復仇之心所困，而開始著眼於未來。
@@ -76,7 +76,7 @@ int32,str,str
 56,"TEXT_JOBMNK501_02026_ERIK_000_015","他的活動據點就在喪靈鐘……
 只要知道他在哪裡，要見面就很容易了。
 快去吧，別磨蹭，趕緊去啊！"
-57,"TEXT_JOBMNK501_02026_WIDARGELT_000_050","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+57,"TEXT_JOBMNK501_02026_WIDARGELT_000_050","啊，<Highlight>ObjectParameter(1)</Highlight>！
 好久不見，來找我有什麼事？"
 58,"TEXT_JOBMNK501_02026_WIDARGELT_000_051","哈哈……原來如此，是艾里克博士派你來的啊。
 無所謂了，你能來我很開心。"
@@ -92,15 +92,15 @@ int32,str,str
 你們到這裡來一下！"
 63,"TEXT_JOBMNK501_02026_DZENTSA_000_055","怎麼了，師父。
 這是您新收的弟子嗎？！"
-64,"TEXT_JOBMNK501_02026_WIDARGELT_000_056","不， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是我最優秀的後輩。
-這麼說實在有些慚愧，現在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的實力已在我之上。"
+64,"TEXT_JOBMNK501_02026_WIDARGELT_000_056","不，<Highlight>ObjectParameter(1)</Highlight>是我最優秀的後輩。
+這麼說實在有些慚愧，現在<Highlight>ObjectParameter(1)</Highlight>的實力已在我之上。"
 65,"TEXT_JOBMNK501_02026_WIDARGELT_000_057","傑恩茶，夏可哈，這可是個好機會。
-今天就由 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來幫助你們進行修行。
+今天就由<Highlight>ObjectParameter(1)</Highlight>來幫助你們進行修行。
 你們到平時修行的地方集合吧。"
 66,"TEXT_JOBMNK501_02026_DZENTSA_000_058","咦，有意思！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，回頭見，你可別溜了哦？！"
+<Highlight>ObjectParameter(1)</Highlight>，回頭見，你可別溜了哦？！"
 67,"TEXT_JOBMNK501_02026_OTCHAKHA_000_059","真是的，傑恩茶又把我丟下自己跑了……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請多多關照。
+<Highlight>ObjectParameter(1)</Highlight>閣下，請多多關照。
 那麼我也先到平時修行的地方去了。"
 68,"TEXT_JOBMNK501_02026_WIDARGELT_000_060","她們兩個都是被遺棄的孩子，從小一起長大，感情很好。
 某一天她們突然就跑到了我家裡……
@@ -136,24 +136,24 @@ int32,str,str
 81,"TEXT_JOBMNK501_02026_DZENTSA_000_155","你好厲害，太帥了！"
 82,"TEXT_JOBMNK501_02026_OTCHAKHA_000_200","哎呀哎呀……真的像傑恩茶說得那樣厲害呢！
 果然你的實力不凡，比師父還要強！"
-83,"TEXT_JOBMNK501_02026_DZENTSA_000_201","(-德．傑恩茶-)……你看，她很開心吧？
+83,"TEXT_JOBMNK501_02026_DZENTSA_000_201","(-德·傑恩茶-)……你看，她很開心吧？
 就跟我之前說的一模一樣！"
 84,"TEXT_JOBMNK501_02026_OTCHAKHA_000_202","是啊，是啊，我超級高興！
-我想讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下來指點指點我們！
+我想讓<Highlight>ObjectParameter(1)</Highlight>閣下來指點指點我們！
 這樣一來我們肯定也會變得更強大的！"
-85,"TEXT_JOBMNK501_02026_DZENTSA_000_203","(-德．傑恩茶-)嗯，我也是這麼想的！
+85,"TEXT_JOBMNK501_02026_DZENTSA_000_203","(-德·傑恩茶-)嗯，我也是這麼想的！
 我們是為了變強才拜入師父門下的嘛！"
 86,"TEXT_JOBMNK501_02026_OTCHAKHA_000_204","正是如此！
 我們必須變得強大才能生存下去！"
 87,"TEXT_JOBMNK501_02026_OTCHAKHA_000_205","從前我們很弱小，備受欺凌，有過很多不好的回憶。
-但如果能變得像 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下一樣厲害的話，
+但如果能變得像<Highlight>ObjectParameter(1)</Highlight>閣下一樣厲害的話，
 我們就能無所畏懼了！"
-88,"TEXT_JOBMNK501_02026_DZENTSA_000_206","(-德．傑恩茶-)那我們就趕緊開始修行吧，我正想練練四面腳呢……"
+88,"TEXT_JOBMNK501_02026_DZENTSA_000_206","(-德·傑恩茶-)那我們就趕緊開始修行吧，我正想練練四面腳呢……"
 89,"TEXT_JOBMNK501_02026_WIDARGELT_000_207","(-維達蓋爾特-)你、你們……到底是什麼人！！"
-90,"TEXT_JOBMNK501_02026_DZENTSA_000_208","(-德．傑恩茶-)那是師父的聲音！
+90,"TEXT_JOBMNK501_02026_DZENTSA_000_208","(-德·傑恩茶-)那是師父的聲音！
 怎、怎麼回事？！我們趕快去看看！！"
 91,"TEXT_JOBMNK501_02026_DZENTSA_000_230","師父……您沒事吧？！師父！！"
-92,"TEXT_JOBMNK501_02026_WIDARGELT_000_300"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……傑恩茶、夏可哈……
+92,"TEXT_JOBMNK501_02026_WIDARGELT_000_300","<Highlight>ObjectParameter(1)</Highlight>……傑恩茶、夏可哈……
 你們沒事吧……"
 93,"TEXT_JOBMNK501_02026_DZENTSA_000_301","我們都沒事！
 先別管我們了，師父您還好嗎？！
@@ -186,15 +186,15 @@ int32,str,str
 105,"TEXT_JOBMNK501_02026_WIDARGELT_000_404","我身體感受到的那股劇烈的衝擊……
 與體內的脈輪被打開的感覺非常相似。
 話雖如此，但這次打開的明顯不是第七脈輪……"
-106,"TEXT_JOBMNK501_02026_DZENTSA_000_405","(-德．傑恩茶-)說來師父您為了打開第七脈輪正在努力修行。
+106,"TEXT_JOBMNK501_02026_DZENTSA_000_405","(-德·傑恩茶-)說來師父您為了打開第七脈輪正在努力修行。
 既然第七脈輪沒有打開的話，那一定有別的「什麼」被開啟了吧？
 師父，這究竟是怎麼回事呢？真是搞不懂……"
 107,"TEXT_JOBMNK501_02026_WIDARGELT_000_406","是啊……搞不清楚的事太多了。
-艾里克博士非常瞭解星導教的歷史，
-我們有必要借助他的力量來進行調查……"
+艾里克博士非常了解星導教的歷史，
+我們有必要藉助他的力量來進行調查……"
 108,"TEXT_JOBMNK501_02026_WIDARGELT_100_406","……傑恩茶、夏可哈。
 你們先回去修行吧。"
-109,"TEXT_JOBMNK501_02026_WIDARGELT_000_407"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你有空再來找我。
+109,"TEXT_JOBMNK501_02026_WIDARGELT_000_407","<Highlight>ObjectParameter(1)</Highlight>，請你有空再來找我。
 如果我因此獲得了「新的力量」的話，
 我非常希望能與你共享。"
 110,"TEXT_JOBMNK501_02026_SYSTEM_000_500","開啟了新的「武僧」任務。

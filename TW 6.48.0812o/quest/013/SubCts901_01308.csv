@@ -3,11 +3,11 @@
 int32,str,str
 0,"TEXT_SUBCTS901_01308_SEQ_00","喪靈鐘的阿莉絲想要介紹人給冒險者認識。"
 1,"TEXT_SUBCTS901_01308_SEQ_01","阿莉絲將異國的詩人介紹給了冒險者。和喪靈鐘第七天堂的異國的詩人對話。"
-2,"TEXT_SUBCTS901_01308_SEQ_02","向異國的詩人講述了和究極神兵戰鬥的經歷。看來可以借助他的詩歌的力量，再次體驗與究極神兵的戰鬥。一邊回憶和加雷馬帝國之間的戰鬥，一邊挑戰真正的究極神兵。
+2,"TEXT_SUBCTS901_01308_SEQ_02","向異國的詩人講述了和究極神兵戰鬥的經歷。看來可以藉助他的詩歌的力量，再次體驗與究極神兵的戰鬥。一邊回憶和加雷馬帝國之間的戰鬥，一邊挑戰真正的究極神兵。
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 3,"TEXT_SUBCTS901_01308_SEQ_03","討伐了真正的究極神兵。被詩歌召喚出來的究極神兵，力量遠在以前對戰過的究極神兵之上……向喪靈鐘的異國的詩人報告。"
-4,"TEXT_SUBCTS901_01308_SEQ_04","和異國的詩人進行了交談。看來是他詠唱冒險者和究極神兵之間的戰鬥時誇大其詞了。這位自稱來自異國、詠唱英雄戰鬥事蹟的詩人究竟是何許人也。"
+4,"TEXT_SUBCTS901_01308_SEQ_04","和異國的詩人進行了交談。看來是他詠唱冒險者和究極神兵之間的戰鬥時誇大其詞了。這位自稱來自異國、詠唱英雄戰鬥事跡的詩人究竟是何許人也。"
 5,"TEXT_SUBCTS901_01308_SEQ_05",""
 6,"TEXT_SUBCTS901_01308_SEQ_06",""
 7,"TEXT_SUBCTS901_01308_SEQ_07",""
@@ -51,19 +51,19 @@ int32,str,str
 45,"TEXT_SUBCTS901_01308_TODO_21",""
 46,"TEXT_SUBCTS901_01308_TODO_22",""
 47,"TEXT_SUBCTS901_01308_TODO_23",""
-48,"TEXT_SUBCTS901_01308_ALYS_000_000","歡迎光臨， <Highlight>ObjectParameter(1)</Highlight> 大人。
+48,"TEXT_SUBCTS901_01308_ALYS_000_000","歡迎光臨，<Highlight>ObjectParameter(1)</Highlight>大人。
 今天我想介紹一個人給您認識。"
 49,"TEXT_SUBCTS901_01308_ALYS_000_001","那位是異國的詩人。
 不久前他遊歷到了喪靈鐘，
 在這裡收集冒險者們親身經歷的故事。"
-50,"TEXT_SUBCTS901_01308_ALYS_000_002"," <Highlight>ObjectParameter(1)</Highlight> 大人，您在眾多冒險者中算是數一數二的佼佼者。
+50,"TEXT_SUBCTS901_01308_ALYS_000_002","<Highlight>ObjectParameter(1)</Highlight>大人，您在眾多冒險者中算是數一數二的佼佼者。
 可以把您的經歷講給他聽聽嗎？"
 51,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_010","「月明流散，拂曉驅暗。
 混沌之地眾神亂。」"
 52,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_011","「鎮神白刃，征神黑劍。
 擇一而握命運變。」"
 53,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_012","……這首詩，據說是賢者路易索瓦留下的。
-在我看來，它正是預言了艾奧傑亞現在的狀態……"
+在我看來，它正是預言了艾歐澤亞現在的狀態……"
 54,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_015","你是……沒想到還能與你再相會！
 看來你我之間緣分不淺。"
 55,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_016","記得梅薩亞預言的下半段嗎？
@@ -71,19 +71,19 @@ int32,str,str
 蒼天之理紛亂，伏地之骸蠢動。」"
 56,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_017","「然星海之奇人，異鄉之稀客，繽紛而至。
 其為往日之觀者，明日之拓者，命運之汝是也。」"
-57,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_018","……冒險者 <Highlight>ObjectParameter(1)</Highlight> ，
+57,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_018","……冒險者<Highlight>ObjectParameter(1)</Highlight>，
 衷心祝賀你從星海歸來。"
 58,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_019","歡迎回來，還有，謝謝。
-沒想到今後又能繼續歌頌你的事蹟了，
+沒想到今後又能繼續歌頌你的事跡了，
 我真的、真的很高興。"
 59,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_030","……看來，你是個冒險者吧？
 我被大家稱作異國詩人，
-在此歌頌這片土地上的英雄事蹟。"
+在此歌頌這片土地上的英雄事跡。"
 60,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_031","正如大家稱呼我的那樣……
-我來自艾奧傑亞的「外面」，是個外來者。"
+我來自艾歐澤亞的「外面」，是個外來者。"
 61,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_032","我在這片土地上多次陷入困境、遭遇試煉，
 得到了很多冒險者的幫助。
-自那以來，我就傾注心血歌頌他們的事蹟。"
+自那以來，我就傾注心血歌頌他們的事跡。"
 62,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_033","呵呵，似乎可以從你這裡聽到很精彩的故事呢。
 今後也請你多關照了。"
 63,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_040","……對了！
@@ -96,7 +96,7 @@ int32,str,str
 66,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_043","手握黑劍「究極神兵」討伐蠻神的，
 是漆黑的王狼蓋烏斯。"
 67,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_044","相對的，鎮神白刃……
-就是選擇了當今「光之戰士」的艾奧傑亞三大城邦的各位領袖。"
+就是選擇了當今「光之戰士」的艾歐澤亞三大城邦的各位領袖。"
 68,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_045","依我看來，肯定就是這樣沒錯。
 ……你覺得呢？"
 69,"TEXT_SUBCTS901_01308_WANDERINGMINSTREL_000_046","呵呵，我也想模仿賢者詠唱詩文了。

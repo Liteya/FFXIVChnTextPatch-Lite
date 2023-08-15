@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 穆納瓦努希望冒險者去找利努瓦努。和西風島的群雲利努瓦努對話。"
-2,"TEXT_BANVAN603_02199_SEQ_02","利努瓦努希望冒險者協助他平息先祖英靈的怒火。先前往曲石祭壇，獲得<Sheet(EventItem,2001927,0)/>。"
+2,"TEXT_BANVAN603_02199_SEQ_02","利努瓦努希望冒險者協助他平息先祖英靈的怒火。先前往曲石祭壇，獲取<Sheet(EventItem,2001927,0)/>。"
 3,"TEXT_BANVAN603_02199_SEQ_03","獲得了<Sheet(EventItem,2001927,0)/>。再前往袞杜集落，向<Sheet(EObj,2006695,0)/>獻上<Sheet(EventItem,2001927,0)/>。"
 4,"TEXT_BANVAN603_02199_SEQ_04","獻好了<Sheet(EventItem,2001927,0)/>。最後對著<Sheet(EObj,2006696,0)/>獻上情感動作「太陽之舞」。"
 5,"TEXT_BANVAN603_02199_SEQ_05","獻上了「太陽之舞」。向西風島的群雲利努瓦努報告。"
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANVAN603_02199_SEQ_22",""
 23,"TEXT_BANVAN603_02199_SEQ_23",""
 24,"TEXT_BANVAN603_02199_TODO_00","和群雲利努瓦努對話"
-25,"TEXT_BANVAN603_02199_TODO_01","獲得<Sheet(EventItem,2001927,0)/>"
+25,"TEXT_BANVAN603_02199_TODO_01","獲取<Sheet(EventItem,2001927,0)/>"
 26,"TEXT_BANVAN603_02199_TODO_02","將<Sheet(EventItem,2001927,0)/>放在<Sheet(EObj,2006695,0)/>"
 27,"TEXT_BANVAN603_02199_TODO_03","對<Sheet(EObj,2006696,0)/>做「太陽之舞」的情感動作"
 28,"TEXT_BANVAN603_02199_TODO_04","向群雲利努瓦努報告"
@@ -53,11 +53,11 @@ int32,str,str
 45,"TEXT_BANVAN603_02199_TODO_21",""
 46,"TEXT_BANVAN603_02199_TODO_22",""
 47,"TEXT_BANVAN603_02199_TODO_23",""
-48,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_001","<Highlight>ObjectParameter(1)</Highlight>、<Highlight>ObjectParameter(1)</Highlight>，
 利努瓦努大人有話捎給你，
 讓你有時間的時候去找他一趟。"
 49,"TEXT_BANVAN603_02199_02199_MUNAVANU_000_010","（★未使用／削除予定★）"
-50,"TEXT_BANVAN603_02199_02199_LINUVANU_000_020","你來了、你來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+50,"TEXT_BANVAN603_02199_02199_LINUVANU_000_020","你來了、你來了，<Highlight>ObjectParameter(1)</Highlight>，
 事態緊急，我需要你的幫助！"
 51,"TEXT_BANVAN603_02199_02199_LINUVANU_000_021","昨天我放飛風箏貓占卜了一下，
 結果它轉了好幾個圈最後掉到了雲海之下……

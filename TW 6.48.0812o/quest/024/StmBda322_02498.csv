@@ -58,12 +58,12 @@ int32,str,str
 51,"TEXT_STMBDA322_02498_YUGIRI_000_002","……只不過，如你所見，
 這個地方視野開闊，很不利於執行暗殺。
 所以我們等芝諾斯開始移動，在弓束官邸附近實施突襲。"
-52,"TEXT_STMBDA322_02498_YUGIRI_000_003","為此， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+52,"TEXT_STMBDA322_02498_YUGIRI_000_003","為此，<Highlight>ObjectParameter(1)</Highlight>閣下……
 我們先去分頭尋找適合藏身的地方吧。
 分頭行動也會更有效率一些。"
 53,"TEXT_STMBDA322_02498_SYSTEM_000_010","這個地方四周有牆壁環繞，是個較為隱蔽的場所，
 應該很適合藏身……"
-54,"TEXT_STMBDA322_02498_YUGIRI_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你在這裡啊。"
+54,"TEXT_STMBDA322_02498_YUGIRI_000_011","<Highlight>ObjectParameter(1)</Highlight>閣下，你在這裡啊。"
 55,"TEXT_STMBDA322_02498_YUGIRI_000_012","……嗯，這個地方不錯。
 也可以從屋頂上查看碼頭的情況。"
 56,"TEXT_STMBDA322_02498_YUGIRI_000_013","那我們就先潛伏在這裡等待時機……
@@ -77,7 +77,7 @@ int32,str,str
 那我們就藏在這裡，等待芝諾斯的到達吧。"
 60,"TEXT_STMBDA322_02498_YUGIRI_000_030","哈……哈……"
 61,"TEXT_STMBDA322_02498_ISSE_000_035","沒事吧？
-傷口應該蠻疼吧……"
+傷口應該挺疼吧……"
 62,"TEXT_STMBDA322_02498_GOSETSU_000_040","看來所有人都逃出來了。
 那就好。"
 63,"TEXT_STMBDA322_02498_ALISAIE_000_050","看樣子並沒有追兵……
@@ -99,7 +99,7 @@ int32,str,str
 71,"TEXT_STMBDA322_02498_ZENOS_BATTLETALK_001_002","你已經沒有機會了。
 我的獵物……就是那個<If(PlayerParameter(4))>女人<Else/>男人</If>了。"
 72,"TEXT_STMBDA322_02498_YOTSUYU_BATTLETALK_001_003","雖然不知道你們有什麼目的，是什麼人，
-但可以肯定的是，你們是群白痴。"
+但可以肯定的是，你們是群白癡。"
 73,"TEXT_STMBDA322_02498_ZENOS_BATTLETALK_002_001","久違的狩獵……
 可不要讓我掃興啊。"
 74,"TEXT_STMBDA322_02498_ZENOS_BATTLETALK_003_001","……哼。

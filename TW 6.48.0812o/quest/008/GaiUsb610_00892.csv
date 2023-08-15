@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_GAIUSB610_00892_SEQ_00","天火要塞群的衛兵普雷里約有事情想要委託給冒險者。"
 1,"TEXT_GAIUSB610_00892_SEQ_01","普雷里約想要補充<Sheet(EventItem,2000698,0)/>。尋找<Sheet(EObj,2002113,0)/>，收集8束<Sheet(EventItem,2000698,0)/>。"
-2,"TEXT_GAIUSB610_00892_SEQ_02","收集齊了<Sheet(EventItem,2000698,0)/>。將其交給天火要塞群西部高臺上的斯特凡諾。"
+2,"TEXT_GAIUSB610_00892_SEQ_02","收集齊了<Sheet(EventItem,2000698,0)/>。將其交給天火要塞群西部高台上的斯特凡諾。"
 3,"TEXT_GAIUSB610_00892_SEQ_03","斯特凡諾說無法取暖的話就會凍死人。雖然他很感謝冒險者的付出，卻還是因為冒險者是外來者而感到不快。"
 4,"TEXT_GAIUSB610_00892_SEQ_04",""
 5,"TEXT_GAIUSB610_00892_SEQ_05",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSB610_00892_SEQ_21",""
 22,"TEXT_GAIUSB610_00892_SEQ_22",""
 23,"TEXT_GAIUSB610_00892_SEQ_23",""
-24,"TEXT_GAIUSB610_00892_TODO_00","尋找<Sheet(EObj,2002113,0)/> 獲得<Sheet(EventItem,2000698,0)/>"
+24,"TEXT_GAIUSB610_00892_TODO_00","尋找<Sheet(EObj,2002113,0)/> 獲取<Sheet(EventItem,2000698,0)/>"
 25,"TEXT_GAIUSB610_00892_TODO_01","將<Sheet(EventItem,2000698,0)/>交給斯特凡諾"
 26,"TEXT_GAIUSB610_00892_TODO_02",""
 27,"TEXT_GAIUSB610_00892_TODO_03",""
@@ -55,7 +55,7 @@ int32,str,str
 那麼請你來幫我補充<Sheet(EventItem,2000698,0)/>吧！"
 50,"TEXT_GAIUSB610_00892_PRAIRILLOT_000_002","可以作柴火的木材應該可以在那些埋在雪中的樹木附近找到。
 你集齊8束柴火的話，
-就拿去交給西側高臺上的斯特凡諾吧。"
+就拿去交給西側高台上的斯特凡諾吧。"
 51,"TEXT_GAIUSB610_00892_DUMMY_000_010","從埋在雪中的樹木上找到<Sheet(EventItem,2000698,0)/>"
 52,"TEXT_GAIUSB610_00892_DUMMYTODO_000_010","（★未使用／削除予定★）"
 53,"TEXT_GAIUSB610_00892_STEPHANNOT_000_020","太慢了！要你去巨龍首營地拿的補給物資到哪裡去了？

@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ526_01861_SEQ_00","飛龍港悶悶不樂的莫古利非常不滿。"
-1,"TEXT_HEAVNZ526_01861_SEQ_01","和悶悶不樂的莫古利進行了交談。悶悶不樂的莫古利在收集人類的武器、工具時被<Sheet(BNpcName,3624,0)/>襲擊，收集來的東西也都被搶走了。在飛龍港討伐<Sheet(BNpcName,3624,0)/>，獲得3個其身上可能會掉落的<Sheet(EventItem,2001652,0)/>。"
-2,"TEXT_HEAVNZ526_01861_SEQ_02","獲得了<Sheet(EventItem,2001652,0)/>。將<Sheet(EventItem,2001652,0)/>交給飛龍港悶悶不樂的莫古利。"
-3,"TEXT_HEAVNZ526_01861_SEQ_03","將<Sheet(EventItem,2001652,0)/>交給了悶悶不樂的莫古利。<Sheet(BNpcName,3624,0)/>憎恨著人類，甚至不想讓莫古利族使用人類的工具。"
+0,"TEXT_HEAVNZ526_01861_SEQ_00","飛龍港悶悶不樂的莫古力非常不滿。"
+1,"TEXT_HEAVNZ526_01861_SEQ_01","和悶悶不樂的莫古力進行了交談。悶悶不樂的莫古力在收集人類的武器、工具時被<Sheet(BNpcName,3624,0)/>襲擊，收集來的東西也都被搶走了。在飛龍港討伐<Sheet(BNpcName,3624,0)/>，獲取3個其身上可能會掉落的<Sheet(EventItem,2001652,0)/>。"
+2,"TEXT_HEAVNZ526_01861_SEQ_02","獲得了<Sheet(EventItem,2001652,0)/>。將<Sheet(EventItem,2001652,0)/>交給飛龍港悶悶不樂的莫古力。"
+3,"TEXT_HEAVNZ526_01861_SEQ_03","將<Sheet(EventItem,2001652,0)/>交給了悶悶不樂的莫古力。<Sheet(BNpcName,3624,0)/>憎恨著人類，甚至不想讓莫古力族使用人類的工具。"
 4,"TEXT_HEAVNZ526_01861_SEQ_04",""
 5,"TEXT_HEAVNZ526_01861_SEQ_05",""
 6,"TEXT_HEAVNZ526_01861_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNZ526_01861_SEQ_21",""
 22,"TEXT_HEAVNZ526_01861_SEQ_22",""
 23,"TEXT_HEAVNZ526_01861_SEQ_23",""
-24,"TEXT_HEAVNZ526_01861_TODO_00","討伐<Sheet(BNpcName,3624,0)/> 獲得其身上可能會掉落的<Sheet(EventItem,2001652,0)/>"
-25,"TEXT_HEAVNZ526_01861_TODO_01","將<Sheet(EventItem,2001652,0)/>交給悶悶不樂的莫古利"
+24,"TEXT_HEAVNZ526_01861_TODO_00","討伐<Sheet(BNpcName,3624,0)/> 獲取其身上可能會掉落的<Sheet(EventItem,2001652,0)/>"
+25,"TEXT_HEAVNZ526_01861_TODO_01","將<Sheet(EventItem,2001652,0)/>交給悶悶不樂的莫古力"
 26,"TEXT_HEAVNZ526_01861_TODO_02",""
 27,"TEXT_HEAVNZ526_01861_TODO_03",""
 28,"TEXT_HEAVNZ526_01861_TODO_04",""

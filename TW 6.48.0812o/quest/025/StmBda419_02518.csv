@@ -52,10 +52,10 @@ int32,str,str
 48,"TEXT_STMBDA419_02518_LYSE_000_000","讓我們帶著其日娜的心意、
 還有在這片草原上感受到的所有事情……
 回到延夏吧！"
-49,"TEXT_STMBDA419_02518_GOSETSU_000_005","夕霧應該都已經等急了。
+49,"TEXT_STMBDA419_02518_GOSETSU_000_005","夕霧估計都已經等急了。
 讓我們邁開步子快點回去、把好消息帶給他們吧。"
 50,"TEXT_STMBDA419_02518_HIEN_000_010","那麼，我們就離開太陽神草原，回到延夏吧。
-……我們走了，豪雪、莉瑟、 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+……我們走了，豪雪、莉瑟、<Highlight>ObjectParameter(1)</Highlight>！"
 51,"TEXT_STMBDA419_02518_LYSE_000_015","這裡是……延夏的什麼地方啊？"
 52,"TEXT_STMBDA419_02518_HIEN_000_020","啊，這令人懷念的空氣……
 終於再次回到了我的故鄉——延夏。"
@@ -78,7 +78,7 @@ int32,str,str
 64,"TEXT_STMBDA419_02518_HANAME_000_086","我是第一次見到飛燕大人本人。
 真是威風凜凜啊！"
 65,"TEXT_STMBDA419_02518_ALPHINAUD_000_090","再次祝賀你們能夠平安回來。
-……歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+……歡迎回來，<Highlight>ObjectParameter(1)</Highlight>。"
 66,"TEXT_STMBDA419_02518_ALPHINAUD_000_091","現狀剛剛報告過了，
 不過其實還有另外一個好消息。"
 67,"TEXT_STMBDA419_02518_ALPHINAUD_000_092","我和阿莉塞……

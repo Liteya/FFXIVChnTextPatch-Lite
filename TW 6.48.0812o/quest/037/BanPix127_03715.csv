@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANPIX127_03715_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-群花館的烏因．尼伊想要著手製作鞦韆。"
+群花館的烏因·尼伊想要著手製作鞦韆。"
 1,"TEXT_BANPIX127_03715_SEQ_01",""
 2,"TEXT_BANPIX127_03715_SEQ_02",""
 3,"TEXT_BANPIX127_03715_SEQ_03",""
@@ -29,8 +29,8 @@ int32,str,str
 22,"TEXT_BANPIX127_03715_SEQ_22",""
 23,"TEXT_BANPIX127_03715_SEQ_23",""
 24,"TEXT_BANPIX127_03715_TODO_00","在群花館西南方的<Sheet(EObj,2010788,0)/>張望
-從出現的<Sheet(BNpcName,9172,0)/>身上獲得<Sheet(EventItem,2002948,0)/>"
-25,"TEXT_BANPIX127_03715_TODO_01","將<Sheet(EventItem,2002948,0)/>交給烏因．尼伊"
+從出現的<Sheet(BNpcName,9172,0)/>身上獲取<Sheet(EventItem,2002948,0)/>"
+25,"TEXT_BANPIX127_03715_TODO_01","將<Sheet(EventItem,2002948,0)/>交給烏因·尼伊"
 26,"TEXT_BANPIX127_03715_TODO_02",""
 27,"TEXT_BANPIX127_03715_TODO_03",""
 28,"TEXT_BANPIX127_03715_TODO_04",""
@@ -53,8 +53,8 @@ int32,str,str
 45,"TEXT_BANPIX127_03715_TODO_21",""
 46,"TEXT_BANPIX127_03715_TODO_22",""
 47,"TEXT_BANPIX127_03715_TODO_23",""
-48,"TEXT_BANPIX127_03715_UINNEE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你知道鞦韆嗎？
-聽說是一種將木板用結實的繩子水準吊起之後，
+48,"TEXT_BANPIX127_03715_UINNEE_000_000","<Highlight>ObjectParameter(1)</Highlight>，你知道鞦韆嗎？
+聽說是一種將木板用結實的繩子水平吊起之後，
 坐在上面來回擺動的遊戲呢。"
 49,"TEXT_BANPIX127_03715_UINNEE_000_001","玩的時候，可以體驗飛行的感覺，
 不過我們本來就會飛，所以並不需要這種體驗。

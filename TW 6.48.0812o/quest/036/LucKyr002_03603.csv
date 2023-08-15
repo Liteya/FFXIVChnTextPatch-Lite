@@ -49,10 +49,10 @@ int32,str,str
 45,"TEXT_LUCKYR002_03603_TODO_21",""
 46,"TEXT_LUCKYR002_03603_TODO_22",""
 47,"TEXT_LUCKYR002_03603_TODO_23",""
-48,"TEXT_LUCKYR002_03603_MOWEN_000_001","你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 對吧？
+48,"TEXT_LUCKYR002_03603_MOWEN_000_001","你是<Highlight>ObjectParameter(1)</Highlight>對吧？
 我是莫雯卓越商會的會長莫雯。"
 49,"TEXT_LUCKYR002_03603_MOWEN_000_002","我從阿爾菲諾那裡聽說
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是一位手藝精湛的工匠。"
+<Highlight>ObjectParameter(1)</Highlight>是一位手藝精湛的工匠。"
 50,"TEXT_LUCKYR002_03603_MOWEN_000_003","如果可以的話，能不能和我們莫雯卓越商會締結交易的合約，
 成為我們商會的工匠？
 當然，我們也會為你準備出令你滿意的報酬。"

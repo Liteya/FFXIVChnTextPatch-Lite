@@ -63,14 +63,14 @@ int32,str,str
 那就拜託你了！"
 50,"TEXT_FESPDY502_03209_BUTLER_000_002","請冒險者在地圖上指定的地點等待，
 將<Sheet(EventItem,2002506,0)/>交給過往的行人！"
-51,"TEXT_FESPDY502_03209_WEDGE_000_010","哎呀？ <Highlight>ObjectParameter(1)</Highlight> ？！
+51,"TEXT_FESPDY502_03209_WEDGE_000_010","哎呀？<Highlight>ObjectParameter(1)</Highlight>？！
 真巧啊！"
 52,"TEXT_FESPDY502_03209_BIGGS_000_011","我們正在去採礦工公會的路上……
 你在這幹什麼呢？"
 53,"TEXT_FESPDY502_03209_WEDGE_000_012","嗯嗯……在幫忙為女兒節的活動發放花冠啊？"
-54,"TEXT_FESPDY502_03209_BIGGS_000_013","這活動蠻不錯的嘛。
+54,"TEXT_FESPDY502_03209_BIGGS_000_013","這活動挺不錯的嘛。
 也給我們一個吧。"
-55,"TEXT_FESPDY502_03209_WEDGE_000_014","……畢格斯你要戴啊？
+55,"TEXT_FESPDY502_03209_WEDGE_000_014","……比格斯你要戴啊？
 戴在那個護目鏡上？"
 56,"TEXT_FESPDY502_03209_BIGGS_100_014","怎麼可能！
 我是想裝飾在神拳痕的分公司那裡。"
@@ -82,12 +82,12 @@ int32,str,str
 60,"TEXT_FESPDY502_03209_BIGGS_000_017","謝謝啊。
 ……我想阿爾法也肯定在某個城市
 像咱們一樣在享受著女兒節吧。"
-61,"TEXT_FESPDY502_03209_WEDGE_000_018","它一定是在享受著！
+61,"TEXT_FESPDY502_03209_WEDGE_000_018","它肯定是在享受著！
 阿爾法才剛剛來到這個世界，
 而這個世界還有很多……很多……有趣的事……"
 62,"TEXT_FESPDY502_03209_WEDGE_000_019","嗚嗚嗚……我想見阿爾法了……
 你現在在哪裡啊！"
-63,"TEXT_FESPDY502_03209_NANAMOULNAMO_000_020","哎呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎！
+63,"TEXT_FESPDY502_03209_NANAMOULNAMO_000_020","哎呀，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 看來你在主持女兒節的活動啊。
 今天朕……我只是普通商人的女兒莉莉菈哦。"
 64,"TEXT_FESPDY502_03209_NANAMOULNAMO_000_021","哎呀，你是冒險者啊。
@@ -107,14 +107,14 @@ int32,str,str
 我好回去跟大家炫耀炫耀！"
 71,"TEXT_FESPDY502_03209_NANAMOULNAMO_000_028","嗯，好久沒當「公主」了，戴上這個還真是不錯！
 不過說起來，最近我總是當「王」的角色……
-對了，我當一回「管家之王」也蠻好的吧！"
+對了，我當一回「管家之王」也挺好的吧！"
 72,"TEXT_FESPDY502_03209_PAPASHAN_000_029","這會令大家困擾的，
 請您適可而止……"
 73,"TEXT_FESPDY502_03209_YELLOWMOON_000_030","你拿著的那個莫非是！
 懷春少女的必備道具——花、冠？！"
 74,"TEXT_FESPDY502_03209_YELLOWMOON_000_031","真是的！太好了！我真想要！
 這樣一來，我家親愛的要對我更加迷戀了，
-耶蘿．姆恩、好幸福嘸～嗯！"
+耶蘿·姆恩、好幸福嘸～嗯！"
 75,"TEXT_FESPDY502_03209_ADALBERTA_000_032","哎呀，這裡也在發放花冠啊。
 我們剛從別的工作人員那裡拿到了。
 你看怎麼樣？適合我嗎？"
@@ -124,12 +124,12 @@ int32,str,str
 變得很有女人味了呢！"
 78,"TEXT_FESPDY502_03209_MYLLA_000_035","……別、別盯著看……
 我都說過不用了，阿達爾博塔非要……"
-79,"TEXT_FESPDY502_03209_ADALBERTA_000_036","這不是蠻好的嗎，有點女人味的話那個人也……"
+79,"TEXT_FESPDY502_03209_ADALBERTA_000_036","這不是挺好的嗎，有點女人味的話那個人也……"
 80,"TEXT_FESPDY502_03209_MYLLA_000_037","閉、閉嘴！
 再說可饒不了你！"
 81,"TEXT_FESPDY502_03209_YELLOWMOON_000_038","好了好了，停一下！吵架可不行哦！
 朋友之間要友好相處，
-要不然耶蘿．姆恩好煩惱嘸～嗯！"
+要不然耶蘿·姆恩好煩惱嘸～嗯！"
 82,"TEXT_FESPDY502_03209_MYLLA_000_039","哼，這不算吵架。
 我和阿達爾博塔都認識很多年了。
 ……算了，偶爾這種打扮也不錯。"
@@ -138,38 +138,38 @@ int32,str,str
 這不是我的助手嗎？
 你在這裡幹什麼呢？"
 85,"TEXT_FESPDY502_03209_SEVERIAN_000_051","……嗯？
-懇求捐款的話，到我的鍊金術士公會找接待處談談吧。
+懇求捐款的話，到我的煉金術士公會找接待處談談吧。
 我因為研究要想很多事，忙得要命……什麼？不是來懇求捐款的？"
 86,"TEXT_FESPDY502_03209_SEVERIAN_000_052","哦？
 這樣的花朵飾品就能博得女性的歡心嗎？
-花朵遲早會枯萎凋零，我真是沒辦法理解女人為什麼會喜歡這個。"
+花朵遲早會枯萎凋零，我真是沒法理解女人為什麼會喜歡這個。"
 87,"TEXT_FESPDY502_03209_SEVERIAN_000_053","不對，等一下……
-如果將特殊的鍊金藥塗抹在上面，將美麗永久定格在那一瞬間……
+如果將特殊的煉金藥塗抹在上面，將美麗永久定格在那一瞬間……
 好吧，為了進行研究，就給我一個吧。"
 88,"TEXT_FESPDY502_03209_COCOBUKI_000_054","嘿嘿嘿……真是巧了，沒想到能在這裡見到你，
-裁衣匠公會的雷多倫特．羅斯先生。"
+裁衣匠公會的雷多倫特·羅斯先生。"
 89,"TEXT_FESPDY502_03209_REDOLENTROSE_000_055","哎呀，你是咒術師公會的會長！
 好像是6個兄弟中年齡最大的哥哥，
 嗯……叫可可布……"
 90,"TEXT_FESPDY502_03209_COCOBUKI_000_056","是可可布奇……
 你也來參加女兒節的活動？"
-91,"TEXT_FESPDY502_03209_REDOLENTROSE_000_057","嗯，我是來品鑑廣大市民的時……
+91,"TEXT_FESPDY502_03209_REDOLENTROSE_000_057","嗯，我是來品鑒廣大市民的時……
 是來研究花冠時裝的！
 你是為何而來啊？"
 92,"TEXT_FESPDY502_03209_COCOBUKI_000_058","花冠啊……我還是算了。
-不過這倒是蠻適合我最小的弟弟。
+不過這倒是挺適合我最小的弟弟。
 啊……這樣一來，我豈不是可以成為弟弟的一日管家？！"
 93,"TEXT_FESPDY502_03209_COCOBUKI_100_058","把那個花冠也給我一個！！"
 94,"TEXT_FESPDY502_03209_COCOBUKI_000_059","可可布希啊！！
 哥哥這就去找你！你想做什麼哥哥都聽你的！"
 95,"TEXT_FESPDY502_03209_REDOLENTROSE_000_060","哎呀哎呀，他還是那麼溺愛最小的弟弟啊。"
-96,"TEXT_FESPDY502_03209_SERENDIPITY_000_070","你好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！你在幫忙舉辦女兒節的活動嗎？
+96,"TEXT_FESPDY502_03209_SERENDIPITY_000_070","你好，<Highlight>ObjectParameter(1)</Highlight>！你在幫忙舉辦女兒節的活動嗎？
 你居然還能兼顧舉辦這樣的活動，真不愧是你！"
 97,"TEXT_FESPDY502_03209_SERENDIPITY_000_071","你好！
 這是女兒節的活動吧！
 我每次都很期待這個節日的到來！"
 98,"TEXT_FESPDY502_03209_HAMON_000_072","呼呼呼！
-站在那裡的是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和……
+站在那裡的是<Highlight>ObjectParameter(1)</Highlight>和……
 水靈靈的小賽倫嗎！"
 99,"TEXT_FESPDY502_03209_HAMON_000_073","呼呼呼！
 站在那裡的是沒見過的冒險者和……
@@ -190,7 +190,7 @@ int32,str,str
 106,"TEXT_FESPDY502_03209_HAMON_000_080","……你說得對。
 偶爾給愛徒一個驚喜也不錯！"
 107,"TEXT_FESPDY502_03209_POPOKKULI_000_090","哎呀？
-你是冒險者 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+你是冒險者<Highlight>ObjectParameter(1)</Highlight>！
 你在這裡幹什麼呢？"
 108,"TEXT_FESPDY502_03209_POPOKKULI_000_091","你看起來像是冒險者……
 你在這裡幹什麼呢？"
@@ -207,56 +207,56 @@ int32,str,str
 114,"TEXT_FESPDY502_03209_GREINFARR_000_097","說什麼呢……
 我每天都在忙著鍛鍊啊！"
 115,"TEXT_FESPDY502_03209_GREINFARR_000_098","鍛鍊、鍛鍊、鍛鍊！
-布隆茲．布爾不論何時都會回應別人的期待！"
+布隆茲·布爾不論何時都會回應別人的期待！"
 116,"TEXT_FESPDY502_03209_ULALA_000_100","哎呀？
-這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？！
+這不是<Highlight>ObjectParameter(1)</Highlight>嗎？！
 正想著沒準找一找就能見到你，沒想到這麼快就見面了！"
-117,"TEXT_FESPDY502_03209_NARUMI_000_101"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，好久不見了！
+117,"TEXT_FESPDY502_03209_NARUMI_000_101","<Highlight>ObjectParameter(1)</Highlight>，好久不見了！
 很高興能和你再次見面！
 見不到你的時候，我心裡總惦記著下次什麼時候才能再見到你……"
 118,"TEXT_FESPDY502_03209_MASHAMHAKARACCA_000_102","咱們又見面了呢。
-託你的福，我們作為明星的工作非常順利。
+托你的福，我們作為明星的工作非常順利。
 多虧了你一直以來聲援我們，我們才能努力到現在。"
 119,"TEXT_FESPDY502_03209_ULALA_000_103","初次見面！
-烏拉拉是艾奧傑亞未來最耀眼的明星！
+烏拉拉是艾歐澤亞未來最耀眼的明星！
 拜倒在烏拉拉的石榴裙下吧！"
 120,"TEXT_FESPDY502_03209_NARUMI_000_104","初次見面，我叫鳴海。
 雖然還什麼都做不好，不過我會在歌舞方面努力的！
 作為一個明星，要必須拿出自信站在觀眾面前……"
-121,"TEXT_FESPDY502_03209_MASHAMHAKARACCA_000_105","你好，我叫馬夏．瑪卡拉卡……大家都叫我馬夏。
+121,"TEXT_FESPDY502_03209_MASHAMHAKARACCA_000_105","你好，我叫馬夏·瑪卡拉卡……大家都叫我馬夏。
 我會全力舞蹈帶給人們朝氣，現在正作為明星活動中。"
 122,"TEXT_FESPDY502_03209_ULALA_000_106","話說回來，你在這裡幹什麼呢？"
 123,"TEXT_FESPDY502_03209_NARUMI_000_107","你說正在發放大丁草的花冠……太好了！
 能不能給我們一些呀？"
 124,"TEXT_FESPDY502_03209_MASHAMHAKARACCA_000_108","對了，難得今天是女兒節，
-讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 選一下看咱們3人之中誰與花冠最般配吧？"
+讓<Highlight>ObjectParameter(1)</Highlight>選一下看咱們3人之中誰與花冠最般配吧？"
 125,"TEXT_FESPDY502_03209_ULALA_000_109","你想來場比試啊，那就放馬過來吧！
- <Highlight>ObjectParameter(1)</Highlight> 肯定會選我做第一的！"
+<Highlight>ObjectParameter(1)</Highlight>肯定會選我做第一的！"
 126,"TEXT_FESPDY502_03209_NARUMI_000_110","我、我感覺開始有些緊張了……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們之中誰與花冠最般配？"
+<Highlight>ObjectParameter(1)</Highlight>，我們之中誰與花冠最般配？"
 127,"TEXT_FESPDY502_03209_Q1_000_000","要選擇誰？"
 128,"TEXT_FESPDY502_03209_A1_000_001","烏拉拉"
 129,"TEXT_FESPDY502_03209_A1_000_002","鳴海"
-130,"TEXT_FESPDY502_03209_A1_000_003","馬夏．瑪卡拉卡"
+130,"TEXT_FESPDY502_03209_A1_000_003","馬夏·瑪卡拉卡"
 131,"TEXT_FESPDY502_03209_ULALA_000_111","果然，烏拉拉就知道你肯定會選烏拉拉的！
 嘿嘿……烏拉拉好高興！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你啦！"
-132,"TEXT_FESPDY502_03209_ULALA_000_112","我們小黃鶯今後也會努力帶給艾奧傑亞歡樂，
+<Highlight>ObjectParameter(1)</Highlight>，謝謝你啦！"
+132,"TEXT_FESPDY502_03209_ULALA_000_112","我們小黃鶯今後也會努力帶給艾歐澤亞歡樂，
 請你也繼續努力進行冒險吧！
 還有也別忘了有時間就想起我們哦！"
-133,"TEXT_FESPDY502_03209_NARUMI_000_113","我、我嗎？沒想到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 居然會選我！
+133,"TEXT_FESPDY502_03209_NARUMI_000_113","我、我嗎？沒想到<Highlight>ObjectParameter(1)</Highlight>居然會選我！
 可能對你來說這只是一件微不足道的小事，
 但對我來說卻是增添了很多的信心！"
 134,"TEXT_FESPDY502_03209_NARUMI_000_114","今天能遇到你，真讓我感到非常高興……
 我期待在某個地方能再次與你相遇。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請保重吧！"
+<Highlight>ObjectParameter(1)</Highlight>，請保重吧！"
 135,"TEXT_FESPDY502_03209_MASHAMHAKARACCA_000_115","你、你選我嗎？
-好高興……謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+好高興……謝謝你<Highlight>ObjectParameter(1)</Highlight>！
 雖然是我提出的比試，但果然還是感到有點害羞呢。"
 136,"TEXT_FESPDY502_03209_MASHAMHAKARACCA_000_116","今天過得非常開心！
 小黃鶯今後也會努力活動的。
 我們的歌聲永遠為你加油！"
-137,"TEXT_FESPDY502_03209_BUTLER_000_120","冒險者，領到花冠的人們迴響怎麼樣啊？"
+137,"TEXT_FESPDY502_03209_BUTLER_000_120","冒險者，領到花冠的人們反響怎麼樣啊？"
 138,"TEXT_FESPDY502_03209_BUTLER_000_121","哦，居然有了這麼美好的相遇！
 得趕緊去向阿爾蒂希雅小姐彙報一聲才行。"
 139,"TEXT_FESPDY502_03209_BUTLER_000_122","哎呀，冒險者你能來幫忙實在是太好了。

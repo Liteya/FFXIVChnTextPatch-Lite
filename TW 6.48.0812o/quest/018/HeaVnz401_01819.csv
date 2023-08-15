@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ401_01819_SEQ_00","莫古利之家的莫古噗有些在意水源附近的情況。"
+0,"TEXT_HEAVNZ401_01819_SEQ_00","莫古力之家的莫古噗有些在意水源附近的情況。"
 1,"TEXT_HEAVNZ401_01819_SEQ_01","莫古噗正因為無法靠近水源而困擾著。前往翻雲霧海，在招惡荒島的水源討伐3隻<Sheet(BNpcName,3614,0)/>。"
-2,"TEXT_HEAVNZ401_01819_SEQ_02","討伐了<Sheet(BNpcName,3614,0)/>。向莫古利之家的莫古噗報告。"
+2,"TEXT_HEAVNZ401_01819_SEQ_02","討伐了<Sheet(BNpcName,3614,0)/>。向莫古力之家的莫古噗報告。"
 3,"TEXT_HEAVNZ401_01819_SEQ_03","向莫古噗報告完畢。原來莫古噗是受不了<Sheet(BNpcName,3614,0)/>的魚腥味。"
 4,"TEXT_HEAVNZ401_01819_SEQ_04",""
 5,"TEXT_HEAVNZ401_01819_SEQ_05",""

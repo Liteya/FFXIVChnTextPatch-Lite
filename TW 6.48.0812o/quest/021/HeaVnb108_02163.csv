@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNB108_02163_SEQ_00","神殿騎士團總部的露琪亞想要查出縱火事件的幕後黑手。"
-1,"TEXT_HEAVNB108_02163_SEQ_01","在和露琪亞、艾默里克商議有關幕後黑手事宜時，傳令員突然來報，稱教皇廳被名為「豪膽將軍的精兵」的武裝集團佔領了。縱火犯被逮捕後，亂了陣腳的守舊派幕後黑手將貧民作為人質關起來了。為了解救人質，前往伊修加爾德砥柱層，和艾默里克談談。"
-2,"TEXT_HEAVNB108_02163_SEQ_02","從正教守舊派「豪膽將軍的精兵」手上解救了人質。回到伊修加爾德砥柱層。"
-3,"TEXT_HEAVNB108_02163_SEQ_03","被冒險者等人逼到絕境的強硬派祭司，將瑪埃莉從高空中推下。不過正在這時，維德弗尼爾飛來，用背接住了瑪埃莉，將她救了下來。維德弗尼爾向冒險者傳達了邪龍尼德霍格的動向後離開了。龍族降落到了皇都，想必這會對今後人與龍的關係產生巨大的影響。和伊修加爾德砥柱層巨盾臺的阿爾菲諾談談。"
-4,"TEXT_HEAVNB108_02163_SEQ_04","為了向塔塔露報告事情的經過，阿爾菲諾和桑克瑞德前往了福爾唐伯爵府。雅．修特拉有些擔心桑克瑞德的變化。他好像因為受到古代傳送魔法的影響，無法使用魔法了。雅．修特拉拜託冒險者多關心桑克瑞德，之後便離開了。前往伊修加爾德的福爾唐伯爵府，和阿爾菲諾談談。"
-5,"TEXT_HEAVNB108_02163_SEQ_05","阿圖瓦雷爾將繪有福爾唐家家徽的騎士盾交給了冒險者。福爾唐伯爵打算近期隱退。阿圖瓦雷爾下定決心，會和弟弟埃馬內蘭一起，繼承父親的意志守護皇都伊修加爾德。埃馬內蘭對於兄長的決心一言不發，轉身離去了。失去了教皇這根支柱，如今的伊修加爾德面臨著巨大的混亂。不過，也有為了實現和平，重新站起來的人在……"
+1,"TEXT_HEAVNB108_02163_SEQ_01","在和露琪亞、艾默里克商議有關幕後黑手事宜時，傳令員突然來報，稱教皇廳被名為「豪膽將軍的精兵」的武裝集團佔領了。縱火犯被逮捕後，亂了陣腳的守舊派幕後黑手將貧民作為人質關起來了。為了解救人質，前往伊修加德砥柱層，和艾默里克談談。"
+2,"TEXT_HEAVNB108_02163_SEQ_02","從正教守舊派「豪膽將軍的精兵」手上解救了人質。回到伊修加德砥柱層。"
+3,"TEXT_HEAVNB108_02163_SEQ_03","被冒險者等人逼到絕境的強硬派祭司，將瑪埃莉從高空中推下。不過正在這時，維德弗尼爾飛來，用背接住了瑪埃莉，將她救了下來。維德弗尼爾向冒險者傳達了邪龍尼德霍格的動向後離開了。龍族降落到了皇都，想必這會對今後人與龍的關係產生巨大的影響。和伊修加德砥柱層巨盾台的阿爾菲諾談談。"
+4,"TEXT_HEAVNB108_02163_SEQ_04","為了向塔塔露報告事情的經過，阿爾菲諾和桑克瑞德前往了福爾唐伯爵府。雅·修特拉有些擔心桑克瑞德的變化。他好像因為受到古代傳送魔法的影響，無法使用魔法了。雅·修特拉拜託冒險者多關心桑克瑞德，之後便離開了。前往伊修加德的福爾唐伯爵府，和阿爾菲諾談談。"
+5,"TEXT_HEAVNB108_02163_SEQ_05","阿圖瓦雷爾將繪有福爾唐家家徽的騎士盾交給了冒險者。福爾唐伯爵打算近期隱退。阿圖瓦雷爾下定決心，會和弟弟埃馬內蘭一起，繼承父親的意志守護皇都伊修加德。埃馬內蘭對於兄長的決心一言不發，轉身離去了。失去了教皇這根支柱，如今的伊修加德面臨著巨大的混亂。不過，也有為了實現和平，重新站起來的人在……"
 6,"TEXT_HEAVNB108_02163_SEQ_06",""
 7,"TEXT_HEAVNB108_02163_SEQ_07",""
 8,"TEXT_HEAVNB108_02163_SEQ_08",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_HEAVNB108_02163_SEQ_23",""
 24,"TEXT_HEAVNB108_02163_TODO_00","和砥柱層的艾默里克對話"
 25,"TEXT_HEAVNB108_02163_TODO_01","和砥柱層的艾默里克對話"
-26,"TEXT_HEAVNB108_02163_TODO_02","和巨盾臺的阿爾菲諾對話"
+26,"TEXT_HEAVNB108_02163_TODO_02","和巨盾台的阿爾菲諾對話"
 27,"TEXT_HEAVNB108_02163_TODO_03","和福爾唐伯爵府的阿爾菲諾對話"
 28,"TEXT_HEAVNB108_02163_TODO_04",""
 29,"TEXT_HEAVNB108_02163_TODO_05",""
@@ -62,7 +62,7 @@ int32,str,str
 56,"TEXT_HEAVNB108_02163_EUDESTAND_000_040","就拜託你們解救人質了！"
 57,"TEXT_HEAVNB108_02163_LUCIA_000_045","教皇廳已經封鎖了。
 我們會從正面吸引他們的注意力，拜託你們了！"
-58,"TEXT_HEAVNB108_02163_THANCRED_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，讓我們一起救出人質吧！"
+58,"TEXT_HEAVNB108_02163_THANCRED_000_050","<Highlight>ObjectParameter(1)</Highlight>，讓我們一起救出人質吧！"
 59,"TEXT_HEAVNB108_02163_ARTOIREL_000_055","……不必擔心。
 我對自己的劍術還是很有自信的。"
 60,"TEXT_HEAVNB108_02163_HANDELOUP_000_057","突擊部隊、封鎖部隊、警備團，
@@ -92,7 +92,7 @@ int32,str,str
 你身為神殿騎士團總騎士長竟敢謀反，
 我要和你一對一對決，對你進行制裁！"
 70,"TEXT_HEAVNB108_02163_AYMERIC_000_069","他已經瘋了嗎！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，阿圖瓦雷爾閣下，
+<Highlight>ObjectParameter(1)</Highlight>閣下，阿圖瓦雷爾閣下，
 拜託你們救出人質，我來當那傢伙的對手！"
 71,"TEXT_HEAVNB108_02163_THANCRED_000_070","那條白龍來得真是時候啊。"
 72,"TEXT_HEAVNB108_02163_YSHTOLA_000_075","看到那女孩墜落的時候我心臟都要停止了。
@@ -110,7 +110,7 @@ int32,str,str
 77,"TEXT_HEAVNB108_02163_HANDELOUP_100_079","我們絕對不會忘記你和拂曉的人為救出人質而做出的一切。"
 78,"TEXT_HEAVNB108_02163_ALPHINAUD_000_080","哎呀，雖然險情不斷，不過人質們都被安全解救了。
 這也必須得感謝維德弗尼爾。"
-79,"TEXT_HEAVNB108_02163_THANCRED_000_081","那條白龍還蠻厲害的。"
+79,"TEXT_HEAVNB108_02163_THANCRED_000_081","那條白龍還挺厲害的。"
 80,"TEXT_HEAVNB108_02163_YSHTOLA_000_082","是啊，真是如同戲劇一般精彩。
 而且，正如艾默里克閣下所說的那樣，
 這也會影響市民對於龍的看法吧。"
@@ -120,12 +120,12 @@ int32,str,str
 也得把事情的經過告訴塔塔露一聲。"
 83,"TEXT_HEAVNB108_02163_THANCRED_000_085","好的，那我跟塔塔露打聲招呼之後，
 就回石之家去了。"
-84,"TEXT_HEAVNB108_02163_YSHTOLA_000_086","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+84,"TEXT_HEAVNB108_02163_YSHTOLA_000_086","……<Highlight>ObjectParameter(1)</Highlight>。"
 85,"TEXT_HEAVNB108_02163_YSHTOLA_100_086","你見到桑克瑞德後感覺怎麼樣？"
 86,"TEXT_HEAVNB108_02163_Q1_000_000","見到桑克瑞德後感覺怎麼樣？"
 87,"TEXT_HEAVNB108_02163_A1_000_000","身手很靈活"
 88,"TEXT_HEAVNB108_02163_A1_000_001","對美女的反應太平淡了"
-89,"TEXT_HEAVNB108_02163_A1_000_002","…………。"
+89,"TEXT_HEAVNB108_02163_A1_000_002","……"
 90,"TEXT_HEAVNB108_02163_YSHTOLA_000_087","是啊，在擊退暗之戰士的時候也是，那身手很不一般。
 是因為經歷了那種野外求生的生活，身體鍛鍊得更強壯了麼，
 還是說因為一隻眼睛受了傷，反而讓感官更加敏銳了呢……"
@@ -138,7 +138,7 @@ int32,str,str
 不過，我想要說的不是這些。
 他體內的乙太，發生了一些變化。"
 94,"TEXT_HEAVNB108_02163_YSHTOLA_000_091","是覺得有種說不好的微妙變化嗎？"
-95,"TEXT_HEAVNB108_02163_YSHTOLA_000_092","不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+95,"TEXT_HEAVNB108_02163_YSHTOLA_000_092","不愧是<Highlight>ObjectParameter(1)</Highlight>。
 沒錯，他體內的乙太，發生了一些變化。"
 96,"TEXT_HEAVNB108_02163_YSHTOLA_000_093","恐怕他無法隨意地釋放乙太了……
 簡單來說，就是無法再使用魔法了。"
@@ -147,61 +147,61 @@ int32,str,str
 98,"TEXT_HEAVNB108_02163_YSHTOLA_000_095","……希望你能稍微關心他一下。"
 99,"TEXT_HEAVNB108_02163_YSHTOLA_000_096","謝謝，那我就回田園郡了。
 我想看看瑪托雅和可露兒的情況……"
-100,"TEXT_HEAVNB108_02163_THANCRED_000_100","（★未使用／削除予定★）"
+100,"TEXT_HEAVNB108_02163_THANCRED_000_100","（未使用/預計刪除）"
 101,"TEXT_HEAVNB108_02163_TATARU_000_105","我已經從福爾唐伯爵那裡聽說了！
 降臨到皇都的白龍……
 我也好想看一眼啊！"
 102,"TEXT_HEAVNB108_02163_BUTLER01580_000_106","我聽說有龍族降落到了皇都，
 就慌忙跑出去看！
 不過只看到了飛走時的樣子……"
-103,"TEXT_HEAVNB108_02163_STEWARD_000_107","哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人。
+103,"TEXT_HEAVNB108_02163_STEWARD_000_107","哦，<Highlight>ObjectParameter(1)</Highlight>大人。
 聽說您在拯救人質的作戰中大展身手啊。
 阿圖瓦雷爾少爺也平安回來了，我這懸著的心終於放下了。"
 104,"TEXT_HEAVNB108_02163_QIB_TODO_001","救出人質"
 105,"TEXT_HEAVNB108_02163_QIB_TODO_AYMERIC_HP_GAUGE_NAME","艾默里克的體力"
 106,"TEXT_HEAVNB108_02163_QIB_TODO_HOSTILE_NUMBER","解救人質"
 107,"TEXT_HEAVNB108_02163_QIB_TODO_ATTACKED_HOSTILE_NUMBER","解救被襲擊的人質"
-108,"TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_001_001","（★未使用／削除予定★）"
+108,"TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_001_001","（未使用/預計刪除）"
 109,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_002","先確保正面入口的安全！
 他們也有可能會把人質當擋箭牌安排在這裡！"
 110,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_003","注意敵人的行動，優先消滅想要殺掉人質的人！
 好，開始行動！"
-111,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_001_004","（★未使用／削除予定★）"
-112,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_001_005","（★未使用／削除予定★）"
-113,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_006","（★未使用／削除予定★）"
-114,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_002_001","（★未使用／削除予定★）"
-115,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_002","（★未使用／削除予定★）"
+111,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_001_004","（未使用/預計刪除）"
+112,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_001_005","（未使用/預計刪除）"
+113,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_006","（未使用/預計刪除）"
+114,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_002_001","（未使用/預計刪除）"
+115,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_002","（未使用/預計刪除）"
 116,"TEXT_HEAVNB108_02163_HOSTAGE01_BATTLETALK_002_003","有幾名難民被那個叫西梅奧納爾的修道劍士帶到裡面了……
 請救救他們！"
-117,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_004","（★未使用／削除予定★）"
-118,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_002_005","（★未使用／削除予定★）"
-119,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_006","（★未使用／削除予定★）"
+117,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_004","（未使用/預計刪除）"
+118,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_002_005","（未使用/預計刪除）"
+119,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_006","（未使用/預計刪除）"
 120,"TEXT_HEAVNB108_02163_YSHTOLA_BATTLETALK_003_001","就交給我來引導解救出的人質、確保退路的安全！"
 121,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_002","聖火西梅奧納爾……
 他隸屬於狂熱的修道會，是守舊派的代表……"
 122,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_003_003","敵兵就交給我們吧！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，拜託你保護人質！"
-123,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_004","（★未使用／削除予定★）"
-124,"TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_003_005","（★未使用／削除予定★）"
-125,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_006","（★未使用／削除予定★）"
+<Highlight>ObjectParameter(1)</Highlight>閣下，拜託你保護人質！"
+123,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_004","（未使用/預計刪除）"
+124,"TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_003_005","（未使用/預計刪除）"
+125,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_006","（未使用/預計刪除）"
 126,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_007","是察覺到騷亂的生力軍嗎？那麼只有迎擊了！"
-127,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_007","（★未使用／削除予定★）"
-128,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_003_008","（★未使用／削除予定★）"
-129,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_009","（★未使用／削除予定★）"
+127,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_007","（未使用/預計刪除）"
+128,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_003_008","（未使用/預計刪除）"
+129,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_009","（未使用/預計刪除）"
 130,"TEXT_HEAVNB108_02163_HOSTAGE02_BATTLETALK_004_001","得、得救了……
 但是還有幾名同伴被帶到了裡面！"
-131,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_004_002","（★未使用／削除予定★）"
+131,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_004_002","（未使用/預計刪除）"
 132,"TEXT_HEAVNB108_02163_TERRORIST_ZAKO_ANY_BATTLETALK_005_001","他們入侵到內部了！
 包圍消滅他們！"
 133,"TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_005_002","固守外圍的敵人回來了！
 艾默里克閣下，後方就交給我吧，您先走！"
 134,"TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_005_003","我來對付他們！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，剩下的人質就交給你了！"
-135,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_005_004","非常感謝！好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下、
+<Highlight>ObjectParameter(1)</Highlight>，剩下的人質就交給你了！"
+135,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_005_004","非常感謝！好，<Highlight>ObjectParameter(1)</Highlight>閣下、
 阿圖瓦雷爾閣下，跟我來！"
-136,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_001","（★未使用／削除予定★）"
-137,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_002","（★未使用／削除予定★）"
-138,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_003","（★未使用／削除予定★）"
+136,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_001","（未使用/預計刪除）"
+137,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_002","（未使用/預計刪除）"
+138,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_003","（未使用/預計刪除）"
 139,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_006_004","我來對付西梅奧納爾！
 你們兩位快去解救人質！"
 140,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_005","這些人真是喪心病狂……
@@ -219,9 +219,9 @@ int32,str,str
 146,"TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_011","為、為什麼……戰神哈羅妮啊……
 難道說……您拋棄了我們嗎……"
 147,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_012","好，解決了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，繼續前進吧！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，繼續前進吧！"
 148,"TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_013","再耽誤下去，艾默里克閣下會……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，我們加快腳步！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，我們加快腳步！"
 149,"TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_007_001","小弟弟，不要怕。
 我們一定會救出你的朋友的！"
 150,"TEXT_HEAVNB108_02163_HOSTAGE03_BATTLETALK_007_002","嗚……瑪埃莉……我的朋友被可怕的祭司大人帶走了！"
@@ -243,7 +243,7 @@ int32,str,str
 159,"TEXT_HEAVNB108_02163_YDA_000_121","說信已經送到了。"
 160,"TEXT_HEAVNB108_02163_YDA_000_122","然後還有，「鐵面具」的部隊開始活動了。
 他們終於打算和帝國正面交鋒了。"
-161,"TEXT_HEAVNB108_02163_PAPALYMO_000_123","終於啊……看來又要動盪起來了。"
+161,"TEXT_HEAVNB108_02163_PAPALYMO_000_123","終於啊……看來又要動蕩起來了。"
 162,"TEXT_HEAVNB108_02163_YDA_000_124","求之不得呢！"
 163,"TEXT_HEAVNB108_02163_PAPALYMO_000_125","伊達，你可不要太亢奮了。
 還有人等著我們回去呢。"

@@ -1,17 +1,17 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_000","唔，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下嗎？！
+0,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_000","唔，這不是<Highlight>ObjectParameter(1)</Highlight>閣下嗎？！
 沒想到在這裡見到你！"
 1,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_010","你聽我說！
 我們終止的雲冠群島探索工作在重建工程的推動下，
 即將重新開始了！"
 2,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_020","唔，這不是救國的英雄閣下嗎？！
 沒想到在這裡見到你！"
-3,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_030","我名為奧瓦埃爾．德．艾因哈特，
+3,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_030","我名為奧瓦埃爾·德·艾因哈特，
 是聲名顯赫的艾因哈特家的次子！
 肩負雲冠群島探索工作的先驅人物！"
-4,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_000","你來得正好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> !
+4,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_000","你來得正好，<Highlight>ObjectParameter(1)</Highlight>!
 你聽說有關我們工作的事情了嗎？
 不要畏懼，雲冠群島探索工作不管多少次都會重新開放！"
 5,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_010","英雄啊，你來得正好！
@@ -32,7 +32,7 @@ int32,str,str
 12,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_080","這是掌管天鋼機工房的我大哥斯特凡尼維安
 開發的最新型機工工具！"
 13,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_090","雲冠群島不是充滿了特殊且濃密的乙太嗎？
-透過採集活動把這種乙太蓄積起來……"
+通過採集活動把這種乙太積攢起來……"
 14,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_100","再利用乙太鑽孔機一口氣釋放出去！
 這樣一來，不僅能將魔物炸得粉碎，
 還能將它們身體的一部分當作重建資材加以利用！"
@@ -55,8 +55,8 @@ int32,str,str
 22,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_020_020","詳細的情報還是看資料比較明白吧。
 我把情報記錄在你的筆記上了。
 你可以隨時確認。"
-23,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_020_030","伊修加爾德重建所需要的素材情報，
-可以從「採集筆記」的「伊修加爾德重建」項目中進行確認。"
+23,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_020_030","伊修加德重建所需要的素材情報，
+可以從「採集筆記」的「伊修加德重建」項目中進行確認。"
 24,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_030_000","嗯，你雖然是個熟練的冒險者，也是我們的大英雄……
 不過你作為採集家好像還只是初出茅廬啊？"
 25,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_030_010","就算魔物減少了，可雲冠群島還是乙太紊亂的危險地區。
@@ -67,14 +67,14 @@ int32,str,str
 你作為採集家的本事無可挑剔！
 那我就正式帶你去「天上福地雲冠群島」吧！"
 28,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_040_010","開放了「天上福地雲冠群島」！
-為了伊修加爾德重建工程，請積極參加！"
+為了伊修加德重建工程，請積極參加！"
 29,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_040_020","參加該任務時需要
 職業為10級以上的採礦工或園藝工或捕魚人。"
 30,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_040_030","此外，該任務從單人到滿編小隊（8人），
 可以以任意人數參加。
 任務中也可以自由組建小隊。"
 31,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_040_040","另外，部分釣場需要完成職業任務取得特定的「特性」。"
-32,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_050_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，要前往「天上福地雲冠群島」嗎？"
+32,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_050_000","<Highlight>ObjectParameter(1)</Highlight>，要前往「天上福地雲冠群島」嗎？"
 33,"TEXT_CTSHWDSKYISLAND_00636_MENU_TITLE","要做什麼？"
 34,"TEXT_CTSHWDSKYISLAND_00636_MENU_001","前往「天上福地雲冠群島」"
 35,"TEXT_CTSHWDSKYISLAND_00636_MENU_002","聽取「天上福地雲冠群島」的說明"
@@ -83,17 +83,17 @@ int32,str,str
 38,"TEXT_CTSHWDSKYISLAND_00636_ASK_TITLE","要出發前往「天上福地雲冠群島」嗎？"
 39,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_060_000","前往「天上福地雲冠群島」時需要
 職業為10級以上的採礦工或園藝工或捕魚人。"
-40,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_070_000","「乙太鑽孔機」是透過採集活動，
-將雲冠群島特有的乙太蓄積起來，
-最後透過壓縮一口氣釋放出來的最新型機工工具！"
-41,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_070_010","透過打倒乙太學定義上已經變異的魔物，
+40,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_070_000","「乙太鑽孔機」是通過採集活動，
+將雲冠群島特有的乙太積攢起來，
+最後通過壓縮一口氣釋放出來的最新型機工工具！"
+41,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_070_010","通過打倒乙太學定義上已經變異的魔物，
 能夠獲得大量的資材，此事已經得到了證實！
 請你到當地多多使用，拿回大量的資材吧！"
 42,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_070_020","「乙太鑽孔機」是只能在雲冠群島內使用的
 特殊任務指令。"
 43,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_070_030","使用「採礦工/園藝工」中的任意職業進行採集活動時，
 乙太鑽孔機的「高壓乙太」值都會上升。"
-44,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_070_040","可以透過使用任務指令「乙太鑽孔機」
+44,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_070_040","可以通過使用任務指令「乙太鑽孔機」
 消費積累的「高壓乙太」攻擊魔物。"
 45,"TEXT_CTSHWDSKYISLAND_00636_SYSTEM_070_050","此外使用任務指令「乙太鑽孔機」時，
 需要目前職業為「採礦工/園藝工」的其中一種。

@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_000","沒見過你啊。
 你是最近才來到雷克蘭德的吧？
 有什麼想問的，找我就對了。"
-1,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_030","遊末邦軍那幫人好像撤退了啊。
+1,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_030","游末邦軍那幫人好像撤退了啊。
 真是的……一群討厭的傢伙們。
-好了，你有什麼想要瞭解的嗎？"
+好了，你有什麼想要了解的嗎？"
 2,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_040","喂喂，現在沒有工夫閒聊吧？！
 食罪靈們可是正在襲擊雷克蘭德啊！
 你要是有事情問我，就請長話短說！"
@@ -18,7 +18,7 @@ int32,str,str
 5,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_070","哦，暗之戰士來看我了啊，真是讓人高興嘛。
 整個諾弗蘭特中的人們都在為夜晚黑暗的回歸歡喜著。
 城裡的傢伙們要是知道你來了的話，一定也會很高興的。"
-6,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_Q1_000_000","想瞭解什麼？"
+6,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_Q1_000_000","想了解什麼？"
 7,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_A1_000_001","你是做什麼的？"
 8,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_A1_000_002","這裡是什麼地方？"
 9,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_A1_000_003","取消"
@@ -32,7 +32,7 @@ int32,str,str
 我嚮往著這裡的人，所以我也志願成為了衛兵。"
 13,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_210","現在對於我來說珂露西亞島上經歷過的所有事情都是不好的回憶，
 不過那個巨大的塔羅斯……是那幫人合力啟動的？
-……遊末邦的傢伙們也有了點變化呢。"
+……游末邦的傢伙們也有了點變化呢。"
 14,"TEXT_REGNOR4OSTALLIMPERATIVE_00588_PAULARD_000_220","多虧了你，已經沒有來自食罪靈的威脅了。
 雖然造成了很多的犧牲，不過大家都能向前邁進了。
 真是不論怎麼感謝你都不夠啊……謝謝你了！"

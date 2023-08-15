@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_STMBDZ623_02801_SEQ_21",""
 22,"TEXT_STMBDZ623_02801_SEQ_22",""
 23,"TEXT_STMBDZ623_02801_SEQ_23",""
-24,"TEXT_STMBDZ623_02801_TODO_00","在指定地點獲得<Sheet(EventItem,2002119,0)/>"
-25,"TEXT_STMBDZ623_02801_TODO_01","從馬速古那裡獲得<Sheet(EventItem,2002118,0)/>"
+24,"TEXT_STMBDZ623_02801_TODO_00","在指定地點獲取<Sheet(EventItem,2002119,0)/>"
+25,"TEXT_STMBDZ623_02801_TODO_01","從馬速古那裡獲取<Sheet(EventItem,2002118,0)/>"
 26,"TEXT_STMBDZ623_02801_TODO_02","將<Sheet(EventItem,2002117,0)/>和<Sheet(EventItem,2002119,0)/>
 還有<Sheet(EventItem,2002118,0)/>交給恰佳遺骨堂的守衛"
 27,"TEXT_STMBDZ623_02801_TODO_03","向不哲格報告"
@@ -62,14 +62,14 @@ int32,str,str
 <Sheet(EventItem,2002119,0)/>可以從晨曦王座下的
 太陽湖中汲取到。"
 52,"TEXT_STMBDZ623_02801_BUJEG_000_005","<Sheet(EventItem,2002118,0)/>的話，
-我已經委託重逢市集的馬速古去準備了。
+我已經委託重逢集市的馬速古去準備了。
 英雄啊，雖然很麻煩，可還是拜託你了。"
 53,"TEXT_STMBDZ623_02801_BUJEG_000_006","（★未使用／削除予定★）"
 54,"TEXT_STMBDZ623_02801_BUJEG_000_007","需要給恰佳遺骨堂的守衛的3樣供奉物分別是
 <Sheet(EventItem,2002117,0)/>和<Sheet(EventItem,2002119,0)/>
 還有<Sheet(EventItem,2002118,0)/>。"
 55,"TEXT_STMBDZ623_02801_BUJEG_000_008","<Sheet(EventItem,2002119,0)/>可以從晨曦王座下的湖中獲得，
-<Sheet(EventItem,2002118,0)/>可以從重逢市集的馬速古那裡獲得。
+<Sheet(EventItem,2002118,0)/>可以從重逢集市的馬速古那裡獲得。
 雖然很麻煩，可還是拜託你了。"
 56,"TEXT_STMBDZ623_02801_MASGUD_000_010","不哲格叫你來的？
 <Sheet(EventItem,2002118,0)/>已經準備好了，

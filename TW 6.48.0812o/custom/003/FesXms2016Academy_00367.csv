@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_FESXMS2016ACADEMY_00367_REAUVERRE_000_000","………………。"
+0,"TEXT_FESXMS2016ACADEMY_00367_REAUVERRE_000_000","……"
 1,"TEXT_FESXMS2016ACADEMY_00367_REAUVERRE_000_010","……呼……呼……
 嗚嗚……爸……爸……
 呼……"
@@ -22,11 +22,11 @@ int32,str,str
 我還擔心他是不是永遠都不會醒了呢，這下我放心了。"
 8,"TEXT_FESXMS2016ACADEMY_00367_PATIENTBOYA00367_000_080","剛才你講的冒險故事真是太精彩了！
 啊，我也好想當冒險者啊！"
-9,"TEXT_FESXMS2016ACADEMY_00367_PATIENTBOYB00367_000_090","星芒祭啊……
+9,"TEXT_FESXMS2016ACADEMY_00367_PATIENTBOYB00367_000_090","星芒節啊……
 我知道這個想法很任性，
 但我真的好想和父親母親一起在家裡慶祝啊……"
 10,"TEXT_FESXMS2016ACADEMY_00367_PATIENTBOYB00367_000_100","……雖然從追隨者那裡收到了禮物，
-但下次的星芒祭，我還是希望能夠在家裡慶祝。
+但下次的星芒節，我還是希望能夠在家裡慶祝。
 為了這個願望，我一定要努力把病治好。"
 11,"TEXT_FESXMS2016ACADEMY_00367_PATIENTBOYB00367_000_110","羅韋爾藏在床底下的東西究竟是什麼呢？
 我的確很在意，可隨便調查別人隱私實在太沒禮貌了……"
@@ -49,7 +49,7 @@ int32,str,str
 18,"TEXT_FESXMS2016ACADEMY_00367_PATIENTGIRLA00367_000_180","冒險故事可真好聽啊……咳咳……
 我聽得非常開心……
 好想聽更多的故事啊……"
-19,"TEXT_FESXMS2016ACADEMY_00367_PATIENTGIRLB00367_000_190","星芒祭到了……
+19,"TEXT_FESXMS2016ACADEMY_00367_PATIENTGIRLB00367_000_190","星芒節到了……
 不過我已經長大了，才不稀罕過節呢。
 ……真的，我說的是真的哦？"
 20,"TEXT_FESXMS2016ACADEMY_00367_PATIENTGIRLB00367_000_200","啊，沒想到能從追隨者那裡收到禮物！
@@ -61,10 +61,10 @@ int32,str,str
 而且身體好像也沒有大礙的樣子，我總算放心了。"
 23,"TEXT_FESXMS2016ACADEMY_00367_PATIENTGIRLB00367_000_230","你講的冒險故事真精彩！
 那麼激動人心，我也好想體驗一次啊！"
-24,"TEXT_FESXMS2016ACADEMY_00367_SLYHHIA_000_240","您是來為星芒祭幫忙的嗎？
+24,"TEXT_FESXMS2016ACADEMY_00367_SLYHHIA_000_240","您是來為星芒節幫忙的嗎？
 為了那些住院的寂寞的孩子們，一切就拜託您了。"
 25,"TEXT_FESXMS2016ACADEMY_00367_SLYHHIA_000_250","羅韋爾嗎？
-他的情況就跟醫生您瞭解的一樣，病情很穩定……"
+他的情況就跟醫生您了解的一樣，病情很穩定……"
 26,"TEXT_FESXMS2016ACADEMY_00367_SLYHHIA_000_260","冒險者，麻煩您了，
 請您幫幫醫生吧。"
 27,"TEXT_FESXMS2016ACADEMY_00367_SLYHHIA_000_270","感謝您幫忙解決了羅韋爾的問題。

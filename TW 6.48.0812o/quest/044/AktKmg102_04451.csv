@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKMG102_04451_SEQ_00","露天市集的塔塔露興高采烈。"
+0,"TEXT_AKTKMG102_04451_SEQ_00","露天集市的塔塔露興高采烈。"
 1,"TEXT_AKTKMG102_04451_SEQ_01",""
 2,"TEXT_AKTKMG102_04451_SEQ_02",""
 3,"TEXT_AKTKMG102_04451_SEQ_03",""
@@ -27,10 +27,10 @@ int32,str,str
 23,"TEXT_AKTKMG102_04451_SEQ_23",""
 24,"TEXT_AKTKMG102_04451_TODO_00","和可露兒對話"
 25,"TEXT_AKTKMG102_04451_TODO_01","和桑克瑞德對話"
-26,"TEXT_AKTKMG102_04451_TODO_02","和雅．修特拉對話"
+26,"TEXT_AKTKMG102_04451_TODO_02","和雅·修特拉對話"
 27,"TEXT_AKTKMG102_04451_TODO_03","和阿莉塞對話"
 28,"TEXT_AKTKMG102_04451_TODO_04","和阿爾菲諾對話"
-29,"TEXT_AKTKMG102_04451_TODO_05","和歐吉卡．岑吉卡對話"
+29,"TEXT_AKTKMG102_04451_TODO_05","和歐吉卡·岑吉卡對話"
 30,"TEXT_AKTKMG102_04451_TODO_06",""
 31,"TEXT_AKTKMG102_04451_TODO_07",""
 32,"TEXT_AKTKMG102_04451_TODO_08",""
@@ -49,11 +49,11 @@ int32,str,str
 45,"TEXT_AKTKMG102_04451_TODO_21",""
 46,"TEXT_AKTKMG102_04451_TODO_22",""
 47,"TEXT_AKTKMG102_04451_TODO_23",""
-48,"TEXT_AKTKMG102_04451_TATARU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你騰出時間過來。"
+48,"TEXT_AKTKMG102_04451_TATARU_000_000","<Highlight>ObjectParameter(1)</Highlight>，謝謝你騰出時間過來。"
 49,"TEXT_AKTKMG102_04451_TATARU_000_001","接下來請好好休息。
 剛才回到巴爾德西昂分館的各位
 應該也會各隨己願，安享最後的自由時光。"
-50,"TEXT_AKTKMG102_04451_TATARU_000_002","可露兒應該對大家的行動瞭如指掌！
+50,"TEXT_AKTKMG102_04451_TATARU_000_002","可露兒應該對大家的行動了如指掌！
 你可以先去打聽一下。"
 51,"TEXT_AKTKMG102_04451_TATARU_000_010","我打算讓大繁榮商店一直經營下去。
 歡迎隨時過來領取裝備！"
@@ -64,12 +64,12 @@ int32,str,str
 看來終於做好了，我也替她感到高興！"
 54,"TEXT_AKTKMG102_04451_KRILE_000_022","其他人剛才都回來過，
 但又各自出去了。"
-55,"TEXT_AKTKMG102_04451_KRILE_000_023","雅．修特拉、桑克瑞德和于里昂熱
+55,"TEXT_AKTKMG102_04451_KRILE_000_023","雅·修特拉、桑克瑞德和於里昂熱
 去背水咖啡廳吃飯了。"
 56,"TEXT_AKTKMG102_04451_KRILE_000_024","阿莉塞和拉哈還是老樣子，覺得準備比休息更重要。
 於是就去所思大書院找有用的資料和魔導書了。"
 57,"TEXT_AKTKMG102_04451_KRILE_000_025","阿爾菲諾和埃斯蒂尼安嘛……呵呵。
-好像去萊維耶勒爾府辦事了。"
+好像去萊韋耶勒爾府辦事了。"
 58,"TEXT_AKTKMG102_04451_KRILE_000_026","你和他們碰個面如何？
 大家一定會很開心的！"
 59,"TEXT_AKTKMG102_04451_KRILE_000_027","首先……嗯，趁那三人吃完飯之前，
@@ -83,29 +83,29 @@ int32,str,str
 62,"TEXT_AKTKMG102_04451_URIANGER_000_040","選單上有個彩虹布丁，
 不過今天好像售罄了。"
 63,"TEXT_AKTKMG102_04451_URIANGER_000_041","要是布丁威能吃到就好了……"
-64,"TEXT_AKTKMG102_04451_THANCRED_000_050","嗬，你也來了！
+64,"TEXT_AKTKMG102_04451_THANCRED_000_050","呵，你也來了！
 既然來了，不陪我們喝一杯可說不過去！"
 65,"TEXT_AKTKMG102_04451_THANCRED_000_051","我給你加份喝的。
-你快坐那裡。"
+你快坐那兒。"
 66,"TEXT_AKTKMG102_04451_THANCRED_000_060","唉，怎麼說你們好呢……"
 67,"TEXT_AKTKMG102_04451_THANCRED_000_061","雖然我身經百戰，也曾經歷離別，
 但現在還能像這樣在酒桌閒談說笑，
 這都是你們的功勞啊。"
 68,"TEXT_AKTKMG102_04451_THANCRED_000_062","我在這裡謝謝你們了……明天也要互相關照啊。"
-69,"TEXT_AKTKMG102_04451_URIANGER_000_065"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？你怎麼了？
+69,"TEXT_AKTKMG102_04451_URIANGER_000_065","<Highlight>ObjectParameter(1)</Highlight>？你怎麼了？
 怎麼忽然一下……冒出兩個……"
 70,"TEXT_AKTKMG102_04451_URIANGER_000_066","沒有分身嗎……咦？
-但從剛才開始，桑克瑞德和雅．修特拉……
+但從剛才開始，桑克瑞德和雅·修特拉……
 就時不時分個身呢……"
 71,"TEXT_AKTKMG102_04451_URIANGER_000_067","原來如此，現在時興這個啊……呵呵……呵呵呵呵……"
 72,"TEXT_AKTKMG102_04451_YSHTOLA_000_070","咦，你這就走嗎？
 也是，光在我們這裡待著也沒意思。"
 73,"TEXT_AKTKMG102_04451_YSHTOLA_000_071","阿莉塞他們去大書院那邊了。
-阿爾菲諾他們好像去了萊維耶勒爾府。"
+阿爾菲諾他們好像去了萊韋耶勒爾府。"
 74,"TEXT_AKTKMG102_04451_YSHTOLA_000_072","先去哪邊都行，和他們打個招呼吧。
 希望你和他們也能度過一段愉快的時光！"
 75,"TEXT_AKTKMG102_04451_YSHTOLA_000_080","我們這邊也差不多該結束了。
-于里昂熱已經醉糊塗了。"
+於里昂熱已經醉糊塗了。"
 76,"TEXT_AKTKMG102_04451_GRAHATIA_000_085","呼……呼……"
 77,"TEXT_AKTKMG102_04451_ESTINIEN_000_090","怎麼了？
 你想說什麼？"
@@ -122,7 +122,7 @@ int32,str,str
 83,"TEXT_AKTKMG102_04451_GRAHATIA_000_117","你和桑克瑞德他們在背水咖啡廳吃過了啊……
 哎，我要是也過去就好了……那就等回來再說吧……"
 84,"TEXT_AKTKMG102_04451_KRILE_000_120","呵呵，你倆活力滿滿比什麼都強！
-還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，準備妥當以後你也好好休息吧！"
+還有<Highlight>ObjectParameter(1)</Highlight>，準備妥當以後你也好好休息吧！"
 85,"TEXT_AKTKMG102_04451_ALPHINAUD_000_130","對了，在來這裡的路上，
 我看到了好幾個來送特級精金的人。
 你也見到他們了嗎？"

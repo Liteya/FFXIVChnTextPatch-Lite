@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ417_01835_SEQ_00","休島園東張西望的莫古利按著肚子搖搖晃晃地飛著。"
-1,"TEXT_HEAVNZ417_01835_SEQ_01","和東張西望的莫古利進行了交談。在休島園周邊討伐4隻<Sheet(BNpcName,3615,0)/>。"
-2,"TEXT_HEAVNZ417_01835_SEQ_02","討伐了<Sheet(BNpcName,3615,0)/>。向休島園東張西望的莫古利報告。"
-3,"TEXT_HEAVNZ417_01835_SEQ_03","向東張西望的莫古利報告完畢。東張西望的莫古利因為肚子餓，在下一班交接到來前就飛走了。"
+0,"TEXT_HEAVNZ417_01835_SEQ_00","休島園東張西望的莫古力按著肚子搖搖晃晃地飛著。"
+1,"TEXT_HEAVNZ417_01835_SEQ_01","和東張西望的莫古力進行了交談。在休島園周邊討伐4隻<Sheet(BNpcName,3615,0)/>。"
+2,"TEXT_HEAVNZ417_01835_SEQ_02","討伐了<Sheet(BNpcName,3615,0)/>。向休島園東張西望的莫古力報告。"
+3,"TEXT_HEAVNZ417_01835_SEQ_03","向東張西望的莫古力報告完畢。東張西望的莫古力因為肚子餓，在下一班交接到來前就飛走了。"
 4,"TEXT_HEAVNZ417_01835_SEQ_04",""
 5,"TEXT_HEAVNZ417_01835_SEQ_05",""
 6,"TEXT_HEAVNZ417_01835_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNZ417_01835_SEQ_22",""
 23,"TEXT_HEAVNZ417_01835_SEQ_23",""
 24,"TEXT_HEAVNZ417_01835_TODO_00","討伐<Sheet(BNpcName,3615,0)/>"
-25,"TEXT_HEAVNZ417_01835_TODO_01","向東張西望的莫古利報告"
+25,"TEXT_HEAVNZ417_01835_TODO_01","向東張西望的莫古力報告"
 26,"TEXT_HEAVNZ417_01835_TODO_02",""
 27,"TEXT_HEAVNZ417_01835_TODO_03",""
 28,"TEXT_HEAVNZ417_01835_TODO_04",""

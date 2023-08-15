@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANNAM605_03127_TODO_21",""
 46,"TEXT_BANNAM605_03127_TODO_22",""
 47,"TEXT_BANNAM605_03127_TODO_23",""
-48,"TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，不好了，快來幫幫忙吧。
+48,"TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_000","<Highlight>ObjectParameter(1)</Highlight>，不好了，快來幫幫忙吧。
 原本過來幫忙準備祭禮的鯰魚精之中，
 有幾個像是被什麼附身了一樣，開始消極怠工了。"
 49,"TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_001","為此我調查了一下應對之策。
@@ -64,14 +64,14 @@ int32,str,str
 51,"TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_003","那些精神恍惚的鯰魚精們好像晃晃悠悠地走向了刃海的方向。
 你就拿著這個<Sheet(EventItem,2002479,0)/>去追趕他們吧。"
 52,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127A_000_010","噗噗噗、身體好沉頭好痛啊噗……
-我一定是被可怕的惡靈附身了噗……"
+我肯定是被可怕的惡靈附身了噗……"
 53,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127B_000_011","嗚噗噗，我已經精疲力盡，再也動不了了噗。"
 54,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127C_000_012","……感覺完全沒有幹勁噗。
 這種時候好想像泥巴一樣睡死過去噗……"
 55,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127A_000_020","噗噗噗！怎、怎麼回事噗？！
 嚇、嚇我一跳，但是怎麼感到有精神了噗！
 得救了噗！"
-56,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127B_000_021","吁吁吁吁！
+56,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127B_000_021","魚魚魚魚！
 我錯了，我不應該偷懶的噗！
 我酒已經醒過來了，求你饒了我吧噗！"
 57,"TEXT_BANNAM605_03127_DAILYNAMAZUO03127C_000_022","這種美妙的刺激……感覺快上癮了噗……
@@ -81,7 +81,7 @@ int32,str,str
 看來爆竹的效果不錯啊。
 不過好像有的鯰魚精覺醒了什麼奇怪的癖好……"
 59,"TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_031","總之惡靈附身什麼的終歸都是些迷信吧。
-應該是那些傢伙只是偷喝供品的神茶，喝醉了而已。"
+估計是那些傢伙只是偷喝供品的神茶，喝醉了而已。"
 60,"TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_032","只不過要是能讓滿腦子泥漿的鯰魚精們醒醒酒，
 這種方法倒也不錯。
 這就叫比較文明的激進療法！"

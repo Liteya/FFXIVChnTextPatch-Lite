@@ -49,18 +49,18 @@ int32,str,str
 45,"TEXT_LUCKHZ002_03838_TODO_21",""
 46,"TEXT_LUCKHZ002_03838_TODO_22",""
 47,"TEXT_LUCKHZ002_03838_TODO_23",""
-48,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_000","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 對吧？!
+48,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_000","你就是<Highlight>ObjectParameter(1)</Highlight>對吧？!
 居然能在這種地方遇見憧憬的英雄，真不敢相信！"
 49,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_001","啊，恕我冒昧，
 我一直期待著能和你談談。"
 50,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_002","我們和你一樣，也是冒險者。
-在見證過你與赫利．博爾達的對決後，
+在見證過你與赫利·博爾達的對決後，
 就對你產生了憧憬……我們還接受過「拂曉」的任務呢！"
-51,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_003","而且我們同伴的其中一人是這裡伊修加爾德的出身，
-所以我們也曾經作為義勇兵參加了伊修加爾德的防衛戰。
+51,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_003","而且我們同伴的其中一人是這裡伊修加德的出身，
+所以我們也曾經作為義勇兵參加了伊修加德的防衛戰。
 那個時候你戰鬥的英姿實在是太帥了。"
 52,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_004","不僅如此，你還引領戰爭走向了終結，真是太驚人了。
-多虧了你，我們伊修加爾德出身的同伴也得以回到故鄉，
+多虧了你，我們伊修加德出身的同伴也得以回到故鄉，
 現在正在協助重建工程呢。"
 53,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_005","聽說那個重建工程，冒險者好像也能參加呢……
 難道說你也參加了嗎？"
@@ -70,29 +70,29 @@ int32,str,str
 56,"TEXT_LUCKHZ002_03838_HWDADVENTURERC03838_000_006","如果你見到了精靈族的「老練的冒險者」的話，
 能不能告訴她一下，說有同伴正在尋找她。
 在你方便的時候就行，拜託你了！"
-57,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_010","那孩子個子蠻高的，
+57,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_010","那孩子個子挺高的，
 本以為馬上就能找到，
 可這裡每個人都長得很高大啊……"
 58,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_100_010","之後還沒有找過的地方
 就只有聖雷馬諾大聖堂了……"
-59,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_011","啊，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+59,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_011","啊，是<Highlight>ObjectParameter(1)</Highlight>！
 太棒了太厲害了，跟我握個手吧！"
-60,"TEXT_LUCKHZ002_03838_HWDADVENTURERC03838_000_012","你難道就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？！"
+60,"TEXT_LUCKHZ002_03838_HWDADVENTURERC03838_000_012","你難道就是<Highlight>ObjectParameter(1)</Highlight>嗎？！"
 61,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_020","哎呀，你不是拂曉的英雄嗎？！
 感謝你拯救了我的故鄉。"
 62,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_021","今天來皇都有什麼事嗎？"
-63,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_022","欸？大夥都來蒼天街了嗎?！
+63,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_022","誒？大伙都來蒼天街了嗎?！
 我好高興！我這就去見他們！
 謝謝你，你也一起來吧！"
 64,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_025","各位好久不見了呢！"
-65,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_027","是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 找到的吧？
+65,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_027","是<Highlight>ObjectParameter(1)</Highlight>找到的吧？
 謝謝你！"
 66,"TEXT_LUCKHZ002_03838_HWDADVENTURERC03838_000_028","不愧是英雄，尋人找物的能力非同一般啊！"
 67,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_030","啊，好久不見了！
-你也真是見外，都不跟我們聯繫！"
+你也真是見外，都不跟我們聯絡！"
 68,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_031","抱歉啊，我這邊忙著皇都的重建，接了不少的委託。
 不過看到你們都很精神，真是太好了。"
-69,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_032"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你，
+69,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_032","<Highlight>ObjectParameter(1)</Highlight>，謝謝你，
 憧憬的英雄居然願意來見證我們的再會，
 沒有什麼能比這種事情更讓人高興的了。"
 70,"TEXT_LUCKHZ002_03838_HWDCITIZEN03838_000_033","(-？？？？-)冒險者！"
@@ -107,7 +107,7 @@ int32,str,str
 74,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_037","既然是這類的事情，那就輪到我們出場了。
 我們也好久沒有像這樣活動了呢。"
 75,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_038","那就前往新巢居住區吧！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也來再給我們展示一下你的實力吧。"
+<Highlight>ObjectParameter(1)</Highlight>，你也來再給我們展示一下你的實力吧。"
 76,"TEXT_LUCKHZ002_03838_HWDCITIZEN03838_000_040","剛才還在這附近來著……"
 77,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_041","在那裡！"
 78,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_100_041","雖然看上去不是很強，不過我可不會手下留情！
@@ -133,6 +133,6 @@ int32,str,str
 我提議暫時將這裡作為據點如何？"
 88,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_051","啊，大家在一起的話，就可靠多了。
 謝謝你們！"
-89,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_052"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，也感謝你！
+89,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_052","<Highlight>ObjectParameter(1)</Highlight>，也感謝你！
 我們為了今後能成為像你這樣的冒險者，
 就暫時先在這裡努力奮鬥了！"

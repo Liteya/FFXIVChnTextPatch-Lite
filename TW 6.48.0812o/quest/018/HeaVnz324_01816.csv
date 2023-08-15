@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ324_01816_SEQ_00","不潔三塔附近的卡爾．米克十分慌張。"
-1,"TEXT_HEAVNZ324_01816_SEQ_01","和卡爾．米克進行了交談。卡爾．米克的同族受傷了，它希望冒險者能夠協助它去狩獵。和龍堡參天高地寬慰河的卡爾．米克會合。"
-2,"TEXT_HEAVNZ324_01816_SEQ_02","和卡爾．米克會合了。在寬慰河的<Sheet(EObj,2006030,0)/>進行張望，討伐出現的<Sheet(BNpcName,4051,0)/>，獲得肉。"
-3,"TEXT_HEAVNZ324_01816_SEQ_03","獲得了<Sheet(EventItem,2001754,0)/>。向寬慰河的卡爾．米克報告。"
-4,"TEXT_HEAVNZ324_01816_SEQ_04","向卡爾．米克報告完畢。再次和前往龍堡參天高地徹悟岩窟的卡爾．米克會合，將<Sheet(EventItem,2001754,0)/>交給卡爾．米克。"
-5,"TEXT_HEAVNZ324_01816_SEQ_05","將<Sheet(EventItem,2001754,0)/>交給了卡爾．米克，但奧爾．阿斯並沒有吃<Sheet(EventItem,2001754,0)/>。聽聞讓奧爾．阿斯受傷的是人類的騎兵，卡爾．米克開始害怕冒險者。回到龍堡參天高地的不潔三塔附近，和卡爾．米克對話。"
-6,"TEXT_HEAVNZ324_01816_SEQ_06","和卡爾．米克進行了交談。聽了奧爾．阿斯的一番話，卡爾．米克十分動搖。"
+0,"TEXT_HEAVNZ324_01816_SEQ_00","不潔三塔附近的卡爾·米克十分慌張。"
+1,"TEXT_HEAVNZ324_01816_SEQ_01","和卡爾·米克進行了交談。卡爾·米克的同族受傷了，它希望冒險者能夠協助它去狩獵。和龍堡參天高地寬慰河的卡爾·米克匯合。"
+2,"TEXT_HEAVNZ324_01816_SEQ_02","和卡爾·米克匯合了。在寬慰河的<Sheet(EObj,2006030,0)/>進行張望，討伐出現的<Sheet(BNpcName,4051,0)/>，獲取肉。"
+3,"TEXT_HEAVNZ324_01816_SEQ_03","獲得了<Sheet(EventItem,2001754,0)/>。向寬慰河的卡爾·米克報告。"
+4,"TEXT_HEAVNZ324_01816_SEQ_04","向卡爾·米克報告完畢。再次和前往龍堡參天高地徹悟岩窟的卡爾·米克匯合，將<Sheet(EventItem,2001754,0)/>交給卡爾·米克。"
+5,"TEXT_HEAVNZ324_01816_SEQ_05","將<Sheet(EventItem,2001754,0)/>交給了卡爾·米克，但奧爾·阿斯並沒有吃<Sheet(EventItem,2001754,0)/>。聽聞讓奧爾·阿斯受傷的是人類的騎兵，卡爾·米克開始害怕冒險者。回到龍堡參天高地的不潔三塔附近，和卡爾·米克對話。"
+6,"TEXT_HEAVNZ324_01816_SEQ_06","和卡爾·米克進行了交談。聽了奧爾·阿斯的一番話，卡爾·米克十分動搖。"
 7,"TEXT_HEAVNZ324_01816_SEQ_07",""
 8,"TEXT_HEAVNZ324_01816_SEQ_08",""
 9,"TEXT_HEAVNZ324_01816_SEQ_09",""
@@ -25,11 +25,11 @@ int32,str,str
 21,"TEXT_HEAVNZ324_01816_SEQ_21",""
 22,"TEXT_HEAVNZ324_01816_SEQ_22",""
 23,"TEXT_HEAVNZ324_01816_SEQ_23",""
-24,"TEXT_HEAVNZ324_01816_TODO_00","和卡爾．米克會合"
-25,"TEXT_HEAVNZ324_01816_TODO_01","在<Sheet(EObj,2006030,0)/>張望 從出現的<Sheet(BNpcName,4051,0)/>身上獲得肉"
-26,"TEXT_HEAVNZ324_01816_TODO_02","再次和卡爾．米克會合"
-27,"TEXT_HEAVNZ324_01816_TODO_03","將<Sheet(EventItem,2001754,0)/>交給卡爾．米克"
-28,"TEXT_HEAVNZ324_01816_TODO_04","和卡爾．米克對話"
+24,"TEXT_HEAVNZ324_01816_TODO_00","和卡爾·米克匯合"
+25,"TEXT_HEAVNZ324_01816_TODO_01","在<Sheet(EObj,2006030,0)/>張望 從出現的<Sheet(BNpcName,4051,0)/>身上獲取肉"
+26,"TEXT_HEAVNZ324_01816_TODO_02","再次和卡爾·米克匯合"
+27,"TEXT_HEAVNZ324_01816_TODO_03","將<Sheet(EventItem,2001754,0)/>交給卡爾·米克"
+28,"TEXT_HEAVNZ324_01816_TODO_04","和卡爾·米克對話"
 29,"TEXT_HEAVNZ324_01816_TODO_05",""
 30,"TEXT_HEAVNZ324_01816_TODO_06",""
 31,"TEXT_HEAVNZ324_01816_TODO_07",""
@@ -49,16 +49,16 @@ int32,str,str
 45,"TEXT_HEAVNZ324_01816_TODO_21",""
 46,"TEXT_HEAVNZ324_01816_TODO_22",""
 47,"TEXT_HEAVNZ324_01816_TODO_23",""
-48,"TEXT_HEAVNZ324_01816_KALMYHK_000_000","啊！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_HEAVNZ324_01816_KALMYHK_000_000","啊！<Highlight>ObjectParameter(1)</Highlight>！
 大事不好了！快幫幫我！"
 49,"TEXT_HEAVNZ324_01816_KALMYHK_000_001","有一個和我很要好的大哥哥，
 剛才受了很嚴重的傷回來了……
 而且它看上去很沒精神……"
 50,"TEXT_HEAVNZ324_01816_KALMYHK_000_002","我想，只要讓它吃得飽飽的，它就會恢復精神了！
 所以我要為它收集好多好多好吃的！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也來幫我狩獵！"
+<Highlight>ObjectParameter(1)</Highlight>，你也來幫我狩獵！"
 51,"TEXT_HEAVNZ324_01816_KALMYHK_000_003","我先一步去上次的那個河邊啦，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也快來！我在那裡等你！"
+<Highlight>ObjectParameter(1)</Highlight>也快來！我在那裡等你！"
 52,"TEXT_HEAVNZ324_01816_KALMYHK_000_010","那我們就趕快開始狩獵吧！
 唯一腦窟穴旁有許多<Sheet(BNpcName,4051,0)/>，
 你就去弄來些它們的肉好了！"
@@ -68,13 +68,13 @@ int32,str,str
 54,"TEXT_HEAVNZ324_01816_KALMYHK_000_020","唯一腦窟穴旁有許多<Sheet(BNpcName,4051,0)/>，
 你就去弄來些它們的肉好了！"
 55,"TEXT_HEAVNZ324_01816_KALMYHK_000_030","哦哦，看來你成功狩獵了<Sheet(BNpcName,4051,0)/>嘛！
-不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+不愧是<Highlight>ObjectParameter(1)</Highlight>！
 不過我也毫不遜色喲！"
 56,"TEXT_HEAVNZ324_01816_KALMYHK_000_031","好啦，趕快把這些給大哥哥送過去吧！
 大哥哥就在徹悟岩窟裡！
 那我就先過去啦，肉就到那裡再給我好了！"
 57,"TEXT_HEAVNZ324_01816_OHLASH_000_047","可惡……疼死了！"
-58,"TEXT_HEAVNZ324_01816_KALMYHK_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能把肉給我嗎？"
+58,"TEXT_HEAVNZ324_01816_KALMYHK_000_040","<Highlight>ObjectParameter(1)</Highlight>，能把肉給我嗎？"
 59,"TEXT_HEAVNZ324_01816_KALMYHK_000_041","奧爾哥哥，這些都是給你的！
 全是你最愛吃的肉！
 你吃了這些肉，就會精神起來啦！"
@@ -94,6 +94,6 @@ int32,str,str
 我跟朋友約好一起玩來著……
 ……那，那我先走啦……"
 66,"TEXT_HEAVNZ324_01816_OHLASH_000_051","你這傢伙……休想對卡爾出手！"
-67,"TEXT_HEAVNZ324_01816_KALMYHK_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+67,"TEXT_HEAVNZ324_01816_KALMYHK_000_050","<Highlight>ObjectParameter(1)</Highlight>……
 跟你在一起的話奧爾哥哥會生氣的，而且……
 總之，謝謝你幫我弄來那些肉……"

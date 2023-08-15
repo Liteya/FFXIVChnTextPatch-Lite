@@ -19,11 +19,11 @@ int32,str,str
 等級達到21級以上的玩家在攻略此任務時將視為20級。"
 9,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_SYSTEM_9","在留有戰利品的狀態下離開「銅鈴銅山」的話，
 戰利品中的道具會自動轉移到背包裡。
-請注意：無法獲得的道具會自動丟棄。"
+請注意：無法獲取的道具會自動丟棄。"
 10,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_Q2_1","要開始「封鎖坑道銅鈴銅山」嗎？"
 11,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_A2_1","是"
 12,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_A2_2","否"
-13,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_SYSTEM_10","未能開始<Sheet(InstanceContentTextData,IntegerParameter(1),0)/>「<Sheet(InstanceContent,IntegerParameter(2),3)/>」」。
+13,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_SYSTEM_10","未能開始<Sheet(InstanceContentTextData,IntegerParameter(1),0)/>「<Sheet(InstanceContent,IntegerParameter(2),3)/>」。
 請確認開始條件。"
 14,"TEXT_CMNRADENTERCOPPERBELLMINES_00078_BEBEMAI_20","裡面的銅鈴銅山是
 艾瑪吉娜礦山公司「鐵燈團」的管轄範圍。

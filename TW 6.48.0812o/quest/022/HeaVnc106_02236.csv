@@ -49,14 +49,14 @@ int32,str,str
 45,"TEXT_HEAVNC106_02236_TODO_21",""
 46,"TEXT_HEAVNC106_02236_TODO_22",""
 47,"TEXT_HEAVNC106_02236_TODO_23",""
-48,"TEXT_HEAVNC106_02236_HONOROIT_000_000","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人。
+48,"TEXT_HEAVNC106_02236_HONOROIT_000_000","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>大人。
 您找到桑克瑞德大人了啊，太好了。
 我還怕你們倆錯過了呢……嗯。"
 49,"TEXT_HEAVNC106_02236_THANCRED_000_003","哈哈，我搞明白了……
 這二少爺真是讓人不省心。"
-50,"TEXT_HEAVNC106_02236_CITIZENA02233_000_005","快看門的上面！
+50,"TEXT_HEAVNC106_02236_CITIZENA02233_000_005","快看門的上邊！
 不知會裝飾上什麼樣的浮雕呢！"
-51,"TEXT_HEAVNC106_02236_CITIZENB02233_000_010","與龍族交好……起初我以為只是痴人說夢……
+51,"TEXT_HEAVNC106_02236_CITIZENB02233_000_010","與龍族交好……起初我以為只是癡人說夢……
 直到我親眼在皇都看見大白龍救下墜樓的孩子。
 因此我這次帶著妻子來參加慶典。"
 52,"TEXT_HEAVNC106_02236_CITIZENC02233_000_015","這裡依舊那麼寒冷刺骨，簡直要凍成冰了。
@@ -67,14 +67,14 @@ int32,str,str
 54,"TEXT_HEAVNC106_02236_EMMANELLAIN_000_021","那邊的營房的1層現在作為臨時食堂向來賓開放。
 你先去吃點飯填飽肚子吧。"
 55,"TEXT_HEAVNC106_02236_THANCRED_000_022","我剛來這裡，先隨便逛逛。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，有事你就叫我。"
-56,"TEXT_HEAVNC106_02236_EMMANELLAIN_000_030","………………。"
+<Highlight>ObjectParameter(1)</Highlight>，有事你就叫我。"
+56,"TEXT_HEAVNC106_02236_EMMANELLAIN_000_030","……"
 57,"TEXT_HEAVNC106_02236_CITIZENA02233_000_035","到、到底怎麼回事……
 為什麼會變成這樣？！"
 58,"TEXT_HEAVNC106_02236_CITIZENB02233_000_040","本來高高興興來看慶典，
 怎麼會變成這樣……"
 59,"TEXT_HEAVNC106_02236_CITIZENC02233_000_045","……浮雕沒有受損算是不幸中的萬幸了。
-但應該慶典也沒辦法舉辦了吧……"
+但估計慶典也沒法舉辦了吧……"
 60,"TEXT_HEAVNC106_02236_REDWALD_000_046","如果埃馬內蘭閣下不向騎兵下命令，
 沒準暴動就要傷及無辜的民眾了。
 他完美執行了警備的任務，我很感謝他。"
@@ -88,7 +88,7 @@ int32,str,str
 64,"TEXT_HEAVNC106_02236_EMERISSEL_100_049","……我經常在這裡站崗放哨，
 和那個女侍者也說過好幾次話。
 沒想到會變成這樣，太心寒了。"
-65,"TEXT_HEAVNC106_02236_NOIRTEREL_110_049","難道說坐在最裡面那桌的就是你？
+65,"TEXT_HEAVNC106_02236_NOIRTEREL_110_049","難道說坐在最裡邊那桌的就是你？
 我在收拾那一桌的飲料的時候，
 聞到了點安眠藥的味道，當時嚇了一跳呢。"
 66,"TEXT_HEAVNC106_02236_NOIRTEREL_120_049","這裡是我負責的廚房，不管下藥的人是誰，我都有責任……
@@ -104,7 +104,7 @@ int32,str,str
 實在是個悲劇……"
 70,"TEXT_HEAVNC106_02236_THANCRED_000_051","埃馬內蘭好像還很消沉，現在先不要和他說話了……
 已經派人去通知露琪亞他們了，
-他們應該接到傳令就會往回趕吧。"
+估計他們接到傳令就會往回趕吧。"
 71,"TEXT_HEAVNC106_02236_THANCRED_000_052","……在他們回來之前你能在街上巡視一下嗎？
 我怕發生更大的混亂……"
 72,"TEXT_HEAVNC106_02236_THANCRED_000_060","人們的狀況如何？
@@ -130,14 +130,14 @@ int32,str,str
 不過那位女性的話語戳痛了我。
 畢竟我的朋友和前輩中也有不少人戰死沙場……"
 80,"TEXT_HEAVNC106_02236_JOSSELOUX_000_111","在教皇廳人質劫持事件之後又發生這種事……
-最近的伊修加爾德到底怎麼了？"
+最近的伊修加德到底怎麼了？"
 81,"TEXT_HEAVNC106_02236_JOSSELOUX_000_112","明明大家之前還眾志成城打倒龍族，
 現在卻變得內訌不斷。
 與龍族和解真的是正確的嗎……"
 82,"TEXT_HEAVNC106_02236_JOSSELOUX_000_120","明明大家之前還眾志成城打倒龍族，
 現在卻變得內訌不斷。
 與龍族和解真的是正確的嗎……"
-83,"TEXT_HEAVNC106_02236_THANCRED_000_130"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+83,"TEXT_HEAVNC106_02236_THANCRED_000_130","<Highlight>ObjectParameter(1)</Highlight>……
 你那邊如何了？"
 84,"TEXT_HEAVNC106_02236_THANCRED_000_131","我這邊也沒再發生什麼明顯的騷動，
 但大家的情緒都有些低落。"

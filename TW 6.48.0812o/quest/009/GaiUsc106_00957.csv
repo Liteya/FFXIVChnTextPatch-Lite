@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC106_00957_SEQ_00","跨天橋的海爾姆哈特，有一件無論如何都想得到的東西。"
-1,"TEXT_GAIUSC106_00957_SEQ_01","海爾姆哈特的頭皮狀態沒有任何變化。他要尋求更加有效的生髮劑。討伐火牆附近的<Sheet(BNpcName,271,0)/>，獲得5個<Sheet(EventItem,2000743,0)/>。"
+1,"TEXT_GAIUSC106_00957_SEQ_01","海爾姆哈特的頭皮狀態沒有任何變化。他要尋求更加有效的生髮劑。討伐火牆附近的<Sheet(BNpcName,271,0)/>，獲取5個<Sheet(EventItem,2000743,0)/>。"
 2,"TEXT_GAIUSC106_00957_SEQ_02","獲得了<Sheet(EventItem,2000743,0)/>。與海爾姆哈特交談。"
 3,"TEXT_GAIUSC106_00957_SEQ_03","對海爾姆哈特的頭使用<Sheet(EventItem,2000976,0)/>。"
 4,"TEXT_GAIUSC106_00957_SEQ_04","對海爾姆哈特的頭使用了<Sheet(EventItem,2000976,0)/>。他的髮根究竟能否復甦活力……"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSC106_00957_SEQ_21",""
 22,"TEXT_GAIUSC106_00957_SEQ_22",""
 23,"TEXT_GAIUSC106_00957_SEQ_23",""
-24,"TEXT_GAIUSC106_00957_TODO_00","從<Sheet(BNpcName,271,0)/>身上獲得<Sheet(EventItem,2000743,0)/>"
+24,"TEXT_GAIUSC106_00957_TODO_00","從<Sheet(BNpcName,271,0)/>身上獲取<Sheet(EventItem,2000743,0)/>"
 25,"TEXT_GAIUSC106_00957_TODO_01","將<Sheet(EventItem,2000743,0)/>交給海爾姆哈特"
 26,"TEXT_GAIUSC106_00957_TODO_02","對海爾姆哈特的頭使用<Sheet(EventItem,2000976,0)/>"
 27,"TEXT_GAIUSC106_00957_TODO_03",""
@@ -60,7 +60,7 @@ int32,str,str
 只要打倒棲息在火牆的<Sheet(BNpcName,271,0)/>，就應該能得到了！
 快！你快去把它拿來！"
 52,"TEXT_GAIUSC106_00957_DUMMY_000_000","討伐<Sheet(BNpcName,271,0)/>，獲得<Sheet(EventItem,2000743,0)/>"
-53,"TEXT_GAIUSC106_00957_SYSTEM_000_000","（★未使用／削除予定★）"
+53,"TEXT_GAIUSC106_00957_SYSTEM_000_000","（未使用/預計刪除）"
 54,"TEXT_GAIUSC106_00957_HELMHART_000_010","唔……我已經沒救了……
 髮根……髮根……"
 55,"TEXT_GAIUSC106_00957_HELMHART_000_020","這是<Sheet(EventItem,2000743,0)/>！

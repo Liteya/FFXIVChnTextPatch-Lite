@@ -28,8 +28,8 @@ int32,str,str
 21,"TEXT_BANANA601_03064_SEQ_21",""
 22,"TEXT_BANANA601_03064_SEQ_22",""
 23,"TEXT_BANANA601_03064_SEQ_23",""
-24,"TEXT_BANANA601_03064_TODO_00","在東境混和林獲得<Sheet(EventItem,2002448,0)/>"
-25,"TEXT_BANANA601_03064_TODO_01","將<Sheet(EventItem,2002448,0)/>交給威羅迪納基地的迦格羅緹 獲得<Sheet(EventItem,2002449,0)/>"
+24,"TEXT_BANANA601_03064_TODO_00","在東境混交林獲取<Sheet(EventItem,2002448,0)/>"
+25,"TEXT_BANANA601_03064_TODO_01","將<Sheet(EventItem,2002448,0)/>交給威羅迪納基地的迦格羅緹 獲取<Sheet(EventItem,2002449,0)/>"
 26,"TEXT_BANANA601_03064_TODO_02","將<Sheet(EventItem,2002449,0)/>交給耶夏娜"
 27,"TEXT_BANANA601_03064_TODO_03",""
 28,"TEXT_BANANA601_03064_TODO_04",""
@@ -58,7 +58,7 @@ int32,str,str
 49,"TEXT_BANANA601_03064_ESHANA_000_001","閃耀著美麗光輝的鱗片是我們阿難陀族的驕傲。
 但是，我們需要鱗片貼地而行，總是免不了受傷。
 因此需要常備藥品，但是現在藥的材料不夠了。"
-50,"TEXT_BANANA601_03064_ESHANA_000_002","我想拜託你前往東境混和林，
+50,"TEXT_BANANA601_03064_ESHANA_000_002","我想拜託你前往東境混交林，
 收集4束生長在大樹根部的<Sheet(EventItem,2002448,0)/>。"
 51,"TEXT_BANANA601_03064_ESHANA_000_003","收集到必要的數量之後，
 請你交給醫療設施旁的迦格羅緹。

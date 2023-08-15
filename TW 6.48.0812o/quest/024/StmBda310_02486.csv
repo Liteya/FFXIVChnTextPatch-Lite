@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDA310_02486_SEQ_23",""
 24,"TEXT_STMBDA310_02486_TODO_00","和阿莉塞對話"
 25,"TEXT_STMBDA310_02486_TODO_01","使用<Sheet(EventItem,2002243,0)/>尋找發光的石頭"
-26,"TEXT_STMBDA310_02486_TODO_02","獲得<Sheet(EventItem,2002095,0)/>"
+26,"TEXT_STMBDA310_02486_TODO_02","獲取<Sheet(EventItem,2002095,0)/>"
 27,"TEXT_STMBDA310_02486_TODO_03","讓阿莉塞查看<Sheet(EventItem,2002095,0)/>"
 28,"TEXT_STMBDA310_02486_TODO_04",""
 29,"TEXT_STMBDA310_02486_TODO_05",""
@@ -50,12 +50,12 @@ int32,str,str
 46,"TEXT_STMBDA310_02486_TODO_22",""
 47,"TEXT_STMBDA310_02486_TODO_23",""
 48,"TEXT_STMBDA310_02486_LYSE_000_000","雖然踏入未知領域被趕走也不是第一次遇到……
-但還是蠻不舒服的……
+但還是挺不舒服的……
 算了，也沒時間惆悵了。"
 49,"TEXT_STMBDA310_02486_ALISAIE_000_010","目前的狀況說白了就是遭遇瓶頸了……
 如果找不到任何線索的話，
 尋找勾玉這件事本身就稱不上是上策了……"
-50,"TEXT_STMBDA310_02486_ALISAIE_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你認為咱們接下來要怎麼做比較好呢？"
+50,"TEXT_STMBDA310_02486_ALISAIE_000_011","<Highlight>ObjectParameter(1)</Highlight>，你認為咱們接下來要怎麼做比較好呢？"
 51,"TEXT_STMBDA310_02486_Q1_000_012","如何作答？"
 52,"TEXT_STMBDA310_02486_A1_000_013","再去勸說一下潮騷"
 53,"TEXT_STMBDA310_02486_A1_000_014","試著和村裡的人交流一下"
@@ -109,14 +109,14 @@ int32,str,str
 75,"TEXT_STMBDA310_02486_IHANAMI_000_036","我就把我採集發光的石頭時用的<Sheet(EventItem,2002243,0)/>給你們吧。
 雖說把那樣的秘寶和一般的石頭混為一談感覺有些不敬。"
 76,"TEXT_STMBDA310_02486_IHANAMI_000_037","只要舉著這個，周圍的石頭就會相應散發出光輝。
-在幽暗的海底，應該也能更好找一些。"
+在幽暗的海底，估計也能更好找一些。"
 77,"TEXT_STMBDA310_02486_IHANAMI_000_038","你們可以拿著這個到西南邊的沉船附近去找……
 受到洋流的影響，那個地方很容易堆積東西，
 比較有調查的價值。"
 78,"TEXT_STMBDA310_02486_ALISAIE_000_039","真是意外的收穫！
 那我們就趕快去吧。"
 79,"TEXT_STMBDA310_02486_YUNAGI_000_040","請你們務必小心……
-我們沒辦法以實際行動來幫助你們，
+我們沒法以實際行動來幫助你們，
 但心裡還是希望各位能夠平安無事，實現理想。"
 80,"TEXT_STMBDA310_02486_YUNAGI_000_041","如果你們能夠再見到夕霧，
 請轉告她，父親、母親還有兄弟姐妹都健在，大家都惦記著她。
@@ -151,10 +151,10 @@ int32,str,str
 好像埋藏著發光的石頭。"
 95,"TEXT_STMBDA310_02486_ALISAIE_000_100","嗯……果然單純靠肉眼找是不行的。
 根本就找不到。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你那邊如何？"
+<Highlight>ObjectParameter(1)</Highlight>，你那邊如何？"
 96,"TEXT_STMBDA310_02486_ALISAIE_000_101","這是……
 跟算盤的描述一模一樣，
 這肯定就是八尺瓊勾玉了！"
-97,"TEXT_STMBDA310_02486_ALISAIE_000_102","太好了……太好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+97,"TEXT_STMBDA310_02486_ALISAIE_000_102","太好了……太好了，<Highlight>ObjectParameter(1)</Highlight>！
 看來我們終於要轉運了。
 就讓我們一鼓作氣打破這不利的局勢吧！"

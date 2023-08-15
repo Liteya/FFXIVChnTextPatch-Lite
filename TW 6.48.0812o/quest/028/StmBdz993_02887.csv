@@ -76,7 +76,7 @@ int32,str,str
 能回到阿拉米格就已經讓我很興奮了。
 所以，無論變成什麼樣，我都會接受的。"
 58,"TEXT_STMBDZ993_02887_PASSIONATESOLDIER02887_140_005","第一批人員中，有不少能戰鬥的人。
-我很高興能瞭解到路上的情況。
+我很高興能了解到路上的情況。
 真是有勞你了！"
 59,"TEXT_STMBDZ993_02887_GUNDOBALD_000_006","保護他們，以及悼念威爾雷德的事……
 就拜託了。"
@@ -86,13 +86,13 @@ int32,str,str
 所以我們平安通過了黑衣森林。"
 62,"TEXT_STMBDZ993_02887_BERTLIANA_000_011","從這裡橫渡威羅迪納河，
 就是基拉巴尼亞了！"
-63,"TEXT_STMBDZ993_02887_BERTLIANA_000_012","我們繼續透過森林，
+63,"TEXT_STMBDZ993_02887_BERTLIANA_000_012","我們繼續通過森林，
 穿過威羅迪納大橋，向東方前進。"
 64,"TEXT_STMBDZ993_02887_BERTLIANA_000_013","雖然帝國軍已經離開了這裡，
 但無法保證不會遭遇危險的魔物和山賊。
 "
 65,"TEXT_STMBDZ993_02887_BERTLIANA_000_014","如果遭到攻擊，
-還請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 出手相助。
+還請<Highlight>ObjectParameter(1)</Highlight>出手相助。
 那麼，出發吧！"
 66,"TEXT_STMBDZ993_02887_POPMESSAGE_110_020","敵人發起了攻擊！"
 67,"TEXT_STMBDZ993_02887_PASSIONATESOLDIER02888_100_020","好厲害……不愧是「解放者」！"

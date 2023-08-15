@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKUA101_04643_SEQ_00","露天市集的大繁榮商店的新人店員正在攬客。"
+0,"TEXT_AKTKUA101_04643_SEQ_00","露天集市的大繁榮商店的新人店員正在攬客。"
 1,"TEXT_AKTKUA101_04643_SEQ_01","從塔塔露那裡得到了無人島的開拓權。和拉諾西亞低地莫拉比造船廠的巴爾丁談談。"
 2,"TEXT_AKTKUA101_04643_SEQ_02","和巴爾丁進行了交談。告訴莫拉比造船廠的巴爾丁要去自己的無人島。"
 3,"TEXT_AKTKUA101_04643_SEQ_03","船順利到達了目的地。和無人島西南方向海灘上的塔塔露談談。"
@@ -53,16 +53,16 @@ int32,str,str
 是不是我們的商品吸引你停下了腳步啊？"
 49,"TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_002","啊，不是嗎？
 你是塔塔露小姐的熟人？"
-50,"TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_003","哦哦，你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊！
+50,"TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_003","哦哦，你就是<Highlight>ObjectParameter(1)</Highlight>啊！
 我經常聽塔塔露小姐提起你！
 她還跟我說要是遇到了你，一定要把你叫住……"
 51,"TEXT_AKTKUA101_04643_GRANDENDEAVORSCLEARK04643_000_004","所以呢，請你在這裡稍等一會，
 我這就去找塔塔露小姐！"
-52,"TEXT_AKTKUA101_04643_TATARU_000_005","(-？？？？-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+52,"TEXT_AKTKUA101_04643_TATARU_000_005","(-？？？？-)<Highlight>ObjectParameter(1)</Highlight>！"
 53,"TEXT_AKTKUA101_04643_TATARU_000_006","讓你久等啦！
 店裡的訂單暴增，我都要忙得喘不上氣了……"
 54,"TEXT_AKTKUA101_04643_TATARU_000_007","啊，不過我可不是在抱怨，畢竟忙點是好事。
-這也是多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 將大繁榮商店介紹給了更多的人！"
+這也是多虧了<Highlight>ObjectParameter(1)</Highlight>將大繁榮商店介紹給了更多的人！"
 55,"TEXT_AKTKUA101_04643_TATARU_000_008","啊，不過我可不是在抱怨，畢竟忙點是好事。
 雖然大繁榮商店才剛剛開門，
 但多虧了你，我們已經慢慢走上正軌了！"
@@ -72,9 +72,9 @@ int32,str,str
 58,"TEXT_AKTKUA101_04643_TATARU_000_011","無人島的開拓權！"
 59,"TEXT_AKTKUA101_04643_TATARU_000_012","我塔塔露要送你一座只屬於你自己的島！"
 60,"TEXT_AKTKUA101_04643_TATARU_000_013","也許是我多管閒事了……
-但 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 每天都在忙東忙西，
+但<Highlight>ObjectParameter(1)</Highlight>每天都在忙東忙西，
 我想為這樣的你提供一個能自由自在的地方！"
-61,"TEXT_AKTKUA101_04643_TATARU_000_014"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的人緣非常好，
+61,"TEXT_AKTKUA101_04643_TATARU_000_014","<Highlight>ObjectParameter(1)</Highlight>的人緣非常好，
 可每天和各種人打交道肯定也是件讓人感到疲憊的事。"
 62,"TEXT_AKTKUA101_04643_TATARU_000_015","在這種時候，就應該去不被任何事物所干擾的無人島嶼上，
 盡情地享受大自然，度過悠然自得的閒暇時光……
@@ -90,12 +90,12 @@ int32,str,str
 去盡情享受無拘無束的無人島生活吧！"
 69,"TEXT_AKTKUA101_04643_TATARU_000_020","既然你已經決定了，那我這就帶你去看看！
 因為要乘船前往那座島所在的謝爾達萊群島，
-所以我們就在拉諾西亞低地的莫拉比造船廠會合吧。"
+所以我們就在拉諾西亞低地的莫拉比造船廠匯合吧。"
 70,"TEXT_AKTKUA101_04643_TATARU_000_021","到了那裡之後，麻煩你先跟乙太之光附近的巴爾丁打聲招呼！"
 71,"TEXT_AKTKUA101_04643_BARDIN_000_030","嗨，你就是塔塔露小姐說的那個人吧？
 聽說你要去自己的島上？"
-72,"TEXT_AKTKUA101_04643_BARDIN_000_031","你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
-我已經接到塔塔露小姐的聯繫了。"
+72,"TEXT_AKTKUA101_04643_BARDIN_000_031","你就是<Highlight>ObjectParameter(1)</Highlight>吧？
+我已經接到塔塔露小姐的聯絡了。"
 73,"TEXT_AKTKUA101_04643_BARDIN_000_032","她說她馬上就到……
 哦，來了來了。"
 74,"TEXT_AKTKUA101_04643_TATARU_000_033","嘿嘿嘿……
@@ -121,17 +121,17 @@ int32,str,str
 我會為你們加油的。"
 84,"TEXT_AKTKUA101_04643_TATARU_000_043","我覺得你應該已經等不及想過去了，
 所以我就等到了島上再為你詳細說明好了！"
-85,"TEXT_AKTKUA101_04643_BARDIN_000_044","那我們就儘快出發吧！"
+85,"TEXT_AKTKUA101_04643_BARDIN_000_044","那我們就盡快出發吧！"
 86,"TEXT_AKTKUA101_04643_TATARU_000_045","等你準備好了，就和巴爾丁說你想去自己的無人島。
 我先去船上等你！"
-87,"TEXT_AKTKUA101_04643_TATARU_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快看前面！"
+87,"TEXT_AKTKUA101_04643_TATARU_000_060","<Highlight>ObjectParameter(1)</Highlight>，快看前面！"
 88,"TEXT_AKTKUA101_04643_TATARU_000_061","整個島都能看得一清二楚！
 我們馬上就能靠岸了！"
 89,"TEXT_AKTKUA101_04643_TATARU_000_062","一路乘船真是辛苦你了！"
 90,"TEXT_AKTKUA101_04643_TATARU_000_063","怎麼樣？
-這裡就是你可以隨意開荒的新的挑戰舞臺……"
+這裡就是你可以隨意開荒的新的挑戰舞台……"
 91,"TEXT_AKTKUA101_04643_TATARU_000_064","只屬於你的無人島！"
-92,"TEXT_AKTKUA101_04643_TATARU_000_070","終於能為 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 介紹這座島了，
+92,"TEXT_AKTKUA101_04643_TATARU_000_070","終於能為<Highlight>ObjectParameter(1)</Highlight>介紹這座島了，
 我已經不知不覺地激動起來了！"
 93,"TEXT_AKTKUA101_04643_TATARU_000_071","雖然現在這座島是無人島，
 但據說以前曾被某個海盜團當作補給基地，
@@ -141,7 +141,7 @@ int32,str,str
 來作為新的移民政策。"
 95,"TEXT_AKTKUA101_04643_TATARU_000_073","我們現在能站在這裡，
 都是多虧了她面向一般群眾招募了無人島的開拓者！"
-96,"TEXT_AKTKUA101_04643_TATARU_000_074","我一聽說這個消息，就立刻寫了一份計劃書並報了名。
+96,"TEXT_AKTKUA101_04643_TATARU_000_074","我一聽說這個消息，就立馬寫了一份計劃書並報了名。
 就這樣，我以就地取材為核心的「獨自開拓論」被採用，
 順利得到了島的開拓權！"
 97,"TEXT_AKTKUA101_04643_Q2_000_000","要說什麼？"
@@ -159,18 +159,18 @@ int32,str,str
 105,"TEXT_AKTKUA101_04643_TATARU_000_090","找到了，找到了！
 這個小可愛就是我剛才說的幫手們的頭頭——
 貓型魔法人偶貓耳小員！"
-106,"TEXT_AKTKUA101_04643_CATEARSMAMMET_000_091","初次見面， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+106,"TEXT_AKTKUA101_04643_CATEARSMAMMET_000_091","初次見面，<Highlight>ObjectParameter(1)</Highlight>！
 我會給你很多關於開拓無人島的建議和指導喵。"
 107,"TEXT_AKTKUA101_04643_TATARU_000_092","除了貓耳小員以外，
 這裡還有很多其他種類的魔法人偶，
-比如幫忙建造和開拓的，負責聯繫的，等等……"
+比如幫忙建造和開拓的，負責聯絡的，等等……"
 108,"TEXT_AKTKUA101_04643_TATARU_000_093","這些都是薩雷安魔法大學的某位教授無償提供的。"
 109,"TEXT_AKTKUA101_04643_TATARU_000_094","據說在薩雷安計劃逃往星外的時候，
 他們開發製作了大量魔法人偶，
-用來充當在其他星球建構居住環境的勞動力。"
+用來充當在其他星球構建居住環境的勞動力。"
 110,"TEXT_AKTKUA101_04643_TATARU_000_095","末日危機解除後，他們已經不再需要這些魔法人偶了……"
 111,"TEXT_AKTKUA101_04643_TATARU_000_096","可是負責開發的教授很捨不得處理掉它們，
-於是我就直接和他交涉，以提供開拓無人島的資料和資料為條件，
+於是我就直接和他交涉，以提供開拓無人島的數據和資料為條件，
 讓他無償提供給我了！"
 112,"TEXT_AKTKUA101_04643_TATARU_000_097","我知道所有的必需品都要就地取材非常不便……"
 113,"TEXT_AKTKUA101_04643_TATARU_000_098","但我希望你能諒解，
@@ -181,20 +181,20 @@ int32,str,str
 還有自己的頭腦和技術來開拓的話……"
 116,"TEXT_AKTKUA101_04643_TATARU_000_101","無人島就會成為很多人的希望之島！"
 117,"TEXT_AKTKUA101_04643_CATEARSMAMMET_000_102","我擁有的可是薩雷安提供的開拓知識，先進可靠，
-聽我的準沒錯喵！"
+聽我的准沒錯喵！"
 118,"TEXT_AKTKUA101_04643_TATARU_000_103","那麼，專業的指導就交給貓耳小員了，
 我先告辭啦，等過些時間再來看你！"
-119,"TEXT_AKTKUA101_04643_TATARU_000_104","等我走後，這座島就是真正的，只屬於 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的無人島了！"
+119,"TEXT_AKTKUA101_04643_TATARU_000_104","等我走後，這座島就是真正的，只屬於<Highlight>ObjectParameter(1)</Highlight>的無人島了！"
 120,"TEXT_AKTKUA101_04643_TATARU_000_105","在這裡自由開拓，隨意散步，
 過上隨心所欲的慢節奏生活吧！"
 121,"TEXT_AKTKUA101_04643_CATEARSMAMMET_000_106","等你準備好了，就跟我說一聲，
 我會從最基礎的開拓知識開始教你喵！"
 122,"TEXT_AKTKUA101_04643_SYSTEM_000_150","如果你的小隊成員、部隊成員或好友已擁有自己的島，
-你可以透過和莫拉比造船廠的巴爾丁對話前往。"
+你可以通過和莫拉比造船廠的巴爾丁對話前往。"
 123,"TEXT_AKTKUA101_04643_SYSTEM_000_151","但在島上沒有人或已有15人，
 以及島主禁止進入的情況下，
 無法進入該島。"
-124,"TEXT_AKTKUA101_04643_SYSTEM_100_151","除此以外，與島主來自不同主世界的玩家
-無法前往其他世界拜訪好友的小島。"
+124,"TEXT_AKTKUA101_04643_SYSTEM_100_151","除此以外，與島主來自不同原始伺服器的玩家
+無法前往其他伺服器拜訪好友的小島。"
 125,"TEXT_AKTKUA101_04643_SYSTEM_000_152","如果想要邀請小隊成員、部隊成員或好友進入自己的島，
 需要將島開拓到一定程度。"

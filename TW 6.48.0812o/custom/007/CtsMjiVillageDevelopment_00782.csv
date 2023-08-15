@@ -27,7 +27,7 @@ int32,str,str
 在此之前，你還需要收集一些開拓用具和我們的夥伴。"
 16,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU5_120_006","鑿開這面山壁之後，就能擴大據點了。
 在此之前，你還需要收集一些開拓用具和我們的夥伴。"
-17,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_200_000","你好呀！歡迎歡迎！
+17,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_200_000","你好呀！歡迎你來玩！
 希望你在島上玩得開心！"
 18,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_000","我聽貓耳小員說了！
 要開始準備整理新的土地嗎？"
@@ -35,8 +35,8 @@ int32,str,str
 20,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_021_000","趕緊開放吧！"
 21,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_Q1_021_005","現在先算了"
 22,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_005","好！我這就開始整理土地！"
-23,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_010","明白，等你什麼時候想要開墾土地，
-再來找我吧！"
+23,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_021_010","明白，我會一直在這裡等你的。
+你有需要時再來找我吧。"
 24,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_000","呼……雖然花了一些功夫，但是土地擴大完成啦！
 如果你希望進一步擴大據點，就需要使用謝爾達萊青船幣
 讓其他的魔法人偶來幫忙！"
@@ -44,7 +44,7 @@ int32,str,str
 這兩片土地，你可以挑喜歡的一邊建造開拓工房。
 先來造一座建築物試試吧！"
 26,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_010","建造開拓工房需要石灰岩，
-你用現有的道具是沒辦法採集石灰岩的。
+你用現有的道具是沒法採集石灰岩的。
 我們來做一把開拓用石錘吧！"
 27,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_022_015","只要有了開拓用石錘，
 就能收集到開拓工房所需的全部建材啦！
@@ -53,7 +53,7 @@ int32,str,str
 因為你開拓了土地，擴大了開拓據點，
 所以現在這裡可以容納寵物們在這裡玩耍啦！"
 29,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_000","學會開拓用石錘的開拓製作配方了！
-使用開拓用石錘可用於擊碎岩石獲得石材。"
+使用開拓用石錘可用於擊碎岩石獲取石材。"
 30,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_022_005","可以放養寵物了！
 在開拓管理面板切換至管理寵物，
 即可將你擁有的寵物放養至開拓據點內活動。"
@@ -72,7 +72,7 @@ int32,str,str
 有了開拓工房，我的魔法人偶同伴們
 就可以在這裡用收集到的開拓素材製作海島產品啦！"
 37,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_005","我們做出來的海島產品，
-可以透過群島貿易賣出去賺取謝爾達萊青船幣！
+可以通過群島貿易賣出去賺取謝爾達萊青船幣！
 做更多的海島產品！賺大錢！"
 38,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_KAITAKU1_025_010","啊！對了！
 這一次是情況特殊，特地趕工造好了房子，
@@ -83,7 +83,7 @@ int32,str,str
 40,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_005","今後，建造開拓工房一類的建築物時，
 均需要等待一定的時間（地球時間）。"
 41,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_010","還有，除了小島木屋以外的建築物，
-均可以透過管理板上的搬遷選項移動到別處。"
+均可以通過管理板上的搬遷選項移動到別處。"
 42,"TEXT_CTSMJIVILLAGEDEVELOPMENT_00782_SYSTEM_025_015","開拓等級的上限提升了！
 提升開拓等級即可學會新的開拓製作配方，
 或能夠建造新的建築物。"

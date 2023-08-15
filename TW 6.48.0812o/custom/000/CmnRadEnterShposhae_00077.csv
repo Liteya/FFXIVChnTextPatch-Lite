@@ -19,7 +19,7 @@ int32,str,str
 等級達到19級以上的玩家在攻略此任務時將視為18級。"
 9,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_9","在留有戰利品的狀態下離開「沙斯塔夏溶洞」的話，
 戰利品中的道具會自動轉移到背包裡。
-請注意：無法獲得的道具會自動丟棄。"
+請注意：無法獲取的道具會自動丟棄。"
 10,"TEXT_CMNRADENTERSHPOSHAE_00077_Q2_1","要開始「天然要害沙斯塔夏溶洞」嗎？"
 11,"TEXT_CMNRADENTERSHPOSHAE_00077_A2_1","是"
 12,"TEXT_CMNRADENTERSHPOSHAE_00077_A2_2","否"

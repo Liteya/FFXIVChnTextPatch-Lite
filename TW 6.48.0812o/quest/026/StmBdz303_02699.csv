@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ303_02699_SEQ_21",""
 22,"TEXT_STMBDZ303_02699_SEQ_22",""
 23,"TEXT_STMBDZ303_02699_SEQ_23",""
-24,"TEXT_STMBDZ303_02699_TODO_00","從<Sheet(BNpcName,5747,0)/>身上獲得<Sheet(EventItem,2002275,0)/>"
+24,"TEXT_STMBDZ303_02699_TODO_00","從<Sheet(BNpcName,5747,0)/>身上獲取<Sheet(EventItem,2002275,0)/>"
 25,"TEXT_STMBDZ303_02699_TODO_01","將<Sheet(EventItem,2002275,0)/>交給峰"
 26,"TEXT_STMBDZ303_02699_TODO_02",""
 27,"TEXT_STMBDZ303_02699_TODO_03",""
@@ -64,9 +64,9 @@ int32,str,str
 52,"TEXT_STMBDZ303_02699_MINE_000_010","順利收集到<Sheet(EventItem,2002275,0)/>了嗎？"
 53,"TEXT_STMBDZ303_02699_MINE_000_011","嘿嘿，這樣暫時就不會缺少飲用水了。
 只要有了這個核心，就可以把海水過濾成淡水。
-就算我們住在海裡，也沒辦法喝海水。"
+就算我們住在海裡，也沒法喝海水。"
 54,"TEXT_STMBDZ303_02699_MINE_000_012","本來採集核心應該是強壯的男人們的工作……
 然而最近，甲人族開始蠢蠢欲動了起來……
-我們變得沒辦法接近那裡，非常困擾啊。"
+我們變得沒法接近那裡，非常困擾啊。"
 55,"TEXT_STMBDZ303_02699_MINE_000_013","來，這是約好的報酬。
 謝謝你幫我們籌集到了生活必需品。"

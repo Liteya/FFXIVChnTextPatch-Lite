@@ -3,9 +3,9 @@
 int32,str,str
 0,"TEXT_BANKOB308_01371_SEQ_00","第789洞穴團採礦地的第789團清潔工博布，很在意同伴的情況。"
 1,"TEXT_BANKOB308_01371_SEQ_01","第789團清潔工博布委託冒險者幫助第789團輔祭巴戈。在第789洞穴團採礦地，向第789團輔祭巴戈詢問詳情。"
-2,"TEXT_BANKOB308_01371_SEQ_02","第789團輔祭巴戈委託冒險者獲得<Sheet(EventItem,2001217,0)/>和<Sheet(EventItem,2001218,0)/>。前往武伽瑪羅武裝礦山，討伐<Sheet(BNpcName,2522,0)/>和<Sheet(BNpcName,1836,0)/>各2隻，再從出現的<Sheet(BNpcName,2714,0)/>和<Sheet(BNpcName,2713,0)/>身上獲得<Sheet(EventItem,2001217,0)/>和<Sheet(EventItem,2001218,0)/>。"
+2,"TEXT_BANKOB308_01371_SEQ_02","第789團輔祭巴戈委託冒險者獲取<Sheet(EventItem,2001217,0)/>和<Sheet(EventItem,2001218,0)/>。前往武伽瑪羅武裝礦山，討伐<Sheet(BNpcName,2522,0)/>和<Sheet(BNpcName,1836,0)/>各2隻，再從出現的<Sheet(BNpcName,2714,0)/>和<Sheet(BNpcName,2713,0)/>身上獲取<Sheet(EventItem,2001217,0)/>和<Sheet(EventItem,2001218,0)/>。"
 3,"TEXT_BANKOB308_01371_SEQ_03","獲得了<Sheet(EventItem,2001217,0)/>和<Sheet(EventItem,2001218,0)/>。將<Sheet(EventItem,2001217,0)/>和<Sheet(EventItem,2001218,0)/>交給第789洞穴團採礦地的第789團清潔工博布。"
-4,"TEXT_BANKOB308_01371_SEQ_04","將第789團輔祭巴戈需要的物品交給了第789團清潔工博布。不管事情的真相如何，第789團清潔工博布看來確實蠻熱心的。為了讓他真正幫助到同伴，今後也熱心地協助他。"
+4,"TEXT_BANKOB308_01371_SEQ_04","將第789團輔祭巴戈需要的物品交給了第789團清潔工博布。不管事情的真相如何，第789團清潔工博布看來確實挺熱心的。為了讓他真正幫助到同伴，今後也熱心地協助他。"
 5,"TEXT_BANKOB308_01371_SEQ_05",""
 6,"TEXT_BANKOB308_01371_SEQ_06",""
 7,"TEXT_BANKOB308_01371_SEQ_07",""
@@ -27,9 +27,9 @@ int32,str,str
 23,"TEXT_BANKOB308_01371_SEQ_23",""
 24,"TEXT_BANKOB308_01371_TODO_00","和第789團輔祭巴戈對話"
 25,"TEXT_BANKOB308_01371_TODO_01","討伐2隻<Sheet(BNpcName,2522,0)/>
-從出現的<Sheet(BNpcName,2714,0)/>身上獲得<Sheet(EventItem,2001217,0)/>"
+從出現的<Sheet(BNpcName,2714,0)/>身上獲取<Sheet(EventItem,2001217,0)/>"
 26,"TEXT_BANKOB308_01371_TODO_02","討伐2隻<Sheet(BNpcName,1836,0)/>
-從出現的<Sheet(BNpcName,2713,0)/>身上獲得<Sheet(EventItem,2001218,0)/>"
+從出現的<Sheet(BNpcName,2713,0)/>身上獲取<Sheet(EventItem,2001218,0)/>"
 27,"TEXT_BANKOB308_01371_TODO_03","將炸彈的材料交給第789團清潔工博布"
 28,"TEXT_BANKOB308_01371_TODO_04",""
 29,"TEXT_BANKOB308_01371_TODO_05",""
@@ -79,13 +79,13 @@ int32,str,str
 58,"TEXT_BANKOB308_01371_BAGO_000_015","你去打倒 那些傢伙
 就能引出 <Sheet(BNpcName,2714,0)/>和<Sheet(BNpcName,2713,0)/>
 它們身上 有人家要的材料……那就拜託了……嘿嘿嘿。"
-59,"TEXT_BANKOB308_01371_BAGO_000_020","（★未使用／削除予定★）"
-60,"TEXT_BANKOB308_01371_BAGO_000_021","（★未使用／削除予定★）"
-61,"TEXT_BANKOB308_01371_BAGO_000_022","（★未使用／削除予定★）"
+59,"TEXT_BANKOB308_01371_BAGO_000_020","（★未使用／預定刪除★）"
+60,"TEXT_BANKOB308_01371_BAGO_000_021","（★未使用／預定刪除★）"
+61,"TEXT_BANKOB308_01371_BAGO_000_022","（★未使用／預定刪除★）"
 62,"TEXT_BANKOB308_01371_BOBU_000_030","怎麼樣了？
 你幫巴戈 解決問題了嗎？"
 63,"TEXT_BANKOB308_01371_BOBU_000_031","這 這是……我 我當然知道了！
-我對這個 超級瞭解的！
+我對這個 超級了解的！
 這 這就是十分珍貴的……"
 64,"TEXT_BANKOB308_01371_BOBU_000_032","總 總之……
 我會負責 把這東西交給巴戈的！辛苦你了！
@@ -95,4 +95,4 @@ int32,str,str
 他應該 更加坦誠地向我求助嘛。"
 66,"TEXT_BANKOB308_01371_POPMESSAGE_000_000","<Sheet(BNpcName,2714,0)/>出現了！"
 67,"TEXT_BANKOB308_01371_POPMESSAGE_000_001","<Sheet(BNpcName,2713,0)/>出現了！"
-68,"TEXT_BANKOB308_01371_POP_MESSAGE","（★未使用／削除予定★）"
+68,"TEXT_BANKOB308_01371_POP_MESSAGE","（★未使用／預定刪除★）"

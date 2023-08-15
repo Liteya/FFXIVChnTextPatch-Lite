@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC801_01025_SEQ_00","拂曉血盟的拉德爾夫，有件事想要委託給冒險者。"
-1,"TEXT_GAIUSC801_01025_SEQ_01","一定要牽制住魚人族的行動。和骷髏谷營地的黑渦團團員法爾克布瑞達對話。"
+1,"TEXT_GAIUSC801_01025_SEQ_01","必須要牽制住魚人族的行動。和骷髏谷營地的黑渦團團員法爾克布瑞達對話。"
 2,"TEXT_GAIUSC801_01025_SEQ_02","法爾克布瑞達對冒險者的協助表示了感謝。不知牽制魚人族是個怎樣的作戰。"
 3,"TEXT_GAIUSC801_01025_SEQ_03",""
 4,"TEXT_GAIUSC801_01025_SEQ_04",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_GAIUSC801_01025_TODO_21",""
 46,"TEXT_GAIUSC801_01025_TODO_22",""
 47,"TEXT_GAIUSC801_01025_TODO_23",""
-48,"TEXT_GAIUSC801_01025_RADOLF_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有件事想拜託你。
+48,"TEXT_GAIUSC801_01025_RADOLF_000_000","<Highlight>ObjectParameter(1)</Highlight>，我有件事想拜託你。
 你能幫我牽制住魚人族的行動嗎？"
 49,"TEXT_GAIUSC801_01025_RADOLF_000_001","為以後能專心解決拂曉血盟所面臨的問題，
 我想先了結掉這些後顧之憂。"

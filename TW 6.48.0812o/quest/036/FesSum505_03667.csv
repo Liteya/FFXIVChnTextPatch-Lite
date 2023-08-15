@@ -3,14 +3,14 @@
 int32,str,str
 0,"TEXT_FESSUM505_03667_SEQ_00","※本任務是特定期間內的任務。
 
-太陽海岸的紅蓮祭釣魚負責人嘉．喃歌正在等待著釣魚大會的參加者。"
+太陽海岸的紅蓮節釣魚負責人嘉·喃歌正在等待著釣魚大會的參加者。"
 1,"TEXT_FESSUM505_03667_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-聽嘉．喃歌講解釣魚大會的規則，並提出釣來3條<Sheet(EventItem,2002869,0)/>的要求。<Sheet(EventItem,2002869,0)/>可從永夏島北釣得。"
-2,"TEXT_FESSUM505_03667_SEQ_02","釣到<Sheet(EventItem,2002869,0)/>了。把3條<Sheet(EventItem,2002869,0)/>交給在太陽海岸的紅蓮祭釣魚負責人嘉．喃歌。"
-3,"TEXT_FESSUM505_03667_SEQ_03","將<Sheet(EventItem,2002869,0)/>交給了嘉．喃歌。為了炒熱紅蓮祭的氣氛，可再度參加釣魚大會。"
+聽嘉·喃歌講解釣魚大會的規則，並提出釣來3條<Sheet(EventItem,2002869,0)/>的要求。<Sheet(EventItem,2002869,0)/>可從永夏島北釣得。"
+2,"TEXT_FESSUM505_03667_SEQ_02","釣到<Sheet(EventItem,2002869,0)/>了。把3條<Sheet(EventItem,2002869,0)/>交給在太陽海岸的紅蓮節釣魚負責人嘉·喃歌。"
+3,"TEXT_FESSUM505_03667_SEQ_03","將<Sheet(EventItem,2002869,0)/>交給了嘉·喃歌。為了炒熱紅蓮節的氣氛，可再度參加釣魚大會。"
 4,"TEXT_FESSUM505_03667_SEQ_04",""
 5,"TEXT_FESSUM505_03667_SEQ_05",""
 6,"TEXT_FESSUM505_03667_SEQ_06",""
@@ -32,7 +32,7 @@ int32,str,str
 22,"TEXT_FESSUM505_03667_SEQ_22",""
 23,"TEXT_FESSUM505_03667_SEQ_23",""
 24,"TEXT_FESSUM505_03667_TODO_00","在永夏島北釣上<Sheet(EventItem,2002869,0)/>"
-25,"TEXT_FESSUM505_03667_TODO_01","將<Sheet(EventItem,2002869,0)/>交給紅蓮祭釣魚負責人嘉．喃歌"
+25,"TEXT_FESSUM505_03667_TODO_01","將<Sheet(EventItem,2002869,0)/>交給紅蓮節釣魚負責人嘉·喃歌"
 26,"TEXT_FESSUM505_03667_TODO_02",""
 27,"TEXT_FESSUM505_03667_TODO_03",""
 28,"TEXT_FESSUM505_03667_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 45,"TEXT_FESSUM505_03667_TODO_21",""
 46,"TEXT_FESSUM505_03667_TODO_22",""
 47,"TEXT_FESSUM505_03667_TODO_23",""
-48,"TEXT_FESSUM505_03667_JNANGHO_000_000","哎呀，歡迎你來參加紅蓮祭！"
+48,"TEXT_FESSUM505_03667_JNANGHO_000_000","哎呀，歡迎你來參加紅蓮節！"
 49,"TEXT_FESSUM505_03667_JNANGHO_000_001","這裡是為了展現冒險者釣魚技巧，
 而舉辦的釣魚大會！"
 50,"TEXT_FESSUM505_03667_JNANGHO_000_002","規則很簡單！

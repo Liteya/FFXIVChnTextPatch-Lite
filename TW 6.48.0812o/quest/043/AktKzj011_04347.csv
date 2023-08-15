@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_AKTKZJ011_04347_SEQ_21",""
 22,"TEXT_AKTKZJ011_04347_SEQ_22",""
 23,"TEXT_AKTKZJ011_04347_SEQ_23",""
-24,"TEXT_AKTKZJ011_04347_TODO_00","從<Sheet(BNpcName,10432,0)/>身上獲得<Sheet(EventItem,2003255,0)/>"
+24,"TEXT_AKTKZJ011_04347_TODO_00","從<Sheet(BNpcName,10432,0)/>身上獲取<Sheet(EventItem,2003255,0)/>"
 25,"TEXT_AKTKZJ011_04347_TODO_01","將<Sheet(EventItem,2003255,0)/>交給尋求肉體的異亞"
 26,"TEXT_AKTKZJ011_04347_TODO_02",""
 27,"TEXT_AKTKZJ011_04347_TODO_03",""
@@ -55,15 +55,15 @@ int32,str,str
 但因為對肉體缺少正確的認知而失敗了。"
 49,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_001","而使用失敗的再賦肉身創造出來的，
 就是如今在村外徘徊的<Sheet(BNpcName,10432,0)/>們。
-能請你打倒2隻可憐的同胞，將其核心帶回來嗎？"
+能請你打倒2隻可憐的同胞，將其內核帶回來嗎？"
 50,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_002","非常感謝，畢竟憑我們是無法將其打倒的……
 那就拜託了。"
 51,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_003","請打倒2隻在村外徘徊的可憐的<Sheet(BNpcName,10432,0)/>，
-並獲得<Sheet(EventItem,2003255,0)/>。
+並獲取<Sheet(EventItem,2003255,0)/>。
 拜託了。"
 52,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_010","拿到<Sheet(EventItem,2003255,0)/>了嗎？
 拿到的話就交給我吧。"
-53,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_011","嗯，確實是可憐同族的核心。
+53,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_011","嗯，確實是可憐同族的內核。
 只要對其進行調查，分析失敗的原因，
 相信就可以對再賦肉身進行改良了。"
 54,"TEXT_AKTKZJ011_04347_SEEKINGTHEBODY04347_000_012","呵呵……感覺已經很久沒有像這樣專注於某事了。

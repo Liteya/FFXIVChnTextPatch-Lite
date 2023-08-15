@@ -6,8 +6,8 @@ int32,str,str
 1,"TEXT_BANVAN403_02191_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-穆納瓦努想要借助冒險者的力量提升袞杜族的地位。和西風島的群雲利努瓦努對話。"
-2,"TEXT_BANVAN403_02191_SEQ_02","利努瓦努委託冒險者去恐怖的瓦魔蛾的棲息地採集<Sheet(EventItem,2001918,0)/>。前往尊杜集落的南邊，獲得4個<Sheet(EventItem,2001918,0)/>。"
+穆納瓦努想要藉助冒險者的力量提升袞杜族的地位。和西風島的群雲利努瓦努對話。"
+2,"TEXT_BANVAN403_02191_SEQ_02","利努瓦努委託冒險者去恐怖的瓦魔蛾的棲息地採集<Sheet(EventItem,2001918,0)/>。前往尊杜集落的南邊，獲取4個<Sheet(EventItem,2001918,0)/>。"
 3,"TEXT_BANVAN403_02191_SEQ_03","獲得了<Sheet(EventItem,2001918,0)/>。將<Sheet(EventItem,2001918,0)/>交給西風島的群雲利努瓦努。"
 4,"TEXT_BANVAN403_02191_SEQ_04","將<Sheet(EventItem,2001918,0)/>交給了利努瓦努。他下決心要用蟲繭織出讓溫杜族退讓三分的豪華衣服。作為謝禮，他差點把繭中的幼蟲送給冒險者……下次一定要在他開口前就拒絕他。"
 5,"TEXT_BANVAN403_02191_SEQ_05",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANVAN403_02191_SEQ_22",""
 23,"TEXT_BANVAN403_02191_SEQ_23",""
 24,"TEXT_BANVAN403_02191_TODO_00","和群雲利努瓦努對話"
-25,"TEXT_BANVAN403_02191_TODO_01","獲得<Sheet(EventItem,2001918,0)/>"
+25,"TEXT_BANVAN403_02191_TODO_01","獲取<Sheet(EventItem,2001918,0)/>"
 26,"TEXT_BANVAN403_02191_TODO_02","將<Sheet(EventItem,2001918,0)/>交給群雲利努瓦努"
 27,"TEXT_BANVAN403_02191_TODO_03",""
 28,"TEXT_BANVAN403_02191_TODO_04",""
@@ -72,13 +72,13 @@ int32,str,str
 一般人還真不是它的對手。
 對你來說也許有點簡單了，不過還是拜託你了。"
 56,"TEXT_BANVAN403_02191_02191_LINUVANU_000_050","我拜託你的事已經完成了嗎？
-如果沒有<Sheet(EventItem,2001918,0)/>就沒辦法開始工作……"
+如果沒有<Sheet(EventItem,2001918,0)/>就沒法開始工作……"
 57,"TEXT_BANVAN403_02191_02191_LINUVANU_000_051","這真是、這真是美麗的<Sheet(EventItem,2001918,0)/>。
 如浮島的岩石般沉重，如天上的雲朵般潔白，
 如夜空中的月亮一般充滿了光澤！"
 58,"TEXT_BANVAN403_02191_02191_LINUVANU_000_052","只要有了它，就能紡織出華美的絹布，
 做出提升我大袞杜威嚴的衣服啦！
 即使是那冷酷的溫杜族想必也會對我們退讓三分。"
-59,"TEXT_BANVAN403_02191_02191_LINUVANU_000_053","多謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+59,"TEXT_BANVAN403_02191_02191_LINUVANU_000_053","多謝你，<Highlight>ObjectParameter(1)</Highlight>，
 請收下我這份誠摯的謝禮……
 對了，繭裡的幼蟲你要嗎？可好吃了……"

@@ -7,10 +7,10 @@ int32,str,str
 3,"TEXT_CLSTHM200_00351_SEQ_03","調查咒術師的屍體，尋找魔力強盜的線索。"
 4,"TEXT_CLSTHM200_00351_SEQ_04","從調查的屍體上發現了沾有血跡的咒杖、被撕裂的古書和沾有血跡的手鐲。將這些交給可可布希。"
 5,"TEXT_CLSTHM200_00351_SEQ_05","根據可可布希的推測，犯人可能還在附近。在指定地點等待魔力強盜的出現。"
-6,"TEXT_CLSTHM200_00351_SEQ_06","透過和強壯的劍術師默契的配合，討伐了所有的小魔精。向可可布希報告。"
+6,"TEXT_CLSTHM200_00351_SEQ_06","通過和強壯的劍術師默契的配合，討伐了所有的小魔精。向可可布希報告。"
 7,"TEXT_CLSTHM200_00351_SEQ_07","可可布希說還有一隻小魔精逃跑了。為了討伐逃跑的小魔精，往西南方向前進，調查洞窟內奇怪的石陰。"
 8,"TEXT_CLSTHM200_00351_SEQ_08","向咒術師公會的可可博哈報告試煉結果。"
-9,"TEXT_CLSTHM200_00351_SEQ_09","可可博哈告訴冒險者，透過這次試煉，«咒術的深淵»的學習就此結束。不過，可可布奇的樣子有些奇怪。去詢問下。"
+9,"TEXT_CLSTHM200_00351_SEQ_09","可可博哈告訴冒險者，通過這次試煉，«咒術的深淵»的學習就此結束。不過，可可布奇的樣子有些奇怪。去詢問下。"
 10,"TEXT_CLSTHM200_00351_SEQ_10","可可布奇因可可布希被妖異所附身而有所動搖。他需要時間好好靜一靜。
 
 ※咒術師的等級達到25級以上時，
@@ -30,7 +30,7 @@ int32,str,str
 23,"TEXT_CLSTHM200_00351_SEQ_23",""
 24,"TEXT_CLSTHM200_00351_TODO_00","和可可博哈對話"
 25,"TEXT_CLSTHM200_00351_TODO_01","和豐饒神井的可可布希對話"
-26,"TEXT_CLSTHM200_00351_TODO_02","調查咒術師的屍體 獲得證據"
+26,"TEXT_CLSTHM200_00351_TODO_02","調查咒術師的屍體 獲取證據"
 27,"TEXT_CLSTHM200_00351_TODO_03","將咒術師的遺物交給可可布希"
 28,"TEXT_CLSTHM200_00351_TODO_04","在指定地點等待"
 29,"TEXT_CLSTHM200_00351_TODO_05","和可可布希對話"
@@ -52,10 +52,10 @@ int32,str,str
 45,"TEXT_CLSTHM200_00351_TODO_21",""
 46,"TEXT_CLSTHM200_00351_TODO_22",""
 47,"TEXT_CLSTHM200_00351_TODO_23",""
-48,"TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_TITLE","クエスト「呪術クエスト200」のバトルを開始しますか？"
+48,"TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_TITLE","要開始「呪術クエスト200」的戰鬥嗎？"
 49,"TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_YES","是"
 50,"TEXT_CLSTHM200_00351_SCENE00019_INSTANCE_BATTLE_YESNO_NO","否"
-51,"TEXT_CLSTHM200_00351_COCOBUKI_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！你平安無事啊！
+51,"TEXT_CLSTHM200_00351_COCOBUKI_000_001","<Highlight>ObjectParameter(1)</Highlight>！你平安無事啊！
 最近經常發生魔力強盜所引起的離奇死亡事件。
 我正為你擔心呢！"
 52,"TEXT_CLSTHM200_00351_COCOBUKI_000_003","犧牲者全部都是咒術師，死因都是因為魔力枯竭。
@@ -63,7 +63,7 @@ int32,str,str
 53,"TEXT_CLSTHM200_00351_COCOBUKI_000_005","總之你平安無事就好。
 今天由老五可可博哈來教你«咒術的深淵»的最終章……
 去學習「圍困之危」吧。"
-54,"TEXT_CLSTHM200_00351_COCOBOHA_000_010","啊哈哈！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+54,"TEXT_CLSTHM200_00351_COCOBOHA_000_010","啊哈哈！<Highlight>ObjectParameter(1)</Highlight>。
 終於輪到我來教你了。
 我現在就為你讀一遍「圍困之危」吧！"
 55,"TEXT_CLSTHM200_00351_COCOBOHA_000_011","「咒術的深淵：圍困之危」
@@ -78,23 +78,23 @@ int32,str,str
 58,"TEXT_CLSTHM200_00351_COCOBOHA_000_017","所以這次呢，請你帶著一名肉盾……不對……
 是請你帶著一名同伴一起進行試煉……"
 59,"TEXT_CLSTHM200_00351_COCOBUSI_000_018","可可博哈哥哥，請讓我也來幫忙吧！
-我以前也協助過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 進行試煉呢！"
+我以前也協助過<Highlight>ObjectParameter(1)</Highlight>進行試煉呢！"
 60,"TEXT_CLSTHM200_00351_COCOBUSI_000_019","在豐饒神井發現了數具咒術師的屍體，
 看起來又像是受那魔力強盜所害。
-為了儘早將犯人繩之以法，現在正需要 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的力量！"
+為了盡早將犯人繩之以法，現在正需要<Highlight>ObjectParameter(1)</Highlight>的力量！"
 61,"TEXT_CLSTHM200_00351_COCOBOHA_000_020","啊哈哈！小可可布希。
-聽說你先前干預了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的試煉，
+聽說你先前干預了<Highlight>ObjectParameter(1)</Highlight>的試煉，
 不過，這次你可幫不上忙的。"
 62,"TEXT_CLSTHM200_00351_COCOBUSI_000_021","沒關係，我有個厲害的劍術師朋友。
-我把那個人介紹給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 不就可以了？"
+我把那個人介紹給<Highlight>ObjectParameter(1)</Highlight>不就可以了？"
 63,"TEXT_CLSTHM200_00351_COCOBOHA_000_022","啊哈哈！有趣有趣！
-讓那個人與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 合作的話，
+讓那個人與<Highlight>ObjectParameter(1)</Highlight>合作的話，
 正好符合「圍困之危」的試煉內容。"
-64,"TEXT_CLSTHM200_00351_COCOBUSI_000_023","好嘞， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+64,"TEXT_CLSTHM200_00351_COCOBUSI_000_023","好嘞，<Highlight>ObjectParameter(1)</Highlight>。
 趁哥哥還沒改變主意之前，我們趕緊出發吧。
 我先去豐饒神井那裡等你了呀。"
 65,"TEXT_CLSTHM200_00351_COCOBUKI_000_024","可可布希……怎麼回事？"
-66,"TEXT_CLSTHM200_00351_COCOBUSI_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，來得還蠻快嘛！
+66,"TEXT_CLSTHM200_00351_COCOBUSI_000_030","<Highlight>ObjectParameter(1)</Highlight>，來得還挺快嘛！
 旁邊的那個魯加族大個子就是我的劍術師朋友！"
 67,"TEXT_CLSTHM200_00351_COCOBUSI_000_032","在豐饒神井那邊有數具淒慘的咒術師的屍體。
 感覺有點髒髒的，我不想碰！
@@ -107,7 +107,7 @@ int32,str,str
 71,"TEXT_CLSTHM200_00351_COCOBUSI_000_041","嘻嘻……每件物品的血都沒有乾透。
 看來事件發生沒多久啊。"
 72,"TEXT_CLSTHM200_00351_COCOBUSI_000_042","犯人一定就在附近！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你去那些屍體附近等待。
+<Highlight>ObjectParameter(1)</Highlight>，請你去那些屍體附近等待。
 受你的魔力所吸引，魔力強盜定會出現！"
 73,"TEXT_CLSTHM200_00351_COCOBUSI_000_215","請你去那些屍體附近等待。
 受你的魔力所吸引，魔力強盜定會出現！"
@@ -127,7 +127,7 @@ int32,str,str
 而是依附在可可布希身上的妖異。
 它從茉門之壺逃出，奪取咒術師的魔力並將其殺害。"
 79,"TEXT_CLSTHM200_00351_SUCCUBUS_000_102","嘻嘻嘻嘻嘻。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的魔力看起來很美味啊。
+<Highlight>ObjectParameter(1)</Highlight>的魔力看起來很美味啊。
 自從第一眼看到的時候，我就垂涎欲滴了。"
 80,"TEXT_CLSTHM200_00351_SUCCUBUS_000_103","差一點就能成功了，真可惜啊……
 沒想到會被你給發現了。"
@@ -149,7 +149,7 @@ int32,str,str
 87,"TEXT_CLSTHM200_00351_COCOBUKI_000_112","你還沒向可可博哈報告試煉結果吧？
 先回咒術師公會一趟吧。
 我需要……冷靜一下。"
-88,"TEXT_CLSTHM200_00351_COCOBOHA_000_120","你回來啦！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+88,"TEXT_CLSTHM200_00351_COCOBOHA_000_120","你回來啦！<Highlight>ObjectParameter(1)</Highlight>！
 我聽可可布奇哥哥說了！
 雖然讓魔力強盜逃跑了，但你和劍術師的配合十分完美！"
 89,"TEXT_CLSTHM200_00351_COCOBOHA_000_122","既然哥哥都這麼說了，那就是沒有問題了。
@@ -164,7 +164,7 @@ int32,str,str
 那可是風險最低的勝利。
 但是……"
 93,"TEXT_CLSTHM200_00351_COCOBUKI_000_142","……那個妖異茉門，
-應該暫時不會有所行動。
+估計暫時不會有所行動。
 畢竟事情敗露了，它應該會轉移地點。"
 94,"TEXT_CLSTHM200_00351_COCOBUKI_000_143","不好意思……
 請讓我先靜一靜。"

@@ -54,7 +54,7 @@ int32,str,str
 49,"TEXT_STMBDY403_02612_RODNEY_100_000","調查隊決定將據點所在的這一區域命名為「湧火地帶」。
 這個區域越往深處火屬性之力就會變得越強。"
 50,"TEXT_STMBDY403_02612_RODNEY_000_001","你要是準備好了，就前往湧火地帶的據點，
-與先出發的可露兒小姐會合吧！"
+與先出發的可露兒小姐匯合吧！"
 51,"TEXT_STMBDY403_02612_SYSTEM_000_010","和「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」相同，
 從單人最多到滿編小隊（8人），
 可以以任意人數挑戰「<Sheet(ContentFinderCondition,IntegerParameter(2),41)/>」了。"

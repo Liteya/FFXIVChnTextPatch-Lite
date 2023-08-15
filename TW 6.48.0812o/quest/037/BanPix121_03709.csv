@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANPIX121_03709_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-群花館的烏因．尼伊想實現鼴靈族孩子的夢想。"
+群花館的烏因·尼伊想實現鼴靈族孩子的夢想。"
 1,"TEXT_BANPIX121_03709_SEQ_01",""
 2,"TEXT_BANPIX121_03709_SEQ_02",""
 3,"TEXT_BANPIX121_03709_SEQ_03",""
@@ -29,8 +29,8 @@ int32,str,str
 22,"TEXT_BANPIX121_03709_SEQ_22",""
 23,"TEXT_BANPIX121_03709_SEQ_23",""
 24,"TEXT_BANPIX121_03709_TODO_00","在群花館北邊的<Sheet(EObj,2010909,0)/>張望
-從出現的<Sheet(BNpcName,9170,0)/>身上獲得<Sheet(EventItem,2002942,0)/>"
-25,"TEXT_BANPIX121_03709_TODO_01","將<Sheet(EventItem,2002942,0)/>交給烏因．尼伊"
+從出現的<Sheet(BNpcName,9170,0)/>身上獲取<Sheet(EventItem,2002942,0)/>"
+25,"TEXT_BANPIX121_03709_TODO_01","將<Sheet(EventItem,2002942,0)/>交給烏因·尼伊"
 26,"TEXT_BANPIX121_03709_TODO_02",""
 27,"TEXT_BANPIX121_03709_TODO_03",""
 28,"TEXT_BANPIX121_03709_TODO_04",""
@@ -60,7 +60,7 @@ int32,str,str
 可是伊爾美格並沒有……"
 50,"TEXT_BANPIX121_03709_UINNEE_000_002","所以，我想對一些彎曲的東西施放魔法，
 把它們變成白蚯蚓！"
-51,"TEXT_BANPIX121_03709_UINNEE_000_003","這樣一想的話，風花的卷鬚正適合！
+51,"TEXT_BANPIX121_03709_UINNEE_000_003","這樣一想的話，風花的卷鬚正合適！
 從這裡往北走就有<Sheet(BNpcName,9170,0)/>，
 去幫我收集<Sheet(EventItem,2002942,0)/>吧！"
 52,"TEXT_BANPIX121_03709_UINNEE_000_010","收集到<Sheet(EventItem,2002942,0)/>了嗎？"

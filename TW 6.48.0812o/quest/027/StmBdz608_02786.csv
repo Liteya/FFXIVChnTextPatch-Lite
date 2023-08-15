@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ608_02786_SEQ_22",""
 23,"TEXT_STMBDZ608_02786_SEQ_23",""
 24,"TEXT_STMBDZ608_02786_TODO_00","和朵塔兒部的年輕人對話"
-25,"TEXT_STMBDZ608_02786_TODO_01","獲得<Sheet(EventItem,2002308,0)/>"
+25,"TEXT_STMBDZ608_02786_TODO_01","獲取<Sheet(EventItem,2002308,0)/>"
 26,"TEXT_STMBDZ608_02786_TODO_02","將<Sheet(EventItem,2002308,0)/>交給賽欽"
 27,"TEXT_STMBDZ608_02786_TODO_03",""
 28,"TEXT_STMBDZ608_02786_TODO_04",""
@@ -92,7 +92,7 @@ int32,str,str
 真是心地善良，和我兒子一模一樣呢。"
 67,"TEXT_STMBDZ608_02786_SECHEN_000_034","你也聽這孩子說了原因吧？
 我是維亞吉兒部的人，所以不太懂轉世，
-不太瞭解他是不是我真正的兒子……"
+不太了解他是不是我真正的兒子……"
 68,"TEXT_STMBDZ608_02786_SECHEN_000_035","不過我能說一句，
 那就是這孩子真的幫了我很多。"
 69,"TEXT_STMBDZ608_02786_FOREIGNER02786_000_036","真是的……母親，這麼難為情的話……

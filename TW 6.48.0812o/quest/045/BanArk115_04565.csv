@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANARK115_04565_TODO_21",""
 46,"TEXT_BANARK115_04565_TODO_22",""
 47,"TEXT_BANARK115_04565_TODO_23",""
-48,"TEXT_BANARK115_04565_MARU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請聽我說……
+48,"TEXT_BANARK115_04565_MARU_000_001","<Highlight>ObjectParameter(1)</Highlight>，請聽我說……
 你知道一種叫星甲蟲的大型蟲類嗎？
 我之前似乎有些小瞧它們了……"
 49,"TEXT_BANARK115_04565_MARU_000_002","最近我在前往桓娑牧場遺址的途中遭到它們的追趕，
@@ -61,13 +61,13 @@ int32,str,str
 害得我差點從車上摔下來……"
 50,"TEXT_BANARK115_04565_MARU_000_003","雖說沒什麼人員損傷，但如果今後再出現類似情況，
 難說貨物會出現什麼差錯……不好意思，
-我想請你前往薰香丘陵北部去驅除幾隻<Sheet(BNpcName,11341,0)/>。"
-51,"TEXT_BANARK115_04565_MARU_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請聽我說……
+我想請你前往熏香丘陵北部去驅除幾隻<Sheet(BNpcName,11341,0)/>。"
+51,"TEXT_BANARK115_04565_MARU_000_004","<Highlight>ObjectParameter(1)</Highlight>，請聽我說……
 你之前不是幫忙驅除過擋道的堅硬蟲類嗎？
 就是那個<Sheet(BNpcName,11341,0)/>……最近數量又增多了。"
 52,"TEXT_BANARK115_04565_MARU_000_005","我有一些需要小心對待的貨物要運送。
 要是再被它們追趕導致河馬失控就不好了……"
-53,"TEXT_BANARK115_04565_MARU_000_006","不好意思，能請你前往薰香丘陵北部去驅除幾隻<Sheet(BNpcName,11341,0)/>嗎？
+53,"TEXT_BANARK115_04565_MARU_000_006","不好意思，能請你前往熏香丘陵北部去驅除幾隻<Sheet(BNpcName,11341,0)/>嗎？
 拜託了……"
 54,"TEXT_BANARK115_04565_MARU_000_020","謝謝你……
 <Sheet(BNpcName,11341,0)/>的數量能夠減少真是太好了……

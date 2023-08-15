@@ -52,18 +52,18 @@ int32,str,str
 45,"TEXT_BANARK116_04566_TODO_21",""
 46,"TEXT_BANARK116_04566_TODO_22",""
 47,"TEXT_BANARK116_04566_TODO_23",""
-48,"TEXT_BANARK116_04566_MARU_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快看。
+48,"TEXT_BANARK116_04566_MARU_000_001","<Highlight>ObjectParameter(1)</Highlight>，快看。
 我從波洛伽護法村的村民那裡得到了貴重的無患子，
 然後我用它製作了河馬專用的肥皂……"
-49,"TEXT_BANARK116_04566_MARU_000_002","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+49,"TEXT_BANARK116_04566_MARU_000_002","啊，<Highlight>ObjectParameter(1)</Highlight>。
 我又從波洛伽護法村的村民那裡得到了無患子，
 所以製作了新的河馬專用的肥皂……"
 50,"TEXT_BANARK116_04566_MARU_000_003","我的同伴為了幫助河馬沐浴，
-已經把它帶到了戴米爾遺烈鄉的河邊……
+已經把它帶到了代米爾遺烈鄉的河邊……
 我想讓你幫忙把這個<Sheet(EventItem,2003401,0)/>帶過去給他。"
 51,"TEXT_BANARK116_04566_HIPPO04566_000_008","嗚哦……"
 52,"TEXT_BANARK116_04566_SYSTEM_000_009","河馬正在舒爽地沐浴著。"
-53,"TEXT_BANARK116_04566_DELIVERER04566_000_010","是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+53,"TEXT_BANARK116_04566_DELIVERER04566_000_010","是<Highlight>ObjectParameter(1)</Highlight>啊。
 有什麼事嗎？"
 54,"TEXT_BANARK116_04566_DELIVERER04566_000_011","哦，你把肥皂帶過來了啊！
 用它給河馬洗澡的話，河馬的心情一定會格外舒暢的。"

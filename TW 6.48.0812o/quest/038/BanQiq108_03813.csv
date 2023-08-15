@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANQIQ108_03813_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-霍啪櫨古盤的柯呫盧利．帕嗦梸，想送東西給維斯族。"
+霍啪櫨古盤的柯呫盧利·帕嗦梸，想送東西給維斯族。"
 1,"TEXT_BANQIQ108_03813_SEQ_01",""
 2,"TEXT_BANQIQ108_03813_SEQ_02",""
 3,"TEXT_BANQIQ108_03813_SEQ_03",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANQIQ108_03813_SEQ_22",""
 23,"TEXT_BANQIQ108_03813_SEQ_23",""
 24,"TEXT_BANQIQ108_03813_TODO_00","將<Sheet(EventItem,2002978,0)/>交給法諾村的維斯族"
-25,"TEXT_BANQIQ108_03813_TODO_01","向柯呫盧利．帕嗦梸報告"
+25,"TEXT_BANQIQ108_03813_TODO_01","向柯呫盧利·帕嗦梸報告"
 26,"TEXT_BANQIQ108_03813_TODO_02",""
 27,"TEXT_BANQIQ108_03813_TODO_03",""
 28,"TEXT_BANQIQ108_03813_TODO_04",""
@@ -56,7 +56,7 @@ int32,str,str
 是雕刻著維斯族肖像的翡翠是也！
 某想將這翡翠作為友好的象徵送給維斯族。"
 49,"TEXT_BANQIQ108_03813_QHOTERLPASOL_100_001","不過，比起某等直接送翡翠過去，
-不如由隆卡的同盟者—— <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 爾送去，
+不如由隆卡的同盟者——<Highlight>ObjectParameter(1)</Highlight>爾送去，
 這樣維斯族的各位才更容易收下吧是也。"
 50,"TEXT_BANQIQ108_03813_QHOTERLPASOL_000_001","請代替某等，將這3個<Sheet(EventItem,2002978,0)/>，
 送給法諾村的各位是也。"
@@ -75,7 +75,7 @@ int32,str,str
 56,"TEXT_BANQIQ108_03813_OLMET_000_050","這好像是隆卡時代，
 為紀念我們與奇塔利族的友誼而製作的裝飾品。"
 57,"TEXT_BANQIQ108_03813_OLMET_000_051","維斯族的周圍，雕刻著象徵著永恆的漩渦標記。
-一定是希望我們之間的友誼能像漩渦一樣永遠長存。"
+肯定是希望我們之間的友誼能像漩渦一樣永遠長存。"
 58,"TEXT_BANQIQ108_03813_OLMET_000_052","嗯，是一件有著歷史意義的裝飾品呢！
 得謝謝奇塔利族的各位才行。"
 59,"TEXT_BANQIQ108_03813_OLMET_000_060","竟然能再次拿到這樣的裝飾品！

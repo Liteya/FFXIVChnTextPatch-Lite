@@ -53,12 +53,12 @@ int32,str,str
 45,"TEXT_BANKJN301_02979_TODO_21",""
 46,"TEXT_BANKJN301_02979_TODO_22",""
 47,"TEXT_BANKJN301_02979_TODO_23",""
-48,"TEXT_BANKJN301_02979_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，不好啦！
+48,"TEXT_BANKJN301_02979_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，不好啦！
 我正在搬運給東阿爾迪納德商會的商品時，
 紅甲族就突然打了過來！"
 49,"TEXT_BANKJN301_02979_ZUKIN_000_001","還好總算商品是守住了，
 但是讓那幫掠奪者們跑掉了啊！
- <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，和我的同伴一起找到他們吧！"
+<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，和我的同伴一起找到他們吧！"
 50,"TEXT_BANKJN301_02979_ZUKIN_000_002","還有把這個<Sheet(EventItem,2002398,0)/>也帶上吧——！
 這東西奇臭無比，打敗他們之後將這個扔到他們身上，
 這樣的話他們就能長記性，再也不敢來了吧！"
@@ -86,9 +86,9 @@ int32,str,str
 65,"TEXT_BANKJN301_02979_BALLOON_000_012","就快能脫身了——
 只要幹掉你就脫身了！"
 66,"TEXT_BANKJN301_02979_BALLOON_100_013","嗚啊！臭死了！"
-67,"TEXT_BANKJN301_02979_ZUKIN_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，紅甲族的那幫壞蛋怎麼樣了啊？"
+67,"TEXT_BANKJN301_02979_ZUKIN_000_030","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，紅甲族的那幫壞蛋怎麼樣了啊？"
 68,"TEXT_BANKJN301_02979_ZUKIN_000_031","哦！不愧是<If(PlayerParameter(4))>大姐<Else/>大哥</If>！
 我會告訴同伴們是<If(PlayerParameter(4))>大姐<Else/>大哥</If>教訓了紅甲族的壞蛋！"
 69,"TEXT_BANKJN301_02979_ZUKIN_000_032","掠奪者們現在應該也得到教訓了——
 畢竟<Sheet(EventItem,2002398,0)/>可是超級臭的——
-在那味道徹底消失之前，他們應該都會被絕鬼島拒之門外了！"
+在那味道徹底消失之前，他們估計都會被絕鬼島拒之門外了！"

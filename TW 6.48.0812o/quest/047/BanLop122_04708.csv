@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_BANLOP122_04708_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-希望的貨艙的營運威想要冒險者協助塗料的增產工作。"
+希望的貨艙的運營威想要冒險者協助塗料的增產工作。"
 1,"TEXT_BANLOP122_04708_SEQ_01","和愛情威的花園的塗影威對話"
 2,"TEXT_BANLOP122_04708_SEQ_02","將委託物品交給塗影威"
-3,"TEXT_BANLOP122_04708_SEQ_03","向營運威報告"
+3,"TEXT_BANLOP122_04708_SEQ_03","向運營威報告"
 4,"TEXT_BANLOP122_04708_SEQ_04",""
 5,"TEXT_BANLOP122_04708_SEQ_05",""
 6,"TEXT_BANLOP122_04708_SEQ_06",""
@@ -30,7 +30,7 @@ int32,str,str
 23,"TEXT_BANLOP122_04708_SEQ_23",""
 24,"TEXT_BANLOP122_04708_TODO_00","和愛情威的花園的塗影威對話"
 25,"TEXT_BANLOP122_04708_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給愛情威的花園的塗影威</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP122_04708_TODO_02","向營運威報告"
+26,"TEXT_BANLOP122_04708_TODO_02","向運營威報告"
 27,"TEXT_BANLOP122_04708_TODO_03",""
 28,"TEXT_BANLOP122_04708_TODO_04",""
 29,"TEXT_BANLOP122_04708_TODO_05",""
@@ -52,17 +52,17 @@ int32,str,str
 45,"TEXT_BANLOP122_04708_TODO_21",""
 46,"TEXT_BANLOP122_04708_TODO_22",""
 47,"TEXT_BANLOP122_04708_TODO_23",""
-48,"TEXT_BANLOP122_04708_MANAGINGWAY_000_001","在創作臺向大家描述了關於「夢想」的事情之後，
+48,"TEXT_BANLOP122_04708_MANAGINGWAY_000_001","在創作台向大家描述了關於「夢想」的事情之後，
 有意向參與創作活動的同伴就多了不少。
 這的確是一件值得欣喜的事情……"
 49,"TEXT_BANLOP122_04708_MANAGINGWAY_000_002","但受此影響，如今對於塗料的需求量也大幅增加。
-所以我想請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人協助塗料的增產工作。"
+所以我想請<Highlight>ObjectParameter(1)</Highlight>大人協助塗料的增產工作。"
 50,"TEXT_BANLOP122_04708_MANAGINGWAY_000_003","就在剛才，塗影威已經前往了愛情威的花園。
-希望你能前去與他會合，並協助他完成相應的工作。"
+希望你能前去與他匯合，並協助他完成相應的工作。"
 51,"TEXT_BANLOP122_04708_SUPPORTER4708_000_004","補充材料的事請交給我吧。"
 52,"TEXT_BANLOP122_04708_PAINTINGWAY_000_010","你是來幫忙的吧，謝謝你！
 正巧我現在正在採集這一帶的蘑菇。
-只要把這個新增進去，塗料就會變得有光澤多了。"
+只要把這個添加進去，塗料就會變得有光澤多了。"
 53,"TEXT_BANLOP122_04708_PAINTINGWAY_000_011","那我就繼續負責採集工作了，
 可以麻煩你幫忙製作調製塗料所需的東西嗎？"
 54,"TEXT_BANLOP122_04708_PAINTINGWAY_000_012","看樣子你應該很擅長跟金屬打交道，
@@ -72,7 +72,7 @@ int32,str,str
 可以請你幫忙製作調製塗料時使用的攪拌工具嗎？
 如果材料不夠了的話，就去找那邊的協助機領取吧！"
 56,"TEXT_BANLOP122_04708_PAINTINGWAY_000_014","看樣子你在調製方面的經驗應該很豐富吧，
-可以請你幫忙製作用於調整顏色和氣味的新增物嗎？
+可以請你幫忙製作用於調整顏色和氣味的添加物嗎？
 如果材料不夠了的話，就去找那邊的協助機領取吧！"
 57,"TEXT_BANLOP122_04708_PAINTINGWAY_100_014","（★未使用／削除予定★）"
 58,"TEXT_BANLOP122_04708_SUPPORTER4708_000_015","是需要補充材料了嗎？
@@ -92,13 +92,13 @@ int32,str,str
 有了這個一定能製作出最棒的塗料！"
 66,"TEXT_BANLOP122_04708_PAINTINGWAY_000_023","蘑菇也已經集齊了，我這就回去開始調製塗料。
 感謝你的幫助，
-請回去跟營運威彙報一下，領取謝禮吧！"
-67,"TEXT_BANLOP122_04708_MANAGINGWAY_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，歡迎回來。
+請回去跟運營威彙報一下，領取謝禮吧！"
+67,"TEXT_BANLOP122_04708_MANAGINGWAY_000_030","<Highlight>ObjectParameter(1)</Highlight>大人，歡迎回來。
 塗料增產工作已經順利完成了吧？
 把這件事交給你果然沒有錯。"
 68,"TEXT_BANLOP122_04708_MANAGINGWAY_000_031","其實還有很多同伴也像塗影威一樣受到夢想的激勵，
 全身心地投入到了創造新事物的浪潮中。
-同伴們的性格漸漸有了各自的特徵應該也是受此影響。"
-69,"TEXT_BANLOP122_04708_MANAGINGWAY_000_032","也就是說，我們正在透過創作，
+同伴們的性格漸漸有了各自的特徵估計也是受此影響。"
+69,"TEXT_BANLOP122_04708_MANAGINGWAY_000_032","也就是說，我們正在通過創作，
 覺醒自我意識的萌芽。
 我對兔兔族的未來充滿了期待。"

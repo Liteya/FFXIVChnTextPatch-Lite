@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ705_01909_SEQ_00","尊杜集落的加努瓦利對驅滅不完的蟲子感到煩心。"
-1,"TEXT_HEAVNZ705_01909_SEQ_01","加努瓦利委託冒險者拿回<Sheet(EventItem,2001670,0)/>。在阿巴拉提亞雲海的藍天窗獲得3個<Sheet(EventItem,2001670,0)/>。"
+1,"TEXT_HEAVNZ705_01909_SEQ_01","加努瓦利委託冒險者拿回<Sheet(EventItem,2001670,0)/>。在阿巴拉提亞雲海的藍天窗獲取3個<Sheet(EventItem,2001670,0)/>。"
 2,"TEXT_HEAVNZ705_01909_SEQ_02","獲得了3個<Sheet(EventItem,2001670,0)/>。將<Sheet(EventItem,2001670,0)/>交給尊杜集落的加努瓦利。"
 3,"TEXT_HEAVNZ705_01909_SEQ_03","將<Sheet(EventItem,2001670,0)/>交給了加努瓦利。這樣一定可以消滅那些鋪天蓋地的蟲子。"
 4,"TEXT_HEAVNZ705_01909_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ705_01909_SEQ_21",""
 22,"TEXT_HEAVNZ705_01909_SEQ_22",""
 23,"TEXT_HEAVNZ705_01909_SEQ_23",""
-24,"TEXT_HEAVNZ705_01909_TODO_00","獲得<Sheet(EventItem,2001670,0)/>"
+24,"TEXT_HEAVNZ705_01909_TODO_00","獲取<Sheet(EventItem,2001670,0)/>"
 25,"TEXT_HEAVNZ705_01909_TODO_01","將<Sheet(EventItem,2001670,0)/>交給加努瓦利"
 26,"TEXT_HEAVNZ705_01909_TODO_02",""
 27,"TEXT_HEAVNZ705_01909_TODO_03",""

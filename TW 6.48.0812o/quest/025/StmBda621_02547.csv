@@ -68,10 +68,10 @@ int32,str,str
 55,"TEXT_STMBDA621_02547_LYSE_000_023","那就這麼決定了。
 娜格，讓解放軍的同伴準備好陸行鳥篷車吧。
 阿莉塞就交給阿爾菲諾看護了。"
-56,"TEXT_STMBDA621_02547_LYSE_000_024"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先一步回到神拳痕，
+56,"TEXT_STMBDA621_02547_LYSE_000_024","<Highlight>ObjectParameter(1)</Highlight>，你先一步回到神拳痕，
 把情況轉告一下野戰醫院的醫師奧蕾拉吧。
 讓她做好接收準備。"
-57,"TEXT_STMBDA621_02547_STARKWOAD_000_025","阿拉米格一定要得到改變。
+57,"TEXT_STMBDA621_02547_STARKWOAD_000_025","阿拉米格必須要得到改變。
 為此，我也要把力所能及的事情做好。"
 58,"TEXT_STMBDA621_02547_LYSE_000_030","……反正你覺得我指揮大家的樣子很不符合我的性格吧。
 我也知道的。"
@@ -79,7 +79,7 @@ int32,str,str
 60,"TEXT_STMBDA621_02547_ORELLA_000_041","好的，要轉移過來一名重傷人員對吧？
 那我現在就準備床位，你也來幫我一下吧。"
 61,"TEXT_STMBDA621_02547_ORELLA_000_042","床單也換新了，這樣一來就做好接收的準備了。"
-62,"TEXT_STMBDA621_02547_ALPHINAUD_000_043","我們到了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+62,"TEXT_STMBDA621_02547_ALPHINAUD_000_043","我們到了，<Highlight>ObjectParameter(1)</Highlight>。
 現在可以把阿莉塞從篷車上抬過來嗎？"
 63,"TEXT_STMBDA621_02547_ALPHINAUD_000_044","好，我這就去！"
 64,"TEXT_STMBDA621_02547_ALISAIE_000_045","謝謝了……真是麻煩你們了。"
@@ -93,14 +93,14 @@ int32,str,str
 不用你說，我會連同你的份一起戰鬥的。"
 68,"TEXT_STMBDA621_02547_LYSE_000_049","……有兄弟姐妹可真好啊。
 有種心有靈犀的感覺……"
-69,"TEXT_STMBDA621_02547_LYSE_000_050","那個， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+69,"TEXT_STMBDA621_02547_LYSE_000_050","那個，<Highlight>ObjectParameter(1)</Highlight>。
 我想讓你陪我一下，你能在外面等我嗎？"
 70,"TEXT_STMBDA621_02547_ALPHINAUD_000_055","我一定會找到可露兒的。
 畢竟得讓她給你看看受的傷有沒有大礙啊。"
-71,"TEXT_STMBDA621_02547_ALISAIE_000_060","真是不甘心，沒辦法跟你們一起參加最後一戰……
+71,"TEXT_STMBDA621_02547_ALISAIE_000_060","真是不甘心，沒法跟你們一起參加最後一戰……
 不過這也是因為我的實力還不夠。
 放心吧，我會老實養傷的。"
 72,"TEXT_STMBDA621_02547_LYSE_000_080","哈、哈、哈……好像有點認真過頭了。
 不過，能痛痛快快地徹底活動下筋骨，心情也好多了。"
-73,"TEXT_STMBDA621_02547_LYSE_000_081","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+73,"TEXT_STMBDA621_02547_LYSE_000_081","謝謝你，<Highlight>ObjectParameter(1)</Highlight>！
 你是我最棒的同伴。"

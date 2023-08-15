@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_BANVAN008_02225_TODO_21",""
 46,"TEXT_BANVAN008_02225_TODO_22",""
 47,"TEXT_BANVAN008_02225_TODO_23",""
-48,"TEXT_BANVAN008_02225_LINUVALI_000_000","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_BANVAN008_02225_LINUVALI_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>。
 一直以來、一直以來，真是非常感謝。
 謝謝你為我們做的一切……"
 49,"TEXT_BANVAN008_02225_LINUVALI_000_001","已經沒有什麼能比喻我對你的感激之情了！！"
@@ -57,17 +57,17 @@ int32,str,str
 請你去和群雲利努瓦努打聲招呼吧。"
 51,"TEXT_BANVAN008_02225_LINUVALI_000_005","我們的長老利努瓦努也想向你道謝。
 請你去和群雲利努瓦努打聲招呼吧。"
-52,"TEXT_BANVAN008_02225_LINUVANU_000_010","哦哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 喲。
+52,"TEXT_BANVAN008_02225_LINUVANU_000_010","哦哦，<Highlight>ObjectParameter(1)</Highlight>喲。
 感謝、感謝你一直以來為我們做的一切。
 我雖然很想找些東西做比喻……"
-53,"TEXT_BANVAN008_02225_LINUVANU_000_011","可是，怎麼也找不到適合的呢……"
+53,"TEXT_BANVAN008_02225_LINUVANU_000_011","可是，怎麼也找不到合適的呢……"
 54,"TEXT_BANVAN008_02225_LINUVANU_000_012","有了、有了！
 看到你之後立刻就想到了！"
 55,"TEXT_BANVAN008_02225_LINUVANU_000_013","我們美豔的袞杜美豔地感謝你為我們所做的一切，
-就像掛在雲海的七色彩虹般，謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+就像掛在雲海的七色彩虹般，謝謝你，<Highlight>ObjectParameter(1)</Highlight>！"
 56,"TEXT_BANVAN008_02225_LINUVANU_000_014","今後、今後，
 你就是我們袞杜族最重要的客人——美豔之友了！"
 57,"TEXT_BANVAN008_02225_SYSTEM_000_100","與瓦努族「美豔的袞杜」之間的關係程度到達了「血誓」，
-冒險者的活躍表現，鞏固了與他們之間的羈絆！"
+冒險者的活躍表現，加固了與他們之間的羈絆！"
 58,"TEXT_BANVAN008_02225_SYSTEM_100_100","今後，「美豔的袞杜」的友好部族日常任務中
 可獲得的經驗值加成再次大幅增加了。"

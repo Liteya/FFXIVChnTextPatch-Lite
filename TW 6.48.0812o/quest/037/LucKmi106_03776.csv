@@ -31,7 +31,7 @@ int32,str,str
 27,"TEXT_LUCKMI106_03776_TODO_03","進一步尋找<Sheet(EObj,2011095,0)/>"
 28,"TEXT_LUCKMI106_03776_TODO_04","尋找更多的<Sheet(EObj,2011097,0)/>"
 29,"TEXT_LUCKMI106_03776_TODO_05","調查<Sheet(EObj,2011099,0)/>"
-30,"TEXT_LUCKMI106_03776_TODO_06","和雅．修特拉對話"
+30,"TEXT_LUCKMI106_03776_TODO_06","和雅·修特拉對話"
 31,"TEXT_LUCKMI106_03776_TODO_07",""
 32,"TEXT_LUCKMI106_03776_TODO_08",""
 33,"TEXT_LUCKMI106_03776_TODO_09",""
@@ -56,11 +56,11 @@ int32,str,str
 50,"TEXT_LUCKMI106_03776_SYSTEM_000_002","腦中響起了好像是古代人的聲音。
 看來是被封印在水晶裡的記憶……"
 51,"TEXT_LUCKMI106_03776_SYSTEM_000_003","前面也有別的水晶落在了地板上。
-在等待雅．修特拉的這段時間，要不要去調查一下？"
+在等待雅·修特拉的這段時間，要不要去調查一下？"
 52,"TEXT_LUCKMI106_03776_SYSTEM_000_010","有3塊與剛才的形狀基本一樣的水晶被放置在了地板上。
 不過顏色和紋樣卻各不相同。"
 53,"TEXT_LUCKMI106_03776_SYSTEM_000_011","將意識集中到水晶上，
-這次清晰地聽到了聲音……"
+這回清晰地聽到了聲音……"
 54,"TEXT_LUCKMI106_03776_YELLOWCRYSTAL_000_012","(-黃金色水晶中迴盪的記憶之聲-)<UIForeground>F20223</UIForeground>……來看。<UIForeground>01</UIForeground>"
 55,"TEXT_LUCKMI106_03776_YELLOWCRYSTAL_000_013","(-黃金色水晶中迴盪的記憶之聲-)<UIForeground>F20223</UIForeground>地面生機煥發、綠意盎然，風馳碧空，沁人心脾。
 今天的世界也依然流光溢彩……<UIForeground>01</UIForeground>"
@@ -101,16 +101,16 @@ int32,str,str
 77,"TEXT_LUCKMI106_03776_SYSTEM_000_054","……不遠處還有一塊水晶。"
 78,"TEXT_LUCKMI106_03776_YSHTOLA_000_060","還是久違的地上最舒服啊……
 不過現在也沒時間悠閒地休息了。"
-79,"TEXT_LUCKMI106_03776_YSHTOLA_000_061","聽我說， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+79,"TEXT_LUCKMI106_03776_YSHTOLA_000_061","聽我說，<Highlight>ObjectParameter(1)</Highlight>……
 不管艾里迪布斯準備了什麼樣的計謀，
-只要他還堅持著那種態度，我們就註定要與他一戰。"
+只要他還堅持著那種態度，我們就注定要與他一戰。"
 80,"TEXT_LUCKMI106_03776_YSHTOLA_000_062","如果同伴或是世界受到了威脅，就算換做是我，
 我也一定不會手下留情吧。"
 81,"TEXT_LUCKMI106_03776_YSHTOLA_000_063","不過呢，儘管那時根本沒有獲得我們的信任，
-愛梅特賽爾克依然主動與我們同行，試圖瞭解我們，
+愛梅特賽爾克依然主動與我們同行，試圖了解我們，
 提供了改變彼此關係的契機。"
 82,"TEXT_LUCKMI106_03776_YSHTOLA_000_064","如果愛梅特賽爾克在你心中留下了感觸，
-那這次就該輪到你堅持不懈地去尋找
+那這回就該輪到你堅持不懈地去尋找
 走進他們無影內心世界的契機了。"
 83,"TEXT_LUCKMI106_03776_YSHTOLA_000_065","哪怕最後沒有改變結論，哪怕會被指責欺瞞……
 你也應該比任何人都清楚，

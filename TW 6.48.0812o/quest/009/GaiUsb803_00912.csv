@@ -67,12 +67,12 @@ int32,str,str
 54,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_021","但是現在還來得及阻止。
 我馬上整兵。
 你做好準備的話就先趕去落魔崖。"
-55,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_022","我馬上就趕去跟你會合！
+55,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_022","我馬上就趕去跟你匯合！
 ……該死的異端審問官吉耶姆。"
 56,"TEXT_GAIUSB803_00912_HOURLINET_000_030","只有你能趕上也已經算是幸運了。
 審問官大人帶著神殿騎士做護衛……
 萬一發生最壞的狀況，我自己很沒信心。"
-57,"TEXT_GAIUSB803_00912_GUILLAIME_000_040","弗朗塞爾．艾因哈特。
+57,"TEXT_GAIUSB803_00912_GUILLAIME_000_040","弗朗塞爾·艾因哈特。
 以戰爭神哈羅妮之名，現在開始對你的審問。"
 58,"TEXT_GAIUSB803_00912_FRANCEL_000_041","我說過了，我不是異端者！
 艾因哈特家乃是建國以來就一直與龍族奮戰的鐵血武門，
@@ -107,8 +107,8 @@ int32,str,str
 看來你說的話確實是有道理的。
 我必須趕緊回去，查清這事情的真相。"
 74,"TEXT_GAIUSB803_00912_GUILLAIME_000_066","這次的事情我就不追究了……冒險者啊。
-我在占星臺給你的忠告，你可別忘記了。"
-75,"TEXT_GAIUSB803_00912_FRANCEL_000_067","奧爾什方， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+我在占星台給你的忠告，你可別忘記了。"
+75,"TEXT_GAIUSB803_00912_FRANCEL_000_067","奧爾什方，<Highlight>ObjectParameter(1)</Highlight>……
 我該怎麼感謝你們才好……"
 76,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_068","你是個虔誠的教徒，
 想到你會不會毫不猶豫地就跳下去，我就萬分焦急啊。"
@@ -116,13 +116,13 @@ int32,str,str
 但是……"
 78,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_070","啊，總之讓我們先返回巨龍首營地吧。
 怎能讓恩人繼續站在雪中呢。"
-79,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_071"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，回到營地安頓好後來我這裡一趟。
+79,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_071","<Highlight>ObjectParameter(1)</Highlight>，回到營地安頓好後來我這裡一趟。
 我要用最大的誠意來回應你這次的付出。"
 80,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_080","你回來啦，嘿嘿……
 我正想起你在戰鬥中的英姿，跟你並肩作戰真是熱血沸騰。
 ……那種灼熱的氣息，太棒了！"
 81,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_081","雖然想好好聊聊這個，不過還是先跟你道謝才行。
-非常感謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+非常感謝你，<Highlight>ObjectParameter(1)</Highlight>……
 如果不是你在，我就要失去無可替代的友人了。"
 82,"TEXT_GAIUSB803_00912_HAURCHEFANT_000_082","本來應是我協助你的，結果卻盡是被你幫忙。
 我能給你的最大的謝禮，就是派出傳令兵了。

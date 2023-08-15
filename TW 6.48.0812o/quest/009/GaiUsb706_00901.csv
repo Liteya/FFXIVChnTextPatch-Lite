@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB706_00901_SEQ_00","巨龍首營地的雅埃勒有話想和冒險者說。"
-1,"TEXT_GAIUSB706_00901_SEQ_01","雅埃勒想要冒險者去討伐<Sheet(BNpcName,682,0)/>。先對巨龍首附近的塞巴斯蒂安使用<Sheet(EventItem,2000704,0)/>，獲得<Sheet(EventItem,2000705,0)/>。"
+1,"TEXT_GAIUSB706_00901_SEQ_01","雅埃勒想要冒險者去討伐<Sheet(BNpcName,682,0)/>。先對巨龍首附近的塞巴斯蒂安使用<Sheet(EventItem,2000704,0)/>，獲取<Sheet(EventItem,2000705,0)/>。"
 2,"TEXT_GAIUSB706_00901_SEQ_02","再前往巨龍首北邊的神意之地，將<Sheet(EventItem,2000705,0)/>放置在<Sheet(EObj,2002125,0)/>。"
 3,"TEXT_GAIUSB706_00901_SEQ_03","將<Sheet(EventItem,2000705,0)/>放在了指定地點。在<Sheet(EObj,2002571,0)/>等待並討伐<Sheet(BNpcName,682,0)/>。"
 4,"TEXT_GAIUSB706_00901_SEQ_04","成功討伐了<Sheet(BNpcName,682,0)/>。釋放<Sheet(EventItem,2000705,0)/>。"
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_GAIUSB706_00901_TODO_21",""
 46,"TEXT_GAIUSB706_00901_TODO_22",""
 47,"TEXT_GAIUSB706_00901_TODO_23",""
-48,"TEXT_GAIUSB706_00901_YAELLE_000_000","冒險者，我有件事情想要借助你的本領。
+48,"TEXT_GAIUSB706_00901_YAELLE_000_000","冒險者，我有件事情想要藉助你的本領。
 最近這附近有食人魔出沒，吞食了很多家畜。
 我們不能再讓它們為所欲為。"
 49,"TEXT_GAIUSB706_00901_YAELLE_000_001","為此，我想了一個誘餌作戰。
@@ -59,7 +59,7 @@ int32,str,str
 你可以用這個<Sheet(EventItem,2000704,0)/>把那孩子抓過來。
 但是一定不要讓它出事哦！"
 51,"TEXT_GAIUSB706_00901_DUMMY_000_010","對巨龍首附近的<Sheet(BNpcName,795,0)/>使用<Sheet(EventItem,2000704,0)/>，獲得羊"
-52,"TEXT_GAIUSB706_00901_DUMMY_000_020","將<Sheet(EventItem,2000705,0)/>」放在指定地點，在<Sheet(EObj,2002571,0)/>等待"
+52,"TEXT_GAIUSB706_00901_DUMMY_000_020","將「<Sheet(EventItem,2000705,0)/>」放在指定地點，在<Sheet(EObj,2002571,0)/>等待"
 53,"TEXT_GAIUSB706_00901_DUMMYTODO_000_010",""
 54,"TEXT_GAIUSB706_00901_DUMMYTODO_000_020","（★未使用／削除予定★）"
 55,"TEXT_GAIUSB706_00901_SYSTEM_000_025","解開了綁住塞巴斯蒂安的繩子。

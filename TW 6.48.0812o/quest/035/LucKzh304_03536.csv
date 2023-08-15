@@ -59,7 +59,7 @@ int32,str,str
 我來帶頭，你跟著我過來！"
 50,"TEXT_LUCKZH304_03536_TOLAS_000_010","看來他們是在這裡遇到了襲擊。"
 51,"TEXT_LUCKZH304_03536_SOLDIER03536_000_011","(-衛兵團的傳令兵-)托拉斯！
-還有、啊、你難道是 <Highlight>ObjectParameter(1)</Highlight> ？！"
+還有、啊、你難道是<Highlight>ObjectParameter(1)</Highlight>？！"
 52,"TEXT_LUCKZH304_03536_SOLDIER03536_000_012","(-衛兵團的傳令兵-)我聽說了你在食罪靈大襲擊時的活躍表現！
 剛才沒能打招呼，真是抱歉。
 能見到你十分光榮！"
@@ -72,11 +72,11 @@ int32,str,str
 馬維爾跑向了和他們相反的方向……
 至於他到底去了哪裡，並沒有人知道詳情。"
 56,"TEXT_LUCKZH304_03536_TOLAS_000_016","這附近有可以用來藏身的森林和遺跡。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，咱們分開搜索吧。"
+<Highlight>ObjectParameter(1)</Highlight>，咱們分開搜索吧。"
 57,"TEXT_LUCKZH304_03536_TOLAS_100_016","我前往豺狼影府那邊，麻煩你去負責南邊的森林！
-之後咱們在拉迪斯卡瞭望塔附近會合吧！"
+之後咱們在拉迪斯卡瞭望塔附近匯合吧！"
 58,"TEXT_LUCKZH304_03536_SOLDIER03536_000_017","(-衛兵團的傳令兵-)以防萬一，我去搜索嚴命城那邊！
-也請 <Highlight>ObjectParameter(1)</Highlight> 多加小心！"
+也請<Highlight>ObjectParameter(1)</Highlight>多加小心！"
 59,"TEXT_LUCKZH304_03536_SYSTEM_000_020","獨行食罪靈從上空飛了過來！"
 60,"TEXT_LUCKZH304_03536_SYSTEM_000_021","看來沒在這裡。
 前往拉迪斯卡瞭望塔，
@@ -84,7 +84,7 @@ int32,str,str
 61,"TEXT_LUCKZH304_03536_TOLAS_000_030","(-托拉斯的聲音-)休想得逞！"
 62,"TEXT_LUCKZH304_03536_TOLAS_000_031","哈、哈……"
 63,"TEXT_LUCKZH304_03536_MAUWYL_000_032","托拉斯！
-還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+還有<Highlight>ObjectParameter(1)</Highlight>！"
 64,"TEXT_LUCKZH304_03536_MAUWYL_000_033","謝謝你們兩個過來救我！
 我以為我已經沒救了呢……"
 65,"TEXT_LUCKZH304_03536_TOLAS_000_034","你真是的……為什麼不跟其他人一起逃跑啊。"
@@ -95,7 +95,7 @@ int32,str,str
 抱歉，給你們添麻煩了。"
 69,"TEXT_LUCKZH304_03536_MAUWYL_100_037","先不提這個，托拉斯！
 你不是能戰鬥嘛！"
-70,"TEXT_LUCKZH304_03536_TOLAS_000_038","……啊，多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。"
+70,"TEXT_LUCKZH304_03536_TOLAS_000_038","……啊，多虧了<Highlight>ObjectParameter(1)</Highlight>啊。"
 71,"TEXT_LUCKZH304_03536_TOLAS_000_039","在那次襲擊的時候，我只是拚命想要活下來。
 對於沒能拯救夥伴一事，我感到很羞愧。"
 72,"TEXT_LUCKZH304_03536_TOLAS_000_040","我希望自己能成為像是曾祖父那樣高傲的騎士，
@@ -110,13 +110,13 @@ int32,str,str
 死去的夥伴們，他們最後的一聲哀嚎一直迴盪在我腦海。
 我光是拿起劍，手就會不由自主地顫抖……"
 76,"TEXT_LUCKZH304_03536_MAUWYL_000_045","托拉斯……"
-77,"TEXT_LUCKZH304_03536_TOLAS_000_046","……不過，我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 促膝長談。
-瞭解到了<If(PlayerParameter(4))>她<Else/>他</If>的想法，
+77,"TEXT_LUCKZH304_03536_TOLAS_000_046","……不過，我和<Highlight>ObjectParameter(1)</Highlight>促膝長談。
+了解到了<If(PlayerParameter(4))>她<Else/>他</If>的想法，
 我心中的迷茫也終於得以散去。"
 78,"TEXT_LUCKZH304_03536_TOLAS_000_047","我想起了我戰鬥的理由。
 為了守護夥伴、為了守護朋友的這份純粹的想法……
 我踏入劍道的理由僅僅如此而已。"
-79,"TEXT_LUCKZH304_03536_TOLAS_000_048","而且 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+79,"TEXT_LUCKZH304_03536_TOLAS_000_048","而且<Highlight>ObjectParameter(1)</Highlight>。
 當我聽到你與食罪靈戰鬥時的聲音，
 我感受到了從未有過的安心。"
 80,"TEXT_LUCKZH304_03536_TOLAS_000_049","你就在我身旁戰鬥著。
@@ -129,12 +129,12 @@ int32,str,str
 稍後你能也來趟嚴命城嗎？"
 83,"TEXT_LUCKZH304_03536_TOLAS_000_052","那馬維爾……
 咱們出發吧！"
-84,"TEXT_LUCKZH304_03536_MAUWYL_000_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，咱們待會見！"
-85,"TEXT_LUCKZH304_03536_MAUWYL_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真的是謝謝你！
+84,"TEXT_LUCKZH304_03536_MAUWYL_000_053","<Highlight>ObjectParameter(1)</Highlight>，咱們待會見！"
+85,"TEXT_LUCKZH304_03536_MAUWYL_000_060","<Highlight>ObjectParameter(1)</Highlight>，真的是謝謝你！
 找你來幫忙真是找對人了！"
-86,"TEXT_LUCKZH304_03536_TOLAS_000_061"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+86,"TEXT_LUCKZH304_03536_TOLAS_000_061","<Highlight>ObjectParameter(1)</Highlight>，
 請允許我再次向你表示感謝。
-要是沒有你的話，我一定還是沒辦法戰鬥的吧。"
+要是沒有你的話，我一定還是沒法戰鬥的吧。"
 87,"TEXT_LUCKZH304_03536_TOLAS_000_062","我心中嚮往著曾祖父，想變得和他一樣偉大的心情，
 在不知不覺的情況下變得太過強烈了吧。
 這使我沒能看清周圍的一切。"
@@ -146,7 +146,7 @@ int32,str,str
 之後還得去水晶都交貨呢。"
 91,"TEXT_LUCKZH304_03536_TOLAS_000_066","是啊，我真心地感謝你為了我費了這麼多的心思，
 那咱們就後會有期。"
-92,"TEXT_LUCKZH304_03536_TOLAS_000_067"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+92,"TEXT_LUCKZH304_03536_TOLAS_000_067","<Highlight>ObjectParameter(1)</Highlight>。
 我也真心地感謝你。"
 93,"TEXT_LUCKZH304_03536_TOLAS_000_068","請你隨時到奧斯塔爾嚴命城來做客。
 雖然沒有什麼像樣的東西可以招待你，

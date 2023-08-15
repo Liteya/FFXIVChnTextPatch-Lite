@@ -4,8 +4,8 @@ int32,str,str
 0,"TEXT_BANQIQ106_03811_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-霍啪櫨古盤的柯呫盧利．帕嗦梸，想要準備些食物給去地下探索的同伴。"
-1,"TEXT_BANQIQ106_03811_SEQ_01","將柯呫盧利．帕嗦梸委託的物品交給她"
+霍啪櫨古盤的柯呫盧利·帕嗦梸，想要準備些食物給去地下探索的同伴。"
+1,"TEXT_BANQIQ106_03811_SEQ_01","將柯呫盧利·帕嗦梸委託的物品交給她"
 2,"TEXT_BANQIQ106_03811_SEQ_02",""
 3,"TEXT_BANQIQ106_03811_SEQ_03",""
 4,"TEXT_BANQIQ106_03811_SEQ_04",""
@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_BANQIQ106_03811_SEQ_21",""
 22,"TEXT_BANQIQ106_03811_SEQ_22",""
 23,"TEXT_BANQIQ106_03811_SEQ_23",""
-24,"TEXT_BANQIQ106_03811_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在破裂卵殼附近的石場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在破裂卵殼附近的草場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在蛇水湖的水下刺取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ106_03811_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在破裂卵殼附近的石場採取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在破裂卵殼附近的草場採取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在蛇水湖的水下刺取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/></If></If></If>"
 25,"TEXT_BANQIQ106_03811_TODO_01",""
 26,"TEXT_BANQIQ106_03811_TODO_02",""
 27,"TEXT_BANQIQ106_03811_TODO_03",""
@@ -58,10 +58,10 @@ int32,str,str
 讓他們帶在身上是也！
 為此，還需要爾幫忙。"
 50,"TEXT_BANQIQ106_03811_QHOTERLPASOL_000_010","具體就是去破裂卵殼附近
-採集3個<Sheet(Item,29521,0)/>，
+採取3個<Sheet(Item,29521,0)/>，
 然後拿回來給某是也。"
 51,"TEXT_BANQIQ106_03811_QHOTERLPASOL_000_020","具體就是去破裂卵殼附近
-採集3個<Sheet(Item,29547,0)/>，
+採取3個<Sheet(Item,29547,0)/>，
 然後拿回來給某是也。"
 52,"TEXT_BANQIQ106_03811_QHOTERLPASOL_000_030","具體就是去蛇水湖
 將<Sheet(Item,29573,0)/>抓回來給某是也，
@@ -71,10 +71,10 @@ int32,str,str
 54,"TEXT_BANQIQ106_03811_SYSTEM_100_040","若要領取或繼續推進本任務，
 需完成任務「刺魚的方法」開放刺魚。"
 55,"TEXT_BANQIQ106_03811_QHOTERLPASOL_100_010","去破裂卵殼附近
-採集3個<Sheet(Item,29521,0)/>，
+採取3個<Sheet(Item,29521,0)/>，
 然後拿回來給某是也。"
 56,"TEXT_BANQIQ106_03811_QHOTERLPASOL_100_020","去破裂卵殼附近
-採集3個<Sheet(Item,29547,0)/>，
+採取3個<Sheet(Item,29547,0)/>，
 然後拿回來給某是也。"
 57,"TEXT_BANQIQ106_03811_QHOTERLPASOL_100_030","去蛇水湖
 將<Sheet(Item,29573,0)/>抓回來給某是也，

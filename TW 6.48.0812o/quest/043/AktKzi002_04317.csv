@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_AKTKZI002_04317_SEQ_22",""
 23,"TEXT_AKTKZI002_04317_SEQ_23",""
 24,"TEXT_AKTKZI002_04317_TODO_00","調查<Sheet(EObj,2012438,0)/>"
-25,"TEXT_AKTKZI002_04317_TODO_01","解開信中之謎 獲得<Sheet(EventItem,2003294,0)/>"
+25,"TEXT_AKTKZI002_04317_TODO_01","解開信中之謎 獲取<Sheet(EventItem,2003294,0)/>"
 26,"TEXT_AKTKZI002_04317_TODO_02","調查<Sheet(EObj,2012439,0)/>"
 27,"TEXT_AKTKZI002_04317_TODO_03",""
 28,"TEXT_AKTKZI002_04317_TODO_04",""
@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_AKTKZI002_04317_TODO_21",""
 46,"TEXT_AKTKZI002_04317_TODO_22",""
 47,"TEXT_AKTKZI002_04317_TODO_23",""
-48,"TEXT_AKTKZI002_04317_MYSTERYWOMAN04317_000_000","我說，你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧？
+48,"TEXT_AKTKZI002_04317_MYSTERYWOMAN04317_000_000","我說，你是<Highlight>ObjectParameter(1)</Highlight>吧？
 太好了，正好我在找你。"
 49,"TEXT_AKTKZI002_04317_MYSTERYWOMAN04317_000_001","我和你一樣都是冒險者，
 有位委託人說有東西要交給你……
@@ -62,7 +62,7 @@ int32,str,str
 在任務進行中，
 日誌、目的列表和地圖有時不會提供相關提示。"
 52,"TEXT_AKTKZI002_04317_SYSTEM_000_010","上著鎖……"
-53,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_020","(-沒有署名的信-)「 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+53,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_020","(-沒有署名的信-)「<Highlight>ObjectParameter(1)</Highlight>。
 跟這封信一起交給你的<Sheet(EObj,2012439,0)/>裡
 有給你的東西。」"
 54,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_021","(-沒有署名的信-)「但是，要想將其打開需要三把鑰匙。
@@ -80,13 +80,13 @@ int32,str,str
 一邊沉浸於歌頌愛情的吟遊詩人的故事。
 故事會讓人想到過去，而講述會讓人珍惜當下。」"
 59,"TEXT_AKTKZI002_04317_SYSTEM_000_026","請根據這些提示找出三把鑰匙吧。
-<Sheet(EventItem,2003293,0)/>可以透過使用道具
+<Sheet(EventItem,2003293,0)/>可以通過使用道具
 隨時進行確認。"
 60,"TEXT_AKTKZI002_04317_SYSTEM_000_030","不得到三把鑰匙似乎無法打開……"
 61,"TEXT_AKTKZI002_04317_MYSTERYSTUDENT04317_000_040","哈……怎麼了？
 我昨晚熬夜了，結果上課的時候差點睡著了。
 於是就想著來這裡吹吹風，或許能夠清醒一點。"
-62,"TEXT_AKTKZI002_04317_MYSTERYSTUDENT04317_000_050","等你很久了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+62,"TEXT_AKTKZI002_04317_MYSTERYSTUDENT04317_000_050","等你很久了，<Highlight>ObjectParameter(1)</Highlight>。
 我受導師所託在這裡等你。
 這是說好的<Sheet(EventItem,2003294,0)/>，給你。"
 63,"TEXT_AKTKZI002_04317_MYSTERYSTUDENT04317_000_051","不過話說回來，導師居然會變裝成女性。
@@ -101,13 +101,13 @@ int32,str,str
 67,"TEXT_AKTKZI002_04317_MYSTERYBOY04317_000_071","我是因為崇拜那個人才懇請導師收我為徒的。
 最近時隔數年久別重逢，我真的很開心。"
 68,"TEXT_AKTKZI002_04317_MYSTERYBOY04317_000_072","於是就變裝成了一個動物搭檔。
-打扮水準還可以吧？"
+打扮水平還可以吧？"
 69,"TEXT_AKTKZI002_04317_MYSTERYBOY04317_000_073","對了，不能忘了把這個<Sheet(EventItem,2003294,0)/>給你。
 下次再好好聊吧。
 後會有期！"
 70,"TEXT_AKTKZI002_04317_SYSTEM_000_075","一隻食果花鼠。
 要確認一下<Sheet(EventItem,2003293,0)/>嗎？"
-71,"TEXT_AKTKZI002_04317_IZUMI_000_080","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+71,"TEXT_AKTKZI002_04317_IZUMI_000_080","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 你會來找我，說明你已經讀過信了吧？
 沒錯，我就是其中一把鑰匙的主人。"
 72,"TEXT_AKTKZI002_04317_IZUMI_000_081","師兄是我們這些人當中最沒有詩歌才能的。
@@ -120,11 +120,11 @@ int32,str,str
 代我向他問個好。"
 75,"TEXT_AKTKZI002_04317_SYSTEM_000_090","使用三把鑰匙打開了木箱！
 除了做報酬的裝備以外，還有一封信。"
-76,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_091","(-木箱中的信-)「 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+76,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_091","(-木箱中的信-)「<Highlight>ObjectParameter(1)</Highlight>，
 看來你成功打開木箱了，箱子裡的裝備你拿去吧。
 接下來，容我給你講個故事。」"
 77,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_092","(-木箱中的信-)「很久很久以前……
-路易索瓦大人曾託付給了我一個小屁孩，
+路易索瓦大人曾託付給了我一個熊孩子，
 是我給那孩子傳授了野外生存和諜報工作的能力。」"
 78,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_093","(-木箱中的信-)「最近這個不成器的弟子
 久違地回到了這裡。
@@ -133,7 +133,7 @@ int32,str,str
 希望你們今後也可以多多照顧他。」"
 80,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_095","(-木箱中的信-)「實在是不好意思當面對你說這些話。
 雖然有些拐彎抹角，不過能告訴你真是太好了。
-謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。」"
+謝謝你，<Highlight>ObjectParameter(1)</Highlight>。」"
 81,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_080","（★未使用／削除予定★）"
 82,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_081","（★未使用／削除予定★）"
 83,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_082","（★未使用／削除予定★）"

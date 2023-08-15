@@ -6,8 +6,8 @@ int32,str,str
 
 ※接下來的主線任務可以在主線嚮導中進行確認。在快捷指令的系統中可以找到角色設定，打開角色設定後，在介面設定的介面項中可以顯示或隱藏主線嚮導。"
 2,"TEXT_GAIUSE505_00367_SEQ_02","和穆恩布瑞達進行了交談。前往拂曉之間，和穆恩布瑞達對話。"
-3,"TEXT_GAIUSE505_00367_SEQ_03","據穆恩布瑞達所說，要想消滅封印在白聖石裡的無影，需要從偏屬性水晶中抽出乙太，以此將其消滅。阿爾菲諾也和水晶義勇隊聯繫完畢，前來石之家與大家會合，並提議用北薩納蘭的偏屬性水晶進行試驗。但帝國軍正對北薩納蘭青磷精煉所中儲藏的物資虎視眈眈。為了能順利進行試驗，拂曉血盟決定要幫助水晶義勇隊擊退帝國軍。冒險者與桑克瑞德和帕帕力莫一起，負責牽制住帝國軍。向石之家的阿爾菲諾詢問詳情。"
-4,"TEXT_GAIUSE505_00367_SEQ_04","和阿爾菲諾進行了交談。水晶義勇隊第四分隊正在青磷精煉所執行任務。為了指揮一線部隊，阿爾菲諾前往了烏爾達哈。賢人們為了各自的任務也都相繼離開了石之家。芙．拉敏也在赫利．博爾達和庫爾特內的陪同下向著烏爾達哈出發，去尋找贊同拂曉信念的夥伴。前往北薩納蘭的青磷精煉所，和威爾雷德對話。"
+3,"TEXT_GAIUSE505_00367_SEQ_03","據穆恩布瑞達所說，要想消滅封印在白聖石裡的無影，需要從偏屬性水晶中抽出乙太，以此將其消滅。阿爾菲諾也和水晶義勇隊聯繫完畢，前來石之家與大家匯合，並提議用北薩納蘭的偏屬性水晶進行試驗。但帝國軍正對北薩納蘭青磷精煉所中儲藏的物資虎視眈眈。為了能順利進行試驗，拂曉血盟決定要幫助水晶義勇隊擊退帝國軍。冒險者與桑克瑞德和帕帕力莫一起，負責牽制住帝國軍。向石之家的阿爾菲諾詢問詳情。"
+4,"TEXT_GAIUSE505_00367_SEQ_04","和阿爾菲諾進行了交談。水晶義勇隊第四分隊正在青磷精煉所執行任務。為了指揮一線部隊，阿爾菲諾前往了烏爾達哈。賢人們為了各自的任務也都相繼離開了石之家。芙·拉敏也在赫利·博爾達和庫爾特內的陪同下向著烏爾達哈出發，去尋找贊同拂曉信念的夥伴。前往北薩納蘭的青磷精煉所，和威爾雷德對話。"
 5,"TEXT_GAIUSE505_00367_SEQ_05","同威爾雷德一起和恆輝隊的艾德爾斯坦協耀尉進行了交談。帝國軍潛入了精煉所，並在精煉所中設定了炸彈。在青磷精煉所中尋找<Sheet(EventItem,2001548,0)/>，盤查是否還有未被發現的炸彈。"
 6,"TEXT_GAIUSE505_00367_SEQ_06","發現了4個可疑物品。將發現的<Sheet(EventItem,2001548,0)/>交給青磷精煉所的艾德爾斯坦。"
 7,"TEXT_GAIUSE505_00367_SEQ_07","將<Sheet(EventItem,2001548,0)/>交給了艾德爾斯坦。引爆裝置將由恆輝隊的工兵來拆除。在冒險者等人尋找可疑物品的時候，又有了新的關於帝國軍動向的情報。"
@@ -61,10 +61,10 @@ int32,str,str
 大概是無影的研究有了什麼新進展了吧。"
 49,"TEXT_GAIUSE505_00367_ALPHINAUD_000_001","你能去找穆恩布瑞達女士，
 告訴她我們這邊的事情都辦完了嗎？
-我跟水晶義勇隊聯繫之後也馬上趕過去。"
+我跟水晶義勇隊聯絡之後也馬上趕過去。"
 50,"TEXT_GAIUSE505_00367_ALPHINAUD_000_002","你能去找穆恩布瑞達女士，
 告訴她我們這邊的事情都辦完了嗎？
-我跟水晶義勇隊聯繫之後也馬上趕過去。"
+我跟水晶義勇隊聯絡之後也馬上趕過去。"
 51,"TEXT_GAIUSE505_00367_MOENBRYDA_000_010","哎呀，你們搞定幻龍的事了啊？
 好！那我們就趕快去拂曉之間吧。"
 52,"TEXT_GAIUSE505_00367_YDA_000_011","你趕快死了這條心吧。
@@ -73,7 +73,7 @@ int32,str,str
 難道他們去別的地方暗中行動了？"
 54,"TEXT_GAIUSE505_00367_THANCRED_000_013","英姿颯爽，知識淵博，外加酒量過人……
 簡直完美得無懈可擊，根本無從下手啊……
-怎麼就便宜了那個于里昂熱……"
+怎麼就便宜了那個於里昂熱……"
 55,"TEXT_GAIUSE505_00367_YSHTOLA_000_014","最近為了警戒無影的行動，
 我們都從四面八方收集情報……
 但目擊者實在是太少了……"
@@ -84,7 +84,7 @@ int32,str,str
 58,"TEXT_GAIUSE505_00367_MINFILIA_000_016","無影事件也十分重要。
 要是有什麼進展就好了。"
 59,"TEXT_GAIUSE505_00367_TATARU_000_031","不要小看伙食上的開銷！
-要是在食材的寶庫利姆薩．羅敏薩，
+要是在食材的寶庫利姆薩·羅敏薩，
 倒是能買到便宜的食材……"
 60,"TEXT_GAIUSE505_00367_HIGIRI_000_032","儲備的食材越來越少，真是讓我十分不安。
 差不多該出去採購了。"
@@ -94,7 +94,7 @@ int32,str,str
 62,"TEXT_GAIUSE505_00367_HOARYBOULDER_000_034","又有新任務了？
 我倆也有了新任務，
 讓我們一起加油吧。"
-63,"TEXT_GAIUSE505_00367_COULTENET_000_035","赫利．博爾達很想和你一起去前線……
+63,"TEXT_GAIUSE505_00367_COULTENET_000_035","赫利·博爾達很想和你一起去前線……
 不過我們也有自己的任務要去完成。"
 64,"TEXT_GAIUSE505_00367_MINFILIA_000_036","北薩納蘭的事就交給你了。
 請你多多小心啊。"
@@ -102,21 +102,21 @@ int32,str,str
 淨麻煩你了真是不好意思，
 請你趕快去北薩納蘭的青磷精煉所吧。"
 66,"TEXT_GAIUSE505_00367_ALPHINAUD_000_051","水晶義勇隊的第四分隊正在那裡執行任務，
-你先去與威爾雷德會合，把握一下情況吧。"
+你先去與威爾雷德匯合，把握一下情況吧。"
 67,"TEXT_GAIUSE505_00367_ALPHINAUD_000_052","我要回烏爾達哈的水晶義勇隊支部，
 和伊爾伯德隊長一起指揮一線部隊去了。
 前線的支援就交給你了。"
-68,"TEXT_GAIUSE505_00367_HOARYBOULDER_000_060"," <Highlight>ObjectParameter(1)</Highlight> ，
+68,"TEXT_GAIUSE505_00367_HOARYBOULDER_000_060","<Highlight>ObjectParameter(1)</Highlight>，
 你要去北薩納蘭了嗎？"
-69,"TEXT_GAIUSE505_00367_COULTENET_000_061","我們也要作為芙．拉敏的護衛去烏爾達哈，
+69,"TEXT_GAIUSE505_00367_COULTENET_000_061","我們也要作為芙·拉敏的護衛去烏爾達哈，
 暫時離開石之家一陣子。"
-70,"TEXT_GAIUSE505_00367_FLHAMINN_000_062","敏菲利亞託我去烏爾達哈找老朋友們。"
+70,"TEXT_GAIUSE505_00367_FLHAMINN_000_062","敏菲利亞托我去烏爾達哈找老朋友們。"
 71,"TEXT_GAIUSE505_00367_FLHAMINN_000_063","蠻神、無影的威脅，再加上難民暴動和帝國的阻撓，
 還有庫爾札斯與龍族的爭端……
 真是問題堆積如山。"
 72,"TEXT_GAIUSE505_00367_FLHAMINN_000_064","不過，我在烏爾達哈認識不少大人物，
 所以要去那裡尋求他們對拂曉的支持。"
-73,"TEXT_GAIUSE505_00367_FLHAMINN_000_065","現在艾奧傑亞需要團結一致……"
+73,"TEXT_GAIUSE505_00367_FLHAMINN_000_065","現在艾歐澤亞需要團結一致……"
 74,"TEXT_GAIUSE505_00367_FLHAMINN_100_065","呵呵，想不到曾經的小女孩阿希莉亞，
 現在已經在思考這麼了不起的事情了呢。
 看來我也已經老了啊。"
@@ -126,7 +126,7 @@ int32,str,str
 76,"TEXT_GAIUSE505_00367_COULTENET_000_067","雖說烏爾達哈是她的故鄉，
 但現在由於暴動的原因，那裡比較危險。
 因此就決定由我們倆作為護衛，陪同她一起去了。"
-77,"TEXT_GAIUSE505_00367_HOARYBOULDER_000_068","我不會讓別人碰芙．拉敏一根汗毛的！"
+77,"TEXT_GAIUSE505_00367_HOARYBOULDER_000_068","我不會讓別人碰芙·拉敏一根汗毛的！"
 78,"TEXT_GAIUSE505_00367_FLHAMINN_000_069","呵呵，你倆還真是可靠。"
 79,"TEXT_GAIUSE505_00367_COULTENET_000_070","……那我們就準備準備，出發吧。"
 80,"TEXT_GAIUSE505_00367_ALIANNE_000_071","敵方勢力的據點竟然這麼近，
@@ -142,7 +142,7 @@ int32,str,str
 他們的目標無非就是青磷精煉所的資源。"
 85,"TEXT_GAIUSE505_00367_WILRED_000_094","敵人也是時候該有新的動向了。
 你去跟恆輝隊的艾德爾斯坦談談，他負責指揮防禦部隊。"
-86,"TEXT_GAIUSE505_00367_EDELSTEIN_000_110","好久不見了， <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
+86,"TEXT_GAIUSE505_00367_EDELSTEIN_000_110","好久不見了，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
 賢者行軍行動那會承蒙你照顧了。"
 87,"TEXT_GAIUSE505_00367_EDELSTEIN_000_111","你們來得正是時候。"
 88,"TEXT_GAIUSE505_00367_WILRED_000_112","……帝國軍又有新動向了嗎？"
@@ -180,7 +180,7 @@ int32,str,str
 104,"TEXT_GAIUSE505_00367_YSHTOLA_000_128","我已經聽桑克瑞德他們說了。
 總之我也會幫忙找炸彈的。"
 105,"TEXT_GAIUSE505_00367_MOENBRYDA_000_129","我找到最適合實驗的地方了！
-剛想來和你們會合，沒想到碰上這亂子。
+剛想來和你們匯合，沒想到碰上這亂子。
 不管那麼多啦，我們趕快一起找炸彈！"
 106,"TEXT_GAIUSE505_00367_EDELSTEIN_000_130","找到可疑物品後請拿到我這裡來。
 我會讓手下的工兵解除引爆裝置的。"

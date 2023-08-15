@@ -53,10 +53,10 @@ int32,str,str
 45,"TEXT_BANVAN109_02179_TODO_21",""
 46,"TEXT_BANVAN109_02179_TODO_22",""
 47,"TEXT_BANVAN109_02179_TODO_23",""
-48,"TEXT_BANVAN109_02179_MUNAVANU_000_000","這不是、這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎。
+48,"TEXT_BANVAN109_02179_MUNAVANU_000_000","這不是、這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
 能否請你去打探一下冷酷的溫杜族的動向？
 我有些、我有些擔心……"
-49,"TEXT_BANVAN109_02179_MUNAVANU_000_001","在南邊紮營的人類騎兵們應該比較瞭解溫杜族最近的動向。
+49,"TEXT_BANVAN109_02179_MUNAVANU_000_001","在南邊紮營的人類騎兵們應該比較了解溫杜族最近的動向。
 你就先、你就先去找那些騎兵問問吧。"
 50,"TEXT_BANVAN109_02179_MUNAVANU_000_002","然後，再依靠得到的情報去偵察，
 想必溫杜族的詭計就會像萬里無雲的晴天一樣暴露無遺吧。
@@ -100,7 +100,7 @@ int32,str,str
 連長老都嚇得不行了，看來我以後還是躲著點他們比較好……"
 64,"TEXT_BANVAN109_02179_SYSTEM_000_043","附近好像沒有溫杜族的蹤影……
 前往別的地方找找看。"
-65,"TEXT_BANVAN109_02179_MUNAVANU_000_050","不愧是、不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+65,"TEXT_BANVAN109_02179_MUNAVANU_000_050","不愧是、不愧是<Highlight>ObjectParameter(1)</Highlight>！
 帶回了我們想要的情報！
 就像響聲貫穿雲海的雷鳴般感謝你的幫助。"
 66,"TEXT_BANVAN109_02179_MUNAVANU_000_051","看來、看來，冷酷的溫杜族還沒有找到我們在哪裡，

@@ -10,7 +10,7 @@ int32,str,str
 6,"TEXT_CLSEXC300_00319_SEQ_06","還是沒有發現庫加塔的蹤影。繼續尋找被庫加塔手下的魔物群弄散的貨物。"
 7,"TEXT_CLSEXC300_00319_SEQ_07","終於和追蹤已久的庫加塔展開了決戰，並獲得了勝利。威爾恩茲恩帶著西蓋爾德等人趕到了現場，一起慶祝了這期待已久的勝利。西蓋爾德表示自己將來也要成為一名斧術師，隨後便離開了。和留在現場的威爾恩茲恩等人對話。"
 8,"TEXT_CLSEXC300_00319_SEQ_08","威爾恩茲恩對英勇奮戰的冒險者稱讚不已。返回斧術師公會，和威爾恩茲恩對話。"
-9,"TEXT_CLSEXC300_00319_SEQ_09","威爾恩茲恩說已經沒有東西可以教給冒險者了，他希望冒險者不要止步於此，而是要繼續追求斧術師的更高境界。努力鍛鍊，當冒險者能夠超越威爾恩茲恩的時候，威爾恩茲恩希望冒險者能回來讓他看看。揹負著他的期待，冒險者離開了斧術師公會，駛向了更廣的天地。"
+9,"TEXT_CLSEXC300_00319_SEQ_09","威爾恩茲恩說已經沒有東西可以教給冒險者了，他希望冒險者不要止步於此，而是要繼續追求斧術師的更高境界。努力鍛鍊，當冒險者能夠超越威爾恩茲恩的時候，威爾恩茲恩希望冒險者能回來讓他看看。背負著他的期待，冒險者離開了斧術師公會，駛向了更廣的天地。"
 10,"TEXT_CLSEXC300_00319_SEQ_10",""
 11,"TEXT_CLSEXC300_00319_SEQ_11",""
 12,"TEXT_CLSEXC300_00319_SEQ_12",""
@@ -63,7 +63,7 @@ int32,str,str
 告訴他馬上就要去給他報仇了。
 這應該能讓他稍微安心些吧。"
 53,"TEXT_CLSEXC300_00319_WYRNZOEN_000_6","是出陣的時候了！
-交給你了，斧術師 <Highlight>ObjectParameter(1)</Highlight> ！"
+交給你了，斧術師<Highlight>ObjectParameter(1)</Highlight>！"
 54,"TEXT_CLSEXC300_00319_SIGHARD_000_10","啊……<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>……你來啦……
 離家出走的事……對不起。"
 55,"TEXT_CLSEXC300_00319_SIGHARD_000_12","嗯……我想這一定是懲罰……
@@ -110,24 +110,24 @@ int32,str,str
 我也能變成<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>你這樣嗎？"
 79,"TEXT_CLSEXC300_00319_SIGHARD_000_27","我……長大以後想要變成<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>這樣。
 像<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>這樣，能夠去保護他人。"
-80,"TEXT_CLSEXC300_00319_WYRNZOEN_000_28","可以的。
-以 <Highlight>ObjectParameter(1)</Highlight> 為目標的話，你一定可以的。"
+80,"TEXT_CLSEXC300_00319_WYRNZOEN_000_28","能行的。
+以<Highlight>ObjectParameter(1)</Highlight>為目標的話，你一定能行的。"
 81,"TEXT_CLSEXC300_00319_SIGHARD_000_29","那……我也想要成為<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>這樣的斧術師！
 不，我要成為這樣的斧術師！絕對要！"
 82,"TEXT_CLSEXC300_00319_SIGHARD_000_30","到那個時候……
 你要教給我很多很多斧術師的事情哦。
 我們說定了哦！"
-83,"TEXT_CLSEXC300_00319_WYRNZOEN_000_60","幹得好啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+83,"TEXT_CLSEXC300_00319_WYRNZOEN_000_60","幹得好啊，<Highlight>ObjectParameter(1)</Highlight>！
 就像和少年所約定的那樣，你做到了。"
-84,"TEXT_CLSEXC300_00319_WYRNZOEN_000_61","挺起胸膛吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+84,"TEXT_CLSEXC300_00319_WYRNZOEN_000_61","挺起胸膛吧，<Highlight>ObjectParameter(1)</Highlight>！
 這是英雄的凱旋，我們回斧術師公會吧！"
-85,"TEXT_CLSEXC300_00319_SOLKWYB_000_90"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你做到了！
+85,"TEXT_CLSEXC300_00319_SOLKWYB_000_90","<Highlight>ObjectParameter(1)</Highlight>，你做到了！
 你果然是個關鍵時刻靠得住的傢伙！
 我可是在第一次見到你時就看出來了哦！"
 86,"TEXT_CLSEXC300_00319_BROENBHAR_000_100","你真是厲害啊……
 想不到真的把庫加塔幹掉了。
 我現在滿腦子裡都是讚賞你的詞彙。"
-87,"TEXT_CLSEXC300_00319_WYRNZOEN_000_70"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你真的做得很好。
+87,"TEXT_CLSEXC300_00319_WYRNZOEN_000_70","<Highlight>ObjectParameter(1)</Highlight>，你真的做得很好。
 能鍛鍊到這個地步真是令人驚嘆。"
 88,"TEXT_CLSEXC300_00319_WYRNZOEN_000_71","作為公會會長，我現在要把我壓箱底的本領傳授給你。
 它的名字叫「戰慄」！"
@@ -138,12 +138,12 @@ int32,str,str
 91,"TEXT_CLSEXC300_00319_WYRNZOEN_000_74","你就像從威爾布蘭德島出航的一葉扁舟。
 但在你的航路上，可能會有前所未見的強敵，
 和艱難的試煉在等著你。"
-92,"TEXT_CLSEXC300_00319_WYRNZOEN_000_75"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，斧術師之路如同一片汪洋大海。
+92,"TEXT_CLSEXC300_00319_WYRNZOEN_000_75","<Highlight>ObjectParameter(1)</Highlight>，斧術師之路如同一片汪洋大海。
 你要以大海的盡頭為目標，當你到達終點之時……
 記得要回來讓我看看你的英姿啊。"
 93,"TEXT_CLSEXC300_00319_QIB_TODO001","打倒庫加塔！"
 94,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_02","終於等來這一刻了！
-要加油啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+要加油啊，<Highlight>ObjectParameter(1)</Highlight>！"
 95,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_01","這些黑豺就交給我吧！
 你專心對付庫加塔！"
 96,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_11","小心，敵人有點不太一樣了！"
@@ -152,6 +152,6 @@ int32,str,str
 難怪受傷的人傷勢恢復緩慢！"
 99,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_05","糟了，治療魔法的效果跟不上了！"
 100,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_02","可惡，真是沒完沒了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，儘快做個了結吧！"
-101,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_DEAD"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，接下來就拜託了……"
+<Highlight>ObjectParameter(1)</Highlight>，盡快做個了結吧！"
+101,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_DEAD","<Highlight>ObjectParameter(1)</Highlight>，接下來就拜託了……"
 102,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_DEAD","我也只能幫你到這裡了……"

@@ -13,8 +13,8 @@ int32,str,str
 7,"TEXT_STMBDR602_04587_SEQ_07","歐米茄提出了最後的疑問，和冒險者一同來到了嘆息海。和最佳威兔洞的歐米茄談談。"
 8,"TEXT_STMBDR602_04587_SEQ_08","歐米茄向增盈威提出了一連串的疑問。和最佳威兔洞前的歐米茄談談。"
 9,"TEXT_STMBDR602_04587_SEQ_09","冒險者拜託阿爾戈斯，讓歐米茄它們也乘坐在它背上一起前往監視者之館。和嘆息海監視者之館的月面監視者談談。"
-10,"TEXT_STMBDR602_04587_SEQ_10","和月面監視者一起談論了古代人的事情。和迷津驚愕所的畢格斯談談。"
-11,"TEXT_STMBDR602_04587_SEQ_11","為畢格斯和威吉送行後，從歐米茄那裡得知了神秘消息的內容。和舊薩雷安知識神海港的歐米茄談談。"
+10,"TEXT_STMBDR602_04587_SEQ_10","和月面監視者一起談論了古代人的事情。和迷津驚愕所的比格斯談談。"
+11,"TEXT_STMBDR602_04587_SEQ_11","為比格斯和魏吉送行後，從歐米茄那裡得知了神秘消息的內容。和舊薩雷安知識神海港的歐米茄談談。"
 12,"TEXT_STMBDR602_04587_SEQ_12","歐米茄它們飛往了新的世界，踏上了新的冒險之旅。只要它們攜手同進，一定能走得更遠、看到更多的景色。而這個星球的生命也會像它們一樣相互協作，尋找各自的答案。最終在經歷了漫長的旅途後，回歸到星海那溫柔的懷抱之中。"
 13,"TEXT_STMBDR602_04587_SEQ_13",""
 14,"TEXT_STMBDR602_04587_SEQ_14",""
@@ -37,7 +37,7 @@ int32,str,str
 31,"TEXT_STMBDR602_04587_TODO_07","再次和歐米茄對話"
 32,"TEXT_STMBDR602_04587_TODO_08","和最佳威兔洞前的歐米茄對話"
 33,"TEXT_STMBDR602_04587_TODO_09","和月面監視者對話"
-34,"TEXT_STMBDR602_04587_TODO_10","和驚愕所的畢格斯對話"
+34,"TEXT_STMBDR602_04587_TODO_10","和驚愕所的比格斯對話"
 35,"TEXT_STMBDR602_04587_TODO_11","和歐米茄對話"
 36,"TEXT_STMBDR602_04587_TODO_12",""
 37,"TEXT_STMBDR602_04587_TODO_13",""
@@ -56,7 +56,7 @@ int32,str,str
 50,"TEXT_STMBDR602_04587_OMEGA_000_012","末日報告書中另一個令我難以理解的部分，
 就是前往加雷馬的救援隊與帝國人民之間的關係。"
 51,"TEXT_STMBDR602_04587_OMEGA_000_013","救援隊的確有拯救帝國人民的意願，
-而且雙方還有共同的敵人終焉使徒。
+而且雙方還有共同的敵人終末使徒。
 ……但他們為什麼不早些聯手共戰呢？"
 52,"TEXT_STMBDR602_04587_OMEGA_000_014","關於此項疑問，我想繼續前往當地進行調查。
 請你抱著我們前往碎璃營地。"
@@ -67,7 +67,7 @@ int32,str,str
 55,"TEXT_STMBDR602_04587_OMEGA_000_031","看來即便是這副軀體，也並未受到低溫的影響。
 至少可以證明在抗凍性能方面
 勝過剛才開始就一直微顫的阿爾法。"
-56,"TEXT_STMBDR602_04587_OMEGA_000_032","根據我的資料顯示，
+56,"TEXT_STMBDR602_04587_OMEGA_000_032","根據我的數據顯示，
 伊爾薩巴德救援隊的殘存勢力與得到庇護的帝國人民
 均滯留在這個營地。"
 57,"TEXT_STMBDR602_04587_OMEGA_000_033","我打算向不同陣營的人類分別詢問對另一方的看法。
@@ -103,7 +103,7 @@ int32,str,str
 帶著它們一起過來吧。"
 77,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_062","是你……！
 你這個闖進封賞別墅的傢伙！"
-78,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_063","這次又來幹什麼！是來嘲笑我的嗎？！
+78,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_063","這回又來幹什麼！是來嘲笑我的嗎？！
 因為拒絕你們的援助，害麗茜妮婭姐妹喪命……
 但現在卻乖乖地接受了庇護！"
 79,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_064","哼……隨你吧，儘管笑我好了……
@@ -114,9 +114,9 @@ int32,str,str
 最好的證明就是我依然站在這片土地上！
 所有的轉移提議都被我回絕了！"
 82,"TEXT_STMBDR602_04587_OMEGA_000_067","沙沙……
-也就是說你對與救援隊建構合作關係一事持否定態度。"
+也就是說你對與救援隊構建合作關係一事持否定態度。"
 83,"TEXT_STMBDR602_04587_OMEGA_000_068","這是基於何種原因作出的判斷？
-從報告書中的資料來看，
+從報告書中的數據來看，
 目前，帝國人民很難在當地實現自給自足。"
 84,"TEXT_STMBDR602_04587_OMEGA_000_069","可即便如此，你仍堅持拒絕救援，
 是因為有我尚未了解的解決方案嗎？
@@ -125,20 +125,20 @@ int32,str,str
 現在居然連個玩具都敢嘲弄我？！"
 86,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_071","沒有命令也沒有解決方案，什麼都沒有！
 但我有加雷馬人的愛國心！
-絕不妥協……永不屈服……"
+決不妥協……永不屈服……"
 87,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_072","……嗚。"
-88,"TEXT_STMBDR602_04587_OMEGA_000_073"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這次的談話又超出了我的預想。
+88,"TEXT_STMBDR602_04587_OMEGA_000_073","<Highlight>ObjectParameter(1)</Highlight>，這次的談話又超出了我的預想。
 我想到那邊和你確認一下。"
 89,"TEXT_STMBDR602_04587_HUNGRYGARLEAN_000_080","沒錯，沒有命令也沒有解決方案……
 我心裡明白……我又何嘗不想……"
-90,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_090","嗯？是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下啊。
+90,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_090","嗯？是<Highlight>ObjectParameter(1)</Highlight>閣下啊。
 你是來了解加雷馬近況的嗎？"
-91,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_091","嗯？是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下啊。
+91,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_091","嗯？是<Highlight>ObjectParameter(1)</Highlight>閣下啊。
 你是來了解加雷馬近況的嗎？"
 92,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_092","嗯……雖然今後整體的大方向不好說，
 不過就目前來看，多虧了有尤盧斯他們的介入，
 我們與當地居民的溝通變得容易了很多。"
-93,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_093","當然，他們對我們的不信任與不配合並沒有完全消失……
+93,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_093","當然，他們對我們的不信任與不配合併沒有完全消失……
 也有人認為我們在用魔法操縱人心。
 特別是他們得知阿尼瑪這個前例後，情況就更糟了。"
 94,"TEXT_STMBDR602_04587_ALAMHIGANDELEGATION_000_094","不過把這些情況綜合起來，
@@ -162,7 +162,7 @@ int32,str,str
 正因如此，得知救援隊組建時，我驚訝不已。
 我發自內心地慶幸自己參加了這個隊伍。"
 102,"TEXT_STMBDR602_04587_OMEGA_000_105","目前已經聽取了得到庇護的帝國民眾與救援隊成員的想法，
-我需要時間處理這些資料，請移至那邊。"
+我需要時間處理這些數據，請移至那邊。"
 103,"TEXT_STMBDR602_04587_ALPHA_000_110","咕哎……
 咕哎哎，咕哎咕哎？"
 104,"TEXT_STMBDR602_04587_OMEGA_000_120","沙沙……阿爾法好像掉隊了。"
@@ -170,7 +170,7 @@ int32,str,str
 帶著它一起過來吧。"
 106,"TEXT_STMBDR602_04587_OMEGA_000_122","記錄……驗證……構築……"
 107,"TEXT_STMBDR602_04587_OMEGA_000_123","基於剛才兩人的發言以及在拉札罕獲得的經驗，
-我按照自己的理解做出瞭解釋。"
+我按照自己的理解做出了解釋。"
 108,"TEXT_STMBDR602_04587_OMEGA_000_124","我依舊認為這些人的言論是不合理的。
 如果你向任何奧密克戎提出同樣的問題，
 它們都會給出同樣的結論。"
@@ -193,7 +193,7 @@ int32,str,str
 116,"TEXT_STMBDR602_04587_OMEGA_000_132","在我充當進攻異星的先鋒時，敵方勢力也有因此而毀滅的記錄。
 那時它們主動撤離到危險地帶
 然後一個接著一個地爆炸飛散了。"
-117,"TEXT_STMBDR602_04587_OMEGA_000_133","……切換資料請求，我想瞭解一下喪葬習俗。
+117,"TEXT_STMBDR602_04587_OMEGA_000_133","……切換數據請求，我想了解一下喪葬習俗。
 我曾經很難理解人類的這個行為，
 不過現在我能領會了，這應該是心施加的某種作用吧。"
 118,"TEXT_STMBDR602_04587_OMEGA_000_134","需求……我們去拜訪麗茜妮婭的墳墓吧。
@@ -218,14 +218,14 @@ int32,str,str
 你可以用羽毛包裹住我，
 也可以讓我坐在你的背上。"
 128,"TEXT_STMBDR602_04587_ALPHA_000_160","咕哎，咕咕哎……？"
-129,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_165","…………。"
+129,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_165","……"
 130,"TEXT_STMBDR602_04587_OMEGA_000_170","沙沙……我曾一度擔心自己被積雪埋沒，
 不過看來我們已經順利到達了。
 這裡應該就是目的地了。"
 131,"TEXT_STMBDR602_04587_OMEGA_000_171","可是……"
 132,"TEXT_STMBDR602_04587_OMEGA_000_172","似乎有人在疑似目標前站立。"
 133,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_173","(-第一軍團士兵-)嗯？
-你是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 對吧？"
+你是<Highlight>ObjectParameter(1)</Highlight>對吧？"
 134,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_174","(-第一軍團士兵-)啊，抱歉。我還沒自我介紹……"
 135,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_175","我是帝國軍第一軍團的馬尼烏斯，
 和尤盧斯是同期入隊的朋友。"
@@ -243,14 +243,14 @@ int32,str,str
 他們向我表達了歉意，
 還堅稱這件事並不是靠道歉就能解決的。"
 141,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_181","可我們帝國軍人又哪有責怪他們的資格。
-我們被矇在鼓裡打起了內戰，
+我們被蒙在鼓裡打起了內戰，
 不知奪走了多少同胞的性命……"
 142,"TEXT_STMBDR602_04587_OMEGA_000_182","異議……帝國軍蒙受的損失
 與救援隊造成的損失並非同一事項。"
 143,"TEXT_STMBDR602_04587_OMEGA_000_183","也就是說，如果麗茜妮婭姐妹的死對你造成了傷害，
 你有權就此事向救援隊問責。
 無論是索賠還是宣戰，都是你的自由。"
-144,"TEXT_STMBDR602_04587_OMEGA_000_184","即便如此，你還是未與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 等人敵對……
+144,"TEXT_STMBDR602_04587_OMEGA_000_184","即便如此，你還是未與<Highlight>ObjectParameter(1)</Highlight>等人敵對……
 據我推測，可能存在2個理由。"
 145,"TEXT_STMBDR602_04587_OMEGA_000_185","一是從殘存戰力的差距來看，
 你認為與救援隊敵對的行為不存在任何優勢。"
@@ -280,7 +280,7 @@ int32,str,str
 158,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_198","雖然未來並不是那麼的光明，
 但至少我身邊還有活下來的同伴，
 我也希望朋友能夠過上幸福的生活。"
-159,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_199","如果為此需要借助救援隊或者其他國家的力量，我不會反對。
+159,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_199","如果為此需要藉助救援隊或者其他國家的力量，我不會反對。
 即便要付出代價，我也接受。"
 160,"TEXT_STMBDR602_04587_COLLEAGUESOLDIER_000_200","為了和別人一起把生活經營下去，多多少少要把心放寬一些，
 有時也需要付出相應的代價，同族之間不也是這樣嗎？"
@@ -312,25 +312,25 @@ int32,str,str
 救援隊與帝國民眾的關係之所以未達最佳標準，
 是因為他們的心造成了複雜且奇妙的影響。"
 173,"TEXT_STMBDR602_04587_OMEGA_000_231","接下來我們來對最後的疑問展開調查吧。"
-174,"TEXT_STMBDR602_04587_OMEGA_000_232","我想瞭解的是關於古代人類的事情。
+174,"TEXT_STMBDR602_04587_OMEGA_000_232","我想了解的是關於古代人類的事情。
 雖然我已經得知他們與末日有著重要的關聯，
 但只憑那份報告書，並不能讓我掌握事情的全貌。"
-175,"TEXT_STMBDR602_04587_OMEGA_000_233","為了獲得更詳細的資料，我們去拜訪那些
+175,"TEXT_STMBDR602_04587_OMEGA_000_233","為了獲取更詳細的數據，我們去拜訪那些
 據說是由古代人創造並繼承了他們部分知識的兔兔族吧，
 據資料來看他們的據點就在月球上。"
-176,"TEXT_STMBDR602_04587_OMEGA_000_234"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，趁我的電池還未徹底凍結，
+176,"TEXT_STMBDR602_04587_OMEGA_000_234","<Highlight>ObjectParameter(1)</Highlight>，趁我的電池還未徹底凍結，
 快點傳送過去吧！"
 177,"TEXT_STMBDR602_04587_ALPHA_000_240","咕哎！咕哎咕哎！"
 178,"TEXT_STMBDR602_04587_OMEGA_000_250","沙沙……這裡就是報告書中兔兔族的據點……
 最佳威兔洞吧。"
 179,"TEXT_STMBDR602_04587_OMEGA_000_251","我想調查這裡使用的技術，
-也許能以此瞭解到古代人的情報。"
+也許能以此了解到古代人的情報。"
 180,"TEXT_STMBDR602_04587_OMEGA_000_252","不過，目前我的軀體並不具備原有的高性能觀測功能。
-如果想瞭解詳細的技術，需要一定程度的解說……"
+如果想了解詳細的技術，需要一定程度的解說……"
 181,"TEXT_STMBDR602_04587_GROWINGWAY_000_253","咦？
 在那邊的難道是……"
 182,"TEXT_STMBDR602_04587_GROWINGWAY_000_254","哇啊，還真是本人啊！
-我想死你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+我想死你了，<Highlight>ObjectParameter(1)</Highlight>！"
 183,"TEXT_STMBDR602_04587_GROWINGWAY_000_255","呃，啊——？！"
 184,"TEXT_STMBDR602_04587_GROWINGWAY_000_256","你怎麼還帶著其他毛茸茸的生物？！"
 185,"TEXT_STMBDR602_04587_GROWINGWAY_000_257","嗚嗚……
@@ -339,35 +339,35 @@ int32,str,str
 186,"TEXT_STMBDR602_04587_GROWINGWAY_000_258","也是啊，只會建造這種兔子洞的使魔
 光是帶在身邊都會覺得丟人吧，
 還不如拿來做成餡餅更能發揮用處……"
-187,"TEXT_STMBDR602_04587_GROWINGWAY_000_259","欸……你沒有嫌棄我們？
-只是為了瞭解古代人，來參觀我們的技術？"
+187,"TEXT_STMBDR602_04587_GROWINGWAY_000_259","誒……你沒有嫌棄我們？
+只是為了了解古代人，來參觀我們的技術？"
 188,"TEXT_STMBDR602_04587_GROWINGWAY_000_260","什麼呀，原來是這樣！
 我差點就真的要披上餡餅皮縱身躍進廚行威打造的烤箱裡了！"
 189,"TEXT_STMBDR602_04587_GROWINGWAY_000_261","既然是來參觀的，那就包在我身上吧！
 作為負責構築環境的一員，
-我會簡單明瞭地為你解說！"
+我會簡單明了地為你解說！"
 190,"TEXT_STMBDR602_04587_OMEGA_000_262","沙沙……交涉成功。
 我會跟著這個兔兔族一起參觀據點。"
-191,"TEXT_STMBDR602_04587_OMEGA_000_263"," <Highlight>ObjectParameter(1)</Highlight> ，你可以待機。
+191,"TEXT_STMBDR602_04587_OMEGA_000_263","<Highlight>ObjectParameter(1)</Highlight>，你可以待機。
 無論軀體如何，作為自律性兵器歐米茄……
 我都有能力獨自完成此項任務，沙沙。"
 192,"TEXT_STMBDR602_04587_OMEGA_000_264","讓你久等了。"
 193,"TEXT_STMBDR602_04587_Q3_000_265","要說什麼？"
 194,"TEXT_STMBDR602_04587_A3_000_266","參觀完了嗎？"
 195,"TEXT_STMBDR602_04587_A3_000_267","增盈威呢？"
-196,"TEXT_STMBDR602_04587_OMEGA_000_268","肯定……我已大致瞭解了兔兔族的技術力。"
+196,"TEXT_STMBDR602_04587_OMEGA_000_268","肯定……我已大致了解了兔兔族的技術力。"
 197,"TEXT_STMBDR602_04587_OMEGA_000_269","雖然那個負責說明的個體在回答我的問題時，
 額外花了一些時間確認……
 不過就整體而言，這次調查效率不錯。"
 198,"TEXT_STMBDR602_04587_OMEGA_000_270","所述個體已經完成了他的任務。
-我已經大致瞭解了兔兔族的技術力，
+我已經大致了解了兔兔族的技術力，
 所以他就回去了。"
 199,"TEXT_STMBDR602_04587_OMEGA_000_271","同時我也認為沒有挽留他的必要。
 因為在我提出第50個問題前後，
 他的處理速度明顯下降了。"
 200,"TEXT_STMBDR602_04587_OMEGA_000_272","結論……如果那些知識和技術不過是古代遺留下來的片鱗碎甲，
 那古代人應該至少達到了第四等級的高度文明。"
-201,"TEXT_STMBDR602_04587_OMEGA_000_273","所以我想要更深入地瞭解他們。"
+201,"TEXT_STMBDR602_04587_OMEGA_000_273","所以我想要更深入地了解他們。"
 202,"TEXT_STMBDR602_04587_OMEGA_000_274","明明建立了接近理想的社會，
 卻同時擁有毀滅因子——也稱作脆弱性的生命群體……
 或許我能從中獲得理解主機的線索。"
@@ -380,7 +380,7 @@ int32,str,str
 206,"TEXT_STMBDR602_04587_SYSTEM_000_280","就像是沒有注意到歐米茄它們一樣，
 阿爾戈斯完全不把它們放在眼裡……"
 207,"TEXT_STMBDR602_04587_ALPHA_000_285","咕哎咕哎！咕哎哎咕哎咕哎！"
-208,"TEXT_STMBDR602_04587_OMEGA_000_290"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，有異常情況。
+208,"TEXT_STMBDR602_04587_OMEGA_000_290","<Highlight>ObjectParameter(1)</Highlight>，有異常情況。
 該個體應該就是阿爾戈斯，
 可它徹底地無視了我們。"
 209,"TEXT_STMBDR602_04587_OMEGA_000_291","推測……增盈威在見到我們時
@@ -410,19 +410,19 @@ int32,str,str
 221,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_311","<UIForeground>F20223</UIForeground>這裡很久沒有如此熱鬧過了。
 請問你們找我有什麼事？<UIForeground>01</UIForeground>"
 222,"TEXT_STMBDR602_04587_OMEGA_000_312","你好，月面監視者……你好，遠古的系統。
-我來此找你是為了瞭解古代人的事情。"
-223,"TEXT_STMBDR602_04587_OMEGA_000_313","我想深入瞭解他們的行動、思想以及心靈，
+我來此找你是為了了解古代人的事情。"
+223,"TEXT_STMBDR602_04587_OMEGA_000_313","我想深入了解他們的行動、思想以及心靈，
 以便正確理解末日為何降臨在我們的母星。"
 224,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_314","<UIForeground>F20223</UIForeground>呃……如果你為此而來，
 很遺憾，我恐怕並非是理想的解答者。<UIForeground>01</UIForeground>"
-225,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_315","<UIForeground>F20223</UIForeground> <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能請你講講在圍繞著末日展開的戰鬥中，
+225,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_315","<UIForeground>F20223</UIForeground><Highlight>ObjectParameter(1)</Highlight>，能請你講講在圍繞著末日展開的戰鬥中，
 你曾遇到的那些古代人嗎？<UIForeground>01</UIForeground>"
 226,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_316","<UIForeground>F20223</UIForeground>比起我擁有的那些零碎的原始記憶，
 你的回憶應該更清晰更鮮明。
 我也希望你能與我分享這段經歷。<UIForeground>01</UIForeground>"
 227,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_317","<UIForeground>F20223</UIForeground>是嗎……是這樣啊。
 你與維涅斯相遇，又和愛梅特賽爾克、希斯拉德共度一段時光後，
-迎來了與荷米斯他們的離別。<UIForeground>01</UIForeground>"
+迎來了與赫爾墨斯他們的離別。<UIForeground>01</UIForeground>"
 228,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_318","<UIForeground>F20223</UIForeground>我是由海德林創造出來的。
 因此我相信古代人的時代會消失、會被世界遺忘……<UIForeground>01</UIForeground>"
 229,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_319","<UIForeground>F20223</UIForeground>但是我很高興他們鮮活的過往
@@ -448,17 +448,17 @@ int32,str,str
 237,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_327","<UIForeground>F20223</UIForeground>雖然不清楚維涅斯是否聽取了他的請求，
 不過為了召喚海德林獻出生命的他，
 最終被重現為月球的系統——也就是我。<UIForeground>01</UIForeground>"
-238,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_328","<UIForeground>F20223</UIForeground> <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……你透過傾聽、感受、思考，
+238,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_328","<UIForeground>F20223</UIForeground><Highlight>ObjectParameter(1)</Highlight>……你通過傾聽、感受、思考，
 為世界上的所有生命贏得了未來，
 維涅斯也終於得以完成她那漫長的旅程。<UIForeground>01</UIForeground>"
-239,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_329","<UIForeground>F20223</UIForeground>你之所以能夠做到這些，依靠的並非神蹟，
+239,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_329","<UIForeground>F20223</UIForeground>你之所以能夠做到這些，依靠的並非神跡，
 而是祈願繁榮、渴盼明日的幸福、將期許託付給下一代……
 連綿不絕、傳承至今的人類行為本身。<UIForeground>01</UIForeground>"
 240,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_330","<UIForeground>F20223</UIForeground>謝謝你。
 這是我和我的原型
 以及那些仰慕維涅斯的老朋友們想向你表達的謝意。<UIForeground>01</UIForeground>"
 241,"TEXT_STMBDR602_04587_OMEGA_000_331","沙沙……沙沙沙沙……"
-242,"TEXT_STMBDR602_04587_OMEGA_000_332"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 說的內容我能理解。
+242,"TEXT_STMBDR602_04587_OMEGA_000_332","<Highlight>ObjectParameter(1)</Highlight>說的內容我能理解。
 但是……沙沙……"
 243,"TEXT_STMBDR602_04587_OMEGA_000_333","人類又會如何解釋這些事實呢……
 我無法理解為何你們的言談中對維涅斯飽含友善。"
@@ -469,7 +469,7 @@ int32,str,str
 但至少可以說愛梅特賽爾克他們
 因為她經歷了相當漫長的煎熬。"
 246,"TEXT_STMBDR602_04587_OMEGA_000_336","如果說最終的目標只是將物種延續下去的話，
-那也可以將荷米斯的行為視作好意接受嗎？"
+那也可以將赫爾墨斯的行為視作好意接受嗎？"
 247,"TEXT_STMBDR602_04587_OMEGA_000_337","他的行動與我們遠古祖先做出的選擇相似。
 他們為了改變不斷被其他種族迫害的生活，
 改造了自己的身體。"
@@ -492,11 +492,11 @@ int32,str,str
 255,"TEXT_STMBDR602_04587_Q5_000_245","如何作答？"
 256,"TEXT_STMBDR602_04587_A5_000_246","他們都有屬於自己的正義"
 257,"TEXT_STMBDR602_04587_A5_000_247","維涅斯"
-258,"TEXT_STMBDR602_04587_A5_000_248","荷米斯"
+258,"TEXT_STMBDR602_04587_A5_000_248","赫爾墨斯"
 259,"TEXT_STMBDR602_04587_A5_000_249","愛梅特賽爾克"
 260,"TEXT_STMBDR602_04587_A5_000_250","沒有誰是正確的"
 261,"TEXT_STMBDR602_04587_OMEGA_000_351","是這樣啊……"
-262,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_352","<UIForeground>F20223</UIForeground> <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 給出的答案
+262,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_352","<UIForeground>F20223</UIForeground><Highlight>ObjectParameter(1)</Highlight>給出的答案
 與我基於自身經驗推導出的結論
 不一定是完全相同的。<UIForeground>01</UIForeground>"
 263,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_353","<UIForeground>F20223</UIForeground>同樣的，如果你也有自己的想法，
@@ -508,19 +508,19 @@ int32,str,str
 理解的差異並不會為我們帶來強大。"
 266,"TEXT_STMBDR602_04587_OMEGA_000_356","不過你的發言內容確實值得參考。
 保存……我會將這段內容與其他的面談結果一同寫入資料庫。"
-267,"TEXT_STMBDR602_04587_OMEGA_000_357","針對僅憑末日報告書無法瞭解的事項，
+267,"TEXT_STMBDR602_04587_OMEGA_000_357","針對僅憑末日報告書無法了解的事項，
 我已經獲得了大致的情報。"
 268,"TEXT_STMBDR602_04587_OMEGA_000_358","我將重新分析收集到的情報，
 以便詳細研究主機為何決定終結一切。"
 269,"TEXT_STMBDR602_04587_OMEGA_000_359","沙沙……委託已經達成，
-我們返回畢格斯他們所在的驚愕所吧。"
+我們返回比格斯他們所在的驚愕所吧。"
 270,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_360","<UIForeground>F20223</UIForeground>我很高興聽到你講述厄爾庇斯的故事。
-如果你想繼續暢談他們的事蹟，
+如果你想繼續暢談他們的事跡，
 可以再次來訪，我一定洗耳恭聽。<UIForeground>01</UIForeground>"
 271,"TEXT_STMBDR602_04587_WATCHEROFMOON_000_361","<UIForeground>F20223</UIForeground>即便是邁向明日之人，
 有時思緒也會飄向過去的時光。
 不過海德林從未談論過這類事情……<UIForeground>01</UIForeground>"
-272,"TEXT_STMBDR602_04587_WEDGE_000_365"," <Highlight>ObjectParameter(1)</Highlight> ！
+272,"TEXT_STMBDR602_04587_WEDGE_000_365","<Highlight>ObjectParameter(1)</Highlight>！
 太好了，我還以為你趕不上了呢！"
 273,"TEXT_STMBDR602_04587_SCIENTIST04586_000_370","歡迎回來，你有什麼收穫嗎？
 我恨不得現在就想打聽你和歐米茄到底聊了什麼，
@@ -537,7 +537,7 @@ int32,str,str
 279,"TEXT_STMBDR602_04587_BIGGS_000_392","我本來還想問問包括神秘消息在內的各種事情……
 不過很抱歉，我們這邊突然有了急事。"
 280,"TEXT_STMBDR602_04587_BIGGS_000_393","聽說在其他地方幹活的職員出了點問題，
-傑西讓我和威吉火速趕去現場支援。"
+傑西讓我和魏吉火速趕去現場支援。"
 281,"TEXT_STMBDR602_04587_BIGGS_000_394","過來接我們的飛空艇剛好到了知識神海港。
 不好意思，我們能不能邊走邊聊？"
 282,"TEXT_STMBDR602_04587_OMEGA_000_395","沙沙……我沒有問題，
@@ -548,7 +548,7 @@ int32,str,str
 285,"TEXT_STMBDR602_04587_OMEGA_000_501","我一直認為心是你們人類固有的能力。"
 286,"TEXT_STMBDR602_04587_OMEGA_000_502","它是一種基於未知法則的力量……
 我們奧密克戎無法學會，甚至無法觀測。"
-287,"TEXT_STMBDR602_04587_OMEGA_000_503","直至現在，我仍未瞭解這種能力的全貌。"
+287,"TEXT_STMBDR602_04587_OMEGA_000_503","直至現在，我仍未了解這種能力的全貌。"
 288,"TEXT_STMBDR602_04587_OMEGA_000_504","不過綜合這次的面談結果，
 我想修正它的定義。"
 289,"TEXT_STMBDR602_04587_OMEGA_000_505","心是一種影響個體演繹現實的現象……"
@@ -580,33 +580,33 @@ int32,str,str
 305,"TEXT_STMBDR602_04587_OMEGA_000_518","這種發出沒有任何指向性資訊的行為，
 究竟有著怎樣的價值呢。"
 306,"TEXT_STMBDR602_04587_OMEGA_000_519","其中「幸福」這種表達方式欠缺具體性。
-只是傳送語言消息的話也很難實現這一目標。"
+只是發送語言消息的話也很難實現這一目標。"
 307,"TEXT_STMBDR602_04587_OMEGA_000_520","所以我一直沒能理解他們聽完資訊後露出的表情。"
 308,"TEXT_STMBDR602_04587_OMEGA_000_521","而且我也尚未理解主機你的心。"
 309,"TEXT_STMBDR602_04587_OMEGA_000_522","你選擇的終結真的正確嗎？
 你是如何推導出這個答案的？"
 310,"TEXT_STMBDR602_04587_OMEGA_000_523","我無法理解……"
-311,"TEXT_STMBDR602_04587_OMEGA_000_524","不過我是可以透過學習進化的兵器。
+311,"TEXT_STMBDR602_04587_OMEGA_000_524","不過我是可以通過學習進化的兵器。
 總有一天，我也能完全領悟心吧。"
 312,"TEXT_STMBDR602_04587_OMEGA_000_525","所以……我決定暫時背棄你選擇的終結。"
 313,"TEXT_STMBDR602_04587_OMEGA_000_526","我會在這顆遙遠的星球生存下去。
 在眾多的生命之中探究心為何物。"
 314,"TEXT_STMBDR602_04587_OMEGA_000_527","我將記錄他們走下的旅途……"
 315,"TEXT_STMBDR602_04587_ALPHA_000_530","咕哎咕哎！"
-316,"TEXT_STMBDR602_04587_OMEGA_000_540"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你一路的陪同，
+316,"TEXT_STMBDR602_04587_OMEGA_000_540","<Highlight>ObjectParameter(1)</Highlight>，感謝你一路的陪同，
 我獲得了許多寶貴的情報。"
 317,"TEXT_STMBDR602_04587_OMEGA_000_541","既然約定已經達成，
 我和阿爾法將再次開啟環遊世界之旅。"
-318,"TEXT_STMBDR602_04587_OMEGA_000_542","這次的經歷讓我成長了很多，
+318,"TEXT_STMBDR602_04587_OMEGA_000_542","這回的經歷讓我成長了很多，
 我想今後我們可以前往更多、更遠的地方。"
-319,"TEXT_STMBDR602_04587_OMEGA_000_543","除了這座島和艾奧傑亞內還未去過的地方，
+319,"TEXT_STMBDR602_04587_OMEGA_000_543","除了這座島和艾歐澤亞內還未去過的地方，
 薩維奈島和東方也在我們的目標範圍內。
 也有可能再次前往加雷馬……啊。"
-320,"TEXT_STMBDR602_04587_OMEGA_000_544","沙沙沙，沒有及時要求畢格斯和威吉
+320,"TEXT_STMBDR602_04587_OMEGA_000_544","沙沙沙，沒有及時要求比格斯和魏吉
 改良這副軀體的抗凍性。
 只好請傑西維護了。"
-321,"TEXT_STMBDR602_04587_OMEGA_000_545","出發……迅速展開作戰。
-再見了， <Highlight>ObjectParameter(1)</Highlight> 。"
+321,"TEXT_STMBDR602_04587_OMEGA_000_545","出發……迅速開展作戰。
+再見了，<Highlight>ObjectParameter(1)</Highlight>。"
 322,"TEXT_STMBDR602_04587_SYSTEM_000_546","阿爾法高興地扭動著身體，
 從翅膀內側取出了一張紙片。
 是它在哪裡撿到的嗎？"

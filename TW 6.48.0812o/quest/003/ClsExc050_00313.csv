@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_CLSEXC050_00313_SEQ_00","斧術師公會會長威爾恩茲恩，為冒險者準備了試煉，學習斧術的基礎。"
 1,"TEXT_CLSEXC050_00313_SEQ_01","威爾恩茲恩讓冒險者去找布倫巴爾打聽修行的詳細內容。和斧術師公會練習場裡的布倫巴爾談談。"
 2,"TEXT_CLSEXC050_00313_SEQ_02","布倫巴爾給冒險者布置的是劈開岩石的碎岩修行。前往中拉諾西亞的無賴川附近，和負責監督修行的羅特蓋姆對話。"
-3,"TEXT_CLSEXC050_00313_SEQ_03","羅特蓋姆讓冒險者去破壞她準備的岩石。使用重劈破壞無賴川旁邊的堅硬的岩石。"
+3,"TEXT_CLSEXC050_00313_SEQ_03","羅特蓋姆讓冒險者去破壞她準備的岩石。使用重劈破壞無賴川邊上的堅硬的岩石。"
 4,"TEXT_CLSEXC050_00313_SEQ_04","成功破壞了3個堅硬的岩石。向羅特蓋姆報告。"
-5,"TEXT_CLSEXC050_00313_SEQ_05","羅特蓋姆讓冒險者再去破壞一些岩石。使用重劈破壞無賴川旁邊的堅硬的岩石。"
+5,"TEXT_CLSEXC050_00313_SEQ_05","羅特蓋姆讓冒險者再去破壞一些岩石。使用重劈破壞無賴川邊上的堅硬的岩石。"
 6,"TEXT_CLSEXC050_00313_SEQ_06","成功破壞了3個堅硬的岩石。向羅特蓋姆報告。"
 7,"TEXT_CLSEXC050_00313_SEQ_07","羅特蓋姆對冒險者在修行中的表現很滿意。向斧術師公會的威爾恩茲恩報告。"
 8,"TEXT_CLSEXC050_00313_SEQ_08","威爾恩茲恩想要冒險者去消滅在赤血雄雞農場附近出沒的巨型陸蟹。和斧術師公會的協力者索爾克維布見面。"
@@ -57,7 +57,7 @@ int32,str,str
 那自然是利用厚重的斧刃所造成的破壞力。
 而壓倒性的破壞力，需要壓倒性的力量來支撐！"
 50,"TEXT_CLSEXC050_00313_WYRNZOEN_000_3","因此，我要傳授給你斧術師代代相傳下來的傳統修行方式。
-試著完成這個修行吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+試著完成這個修行吧，<Highlight>ObjectParameter(1)</Highlight>。"
 51,"TEXT_CLSEXC050_00313_WYRNZOEN_000_4","修行的具體內容，
 你可以去找下面練習場裡的布倫巴爾打聽。"
 52,"TEXT_CLSEXC050_00313_BROENBHAR_000_10","會長交代過我了。
@@ -95,7 +95,7 @@ int32,str,str
 64,"TEXT_CLSEXC050_00313_NEDDARD_000_81","來、來人啊！"
 65,"TEXT_CLSEXC050_00313_NEDDARD_000_83","我、我孫子在那邊被巨型陸蟹襲擊了！
 我都跟他說過那麼多遍不要接近陸蟹巢穴了……"
-66,"TEXT_CLSEXC050_00313_SOLKWYB_000_85","快點， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+66,"TEXT_CLSEXC050_00313_SOLKWYB_000_85","快點，<Highlight>ObjectParameter(1)</Highlight>！
 沒有磨蹭的時間了，
 老爺爺的孫子在等著我們去營救呢！快！"
 67,"TEXT_CLSEXC050_00313_SIGHARD_000_40","可惡，可惡！
@@ -112,12 +112,12 @@ int32,str,str
 74,"TEXT_CLSEXC050_00313_SIGHARD_000_93","求求你，<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>。
 幫我爸爸和媽媽報仇！"
 75,"TEXT_CLSEXC050_00313_SOLKWYB_000_94","小弟弟，你的心情我很理解。
-這個叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的傢伙是斧術師公會的人，
+這個叫<Highlight>ObjectParameter(1)</Highlight>的傢伙是斧術師公會的人，
 那裡的傢伙都是正義的夥伴哦，他們會幫你的。"
 76,"TEXT_CLSEXC050_00313_SOLKWYB_000_95","所以你就安心等著我們的好消息吧。
 作為條件，你以後不能再讓爺爺擔心了哦。
 好了，認識到自己錯誤的話，就快點回家吧。"
-77,"TEXT_CLSEXC050_00313_SOLKWYB_000_96","回去了呢……那麼 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+77,"TEXT_CLSEXC050_00313_SOLKWYB_000_96","回去了呢……那麼<Highlight>ObjectParameter(1)</Highlight>，
 我們也回去向我哥……
 向威爾恩茲恩報告吧。"
 78,"TEXT_CLSEXC050_00313_WYRNZOEN_000_100","總算是順利地打倒了巨型陸蟹啊。
@@ -132,10 +132,10 @@ int32,str,str
 真是令人不愉快……"
 82,"TEXT_CLSEXC050_00313_WYRNZOEN_000_105","你可能很想去幫少年報仇，但是不要操之過急。
 那對現在的你來說還是無法戰勝的對手。
-想要實現少年的心願的話，就變得更強吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+想要實現少年的心願的話，就變得更強吧，<Highlight>ObjectParameter(1)</Highlight>。"
 83,"TEXT_CLSEXC050_00313_QIB_TODO001","打倒巨型陸蟹群"
 84,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_01","我會用治療魔法支援你！"
-85,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_02"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，不要離開我的身邊！"
+85,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>，不要離開我的身邊！"
 86,"TEXT_CLSEXC050_00313_BROENBHAR_BATTLETALK_11","我來助你們一臂之力！
 因為擔心而跟過來果然是對的！"
 87,"TEXT_CLSEXC050_00313_BROENBHAR_BATTLETALK_21","呵，好像來了個相當結實的傢伙啊！"

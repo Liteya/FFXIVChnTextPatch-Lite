@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGWILREDUCE_00276_TALK_Q1","想瞭解什麼？"
+0,"TEXT_REGWILREDUCE_00276_TALK_Q1","想了解什麼？"
 1,"TEXT_REGWILREDUCE_00276_TALK_A1","什麼是「精選」？"
 2,"TEXT_REGWILREDUCE_00276_TALK_A2","精選的竅門"
 3,"TEXT_REGWILREDUCE_00276_TALK_A3","取消"
@@ -11,6 +11,6 @@ int32,str,str
 靈活利用採集筆記和魚類圖鑑，到處找找吧！"
 6,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010","這是很重要的一點……
 沒有「收藏價值」的東西是沒辦法用「精選」的。
-要進行精選，一定要準備好收藏品才行。"
+要進行精選，必須要準備好收藏品才行。"
 7,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011","另外，素材的收藏價值越高、越稀有，
 那麼就越容易精選出貴重的物品。"

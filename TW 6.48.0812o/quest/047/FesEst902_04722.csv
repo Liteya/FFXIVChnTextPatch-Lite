@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_FESEST902_04722_SEQ_00","※本任務是特定期間內的任務。
 
-米．凱特露天劇場的哈姆林想要就解決辦法進行說明。"
+米·凱特露天劇場的哈姆林想要就解決辦法進行說明。"
 1,"TEXT_FESEST902_04722_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
@@ -11,8 +11,8 @@ int32,str,str
 和哈姆林等人進行了交談。完成中央林區的危命任務「彩蛋狩獵『妖精族大戰冬貝利』」，幫忙回收預言蛋。
 
 危命任務「彩蛋狩獵『妖精族大戰冬貝利」只有戰鬥菁英及魔法導師職業才能完成。"
-2,"TEXT_FESEST902_04722_SEQ_02","完成了危命任務「彩蛋狩獵『妖精族大戰冬貝利」，幫忙回收了預言蛋。向格里達尼亞米．凱特露天劇場的吉莉．阿里亞珀報告。"
-3,"TEXT_FESEST902_04722_SEQ_03","向吉莉．阿里亞珀進行了報告。在她的開幕演講後，彩蛋狩獵正式開始了。一邊協助對付妖精族的惡作劇，一邊扮裝成冬貝利享受節日。"
+2,"TEXT_FESEST902_04722_SEQ_02","完成了危命任務「彩蛋狩獵『妖精族大戰冬貝利」，幫忙回收了預言蛋。向格里達尼亞米·凱特露天劇場的吉莉·阿里亞珀報告。"
+3,"TEXT_FESEST902_04722_SEQ_03","向吉莉·阿里亞珀進行了報告。在她的開幕演講後，彩蛋狩獵正式開始了。一邊協助對付妖精族的惡作劇，一邊扮裝成冬貝利享受節日。"
 4,"TEXT_FESEST902_04722_SEQ_04",""
 5,"TEXT_FESEST902_04722_SEQ_05",""
 6,"TEXT_FESEST902_04722_SEQ_06",""
@@ -34,7 +34,7 @@ int32,str,str
 22,"TEXT_FESEST902_04722_SEQ_22",""
 23,"TEXT_FESEST902_04722_SEQ_23",""
 24,"TEXT_FESEST902_04722_TODO_00","完成中央林區的危命任務"
-25,"TEXT_FESEST902_04722_TODO_01","向吉莉．阿里亞珀報告"
+25,"TEXT_FESEST902_04722_TODO_01","向吉莉·阿里亞珀報告"
 26,"TEXT_FESEST902_04722_TODO_02",""
 27,"TEXT_FESEST902_04722_TODO_03",""
 28,"TEXT_FESEST902_04722_TODO_04",""
@@ -70,7 +70,7 @@ int32,str,str
 54,"TEXT_FESEST902_04722_NONOTTA_000_006","原來還有這一招！
 但失控的魔法人偶要怎麼辦？
 一旦接近，就會被它們當成偷蛋賊攻擊！"
-55,"TEXT_FESEST902_04722_HAMLYN_000_007","到時候就輪到 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 這些冒險者大顯身手了！
+55,"TEXT_FESEST902_04722_HAMLYN_000_007","到時候就輪到<Highlight>ObjectParameter(1)</Highlight>這些冒險者大顯身手了！
 如果魔法人偶發動攻擊，就讓戰鬥方面的專家來收拾它們。"
 56,"TEXT_FESEST902_04722_HAMLYN_000_008","當然，我不會讓你毫無準備就去對付魔法人偶的。"
 57,"TEXT_FESEST902_04722_HAMLYN_100_008","對手畢竟是魔法人偶和妖精族，我會幫你加強玩偶服的防禦，
@@ -85,9 +85,9 @@ int32,str,str
 我們在中央林區碰面吧！"
 61,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_012","我去委託冒險者公會來幫忙！"
 62,"TEXT_FESEST902_04722_NONOTTA_000_013","魔法人偶徘徊在中央林區的鏡池棧橋附近！"
-63,"TEXT_FESEST902_04722_NONOTTA_000_015","辛苦了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+63,"TEXT_FESEST902_04722_NONOTTA_000_015","辛苦了，<Highlight>ObjectParameter(1)</Highlight>！"
 64,"TEXT_FESEST902_04722_HAMLYN_000_016","冬貝利那勇敢戰鬥的身姿，真是太棒了！"
-65,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_020","歡迎回來， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+65,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_020","歡迎回來，<Highlight>ObjectParameter(1)</Highlight>。
 我已經從先回來的哈姆林那裡聽說了整個過程。"
 66,"TEXT_FESEST902_04722_NONOTTA_000_021","真的是非常非常感謝你幫忙回收預言蛋！"
 67,"TEXT_FESEST902_04722_HAMLYN_000_023","本來想讓大家都見識一下冬貝利的雄姿，
@@ -118,8 +118,8 @@ int32,str,str
 也許可以讓雕金匠把追加的預言蛋做成冬貝利風格！"
 82,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_037","不過運送途中預言蛋是打包起來的，嚇不到妖精族。
 它們可能不長記性還來搗亂。
-但我也沒辦法扮裝成冬貝利，從烏爾達哈長途跋涉……"
-83,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_038"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們也會想辦法解決這個問題的，
+但我也沒法扮裝成冬貝利，從烏爾達哈長途跋涉……"
+83,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_038","<Highlight>ObjectParameter(1)</Highlight>，我們也會想辦法解決這個問題的，
 但要是你又看到魔法人偶在徘徊……希望你能幫忙處理一下。"
 84,"TEXT_FESEST902_04722_JIHLIALIAPOH_000_039","好了，預言蛋也運到了……
 終於可以開始彩蛋狩獵了！"

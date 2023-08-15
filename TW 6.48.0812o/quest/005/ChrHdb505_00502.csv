@@ -1,19 +1,19 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CHRHDB505_00502_SEQ_00","茱莉安希望冒險者儘快出發。"
+0,"TEXT_CHRHDB505_00502_SEQ_00","茱莉安希望冒險者盡快出發。"
 1,"TEXT_CHRHDB505_00502_SEQ_01","冒險者被茱莉安催促著出發了。前往中薩納蘭的希拉狄哈遺跡，據說埃莉就在那裡。和菲莉絲談談。"
 2,"TEXT_CHRHDB505_00502_SEQ_02","據菲莉絲說，若是作為埃莉友人的冒險者呼喚她的話，她說不定會有回應。將聊天頻道設定為「說話」頻道後，使用鍵盤或軟鍵盤輸入包含「埃莉」的詞句，在希拉狄哈遺跡的<Sheet(EObj,2005188,0)/>對埃莉進行呼喚。"
 3,"TEXT_CHRHDB505_00502_SEQ_03","恢復活力的希爾迪布蘭德出現了，成功抓住了埃莉。但是，在大家正為解決了事件而歡呼雀躍時，吉爾伽美什搶過誓約之劍逃走了。吉爾伽美什甚至召喚出了友神「恩奇都」。前往南部林區的無限城古堡，和希爾迪布蘭德談談。"
 4,"TEXT_CHRHDB505_00502_SEQ_04","據希爾迪布蘭德說，他沒能抓住吉爾伽美什。和吉爾伽美什一決勝負，奪回誓約之劍。
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 5,"TEXT_CHRHDB505_00502_SEQ_05","打倒了吉爾伽美什和恩奇都。離開無限城古堡，返回南部林區。"
 6,"TEXT_CHRHDB505_00502_SEQ_06","返回了南部林區。向無限城古堡前的希爾迪布蘭德報告。"
 7,"TEXT_CHRHDB505_00502_SEQ_07","雖然希爾迪布蘭德成功找回了誓約之劍，但他卻因集齊了四大神器，被隱藏在神器中的大魔法送上了高空。多虧了他紳士般的活躍表現，這一連串的事件在華麗的魔法與大家燦爛的笑容中落幕了。調查員希爾迪布蘭德一邊感受著新的事件的香氣，一邊向著遠方飛去，現在只能祈禱他不要再喪失記憶了。
 
-※滿足下列條件後，可以從伊修加爾德的娜修．瑪卡拉卡那裡領取新的支線任務。
-完成「蒼天的伊修加爾德主線任務」中「蒼天的伊修加爾德」。"
+※滿足下列條件後，可以從伊修加德的娜修·瑪卡拉卡那裡領取新的支線任務。
+完成「蒼穹之禁城主線任務」中「蒼穹之禁城」。"
 8,"TEXT_CHRHDB505_00502_SEQ_08",""
 9,"TEXT_CHRHDB505_00502_SEQ_09",""
 10,"TEXT_CHRHDB505_00502_SEQ_10",""
@@ -32,7 +32,8 @@ int32,str,str
 23,"TEXT_CHRHDB505_00502_SEQ_23",""
 24,"TEXT_CHRHDB505_00502_TODO_00","和希拉狄哈遺跡的菲莉絲對話"
 25,"TEXT_CHRHDB505_00502_TODO_01","在「說話」頻道下輸入含有「埃莉」的詞句
-在<Sheet(EObj,2005188,0)/>周圍呼喚埃莉（Ellie!）"
+在<Sheet(EObj,2005188,0)/>周圍呼喚埃莉
+（Ellie!）"
 26,"TEXT_CHRHDB505_00502_TODO_02","和無限城古堡前的希爾迪布蘭德對話"
 27,"TEXT_CHRHDB505_00502_TODO_03","完成無限城的死鬥"
 28,"TEXT_CHRHDB505_00502_TODO_04","完成無限城的死鬥"
@@ -64,8 +65,8 @@ int32,str,str
 51,"TEXT_CHRHDB505_00502_PHILLICE_000_050","埃莉就在這前面。
 可她根本不回應我們的呼喚。"
 52,"TEXT_CHRHDB505_00502_PHILLICE_000_051","而且由於不知道她打算什麼時候使用來生神之淚，
-我們也不能貿然接近……"
-53,"TEXT_CHRHDB505_00502_PHILLICE_000_052"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ,
+我們也不能冒然接近……"
+53,"TEXT_CHRHDB505_00502_PHILLICE_000_052","<Highlight>ObjectParameter(1)</Highlight>,
 你們是她的朋友，如果由你們來呼喚她的話，
 她說不定會有所回應。"
 54,"TEXT_CHRHDB505_00502_PHILLICE_000_053","能不能請你們到能讓她聽見的地方去，
@@ -78,10 +79,10 @@ int32,str,str
 57,"TEXT_CHRHDB505_00502_PHILLICE_000_060","請到埃莉能夠聽見的地方呼喚她的名字！
 拜託了！"
 58,"TEXT_CHRHDB505_00502_SAYTODO_000_000","Ellie!"
-59,"TEXT_CHRHDB505_00502_BRIARDIEN_000_090","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也來幫幫忙。"
+59,"TEXT_CHRHDB505_00502_BRIARDIEN_000_090","……<Highlight>ObjectParameter(1)</Highlight>，你也來幫幫忙。"
 60,"TEXT_CHRHDB505_00502_NASHUMHAKARACCA_000_095","埃莉，怎麼會這樣……"
 61,"TEXT_CHRHDB505_00502_GILGAMESH_000_100","沒想到那位大姐竟然就是犯人……
-我買完東西就立刻趕過來了，這氣氛還真是尷尬啊……"
+我買完東西就立馬趕過來了，這氣氛還真是尷尬啊……"
 62,"TEXT_CHRHDB505_00502_GODBERT_000_110","呵……真是頭疼啊。
 看來她已經得到了大量的來生神之淚。
 你可不能刺激到她啊。"
@@ -90,7 +91,7 @@ int32,str,str
 64,"TEXT_CHRHDB505_00502_BRIARDIEN_000_501","……真的是你啊。"
 65,"TEXT_CHRHDB505_00502_BRIARDIEN_000_502","我們已經抓住你的妹妹塞茜了。
 如果你現在要動手的話，你的妹妹也會有危險。"
-66,"TEXT_CHRHDB505_00502_ELLIE_000_503","……前幾個日子發生鬥技場事件的時候，
+66,"TEXT_CHRHDB505_00502_ELLIE_000_503","……前些日子發生鬥技場事件的時候，
 有人不是說了這麼一句話麼，
 「一無所有的傢伙什麼都幹得出來」，沒錯吧？"
 67,"TEXT_CHRHDB505_00502_ELLIE_000_504","我們姐妹倆，除了彼此以外再沒有別的親人了。
@@ -103,7 +104,7 @@ int32,str,str
 快住手！！"
 70,"TEXT_CHRHDB505_00502_ELLIE_000_507","……沒用的！"
 71,"TEXT_CHRHDB505_00502_BRIARDIEN_100_506","……可惡，這樣下去就完了！"
-72,"TEXT_CHRHDB505_00502_GODBERT_000_508","曼德維爾．雕．金．武．神．霸．斬！！
+72,"TEXT_CHRHDB505_00502_GODBERT_000_508","曼德維爾·雕·金·武·神·霸·斬！！
 "
 73,"TEXT_CHRHDB505_00502_ELLIE_000_509","哼，我這邊還有好多好多殭屍呢。
 你們啊，也不過是靠希爾迪的好運氣撐到了現在。
@@ -115,7 +116,7 @@ int32,str,str
 來生神之淚的效力都是不會消失的！"
 76,"TEXT_CHRHDB505_00502_GODBERT_000_512","嗯……敵人的數量實在太多了！
 這樣下去的話，形勢對我們來說十分不妙啊……"
-77,"TEXT_CHRHDB505_00502_ELLIE_000_513"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你是光之戰士對吧？
+77,"TEXT_CHRHDB505_00502_ELLIE_000_513","<Highlight>ObjectParameter(1)</Highlight>，你是光之戰士對吧？
 如果是你的話，說不定可以使用「那個魔法」呢。
 ……可惜。"
 78,"TEXT_CHRHDB505_00502_ELLIE_000_514","給我上吧，殭屍們！！"
@@ -159,7 +160,7 @@ int32,str,str
 我作為執政者的一員，一定會拼盡全力。"
 95,"TEXT_CHRHDB505_00502_GILGAMESH_000_530","嗯、嗯嗯，啊！咳咳！"
 96,"TEXT_CHRHDB505_00502_GILGAMESH_000_531","喂，你們的話也說完了吧？！
-來吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+來吧，<Highlight>ObjectParameter(1)</Highlight>！
 跟我一決勝負！！"
 97,"TEXT_CHRHDB505_00502_GILGAMESH_000_532","你這副表情，看上去不太感興趣啊……
 要是看到了這個，你還會無動於衷嗎？！"
@@ -168,7 +169,7 @@ int32,str,str
 99,"TEXT_CHRHDB505_00502_GILGAMESH_000_534","哇哈哈，要是想取回這把劍的話，
 就跟我——劍豪吉爾伽美什大人……還有這傢伙一決勝負吧！
 對吧，恩奇都！！"
-100,"TEXT_CHRHDB505_00502_ENKIDU_000_535","……你還是那麼簡單明瞭啊。"
+100,"TEXT_CHRHDB505_00502_ENKIDU_000_535","……你還是那麼簡單明了啊。"
 101,"TEXT_CHRHDB505_00502_PHILLICE_000_536","這、這超乎尋常的姿態？！
 難道……是新品種的妖異？"
 102,"TEXT_CHRHDB505_00502_GILGAMESH_000_537","妖異？才不是呢，這是我的老朋友了！
@@ -178,14 +179,14 @@ int32,str,str
 這是友人……不對，友神「恩奇都」！！"
 104,"TEXT_CHRHDB505_00502_BRIARDIEN_000_539","……淨是些亂來的傢伙啊。"
 105,"TEXT_CHRHDB505_00502_GILGAMESH_000_540","只要我和這傢伙聯手，一定戰無不勝！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我已經選好了我們最終決戰的戰場了！
+<Highlight>ObjectParameter(1)</Highlight>，我已經選好了我們最終決戰的戰場了！
 那啥，好像是個叫無限城古堡的地方。"
 106,"TEXT_CHRHDB505_00502_GILGAMESH_000_541","雖說有點遠……但畢竟是最終決戰的場所，肯定要選擇古堡！
 要想拿回誓約之劍的話，就與我拼盡全力一戰吧！
 哈哈哈！"
 107,"TEXT_CHRHDB505_00502_HILDIBRAND_000_542","我不會讓你得逞的！！"
 108,"TEXT_CHRHDB505_00502_PHILLICE_000_543","什、什麼，竟然只憑一人之力就召喚出了蠻神，真是沒想到……
-必須馬上聯繫拂曉血盟！"
+必須馬上聯絡拂曉血盟！"
 109,"TEXT_CHRHDB505_00502_PHILLICE_000_544","是、是這樣啊！
 你就是幾度討伐了蠻神的光之戰士啊……
 討伐蠻神、奪回寶劍……這兩件任務我可以委託給你吧？"
@@ -195,11 +196,11 @@ int32,str,str
 不管有怎樣的制裁在等待著我，我都會默默接受。
 這就是我這個倖存下來的罪人的使命……"
 112,"TEXT_CHRHDB505_00502_CECY_000_555","姐姐……對不起……"
-113,"TEXT_CHRHDB505_00502_ELLIE_000_560","……對不起，我一直在騙你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+113,"TEXT_CHRHDB505_00502_ELLIE_000_560","……對不起，我一直在騙你，<Highlight>ObjectParameter(1)</Highlight>。"
 114,"TEXT_CHRHDB505_00502_BRIARDIEN_000_565","總之，怪盜白假面事件落幕了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，多虧了有你相助。
+<Highlight>ObjectParameter(1)</Highlight>，多虧了有你相助。
 我真的……非常感謝你。"
-115,"TEXT_CHRHDB505_00502_BRIARDIEN_000_566","……拋棄了身份地位，離開故鄉伊修加爾德來到這裡，
+115,"TEXT_CHRHDB505_00502_BRIARDIEN_000_566","……拋棄了身份地位，離開故鄉伊修加德來到這裡，
 我一點也不後悔。"
 116,"TEXT_CHRHDB505_00502_BRIARDIEN_000_567","在這裡我接觸到了各種各樣的思想，認識了很多人。
 而我自己也有了不願失去的人。
@@ -210,31 +211,31 @@ int32,str,str
 我就知道孩子他媽一定不會讓我兒子變成殭屍的！
 不愧是我承認的最強烹調師！"
 119,"TEXT_CHRHDB505_00502_JULYAN_000_580","太好了，趕上了呢。
-幸虧事先聯繫了殭屍紳士團。
+幸虧事先聯絡了殭屍紳士團。
 他們給了我好多關於藥的建議呢。"
 120,"TEXT_CHRHDB505_00502_HUMPHREY_000_585","光之四紳士……太帥氣了，簡直完美！
 我以後也要像他們那樣耀眼！"
 121,"TEXT_CHRHDB505_00502_HILDIBRAND_000_600","哼……
 就差一點就抓到他了，
 可惜還是被小吉給逃掉了……"
-122,"TEXT_CHRHDB505_00502_HILDIBRAND_000_601","既然如此， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！
+122,"TEXT_CHRHDB505_00502_HILDIBRAND_000_601","既然如此，<Highlight>ObjectParameter(1)</Highlight>閣下！
 看來還是只能交給你來解決啦！"
 123,"TEXT_CHRHDB505_00502_HILDIBRAND_000_602","請你打倒蠻神……不對，打倒友神「恩奇都」，
 從小吉那裡把誓約之劍奪回來！"
 124,"TEXT_CHRHDB505_00502_HILDIBRAND_000_610","請你打倒蠻神……不對，打倒友神「恩奇都」，
 從小吉那裡把誓約之劍奪回來！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……一切拜託你了！"
+<Highlight>ObjectParameter(1)</Highlight>閣下……一切拜託你了！"
 125,"TEXT_CHRHDB505_00502_MAXINNE_000_620","有個戴紅色頭巾的男人惡狠狠地衝了進去啊。
 難道，他也是來向邪教教團尋仇的？"
 126,"TEXT_CHRHDB505_00502_MAXINNE_000_630","剛才裡面發出了好大的聲響啊……你沒事吧？
 這個肌肉男也一直很擔心你呢。"
-127,"TEXT_CHRHDB505_00502_HILDIBRAND_000_700"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你沒事真是太好了！
+127,"TEXT_CHRHDB505_00502_HILDIBRAND_000_700","<Highlight>ObjectParameter(1)</Highlight>閣下，你沒事真是太好了！
 你從小吉那裡奪回誓約之劍了嗎？！"
 128,"TEXT_CHRHDB505_00502_HILDIBRAND_000_701","……原來如此，
 小吉說他把劍藏在附近的森林裡了啊……"
 129,"TEXT_CHRHDB505_00502_HILDIBRAND_000_702","這樣的話，就包在我希爾迪布蘭德身上吧！
 不管是一把劍還是兩把劍，我都能一下子找到的！！"
-130,"TEXT_CHRHDB505_00502_PHILLICE_000_900"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+130,"TEXT_CHRHDB505_00502_PHILLICE_000_900","<Highlight>ObjectParameter(1)</Highlight>！
 蠻神和誓約之劍的情況都如何了？！"
 131,"TEXT_CHRHDB505_00502_PHILLICE_000_901","噢噢，不愧是光之戰士！
 真是辛苦你討伐蠻神了！

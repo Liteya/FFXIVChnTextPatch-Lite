@@ -5,33 +5,33 @@ int32,str,str
 阿爾達希爾希望讓人造元靈與作為身體的武器相契合。"
 1,"TEXT_JOBREL102_02213_SEQ_01","※本任務為<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 職業固定任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
-※另外，還需要裝備上元靈武器．元靈才能讓任務繼續進行。
+※另外，還需要裝備上元靈武器·元靈才能讓任務繼續進行。
 
-蓋羅爾特提議透過回顧冒險者自身戰鬥的足跡促使元靈武器進行成長。使用接受任務時的職業並裝備上元靈武器突破凜冽洞天披雪大冰壁。"
+蓋羅爾特提議通過回顧冒險者自身戰鬥的足跡促使元靈武器進行成長。使用接受任務時的職業並裝備上元靈武器突破凜冽洞天披雪大冰壁。"
 2,"TEXT_JOBREL102_02213_SEQ_02","突破了凜冽洞天披雪大冰壁。接下來使用接受任務時的職業並裝備上元靈武器突破逆轉要害沙斯塔夏溶洞。
 
-※該副本可透過支線任務開啟。"
+※該副本可通過支線任務開啟。"
 3,"TEXT_JOBREL102_02213_SEQ_03","突破了逆轉要害沙斯塔夏溶洞。接下來使用接受任務時的職業並裝備上元靈武器突破甦醒遺跡喀恩埋沒聖堂。
 
-※該副本可透過支線任務開啟。"
+※該副本可通過支線任務開啟。"
 4,"TEXT_JOBREL102_02213_SEQ_04","突破了甦醒遺跡喀恩埋沒聖堂。使用接受任務時的職業並裝備上元靈武器，向南薩納蘭喀恩埋沒聖堂前的阿爾達希爾報告。"
 5,"TEXT_JOBREL102_02213_SEQ_05","向阿爾達希爾報告完畢。接下來使用接受任務時的職業並裝備上元靈武器突破幻龍殘骸密約之塔。"
 6,"TEXT_JOBREL102_02213_SEQ_06","突破了幻龍殘骸密約之塔。接下來使用接受任務時的職業並裝備上元靈武器突破武裝聖域放浪神古神殿。
 
-※該副本可透過支線任務開啟。"
+※該副本可通過支線任務開啟。"
 7,"TEXT_JOBREL102_02213_SEQ_07","突破了武裝聖域放浪神古神殿。接下來使用接受任務時的職業並裝備上元靈武器突破邪念妖地無限城古堡。
 
-※該副本可透過支線任務開啟。"
+※該副本可通過支線任務開啟。"
 8,"TEXT_JOBREL102_02213_SEQ_08","突破了邪念妖地無限城古堡。使用接受任務時的職業並裝備上元靈武器，向黑衣森林南部林區無限城古堡前的阿爾達希爾報告。"
 9,"TEXT_JOBREL102_02213_SEQ_09","向阿爾達希爾報告完畢。接下來使用接受任務時的職業並裝備上元靈武器突破冰雪廢堡暮衛塔。
 
-※該副本可透過支線任務開啟。"
+※該副本可通過支線任務開啟。"
 10,"TEXT_JOBREL102_02213_SEQ_10","突破了冰雪廢堡暮衛塔。接下來使用接受任務時的職業並裝備上元靈武器突破天山絕頂索姆阿爾靈峰。"
 11,"TEXT_JOBREL102_02213_SEQ_11","突破了天山絕頂索姆阿爾靈峰。接下來使用接受任務時的職業並裝備上元靈武器突破邪龍王座龍巢神殿。"
-12,"TEXT_JOBREL102_02213_SEQ_12","突破了邪龍王座龍巢神殿。接下來使用接受任務時的職業並裝備上元靈武器突破聖教中樞伊修加爾德教皇廳。"
-13,"TEXT_JOBREL102_02213_SEQ_13","突破了聖教中樞伊修加爾德教皇廳。使用接受任務時的職業並裝備上元靈武器，向伊修加爾德教皇廳前的阿爾達希爾報告。"
+12,"TEXT_JOBREL102_02213_SEQ_12","突破了邪龍王座龍巢神殿。接下來使用接受任務時的職業並裝備上元靈武器突破聖教中樞伊修加德教皇廳。"
+13,"TEXT_JOBREL102_02213_SEQ_13","突破了聖教中樞伊修加德教皇廳。使用接受任務時的職業並裝備上元靈武器，向伊修加德教皇廳前的阿爾達希爾報告。"
 14,"TEXT_JOBREL102_02213_SEQ_14","向阿爾達希爾報告完畢。不知出現在冒險者面前的是否就是人造元靈……使用接受任務時的職業並換下元靈武器放在兵裝庫或背包中向魔大陸阿濟茲拉螺旋港的阿爾達希爾報告。"
-15,"TEXT_JOBREL102_02213_SEQ_15","向阿爾達希爾報告完畢。繼人造元靈產生幻體後，元靈武器的本體也接受強化，終令元靈武器．覺醒現世了。阿爾達希爾認為能口吐人言這點是人造元靈成長的有力證明。為下一次研究做好準備工作。"
+15,"TEXT_JOBREL102_02213_SEQ_15","向阿爾達希爾報告完畢。繼人造元靈生成幻體後，元靈武器的本體也接受強化，終令元靈武器·覺醒現世了。阿爾達希爾認為能口吐人言這點是人造元靈成長的有力證明。為下一次研究做好準備工作。"
 16,"TEXT_JOBREL102_02213_SEQ_16",""
 17,"TEXT_JOBREL102_02213_SEQ_17",""
 18,"TEXT_JOBREL102_02213_SEQ_18",""
@@ -53,9 +53,9 @@ int32,str,str
 32,"TEXT_JOBREL102_02213_TODO_08","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If> 突破冰雪廢堡暮衛塔"
 33,"TEXT_JOBREL102_02213_TODO_09","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If> 突破天山絕頂索姆阿爾靈峰"
 34,"TEXT_JOBREL102_02213_TODO_10","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If> 突破邪龍王座龍巢神殿"
-35,"TEXT_JOBREL102_02213_TODO_11","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If> 突破聖教中樞伊修加爾德教皇廳"
+35,"TEXT_JOBREL102_02213_TODO_11","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If> 突破聖教中樞伊修加德教皇廳"
 36,"TEXT_JOBREL102_02213_TODO_12","裝備<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
-和伊修加爾德教皇廳前的阿爾達希爾對話"
+和伊修加德教皇廳前的阿爾達希爾對話"
 37,"TEXT_JOBREL102_02213_TODO_13","攜帶<If(Equal(IntegerParameter(4),19))><Sheet(Item,13611,0)/>與<Sheet(Item,13624,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13612,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13613,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13614,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13615,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13619,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13620,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13621,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13622,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13616,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13618,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13617,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13623,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>
 和螺旋港的阿爾達希爾對話"
 38,"TEXT_JOBREL102_02213_TODO_14",""
@@ -75,7 +75,7 @@ int32,str,str
 51,"TEXT_JOBREL102_02213_A2_100_000","創造<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器"
 52,"TEXT_JOBREL102_02213_SYSTEM_100_001","接受任務「英雄的軌跡」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 53,"TEXT_JOBREL102_02213_SYSTEM_100_002","請轉換為與所需元靈武器相應的特職，
 再次和阿爾達希爾對話。"
 54,"TEXT_JOBREL102_02213_SYSTEM_100_003","要接受任務「英雄的軌跡」，
@@ -88,7 +88,7 @@ int32,str,str
 57,"TEXT_JOBREL102_02213_SYSTEM_100_006","已擁有<Sheet(Item,IntegerParameter(1),0)/>。
 請轉換為其它特職，
 再次和阿爾達希爾對話。"
-58,"TEXT_JOBREL102_02213_ARDASHIR_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看來你已經做好準備了。
+58,"TEXT_JOBREL102_02213_ARDASHIR_000_000","<Highlight>ObjectParameter(1)</Highlight>，看來你已經做好準備了。
 那我們就開始下一階段的工程吧！"
 59,"TEXT_JOBREL102_02213_ARDASHIR_000_001","元靈武器中寄宿的人造元靈就像是剛出生的嬰兒。"
 60,"TEXT_JOBREL102_02213_ARDASHIR_100_001","靈魂如果不能很好地和作為身體的武器相契合，
@@ -102,7 +102,7 @@ int32,str,str
 想必就能讓武器歷經戰火的考驗、得到鍛鍊了。"
 63,"TEXT_JOBREL102_02213_ARDASHIR_000_004","等等……武器得到鍛鍊？
 對呀，身體得到鍛鍊的話，也許人造元靈也就一起成長了！"
-64,"TEXT_JOBREL102_02213_ARDASHIR_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+64,"TEXT_JOBREL102_02213_ARDASHIR_000_005","<Highlight>ObjectParameter(1)</Highlight>！
 請裝備元靈武器，重踏你過去旅行的足跡吧！"
 65,"TEXT_JOBREL102_02213_GEROLT_000_006","我想想啊……
 如果是古代的遺跡、忘卻的廢墟這類地方，
@@ -111,11 +111,11 @@ int32,str,str
 我想時刻記錄人造元靈的變化。
 不過我不會戰鬥，只能悄悄跟在後面……"
 67,"TEXT_JOBREL102_02213_ARDASHIR_000_008","太好了！
-非常感謝， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+非常感謝，<Highlight>ObjectParameter(1)</Highlight>！"
 68,"TEXT_JOBREL102_02213_GEROLT_000_009","那我留在這研究下怎麼給武器做強化。
 要是品級差太多讓英雄上前線時都拿不出手來，
 可就和羅薇娜想要的商品相去太多了！"
-69,"TEXT_JOBREL102_02213_ARDASHIR_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看來你已經做好準備了。
+69,"TEXT_JOBREL102_02213_ARDASHIR_000_010","<Highlight>ObjectParameter(1)</Highlight>，看來你已經做好準備了。
 那我們就開始下一階段的工程吧！"
 70,"TEXT_JOBREL102_02213_GEROLT_000_011","還和之前一樣，
 你去10處古代的遺跡、忘卻的廢墟這類地方轉轉，
@@ -123,13 +123,13 @@ int32,str,str
 71,"TEXT_JOBREL102_02213_ARDASHIR_000_012","這次也請讓我同行進行記錄工作！"
 72,"TEXT_JOBREL102_02213_GEROLT_000_013","我也繼續去研究怎麼給武器做強化了。
 一定要做出讓羅薇娜那傢伙大呼厲害的作品！"
-73,"TEXT_JOBREL102_02213_ARDASHIR_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒事真是太好了！
+73,"TEXT_JOBREL102_02213_ARDASHIR_000_020","<Highlight>ObjectParameter(1)</Highlight>，你沒事真是太好了！
 元靈武器有什麼變化嗎？"
 74,"TEXT_JOBREL102_02213_ARDASHIR_000_021","這樣子呀……
 果然想看到變化還有些為時尚早。
 我們去下一處吧！"
-75,"TEXT_JOBREL102_02213_ARDASHIR_000_030","辛苦了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-76,"TEXT_JOBREL102_02213_ARDASHIR_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你回顧的這些旅途的足跡每個都如此耀眼奪目，
+75,"TEXT_JOBREL102_02213_ARDASHIR_000_030","辛苦了，<Highlight>ObjectParameter(1)</Highlight>！"
+76,"TEXT_JOBREL102_02213_ARDASHIR_000_031","<Highlight>ObjectParameter(1)</Highlight>你回顧的這些旅途的足跡每個都如此耀眼奪目，
 使得我好似也經歷了一場場偉大的旅行……"
 77,"TEXT_JOBREL102_02213_ARDASHIR_000_032","希望人造元靈也能同樣有所感悟，得到成長吧……"
 78,"TEXT_JOBREL102_02213_ARDASHIR_000_033","怎麼樣？
@@ -137,8 +137,8 @@ int32,str,str
 79,"TEXT_JOBREL102_02213_ARDASHIR_000_034","這樣子呀……
 但人造元靈並沒有消散……
 現在還遠不是該放棄的時候！"
-80,"TEXT_JOBREL102_02213_ARDASHI_000_035"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我們去下一處吧！"
-81,"TEXT_JOBREL102_02213_ARDASHIR_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒有受傷吧？"
+80,"TEXT_JOBREL102_02213_ARDASHI_000_035","<Highlight>ObjectParameter(1)</Highlight>，我們去下一處吧！"
+81,"TEXT_JOBREL102_02213_ARDASHIR_000_040","<Highlight>ObjectParameter(1)</Highlight>，你沒有受傷吧？"
 82,"TEXT_JOBREL102_02213_ARDASHIR_000_041","這裡可真是個壯麗的城邦……
 好多高大宏偉的建築，簡直令人目不暇接，
 看得我都要頭暈倒地了。"
@@ -149,12 +149,12 @@ int32,str,str
 85,"TEXT_JOBREL102_02213_ARDASHIR_000_044","這、這個消息也得告訴蓋羅爾特先生才行……
 我這就回魔大陸去！"
 86,"TEXT_JOBREL102_02213_ARDASHIR_000_045","這次也隱約看到了人造元靈的身影是吧！
-果然寄宿在魂石中的人造元靈透過旅行完全覺醒了……"
+果然寄宿在魂石中的人造元靈通過旅行完全覺醒了……"
 87,"TEXT_JOBREL102_02213_ARDASHIR_000_046","得快點告訴蓋羅爾特先生才行……
 我這就回魔大陸去！"
-88,"TEXT_JOBREL102_02213_ARDASHIR_000_047"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 休息好後也來魔大陸吧！"
+88,"TEXT_JOBREL102_02213_ARDASHIR_000_047","<Highlight>ObjectParameter(1)</Highlight>休息好後也來魔大陸吧！"
 89,"TEXT_JOBREL102_02213_ZINZOUSEIREI_000_048","(-？？？？-)……下……哪？"
-90,"TEXT_JOBREL102_02213_ARDASHIR_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+90,"TEXT_JOBREL102_02213_ARDASHIR_000_050","<Highlight>ObjectParameter(1)</Highlight>！
 帶著人造元靈走過的這段漫長旅程，真是辛苦了！"
 91,"TEXT_JOBREL102_02213_GEROLT_000_051","這小鬼興奮得跟什麼一樣，
 搞得我完全沒弄明白究竟發生了什麼……
@@ -166,7 +166,7 @@ int32,str,str
 人造元靈這次也很可能已經現身了！
 這可是代表了人造元靈的完全覺醒！"
 94,"TEXT_JOBREL102_02213_GEROLT_000_054","就算你跟我說這些什麼覺醒不覺醒的我也聽不懂呀……"
-95,"TEXT_JOBREL102_02213_ARDASHIR_100_054","哎呀就是說透過這趟旅行，人造元靈成功與自己的身體相契合……
+95,"TEXT_JOBREL102_02213_ARDASHIR_100_054","哎呀就是說通過這趟旅行，人造元靈成功與自己的身體相契合……
 而且有可能已經成長到了形成幻體的階段！
 這可是非常驚人的飛躍！"
 96,"TEXT_JOBREL102_02213_ARDASHIR_000_055","你你你你說你聽到聲音了？！
@@ -207,4 +207,4 @@ int32,str,str
 112,"TEXT_JOBREL102_02213_ARDASHIR_000_076","既然人造元靈已經形成了幻體，
 那它一定還有著更多的成長空間……
 我們向著「閃耀的元靈武器」努力吧！"
-113,"TEXT_JOBREL102_02213_SYSTEM_000_077","成功將「元靈武器」強化為「元靈武器．覺醒」！"
+113,"TEXT_JOBREL102_02213_SYSTEM_000_077","成功將「元靈武器」強化為「元靈武器·覺醒」！"

@@ -55,14 +55,14 @@ int32,str,str
 我會在地圖上給你做標記，麻煩你去標記地點周圍看一看。"
 50,"TEXT_LUCKMA306_03296_ALISAIE_000_002","要是有顏色很白的異形怪物那肯定就是食罪靈了。
 它們會被人類的乙太吸引從而攻擊人類，一定要打倒它們。"
-51,"TEXT_LUCKMA306_03296_ALISAIE_000_003","巡邏完了就在北邊的入口會合。
+51,"TEXT_LUCKMA306_03296_ALISAIE_000_003","巡邏完了就在北邊的入口匯合。
 ……那就待會見了！"
 52,"TEXT_LUCKMA306_03296_ALISAIE_000_010","你回來啦。
 那邊怎麼樣？"
 53,"TEXT_LUCKMA306_03296_ALISAIE_000_011","是嗎……果然有獨行食罪靈出現了啊，
 不過在這裡已經司空見慣了。"
 54,"TEXT_LUCKMA306_03296_ALISAIE_000_012","你在戰鬥過後察覺到了吧，
-低階食罪靈的本事和野外徘徊的野獸差不多。"
+低級食罪靈的本事和野外徘徊的野獸差不多。"
 55,"TEXT_LUCKMA306_03296_ALISAIE_000_013","但是那些傢伙……
 和妖異很像，會服從於比自己更強的個體。"
 56,"TEXT_LUCKMA306_03296_ALISAIE_000_014","所以如果要討伐強大的食罪靈，
@@ -76,17 +76,17 @@ int32,str,str
 ……沒說吧？！"
 60,"TEXT_LUCKMA306_03296_TESLEEN_000_030","我聽阿莉塞說了，你還幫忙巡邏了？！
 總是讓你涉險真抱歉……不過還是謝謝你！"
-61,"TEXT_LUCKMA306_03296_TESLEEN_000_031","不過你順利和阿莉塞會合了就好。
+61,"TEXT_LUCKMA306_03296_TESLEEN_000_031","不過你順利和阿莉塞匯合了就好。
 她可想你了哦？
-動不動就說「如果是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話」之類的……"
+動不動就說「如果是<Highlight>ObjectParameter(1)</Highlight>的話」之類的……"
 62,"TEXT_LUCKMA306_03296_ALISAIE_000_032","笨……不要多嘴啊？！
 我只是從冷靜、客觀的視角去看待問題而已！"
 63,"TEXT_LUCKMA306_03296_TESLEEN_000_033","呵呵呵呵呵呵呵。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 戰鬥的身姿，
+<Highlight>ObjectParameter(1)</Highlight>戰鬥的身姿，
 真的超級帥氣呢。"
 64,"TEXT_LUCKMA306_03296_TESLEEN_000_034","而且很自然地就會去幫助別人，太溫柔了……
-我也要喜歡上 <Highlight>ObjectParameter(1)</Highlight> 了呢！"
-65,"TEXT_LUCKMA306_03296_ALISAIE_000_035","…………！！"
+我也要喜歡上<Highlight>ObjectParameter(1)</Highlight>了呢！"
+65,"TEXT_LUCKMA306_03296_ALISAIE_000_035","！！"
 66,"TEXT_LUCKMA306_03296_TESLEEN_000_036","哈哈哈，騙你的騙你的！
-不過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 確實是個很好的人！
+不過<Highlight>ObjectParameter(1)</Highlight>確實是個很好的人！
 巡邏辛苦你們倆啦！"

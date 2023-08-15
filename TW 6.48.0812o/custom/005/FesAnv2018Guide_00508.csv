@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_FESANV2018GUIDE_00508_Q1_000_000","談點什麼？"
-1,"TEXT_FESANV2018GUIDE_00508_A1_000_002","詢問有關「新生季」"
+1,"TEXT_FESANV2018GUIDE_00508_A1_000_002","詢問有關「新生慶典」"
 2,"TEXT_FESANV2018GUIDE_00508_A1_000_003","詢問有關「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」"
 3,"TEXT_FESANV2018GUIDE_00508_A1_000_004","取消"
-4,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_000","所謂新生季，主旨為悼念在第七靈災中喪生的人們，
+4,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_000","所謂新生慶典，主旨為悼念在第七靈災中喪生的人們，
 並向在靈災中奮勇作戰的英雄「光之戰士們」表達感謝。"
-5,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_001","本次「新生季」將會參考「第七靈災」時
+5,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_001","本次「新生慶典」將會參考「第七靈災」時
 帝國軍入侵和妖異出現的情況
 在烏爾達哈市區進行軍事演習。"
 6,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_010","這次的軍事演習得到了黑渦團和雙蛇黨的協助，
@@ -19,7 +19,7 @@ int32,str,str
 8,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_030","恆輝隊舉辦的這次軍事演習，我們雙蛇黨也會提供協助，
 也接受冒險者的參加申請。
 請你也務必參加。"
-9,"TEXT_FESANV2018GUIDE_00508_Q2_000_000","想瞭解什麼？"
+9,"TEXT_FESANV2018GUIDE_00508_Q2_000_000","想了解什麼？"
 10,"TEXT_FESANV2018GUIDE_00508_A2_000_001","關於「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」"
 11,"TEXT_FESANV2018GUIDE_00508_A2_100_001","關於參加「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」"
 12,"TEXT_FESANV2018GUIDE_00508_A2_000_002","關於危命任務"
@@ -38,7 +38,7 @@ int32,str,str
 20,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_044","同時，與通常的副本任務不同，
 一個區域中可同時容納最多144位玩家。
 請與其他玩家互相協助進行攻略。"
-21,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_045","本次軍事演習將在新生季期間不定期舉行。
+21,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_045","本次軍事演習將在新生慶典期間不定期舉行。
 參加時，請在慶典期間找嚮導提出申請。"
 22,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_046","「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」
 只能在季節活動任務開放的特定期間內申請參加。"

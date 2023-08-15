@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ715_01919_SEQ_00","被囚禁在帝國軍駐地的尊杜族正在向冒險者求助。"
-1,"TEXT_HEAVNZ715_01919_SEQ_01","被囚禁的尊杜族希望冒險者從帝國兵身上奪取<Sheet(EventItem,2001672,0)/>，然後將自己釋放。在帝國軍駐地討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>。"
-2,"TEXT_HEAVNZ715_01919_SEQ_02","討伐的帝國兵身上沒有<Sheet(EventItem,2001672,0)/>。在帝國軍駐地討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>中的隨便一種，獲得<Sheet(EventItem,2001672,0)/>。"
-3,"TEXT_HEAVNZ715_01919_SEQ_03","獲得了<Sheet(EventItem,2001672,0)/>。在帝國軍駐地對被囚禁的尊杜族使用<Sheet(EventItem,2001672,0)/>。"
+0,"TEXT_HEAVNZ715_01919_SEQ_00","被囚禁在帝國軍駐地EA275006的尊杜族正在向冒險者求助。"
+1,"TEXT_HEAVNZ715_01919_SEQ_01","被囚禁的尊杜族希望冒險者從帝國兵身上奪取<Sheet(EventItem,2001672,0)/>，然後將自己釋放。在帝國軍駐地EA275006討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>。"
+2,"TEXT_HEAVNZ715_01919_SEQ_02","討伐的帝國兵身上沒有<Sheet(EventItem,2001672,0)/>。在帝國軍駐地EA275006討伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>中的隨便一種，獲取<Sheet(EventItem,2001672,0)/>。"
+3,"TEXT_HEAVNZ715_01919_SEQ_03","獲得了<Sheet(EventItem,2001672,0)/>。在帝國軍駐地EA275006對被囚禁的尊杜族使用<Sheet(EventItem,2001672,0)/>。"
 4,"TEXT_HEAVNZ715_01919_SEQ_04","釋放了被囚禁的尊杜族。他回到了尊杜集落。前往阿巴拉提亞雲海的尊杜集落，與入口附近的獲救的尊杜族談談。"
 5,"TEXT_HEAVNZ715_01919_SEQ_05","和獲救的尊杜族進行了交談。他非常感謝救出自己的冒險者。"
 6,"TEXT_HEAVNZ715_01919_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_HEAVNZ715_01919_SEQ_21",""
 22,"TEXT_HEAVNZ715_01919_SEQ_22",""
 23,"TEXT_HEAVNZ715_01919_SEQ_23",""
-24,"TEXT_HEAVNZ715_01919_TODO_00","獲得帝國兵身上可能掉落的<Sheet(EventItem,2001672,0)/>"
-25,"TEXT_HEAVNZ715_01919_TODO_01","獲得帝國兵身上可能掉落的<Sheet(EventItem,2001672,0)/>"
+24,"TEXT_HEAVNZ715_01919_TODO_00","獲取帝國兵身上可能掉落的<Sheet(EventItem,2001672,0)/>"
+25,"TEXT_HEAVNZ715_01919_TODO_01","獲取帝國兵身上可能掉落的<Sheet(EventItem,2001672,0)/>"
 26,"TEXT_HEAVNZ715_01919_TODO_02","對被囚禁的尊杜族使用<Sheet(EventItem,2001672,0)/>"
 27,"TEXT_HEAVNZ715_01919_TODO_03","和尊杜集落入口附近的獲救的尊杜族對話"
 28,"TEXT_HEAVNZ715_01919_TODO_04",""

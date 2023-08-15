@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ527_01862_SEQ_00","書信之家抽泣不止的莫古利非常傷心。"
-1,"TEXT_HEAVNZ527_01862_SEQ_01","抽泣不止的莫古利委託冒險者取回<Sheet(EventItem,2001653,0)/>。討伐書信之家的<Sheet(BNpcName,3626,0)/>。"
+0,"TEXT_HEAVNZ527_01862_SEQ_00","書信之家抽泣不止的莫古力非常傷心。"
+1,"TEXT_HEAVNZ527_01862_SEQ_01","抽泣不止的莫古力委託冒險者取回<Sheet(EventItem,2001653,0)/>。討伐書信之家的<Sheet(BNpcName,3626,0)/>。"
 2,"TEXT_HEAVNZ527_01862_SEQ_02","沒發現<Sheet(EventItem,2001653,0)/>。為了取回<Sheet(EventItem,2001653,0)/>，繼續討伐<Sheet(BNpcName,3626,0)/>。"
-3,"TEXT_HEAVNZ527_01862_SEQ_03","取回了<Sheet(EventItem,2001653,0)/>。將<Sheet(EventItem,2001653,0)/>交給書信之家抽泣不止的莫古利。"
-4,"TEXT_HEAVNZ527_01862_SEQ_04","將<Sheet(EventItem,2001653,0)/>交給了抽泣不止的莫古利。<Sheet(EventItem,2001653,0)/>失而復得，令抽泣不止的莫古利破涕為笑。"
+3,"TEXT_HEAVNZ527_01862_SEQ_03","取回了<Sheet(EventItem,2001653,0)/>。將<Sheet(EventItem,2001653,0)/>交給書信之家抽泣不止的莫古力。"
+4,"TEXT_HEAVNZ527_01862_SEQ_04","將<Sheet(EventItem,2001653,0)/>交給了抽泣不止的莫古力。<Sheet(EventItem,2001653,0)/>失而復得，令抽泣不止的莫古力破涕為笑。"
 5,"TEXT_HEAVNZ527_01862_SEQ_05",""
 6,"TEXT_HEAVNZ527_01862_SEQ_06",""
 7,"TEXT_HEAVNZ527_01862_SEQ_07",""
@@ -25,9 +25,9 @@ int32,str,str
 21,"TEXT_HEAVNZ527_01862_SEQ_21",""
 22,"TEXT_HEAVNZ527_01862_SEQ_22",""
 23,"TEXT_HEAVNZ527_01862_SEQ_23",""
-24,"TEXT_HEAVNZ527_01862_TODO_00","討伐<Sheet(BNpcName,3626,0)/> 獲得其身上可能會掉落的<Sheet(EventItem,2001653,0)/>"
-25,"TEXT_HEAVNZ527_01862_TODO_01","討伐<Sheet(BNpcName,3626,0)/> 獲得其身上可能會掉落的<Sheet(EventItem,2001653,0)/>"
-26,"TEXT_HEAVNZ527_01862_TODO_02","將<Sheet(EventItem,2001653,0)/>交給抽泣不止的莫古利"
+24,"TEXT_HEAVNZ527_01862_TODO_00","討伐<Sheet(BNpcName,3626,0)/> 獲取其身上可能會掉落的<Sheet(EventItem,2001653,0)/>"
+25,"TEXT_HEAVNZ527_01862_TODO_01","討伐<Sheet(BNpcName,3626,0)/> 獲取其身上可能會掉落的<Sheet(EventItem,2001653,0)/>"
+26,"TEXT_HEAVNZ527_01862_TODO_02","將<Sheet(EventItem,2001653,0)/>交給抽泣不止的莫古力"
 27,"TEXT_HEAVNZ527_01862_TODO_03",""
 28,"TEXT_HEAVNZ527_01862_TODO_04",""
 29,"TEXT_HEAVNZ527_01862_TODO_05",""

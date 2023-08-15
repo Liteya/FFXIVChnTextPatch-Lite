@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKMI109_04600_SEQ_00","織風桑田的瓦爾桑露出了微笑。"
-1,"TEXT_AKTKMI109_04600_SEQ_01","帶零瞭解原初世界的觀光之旅順利結束了。和雲使宮的官員交談，回到雲使宮客房。"
+1,"TEXT_AKTKMI109_04600_SEQ_01","帶零了解原初世界的觀光之旅順利結束了。和雲使宮的官員交談，回到雲使宮客房。"
 2,"TEXT_AKTKMI109_04600_SEQ_02","零講述了過去發生在第十三世界的事情。和雲使宮前的瓦爾桑談談。"
 3,"TEXT_AKTKMI109_04600_SEQ_03","在虛無界尋找阿珠達雅的冒險收穫了意外的相遇。唯一能夠打倒妖異的零今後也會依照契約，繼續協助冒險者一行人。預感到今後仍會與高貝扎等妖異交戰，在開啟下個旅程前養精蓄銳。"
 4,"TEXT_AKTKMI109_04600_SEQ_04",""
@@ -57,12 +57,12 @@ int32,str,str
 我得告訴她交易的竅門，免得被人坑。"
 50,"TEXT_AKTKMI109_04600_MYSTERIOUSPERSON_000_010","在虛無界，就連植物都變成了妖異。
 所以說實話，我早就忘記了鮮花是用來欣賞的。"
-51,"TEXT_AKTKMI109_04600_MEGHADUTAEMPLOYEE_000_015"," <Highlight>ObjectParameter(1)</Highlight> ，我來帶您前往雲使宮客房吧。"
+51,"TEXT_AKTKMI109_04600_MEGHADUTAEMPLOYEE_000_015","<Highlight>ObjectParameter(1)</Highlight>，我來帶您前往雲使宮客房吧。"
 52,"TEXT_AKTKMI109_04600_SYSTEM_000_020","要前往雲使宮客房嗎？"
 53,"TEXT_AKTKMI109_04600_VARSHAHN_000_030","看來我們和零度過了一段有意義的時光，
 也感謝你一路相陪。"
 54,"TEXT_AKTKMI109_04600_VARSHAHN_000_032","好了，我們回雲使宮客房吧。"
-55,"TEXT_AKTKMI109_04600_MEGHADUTAEMPLOYEE_000_100"," <Highlight>ObjectParameter(1)</Highlight> ，歡迎回來。
+55,"TEXT_AKTKMI109_04600_MEGHADUTAEMPLOYEE_000_100","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來。
 請問您也要進去嗎？"
 56,"TEXT_AKTKMI109_04600_SYSTEM_000_101","要前往雲使宮客房嗎？"
 57,"TEXT_AKTKMI109_04600_VARSHAHN_000_200","雖然我們在虛無界停留的時間不算長，

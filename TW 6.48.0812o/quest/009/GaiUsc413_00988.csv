@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSC413_00988_SEQ_00","喪靈鐘的恩帕．塔尤恩，想要冒險者去討伐魔物。"
+0,"TEXT_GAIUSC413_00988_SEQ_00","喪靈鐘的恩帕·塔尤恩，想要冒險者去討伐魔物。"
 1,"TEXT_GAIUSC413_00988_SEQ_01","喪靈鐘西面有一片結晶化的大地。調查廢棄營地中的2處<Sheet(EObj,2002206,0)/>，討伐襲來的<Sheet(BNpcName,27,0)/>。"
-2,"TEXT_GAIUSC413_00988_SEQ_02","成功討伐了<Sheet(BNpcName,27,0)/>。向喪靈鐘的恩帕．塔尤恩報告。"
-3,"TEXT_GAIUSC413_00988_SEQ_03","向恩帕．塔尤恩報告完畢。她很驚訝冒險者竟能成功討伐<Sheet(BNpcName,27,0)/>。"
+2,"TEXT_GAIUSC413_00988_SEQ_02","成功討伐了<Sheet(BNpcName,27,0)/>。向喪靈鐘的恩帕·塔尤恩報告。"
+3,"TEXT_GAIUSC413_00988_SEQ_03","向恩帕·塔尤恩報告完畢。她很驚訝冒險者竟能成功討伐<Sheet(BNpcName,27,0)/>。"
 4,"TEXT_GAIUSC413_00988_SEQ_04",""
 5,"TEXT_GAIUSC413_00988_SEQ_05",""
 6,"TEXT_GAIUSC413_00988_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSC413_00988_SEQ_22",""
 23,"TEXT_GAIUSC413_00988_SEQ_23",""
 24,"TEXT_GAIUSC413_00988_TODO_00","調查<Sheet(EObj,2002206,0)/> 討伐<Sheet(BNpcName,27,0)/>"
-25,"TEXT_GAIUSC413_00988_TODO_01","向恩帕．塔尤恩報告"
+25,"TEXT_GAIUSC413_00988_TODO_01","向恩帕·塔尤恩報告"
 26,"TEXT_GAIUSC413_00988_TODO_02",""
 27,"TEXT_GAIUSC413_00988_TODO_03",""
 28,"TEXT_GAIUSC413_00988_TODO_04",""
@@ -60,12 +60,12 @@ int32,str,str
 <Sheet(BNpcName,27,0)/>就會襲擊過來，
 這樣下去，調查根本無法推進！"
 52,"TEXT_GAIUSC413_00988_NPAHTAYUUN_000_004","說到這裡，你就該懂了吧？！
-事關未來的學術研究與艾奧傑亞的發展，當然還有我的好奇心，
+事關未來的學術研究與艾歐澤亞的發展，當然還有我的好奇心，
 請你去打倒<Sheet(BNpcName,27,0)/>！"
-53,"TEXT_GAIUSC413_00988_DUMMY_000_010","點選指定地點甲，討伐出現的2隻巨蟾蜍"
-54,"TEXT_GAIUSC413_00988_DUMMY_000_020","點選指定地點乙，討伐出現的3隻巨蟾蜍"
+53,"TEXT_GAIUSC413_00988_DUMMY_000_010","點擊指定地點甲，討伐出現的2隻巨蟾蜍"
+54,"TEXT_GAIUSC413_00988_DUMMY_000_020","點擊指定地點乙，討伐出現的3隻巨蟾蜍"
 55,"TEXT_GAIUSC413_00988_TODO_000_010",""
-56,"TEXT_GAIUSC413_00988_TODO_000_020","（★未使用／削除予定★）"
+56,"TEXT_GAIUSC413_00988_TODO_000_020","（未使用/預計刪除）"
 57,"TEXT_GAIUSC413_00988_NPAHTAYUUN_000_030","你已經把<Sheet(BNpcName,27,0)/>打倒了嗎？
 附近的魔物都很強，就算是老練的冒險者也會費不少力氣……
 你、你真厲害！"

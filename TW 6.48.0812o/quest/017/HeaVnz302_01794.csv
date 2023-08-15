@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ302_01794_SEQ_00","自由腦窟穴的力氣大很是慌張。"
-1,"TEXT_HEAVNZ302_01794_SEQ_01","力氣大委託冒險者去回收<Sheet(EventItem,2001621,0)/>。調查龍堡參天高地阿瓦隆尼亞古陸的<Sheet(EObj,2005641,0)/>，獲得<Sheet(EventItem,2001621,0)/>。"
+1,"TEXT_HEAVNZ302_01794_SEQ_01","力氣大委託冒險者去回收<Sheet(EventItem,2001621,0)/>。調查龍堡參天高地阿瓦隆尼亞古陸的<Sheet(EObj,2005641,0)/>，獲取<Sheet(EventItem,2001621,0)/>。"
 2,"TEXT_HEAVNZ302_01794_SEQ_02","獲得了<Sheet(EventItem,2001621,0)/>。將<Sheet(EventItem,2001621,0)/>交給自由腦窟穴的力氣大。"
 3,"TEXT_HEAVNZ302_01794_SEQ_03","將<Sheet(EventItem,2001621,0)/>交給了力氣大。力氣大一向拉車送貨速度一流，貨物被搶走，對他來說是件事關生死的大事。"
 4,"TEXT_HEAVNZ302_01794_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ302_01794_SEQ_21",""
 22,"TEXT_HEAVNZ302_01794_SEQ_22",""
 23,"TEXT_HEAVNZ302_01794_SEQ_23",""
-24,"TEXT_HEAVNZ302_01794_TODO_00","從<Sheet(EObj,2005641,0)/>獲得<Sheet(EventItem,2001621,0)/>"
+24,"TEXT_HEAVNZ302_01794_TODO_00","從<Sheet(EObj,2005641,0)/>獲取<Sheet(EventItem,2001621,0)/>"
 25,"TEXT_HEAVNZ302_01794_TODO_01","將<Sheet(EventItem,2001621,0)/>交給力氣大"
 26,"TEXT_HEAVNZ302_01794_TODO_02",""
 27,"TEXT_HEAVNZ302_01794_TODO_03",""

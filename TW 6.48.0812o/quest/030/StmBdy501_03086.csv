@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDY501_03086_TODO_21",""
 46,"TEXT_STMBDY501_03086_TODO_22",""
 47,"TEXT_STMBDY501_03086_TODO_23",""
-48,"TEXT_STMBDY501_03086_KOZAKURA_000_000","這不是 <Highlight>ObjectParameter(1)</Highlight> 嗎！
+48,"TEXT_STMBDY501_03086_KOZAKURA_000_000","這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 沒想到你來到了這邊……"
 49,"TEXT_STMBDY501_03086_KOZAKURA_000_001","請先容我自我介紹一下……
 我的名字叫小櫻。"
@@ -74,23 +74,23 @@ int32,str,str
 再加上有很多逝去的不歸之人，所以人手也十分緊缺。"
 57,"TEXT_STMBDY501_03086_KOZAKURA_000_009","因此在跟主公商量以後，
 主公說現在正是讓逃難到
-艾奧傑亞的同胞們回歸祖國的時候。"
+艾歐澤亞的同胞們回歸祖國的時候。"
 58,"TEXT_STMBDY501_03086_KOZAKURA_000_010","聽說他們加入了喪靈鐘的開拓團，並在那裡工作著。
 這真是太巧了。"
-59,"TEXT_STMBDY501_03086_KOZAKURA_000_011"," <Highlight>ObjectParameter(1)</Highlight> ，正好你也對那邊的情況比較熟悉。
+59,"TEXT_STMBDY501_03086_KOZAKURA_000_011","<Highlight>ObjectParameter(1)</Highlight>，正好你也對那邊的情況比較熟悉。
 務必還請你擔當多瑪與開拓團之間的中介人，拜託了。"
 60,"TEXT_STMBDY501_03086_HIEN_000_012","(-？？？？-)……嗯？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先來這裡了啊。"
-61,"TEXT_STMBDY501_03086_HIEN_000_013","(-？？？？-)哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+<Highlight>ObjectParameter(1)</Highlight>，你先來這裡了啊。"
+61,"TEXT_STMBDY501_03086_HIEN_000_013","(-？？？？-)哦，<Highlight>ObjectParameter(1)</Highlight>。
 原來你在這裡。"
 62,"TEXT_STMBDY501_03086_HIEN_000_014","嗯，正好趁著這個機會……
 剛才這個事情，就讓我來補充說明一下吧。"
 63,"TEXT_STMBDY501_03086_HIEN_000_015","首先非常感謝你們和冒險者公會接納了
-與夕霧一起逃難到艾奧傑亞的多瑪同胞們。"
+與夕霧一起逃難到艾歐澤亞的多瑪同胞們。"
 64,"TEXT_STMBDY501_03086_HIEN_000_016","逃難的多瑪同胞們為報此大恩，恐怕粉身碎骨也會在所不辭吧。
 而且多瑪人民所受之恩，也乃是國家所受之恩。
 那麼應該先由我領頭表達誠意才對。"
-65,"TEXT_STMBDY501_03086_HIEN_000_017","小櫻，把那封書信交給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+65,"TEXT_STMBDY501_03086_HIEN_000_017","小櫻，把那封書信交給<Highlight>ObjectParameter(1)</Highlight>。"
 66,"TEXT_STMBDY501_03086_KOZAKURA_000_018","好、好的！"
 67,"TEXT_STMBDY501_03086_HIEN_000_019","我為管理開拓團的冒險者公會準備了些許的謝禮，
 算是我的一點心意。
@@ -142,7 +142,7 @@ int32,str,str
 88,"TEXT_STMBDY501_03086_DOWARE_000_067","確實是啊。
 如果只因為主公給了謝禮，我們就急忙忙地做起回鄉的準備，
 那實在是有點太過薄情了。"
-89,"TEXT_STMBDY501_03086_DOWARE_000_068","透過在這裡的生活，我們才瞭解到了艾奧傑亞各國面臨的困難。
+89,"TEXT_STMBDY501_03086_DOWARE_000_068","通過在這裡的生活，我們才了解到了艾歐澤亞各國面臨的困難。
 現在的我們已經能夠明白，
 為什麼在我們漂流到這裡時會被拒之門外。"
 90,"TEXT_STMBDY501_03086_DOWARE_000_069","就算是在那種情況中，
@@ -151,7 +151,7 @@ int32,str,str
 所以即使是主公的好意，
 但是我們將自己欠下的恩情交給他人來報答，是不是說不過去？"
 92,"TEXT_STMBDY501_03086_HOZAN_000_071","……兩位說的都有道理。
-我也想儘量用自己的雙手來報答所受的恩情。
+我也想盡量用自己的雙手來報答所受的恩情。
 所以……我想出了一個方案。"
 93,"TEXT_STMBDY501_03086_HOZAN_000_072","首先，大家要認真地讓目前手頭的工作告一段落。
 凡事都要善始善終，不要給人添麻煩。"
@@ -160,7 +160,7 @@ int32,str,str
 在此期間，各自要對自己有恩的人打好招呼，盡到禮數。"
 95,"TEXT_STMBDY501_03086_HOMEI_000_074","沒錯沒錯！
 無論再怎麼思念故鄉，若是在此地留下遺憾，
-反而會影響到以後在多瑪飛地展開新工作。"
+反而會影響到以後在多瑪飛地開展新工作。"
 96,"TEXT_STMBDY501_03086_HOMEI_000_075","這也是我這把老骨頭能經得起的
 最後一次長途船旅了，
 為了不留下遺憾，要做的事情可是堆積如山！"
@@ -189,7 +189,7 @@ int32,str,str
 107,"TEXT_STMBDY501_03086_HOMEI_000_095","伊西多爾閣下和我是關係不錯的茶友，
 而且我還從他那裡分到了眾多的勇氣和活力……"
 108,"TEXT_STMBDY501_03086_HOMEI_000_096","為了向他表示感謝，祝願他身體健康，
-我該送什麼禮物比較適合呢？"
+我該送什麼禮物比較合適呢？"
 109,"TEXT_STMBDY501_03086_Q2_000_097","適合給伊西多爾的禮物是？"
 110,"TEXT_STMBDY501_03086_A2_000_098","眼藥水"
 111,"TEXT_STMBDY501_03086_A2_000_099","治療健忘的藥"
@@ -197,24 +197,24 @@ int32,str,str
 113,"TEXT_STMBDY501_03086_HOMEI_000_101","話說……伊西多爾閣下難道眼睛不太好了？
 沒聽說過這事啊……"
 114,"TEXT_STMBDY501_03086_HOMEI_000_102","嗯——你的建議還是相信的比較好……
-謝謝你，我先去市集購買材料。"
+謝謝你，我先去集市購買材料。"
 115,"TEXT_STMBDY501_03086_HOMEI_000_104","話說……伊西多爾閣下難道有健忘的問題？
 沒聽說過這事啊……"
 116,"TEXT_STMBDY501_03086_HOMEI_000_105","嗯——你的建議還是相信的比較好……
-謝謝你，我先去市集購買材料。"
+謝謝你，我先去集市購買材料。"
 117,"TEXT_STMBDY501_03086_SYSTEM_000_106","寶明滿臉疑惑的走開了。
 可能是提出了錯誤的建議……"
 118,"TEXT_STMBDY501_03086_HOMEI_000_107","哦，果然是這個！
 伊西多爾閣下總是不小心弄傷自己的腰腿，
-我也認為送這個適合。"
-119,"TEXT_STMBDY501_03086_HOMEI_000_108","看來你對拂曉的同伴們很瞭解啊。
+我也認為送這個合適。"
+119,"TEXT_STMBDY501_03086_HOMEI_000_108","看來你對拂曉的同伴們很了解啊。
 佩服佩服……有你這樣有為的年輕人在，
 我也就可以安心的離開這裡了。"
 120,"TEXT_STMBDY501_03086_HOMEI_000_109","那麼我就趕緊去市場購買材料了……
 謝謝你，冒險者！"
 121,"TEXT_STMBDY501_03086_SYSTEM_000_110","寶明意氣風發地離開了。
 看來這個建議是正確的！"
-122,"TEXT_STMBDY501_03086_DOWARE_000_111"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你現在有時間嗎？
+122,"TEXT_STMBDY501_03086_DOWARE_000_111","<Highlight>ObjectParameter(1)</Highlight>，你現在有時間嗎？
 不好意思，我有事想要請教你。"
 123,"TEXT_STMBDY501_03086_DOWARE_000_112","現在有很多人聚集在這座城市，
 其中最有影響力的商會當屬羅薇娜商會莫屬。"
@@ -236,11 +236,11 @@ int32,str,str
 130,"TEXT_STMBDY501_03086_A3_000_119","艾里娜"
 131,"TEXT_STMBDY501_03086_A3_000_120","奧里亞娜"
 132,"TEXT_STMBDY501_03086_A3_000_121","拉萊娜"
-133,"TEXT_STMBDY501_03086_A3_000_122","古．茱薩奈"
+133,"TEXT_STMBDY501_03086_A3_000_122","古·茱薩奈"
 134,"TEXT_STMBDY501_03086_A3_000_123","帕帕娜"
 135,"TEXT_STMBDY501_03086_DOWARE_000_124","啊！對了，是叫這個名字來著！
 沒錯，她叫艾里娜！"
-136,"TEXT_STMBDY501_03086_DOWARE_000_125","不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+136,"TEXT_STMBDY501_03086_DOWARE_000_125","不愧是<Highlight>ObjectParameter(1)</Highlight>。
 傳聞說你是羅薇娜商會的貴客，看來是真的啊。
 謝謝你，趁著還沒忘，我趕緊去和她談談。"
 137,"TEXT_STMBDY501_03086_SYSTEM_000_126","胴割意氣風發地離開了。
@@ -252,7 +252,7 @@ int32,str,str
 光想著也沒有用，先去試試吧！！"
 140,"TEXT_STMBDY501_03086_SYSTEM_000_129","胴割抱著破罐破摔的想法離開了。
 可能是提出了錯誤的建議……"
-141,"TEXT_STMBDY501_03086_HIGIRI_000_130"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+141,"TEXT_STMBDY501_03086_HIGIRI_000_130","<Highlight>ObjectParameter(1)</Highlight>！
 不好意思，請問你有看見寶石獸經過嗎？！"
 142,"TEXT_STMBDY501_03086_HIGIRI_000_131","旅行中的冒險者有時會接受委託來幫忙維護城市設施……
 有一位跟我長期一起工作的秘術師，現在正在感到困擾。"
@@ -269,28 +269,28 @@ int32,str,str
 149,"TEXT_STMBDY501_03086_A4_000_138","小黑"
 150,"TEXT_STMBDY501_03086_HIGIRI_000_139","啊，就是這個！
 因為那隻寶石獸擁有彷彿翠玉般美麗的顏色！"
-151,"TEXT_STMBDY501_03086_HIGIRI_000_140","謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+151,"TEXT_STMBDY501_03086_HIGIRI_000_140","謝謝你<Highlight>ObjectParameter(1)</Highlight>！
 為了同伴們，為了大家，我繼續去努力了！"
 152,"TEXT_STMBDY501_03086_SYSTEM_000_141","緋桐邊喊著小綠的名字邊離開了。
 但是好像沒什麼反應……
 可能是提出了錯誤的建議……"
 153,"TEXT_STMBDY501_03086_HIGIRI_000_142","啊，就是這個！
 額頭是豔麗的紅玉色來著。"
-154,"TEXT_STMBDY501_03086_HIGIRI_000_143","謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+154,"TEXT_STMBDY501_03086_HIGIRI_000_143","謝謝你<Highlight>ObjectParameter(1)</Highlight>！
 為了同伴們，為了大家，我繼續去努力了！"
 155,"TEXT_STMBDY501_03086_SYSTEM_000_144","緋桐邊喊著小紅的名字邊離開了。
 隨後一隻寶石獸現出了身影。
 看來這個建議是正確的！"
 156,"TEXT_STMBDY501_03086_HIGIRI_000_145","我記得那隻寶石獸應該是翠玉色……
 但你這麼一說，也好像是黃玉色來著。"
-157,"TEXT_STMBDY501_03086_HIGIRI_000_146","謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+157,"TEXT_STMBDY501_03086_HIGIRI_000_146","謝謝你<Highlight>ObjectParameter(1)</Highlight>！
 為了同伴們，為了大家，我繼續去努力了！"
 158,"TEXT_STMBDY501_03086_SYSTEM_000_147","緋桐邊喊著小黃的名字邊離開了。
 但是好像沒什麼反應……
 可能是提出了錯誤的建議……"
 159,"TEXT_STMBDY501_03086_HIGIRI_000_148","啊，就是這個！
 這個名字，我好像在哪聽說過！"
-160,"TEXT_STMBDY501_03086_HIGIRI_000_149","謝謝你 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+160,"TEXT_STMBDY501_03086_HIGIRI_000_149","謝謝你<Highlight>ObjectParameter(1)</Highlight>！
 為了同伴們，為了大家，我繼續去努力了！"
 161,"TEXT_STMBDY501_03086_SYSTEM_000_150","緋桐邊喊著小黑的名字邊離開了。
 但是好像沒什麼反應……
@@ -315,7 +315,7 @@ int32,str,str
 說到謝禮果然還是會談到金錢啊……
 對於冒險者來說，這可能理所應當吧。"
 171,"TEXT_STMBDY501_03086_HOZAN_000_160","可我身上也沒有能稱得上是財產的東西，
-也不知道能不能拿出適合的謝禮啊……
+也不知道能不能拿出合適的謝禮啊……
 總之先努力看看吧。"
 172,"TEXT_STMBDY501_03086_SYSTEM_000_161","寶山變得更加苦惱了。
 可能是提出了錯誤的建議……"
@@ -347,22 +347,22 @@ int32,str,str
 那我們就邊幹活邊等消息了。"
 185,"TEXT_STMBDY501_03086_HOZAN_000_174","確實是該正式地去打招呼。
 那等我們幹完活……嗯？"
-186,"TEXT_STMBDY501_03086_HOZAN_000_175","那不是……冒險者蕾修．珀拉里嗎？
+186,"TEXT_STMBDY501_03086_HOZAN_000_175","那不是……冒險者蕾修·珀拉里嗎？
 是在脫離水晶義勇隊之後，幫過我們的人。
 她好像在尋找著什麼……"
-187,"TEXT_STMBDY501_03086_HOZAN_000_176"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這邊已經沒問題了，
+187,"TEXT_STMBDY501_03086_HOZAN_000_176","<Highlight>ObjectParameter(1)</Highlight>，這邊已經沒問題了，
 如果有必要，請你幫幫她吧。
 我也還有工作要做，關於打招呼的事情，過一會再說吧。"
 188,"TEXT_STMBDY501_03086_SYSTEM_000_177","若要領取或繼續推進下一個任務，
 需要完成「特殊內容支線任務——多瑪冒險者團」的
 「小小的人兒大大的夢想」。"
 189,"TEXT_STMBDY501_03086_SYSTEM_000_178","「特殊內容支線任務——多瑪冒險者團」
-可以透過從蕾修．珀拉里處接受的任務
+可以通過從蕾修·珀拉里處接受的任務
 「沉睡在廢棄營地的寶藏」開啟。"
 190,"TEXT_STMBDY501_03086_HOZAN_000_179","確實是該去正式打個招呼。
 但是我正在尋找孩子們。
 也得告訴那些孩子們回歸故鄉的事情呢。"
-191,"TEXT_STMBDY501_03086_HOZAN_000_180"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，提建議的事已經可以告一段落了，
+191,"TEXT_STMBDY501_03086_HOZAN_000_180","<Highlight>ObjectParameter(1)</Highlight>，提建議的事已經可以告一段落了，
 如果可以的話，我想請你幫忙去尋找我兒子陽山。
 希望他還在城裡……"
 192,"TEXT_STMBDY501_03086_SYSTEM_000_181","若要領取或繼續推進下一個任務，
@@ -370,5 +370,5 @@ int32,str,str
 「小小的人兒大大的夢想」。"
 193,"TEXT_STMBDY501_03086_HOZAN_000_182","確實是該去正式打個招呼。
 我正好跟孩子們說完這事。"
-194,"TEXT_STMBDY501_03086_HOZAN_000_183"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，提建議的事已經可以告一段落了，
+194,"TEXT_STMBDY501_03086_HOZAN_000_183","<Highlight>ObjectParameter(1)</Highlight>，提建議的事已經可以告一段落了，
 接下來能麻煩你來見證最後的道別嗎？"

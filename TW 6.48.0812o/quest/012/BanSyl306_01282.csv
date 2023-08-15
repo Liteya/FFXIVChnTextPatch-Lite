@@ -53,7 +53,7 @@ int32,str,str
 所以對毒瑚菌加以刺激，讓它們噴出瘴氣，
 企圖把人類趕出妖精領呼啾。"
 49,"TEXT_BANSYL306_01282_MOXIA_000_001","拜他們所賜，妖精領現在變成了一片詭異的森林，
-魔物們也很凶暴呼啾……
+魔物們也很兇暴呼啾……
 我們必須為此做點什麼呼啾！"
 50,"TEXT_BANSYL306_01282_MOXIA_000_002","暫留地這裡生長的<Sheet(EventItem,2001184,0)/>，
 可以讓森林裡的空氣變清新呼啾。"
@@ -68,7 +68,7 @@ int32,str,str
 把<Sheet(EventItem,2001184,0)/>種在那裡呼啾。
 記得要小心壞妖精們的妨礙呼啾！"
 55,"TEXT_BANSYL306_01282_WARUIKO_000_010","你想做什麼呼啾！"
-56,"TEXT_BANSYL306_01282_MOXIA_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦你了呼啾！
+56,"TEXT_BANSYL306_01282_MOXIA_000_020","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了呼啾！
 我感覺森林裡的空氣好像變好了一些呼啾。
 壞妖精們，給我等著瞧呼啾！"
 57,"TEXT_BANSYL306_01282_MOXIA_000_021","有冒險者你這樣的朋友真是太好了，

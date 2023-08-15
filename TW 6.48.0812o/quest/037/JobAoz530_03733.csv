@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_JOBAOZ530_03733_SEQ_00","烏爾達哈的馬丁希望冒險者陪弟子進行修行。"
-1,"TEXT_JOBAOZ530_03733_SEQ_01","和馬丁進行了交談，冒險者開始陪著弟子進行修行。和西薩納蘭金錘臺地的馬丁談談。"
-2,"TEXT_JOBAOZ530_03733_SEQ_02","和馬丁進行了交談，結果要在弟子們面前進行實戰示範。和金錘臺地的馬丁談談，打倒鬥場維京人偶。"
-3,"TEXT_JOBAOZ530_03733_SEQ_03","打倒了鬥場維京人偶。和金錘臺地的馬丁談談。"
+1,"TEXT_JOBAOZ530_03733_SEQ_01","和馬丁進行了交談，冒險者開始陪著弟子進行修行。和西薩納蘭金錘台地的馬丁談談。"
+2,"TEXT_JOBAOZ530_03733_SEQ_02","和馬丁進行了交談，結果要在弟子們面前進行實戰演示。和金錘台地的馬丁談談，打倒鬥場維京人偶。"
+3,"TEXT_JOBAOZ530_03733_SEQ_03","打倒了鬥場維京人偶。和金錘台地的馬丁談談。"
 4,"TEXT_JOBAOZ530_03733_SEQ_04","和馬丁進行了交談，返回烏爾達哈。和烏爾達哈密爾瓦內斯禮拜堂附近的馬丁談談。"
-5,"TEXT_JOBAOZ530_03733_SEQ_05","和馬丁交談時，看見他從弟子們那裡收取了學費。之後他提出了「青魔法師萬能論」，並且目前正在研究中。雖然他還是一如既往的不可靠，不過為了到達更高的境界，學會青魔法「口笛」後再去找馬丁。
+5,"TEXT_JOBAOZ530_03733_SEQ_05","和馬丁交談時，看見他從弟子們那裡收取了學費。之後他提出了「青魔法師萬能論」，並且目前正在研究中。雖然他還是一如既往的不靠譜，不過為了到達更高的境界，學會青魔法「口笛」後再去找馬丁。
 
 ※青魔法師的等級達到55級以上並學會青魔法「口笛」後，可以從密爾瓦內斯禮拜堂附近的馬丁那裡領取下一個青魔法師任務。"
 6,"TEXT_JOBAOZ530_03733_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBAOZ530_03733_SEQ_21",""
 22,"TEXT_JOBAOZ530_03733_SEQ_22",""
 23,"TEXT_JOBAOZ530_03733_SEQ_23",""
-24,"TEXT_JOBAOZ530_03733_TODO_00","和金錘臺地的馬丁對話"
+24,"TEXT_JOBAOZ530_03733_TODO_00","和金錘台地的馬丁對話"
 25,"TEXT_JOBAOZ530_03733_TODO_01","和馬丁對話並討伐鬥場維京人偶"
 26,"TEXT_JOBAOZ530_03733_TODO_02","和馬丁對話"
 27,"TEXT_JOBAOZ530_03733_TODO_03","和烏爾達哈的馬丁對話"
@@ -51,22 +51,22 @@ int32,str,str
 45,"TEXT_JOBAOZ530_03733_TODO_21",""
 46,"TEXT_JOBAOZ530_03733_TODO_22",""
 47,"TEXT_JOBAOZ530_03733_TODO_23",""
-48,"TEXT_JOBAOZ530_03733_MARTYN_100_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看來你作為青魔法師又進一步磨鍊了自己，
+48,"TEXT_JOBAOZ530_03733_MARTYN_100_000","<Highlight>ObjectParameter(1)</Highlight>，看來你作為青魔法師又進一步磨鍊了自己，
 不過你還是先去學會青魔法「狂風暴雪」以後再來找我吧……"
 49,"TEXT_JOBAOZ530_03733_SYSTEM_100_001","學會青魔法「狂風暴雪」之後，
 才能從馬丁那裡領取下一個青魔法師任務。"
-50,"TEXT_JOBAOZ530_03733_MARTYN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+50,"TEXT_JOBAOZ530_03733_MARTYN_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 看來你的實力越來越強了啊。
 而且也學會了青魔法「狂風暴雪」。"
 51,"TEXT_JOBAOZ530_03733_MARTYN_000_001","那就請你趕緊跟我一起去訓練弟子們吧。
-地點就在西薩納蘭的金錘臺地。
+地點就在西薩納蘭的金錘台地。
 務必記住你現在也要開始教人了，得要有個教人的樣子哦。"
 52,"TEXT_JOBAOZ530_03733_LATOOLJA_000_005","大師在、新弟子們的面前、比往常更有幹勁。
 就請你陪他去趟、西薩納蘭吧。"
-53,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_006"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你終於來了！"
-54,"TEXT_JOBAOZ530_03733_PYANDIH_000_007"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請多指教！"
+53,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_006","<Highlight>ObjectParameter(1)</Highlight>，你終於來了！"
+54,"TEXT_JOBAOZ530_03733_PYANDIH_000_007","<Highlight>ObjectParameter(1)</Highlight>，請多指教！"
 55,"TEXT_JOBAOZ530_03733_MARTYN_000_010","接下來，
-我想請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 為你的師弟們
+我想請<Highlight>ObjectParameter(1)</Highlight>為你的師弟們
 展現一下青魔法師的實戰技巧。"
 56,"TEXT_JOBAOZ530_03733_MARTYN_000_011","我從假面狂歡那裡借來了鬥場維京人偶，
 請你在他們面前打倒這個人偶。"
@@ -74,18 +74,18 @@ int32,str,str
 我來啟動鬥場維京人偶。"
 58,"TEXT_JOBAOZ530_03733_MARTYN_000_013","都睜大眼睛看好了，你們<If(PlayerParameter(4))>師姐<Else/>師兄</If>是怎樣戰鬥的！
 然後給我好好學習青魔法的真諦！！"
-59,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_016"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你加油！"
+59,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_016","<Highlight>ObjectParameter(1)</Highlight>，請你加油！"
 60,"TEXT_JOBAOZ530_03733_PYANDIH_000_017","能在這麼近距離觀看你的戰鬥，
 這簡直像是在做夢一樣！"
 61,"TEXT_JOBAOZ530_03733_MARTYN_000_020","準備好了吧。
 啟動！鬥場維京人偶！"
-62,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_025"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，幹得漂亮！"
-63,"TEXT_JOBAOZ530_03733_PYANDIH_000_026","太厲害了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+62,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_025","<Highlight>ObjectParameter(1)</Highlight>，幹得漂亮！"
+63,"TEXT_JOBAOZ530_03733_PYANDIH_000_026","太厲害了，<Highlight>ObjectParameter(1)</Highlight>！"
 64,"TEXT_JOBAOZ530_03733_MARTYN_000_030","不愧是我的首席弟子！
 完美地領會了我的教導，能夠如此華麗地使用青魔法！"
-65,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，幹得漂亮！
+65,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_031","<Highlight>ObjectParameter(1)</Highlight>，幹得漂亮！
 你那巧妙的步伐，非常值得我參考！"
-66,"TEXT_JOBAOZ530_03733_PYANDIH_000_032","太厲害了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+66,"TEXT_JOBAOZ530_03733_PYANDIH_000_032","太厲害了，<Highlight>ObjectParameter(1)</Highlight>！
 我也會加油練習青魔法，爭取做到無間隔釋放！"
 67,"TEXT_JOBAOZ530_03733_MARTYN_000_033","嗯，大家今後要繼續努力精進自己。
 那就回烏爾達哈吧。"
@@ -93,7 +93,7 @@ int32,str,str
 大師、是不是又、得意忘形了？"
 69,"TEXT_JOBAOZ530_03733_MARTYN_000_040","接下來我找弟子們有點事情要辦，
 你就先在這裡等等吧。"
-70,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_041","欸？！
+70,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_041","誒？！
 這比之前要貴吧？"
 71,"TEXT_JOBAOZ530_03733_MARTYN_000_042","今天不是有特邀講師給你們上了實戰課嘛，
 這部分當然是另收費的。
@@ -106,17 +106,17 @@ int32,str,str
 74,"TEXT_JOBAOZ530_03733_Q1_000_000","要說什麼？"
 75,"TEXT_JOBAOZ530_03733_A1_000_001","你居然在收學費嗎？"
 76,"TEXT_JOBAOZ530_03733_A1_000_002","我的辛苦錢呢！"
-77,"TEXT_JOBAOZ530_03733_MARTYN_000_045","這也是為了營運青魔法師公會。
+77,"TEXT_JOBAOZ530_03733_MARTYN_000_045","這也是為了運營青魔法師公會。
 倒不如說我開的價格已經是很良心了，而且我也認真指導他們了。
 順便說一句，你的那份工錢我會給的，放心吧……"
 78,"TEXT_JOBAOZ530_03733_MARTYN_000_046","你的那份工錢我當然會給的，放心吧。
 順便一提，我可是以非常良心的價格在認真指導他們哦。
-這都是為了營運青魔法師公會……"
-79,"TEXT_JOBAOZ530_03733_MARTYN_000_047","話說…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+這都是為了運營青魔法師公會……"
+79,"TEXT_JOBAOZ530_03733_MARTYN_000_047","話說……<Highlight>ObjectParameter(1)</Highlight>。
 我最近聽到了一個傳聞，
 這使我覺察到青魔法師具備著更多的可能性。"
 80,"TEXT_JOBAOZ530_03733_MARTYN_000_048","據說你們冒險者為了收集財寶或是磨鍊實力，
-經常會到各種凶猛魔物徘徊的危險地帶進行探索？"
+經常會到各種兇猛魔物徘徊的危險地帶進行探索？"
 81,"TEXT_JOBAOZ530_03733_MARTYN_000_049","然後每次探索的時候都會按照防護、攻擊、治療等戰鬥職能，
 召集同伴組成小隊……"
 82,"TEXT_JOBAOZ530_03733_MARTYN_000_050","不過傳聞中說某個冒險者小隊
@@ -129,5 +129,5 @@ int32,str,str
 85,"TEXT_JOBAOZ530_03733_MARTYN_000_053","我為了證明這個「青魔法師萬能論」，目前正在進行研究……"
 86,"TEXT_JOBAOZ530_03733_MARTYN_000_054","好了不提這個了，我希望你下次也能陪弟子們進行修行。
 等你學會青魔法「口笛」之後再回到這裡找我吧。"
-87,"TEXT_JOBAOZ530_03733_MARTYN_000_055"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊！
+87,"TEXT_JOBAOZ530_03733_MARTYN_000_055","<Highlight>ObjectParameter(1)</Highlight>啊！
 身為萬能的青魔法師，朝著更高的境界努力吧！"

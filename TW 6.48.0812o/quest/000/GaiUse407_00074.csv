@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE407_00074_SEQ_00","白雲崖前哨的德里耶蒙想要繼續尋求冒險者的幫助。"
-1,"TEXT_GAIUSE407_00074_SEQ_01","德里耶蒙根據冒險者帶回的情報分析出異端者們有一支別動隊。為防止前往披雪大冰壁的神殿騎士團和水晶義勇隊背面受敵，一定要討伐掉異端者的別動隊。前往別動隊所在的庫爾札斯中央高地巨石丘，和德里耶蒙的部下會合。"
+1,"TEXT_GAIUSE407_00074_SEQ_01","德里耶蒙根據冒險者帶回的情報分析出異端者們有一支別動隊。為防止前往披雪大冰壁的神殿騎士團和水晶義勇隊背面受敵，必須要討伐掉異端者的別動隊。前往別動隊所在的庫爾札斯中央高地巨石丘，和德里耶蒙的部下匯合。"
 2,"TEXT_GAIUSE407_00074_SEQ_02","德里耶蒙的部下們遭到了異端者的襲擊，倒在了巨石丘。成功擊退了異端者，調查巨石丘的<Sheet(EObj,2005002,0)/>。"
 3,"TEXT_GAIUSE407_00074_SEQ_03","調查了異端者的遺物。將<Sheet(EventItem,2001470,0)/>交給白雲崖前哨的德里耶蒙。"
 4,"TEXT_GAIUSE407_00074_SEQ_04","將<Sheet(EventItem,2001470,0)/>交給了德里耶蒙。該羊皮紙是有異端嫌疑的騎兵的當班表。不過，異端者似乎不止有一支別動隊……"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSE407_00074_SEQ_21",""
 22,"TEXT_GAIUSE407_00074_SEQ_22",""
 23,"TEXT_GAIUSE407_00074_SEQ_23",""
-24,"TEXT_GAIUSE407_00074_TODO_00","和狄蘭達爾家的騎兵會合"
+24,"TEXT_GAIUSE407_00074_TODO_00","和狄蘭達爾家的騎兵匯合"
 25,"TEXT_GAIUSE407_00074_TODO_01","調查<Sheet(EObj,2005002,0)/>"
 26,"TEXT_GAIUSE407_00074_TODO_02","將<Sheet(EventItem,2001470,0)/>交給德里耶蒙"
 27,"TEXT_GAIUSE407_00074_TODO_03",""
@@ -70,7 +70,7 @@ int32,str,str
 57,"TEXT_GAIUSE407_00074_DRILLEMONT_000_030","什、什麼？！
 你到巨石丘的時候，我的部下都已經被打倒了？！"
 58,"TEXT_GAIUSE407_00074_DRILLEMONT_000_031","……怎麼會這樣。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你擊退異端者，幫我的部下們報仇……"
+<Highlight>ObjectParameter(1)</Highlight>，感謝你擊退異端者，幫我的部下們報仇……"
 59,"TEXT_GAIUSE407_00074_DRILLEMONT_000_032","哎……現在不是傷感的時候！"
 60,"TEXT_GAIUSE407_00074_DRILLEMONT_000_033","關於你帶回來的這張羊皮紙，
 上面的資訊是有異端嫌疑的騎兵的當班記錄。"
@@ -83,6 +83,6 @@ int32,str,str
 很可能在其他地方也有別動隊……"
 64,"TEXT_GAIUSE407_00074_DRILLEMONT_000_037","好，我要集結狄蘭達爾家騎兵團的所有力量，
 消滅潛伏在附近的異端者們！"
-65,"TEXT_GAIUSE407_00074_DRILLEMONT_000_038"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你阻止了異端者為所欲為，
+65,"TEXT_GAIUSE407_00074_DRILLEMONT_000_038","<Highlight>ObjectParameter(1)</Highlight>，你阻止了異端者為所欲為，
 謝謝你。"
 66,"TEXT_GAIUSE407_00074_BALLOON_000_040","與龍合為一體！"

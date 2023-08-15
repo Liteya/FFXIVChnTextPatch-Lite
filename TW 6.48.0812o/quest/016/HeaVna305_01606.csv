@@ -56,7 +56,7 @@ int32,str,str
 不僅危險還費時費力。"
 50,"TEXT_HEAVNA305_01606_ALPHINAUD_000_002","別擔心，只要和希瓦戰那時一樣，
 利用披雪大冰壁裡的水晶就可以過去了。"
-51,"TEXT_HEAVNA305_01606_ALPHINAUD_000_003","經 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和神殿騎士團調查，
+51,"TEXT_HEAVNA305_01606_ALPHINAUD_000_003","經<Highlight>ObjectParameter(1)</Highlight>和神殿騎士團調查，
 我們得知大冰壁內部的秘密坑道通向西部高地。
 因此只要說明情況，應該是可以使用的。"
 52,"TEXT_HEAVNA305_01606_ESTINIEN_000_004","那坑道的西部高地一側入口現在正由狄蘭達爾家的衛兵把守，
@@ -89,7 +89,7 @@ int32,str,str
 敵人看來並不準備讓我們在這裡慢慢參觀。"
 65,"TEXT_HEAVNA305_01606_HERETIC01606_000_016","不光阻礙希瓦大人降臨，
 還來對我們斬盡殺絕！
-可惡的伊修加爾德騎士！"
+可惡的伊修加德騎士！"
 66,"TEXT_HEAVNA305_01606_ALPHINAUD_000_017","等、等一下！
 我們是為了停戰而來和冰之巫女對話的！"
 67,"TEXT_HEAVNA305_01606_HERETIC01606_000_018","誰會信你的鬼話！
@@ -114,7 +114,7 @@ int32,str,str
 77,"TEXT_HEAVNA305_01606_ESTINIEN_000_028","其實，有傳言說那座島下沉睡著巨龍。
 500年前，當時的蒼天之龍騎士拚死與其戰鬥，最終將其打倒，
 教皇廳出動數十名法術師才讓其陷入沉睡。"
-78,"TEXT_HEAVNA305_01606_ESTINIEN_000_029","傳說那個島就是由蓄積在沉睡的巨龍身上的落灰形成的……"
+78,"TEXT_HEAVNA305_01606_ESTINIEN_000_029","傳說那個島就是由積攢在沉睡的巨龍身上的落灰形成的……"
 79,"TEXT_HEAVNA305_01606_ALPHINAUD_000_030","原來如此，怪不得他們管那個島叫「灰巢」……
 那我們就返回西部高地，前往臥龍島！"
 80,"TEXT_HEAVNA305_01606_ALPHINAUD_000_031","被灰燼埋沒的龍族長眠之地，臥龍島……
@@ -124,7 +124,7 @@ int32,str,str
 82,"TEXT_HEAVNA305_01606_ESTINIEN_000_041","聽說一支名為聖菲內雅連隊的獨立部隊
 在雙子池大冰原安扎了露營地。
 隊長名叫讓泰洛。"
-83,"TEXT_HEAVNA305_01606_ESTINIEN_000_042","他們的目的是透過獵龍而一舉成名，
+83,"TEXT_HEAVNA305_01606_ESTINIEN_000_042","他們的目的是通過獵龍而一舉成名，
 或許他們中有人目擊到了異端者……
 怎麼樣，對於收集情報來說，是個不錯的去處吧？"
 84,"TEXT_HEAVNA305_01606_ALPHINAUD_000_043","就按埃斯蒂尼安閣下說的辦。
@@ -134,7 +134,7 @@ int32,str,str
 真不愧是福爾唐家的貴客和蒼天之龍騎士閣下！"
 87,"TEXT_HEAVNA305_01606_JANTELLOT_000_050","啊？你們是誰？想入隊嗎？"
 88,"TEXT_HEAVNA305_01606_JANTELLOT_100_050","這邊這位<If(PlayerParameter(4))>小姐<Else/>小哥</If>看起來倒是有幾把刷子，
-但這邊這個豆芽菜，你應該撐不了三天就凍死了。"
+但這邊這個豆芽菜，估計你撐不了三天就凍死了。"
 89,"TEXT_HEAVNA305_01606_ALPHINAUD_000_051","你說什麼……"
 90,"TEXT_HEAVNA305_01606_ESTINIEN_000_052","喂，別太刺激他了。
 正所謂人不可貌相，
@@ -153,7 +153,7 @@ int32,str,str
 96,"TEXT_HEAVNA305_01606_JANTELLOT_000_057","也許我們隊裡有人目擊過。
 你們就去隨便問問他們吧。"
 97,"TEXT_HEAVNA305_01606_ALPHINAUD_000_058","明白了。"
-98,"TEXT_HEAVNA305_01606_ALPHINAUD_100_058","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，埃斯蒂尼安閣下，
+98,"TEXT_HEAVNA305_01606_ALPHINAUD_100_058","……<Highlight>ObjectParameter(1)</Highlight>，埃斯蒂尼安閣下，
 我們就分頭去調查一下吧。"
 99,"TEXT_HEAVNA305_01606_LANCER01607_000_060","今天也夠冷的……"
 100,"TEXT_HEAVNA305_01606_ARCHER01607_000_061","沒事別跟我說話，
@@ -168,7 +168,7 @@ int32,str,str
 106,"TEXT_HEAVNA305_01606_QIB_ALPHINAUD_BATTLETALK_011","這就是……龍血的力量！
 竟然能把人變成那個樣子！"
 107,"TEXT_HEAVNA305_01606_QIB_HERETIC_BOSS_BATTLETALK_023","竟敢將我的同志們……
-不可饒恕！伊修加爾德的騎士！"
+不可饒恕！伊修加德的騎士！"
 108,"TEXT_HEAVNA305_01606_QIB_ALPHINAUD_BATTLETALK_021","竟然如此威猛……"
 109,"TEXT_HEAVNA305_01606_QIB_ESTINIEN_BATTLETALK_022","哼……放馬過來……
 我堂堂蒼天之龍騎士可不是徒有虛名的！"

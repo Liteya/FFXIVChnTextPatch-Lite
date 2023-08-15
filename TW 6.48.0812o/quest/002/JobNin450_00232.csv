@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_JOBNIN450_00232_TODO_21",""
 46,"TEXT_JOBNIN450_00232_TODO_22",""
 47,"TEXT_JOBNIN450_00232_TODO_23",""
-48,"TEXT_JOBNIN450_00232_OBORO_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBNIN450_00232_OBORO_000_000","<Highlight>ObjectParameter(1)</Highlight>。
 你的心成長得越發堅韌、無懈可擊了。
 為了慶祝你的成長，我準備了一件禮物給你。"
 49,"TEXT_JOBNIN450_00232_OBORO_000_001","前陣子，我們得到雙劍師公會的協助，向忍村寄去了一封信。
@@ -60,7 +60,7 @@ int32,str,str
 能請你去找運貨人收貨嗎？"
 51,"TEXT_JOBNIN450_00232_OBORO_000_003","我和燕要去一趟雙劍師公會道謝。
 ……期待你穿上忍者裝束的樣子。"
-52,"TEXT_JOBNIN450_00232_TSUBAME_000_005","總算是漸漸習慣艾奧傑亞的生活了。
+52,"TEXT_JOBNIN450_00232_TSUBAME_000_005","總算是漸漸習慣艾歐澤亞的生活了。
 但還是有點想早些完成任務回村子去……"
 53,"TEXT_JOBNIN450_00232_JACKE_000_006","之前委託你調查的可疑人士……是叫朧來著吧？
 他來上門拜訪、請求幫助了。"
@@ -85,7 +85,7 @@ int32,str,str
 怯懦的忍者可沒有下次機會呢。"
 63,"TEXT_JOBNIN450_00232_KARASU_000_62","你好呀，小雛鳥。
 ……不用這麼緊張。"
-64,"TEXT_JOBNIN450_00232_KARASU_000_63","駐紮在多瑪的帝國軍部隊發來密報說有貨物運來了艾奧傑亞。
+64,"TEXT_JOBNIN450_00232_KARASU_000_63","駐紮在多瑪的帝國軍部隊發來密報說有貨物運來了艾歐澤亞。
 我這不只是先撒下網拿了過來而已嘛。"
 65,"TEXT_JOBNIN450_00232_KARASU_000_64","嗚噗噗，你知道貨物運送的是什麼嗎？
 居然是一套新的忍者裝束呢，笑死我了。
@@ -125,7 +125,7 @@ int32,str,str
 84,"TEXT_JOBNIN450_00232_BATTLED00232_000_107","(-形跡可疑的商人-)喂，別碰我的貨。
 不知道講文明懂禮貌嗎？"
 85,"TEXT_JOBNIN450_00232_BALOON_000_108","死吧！"
-86,"TEXT_JOBNIN450_00232_OBORO_000_200","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！太好了……
+86,"TEXT_JOBNIN450_00232_OBORO_000_200","……<Highlight>ObjectParameter(1)</Highlight>！太好了……
 我辦完事後一直等不到你回來，還以為出了什麼事。"
 87,"TEXT_JOBNIN450_00232_OBORO_000_201","……你撞到鴉了？！
 沒想到這次他盯上的是你……"

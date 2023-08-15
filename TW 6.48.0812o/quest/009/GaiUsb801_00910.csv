@@ -53,14 +53,14 @@ int32,str,str
 好像剛才弗朗塞爾正率領著騎兵前往鋼衛塔廢墟。"
 49,"TEXT_GAIUSB801_00910_HAURCHEFANT_000_001","哨兵打聽了一下，
 他們居然要去打倒在那附近肆虐的龍族……
-我這裡可是完全沒收到相關的聯繫。"
+我這裡可是完全沒收到相關的聯絡。"
 50,"TEXT_GAIUSB801_00910_HAURCHEFANT_000_002","我感覺到了陰謀的味道……是針對弗朗塞爾的！
 不好意思，能拜託你到北面的鋼衛塔，
 去助那傢伙一臂之力嗎？"
 51,"TEXT_GAIUSB801_00910_NPCA_000_010","不行了，快逃啊！"
 52,"TEXT_GAIUSB801_00910_NPCB_000_011","那是什麼啊……那怪物是什麼東西啊？！"
 53,"TEXT_GAIUSB801_00910_NPCC_000_012","哈啊……哈啊……"
-54,"TEXT_GAIUSB801_00910_FRANCEL_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！不行，你別過來！那傢伙還在這附近……"
+54,"TEXT_GAIUSB801_00910_FRANCEL_000_020","<Highlight>ObjectParameter(1)</Highlight>？！不行，你別過來！那傢伙還在這附近……"
 55,"TEXT_GAIUSB801_00910_FRANCEL_000_030","嗚……先、先救騎兵們……
 大家為了掩護我，都受傷了！"
 56,"TEXT_GAIUSB801_00910_NPCA_000_040","弗朗塞爾大人還好吧？

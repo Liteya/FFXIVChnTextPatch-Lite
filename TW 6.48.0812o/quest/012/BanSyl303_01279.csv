@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_BANSYL303_01279_SEQ_00","妖精暫留地的莫奇希亞有事情想要委託給冒險者。"
-1,"TEXT_BANSYL303_01279_SEQ_01","接受了莫奇希亞的委託。討伐懸鉤群南邊的<Sheet(BNpcName,163,0)/>，獲得3個<Sheet(EventItem,2001168,0)/>。"
-2,"TEXT_BANSYL303_01279_SEQ_02","成功討伐了<Sheet(BNpcName,163,0)/>，獲得了<Sheet(EventItem,2001168,0)/>。在搖籃樹和懸鉤群附近，從<Sheet(EObj,2003105,0)/>中獲得3杯<Sheet(EventItem,2001169,0)/>。"
+1,"TEXT_BANSYL303_01279_SEQ_01","接受了莫奇希亞的委託。討伐懸鉤群南邊的<Sheet(BNpcName,163,0)/>，獲取3個<Sheet(EventItem,2001168,0)/>。"
+2,"TEXT_BANSYL303_01279_SEQ_02","成功討伐了<Sheet(BNpcName,163,0)/>，獲得了<Sheet(EventItem,2001168,0)/>。在搖籃樹和懸鉤群附近，從<Sheet(EObj,2003105,0)/>中獲取3杯<Sheet(EventItem,2001169,0)/>。"
 3,"TEXT_BANSYL303_01279_SEQ_03","獲得了<Sheet(EventItem,2001169,0)/>。將<Sheet(EventItem,2001168,0)/>和<Sheet(EventItem,2001169,0)/>交給妖精暫留地的莫奇希亞。"
 4,"TEXT_BANSYL303_01279_SEQ_04","將委託品交給了莫奇希亞。有了這些東西，就又能培育<Sheet(BNpcName,163,0)/>了，莫奇希亞很開心。下次有機會再協助他。"
 5,"TEXT_BANSYL303_01279_SEQ_05",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_BANSYL303_01279_SEQ_21",""
 22,"TEXT_BANSYL303_01279_SEQ_22",""
 23,"TEXT_BANSYL303_01279_SEQ_23",""
-24,"TEXT_BANSYL303_01279_TODO_00","從<Sheet(BNpcName,163,0)/>身上獲得<Sheet(EventItem,2001168,0)/>"
-25,"TEXT_BANSYL303_01279_TODO_01","從<Sheet(EObj,2003105,0)/>中獲得<Sheet(EventItem,2001169,0)/>"
+24,"TEXT_BANSYL303_01279_TODO_00","從<Sheet(BNpcName,163,0)/>身上獲取<Sheet(EventItem,2001168,0)/>"
+25,"TEXT_BANSYL303_01279_TODO_01","從<Sheet(EObj,2003105,0)/>中獲取<Sheet(EventItem,2001169,0)/>"
 26,"TEXT_BANSYL303_01279_TODO_02","將<Sheet(EventItem,2001168,0)/>和<Sheet(EventItem,2001169,0)/>交給莫奇希亞"
 27,"TEXT_BANSYL303_01279_TODO_03",""
 28,"TEXT_BANSYL303_01279_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_BANSYL303_01279_MOXIA_000_001","但是因為壞妖精們做出的那詭異的森林瘴氣，
 它們都變得凶暴化了呼啾……"
 50,"TEXT_BANSYL303_01279_MOXIA_000_002","大概只能去除掉那些<Sheet(BNpcName,163,0)/>了，
-雖然很可憐，但是我們也只有獲得它們的種子，
+雖然很可憐，但是我們也只有獲取它們的種子，
 重新栽培新一代了呼啾。"
 51,"TEXT_BANSYL303_01279_MOXIA_000_003","冒險者朋友，我希望你能去除掉<Sheet(BNpcName,163,0)/>，
 收集3個<Sheet(EventItem,2001168,0)/>呼啾。"

@@ -69,14 +69,14 @@ int32,str,str
 都是因為我……"
 56,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_020","謝謝，你來得太及時了！
 雖然我把襲擊過來的魔導兵器打倒了，
-但急救用品也沒辦法用了，我正發愁呢。"
+但急救用品也沒法用了，我正發愁呢。"
 57,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_021","這次還多虧了這位女士提醒我魔導兵器接近，
 才讓我避開了致命一擊。"
 58,"TEXT_AKTKZD014_04238_GARLEANCITIZEN04238_000_022","不、不是的，
 要是沒有你先救了我的話，我……"
 59,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_023","好了，我也已經沒事了，你也別著急了。
 我帶你去碎璃營地吧。"
-60,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_024"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也一起吧，我們先回塔隆那裡。"
+60,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_024","<Highlight>ObjectParameter(1)</Highlight>閣下也一起吧，我們先回塔隆那裡。"
 61,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_027","多虧你及時救援，我才能平安回來！"
 62,"TEXT_AKTKZD014_04238_GARLEANCITIZEN04238_000_028","謝謝你救了我，真的非常感謝……"
 63,"TEXT_AKTKZD014_04238_TALON_000_030","啊，你們都平安無事真是太好了。

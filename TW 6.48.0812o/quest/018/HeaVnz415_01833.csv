@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ415_01833_SEQ_00","贖罪天廊的莫古索恩在沉思。"
-1,"TEXT_HEAVNZ415_01833_SEQ_01","和莫古索恩進行了交談。在翻雲霧海的四臂廣場獲得3個<Sheet(EventItem,2001636,0)/>。"
-2,"TEXT_HEAVNZ415_01833_SEQ_02","取得了<Sheet(EventItem,2001636,0)/>。將<Sheet(EventItem,2001636,0)/>交給翻雲霧海莫古利之家附近的莫古咪爾。"
+1,"TEXT_HEAVNZ415_01833_SEQ_01","和莫古索恩進行了交談。在翻雲霧海的四臂廣場獲取3個<Sheet(EventItem,2001636,0)/>。"
+2,"TEXT_HEAVNZ415_01833_SEQ_02","取得了<Sheet(EventItem,2001636,0)/>。將<Sheet(EventItem,2001636,0)/>交給翻雲霧海莫古力之家附近的莫古咪爾。"
 3,"TEXT_HEAVNZ415_01833_SEQ_03","將<Sheet(EventItem,2001636,0)/>交給了莫古咪爾。莫古咪爾表示非常高興。"
 4,"TEXT_HEAVNZ415_01833_SEQ_04",""
 5,"TEXT_HEAVNZ415_01833_SEQ_05",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ415_01833_SEQ_21",""
 22,"TEXT_HEAVNZ415_01833_SEQ_22",""
 23,"TEXT_HEAVNZ415_01833_SEQ_23",""
-24,"TEXT_HEAVNZ415_01833_TODO_00","獲得<Sheet(EventItem,2001636,0)/>"
+24,"TEXT_HEAVNZ415_01833_TODO_00","獲取<Sheet(EventItem,2001636,0)/>"
 25,"TEXT_HEAVNZ415_01833_TODO_01","將<Sheet(EventItem,2001636,0)/>交給莫古咪爾"
 26,"TEXT_HEAVNZ415_01833_TODO_02",""
 27,"TEXT_HEAVNZ415_01833_TODO_03",""
@@ -52,11 +52,11 @@ int32,str,str
 48,"TEXT_HEAVNZ415_01833_MOGSON_000_000","莫古的友人對人類的武器很感興趣，
 說它們寒光閃閃的看起來非常棒庫啵。"
 49,"TEXT_HEAVNZ415_01833_MOGSON_000_001","莫古記得人王遺跡有3把人類製造的<Sheet(EventItem,2001636,0)/>庫啵。
-希望你能找來拿給莫古利之家的莫古咪爾庫啵。"
+希望你能找來拿給莫古力之家的莫古咪爾庫啵。"
 50,"TEXT_HEAVNZ415_01833_MOGSON_000_010","莫古記得人王遺跡有3把人類製造的<Sheet(EventItem,2001636,0)/>庫啵。
-希望你能找來拿給莫古利之家的莫古咪爾庫啵。"
+希望你能找來拿給莫古力之家的莫古咪爾庫啵。"
 51,"TEXT_HEAVNZ415_01833_MOGSON_000_020","莫古記得人王遺跡有3把人類製造的<Sheet(EventItem,2001636,0)/>庫啵。
-希望你能找來拿給莫古利之家的莫古咪爾庫啵。"
+希望你能找來拿給莫古力之家的莫古咪爾庫啵。"
 52,"TEXT_HEAVNZ415_01833_MOGMILL_000_030","人類製造的<Sheet(EventItem,2001636,0)/>好酷庫啵……
 莫古咪爾也想要庫啵……"
 53,"TEXT_HEAVNZ415_01833_MOGMILL_000_031","這、這美麗的形狀，刺骨的寒光！

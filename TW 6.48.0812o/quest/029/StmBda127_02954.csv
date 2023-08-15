@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_STMBDA127_02954_SEQ_21",""
 22,"TEXT_STMBDA127_02954_SEQ_22",""
 23,"TEXT_STMBDA127_02954_SEQ_23",""
-24,"TEXT_STMBDA127_02954_TODO_00","討伐<Sheet(BNpcName,5700,0)/> 獲得<Sheet(EventItem,2002391,0)/>"
-25,"TEXT_STMBDA127_02954_TODO_01","討伐<Sheet(BNpcName,5703,0)/> 獲得<Sheet(EventItem,2002392,0)/>"
+24,"TEXT_STMBDA127_02954_TODO_00","討伐<Sheet(BNpcName,5700,0)/> 獲取<Sheet(EventItem,2002391,0)/>"
+25,"TEXT_STMBDA127_02954_TODO_01","討伐<Sheet(BNpcName,5703,0)/> 獲取<Sheet(EventItem,2002392,0)/>"
 26,"TEXT_STMBDA127_02954_TODO_02","將<Sheet(EventItem,2002391,0)/>和<Sheet(EventItem,2002392,0)/>交給格里賽爾蒂絲"
 27,"TEXT_STMBDA127_02954_TODO_03",""
 28,"TEXT_STMBDA127_02954_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 那你可真是會找人。
 如你所見，我的腿腳不好，行動不便。"
 50,"TEXT_STMBDA127_02954_GRISELDIS_000_003","不知道是不是因為今早又受涼了，
-現在腿疼得不行，比往常還要嚴重，根本沒辦法動了。"
+現在腿疼得不行，比往常還要嚴重，根本沒法動了。"
 51,"TEXT_STMBDA127_02954_GRISELDIS_000_004","如果有<Sheet(EventItem,2002391,0)/>和<Sheet(EventItem,2002392,0)/>的話，
 我還可以製作藥茶來緩一緩……"
 52,"TEXT_STMBDA127_02954_GRISELDIS_000_005","什麼，你和我非親非故，
@@ -76,7 +76,7 @@ int32,str,str
 59,"TEXT_STMBDA127_02954_GRISELDIS_000_025","他們以我攜帶武器為由，
 懷疑我是解放軍成員，故意找碴兒。
 那不過是他們的消遣罷了……於是我的腿就……"
-60,"TEXT_STMBDA127_02954_GRISELDIS_000_026","我也因此沒辦法像正常人一樣走路了，
+60,"TEXT_STMBDA127_02954_GRISELDIS_000_026","我也因此沒法像正常人一樣走路了，
 也沒辦法好好照顧生病的父親……"
 61,"TEXT_STMBDA127_02954_GRISELDIS_000_027","你對萍水相逢的人也能夠出手相助，真是一個善良的鬥士。
 要是我能早點遇見你就好了，

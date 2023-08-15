@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ114_01763_SEQ_00","聖菲內雅連隊露營地的呂西艾正一邊確認物資一邊再次搖頭嘆息。"
-1,"TEXT_HEAVNZ114_01763_SEQ_01","呂西艾拜託冒險者去準備毛皮。前往庫爾札斯西部高地的雙子池，討伐<Sheet(BNpcName,3479,0)/>並獲得3張<Sheet(EventItem,2001602,0)/>。"
+1,"TEXT_HEAVNZ114_01763_SEQ_01","呂西艾拜託冒險者去準備毛皮。前往庫爾札斯西部高地的雙子池，討伐<Sheet(BNpcName,3479,0)/>並獲取3張<Sheet(EventItem,2001602,0)/>。"
 2,"TEXT_HEAVNZ114_01763_SEQ_02","獲得了<Sheet(EventItem,2001602,0)/>。將<Sheet(EventItem,2001602,0)/>交給聖菲內雅連隊露營地的呂西艾。"
 3,"TEXT_HEAVNZ114_01763_SEQ_03","將<Sheet(EventItem,2001602,0)/>交給了呂西艾。她打算將這些毛皮做成防寒用具。"
 4,"TEXT_HEAVNZ114_01763_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ114_01763_SEQ_21",""
 22,"TEXT_HEAVNZ114_01763_SEQ_22",""
 23,"TEXT_HEAVNZ114_01763_SEQ_23",""
-24,"TEXT_HEAVNZ114_01763_TODO_00","從<Sheet(BNpcName,3479,0)/>身上獲得<Sheet(EventItem,2001602,0)/>"
+24,"TEXT_HEAVNZ114_01763_TODO_00","從<Sheet(BNpcName,3479,0)/>身上獲取<Sheet(EventItem,2001602,0)/>"
 25,"TEXT_HEAVNZ114_01763_TODO_01","將<Sheet(EventItem,2001602,0)/>交給呂西艾"
 26,"TEXT_HEAVNZ114_01763_TODO_02",""
 27,"TEXT_HEAVNZ114_01763_TODO_03",""
@@ -54,13 +54,13 @@ int32,str,str
 ……難道說你願意再幫幫我嗎？"
 49,"TEXT_HEAVNZ114_01763_LUCIAE_000_001","是嗎……不好意思，那就拜託你好了。
 希望你剝下<Sheet(BNpcName,3479,0)/>的毛皮帶回來。
-我想想……大概3隻的分量就夠了。"
+我想想……大概3隻的份量就夠了。"
 50,"TEXT_HEAVNZ114_01763_LUCIAE_000_010","是嗎……不好意思，那就拜託你好了。
 希望你剝下<Sheet(BNpcName,3479,0)/>的毛皮帶回來。
-我想想……大概3隻的分量就夠了。"
+我想想……大概3隻的份量就夠了。"
 51,"TEXT_HEAVNZ114_01763_LUCIAE_100_030","是嗎……不好意思，那就拜託你好了。
 希望你剝下<Sheet(BNpcName,3479,0)/>的毛皮帶回來。
-我想想……大概3隻的分量就夠了。"
+我想想……大概3隻的份量就夠了。"
 52,"TEXT_HEAVNZ114_01763_LUCIAE_000_030","你竟然帶回來這麼大塊的毛皮？！
 嘿，你還真有兩下子！
 這可真是嚇了我一跳啊。"

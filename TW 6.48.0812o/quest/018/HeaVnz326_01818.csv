@@ -2,15 +2,15 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ326_01818_SEQ_00","不潔三塔的格林坎比希望冒險者幫忙治療龍族。"
-1,"TEXT_HEAVNZ326_01818_SEQ_01","和格林坎比進行了交談。和不潔三塔的卡爾．米克對話。"
-2,"TEXT_HEAVNZ326_01818_SEQ_02","和卡爾．米克進行了交談。在龍堡參天高地的悲嘆飛泉尋找<Sheet(EventItem,2001757,0)/>。"
-3,"TEXT_HEAVNZ326_01818_SEQ_03","獲得了<Sheet(EventItem,2001757,0)/>。向不潔三塔的卡爾．米克報告。"
-4,"TEXT_HEAVNZ326_01818_SEQ_04","向卡爾．米克報告完畢，獲得了另外一份<Sheet(EventItem,2001757,0)/>。在龍堡參天高地的陸行鳥之森尋找幫忙煮藥的人，將2份<Sheet(EventItem,2001757,0)/>交給他。"
-5,"TEXT_HEAVNZ326_01818_SEQ_05","將<Sheet(EventItem,2001757,0)/>交給了萊奧尼爾夫，成功製作了<Sheet(EventItem,2001758,0)/>。向不潔三塔的卡爾．米克報告。"
-6,"TEXT_HEAVNZ326_01818_SEQ_06","向卡爾．米克報告完畢。前往龍堡參天高地的徹悟岩窟，和卡爾．米克會合。"
-7,"TEXT_HEAVNZ326_01818_SEQ_07","和卡爾．米克進行了交談。對徹悟岩窟的奧爾．阿斯使用<Sheet(EventItem,2001758,0)/>。"
-8,"TEXT_HEAVNZ326_01818_SEQ_08","對奧爾．阿斯使用了<Sheet(EventItem,2001758,0)/>，治療了它的傷口。透過這件事，它取回了一點對人類的信任。回到不潔三塔，將<Sheet(EventItem,2001755,0)/>還給格林坎比。"
-9,"TEXT_HEAVNZ326_01818_SEQ_09","將<Sheet(EventItem,2001755,0)/>還給了格林坎比。格林坎比回憶起人類與龍族交好的時代，並預感該時代將再次到來。為了龍族和人類的未來，不要忘記與卡爾．米克間結下的友情。"
+1,"TEXT_HEAVNZ326_01818_SEQ_01","和格林坎比進行了交談。和不潔三塔的卡爾·米克對話。"
+2,"TEXT_HEAVNZ326_01818_SEQ_02","和卡爾·米克進行了交談。在龍堡參天高地的悲嘆飛泉尋找<Sheet(EventItem,2001757,0)/>。"
+3,"TEXT_HEAVNZ326_01818_SEQ_03","獲得了<Sheet(EventItem,2001757,0)/>。向不潔三塔的卡爾·米克報告。"
+4,"TEXT_HEAVNZ326_01818_SEQ_04","向卡爾·米克報告完畢，獲得了另外一份<Sheet(EventItem,2001757,0)/>。在龍堡參天高地的陸行鳥之森尋找幫忙煮藥的人，將2份<Sheet(EventItem,2001757,0)/>交給他。"
+5,"TEXT_HEAVNZ326_01818_SEQ_05","將<Sheet(EventItem,2001757,0)/>交給了萊奧尼爾夫，成功製作了<Sheet(EventItem,2001758,0)/>。向不潔三塔的卡爾·米克報告。"
+6,"TEXT_HEAVNZ326_01818_SEQ_06","向卡爾·米克報告完畢。前往龍堡參天高地的徹悟岩窟，和卡爾·米克匯合。"
+7,"TEXT_HEAVNZ326_01818_SEQ_07","和卡爾·米克進行了交談。對徹悟岩窟的奧爾·阿斯使用<Sheet(EventItem,2001758,0)/>。"
+8,"TEXT_HEAVNZ326_01818_SEQ_08","對奧爾·阿斯使用了<Sheet(EventItem,2001758,0)/>，治療了它的傷口。通過這件事，它取回了一點對人類的信任。回到不潔三塔，將<Sheet(EventItem,2001755,0)/>還給格林坎比。"
+9,"TEXT_HEAVNZ326_01818_SEQ_09","將<Sheet(EventItem,2001755,0)/>還給了格林坎比。格林坎比回憶起人類與龍族交好的時代，並預感該時代將再次到來。為了龍族和人類的未來，不要忘記與卡爾·米克間結下的友情。"
 10,"TEXT_HEAVNZ326_01818_SEQ_10",""
 11,"TEXT_HEAVNZ326_01818_SEQ_11",""
 12,"TEXT_HEAVNZ326_01818_SEQ_12",""
@@ -25,13 +25,13 @@ int32,str,str
 21,"TEXT_HEAVNZ326_01818_SEQ_21",""
 22,"TEXT_HEAVNZ326_01818_SEQ_22",""
 23,"TEXT_HEAVNZ326_01818_SEQ_23",""
-24,"TEXT_HEAVNZ326_01818_TODO_00","和卡爾．米克對話"
-25,"TEXT_HEAVNZ326_01818_TODO_01","在悲嘆飛泉獲得<Sheet(EventItem,2001757,0)/>"
-26,"TEXT_HEAVNZ326_01818_TODO_02","向卡爾．米克報告"
+24,"TEXT_HEAVNZ326_01818_TODO_00","和卡爾·米克對話"
+25,"TEXT_HEAVNZ326_01818_TODO_01","在悲嘆飛泉獲取<Sheet(EventItem,2001757,0)/>"
+26,"TEXT_HEAVNZ326_01818_TODO_02","向卡爾·米克報告"
 27,"TEXT_HEAVNZ326_01818_TODO_03","將<Sheet(EventItem,2001757,0)/>交給陸行鳥之森的人煮藥"
-28,"TEXT_HEAVNZ326_01818_TODO_04","向卡爾．米克報告"
-29,"TEXT_HEAVNZ326_01818_TODO_05","和卡爾．米克對話"
-30,"TEXT_HEAVNZ326_01818_TODO_06","對奧爾．阿斯使用<Sheet(EventItem,2001758,0)/>"
+28,"TEXT_HEAVNZ326_01818_TODO_04","向卡爾·米克報告"
+29,"TEXT_HEAVNZ326_01818_TODO_05","和卡爾·米克對話"
+30,"TEXT_HEAVNZ326_01818_TODO_06","對奧爾·阿斯使用<Sheet(EventItem,2001758,0)/>"
 31,"TEXT_HEAVNZ326_01818_TODO_07","將<Sheet(EventItem,2001755,0)/>交給格林坎比"
 32,"TEXT_HEAVNZ326_01818_TODO_08",""
 33,"TEXT_HEAVNZ326_01818_TODO_09",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_HEAVNZ326_01818_TODO_23",""
 48,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_000","感謝你把石板找來了。
 你就拿著它去和卡爾一起治療奧爾的傷吧。"
-49,"TEXT_HEAVNZ326_01818_KALMYHK_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，趕快去給大哥哥療傷吧！
+49,"TEXT_HEAVNZ326_01818_KALMYHK_000_001","<Highlight>ObjectParameter(1)</Highlight>，趕快去給大哥哥療傷吧！
 先從媽媽那裡把石板要回來！"
 50,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_013","你快去和卡爾一起治療奧爾的傷吧。"
 51,"TEXT_HEAVNZ326_01818_KALMYHK_000_010","好啦，那就準備開始吧！
@@ -64,7 +64,7 @@ int32,str,str
 悲嘆飛泉附近好像也有，那邊就拜託你去採啦！"
 54,"TEXT_HEAVNZ326_01818_KALMYHK_000_013","採好後就在這邊集合！
 那我就先去啦！"
-55,"TEXT_HEAVNZ326_01818_KALMYHK_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+55,"TEXT_HEAVNZ326_01818_KALMYHK_000_020","<Highlight>ObjectParameter(1)</Highlight>！
 怎麼樣！找到<Sheet(EventItem,2001757,0)/>了嗎？"
 56,"TEXT_HEAVNZ326_01818_KALMYHK_000_021","太好啦！我也找到了！
 接下來我們要怎麼做？
@@ -96,7 +96,7 @@ int32,str,str
 68,"TEXT_HEAVNZ326_01818_KALMYHK_000_050","噓！
 ……奧爾哥哥睡著了。"
 69,"TEXT_HEAVNZ326_01818_KALMYHK_000_051","我們趁現在使用「搖曳」，看看它的傷口吧！"
-70,"TEXT_HEAVNZ326_01818_OHLAHS_000_051","…………。"
+70,"TEXT_HEAVNZ326_01818_OHLAHS_000_051","……"
 71,"TEXT_HEAVNZ326_01818_KALMYHK_000_060","趁「搖曳」起作用，
 趕快看看它的傷口吧！"
 72,"TEXT_HEAVNZ326_01818_KALMYHK_000_061","咦！傷口裡面好像有什麼東西！
@@ -107,29 +107,29 @@ int32,str,str
 喂！卡爾！你怎麼還和臭人類混在一起！
 咦？怎麼覺得傷口不那麼疼了？"
 75,"TEXT_HEAVNZ326_01818_KALMYHK_000_064","奧爾哥哥！你聽我說！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫你把傷口裡的異物給取出來啦！"
+<Highlight>ObjectParameter(1)</Highlight>幫你把傷口裡的異物給取出來啦！"
 76,"TEXT_HEAVNZ326_01818_OHLAHS_000_065","嘖，多管閒事……
 這種傷睡兩天就能治好了。"
 77,"TEXT_HEAVNZ326_01818_KALMYHK_000_066","奧爾哥哥，你別走啊！
 你說的沒錯，有的傷的確睡睡覺養養就能好了，
 但是要花費很長很長的時間啊！"
 78,"TEXT_HEAVNZ326_01818_KALMYHK_000_067","而且還要一直忍著疼，好難受的！
-而 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫你製作了藥，還把你傷口裡的異物取出來了，
+而<Highlight>ObjectParameter(1)</Highlight>幫你製作了藥，還把你傷口裡的異物取出來了，
 現在你一點都不覺得疼了吧？"
 79,"TEXT_HEAVNZ326_01818_KALMYHK_000_068","我們與人類不同，
 有利爪，有獠牙，
 因此無法做藥、處理傷口。"
 80,"TEXT_HEAVNZ326_01818_KALMYHK_000_069","雖然人類裡也有傷害奧爾哥哥的壞蛋，
-但 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 絕不是那種人！
-所以……奧爾哥哥不要討厭 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 呀！"
+但<Highlight>ObjectParameter(1)</Highlight>絕不是那種人！
+所以……奧爾哥哥不要討厭<Highlight>ObjectParameter(1)</Highlight>呀！"
 81,"TEXT_HEAVNZ326_01818_OHLAHS_000_070","傷害我的是人類的騎兵。
 ……因此我無法相信人類。"
 82,"TEXT_HEAVNZ326_01818_OHLAHS_000_071","但就像你所說的，
 給我療傷的卻也正是人類……
 看來人類也不光都是壞蛋。"
-83,"TEXT_HEAVNZ326_01818_OHLAHS_000_072","你是叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 還是什麼來著……
+83,"TEXT_HEAVNZ326_01818_OHLAHS_000_072","你是叫<Highlight>ObjectParameter(1)</Highlight>還是什麼來著……
 總之感謝你為我療傷。"
-84,"TEXT_HEAVNZ326_01818_OHLAHS_000_073","……卡爾，我雖然沒辦法像你一樣輕易和人類交好，
+84,"TEXT_HEAVNZ326_01818_OHLAHS_000_073","……卡爾，我雖然沒法像你一樣輕易和人類交好，
 但因為你，我也會試著對人類改觀的。
 但首先我要再睡一覺……"
 85,"TEXT_HEAVNZ326_01818_KALMYHK_000_074","真的嗎？太好啦！
@@ -153,7 +153,7 @@ int32,str,str
 93,"TEXT_HEAVNZ326_01818_KALMYHK_000_086","今後我們也一直都是好朋友哦！
 我最喜歡你了！
 再見啦！"
-94,"TEXT_HEAVNZ326_01818_KALMYHK_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，太感謝你了！
+94,"TEXT_HEAVNZ326_01818_KALMYHK_000_085","<Highlight>ObjectParameter(1)</Highlight>，太感謝你了！
 今後我們也一直都是好朋友哦！
 我最喜歡你了！"
 95,"TEXT_HEAVNZ326_01818_OHLAHS_000_086","龍族和人類相親相愛，攜手共築明天……

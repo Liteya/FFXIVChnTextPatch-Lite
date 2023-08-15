@@ -7,7 +7,7 @@ int32,str,str
 3,"TEXT_LUCKLA203_03232_SEQ_03","將<Sheet(ItemHQ,27247,0)/>交給了圖楠。圖楠成功調整了魯特琴，還原了當時的音色，她想感謝冒險者。向奧威爾公開魯特琴的準備都已就緒。和彷徨階梯亭的圖楠談談。"
 4,"TEXT_LUCKLA203_03232_SEQ_04","和圖楠進行了交談。執著於製作實用品的奧威爾聽了圖楠演奏的魯特琴的音色後，內心也被打動了。時光工房的委託人們也紛紛循著聲音找了過來，大家認可了保存修復工作能為人們心中帶來希望，有著重要的作用。成功修復了滿載回憶的魯特琴，也修復了圖楠和奧威爾的羈絆。和彷徨階梯亭的圖楠談談。"
 5,"TEXT_LUCKLA203_03232_SEQ_05","和圖楠進行了交談。一直認為自己是孤兒的她，意識到奧威爾和自己已形同兄妹，感到十分開心。回到中庸工藝館和圖楠談談。"
-6,"TEXT_LUCKLA203_03232_SEQ_06","和圖楠進行了交談。光之氾濫讓諾弗蘭特的人們失去了許多重要的東西，而她會繼續進行修復工作，將事物與其中的回憶一併修復並守護下去。沒有冒險者的幫助，這種純粹的想法是無法成真的。圖楠表達了她由衷的謝意。想再次見到保存修復師圖楠和實錄系統這對奇怪組合時，就去拜訪中庸工藝館。"
+6,"TEXT_LUCKLA203_03232_SEQ_06","和圖楠進行了交談。光之泛濫讓諾弗蘭特的人們失去了許多重要的東西，而她會繼續進行修復工作，將事物與其中的回憶一併修復並守護下去。沒有冒險者的幫助，這種純粹的想法是無法成真的。圖楠表達了她由衷的謝意。想再次見到保存修復師圖楠和實錄系統這對奇怪組合時，就去拜訪中庸工藝館。"
 7,"TEXT_LUCKLA203_03232_SEQ_07",""
 8,"TEXT_LUCKLA203_03232_SEQ_08",""
 9,"TEXT_LUCKLA203_03232_SEQ_09",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_LUCKLA203_03232_TODO_23",""
 48,"TEXT_LUCKLA203_03232_RECORDSYSTEM_100_000","（★未使用／削除予定★）"
 49,"TEXT_LUCKLA203_03232_THIUNA_000_000","哎……
-啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+啊……<Highlight>ObjectParameter(1)</Highlight>……
 情況……怎麼樣啊？"
 50,"TEXT_LUCKLA203_03232_THIUNA_000_001","唔，其實啊……魯特琴本體應該已經是修好了的，
 但是不知道為什麼……音色完全不是當時的樣子。
@@ -62,10 +62,10 @@ int32,str,str
 52,"TEXT_LUCKLA203_03232_THIUNA_000_003","就算沒有我這維斯族靈敏的耳朵
 也能聽出來這根本不是當時的聲音吧……
 到底是哪裡不對呢……"
-53,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_004","咔……咔咔……"
+53,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_004","哢……哢哢……"
 54,"TEXT_LUCKLA203_03232_THIUNA_000_005","到底是哪裡不對呢……"
-55,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_010","咔……咔咔……敲……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……敲打！"
+55,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_010","哢……哢哢……敲……
+<Highlight>ObjectParameter(1)</Highlight>……敲打！"
 56,"TEXT_LUCKLA203_03232_SYSTEM_000_011","實錄系統狀態不太好。
 圖楠沉浸在思考中沒有注意到……"
 57,"TEXT_LUCKLA203_03232_Q1_000_000","要做什麼？"
@@ -73,11 +73,11 @@ int32,str,str
 59,"TEXT_LUCKLA203_03232_A1_000_002","撫摸"
 60,"TEXT_LUCKLA203_03232_A1_000_003","按下神秘按鈕"
 61,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_012","嗶嗶……實錄系統，正常啟動……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝！"
-62,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_013","咔咔……不對……
-高興……但是……咔咔……敲打……"
-63,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_014","咔咔……更新程式產生中。
-執行需要一段時間。
+<Highlight>ObjectParameter(1)</Highlight>，謝謝！"
+62,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_013","哢哢……不對……
+高興……但是……哢哢……敲打……"
+63,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_014","哢哢……更新程式生成中。
+運行需要一段時間。
 請不要關閉電源。"
 64,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_015","哈立格最後去的地方，找到了！
 他為了籌集用於共鳴板的素材
@@ -96,9 +96,9 @@ int32,str,str
 嗶嗶……沒有問題！
 素材完全可以使用！"
 70,"TEXT_LUCKLA203_03232_THIUNA_110_019","太、太好了！
-接下來只要把素材製作成調整用的元件，
+接下來只要把素材製作成調整用的部件，
 再完整地裝上去，應該就能完成師父的魯特琴了！"
-71,"TEXT_LUCKLA203_03232_THIUNA_000_019"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真不好意思。
+71,"TEXT_LUCKLA203_03232_THIUNA_000_019","<Highlight>ObjectParameter(1)</Highlight>，真不好意思。
 這次一定會成功……所以……
 請你幫幫忙，製作<Sheet(ItemHQ,27247,0)/>吧！"
 72,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_021","材料不足時，
@@ -107,16 +107,16 @@ int32,str,str
 強度、形狀全部完美！"
 74,"TEXT_LUCKLA203_03232_THIUNA_000_022","最後還是要依靠你真是不好意思……
 請你幫忙製作<Sheet(ItemHQ,27247,0)/>！"
-75,"TEXT_LUCKLA203_03232_THIUNA_000_030","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+75,"TEXT_LUCKLA203_03232_THIUNA_000_030","謝謝你，<Highlight>ObjectParameter(1)</Highlight>！
 絕對沒錯，用這個素材應該就能完成魯特琴的修復了。
 這次我一定會完美安裝好，請稍等一下吧！"
 76,"TEXT_LUCKLA203_03232_THIUNA_000_031","終於……終於完成了！
-這就是師父當年使用過的魯特琴。"
+這就是師父使當年用過的魯特琴。"
 77,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_032","嗶嗶……音色和外觀都和當年相同！
 恭喜二位，做得好！"
 78,"TEXT_LUCKLA203_03232_THIUNA_000_033","……真是對你感激不盡，
 要不是有你的幫助，修復工作肯定難以完成，
-你一定是手工工藝部最優秀的工匠。"
+你肯定是手工工藝部最優秀的工匠。"
 79,"TEXT_LUCKLA203_03232_THIUNA_000_034","我也想快點追趕上你……對了！
 你認為工匠最重要的是什麼？能不能告訴我？
 從師父那裡學來的，或是自己領悟到的都行！"
@@ -134,17 +134,17 @@ int32,str,str
 86,"TEXT_LUCKLA203_03232_THIUNA_000_037","原來如此……
 要成為一流的工匠，就需要熟知素材的性質，
 對於素材持有愛意就是要點吧。"
-87,"TEXT_LUCKLA203_03232_THIUNA_000_038","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+87,"TEXT_LUCKLA203_03232_THIUNA_000_038","謝謝你，<Highlight>ObjectParameter(1)</Highlight>。
 我會牢記你的話，繼續努力的。"
 88,"TEXT_LUCKLA203_03232_THIUNA_000_039","好了，現在我們終於能展示這個魯特琴了，
 問題是怎麼才能把奧威爾叫出來……
 要是能去師父經常演奏魯特琴的酒館談就好了。"
-89,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_040","瞭解！在酒館等著！
+89,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_040","了解！在酒館等著！
 嗶嗶……根據過去的情況，推測奧威爾的活動場所……
 嗶嗶嗶……在這邊！"
 90,"TEXT_LUCKLA203_03232_THIUNA_000_041","啊，等等？！"
 91,"TEXT_LUCKLA203_03232_THIUNA_000_042","唉，這次就順著實錄系統來吧……"
-92,"TEXT_LUCKLA203_03232_THIUNA_000_043"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+92,"TEXT_LUCKLA203_03232_THIUNA_000_043","<Highlight>ObjectParameter(1)</Highlight>，
 我希望你能來彷徨階梯亭見證一下……
 我也會帶著魯特琴過去的！"
 93,"TEXT_LUCKLA203_03232_THIUNA_100_050","奧威爾他們好像還沒來。
@@ -159,10 +159,10 @@ int32,str,str
 97,"TEXT_LUCKLA203_03232_OWELL_000_053","那是……哈立格師父的……
 你把它修好了嗎？"
 98,"TEXT_LUCKLA203_03232_THIUNA_000_054","我一個人是做不到的……
-是多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和實錄系統，
+是多虧了<Highlight>ObjectParameter(1)</Highlight>和實錄系統，
 是時光工房的大家共同修好的！"
 99,"TEXT_LUCKLA203_03232_OWELL_000_055","這細緻入微的組裝……
-沒有歪曲的零件，裝飾的美感也展現得很好……
+沒有歪曲的零件，裝飾的美感也體現得很好……
 原來如此……你找到了好同事啊。"
 100,"TEXT_LUCKLA203_03232_OWELL_000_056","但是你修好了它又能怎樣呢？
 如今水晶都需要的是實用的物資！
@@ -189,7 +189,7 @@ int32,str,str
 108,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_064","我曾經的主人，大魔法師諾亞大人
 製作這個魯特琴的時候，在其中灌注了名為希望的祈願！
 亞拉戈帝國萬歲！亞拉戈帝國萬歲！"
-109,"TEXT_LUCKLA203_03232_THIUNA_000_065","欸？！
+109,"TEXT_LUCKLA203_03232_THIUNA_000_065","誒？！
 你認識製作這個魯特琴的人？
 這真是驚人……居然有如此的緣分。"
 110,"TEXT_LUCKLA203_03232_OWELL_000_066","唉……你們想做的事情我清楚了，
@@ -210,7 +210,7 @@ int32,str,str
 116,"TEXT_LUCKLA203_03232_OWELL_000_072","啊……但是多虧了你們我明白了。
 師父所做的事並不是毫無意義的……
 這是為了讓大家迎接更好的明天而不可或缺的。"
-117,"TEXT_LUCKLA203_03232_OWELL_000_073","謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+117,"TEXT_LUCKLA203_03232_OWELL_000_073","謝謝你，<Highlight>ObjectParameter(1)</Highlight>。
 多虧了你我才能發覺如此重要的事，
 一同生活的夥伴以及家人的羈絆，竟是如此的重要……"
 118,"TEXT_LUCKLA203_03232_THIUNA_000_074","……就算是沒有家人的我們，
@@ -220,25 +220,25 @@ int32,str,str
 120,"TEXT_LUCKLA203_03232_ROSINE_000_076","奧威爾反對圖楠進行修復工作，
 也是擔心會遭到和師父一樣的境遇吧？
 這不就是哥哥擔心妹妹嘛！"
-121,"TEXT_LUCKLA203_03232_OWELL_000_077","嘖……你一個人有做不成的元件或者其他的東西記得告訴我，
+121,"TEXT_LUCKLA203_03232_OWELL_000_077","嘖……你一個人有做不成的部件或者其他的東西記得告訴我，
 要是跟師父似的什麼都一個人做然後因此死掉的話，
 我會寢食難安的！"
 122,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_078","嗶嗶……奧威爾的個人情報更新。
-家人項目中新增圖楠。
+家人項目中添加圖楠。
 對嗎？"
 123,"TEXT_LUCKLA203_03232_THIUNA_000_080","家人……家人……
 啊哈哈，雖然有點害羞，但是感覺好溫暖啊……"
-124,"TEXT_LUCKLA203_03232_THIUNA_000_081"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我要再次感謝你。
+124,"TEXT_LUCKLA203_03232_THIUNA_000_081","<Highlight>ObjectParameter(1)</Highlight>，我要再次感謝你。
 先回到中庸工藝館吧！"
-125,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_082"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你的幫助！
+125,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_082","<Highlight>ObjectParameter(1)</Highlight>，感謝你的幫助！
 記得再來敲我！"
-126,"TEXT_LUCKLA203_03232_THIUNA_000_090","託你的福，時光工房可以繼續營運下去了！
+126,"TEXT_LUCKLA203_03232_THIUNA_000_090","托你的福，時光工房可以繼續運營下去了！
 跟你合作的時間不長也不短，
 但是我真的很感謝你……"
-127,"TEXT_LUCKLA203_03232_THIUNA_000_091"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+127,"TEXT_LUCKLA203_03232_THIUNA_000_091","<Highlight>ObjectParameter(1)</Highlight>，
 你說剛才的演奏……有沒有傳達給哈立格師父呢？"
 128,"TEXT_LUCKLA203_03232_THIUNA_000_092","呵呵，從今往後我會好好珍惜
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 修復的家人的羈絆……
+<Highlight>ObjectParameter(1)</Highlight>修復的家人的羈絆……
 當然，如果有損壞的時候……"
 129,"TEXT_LUCKLA203_03232_RECORDSYSTEM_000_093","就將它敲好！"
 130,"TEXT_LUCKLA203_03232_THIUNA_000_094","哎呀，能敲好的只有實錄系統啦！"
@@ -247,7 +247,7 @@ int32,str,str
 我會不斷修復物品中的重要思念與羈絆……"
 132,"TEXT_LUCKLA203_03232_THIUNA_000_096","以後我也會像師父那樣，
 在酒館彈奏魯特琴！"
-133,"TEXT_LUCKLA203_03232_THIUNA_000_097"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+133,"TEXT_LUCKLA203_03232_THIUNA_000_097","<Highlight>ObjectParameter(1)</Highlight>，
 有空的話要再來哦！
 感謝你能來到水晶都，來到這個工藝館！"
 134,"TEXT_LUCKLA203_03232_SYSTEM_000_100","手工工藝部的貢獻等級提高了！
@@ -257,7 +257,7 @@ int32,str,str
 請去找他們談談吧。"
 136,"TEXT_LUCKLA203_03232_SYSTEM_000_120","此外，現在所有部門的交易均已完成！
 中庸工藝館的館長卡特莉絲好像有事情想要拜託你。"
-137,"TEXT_LUCKLA203_03232_SYSTEM_000_121","當完成主線任務「漆黑的反叛者」後，
+137,"TEXT_LUCKLA203_03232_SYSTEM_000_121","當完成主線任務「暗影之逆焰」後，
 再來中庸工藝館吧。"
 138,"TEXT_LUCKLA203_03232_SYSTEM_000_130","此外，現在所有部門的交易均已完成！
 中庸工藝館的館長卡特莉絲好像有事情想要拜託你。"

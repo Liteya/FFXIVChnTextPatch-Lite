@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_HEAVNZ914_01979_SEQ_00","螺旋港的訓練系統安靜地佇立著。"
 1,"TEXT_HEAVNZ914_01979_SEQ_01","訓練系統展開了亞拉戈帝國軍兵將訓練計劃。在阿濟茲拉的阿爾法管區討伐5個<Sheet(BNpcName,3532,0)/>。"
 2,"TEXT_HEAVNZ914_01979_SEQ_02","成功討伐了5個<Sheet(BNpcName,3532,0)/>。向螺旋港的訓練系統報告。"
-3,"TEXT_HEAVNZ914_01979_SEQ_03","向訓練系統報告完畢。這種訓練是為了讓士兵瞭解一些重要的事情，但重點部分由於雜音干擾，聽不清楚。"
+3,"TEXT_HEAVNZ914_01979_SEQ_03","向訓練系統報告完畢。這種訓練是為了讓士兵了解一些重要的事情，但重點部分由於雜音干擾，聽不清楚。"
 4,"TEXT_HEAVNZ914_01979_SEQ_04",""
 5,"TEXT_HEAVNZ914_01979_SEQ_05",""
 6,"TEXT_HEAVNZ914_01979_SEQ_06",""
@@ -49,14 +49,14 @@ int32,str,str
 45,"TEXT_HEAVNZ914_01979_TODO_21",""
 46,"TEXT_HEAVNZ914_01979_TODO_22",""
 47,"TEXT_HEAVNZ914_01979_TODO_23",""
-48,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_000","咔……咔咔……
+48,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_000","哢……哢哢……
 忠誠的亞拉戈帝國軍兵將，你們好。
 今天的訓練計劃是這樣的。"
 49,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_001","請摧毀5個為訓練設定的<Sheet(BNpcName,3532,0)/>。
 那麼，祝你們旗開得勝。"
 50,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_010","請摧毀5個為訓練設定的<Sheet(BNpcName,3532,0)/>。
 那麼，祝你們旗開得勝。"
-51,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_020","咔……咔咔……恭喜。
+51,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_020","哢……哢哢……恭喜。
 你完成了今天的訓練計劃。"
-52,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_021","透過今天的咔咔……懂、咔……咔……的重要性吧。
+52,"TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_021","通過今天的哢哢……懂、哢……哢……的重要性吧。
 亞拉戈帝國萬歲！誓死效忠贊德陛下！"

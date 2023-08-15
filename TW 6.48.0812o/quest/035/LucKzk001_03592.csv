@@ -10,7 +10,7 @@ int32,str,str
 3,"TEXT_LUCKZK001_03592_SEQ_03","和熱心的亞馬烏羅提市民進行了交談。聽說包含會動的人偶在內，有很多創造物都可以登入。繼續和創造管理局內神色不安的亞馬烏羅提市民談談。"
 4,"TEXT_LUCKZK001_03592_SEQ_04","和神色不安的亞馬烏羅提市民進行了交談。看起來他在擔心自己的新創造物能否登入成功。為了傳達創造物的感想，在<Sheet(EObj,2010125,0)/>使用<Sheet(EventItem,2002612,0)/>，討伐出現的<Sheet(BNpcName,8414,0)/>。"
 5,"TEXT_LUCKZK001_03592_SEQ_05","討伐了<Sheet(BNpcName,8414,0)/>。向創造管理局的神色不安的亞馬烏羅提市民報告。"
-6,"TEXT_LUCKZK001_03592_SEQ_06","神色不安的亞馬烏羅提市民認為<Sheet(BNpcName,8414,0)/>沒有登入的價值。他打算回去再次嘗試用創造魔法製造新的生物。"
+6,"TEXT_LUCKZK001_03592_SEQ_06","神色不安的亞馬烏羅提市民認為<Sheet(BNpcName,8414,0)/>沒有登入的價值。他打算回去再次嘗試用創造魔法制造新的生物。"
 7,"TEXT_LUCKZK001_03592_SEQ_07",""
 8,"TEXT_LUCKZK001_03592_SEQ_08",""
 9,"TEXT_LUCKZK001_03592_SEQ_09",""
@@ -62,9 +62,9 @@ int32,str,str
 52,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_006","<UIForeground>F20223</UIForeground>左手邊可以進行創造物登入。
 右手邊可以申請理念出租。
 請前往你想去的櫃檯。<UIForeground>01</UIForeground>"
-53,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_007","<UIForeground>F20223</UIForeground>哎呀，看來你對兩邊都不是很瞭解。
+53,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_007","<UIForeground>F20223</UIForeground>哎呀，看來你對兩邊都不是很了解。
 那麼我來為你說明一下關於這個設施的情況吧。<UIForeground>01</UIForeground>"
-54,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_008","<UIForeground>F20223</UIForeground>我們透過操作創造魔法，
+54,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_008","<UIForeground>F20223</UIForeground>我們通過操作創造魔法，
 可以創造出多種多樣的東西，這你是知道的吧？<UIForeground>01</UIForeground>"
 55,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_009","<UIForeground>F20223</UIForeground>小到散發令人安心的清香的花朵，
 大到綻放各種光芒的寶石……
@@ -75,7 +75,7 @@ int32,str,str
 57,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_011","<UIForeground>F20223</UIForeground>但是，我們不能讓危險的概念傳播開來，
 所以我們會進行審查，判斷某個概念對世界是否有用。
 這也是我們的職責之一。<UIForeground>01</UIForeground>"
-58,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_012","<UIForeground>F20223</UIForeground>目前為止，能聽懂嗎？<UIForeground>01</UIForeground>"
+58,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_012","<UIForeground>F20223</UIForeground>目前為止，能聽明白嗎？<UIForeground>01</UIForeground>"
 59,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_013","<UIForeground>F20223</UIForeground>嗯，那麼你既然來了，
 就去跟等待登入的人們
 談一談吧。<UIForeground>01</UIForeground>"
@@ -142,4 +142,4 @@ int32,str,str
 這可是我沒想到的行動……<UIForeground>01</UIForeground>"
 86,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_052","<UIForeground>F20223</UIForeground>真是很抱歉，嚇到你了……
 我會回去創造新的生物替代它的。
-謝謝你幫我進行回饋。<UIForeground>01</UIForeground>"
+謝謝你幫我進行反饋。<UIForeground>01</UIForeground>"

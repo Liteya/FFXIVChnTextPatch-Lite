@@ -3,8 +3,8 @@
 int32,str,str
 0,"TEXT_CHRHDB732_03095_SEQ_00","三條花街的時雨對小賊一匹狼的去向有些眉目。"
 1,"TEXT_CHRHDB732_03095_SEQ_01","和時雨進行了交談。時雨從小賊一匹狼的武器推測出他逃往了延夏。前往延夏的七彩溝，和希爾迪布蘭德談談。"
-2,"TEXT_CHRHDB732_03095_SEQ_02","和希爾迪布蘭德進行了交談。眾人思考要怎麼找到小賊一匹狼的時候，保鏢提出可以讓他的愛犬大五郎根據短刀上的氣味來尋找。時雨讓大五郎聞了聞短刀，大五郎就立刻追了出去。再次和門前衛街的希爾迪布蘭德談談。"
-3,"TEXT_CHRHDB732_03095_SEQ_03","和希爾迪布蘭德進行了交談。大五郎的鼻子被鯰魚精的氣味給燻到了，接下來需要靠自己來尋找線索。在門前衛街尋找小賊一匹狼的蹤跡。"
+2,"TEXT_CHRHDB732_03095_SEQ_02","和希爾迪布蘭德進行了交談。眾人思考要怎麼找到小賊一匹狼的時候，保鏢提出可以讓他的愛犬大五郎根據短刀上的氣味來尋找。時雨讓大五郎聞了聞短刀，大五郎就立馬追了出去。再次和門前衛街的希爾迪布蘭德談談。"
+3,"TEXT_CHRHDB732_03095_SEQ_03","和希爾迪布蘭德進行了交談。大五郎的鼻子被鯰魚精的氣味給熏到了，接下來需要靠自己來尋找線索。在門前衛街尋找小賊一匹狼的蹤跡。"
 4,"TEXT_CHRHDB732_03095_SEQ_04","發現了宿醉的鯰魚精。叫醒了鯰魚精後，鯰魚精表示自己知道小賊一匹狼的去向。與此同時，希爾迪布蘭德也稱自己知道了小賊一匹狼的位置，二者指出的方向完全相反。重新在門前衛街尋找小賊一匹狼的蹤跡。"
 5,"TEXT_CHRHDB732_03095_SEQ_05","找到了<Sheet(EventItem,2002169,0)/>。這可能是小賊一匹狼留下的線索。向門前衛街的保鏢報告。"
 6,"TEXT_CHRHDB732_03095_SEQ_06","向保鏢報告完畢。決定將<Sheet(EventItem,2002169,0)/>拿給大五郎聞，希望它能再次循著氣味找到小賊一匹狼。讓門前衛街的大五郎聞聞<Sheet(EventItem,2002169,0)/>的味道。"
@@ -102,7 +102,7 @@ int32,str,str
 80,"TEXT_CHRHDB732_03095_SHIGURE_000_035","等、等一下！
 調查員閣下真是動如脫兔啊……"
 81,"TEXT_CHRHDB732_03095_SHIGURE_000_036","這裡地方太大了，我們分頭調查線索吧。 
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，西北邊就拜託你了。"
+<Highlight>ObjectParameter(1)</Highlight>閣下，西北邊就拜託你了。"
 82,"TEXT_CHRHDB732_03095_YOJIMBO_000_040","……怎麼了？
 快點去找線索吧。"
 83,"TEXT_CHRHDB732_03095_DAIGORO_000_041","咕嗚……"
@@ -120,7 +120,7 @@ int32,str,str
 91,"TEXT_CHRHDB732_03095_HILDINAMAZUO03095_000_054","狼人族……啊，我好像有看到噗！
 雖然我是在醉醺醺的時候看到的，
 不過狼人族那麼有特點所以我有點印象噗。"
-92,"TEXT_CHRHDB732_03095_SHIGURE_000_055"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+92,"TEXT_CHRHDB732_03095_SHIGURE_000_055","<Highlight>ObjectParameter(1)</Highlight>閣下，
 這個醉鬼鯰魚精是？"
 93,"TEXT_CHRHDB732_03095_SHIGURE_000_056","什麼？看到了一匹狼的身影？！
 那麼那傢伙去哪了？"
@@ -189,7 +189,7 @@ int32,str,str
 138,"TEXT_CHRHDB732_03095_YOJIMBO_000_109","……在下有點急事。
 這個就由在下先帶回黃金港了！"
 139,"TEXT_CHRHDB732_03095_YOJIMBO_000_110","……在下肯定會把刀還回去的，放心吧！"
-140,"TEXT_CHRHDB732_03095_HILDIBRAND_000_111","立刻就去還刀了，
+140,"TEXT_CHRHDB732_03095_HILDIBRAND_000_111","立馬就去還刀了，
 保鏢閣下可真是紳士啊。"
 141,"TEXT_CHRHDB732_03095_SHIGURE_000_112","好了，這樣一來事情就解決了。
 我們也回黃金港，把這傢伙交給赤誠組吧。"
@@ -219,7 +219,7 @@ int32,str,str
 154,"TEXT_CHRHDB732_03095_SHIGURE_000_131","不、等一下……難道……
 保鏢帶著破衣助廣跑了？"
 155,"TEXT_CHRHDB732_03095_AKEBONO_000_132","你、你說……跑了——？！"
-156,"TEXT_CHRHDB732_03095_AKEBONO_000_133","……你們這些白痴都在幹！什！麼！
+156,"TEXT_CHRHDB732_03095_AKEBONO_000_133","……你們這些白癡都在幹！什！麼！
 居然讓那傢伙拿著貴重的名刀一個人回來，
 你們是不是傻！！"
 157,"TEXT_CHRHDB732_03095_AKEBONO_000_134","快去給我找回來！
@@ -242,7 +242,7 @@ int32,str,str
 165,"TEXT_CHRHDB732_03095_NASHUMHAKARACCA_000_141","時雨，很合身哦！"
 166,"TEXT_CHRHDB732_03095_SHIGURE_000_142","是、是嗎？
 被你這麼說搞得在下心裡癢癢的。"
-167,"TEXT_CHRHDB732_03095_SHIGURE_000_143","這也是託 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下和二位調查員的福。
+167,"TEXT_CHRHDB732_03095_SHIGURE_000_143","這也是托<Highlight>ObjectParameter(1)</Highlight>閣下和二位調查員的福。
 請容許在下表示感謝。"
 168,"TEXT_CHRHDB732_03095_SHIGURE_000_144","對了……入隊的同時，
 我也接到了我的第一個任務。"
@@ -251,7 +251,7 @@ int32,str,str
 170,"TEXT_CHRHDB732_03095_SHIGURE_000_146","……只不過在下一介新人。
 是還沒有手下的最底端，
 還望各位能夠繼續協助在下，不知各位意下如何？"
-171,"TEXT_CHRHDB732_03095_HILDIBRAND_000_147","那必要的！"
+171,"TEXT_CHRHDB732_03095_HILDIBRAND_000_147","那必須的！"
 172,"TEXT_CHRHDB732_03095_HILDIBRAND_000_148","就交給我希爾迪布蘭德吧！
 由我來護送你到保鏢閣下身邊！"
 173,"TEXT_CHRHDB732_03095_HILDIBRAND_000_149","調查的基礎就是打聽！
@@ -260,12 +260,12 @@ int32,str,str
 娜修也要去！"
 175,"TEXT_CHRHDB732_03095_SHIGURE_000_160","在下抓住了宿敵——偷走破衣助廣的小賊一匹狼。"
 176,"TEXT_CHRHDB732_03095_SHIGURE_000_161","不僅如此，在下長久以來想要加入赤誠組的夙願也實現了！
-請容在下再次向 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下表示感謝。"
+請容在下再次向<Highlight>ObjectParameter(1)</Highlight>閣下表示感謝。"
 177,"TEXT_CHRHDB732_03095_SHIGURE_000_162","說起來，娜修閣下去取生髮劑了，
 說是要讓在下的髮髻重生……"
 178,"TEXT_CHRHDB732_03095_SHIGURE_000_163","在下也會一邊等著娜修閣下，
 一邊收集保鏢的目擊情報。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，之後還請多多幫忙。"
+<Highlight>ObjectParameter(1)</Highlight>閣下，之後還請多多幫忙。"
 179,"TEXT_CHRHDB732_03095_HILDIBRAND_000_037","（★未使用／削除予定★）"
 180,"TEXT_CHRHDB732_03095_SHIGURE_000_038","（★未使用／削除予定★）"
 181,"TEXT_CHRHDB732_03095_NASHUMHAKARACCA_000_039","（★未使用／削除予定★）"

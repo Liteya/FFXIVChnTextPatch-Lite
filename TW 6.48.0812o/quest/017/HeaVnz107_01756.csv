@@ -61,7 +61,7 @@ int32,str,str
 51,"TEXT_HEAVNZ107_01756_GILDON_000_033","我是真的想不出來了。
 不好意思啊，你能幫我把這個<Sheet(EventItem,2001745,0)/>拿給其他的騎兵看看，
 聽聽他們的意見嗎？"
-52,"TEXT_HEAVNZ107_01756_MARIELLE_000_010","哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+52,"TEXT_HEAVNZ107_01756_MARIELLE_000_010","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 你有什麼事？"
 53,"TEXT_HEAVNZ107_01756_MARIELLE_000_011","這是瓦努族掉落的骨頭？
 唔，這標記刻得非常有規律呢……"
@@ -69,7 +69,7 @@ int32,str,str
 幫不上你的忙，真是抱歉。"
 55,"TEXT_HEAVNZ107_01756_MARIELLE_000_043","嗯……我也弄不清楚其中的奧秘。
 幫不上你的忙，真是抱歉。"
-56,"TEXT_HEAVNZ107_01756_LANIAITTE_000_020"," <Highlight>ObjectParameter(1)</Highlight> 閣下，你身體安好真是令人欣慰。
+56,"TEXT_HEAVNZ107_01756_LANIAITTE_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下，你身體安好真是令人欣慰。
 這次是有何事？"
 57,"TEXT_HEAVNZ107_01756_LANIAITTE_000_021","嗯……這骨頭上的刻痕……
 看起來像是記數的標記……但還是解釋不清。
@@ -128,14 +128,14 @@ int32,str,str
 79,"TEXT_HEAVNZ107_01756_FABRELLET_000_080","事情我都聽撤回來的騎兵說了。
 是你把那些想搶奪物資的瓦努族擊退的吧。
 你等會，拉妮艾特大人這就來了。"
-80,"TEXT_HEAVNZ107_01756_LANIAITTE_000_081"," <Highlight>ObjectParameter(1)</Highlight> 閣下，援軍來遲了非常抱歉。
+80,"TEXT_HEAVNZ107_01756_LANIAITTE_000_081","<Highlight>ObjectParameter(1)</Highlight>閣下，援軍來遲了非常抱歉。
 另外我要向守住了補給物資的你表示謝意。
 無論是之前還是這一次的表現，你都讓我由衷地敬佩不已。"
-81,"TEXT_HEAVNZ107_01756_LANIAITTE_000_082","正如 <Highlight>ObjectParameter(1)</Highlight> 閣下所說的，
-在這回事件中吉爾登發揮了很大的作用。
+81,"TEXT_HEAVNZ107_01756_LANIAITTE_000_082","正如<Highlight>ObjectParameter(1)</Highlight>閣下所說的，
+在這次事件中吉爾登發揮了很大的作用。
 你這份行動的熱情，是我們得以保住物資的重要因素之一。"
 82,"TEXT_HEAVNZ107_01756_LANIAITTE_000_083","就算艾因哈特家已經榮耀不復當年，
-但要調動你前往一個更能發揮你實力的舞臺還是輕而易舉的。
+但要調動你前往一個更能發揮你實力的舞台還是輕而易舉的。
 你就安心地等待好消息吧。"
 83,"TEXT_HEAVNZ107_01756_FABRELLET_000_084","這不是升遷了嘛！
 祝賀你啊，吉爾登！"

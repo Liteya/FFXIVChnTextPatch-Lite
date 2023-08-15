@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMC102_03323_SEQ_00","喬布要塞的于里昂熱正在思考關於這個地方的事情。"
+0,"TEXT_LUCKMC102_03323_SEQ_00","喬布要塞的於里昂熱正在思考關於這個地方的事情。"
 1,"TEXT_LUCKMC102_03323_SEQ_01",""
 2,"TEXT_LUCKMC102_03323_SEQ_02",""
 3,"TEXT_LUCKMC102_03323_SEQ_03",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_LUCKMC102_03323_SEQ_23",""
 24,"TEXT_LUCKMC102_03323_TODO_00","在<Sheet(EObj,2009861,0)/>張望"
 25,"TEXT_LUCKMC102_03323_TODO_01","從<Sheet(EObj,2009861,0)/>尋找石板"
-26,"TEXT_LUCKMC102_03323_TODO_02","和于里昂熱對話"
+26,"TEXT_LUCKMC102_03323_TODO_02","和於里昂熱對話"
 27,"TEXT_LUCKMC102_03323_TODO_03",""
 28,"TEXT_LUCKMC102_03323_TODO_04",""
 29,"TEXT_LUCKMC102_03323_TODO_05",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_LUCKMC102_03323_TODO_23",""
 48,"TEXT_LUCKMC102_03323_THANCRED_000_000","這個要塞稍微加強一下警備比較好。
 雖說足以討伐獨行食罪靈了，
-但不能排除遊末邦軍再次進攻的可能性。"
+但不能排除游末邦軍再次進攻的可能性。"
 49,"TEXT_LUCKMC102_03323_THANCRED_000_001","人手不足的話也可以布置一些陷阱。
 之後跟萊楠提個建議吧……"
 50,"TEXT_LUCKMC102_03323_RYNE_000_005","光耀教會的廢墟我在旅行期間見過不少，
@@ -61,7 +61,7 @@ int32,str,str
 大多都是使用了曾經的雷克蘭德聯邦的建築。"
 52,"TEXT_LUCKMC102_03323_URIANGER_000_011","所謂的光耀教會也是從雷克蘭德聯邦開始，
 逐漸被各地所信仰並祭祀的光之神的教會。"
-53,"TEXT_LUCKMC102_03323_URIANGER_100_011","光之氾濫之後，對於光之神的信仰迅速遭到廢止，
+53,"TEXT_LUCKMC102_03323_URIANGER_100_011","光之泛濫之後，對於光之神的信仰迅速遭到廢止，
 這也是「食罪靈」這個名字的由來。"
 54,"TEXT_LUCKMC102_03323_URIANGER_110_011","那種怪物究竟是什麼、為什麼人類會遭到如此苦難……
 人們在眾多信仰中都沒能找出答案，
@@ -73,7 +73,7 @@ int32,str,str
 57,"TEXT_LUCKMC102_03323_URIANGER_000_014","總之先去水晶公說的光耀教會的禮拜堂……"
 58,"TEXT_LUCKMC102_03323_THANCRED_000_020","又不是什麼很大的據點，應該不會看漏教會吧……"
 59,"TEXT_LUCKMC102_03323_RYNE_000_025","教會在哪啊……
-也想讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 看看那種可愛的窗戶呢……"
+也想讓<Highlight>ObjectParameter(1)</Highlight>看看那種可愛的窗戶呢……"
 60,"TEXT_LUCKMC102_03323_URIANGER_000_030","嗯，那個教會看上去很罕見，難不成就是這個樓梯下面的……"
 61,"TEXT_LUCKMC102_03323_URIANGER_000_040","……看來就是這了。"
 62,"TEXT_LUCKMC102_03323_RYNE_000_041","這裡的內部裝修還基本完好無損呢。"
@@ -82,7 +82,7 @@ int32,str,str
 至於內部裝修，這並不是光耀教會的樣式。"
 65,"TEXT_LUCKMC102_03323_URIANGER_000_044","剛才我說了人們對光之神的信仰
 轉變成了對黑暗的崇敬。"
-66,"TEXT_LUCKMC102_03323_URIANGER_000_045","我想這裡應該是光之氾濫之後，
+66,"TEXT_LUCKMC102_03323_URIANGER_000_045","我想這裡應該是光之泛濫之後，
 崇敬黑暗的人們……
 也就是夜之民所聚集的地方。"
 67,"TEXT_LUCKMC102_03323_THANCRED_000_046","夜之民就是拉凱提卡大森林裡勢力最大的那一派吧。"
@@ -90,12 +90,12 @@ int32,str,str
 這樣的人們還散落在世界各地，
 而現在，他們全部都集中到那片森林中生活去了。"
 69,"TEXT_LUCKMC102_03323_URIANGER_000_048","他們的生活有著獨特的規範……
-因此雖然多次受到遊末邦的遊說，
+因此雖然多次受到游末邦的遊說，
 他們也拒絕屈從，一直保持著獨立。"
-70,"TEXT_LUCKMC102_03323_URIANGER_000_049","然後雅．修特拉……
+70,"TEXT_LUCKMC102_03323_URIANGER_000_049","然後雅·修特拉……
 就在那片森林裡，為夜之民提供幫助。"
 71,"TEXT_LUCKMC102_03323_URIANGER_000_050","這些事水晶公都知道。
-他應該讓我們把藏在這裡的石板帶給她，
+我估計他讓我們把藏在這裡的石板帶給她，
 可不僅僅是一份小禮物那麼簡單。"
 72,"TEXT_LUCKMC102_03323_THANCRED_000_051","那就必須得找到才行嘍，
 總之先動起來了。"
@@ -107,17 +107,17 @@ int32,str,str
 是他們離開的時候只把那個帶走了吧……"
 76,"TEXT_LUCKMC102_03323_SYSTEM_000_080","開始尋找石板。
 如果發現了目標，在瞄準後
-點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 77,"TEXT_LUCKMC102_03323_URIANGER_000_082","石板在這裡面？
 我來看看。"
 78,"TEXT_LUCKMC102_03323_THANCRED_000_090","希望這就是我們要找的石板……"
 79,"TEXT_LUCKMC102_03323_RYNE_000_095","這麼暗你也能找到，好厲害！"
-80,"TEXT_LUCKMC102_03323_URIANGER_000_100"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
-祭壇裡面確實有一塊老舊的石板。"
+80,"TEXT_LUCKMC102_03323_URIANGER_000_100","<Highlight>ObjectParameter(1)</Highlight>……
+祭壇裡面確實有一塊古舊的石板。"
 81,"TEXT_LUCKMC102_03323_URIANGER_000_101","表面刻著的應該是古隆卡文。
 隆卡正是曾經在拉凱提卡大森林生根發芽的文明……"
 82,"TEXT_LUCKMC102_03323_URIANGER_000_102","肯定就是這個了……就將這塊充滿智慧與謎團的石板
-作為禮物帶給真相探求者雅．修特拉吧。"
+作為禮物帶給真相探求者雅·修特拉吧。"
 83,"TEXT_LUCKMC102_03323_URIANGER_000_103","你不愧被叫做老練的冒險者，
 找東西真快。"
 84,"TEXT_LUCKMC102_03323_SYSTEM_000_081","（★未使用／削除予定★）"

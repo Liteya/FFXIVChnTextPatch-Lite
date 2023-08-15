@@ -8,7 +8,7 @@ int32,str,str
 4,"TEXT_JOBDRK500_02058_SEQ_04","打倒了科俄斯和其護衛。向聖人旅道附近的彬彬有禮的騎兵報告。"
 5,"TEXT_JOBDRK500_02058_SEQ_05","正在向彬彬有禮的騎兵報告，又發生了意想不到的事情。和聖人旅道附近的一本正經的騎兵對話。"
 6,"TEXT_JOBDRK500_02058_SEQ_06","在一本正經的騎兵的帶領下前往白雲崖前哨。在那裡與寄宿在弗雷身上的英雄的掠影展開了決鬥。和白雲崖前哨的一本正經的騎兵對話。"
-7,"TEXT_JOBDRK500_02058_SEQ_07","和一本正經的騎兵進行了交談，事件得到了解決。冒險者透過直面自己的負面感情，獲得了真正的暗黑騎士之力。用這力量去保護應該去保護的人。
+7,"TEXT_JOBDRK500_02058_SEQ_07","和一本正經的騎兵進行了交談，事件得到了解決。冒險者通過直面自己的負面感情，獲得了真正的暗黑騎士之力。用這力量去保護應該去保護的人。
 
 ※可以繼續從白雲崖前哨的精悍的神殿騎士那裡領取新的特職任務。"
 8,"TEXT_JOBDRK500_02058_SEQ_08",""
@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_JOBDRK500_02058_SEQ_22",""
 23,"TEXT_JOBDRK500_02058_SEQ_23",""
 24,"TEXT_JOBDRK500_02058_TODO_00","在「說話」頻道下輸入含有「弗雷」的詞句
-在大審門前的<Sheet(EObj,2006305,0)/>周邊呼喚弗雷（Fray）"
+在大審門前的<Sheet(EObj,2006305,0)/>周邊呼喚弗雷 (Fray)"
 25,"TEXT_JOBDRK500_02058_TODO_01","和彬彬有禮的騎兵對話"
 26,"TEXT_JOBDRK500_02058_TODO_02","在<Sheet(EObj,2006306,0)/>張望 討伐科俄斯一行"
 27,"TEXT_JOBDRK500_02058_TODO_03","向彬彬有禮的騎兵報告"
@@ -52,17 +52,17 @@ int32,str,str
 45,"TEXT_JOBDRK500_02058_TODO_21",""
 46,"TEXT_JOBDRK500_02058_TODO_22",""
 47,"TEXT_JOBDRK500_02058_TODO_23",""
-48,"TEXT_JOBDRK500_02058_FRAY_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_JOBDRK500_02058_FRAY_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 你來了啊……
 我好高興……就知道你肯定會來的。"
 49,"TEXT_JOBDRK500_02058_FRAY_000_001","唔……我已經，沒有太多時間了。
 我們趕快離開皇都，去一起旅行吧……"
 50,"TEXT_JOBDRK500_02058_FRAY_000_002","旅行……令人懷念……
-離開艾奧傑亞，當一個無名的旅人，
+離開艾歐澤亞，當一個無名的旅人，
 保護真正需要保護的人……"
-51,"TEXT_JOBDRK500_02058_FRAY_000_003","出了大審門我們再會合吧。
+51,"TEXT_JOBDRK500_02058_FRAY_000_003","出了大審門我們再匯合吧。
 只要叫我一聲，我就會出現了……"
-52,"TEXT_JOBDRK500_02058_SYSTEM_000_004","在庫爾札斯中央高地大審門前的<Sheet(EObj,2006305,0)/>附近和弗雷會合……"
+52,"TEXT_JOBDRK500_02058_SYSTEM_000_004","在庫爾札斯中央高地大審門前的<Sheet(EObj,2006305,0)/>附近和弗雷匯合……"
 53,"TEXT_JOBDRK500_02058_SYSTEM_000_005","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入包含「弗雷」的任意詞句，
 呼喚弗雷。"
@@ -71,7 +71,7 @@ int32,str,str
 呼喚弗雷。"
 55,"TEXT_JOBDRK500_02058_SAY_000_000","Fray"
 56,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_010","(-？？？？-)剛才那聲音……
-果然是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下啊！"
+果然是<Highlight>ObjectParameter(1)</Highlight>閣下啊！"
 57,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_011","我是白雲崖前哨德里耶蒙閣下的部下，
 在奪還要塞、追蹤冰之巫女的時候都受到過你的照顧。"
 58,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_012","你再次來到這裡，
@@ -86,18 +86,18 @@ int32,str,str
 62,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_016","如果能趁我們壓制雜兵的時候討伐掉他們的頭目，
 那他們就不得不撤退了。
 請你拯救我的同伴們和手無寸鐵的百姓們吧！"
-63,"TEXT_JOBDRK500_02058_CAVALRYS02058_000_017","(-狄蘭達爾家的騎兵們-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請你協助我們！"
+63,"TEXT_JOBDRK500_02058_CAVALRYS02058_000_017","(-狄蘭達爾家的騎兵們-)<Highlight>ObjectParameter(1)</Highlight>閣下，請你協助我們！"
 64,"TEXT_JOBDRK500_02058_CAVALRYS02058_000_018","(-狄蘭達爾家的騎兵們-)……拜託了！"
 65,"TEXT_JOBDRK500_02058_CAVALRYB02058_000_019","謝謝你！
 你的大恩大德我們日後必報……"
 66,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_020","那麼請你前往作戰地點吧！"
-67,"TEXT_JOBDRK500_02058_FRAY_000_021","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，為什麼？"
+67,"TEXT_JOBDRK500_02058_FRAY_000_021","……<Highlight>ObjectParameter(1)</Highlight>，為什麼？"
 68,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_030","前面就是我們的目的地。
 率領巨人族的科俄斯馬上就要攻過來了！"
-69,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_031"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下就在圖上標註的地點進行警戒。
+69,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_031","<Highlight>ObjectParameter(1)</Highlight>閣下就在圖上標註的地點進行警戒。
 願戰神哈羅妮保護你……
 還請多加小心！"
-70,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下就在圖上標註的地點進行警戒。
+70,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_040","<Highlight>ObjectParameter(1)</Highlight>閣下就在圖上標註的地點進行警戒。
 願戰神哈羅妮保護你……
 還請多加小心！"
 71,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_050","哦！
@@ -105,7 +105,7 @@ int32,str,str
 72,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_051","真是個天大的好消息！
 這樣一來，在其他地方戰鬥的我的夥伴，
 也能輕而易舉地擊退失去頭領的巨人族了。"
-73,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_052"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，感謝你的協助！
+73,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_052","<Highlight>ObjectParameter(1)</Highlight>閣下，感謝你的協助！
 此次你取得的成果我一定會去向德里耶蒙閣下報告的。"
 74,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_053","另外……還有……
 你真是一位偉大的人！
@@ -118,17 +118,17 @@ int32,str,str
 78,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_057","怎麼了？
 發生什麼了？！"
 79,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_058","白雲崖前哨遭到了敵人襲擊！
-一名面生的黑衣男子，正在營地內到處破壞！"
+一名眼生的黑衣男子，正在營地內到處破壞！"
 80,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_059","什麼……
 難道是異端者？"
 81,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_060","目前還不清楚……
 但感覺他和異端者不大一樣。
 也不知道他到底想幹什麼。"
 82,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_061","只是，據跟他交手的騎兵說，
-他一直在唸著 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下的名字……"
+他一直在念著<Highlight>ObjectParameter(1)</Highlight>閣下的名字……"
 83,"TEXT_JOBDRK500_02058_CAVALRYA02058_000_070","入侵者到底是誰？
-總之我要趕快去聯繫派出去討伐巨人族的夥伴……"
-84,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_080","增援竟然是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！"
+總之我要趕快去聯絡派出去討伐巨人族的夥伴……"
+84,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_080","增援竟然是<Highlight>ObjectParameter(1)</Highlight>閣下！"
 85,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_081","你也許認識那個入侵者。
 能不能請你和我一起前往白雲崖前哨呢？"
 86,"TEXT_JOBDRK500_02058_FRAY_000_100","……你來了啊，
@@ -165,7 +165,7 @@ int32,str,str
 那就請你正視我……"
 98,"TEXT_JOBDRK500_02058_FRAY_000_112","(-英雄的掠影-)我決定放棄幼稚的做法了，
 我要用剩下的全部力量，
-將你蓄積的痛苦還給你，還給孕育出我的這個世界。"
+將你積攢的痛苦還給你，還給孕育出我的這個世界。"
 99,"TEXT_JOBDRK500_02058_FRAY_000_113","(-英雄的掠影-)選擇吧。
 是殺了我來保護世界，還是為了保護世界而殺了你自己！"
 100,"TEXT_JOBDRK500_02058_FRAY_000_130","(-英雄的掠影-)這樣就……全部結束了……"
@@ -175,15 +175,15 @@ int32,str,str
 一次又一次地折磨著你。
 總有一天它會連你的性命都奪去。"
 103,"TEXT_JOBDRK500_02058_CAVALRY02058_000_133","(-狄蘭達爾家的騎兵-)喂！
- <Highlight>ObjectParameter(1)</Highlight> 閣下正在和入侵者戰鬥呢！"
-104,"TEXT_JOBDRK500_02058_CENOTA_000_134","(-野戰醫院的醫師-) <Highlight>ObjectParameter(1)</Highlight> 閣下，加油！你一定會贏的！"
+<Highlight>ObjectParameter(1)</Highlight>閣下正在和入侵者戰鬥呢！"
+104,"TEXT_JOBDRK500_02058_CENOTA_000_134","(-野戰醫院的醫師-)<Highlight>ObjectParameter(1)</Highlight>閣下，加油！你一定會贏的！"
 105,"TEXT_JOBDRK500_02058_CLOTAIRION_000_135","(-狄蘭達爾家的騎兵-)我、我來幫忙！
 現在正是我們報恩的機會！"
-106,"TEXT_JOBDRK500_02058_FRAY_000_136","(-英雄的掠影-)這就是，你透過戰鬥得來的……"
+106,"TEXT_JOBDRK500_02058_FRAY_000_136","(-英雄的掠影-)這就是，你通過戰鬥得來的……"
 107,"TEXT_JOBDRK500_02058_FRAY_000_137","(-英雄的掠影-)足夠了。
 今後你仍然會為了別人而戰鬥吧，
 不是因為被人強迫，而是遵循你自己的意志。"
-108,"TEXT_JOBDRK500_02058_FRAY_000_138","(-英雄的掠影-)啊，這也是暗黑騎士的信念呢。
+108,"TEXT_JOBDRK500_02058_FRAY_000_138","(-英雄的掠影-)啊，這也是暗黑騎士的信條呢。
 真的……非常適合你。
 今後你也會越來越強大……"
 109,"TEXT_JOBDRK500_02058_FRAY_000_139","(-英雄的掠影-)但痛苦也會隨之加深……
@@ -192,7 +192,7 @@ int32,str,str
 110,"TEXT_JOBDRK500_02058_FRAY_000_140","(-英雄的掠影-)就算沒有人察覺到你的煩惱，我也想為了你……
 為了自己而大聲呼喊。
 可我……已經……"
-111,"TEXT_JOBDRK500_02058_FRAY_000_141","(-英雄的掠影-) <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？"
+111,"TEXT_JOBDRK500_02058_FRAY_000_141","(-英雄的掠影-)<Highlight>ObjectParameter(1)</Highlight>？"
 112,"TEXT_JOBDRK500_02058_FRAY_000_142","(-英雄的掠影-)我……
 我是你無法成為英雄的陰暗面。"
 113,"TEXT_JOBDRK500_02058_FRAY_000_143","(-英雄的掠影-)但如果……
@@ -203,7 +203,7 @@ int32,str,str
 成為你的淚水，你的憤怒，你為世界而戰的力量。"
 116,"TEXT_JOBDRK500_02058_FRAY_000_146","(-英雄的掠影-)……我們再去一起旅行吧。"
 117,"TEXT_JOBDRK500_02058_TEMPLEKNIGHT02059_000_150","……原來如此，真是有意思。"
-118,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_160"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，辛苦了。"
+118,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_160","<Highlight>ObjectParameter(1)</Highlight>閣下，辛苦了。"
 119,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_161","雖然這件事的起因可能跟你有很大關係，
 但德里耶蒙閣下下令，不要過度追究此事。"
 120,"TEXT_JOBDRK500_02058_CAVALRYC02058_000_162","我向你保證，
@@ -216,18 +216,18 @@ int32,str,str
 123,"TEXT_JOBDRK500_02058_QIB_001_DRILLEMONT_BATTLETALK_DEAD","好強……
 他到底是什麼人？"
 124,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_PLAYERHP50","負面感情充滿全身！
-很痛，很痛吧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+很痛，很痛吧<Highlight>ObjectParameter(1)</Highlight>！"
 125,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_00","我一直在疏遠為了他人而努力的你……
 因為我也想被你保護……"
 126,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_10","這裡有多麼黑暗，多麼痛苦，多麼寂寞……
-你也來體會體會吧， <Highlight>ObjectParameter(1)</Highlight> ！"
-127,"TEXT_JOBDRK500_02058_QIB_001_DRILLEMONT_BATTLETALK_01"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我來幫助你！
+你也來體會體會吧，<Highlight>ObjectParameter(1)</Highlight>！"
+127,"TEXT_JOBDRK500_02058_QIB_001_DRILLEMONT_BATTLETALK_01","<Highlight>ObjectParameter(1)</Highlight>，我來幫助你！
 怎麼能讓前哨的大恩人孤身奮戰！"
 128,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_02","大恩人？替罪羊才對吧？"
 129,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_20","都是因為你們……全都是因為你們……
- <Highlight>ObjectParameter(1)</Highlight> 才無法珍惜自己！"
+<Highlight>ObjectParameter(1)</Highlight>才無法珍惜自己！"
 130,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_03","唔……就要，結束了……"
 131,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_30","我的聲音，你聽得到嗎？
 那些你深藏心底的痛苦、憎恨、悲傷……"
 132,"TEXT_JOBDRK500_02058_QIB_001_FRAY_BATTLETALK_31","那些沒能傳達給你的悲鳴……我的話語……
-都將透過這雙手劍傳達！直到最後……"
+都將通過這雙手劍傳達！直到最後……"

@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_BANSAH106_01384_SEQ_00","諾布養育場的菲烏想要收集製作魚叉的材料。"
 1,"TEXT_BANSAH106_01384_SEQ_01","接受了菲烏的委託，去收集材料，以便菲烏為他的弟弟們製作魚叉。先去月影島打倒<Sheet(BNpcName,2533,0)/>，獲得2份<Sheet(EventItem,2001267,0)/>。諾布養育場的海獸馴養人帕阿會為冒險者準備前往月影島的水龍蜥。"
-2,"TEXT_BANSAH106_01384_SEQ_02","獲得了<Sheet(EventItem,2001267,0)/>。將<Sheet(EventItem,2001267,0)/>設定在月影島的<Sheet(EObj,2003840,0)/>，討伐隨之出現的<Sheet(BNpcName,2722,0)/>，獲得<Sheet(EventItem,2001268,0)/>。"
+2,"TEXT_BANSAH106_01384_SEQ_02","獲得了<Sheet(EventItem,2001267,0)/>。將<Sheet(EventItem,2001267,0)/>設定在月影島的<Sheet(EObj,2003840,0)/>，討伐隨之出現的<Sheet(BNpcName,2722,0)/>，獲取<Sheet(EventItem,2001268,0)/>。"
 3,"TEXT_BANSAH106_01384_SEQ_03","獲得了<Sheet(EventItem,2001268,0)/>。將<Sheet(EventItem,2001268,0)/>交給諾布養育場的菲烏。"
 4,"TEXT_BANSAH106_01384_SEQ_04","將<Sheet(EventItem,2001268,0)/>交給了菲烏。他為了將年幼的弟弟們培養成合格的魚人族，準備用這些材料製作魚叉，教他們捕魚。為了培育更多有共同志向的魚人，今後也協助他收集材料。"
 5,"TEXT_BANSAH106_01384_SEQ_05",""
@@ -25,9 +25,9 @@ int32,str,str
 21,"TEXT_BANSAH106_01384_SEQ_21",""
 22,"TEXT_BANSAH106_01384_SEQ_22",""
 23,"TEXT_BANSAH106_01384_SEQ_23",""
-24,"TEXT_BANSAH106_01384_TODO_00","從月影島的<Sheet(BNpcName,2533,0)/>身上獲得<Sheet(EventItem,2001267,0)/>"
+24,"TEXT_BANSAH106_01384_TODO_00","從月影島的<Sheet(BNpcName,2533,0)/>身上獲取<Sheet(EventItem,2001267,0)/>"
 25,"TEXT_BANSAH106_01384_TODO_01","在<Sheet(EObj,2003840,0)/>使用<Sheet(EventItem,2001267,0)/>
-從<Sheet(BNpcName,2722,0)/>身上獲得<Sheet(EventItem,2001268,0)/>"
+從<Sheet(BNpcName,2722,0)/>身上獲取<Sheet(EventItem,2001268,0)/>"
 26,"TEXT_BANSAH106_01384_TODO_02","將<Sheet(EventItem,2001268,0)/>交給菲烏"
 27,"TEXT_BANSAH106_01384_TODO_03",""
 28,"TEXT_BANSAH106_01384_TODO_04",""
@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_BANSAH106_01384_TODO_23",""
 48,"TEXT_BANSAH106_01384_FYUU_000_000","呼嘶……我們魚人族裡，
 年長的要負責教弟弟們在大海裡求生的技術。"
-49,"TEXT_BANSAH106_01384_FYUU_000_001","所以，我一定要教弟弟們捕漁的本領……
+49,"TEXT_BANSAH106_01384_FYUU_000_001","所以，我必須要教弟弟們捕漁的本領……
 不巧的是，製作魚叉要用的巨蟹殼不夠了。"
 50,"TEXT_BANSAH106_01384_FYUU_000_002","這都是為了我的弟弟們，
 希望你能幫我收集來<Sheet(EventItem,2001268,0)/>。"
@@ -81,4 +81,4 @@ int32,str,str
 多謝你了！
 用這個應該能做出輕便結實的魚叉。"
 63,"TEXT_BANSAH106_01384_FYUU_000_016","我要趕快去教弟弟們捕魚，
-讓他們能夠儘早獨當一面！"
+讓他們能夠盡早獨當一面！"

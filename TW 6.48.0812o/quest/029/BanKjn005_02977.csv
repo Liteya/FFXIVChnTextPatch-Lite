@@ -54,7 +54,7 @@ int32,str,str
 45,"TEXT_BANKJN005_02977_TODO_21",""
 46,"TEXT_BANKJN005_02977_TODO_22",""
 47,"TEXT_BANKJN005_02977_TODO_23",""
-48,"TEXT_BANKJN005_02977_KABUTO_000_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+48,"TEXT_BANKJN005_02977_KABUTO_000_001","<Highlight>ObjectParameter(1)</Highlight>閣下……
 進攻絕鬼島的準備還沒做好……"
 49,"TEXT_BANKJN005_02977_KABUTO_000_002","鄙人認為，此役的關鍵還是在蛭卷身上……
 紅甲族明明人多勢眾，但他們為了搶奪付喪，
@@ -69,7 +69,7 @@ int32,str,str
 他自己從不戰鬥……"
 53,"TEXT_BANKJN005_02977_KABUTO_000_006","怎樣才能引開護衛啊……
 這才是關鍵，而鄙人不知所措……"
-54,"TEXT_BANKJN005_02977_KABUTO_000_007"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下願意幫忙嗎……？！
+54,"TEXT_BANKJN005_02977_KABUTO_000_007","<Highlight>ObjectParameter(1)</Highlight>閣下願意幫忙嗎……？！
 太好了……閣下一人可比千軍萬馬……！"
 55,"TEXT_BANKJN005_02977_KABUTO_000_008","可是，蛭卷身邊的護衛很多，
 再加上絕鬼島的雜兵，他們佔據了絕對優勢……
@@ -90,12 +90,12 @@ int32,str,str
 那大家就不會再猶豫了……？"
 63,"TEXT_BANKJN005_02977_KABUTO_000_013","明白了。
 鄙人相信你的判斷……"
-64,"TEXT_BANKJN005_02977_KABUTO_000_014"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+64,"TEXT_BANKJN005_02977_KABUTO_000_014","<Highlight>ObjectParameter(1)</Highlight>閣下……
 鄙人要再試試說服大家……
 希望你能在開頭幫忙壓壓陣……"
 65,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_019","你是為寶物殿收集了很多寶物的人吧——？
 謝謝你啊——"
-66,"TEXT_BANKJN005_02977_KABUTO_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+66,"TEXT_BANKJN005_02977_KABUTO_000_020","<Highlight>ObjectParameter(1)</Highlight>閣下……
 感激不盡……"
 67,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_021","武盔——有什麼事嗎——？
 你親自開口說話，真是少見啊——
@@ -111,7 +111,7 @@ int32,str,str
 71,"TEXT_BANKJN005_02977_KABUTO_000_025","你比誰都擅長游泳……
 而且還熟知紅玉海的狀況……！
 可以請你來幫忙戲耍紅甲族的雜兵嗎……！"
-72,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_026","你竟然這麼瞭解我啊——！
+72,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_026","你竟然這麼了解我啊——！
 確實，我怎麼可能會被紅甲族追上啊——？
 再說，捉弄一下那些傲慢的傢伙也不失為一種樂趣啊——！"
 73,"TEXT_BANKJN005_02977_VOLUNTEER02977_000_027","好——，包在我身上——！
@@ -130,7 +130,7 @@ int32,str,str
 剩下的就是等待結果了——"
 79,"TEXT_BANKJN005_02977_BUNCHIN_000_032","一直以來獨來獨往的傢伙，
 竟然開始尋求大家的幫助了啊——
-想必大夥都很驚訝吧——"
+想必大伙都很驚訝吧——"
 80,"TEXT_BANKJN005_02977_KABUTO_000_0033","……等這麼久，都沒有人來啊……
 明明費了那麼多口舌……
 既然如此，為了救出付喪，鄙人一個人也要……"
@@ -141,7 +141,7 @@ int32,str,str
 為了能派上用場，
 我們從凱蘇提爾部那裡搞來了一些武器——！"
 83,"TEXT_BANKJN005_02977_KABUTO_000_036","枕頭……？！
-你特地到重逢市集採購武器……？！"
+你特地到重逢集市採購武器……？！"
 84,"TEXT_BANKJN005_02977_SHIKITAHE_000_037","我去了一趟黃金港的小鍛冶屋，
 讓潮海也來這裡——
 付喪回來後，就可以馬上開始修理了——！"
@@ -162,7 +162,7 @@ int32,str,str
 那進攻的目標就是富豪居……！"
 91,"TEXT_BANKJN005_02977_KABUTO_000_044","大家就先行前往絕鬼島附近，挑釁紅甲族，
 盡可能多地引開敵人……！"
-92,"TEXT_BANKJN005_02977_KABUTO_100_044"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下以及鄙人，
+92,"TEXT_BANKJN005_02977_KABUTO_100_044","<Highlight>ObjectParameter(1)</Highlight>閣下以及鄙人，
 會等候機會，從潛洞攻入絕鬼島……！"
 93,"TEXT_BANKJN005_02977_BUNCHIN_000_045","我也來幫忙好了——！
 大家一定要和付喪大人一起平安凱旋——！"
@@ -170,7 +170,7 @@ int32,str,str
 95,"TEXT_BANKJN005_02977_BUNCHIN_000_049","好久沒有戰鬥過了，老朽得先靜氣凝神——
 老人沒體力，但有的是智慧——
 不用擔心的——！"
-96,"TEXT_BANKJN005_02977_KABUTO_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，準備好了嗎……？
+96,"TEXT_BANKJN005_02977_KABUTO_000_050","<Highlight>ObjectParameter(1)</Highlight>閣下，準備好了嗎……？
 大家都已經準備就緒了……"
 97,"TEXT_BANKJN005_02977_KABUTO_000_051","目標是絕鬼島深處的富豪居……
 蛭卷由鄙人來對付，
@@ -192,7 +192,7 @@ int32,str,str
 交杌，讓他們為自己的愚昧付出代價吧——！"
 106,"TEXT_BANKJN005_02977_SYAGI_100_066","遵命——！！
 鄙人這就將入侵者斬盡殺絕——！"
-107,"TEXT_BANKJN005_02977_KABUTO_000_067"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！
+107,"TEXT_BANKJN005_02977_KABUTO_000_067","<Highlight>ObjectParameter(1)</Highlight>閣下！
 先合力打倒交杌吧……！
 進攻——！"
 108,"TEXT_BANKJN005_02977_HIRUMAKI_000_070","你這個碧甲族真是自作聰明——！！
@@ -215,7 +215,7 @@ int32,str,str
 119,"TEXT_BANKJN005_02977_REDZAKO02977_000_078","(-紅甲族雜兵-)蛭卷大人——？！
 快逃——！！"
 120,"TEXT_BANKJN005_02977_BUNCHIN_000_079","大家，快把武盔送回碧玉水——！"
-121,"TEXT_BANKJN005_02977_KABUTO_000_089"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……
+121,"TEXT_BANKJN005_02977_KABUTO_000_089","<Highlight>ObjectParameter(1)</Highlight>閣下……
 給你添麻煩了，真是慚愧。
 鄙人已經恢復得差不多了，可是付喪……"
 122,"TEXT_BANKJN005_02977_KABUTO_000_090","如你所見，付喪一動不動……
@@ -228,7 +228,7 @@ int32,str,str
 126,"TEXT_BANKJN005_02977_KABUTO_000_094","怎麼會這樣……？！
 付喪不是普通的機關人偶……！
 是付喪神大人……！！"
-127,"TEXT_BANKJN005_02977_KABUTO_000_095"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+127,"TEXT_BANKJN005_02977_KABUTO_000_095","<Highlight>ObjectParameter(1)</Highlight>閣下，
 有沒有辦法讓付喪恢復過來？！"
 128,"TEXT_BANKJN005_02977_Q2_000_000","如何作答？"
 129,"TEXT_BANKJN005_02977_A2_000_001","付喪已經完成了使命"
@@ -276,7 +276,7 @@ int32,str,str
 前往富豪居！"
 151,"TEXT_BANKJN005_02977_QIB_007_TODO_1","打倒巨甲交杌！！"
 152,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_000_001","佯攻已經開始了，警備力量應該已經削弱……！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，開始吧……！！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，開始吧……！！"
 153,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_001_001","嗚……那是，長老……？！
 難道發生了不測……去看看……！"
 154,"TEXT_BANKJN005_02977_BUNCHIN_BATTLETALK_001_002","大戰即將開始，所以我帶來了寶物——
@@ -285,10 +285,10 @@ int32,str,str
 這下可以應對接下來的大戰了……！！"
 156,"TEXT_BANKJN005_02977_BUNCHIN_BATTLETALK_001_005","我也讓枕頭帶上了寶物——
 如果路上碰見他的話，就去共鳴一下吧——"
-157,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_002_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+157,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_002_001","<Highlight>ObjectParameter(1)</Highlight>閣下，
 朝著富豪居，前進吧……！"
 158,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_003_002","嗚，大家都在奮戰……！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，咱們去增援吧……！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，咱們去增援吧……！"
 159,"TEXT_BANKJN005_02977_ZUKIN_BATTLETALK_003_003","武盔，還有<If(PlayerParameter(4))>大姐<Else/>大哥</If>？！
 感謝支援——！"
 160,"TEXT_BANKJN005_02977_VOLUNTEER02977_BATTLETALK_003_005","多虧了你們——！
@@ -304,7 +304,7 @@ int32,str,str
 165,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_004_001","可惡……敵人太多了……
 鄙人將使用劍技，請你協助……"
 166,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_004_006","先調整一下狀態……
-等 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下準備好了，就突擊吧……！"
+等<Highlight>ObjectParameter(1)</Highlight>閣下準備好了，就突擊吧……！"
 167,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_004_005","鄙人會用劍技一掃敵軍……！
 請你把敵人誘導到鄙人面前……！"
 168,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_004_002","又有增援……？！
@@ -312,39 +312,39 @@ int32,str,str
 169,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_004_003","又來了……看來已經離蛭卷不遠了……！
 鄙人要用剩下的力量再放一次劍技，請你誘導敵軍……！"
 170,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_004_004","好，這一帶的敵軍都消滅了……！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，還有最後一關……！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，還有最後一關……！"
 171,"TEXT_BANKJN005_02977_ENEMY_BATTLETALK_005_004","逮住入侵者——！！"
 172,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_005_001","糟糕……鄙人動不了了……！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請擊敗封住鄙人行動的敵人……！"
-173,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_005_002"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，感謝相助！
+<Highlight>ObjectParameter(1)</Highlight>閣下，請擊敗封住鄙人行動的敵人……！"
+173,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_005_002","<Highlight>ObjectParameter(1)</Highlight>閣下，感謝相助！
 來，開始反擊……！"
 174,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_005_003","前方就是蛭卷的據點，富豪居……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，準備好……！！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，準備好……！！"
 175,"TEXT_BANKJN005_02977_MAKURA_BATTLETALK_006_001","等一下——！！
 在和蛭卷戰鬥之前，沐浴一下寶物的神氣吧——！"
 176,"TEXT_BANKJN005_02977_MAKURA_BATTLETALK_006_002","就在這邊，跟我來——！"
 177,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_006_002","枕頭，謝謝你……
-來吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，咱們去迎接付喪吧……！！"
+來吧，<Highlight>ObjectParameter(1)</Highlight>閣下，咱們去迎接付喪吧……！！"
 178,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_001","反抗蛭卷大人的無禮之徒——！！
 受死吧——！"
-179,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_002"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下,
+179,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_002","<Highlight>ObjectParameter(1)</Highlight>閣下,
 先合力打倒交杌……！！"
 180,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_004","耍什麼小聰明——！！
 那就吃鄙人這一招——！！"
-181,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，這邊……！
+181,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_005","<Highlight>ObjectParameter(1)</Highlight>閣下，這邊……！
 先打掉這個吧……！！"
 182,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_006","還、沒、完——！！
 快去死吧——！！"
-183,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_007"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，快過來……！
+183,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_007","<Highlight>ObjectParameter(1)</Highlight>閣下，快過來……！
 二人合力，承受住……！"
 184,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_021","嗚……有些消受不起……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，下次拜託合力承受……！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，下次拜託合力承受……！"
 185,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_023","多謝……！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，下次也請和鄙人合力承受……！！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，下次也請和鄙人合力承受……！！"
 186,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_008","區區碧甲族竟如此猖狂——！
 快快去死——！"
 187,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_010","堅持住……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，一鼓作氣……！"
+<Highlight>ObjectParameter(1)</Highlight>閣下，一鼓作氣……！"
 188,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_009","準備去死吧——！！
 吃鄙人一招——！！"
 189,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_011","那個潮水壁在保護交杌……！！
@@ -356,13 +356,13 @@ int32,str,str
 193,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_024","嗚嗚……可惡……
 蛭卷大人……原諒鄙人……"
 194,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_012","沒想到……只能，到此為止……"
-195,"TEXT_BANKJN005_02977_SYSTEM_000_203","（★未使用／削除予定★）"
-196,"TEXT_BANKJN005_02977_BUNCHIN_BATTLETALK_001_004","（★未使用／削除予定★）"
-197,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_002_002","（★未使用／削除予定★）"
-198,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_002_003","（★未使用／削除予定★）"
-199,"TEXT_BANKJN005_02977_MAKURA_BATTLETALK_003_007","（★未使用／削除予定★）"
-200,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_003","（★未使用／削除予定★）"
-201,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_015","（★未使用／削除予定★）"
-202,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_022","（★未使用／削除予定★）"
-203,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_024","（★未使用／削除予定★）"
-204,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_025","（★未使用／削除予定★）"
+195,"TEXT_BANKJN005_02977_SYSTEM_000_203","（★未使用／預定刪除★）"
+196,"TEXT_BANKJN005_02977_BUNCHIN_BATTLETALK_001_004","（★未使用／預定刪除★）"
+197,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_002_002","（★未使用／預定刪除★）"
+198,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_002_003","（★未使用／預定刪除★）"
+199,"TEXT_BANKJN005_02977_MAKURA_BATTLETALK_003_007","（★未使用／預定刪除★）"
+200,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_003","（★未使用／預定刪除★）"
+201,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_015","（★未使用／預定刪除★）"
+202,"TEXT_BANKJN005_02977_SYAGI_BATTLETALK_007_022","（★未使用／預定刪除★）"
+203,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_024","（★未使用／預定刪除★）"
+204,"TEXT_BANKJN005_02977_KABUTO_BATTLETALK_007_025","（★未使用／預定刪除★）"

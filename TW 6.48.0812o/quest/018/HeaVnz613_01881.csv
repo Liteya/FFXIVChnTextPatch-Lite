@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ613_01881_SEQ_00","飛龍港的瑪艾娜有個地方想讓冒險者去。"
-1,"TEXT_HEAVNZ613_01881_SEQ_01","接受了瑪艾娜的委託。瑪艾娜想讓冒險者去支援一下前往東方眼目的偵察隊。前往翻雲霧海的東方眼目，和附近的東北偵察隊的龍騎士會合。"
+1,"TEXT_HEAVNZ613_01881_SEQ_01","接受了瑪艾娜的委託。瑪艾娜想讓冒險者去支援一下前往東方眼目的偵察隊。前往翻雲霧海的東方眼目，和附近的東北偵察隊的龍騎士匯合。"
 2,"TEXT_HEAVNZ613_01881_SEQ_02","據東北偵察隊的龍騎士所說，他們被<Sheet(BNpcName,3630,0)/>襲擊了。為了支援他們完成任務，在東方眼目討伐3隻<Sheet(BNpcName,3630,0)/>。"
 3,"TEXT_HEAVNZ613_01881_SEQ_03","討伐了3隻<Sheet(BNpcName,3630,0)/>。向東方眼目附近的東北偵察隊的龍騎士報告。"
 4,"TEXT_HEAVNZ613_01881_SEQ_04","向東北偵察隊的龍騎士報告完畢。他非常感謝冒險者，並且很敬佩打倒了3隻<Sheet(BNpcName,3630,0)/>的冒險者。"
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_HEAVNZ613_01881_TODO_23",""
 48,"TEXT_HEAVNZ613_01881_AIRPORTINVESTIGATOR01871_000_003","部隊裡的同伴前去偵察了。
 能平安歸來就好了……"
-49,"TEXT_HEAVNZ613_01881_MAENNE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有事想拜託你。
+49,"TEXT_HEAVNZ613_01881_MAENNE_000_000","<Highlight>ObjectParameter(1)</Highlight>，我有事想拜託你。
 請你去支援一下前往東北方的偵察部隊。"
 50,"TEXT_HEAVNZ613_01881_MAENNE_000_001","按理說，應該是我去進行支援的，
 可是派遣至別處的部隊裡出現了傷員……
@@ -60,8 +60,8 @@ int32,str,str
 拜託了！"
 52,"TEXT_HEAVNZ613_01881_MAENNE_000_012","東北方面就交給你了。
 拜託了！"
-53,"TEXT_HEAVNZ613_01881_REMAINSINVESTIGATOR01871_000_010","哦！這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下嗎！
-我們接到了瑪艾娜隊長的聯繫，說會有增援過來。
+53,"TEXT_HEAVNZ613_01881_REMAINSINVESTIGATOR01871_000_010","哦！這不是<Highlight>ObjectParameter(1)</Highlight>閣下嗎！
+我們接到了瑪艾娜隊長的聯絡，說會有增援過來。
 沒想到會是討伐邪龍的大英雄本人來，真是太榮幸了！"
 54,"TEXT_HEAVNZ613_01881_REMAINSINVESTIGATOR01871_000_011","我們想以這裡為據點開始偵察周邊，
 結果卻經常被<Sheet(BNpcName,3630,0)/>襲擊，非常困擾。

@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_MANSEA006_00689_SEQ_00","吉姆托塔有件事想要委託給實力過人的冒險者。"
 1,"TEXT_MANSEA006_00689_SEQ_01","從勝利號爆炸未遂事件的主謀阿茶菲因的物品中搜出了奇怪的書簡，上面記載著暗號一般的文字。吉姆托塔等人無法解讀這些暗號，因此需要巴德龍的協助。將奇怪的書簡交給沉溺海豚亭的巴德龍。"
-2,"TEXT_MANSEA006_00689_SEQ_02","解讀出書簡，巴德龍臉色大變。書簡中似乎記載了很重要的事……做好萬全準備，以應對各種事態，之後再向巴德龍詢問詳情。"
+2,"TEXT_MANSEA006_00689_SEQ_02","解讀出書簡，巴德龍臉色大變。書簡中貌似記載了很重要的事……做好萬全準備，以應對各種事態，之後再向巴德龍詢問詳情。"
 3,"TEXT_MANSEA006_00689_SEQ_03",""
 4,"TEXT_MANSEA006_00689_SEQ_04",""
 5,"TEXT_MANSEA006_00689_SEQ_05",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_MANSEA006_00689_SEQ_21",""
 22,"TEXT_MANSEA006_00689_SEQ_22",""
 23,"TEXT_MANSEA006_00689_SEQ_23",""
-24,"TEXT_MANSEA006_00689_TODO_00","將奇怪的書簡交給利姆薩．羅敏薩的巴德龍"
+24,"TEXT_MANSEA006_00689_TODO_00","將奇怪的書簡交給利姆薩·羅敏薩的巴德龍"
 25,"TEXT_MANSEA006_00689_TODO_01",""
 26,"TEXT_MANSEA006_00689_TODO_02",""
 27,"TEXT_MANSEA006_00689_TODO_03",""
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_MANSEA006_00689_TODO_21",""
 46,"TEXT_MANSEA006_00689_TODO_22",""
 47,"TEXT_MANSEA006_00689_TODO_23",""
-48,"TEXT_MANSEA006_00689_GHIMTHOTA_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_MANSEA006_00689_GHIMTHOTA_000_1","<Highlight>ObjectParameter(1)</Highlight>，
 我相信你的實力，有件事想要委託給你。"
 49,"TEXT_MANSEA006_00689_GHIMTHOTA_000_2","我們在檢查勝利號爆炸事件的主犯阿茶菲因的物品時，
 發現了一封書簡。"
@@ -61,14 +61,14 @@ int32,str,str
 這種解讀暗號的工作，他們都是找巴德龍幫忙的。"
 53,"TEXT_MANSEA006_00689_GHIMTHOTA_000_6","因此，請你將這奇怪的書簡送到沉溺海豚亭的巴德龍手中。
 拜託你了。"
-54,"TEXT_MANSEA006_00689_BADERON_000_20","喲， <Highlight>ObjectParameter(1)</Highlight> 。
+54,"TEXT_MANSEA006_00689_BADERON_000_20","喲，<Highlight>ObjectParameter(1)</Highlight>。
 聽說你在莫拉比造船廠表現得十分活躍啊。"
 55,"TEXT_MANSEA006_00689_BADERON_000_21","阿特比爾姆都跟我說了。
 那傢伙也因他老爹的事遭了不少罪……
 但你阻止了勝利號的爆炸，真是太好了。"
 56,"TEXT_MANSEA006_00689_BADERON_000_22","我也要衷心感謝你。
 謝謝！"
-57,"TEXT_MANSEA006_00689_BADERON_000_23","看來你已經習慣在利姆薩．羅敏薩的生活了，
+57,"TEXT_MANSEA006_00689_BADERON_000_23","看來你已經習慣在利姆薩·羅敏薩的生活了，
 今後也請你……"
 58,"TEXT_MANSEA006_00689_BADERON_000_24","……嗯？你說什麼？
 有事要拜託我做？"
@@ -78,10 +78,10 @@ int32,str,str
 60,"TEXT_MANSEA006_00689_BADERON_000_31","這是……"
 61,"TEXT_MANSEA006_00689_BADERON_000_32","我知道誰能解讀這些文字。
 那就是……我。"
-62,"TEXT_MANSEA006_00689_BADERON_000_33","冒險者 <Highlight>ObjectParameter(1)</Highlight> 。
+62,"TEXT_MANSEA006_00689_BADERON_000_33","冒險者<Highlight>ObjectParameter(1)</Highlight>。
 ……不，還是別這麼生疏地稱呼你了，
 因為你是我們的同伴嘛。"
-63,"TEXT_MANSEA006_00689_BADERON_000_34"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+63,"TEXT_MANSEA006_00689_BADERON_000_34","<Highlight>ObjectParameter(1)</Highlight>。
 我相信你的實力，有件事情想委託給你。"
 64,"TEXT_MANSEA006_00689_BADERON_000_35","這封書簡中記載著十分重要的事……
 事情可能會比較棘手。

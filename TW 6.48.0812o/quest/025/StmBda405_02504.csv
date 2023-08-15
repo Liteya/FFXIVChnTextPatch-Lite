@@ -59,8 +59,8 @@ int32,str,str
 51,"TEXT_STMBDA405_02504_HIEN_000_010","雖然我在這裡受模兒部照顧了一段時間，
 但還是無法完全理解他們所說的「神諭」。"
 52,"TEXT_STMBDA405_02504_HIEN_000_011","不過，關於「命數」這個概念還是能明白的。
-這次的相遇註定能帶來好的結果。
-你說對吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+這次的相遇注定能帶來好的結果。
+你說對吧，<Highlight>ObjectParameter(1)</Highlight>！"
 53,"TEXT_STMBDA405_02504_CIRINA_000_020","各位……
 獲得那達慕參戰資格的道路必定會十分艱難。"
 54,"TEXT_STMBDA405_02504_CIRINA_000_021","這會是像穿過大草原、擊退迫近強敵的英雄巴兒達木
@@ -78,12 +78,12 @@ int32,str,str
 我會去準備晚宴的，雖然沒有什麼太好的東西招待你們，
 還請你們稍微等一會。"
 60,"TEXT_STMBDA405_02504_LYSE_000_027","那我也幫幫忙吧。
-我也很想瞭解一下模兒部，畢竟今後是一同戰鬥的同伴了！"
+我也很想了解一下模兒部，畢竟今後是一同戰鬥的同伴了！"
 61,"TEXT_STMBDA405_02504_CIRINA_000_028","真的嗎？
 那太好了，部落的人都會很開心的！"
 62,"TEXT_STMBDA405_02504_CIRINA_000_029","嗯……那麼……
 莉瑟姐姐，你能去幫幫正在對面工作的朵別嗎？"
-63,"TEXT_STMBDA405_02504_CIRINA_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、豪雪先生、飛燕先生，
+63,"TEXT_STMBDA405_02504_CIRINA_000_030","<Highlight>ObjectParameter(1)</Highlight>、豪雪先生、飛燕先生，
 我希望你們能幫我準備一些肉。"
 64,"TEXT_STMBDA405_02504_CIRINA_000_031","今天的神諭說，要用<Sheet(EventItem,2002196,0)/>來招待客人，
 我把誘餌給你們，可以請你們去籌備嗎？"
@@ -114,7 +114,7 @@ int32,str,str
 當然，不是狼獾肉可不要啊！"
 75,"TEXT_STMBDA405_02504_GOSETSU_000_060","老夫一定會公正評判的。
 你就去找3個地方擺上<Sheet(EventItem,2002199,0)/>，
-盡可能多地獲得<Sheet(EventItem,2002196,0)/>吧。"
+盡可能多地獲取<Sheet(EventItem,2002196,0)/>吧。"
 76,"TEXT_STMBDA405_02504_GOSETSU_000_061","在人煙稀少的地方更容易引出<Sheet(BNpcName,5838,0)/>……
 它們有時候也會到河邊去洗澡。"
 77,"TEXT_STMBDA405_02504_SYSTEM_000_070","要在這裡放置<Sheet(EventItem,2002199,0)/>嗎？"
@@ -130,17 +130,17 @@ int32,str,str
 <Sheet(BNpcName,5838,0)/>或許很難會靠近吧……"
 83,"TEXT_STMBDA405_02504_GOSETSU_000_080","哦，已經把<Sheet(EventItem,2002199,0)/>都用光了啊。
 那就讓老夫來看看你弄到了多少<Sheet(EventItem,2002196,0)/>吧！"
-84,"TEXT_STMBDA405_02504_HIEN_000_081","哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 比我快啊。
+84,"TEXT_STMBDA405_02504_HIEN_000_081","哦，<Highlight>ObjectParameter(1)</Highlight>比我快啊。
 抱歉讓你們等我了。"
 85,"TEXT_STMBDA405_02504_HIEN_000_082","不過論量我可不會輸給你的！
 你們看，我捕獲到了6隻！"
 86,"TEXT_STMBDA405_02504_GOSETSU_000_083","哦，的確如此！
-我看看 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下的……"
+我看看<Highlight>ObjectParameter(1)</Highlight>閣下的……"
 87,"TEXT_STMBDA405_02504_GOSETSU_000_084","有8隻！
-這樣一來，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下獲得壓倒性的勝利啊。
+這樣一來，是<Highlight>ObjectParameter(1)</Highlight>閣下獲得壓倒性的勝利啊。
 真是太漂亮了！"
 88,"TEXT_STMBDA405_02504_GOSETSU_000_085","有7隻！
-這樣一來，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下以微小的差距獲得勝利啊！"
+這樣一來，是<Highlight>ObjectParameter(1)</Highlight>閣下以微小的差距獲得勝利啊！"
 89,"TEXT_STMBDA405_02504_GOSETSU_000_086","也是6隻！
 嗯，看來是平手了。"
 90,"TEXT_STMBDA405_02504_GOSETSU_000_087","有5隻！
@@ -150,7 +150,7 @@ int32,str,str
 92,"TEXT_STMBDA405_02504_GOSETSU_000_089","有3隻，只有飛燕公子的一半！
 這樣一來，是飛燕公子獲勝啊。"
 93,"TEXT_STMBDA405_02504_GOSETSU_100_089","竟然有這麼多！
-很明顯是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下壓倒性勝利啊。
+很明顯是<Highlight>ObjectParameter(1)</Highlight>閣下壓倒性勝利啊。
 幹得漂亮！"
 94,"TEXT_STMBDA405_02504_HIEN_000_090","唔，好不甘心啊！
 我還覺得我選的位置不錯呢。"
@@ -166,7 +166,7 @@ int32,str,str
 俗話說，真人不露相。
 我很期待能夠看到你的真本事！"
 100,"TEXT_STMBDA405_02504_HIEN_000_096","……那我們就把獵物帶回模兒衣樓吧。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，就由你把肉一起拿給其日娜吧。"
+<Highlight>ObjectParameter(1)</Highlight>，就由你把肉一起拿給其日娜吧。"
 101,"TEXT_STMBDA405_02504_HIEN_000_097","太陽神草原的菜餚雖然看上去很一般，
 但由於食材都特別棒，所以味道特別好！
 而且最主要的是能夠補充精力和能量！"
@@ -179,7 +179,7 @@ int32,str,str
 104,"TEXT_STMBDA405_02504_GOSETSU_000_105","不僅僅是飛燕公子，
 連我們都受到熱情招待，
 為報答這恩情我們也不能在那達慕上輸掉了。"
-105,"TEXT_STMBDA405_02504_CIRINA_000_110","你回來了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+105,"TEXT_STMBDA405_02504_CIRINA_000_110","你回來了，<Highlight>ObjectParameter(1)</Highlight>！
 成功狩獵到<Sheet(BNpcName,5838,0)/>了嗎？"
 106,"TEXT_STMBDA405_02504_CIRINA_000_111","哇，竟然有這麼多？！
 太、太厲害了……難道說，草原之外的人飯量都特別大嗎？！"

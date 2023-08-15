@@ -52,21 +52,21 @@ int32,str,str
 46,"TEXT_CLSGLD101_00613_TODO_22",""
 47,"TEXT_CLSGLD101_00613_TODO_23",""
 48,"TEXT_CLSGLD101_00613_SERENDIPITY_000_1","啊，對不起，你的傷不要緊吧？！
-……什麼啊，原來是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+……什麼啊，原來是<Highlight>ObjectParameter(1)</Highlight>，
 不要嚇我啊。"
 49,"TEXT_CLSGLD101_00613_SERENDIPITY_000_2","因為涅吉對採礦工帶來的材料品質極度不滿，
 一生氣就大鬧起來了！
 剛剛這裡可是一片狼藉，整一個鬼哭狼嚎的群架現場……"
 50,"TEXT_CLSGLD101_00613_SERENDIPITY_000_3","嗯……對了！
-剛才銀冑團的人來過，
+剛才銀胄團的人來過，
 然後給了我們一個製作大量<Sheet(Item,5086,0)/>的訂單。"
-51,"TEXT_CLSGLD101_00613_SERENDIPITY_000_4"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也有很大的進步了，
+51,"TEXT_CLSGLD101_00613_SERENDIPITY_000_4","<Highlight>ObjectParameter(1)</Highlight>，你也有很大的進步了，
 所以就試著處理一些公會的工作吧！
 請做出12箱<Sheet(Item,5086,0)/>！"
 52,"TEXT_CLSGLD101_00613_SERENDIPITY_000_5","雖然數量稍微有點多，
 不過如果是你的話，就一定沒問題的！
 這是你第一份公會工作，所以要加油啊！"
-53,"TEXT_CLSGLD101_00613_SERENDIPITY_000_6"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來啦！
+53,"TEXT_CLSGLD101_00613_SERENDIPITY_000_6","<Highlight>ObjectParameter(1)</Highlight>，你回來啦！
 你做出12箱<Sheet(Item,5086,0)/>了嗎？"
 54,"TEXT_CLSGLD101_00613_GIGI_000_7","……嘰嘰嘰……
 紅銅環……哼嗯哼嗯……哇紅銅！
@@ -76,7 +76,7 @@ int32,str,str
 56,"TEXT_CLSGLD101_00613_SERENDIPITY_000_9","哎，什麼？
 涅吉，難道你是在誇獎這個<Sheet(Item,5086,0)/>嗎？"
 57,"TEXT_CLSGLD101_00613_SERENDIPITY_000_10","好、好厲害！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你太棒了！
+<Highlight>ObjectParameter(1)</Highlight>，你太棒了！
 竟然能做出讓涅吉認可的東西！"
 58,"TEXT_CLSGLD101_00613_SERENDIPITY_000_11","涅吉是艾斯泰姆超一流的鑑定師，
 因此他的審美觀可是為人稱讚的。
@@ -84,10 +84,10 @@ int32,str,str
 59,"TEXT_CLSGLD101_00613_SERENDIPITY_000_12","就連公會裡也只有頂級雕金匠才會被涅吉稱讚！
 你一個實習生能讓他這麼說，這可是一大壯舉啊！"
 60,"TEXT_CLSGLD101_00613_SERENDIPITY_000_13","順便告訴你，「<Sheet(Item,5086,0)/>」正如其名，就是用銅做成的環。
-將它們連串在一起就可以用來製作鎖子甲，也就是鎖子甲。"
+將它們連串在一起就可以用來製作鏈甲，也就是鎖子甲。"
 61,"TEXT_CLSGLD101_00613_SERENDIPITY_000_14","啊，對了對了！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，能麻煩你跑一趟嗎？"
-62,"TEXT_CLSGLD101_00613_SERENDIPITY_000_15","<Sheet(Item,5086,0)/>訂單的委託人是銀冑團一個名叫「羅伯特」的人。
+<Highlight>ObjectParameter(1)</Highlight>，能麻煩你跑一趟嗎？"
+62,"TEXT_CLSGLD101_00613_SERENDIPITY_000_15","<Sheet(Item,5086,0)/>訂單的委託人是銀胄團一個名叫「羅伯特」的人。
 我希望你能把這些東西交給他。"
 63,"TEXT_CLSGLD101_00613_SERENDIPITY_000_16","他好像就在公會前那個廣場上。
 如果是這些受到涅吉認可的<Sheet(Item,5086,0)/>，
@@ -95,20 +95,20 @@ int32,str,str
 64,"TEXT_CLSGLD101_00613_ROBERT_000_17","哦，你是雕金匠公會的人吧？
 我當然能看出來了，
 因為你拿著雕金必備的錘子啊。"
-65,"TEXT_CLSGLD101_00613_ROBERT_000_18","哦！就是這個！用這些就能把漏了洞的鎖子甲修補好。
-別看是光鮮的近衛兵團「銀冑團」，
+65,"TEXT_CLSGLD101_00613_ROBERT_000_18","哦！就是這個！用這些就能把漏了洞的鏈甲修補好。
+別看是光鮮的近衛兵團「銀胄團」，
 我們也面臨著資金困難的問題啊。"
-66,"TEXT_CLSGLD101_00613_ROBERT_000_19","我是銀冑團的羅伯特。
+66,"TEXT_CLSGLD101_00613_ROBERT_000_19","我是銀胄團的羅伯特。
 主要負責團內小賣鋪的管理和後勤工作。
 今後也請多多指教……"
-67,"TEXT_CLSGLD101_00613_SERENDIPITY_000_20","你回來啦，看來蠻順利的吧？
+67,"TEXT_CLSGLD101_00613_SERENDIPITY_000_20","你回來啦，看來挺順利的吧？
 以後就照著這個勢頭繼續雕金吧！"
 68,"TEXT_CLSGLD101_00613_SERENDIPITY_000_21","你的才能被涅吉所認可，充分發揮這一點的話，
-說不定將來會有印著 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 名字的品牌在社交界流行呢！"
+說不定將來會有印著<Highlight>ObjectParameter(1)</Highlight>名字的品牌在社交界流行呢！"
 69,"TEXT_CLSGLD101_00613_SERENDIPITY_000_22","如果你想要尋找有利於磨練技藝的工作，
 那麼可以去冒險者公會的尤斯塔斯那裡
 領取一些公會理符的製作任務。"
 70,"TEXT_CLSGLD101_00613_SERENDIPITY_000_23","我和涅吉都會支持你的！
-請一定要加油啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+請一定要加油啊，<Highlight>ObjectParameter(1)</Highlight>！"
 71,"TEXT_CLSGLD101_00613_ROBERT_000_30","我主要負責團內小賣部的管理和後勤工作。
 今後也請多多指教……"

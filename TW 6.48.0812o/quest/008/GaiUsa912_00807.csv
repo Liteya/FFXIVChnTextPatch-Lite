@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA912_00807_SEQ_00","鄧斯坦哨塔的馬爾塞特又想找冒險者來協助研究。"
-1,"TEXT_GAIUSA912_00807_SEQ_01","這次的工作是調查套索花的生態。使用<Sheet(EventItem,2000958,0)/>，打倒<Sheet(BNpcName,2057,0)/>，獲得<Sheet(EventItem,2000862,0)/>。"
+1,"TEXT_GAIUSA912_00807_SEQ_01","這次的工作是調查套索花的生態。使用<Sheet(EventItem,2000958,0)/>，打倒<Sheet(BNpcName,2057,0)/>，獲取<Sheet(EventItem,2000862,0)/>。"
 2,"TEXT_GAIUSA912_00807_SEQ_02","獲得了<Sheet(EventItem,2000862,0)/>。將<Sheet(EventItem,2000862,0)/>交給鄧斯坦哨塔的馬爾塞特。"
-3,"TEXT_GAIUSA912_00807_SEQ_03","在冒險者的協助下，馬爾塞特的研究又有了進展。希望新艾奧傑亞博物志能夠順利完成。"
+3,"TEXT_GAIUSA912_00807_SEQ_03","在冒險者的協助下，馬爾塞特的研究又有了進展。希望新艾歐澤亞博物志能夠順利完成。"
 4,"TEXT_GAIUSA912_00807_SEQ_04",""
 5,"TEXT_GAIUSA912_00807_SEQ_05",""
 6,"TEXT_GAIUSA912_00807_SEQ_06",""

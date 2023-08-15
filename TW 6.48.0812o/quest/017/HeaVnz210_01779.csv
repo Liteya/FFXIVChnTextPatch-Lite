@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_HEAVNZ210_01779_SEQ_00","尾羽集落的馬塞尚非常關心這裡的樹木。"
 1,"TEXT_HEAVNZ210_01779_SEQ_01","馬塞尚拜託冒險者去驅除<Sheet(BNpcName,4046,0)/>。對龍堡參天高地陸行鳥之森的<Sheet(EObj,2005603,0)/>使用<Sheet(EventItem,2001609,0)/>，討伐3隻被吸引來的<Sheet(BNpcName,4046,0)/>。"
 2,"TEXT_HEAVNZ210_01779_SEQ_02","成功討伐了<Sheet(BNpcName,4046,0)/>。向尾羽集落的馬塞尚報告。"
-3,"TEXT_HEAVNZ210_01779_SEQ_03","向馬塞尚報告完畢。<Sheet(BNpcName,4046,0)/>會侵蝕樹木，讓森林日漸衰退，這樣高品質的陸行鳥就不會接近這裡。因此他們必須討伐<Sheet(BNpcName,4046,0)/>，保護森林。"
+3,"TEXT_HEAVNZ210_01779_SEQ_03","向馬塞尚報告完畢。<Sheet(BNpcName,4046,0)/>會侵蝕樹木，讓森林日漸衰退，這樣優質的陸行鳥就不會接近這裡。因此他們必須討伐<Sheet(BNpcName,4046,0)/>，保護森林。"
 4,"TEXT_HEAVNZ210_01779_SEQ_04",""
 5,"TEXT_HEAVNZ210_01779_SEQ_05",""
 6,"TEXT_HEAVNZ210_01779_SEQ_06",""

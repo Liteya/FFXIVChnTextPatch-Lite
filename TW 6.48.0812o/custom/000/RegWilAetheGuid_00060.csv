@@ -4,13 +4,13 @@ int32,str,str
 0,"TEXT_REGWILAETHEGUID_00060_NENEBARU_000","喲，冒險者。
 要我為你講解下「傳送魔法」和「乙太之光」嗎？
 當然是免費的哦。"
-1,"TEXT_REGWILAETHEGUID_00060_Q1_000_1","想瞭解什麼？"
+1,"TEXT_REGWILAETHEGUID_00060_Q1_000_1","想了解什麼？"
 2,"TEXT_REGWILAETHEGUID_00060_A1_000_1","什麼是傳送魔法？"
 3,"TEXT_REGWILAETHEGUID_00060_A1_000_2","什麼是乙太之光？"
-4,"TEXT_REGWILAETHEGUID_00060_A1_000_3","返回和傳送有什麼區別？ "
+4,"TEXT_REGWILAETHEGUID_00060_A1_000_3","返回和傳送有什麼區別？"
 5,"TEXT_REGWILAETHEGUID_00060_A1_000_4","取消"
-6,"TEXT_REGWILAETHEGUID_00060_NENEBARU_010","那啥……想瞭解「傳送魔法」的話，
-必須先瞭解「乙太」。"
+6,"TEXT_REGWILAETHEGUID_00060_NENEBARU_010","那啥……想了解「傳送魔法」的話，
+必須先了解「乙太」。"
 7,"TEXT_REGWILAETHEGUID_00060_NENEBARU_011","乙太是萬物的生命之源，
 同時也是魔法的原動力。"
 8,"TEXT_REGWILAETHEGUID_00060_NENEBARU_012","魔物和植物等世間一切生物……
@@ -28,9 +28,9 @@ int32,str,str
 13,"TEXT_REGWILAETHEGUID_00060_NENEBARU_022","雖然乘坐「地脈」不是什麼難事，
 但在沒有確定目的地的情況下，乘坐地脈就如同自殺，
 出了岔子的話就可能再也回不來了。"
-14,"TEXT_REGWILAETHEGUID_00060_NENEBARU_023","這時，乙太之光的重要作用就展現出來了。
+14,"TEXT_REGWILAETHEGUID_00060_NENEBARU_023","這時，乙太之光的重要作用就體現出來了。
 它如同港口的燈塔，為乘坐地脈的旅行者指明出口。"
-15,"TEXT_REGWILAETHEGUID_00060_NENEBARU_024","透過將乙太之光設定在「地脈」的流匯點，
+15,"TEXT_REGWILAETHEGUID_00060_NENEBARU_024","通過將乙太之光設定在「地脈」的流匯點，
 乙太之光才作為傳送的目的地得以利用。"
 16,"TEXT_REGWILAETHEGUID_00060_NENEBARU_025","但是，使用傳送魔法能夠到達的地方，
 只有接觸過並進行了「共鳴」的乙太之光。"

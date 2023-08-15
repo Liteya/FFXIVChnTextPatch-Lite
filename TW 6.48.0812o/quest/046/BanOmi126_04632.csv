@@ -4,9 +4,9 @@ int32,str,str
 0,"TEXT_BANOMI126_04632_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-A4調查平臺的斯提格瑪．肆想要冒險者幫忙送東西。"
+A4調查平台的斯提格瑪四想要冒險者幫忙送東西。"
 1,"TEXT_BANOMI126_04632_SEQ_01","將委託物品交給刷牙專用型奧密克戎"
-2,"TEXT_BANOMI126_04632_SEQ_02","向斯提格瑪．肆報告"
+2,"TEXT_BANOMI126_04632_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI126_04632_SEQ_03",""
 4,"TEXT_BANOMI126_04632_SEQ_04",""
 5,"TEXT_BANOMI126_04632_SEQ_05",""
@@ -29,7 +29,7 @@ A4調查平臺的斯提格瑪．肆想要冒險者幫忙送東西。"
 22,"TEXT_BANOMI126_04632_SEQ_22",""
 23,"TEXT_BANOMI126_04632_SEQ_23",""
 24,"TEXT_BANOMI126_04632_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給刷牙專用型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給刷牙專用型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給刷牙專用型奧密克戎</If><Else/></If></If></If>"
-25,"TEXT_BANOMI126_04632_TODO_01","向斯提格瑪．肆報告"
+25,"TEXT_BANOMI126_04632_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI126_04632_TODO_02",""
 27,"TEXT_BANOMI126_04632_TODO_03",""
 28,"TEXT_BANOMI126_04632_TODO_04",""
@@ -55,7 +55,7 @@ A4調查平臺的斯提格瑪．肆想要冒險者幫忙送東西。"
 48,"TEXT_BANOMI126_04632_STIGMA4_100_001","本機想請同盟者幫忙採集和運送物資。
 目標是用於護理龍族口腔的物資。
 這也是為了給顧客在進食後進行刷牙服務。"
-49,"TEXT_BANOMI126_04632_STIGMA4_100_002","此次收到了全身毛茸茸的咖啡廳老闆發來的指令，
+49,"TEXT_BANOMI126_04632_STIGMA4_100_002","此次收到了全身毛絨絨的咖啡廳老闆發來的指令，
 於是本機開始調查適合刷牙的自然物……
 結果在至福樂土海洋區有了收穫。"
 50,"TEXT_BANOMI126_04632_STIGMA4_100_005","同盟者，請立刻前往至福樂土海洋區，
@@ -66,22 +66,22 @@ A4調查平臺的斯提格瑪．肆想要冒險者幫忙送東西。"
 在水域採集<Sheet(Item,38347,0)/>。
 捕獲時推薦使用<Sheet(Item,36588,0)/>。"
 53,"TEXT_BANOMI126_04632_STIGMA4_100_008","到手後請將東西交給半途終旅的刷牙專用型奧密克戎。
-繳納完成後，該機體將會進行物品加工及針對刷牙的特項服務。
-希望同盟者能夠儘快完成此次的任務。"
-54,"TEXT_BANOMI126_04632_OMICRON04634_100_009","沙沙沙……在對繳納物資進行加工後，本機將會與龍族單獨接觸，
+交納完成後，該機體將會進行物品加工及針對刷牙的特項服務。
+希望同盟者能夠盡快完成此次的任務。"
+54,"TEXT_BANOMI126_04632_OMICRON04634_100_009","沙沙沙……在對交納物資進行加工後，本機將會與龍族單獨接觸，
 讓其打開口腔，進行內部清掃及磨牙服務。
 本機的生存機率預測不足1%……"
-55,"TEXT_BANOMI126_04632_OMICRON04634_100_010","沙沙沙……在對繳納物資進行加工後，本機將會與龍族單獨接觸，
+55,"TEXT_BANOMI126_04632_OMICRON04634_100_010","沙沙沙……在對交納物資進行加工後，本機將會與龍族單獨接觸，
 讓其打開口腔，進行內部清掃及刷牙服務。
 本機的生存機率預測不足1%……"
-56,"TEXT_BANOMI126_04632_OMICRON04634_100_011","已確認繳納物資，接下來在進行加工後，
+56,"TEXT_BANOMI126_04632_OMICRON04634_100_011","已確認交納物資，接下來在進行加工後，
 本機會前往任務現場進入刷牙專項程式。
 再見了，同盟者。"
 57,"TEXT_BANOMI126_04632_STIGMA4_100_012","確認同盟者已返回……
 感謝你為刷牙服務做出的貢獻。
 請領取報酬，為下次的任務養精蓄銳。"
-58,"TEXT_BANOMI126_04632_STIGMA4_100_013","另外參照侵略龍星時收集的資料，
-龍族似乎是透過咀嚼岩石等硬物來清掃口腔。
+58,"TEXT_BANOMI126_04632_STIGMA4_100_013","另外參照侵略龍星時收集的數據，
+龍族似乎是通過咀嚼岩石等硬物來清掃口腔。
 因此本機也不確定刷牙服務是否有存在的必要性。"
 59,"TEXT_BANOMI126_04632_STIGMA4_100_014","不過既然已經從顧客那裡得到了積極的評價，
 那麼接下來也有必要考慮製作刷牙專用的小型無人機了。

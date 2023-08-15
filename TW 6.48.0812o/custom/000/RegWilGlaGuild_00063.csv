@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGWILGLAGUILD_00063_MYLLA_000","嗯，來我們公會有何貴幹？
 你想詢問有關劍術的事情嗎？"
-1,"TEXT_REGWILGLAGUILD_00063_Q1_000_1","想瞭解什麼？"
+1,"TEXT_REGWILGLAGUILD_00063_Q1_000_1","想了解什麼？"
 2,"TEXT_REGWILGLAGUILD_00063_A1_000_1","你是做什麼的？"
 3,"TEXT_REGWILGLAGUILD_00063_A1_000_2","什麼是「劍術」？"
 4,"TEXT_REGWILGLAGUILD_00063_A1_000_3","取消"
@@ -17,7 +17,7 @@ int32,str,str
 好了，你可以慢慢地參觀學習下。
 不過小心不要隨便出手，免得受傷。"
 8,"TEXT_REGWILGLAGUILD_00063_MYLLA_020","「劍術」即用劍作為武器的戰鬥本領。
-在艾奧傑亞，劍是最普通的武器。"
+在艾歐澤亞，劍是最普通的武器。"
 9,"TEXT_REGWILGLAGUILD_00063_MYLLA_021","正因如此，那些一心想要在戰鬥道路上走下去的人，
 都會想要嘗試一下用劍。
 為了讓無法實現的夢想成為現實……"
@@ -35,10 +35,10 @@ int32,str,str
 14,"TEXT_REGWILGLAGUILD_00063_MYLLA_026","怎麼樣？是不是覺得十分美妙？
 勇猛且華麗……這就是劍術。
 而能夠具備這兩點的人，才算是最強的劍術師。"
-15,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_050","哎呀，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊！
+15,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_050","哎呀，是<Highlight>ObjectParameter(1)</Highlight>啊！
 是什麼風把你給吹來了。
 你有好好磨練劍術嗎？"
-16,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了。
+16,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_060","<Highlight>ObjectParameter(1)</Highlight>，你來了。
 沒想到你竟然成長為這麼優秀的劍術師了。
 身為老師的我也覺得很自豪啊，呵呵……"
 17,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_070","皮平閣下把發生在王宮中的真相告訴了你經常出入的公會。
@@ -47,7 +47,7 @@ int32,str,str
 18,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_071","我從皮平閣下那裡聽到消息了。
 之前伴隨王宮騷亂產生的種種狀況總算恢復了正常。
 請你也一往無前地繼續揮舞手中的正義之劍吧。"
-19,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_000","這次的大會可是只有艾奧傑亞首屈一指的劍客們
+19,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_000","這次的大會可是只有艾歐澤亞首屈一指的劍客們
 才能參加的特殊比賽。
 半吊子的實力可是無法獲勝的。"
 20,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_001","差不多要開幕式了……
@@ -59,20 +59,20 @@ int32,str,str
 要和納爾組的獲勝者一決雌雄！"
 23,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_012","我作為納爾組的參賽者，為了能和你一戰也會拼盡全力的！
 希望你也能為我加油！"
-24,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_020","雖然沒辦法和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 比試很遺憾，
+24,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_020","雖然沒法和<Highlight>ObjectParameter(1)</Highlight>比試很遺憾，
 但請你作為劍術師公會的一員連我的份也一起加油！"
-25,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_021","我很期待你和布萊克．羅塔斯的決戰。
+25,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_021","我很期待你和布萊克·羅塔斯的決戰。
 真希望會是一場精彩的比賽，預祝你獲得勝利。"
 26,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_030","離舉辦方準備重新舉辦決賽還需要一段時間。
 如果有什麼新進展我會通知你的，希望你能稍等。"
-27,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正好。
+27,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_040","<Highlight>ObjectParameter(1)</Highlight>，你來得正好。
 劍術師公會的大家看到你在烏爾王盃鬥技大會上取得了優勝，
 連練習都更有動力了。"
 28,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_050","阿爾迪斯那傢伙還是沒有回來……"
-29,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎！
+29,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_000","<Highlight>ObjectParameter(1)</Highlight>，歡迎！
 每次看到你這位烏爾王盃鬥技大會冠軍過來
 大家都會更加賣力地進行訓練，是不是很有意思？"
-30,"TEXT_REGWILGLAGUILD_00063_Q2_000_001","想瞭解什麼？"
+30,"TEXT_REGWILGLAGUILD_00063_Q2_000_001","想了解什麼？"
 31,"TEXT_REGWILGLAGUILD_00063_A2_000_001","最近怎麼樣？"
 32,"TEXT_REGWILGLAGUILD_00063_A2_000_002","什麼是「劍術」？"
 33,"TEXT_REGWILGLAGUILD_00063_A2_000_003","取消"
@@ -89,7 +89,7 @@ int32,str,str
 38,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_111","不過，最後能剩下幾個就不知道了。
 我作為魔鬼劍術師公會會長，
 訓練嚴苛好像是在烏爾達哈都出了名的，呵呵……"
-39,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_112","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+39,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_112","對了，<Highlight>ObjectParameter(1)</Highlight>。
 這麼久沒見了，要不要一起揮灑些汗水？
 ……當然說的是練劍了。"
 40,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_100","公會的近況嗎？
@@ -100,7 +100,7 @@ int32,str,str
 42,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_102","不過，最後能剩下幾個就不知道了。
 我作為魔鬼劍術師公會會長，
 訓練嚴苛好像是在烏爾達哈都出了名的，呵呵……"
-43,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_103","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+43,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_103","對了，<Highlight>ObjectParameter(1)</Highlight>。
 這麼久沒見了，要不要一起揮灑些汗水？
 ……當然說的是練劍了。"
 44,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_100","公會的近況嗎？
@@ -110,7 +110,7 @@ int32,str,str
 46,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_102","不過，最後能剩下幾個就不知道了。
 我作為魔鬼劍術師公會會長，
 訓練嚴苛好像是在烏爾達哈都出了名的，呵呵……"
-47,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_103","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+47,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_103","對了，<Highlight>ObjectParameter(1)</Highlight>。
 這麼久沒見了，要不要一起揮灑些汗水？
 ……當然說的是練劍了。"
 48,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_100","公會的近況嗎？
@@ -121,13 +121,13 @@ int32,str,str
 這也是平日裡勤加練習的成果。"
 50,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_102","雖然我被稱作魔鬼劍術師公會會長，
 但對大家的嚴厲和高要求總算是沒有白費。"
-51,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_103"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 意下如何？
+51,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_103","<Highlight>ObjectParameter(1)</Highlight>意下如何？
 要不要也久違地跟我一起出出汗啊？
 當然我說的是練劍……"
 52,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_120","……那種問題，對你來說可有些愚蠢了。
 不過算了，既然你問了，我就來說一說吧。"
 53,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_121","「劍術」即用劍作為武器的戰鬥本領。
-在艾奧傑亞，劍是最普通的武器。"
+在艾歐澤亞，劍是最普通的武器。"
 54,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_122","正因如此，那些一心想要在戰鬥道路上走下去的人，
 都會想要嘗試一下用劍。
 為了讓無法實現的夢想成為現實……"
@@ -147,5 +147,5 @@ int32,str,str
 就像「納爾札爾雙劍」他們那樣……"
 60,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_128","勇猛且華麗……這就是劍術。
 劍術每天都在進化，劍術之路永無止境……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也不要忘記追尋更高的境界！"
+<Highlight>ObjectParameter(1)</Highlight>也不要忘記追尋更高的境界！"
 61,"TEXT_REGWILGLAGUILD_00063_TALK_ACTOR","（★未使用／削除予定★）"

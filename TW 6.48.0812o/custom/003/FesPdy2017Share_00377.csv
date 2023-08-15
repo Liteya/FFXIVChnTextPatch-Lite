@@ -16,29 +16,29 @@ int32,str,str
 就拜託你了！"
 6,"TEXT_FESPDY2017SHARE_00377_ULALA_000_010","我們的新服裝公演如何？
 烏拉拉會釋放自己的全部魅力，
-讓整個艾奧傑亞都愛上烏拉拉愛到不可自拔！"
+讓整個艾歐澤亞都愛上烏拉拉愛到不可自拔！"
 7,"TEXT_FESPDY2017SHARE_00377_NARUMI_000_011","我們的公演怎麼樣？
 如果能讓你滿意就好了！"
 8,"TEXT_FESPDY2017SHARE_00377_MASHAMHAKARACCA_000_012","我們的新服裝公演如何？
 如果能讓等待我們演出的觀眾臉上多一分笑容就再好不過了。"
 9,"TEXT_FESPDY2017SHARE_00377_ULALA_000_020","我們的新服裝公演如何？
-多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 選了烏拉拉當主演，
+多虧<Highlight>ObjectParameter(1)</Highlight>選了烏拉拉當主演，
 這場公演才充分展現了烏拉拉的可愛哦！"
 10,"TEXT_FESPDY2017SHARE_00377_ULALA_000_021","但光這樣還不夠！
 烏拉拉會釋放自己的全部魅力，
-讓整個艾奧傑亞都愛上烏拉拉愛到不可自拔！"
+讓整個艾歐澤亞都愛上烏拉拉愛到不可自拔！"
 11,"TEXT_FESPDY2017SHARE_00377_NARUMI_000_022","我們的新服裝公演如何？
-難得 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 選了我當主演，如果你能滿意就好了！"
+難得<Highlight>ObjectParameter(1)</Highlight>選了我當主演，如果你能滿意就好了！"
 12,"TEXT_FESPDY2017SHARE_00377_NARUMI_000_023","我會加油帶給大家更多笑容，
 請你以後也多加支持小黃鶯！"
 13,"TEXT_FESPDY2017SHARE_00377_MASHAMHAKARACCA_000_024","我們的新服裝公演如何？
 一想到你選了我來當主演，
 我的舞跳得比原來更有勁了。"
 14,"TEXT_FESPDY2017SHARE_00377_MASHAMHAKARACCA_000_025","如果能讓等待我們演出的觀眾
-和選我當主演的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的臉上多一分笑容，那就再好不過了。"
+和選我當主演的<Highlight>ObjectParameter(1)</Highlight>的臉上多一分笑容，那就再好不過了。"
 15,"TEXT_FESPDY2017SHARE_00377_ADORINGFAN_000_030","哇哦！小黃鶯真的是太棒了！你也是這麼認為的吧！
 哎呀，真是太完美了……"
-16,"TEXT_FESPDY2017SHARE_00377_Q1_100_000","想要瞭解什麼？"
+16,"TEXT_FESPDY2017SHARE_00377_Q1_100_000","想要了解什麼？"
 17,"TEXT_FESPDY2017SHARE_00377_A1_100_001","你在這裡做什麼？"
 18,"TEXT_FESPDY2017SHARE_00377_A1_200_008","話說什麼是「女兒節」？"
 19,"TEXT_FESPDY2017SHARE_00377_A1_100_009","取消"
@@ -49,7 +49,7 @@ int32,str,str
 你就是跑遍大街小巷為她們宣傳的冒險者吧。
 同為擁護者，我也為你感到自豪！"
 22,"TEXT_FESPDY2017SHARE_00377_ADORINGFAN_000_042","小黃鶯的活動範圍越來越廣了。
-前一陣的星芒祭聽說她們也展開了活動，把節日變得很熱鬧……
+前一陣的星芒節聽說她們也開展了活動，把節日變得很熱鬧……
 真期待她們以後的精彩表現啊！"
 23,"TEXT_FESPDY2017SHARE_00377_ADORINGFAN_000_050","什麼啊，原來只是想要知道「女兒節」的事情啊。
 連這個節日都不知道的話，就不要談小黃鶯的事情了！"

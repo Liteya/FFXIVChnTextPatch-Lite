@@ -55,7 +55,7 @@ int32,str,str
 45,"TEXT_BANVAN103_02173_TODO_21",""
 46,"TEXT_BANVAN103_02173_TODO_22",""
 47,"TEXT_BANVAN103_02173_TODO_23",""
-48,"TEXT_BANVAN103_02173_MUNAVANU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有件事想拜託你。
+48,"TEXT_BANVAN103_02173_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight>，我有件事想拜託你。
 其實，恩底彌翁在附近築了巢，
 我想請你將這些巢都除去。"
 49,"TEXT_BANVAN103_02173_MUNAVANU_000_001","這些巢穴大多都在高處，一個個摘下來的話會很麻煩。
@@ -64,14 +64,14 @@ int32,str,str
 50,"TEXT_BANVAN103_02173_MUNAVANU_000_002","我已經讓商人魯納瓦努去準備騰雲蛇了。
 拜託你用騰雲蛇的突風吹走4個巢穴，
 謝謝你！"
-51,"TEXT_BANVAN103_02173_LUNAVANU_000_010","這不是、這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎。
+51,"TEXT_BANVAN103_02173_LUNAVANU_000_010","這不是、這不是<Highlight>ObjectParameter(1)</Highlight>嗎。
 騰雲蛇我已經準備好了。
 請你用突風吹走<Sheet(EObj,2006646,0)/>吧！"
 52,"TEXT_BANVAN103_02173_LUNAVANU_000_011","想要再次騎上騰雲蛇的話，就跟我說。
 那麼，就用騰雲蛇那如同颱風般粗暴的突風
 吹走<Sheet(EObj,2006646,0)/>吧！"
 53,"TEXT_BANVAN103_02173_MUNAVANU_000_020","太好了、太好了，看來巢穴都已經被吹走了呢。
-就像感謝豐收的果樹一樣感謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+就像感謝豐收的果樹一樣感謝你，<Highlight>ObjectParameter(1)</Highlight>。
 這下暫時就安全了。"
 54,"TEXT_BANVAN103_02173_MUNAVANU_000_021","恩底彌翁是一種比憤怒時的猴面雀還危險的怪鳥。
 畢竟、畢竟它們會抓走年幼的孩子。

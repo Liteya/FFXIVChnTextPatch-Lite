@@ -49,27 +49,27 @@ int32,str,str
 45,"TEXT_LUCKMB120_03321_TODO_21",""
 46,"TEXT_LUCKMB120_03321_TODO_22",""
 47,"TEXT_LUCKMB120_03321_TODO_23",""
-48,"TEXT_LUCKMB120_03321_ALPHINAUD_000_000","幸好在最終關頭阻擋了遊末邦軍。
+48,"TEXT_LUCKMB120_03321_ALPHINAUD_000_000","幸好在最終關頭阻擋了游末邦軍。
 不知道將來我們會不會和蘭吉特將軍開戰……"
 49,"TEXT_LUCKMB120_03321_ALISAIE_000_005","菲奧……我真是對他刮目相看。
 要是打倒了靈光衛你卻變成了妖靈王，
 我們可就要兩眼一黑了！"
 50,"TEXT_LUCKMB120_03321_RYNE_000_010","我也必須變得更強才行……
-要變得不會輸給遊末邦軍……
+要變得不會輸給游末邦軍……
 變得下次能夠和大家一起戰鬥！"
 51,"TEXT_LUCKMB120_03321_URIANGER_000_015","在伊爾美格的戰鬥結束了，但真正的終結還遠沒有到來……
 我會繼續與你同行。"
-52,"TEXT_LUCKMB120_03321_THANCRED_000_020","……真是辛苦你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+52,"TEXT_LUCKMB120_03321_THANCRED_000_020","……真是辛苦你了，<Highlight>ObjectParameter(1)</Highlight>。
 你的勝利不僅是因為你擁有光之加護，
 還因為你自己足夠強大……真了不起。"
-53,"TEXT_LUCKMB120_03321_THANCRED_000_021","我和敏菲利亞這樣就算是正式和暗之戰士會合，
+53,"TEXT_LUCKMB120_03321_THANCRED_000_021","我和敏菲利亞這樣就算是正式和暗之戰士匯合，
 接下來就一起行動了。"
 54,"TEXT_LUCKMB120_03321_THANCRED_000_022","為了拯救兩個世界，
 也為了完成我的使命……
 希望能和你並肩作戰。"
 55,"TEXT_LUCKMB120_03321_THANCRED_000_023","……謝啦。
 既然這邊都解決了，那我們趕緊回水晶都吧。"
-56,"TEXT_LUCKMB120_03321_THANCRED_000_024","遊末邦軍跑來追我們，
+56,"TEXT_LUCKMB120_03321_THANCRED_000_024","游末邦軍跑來追我們，
 就代表著和水晶都的戰鬥要麼暫時延後了，
 要麼已經結束了。"
 57,"TEXT_LUCKMB120_03321_THANCRED_000_025","水晶都應該不會輕易敗北，但我還是很擔心那邊的情況。
@@ -84,7 +84,7 @@ int32,str,str
 61,"TEXT_LUCKMB120_03321_URIANGER_000_045","掃了一眼看上去和平常一樣熱鬧啊……
 我之前有事的時候也來過好幾次，
 這裡的生命力讓人感到舒適。"
-62,"TEXT_LUCKMB120_03321_MYSTERYVOICE_000_047"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！
+62,"TEXT_LUCKMB120_03321_MYSTERYVOICE_000_047","<Highlight>ObjectParameter(1)</Highlight>？！
 你怎麼突然來了！"
 63,"TEXT_LUCKMB120_03321_MYSTERYVOICE_000_048","關於今後的計劃你還是先和同伴們商量一下比較好，
 我這邊會配合你們的方案採取行動的。"
@@ -100,19 +100,19 @@ int32,str,str
 他是認真的嗎？居然要我們和他聯手？"
 69,"TEXT_LUCKMB120_03321_ALISAIE_000_071","……這樣下去可不行，得先冷靜冷靜。
 也得跟水晶公把各種事情都報告一下，
-還要去確認遊末邦軍的動向。"
-70,"TEXT_LUCKMB120_03321_ALISAIE_000_072","不過， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+還要去確認游末邦軍的動向。"
+70,"TEXT_LUCKMB120_03321_ALISAIE_000_072","不過，<Highlight>ObjectParameter(1)</Highlight>。
 這些事就交給我們去做好了。"
 71,"TEXT_LUCKMB120_03321_ALISAIE_000_073","你拚命討伐了靈光衛，
 現在最應該做的事情就是去休息，
-不然也沒辦法在無影的事情上做出正確的判斷。"
+不然也沒法在無影的事情上做出正確的判斷。"
 72,"TEXT_LUCKMB120_03321_ALISAIE_000_074","所以報告就交給我們吧，你先去休息。
 ……等你養精蓄銳之後我們再聊。"
 73,"TEXT_LUCKMB120_03321_MYSTERYVOICE_000_075","嗯……你好不容易回來了，
 卻碰上了不速之客啊……"
 74,"TEXT_LUCKMB120_03321_MYSTERYVOICE_000_076","我會先去聽取大家的報告的，
-在這期間……就先晚安吧， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
-75,"TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_080","哎呀， <Highlight>ObjectParameter(1)</Highlight> 。
+在這期間……就先晚安吧，<Highlight>ObjectParameter(1)</Highlight>。"
+75,"TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_080","哎呀，<Highlight>ObjectParameter(1)</Highlight>。
 你回來得正好。"
 76,"TEXT_LUCKMB120_03321_GUIDEOFTHEPENDANTS_000_081","這裡收到了要給你的慰問品，
 剛剛送到你的房間裡。

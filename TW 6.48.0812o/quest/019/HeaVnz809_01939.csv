@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ809_01939_SEQ_21",""
 22,"TEXT_HEAVNZ809_01939_SEQ_22",""
 23,"TEXT_HEAVNZ809_01939_SEQ_23",""
-24,"TEXT_HEAVNZ809_01939_TODO_00","在薩雷安精製區獲得<Sheet(EObj,2005870,0)/>"
+24,"TEXT_HEAVNZ809_01939_TODO_00","在薩雷安精製區獲取<Sheet(EObj,2005870,0)/>"
 25,"TEXT_HEAVNZ809_01939_TODO_01","將<Sheet(EventItem,2001692,0)/>交給田園郡的德萊德克斯"
 26,"TEXT_HEAVNZ809_01939_TODO_02",""
 27,"TEXT_HEAVNZ809_01939_TODO_03",""
@@ -53,13 +53,13 @@ int32,str,str
 堆積在這裡的 <Sheet(EventItem,2001692,0)/> 突然消失了！
 那是哥布的血汗 眼淚的結晶 拜託你 快點找到它！"
 49,"TEXT_HEAVNZ809_01939_DRYDOX_000_001","<Sheet(EventItem,2001692,0)/> 一共有4個！
-一定是 青藍之手 偷走的！
+肯定是 青藍之手 偷走的！
 所以拜託你 冒險者 找到它 把它奪回來！"
 50,"TEXT_HEAVNZ809_01939_DRYDOX_000_010","<Sheet(EventItem,2001692,0)/> 一共有4個！
-一定是 青藍之手 偷走的！
+肯定是 青藍之手 偷走的！
 所以拜託你 冒險者 找到它 把它奪回來！"
 51,"TEXT_HEAVNZ809_01939_DRYDOX_000_020","<Sheet(EventItem,2001692,0)/> 一共有4個！
-一定是 青藍之手 偷走的！
+肯定是 青藍之手 偷走的！
 所以拜託你 冒險者 找到它 把它奪回來！"
 52,"TEXT_HEAVNZ809_01939_DRYDOX_000_021","呼哧……呼哧……
 沒問題 沒問題 這就是哥布的 <Sheet(EventItem,2001692,0)/>！

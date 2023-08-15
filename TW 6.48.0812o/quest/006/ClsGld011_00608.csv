@@ -77,8 +77,8 @@ int32,str,str
 61,"TEXT_CLSGLD011_00608_SERENDIPITY_000_11","其實，我才剛當上會長不久……
 你我都是新手，讓我們一起加油吧！"
 62,"TEXT_CLSGLD011_00608_SERENDIPITY_000_12","對了，你的名字是……
-你叫 <Highlight>ObjectParameter(1)</Highlight> 啊，真是個好聽的名字！"
-63,"TEXT_CLSGLD011_00608_SERENDIPITY_000_13","將來，刻有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 名字的飾品，
+你叫<Highlight>ObjectParameter(1)</Highlight>啊，真是個好聽的名字！"
+63,"TEXT_CLSGLD011_00608_SERENDIPITY_000_13","將來，刻有<Highlight>ObjectParameter(1)</Highlight>名字的飾品，
 很可能被擺在名門珠寶店艾斯泰姆裡呢。"
 64,"TEXT_CLSGLD011_00608_SERENDIPITY_000_14","請你以此為目標，
 刻苦努力地去實現夢想吧！"
@@ -87,10 +87,11 @@ int32,str,str
 66,"TEXT_CLSGLD011_00608_SERENDIPITY_000_16","等你裝備上它，
 準備好作為一名雕金匠工作了，請再來找我。
 我會為你準備一個課題，讓你來練練手。"
-67,"TEXT_CLSGLD011_00608_SYSTEM_000_20","學會了新的職業！
-透過裝備收到的道具、
-可以進行職業轉換。"
-68,"TEXT_CLSGLD011_00608_SYSTEM_000_21","在職業轉換後，試試設定「裝備列表」吧！
-當前的裝備將被記錄下來，可以立即切換。"
-69,"TEXT_CLSGLD011_00608_SYSTEM_000_22","在「角色」畫面中、
-可以註冊「裝備列表」，就像更換裝備一樣。"
+67,"TEXT_CLSGLD011_00608_SYSTEM_000_20","新しいクラスを修得しました！
+受け取った道具を装備することで、
+クラスチェンジができます。"
+68,"TEXT_CLSGLD011_00608_SYSTEM_000_21","クラスチェンジしたあとには、
+「ギアセット」を登録してみましょう！
+現在の装備が記録され、即座に着替えられるようになります。"
+69,"TEXT_CLSGLD011_00608_SYSTEM_000_22","「ギアセット」の登録は、
+装備変更と同じ「マイキャラクター」の画面から行えます。"

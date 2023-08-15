@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_LUCKZG022_03507_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-絡尾聚落的達爾里克希望有人能為哥哥報仇。"
+絡尾聚落的達爾裡克希望有人能為哥哥報仇。"
 1,"TEXT_LUCKZG022_03507_SEQ_01",""
 2,"TEXT_LUCKZG022_03507_SEQ_02",""
 3,"TEXT_LUCKZG022_03507_SEQ_03",""
@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_LUCKZG022_03507_SEQ_23",""
 24,"TEXT_LUCKZG022_03507_TODO_00","在<Sheet(EObj,2010391,0)/>等待
 打敗<Sheet(BNpcName,8981,0)/>獲得<Sheet(EventItem,2002739,0)/>"
-25,"TEXT_LUCKZG022_03507_TODO_01","將<Sheet(EventItem,2002739,0)/>交給達爾里克"
+25,"TEXT_LUCKZG022_03507_TODO_01","將<Sheet(EventItem,2002739,0)/>交給達爾裡克"
 26,"TEXT_LUCKZG022_03507_TODO_02",""
 27,"TEXT_LUCKZG022_03507_TODO_03",""
 28,"TEXT_LUCKZG022_03507_TODO_04",""
@@ -61,7 +61,7 @@ int32,str,str
 我卻不聽勸阻還硬拉著哥哥一起去了……"
 51,"TEXT_LUCKZG022_03507_DALRIC_000_003","對於來到這裡的旅行者，我都嘗試委託他們去討伐那傢伙，
 可一直以來都沒有人成功。
-但是我覺得你肯定可以。"
+但是我覺得你肯定能行。"
 52,"TEXT_LUCKZG022_03507_DALRIC_000_004","<Sheet(BNpcName,8981,0)/>就在前往比朗大礦山的路上，
 它把吊橋周圍都當成自己的領地……
 你在那邊稍微埋伏一會兒它就會現身了。"

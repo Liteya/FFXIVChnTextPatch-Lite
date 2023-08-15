@@ -67,7 +67,7 @@ int32,str,str
 55,"TEXT_AKTKMB114_04393_LUCIA_000_020","我先留在這裡安排人手為他們療傷，
 讓他們先吃點東西暖和一下。
 第三站那邊就拜託二位了。"
-56,"TEXT_AKTKMB114_04393_URIANGER_000_025"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+56,"TEXT_AKTKMB114_04393_URIANGER_000_025","<Highlight>ObjectParameter(1)</Highlight>，
 聽說你之前一直在艱難地孤軍奮戰……
 沒事就好。"
 57,"TEXT_AKTKMB114_04393_GRAHATIA_000_030","你也到了！
@@ -75,7 +75,7 @@ int32,str,str
 58,"TEXT_AKTKMB114_04393_COLLEAGUESOLDIER_000_035","你是……！
 尤盧斯他們怎麼了？！"
 59,"TEXT_AKTKMB114_04393_ALISAIE_000_040","啊……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、尤盧斯……"
+<Highlight>ObjectParameter(1)</Highlight>、尤盧斯……"
 60,"TEXT_AKTKMB114_04393_ALISAIE_000_041","我們剛剛趕到這裡不久，
 就發現昆圖斯他……"
 61,"TEXT_AKTKMB114_04393_JULLUS_000_042","昆圖斯大人怎麼了？"
@@ -92,7 +92,7 @@ int32,str,str
 68,"TEXT_AKTKMB114_04393_COLLEAGUESOLDIER_000_049","想活命的就找辦法活下去吧，不用再等命令了。"
 69,"TEXT_AKTKMB114_04393_JULLUS_000_050","昆圖斯大人……"
 70,"TEXT_AKTKMB114_04393_GRAHATIA_000_051","抱歉打斷各位，
-露琪亞剛剛發來了聯繫。"
+露琪亞剛剛發來了聯絡。"
 71,"TEXT_AKTKMB114_04393_GRAHATIA_000_052","救援隊會繼續按照之前的計劃，
 接收第三站中願意接受庇護的人。"
 72,"TEXT_AKTKMB114_04393_COLLEAGUESOLDIER_000_053","你也知道，這裡的人大部分都是傷員。
@@ -109,7 +109,7 @@ int32,str,str
 一直將第一軍團的使命作為心靈支柱，
 但現在……"
 78,"TEXT_AKTKMB114_04393_COLLEAGUESOLDIER_000_061","其實我也對未來很迷茫……"
-79,"TEXT_AKTKMB114_04393_ALPHINAUD_000_065"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+79,"TEXT_AKTKMB114_04393_ALPHINAUD_000_065","<Highlight>ObjectParameter(1)</Highlight>……
 先讓他一個人靜一靜吧……"
 80,"TEXT_AKTKMB114_04393_THANCRED_000_070","看來你們那邊情況也不太好啊。
 雖然有很多話要說，不過還是先處理眼前的事吧。"
@@ -138,9 +138,9 @@ int32,str,str
 92,"TEXT_AKTKMB114_04393_FLAVIUS_000_123","但你是個溫柔的人，我願意相信你……
 我會接受救援隊的庇護。"
 93,"TEXT_AKTKMB114_04393_FLAVIUS_000_130","如果可以的話，能告訴我你的名字嗎？"
-94,"TEXT_AKTKMB114_04393_FLAVIUS_000_131"," <Highlight>ObjectParameter(1)</Highlight> ……
+94,"TEXT_AKTKMB114_04393_FLAVIUS_000_131","<Highlight>ObjectParameter(1)</Highlight>……
 謝謝，我絕不會忘記兩次拯救了我的恩人之名。"
-95,"TEXT_AKTKMB114_04393_ALPHINAUD_000_140"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，其實我有很多話想說。"
+95,"TEXT_AKTKMB114_04393_ALPHINAUD_000_140","<Highlight>ObjectParameter(1)</Highlight>，其實我有很多話想說。"
 96,"TEXT_AKTKMB114_04393_ALPHINAUD_000_141","之前被當做交涉籌碼的事……
 還有聽聞碎璃營地被襲擊的事。"
 97,"TEXT_AKTKMB114_04393_ALPHINAUD_000_142","和阿莉塞一起思考的事……
@@ -175,7 +175,7 @@ int32,str,str
 還要回一趟第三站。"
 112,"TEXT_AKTKMB114_04393_THANCRED_000_183","能拜託你去向露琪亞報告一下嗎？
 我想她應該也有不少問題要問。"
-113,"TEXT_AKTKMB114_04393_THANCRED_000_184","這件事告一段落後，抽空也來聽聽我的偵察結果吧。
+113,"TEXT_AKTKMB114_04393_THANCRED_000_184","這件事告一段落後，抽空也來聽聽我的偵查結果吧。
 也許以後能派上用場。"
 114,"TEXT_AKTKMB114_04393_YSHTOLA_000_190","你回來了。
 看來事情有進展了？"

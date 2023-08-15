@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_AKTKMD104_04412_SEQ_00","魯維達紡絲局的古．拉哈．提亞打算和夥伴們會合。"
-1,"TEXT_AKTKMD104_04412_SEQ_01","古．拉哈．提亞提議和夥伴們會合。在拉札罕雲使宮前的廣場尋找雅．修特拉。"
-2,"TEXT_AKTKMD104_04412_SEQ_02","和夥伴們會合並交流了意見。冒險者一行人決定前往波洛伽護法村進行救援。和薩維奈島塔門附近的阿爾菲諾談談。"
+0,"TEXT_AKTKMD104_04412_SEQ_00","魯維達紡絲局的古·拉哈·提亞打算和夥伴們匯合。"
+1,"TEXT_AKTKMD104_04412_SEQ_01","古·拉哈·提亞提議和夥伴們匯合。在拉札罕雲使宮前的廣場尋找雅·修特拉。"
+2,"TEXT_AKTKMD104_04412_SEQ_02","和夥伴們匯合併交流了意見。冒險者一行人決定前往波洛伽護法村進行救援。和薩維奈島塔門附近的阿爾菲諾談談。"
 3,"TEXT_AKTKMD104_04412_SEQ_03","和阿爾菲諾進行了交談。在薩維奈島眾僧林園的<Sheet(EObj,2012197,0)/>張望，討伐出現的敵人。"
 4,"TEXT_AKTKMD104_04412_SEQ_04","討伐了異形野獸。在眾僧林園的第二個<Sheet(EObj,2012198,0)/>張望，討伐出現的敵人。"
 5,"TEXT_AKTKMD104_04412_SEQ_05","討伐了異形野獸。和薩維奈島波洛伽護法村的阿莉塞談談。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_AKTKMD104_04412_SEQ_21",""
 22,"TEXT_AKTKMD104_04412_SEQ_22",""
 23,"TEXT_AKTKMD104_04412_SEQ_23",""
-24,"TEXT_AKTKMD104_04412_TODO_00","尋找雅．修特拉"
+24,"TEXT_AKTKMD104_04412_TODO_00","尋找雅·修特拉"
 25,"TEXT_AKTKMD104_04412_TODO_01","和阿爾菲諾對話"
 26,"TEXT_AKTKMD104_04412_TODO_02","在<Sheet(EObj,2012197,0)/>張望並討伐出現的敵人"
 27,"TEXT_AKTKMD104_04412_TODO_03","在第二個<Sheet(EObj,2012198,0)/>張望並討伐出現的敵人"
@@ -53,7 +53,7 @@ int32,str,str
 怎麼會……"
 49,"TEXT_AKTKMD104_04412_GRAHATIA_000_010","集合地就在雲使宮，
 只要出了紡絲局就能看到了。"
-50,"TEXT_AKTKMD104_04412_GRAHATIA_000_011","負責調查達摩法區的雅．修特拉和桑克瑞德可能已經到了，
+50,"TEXT_AKTKMD104_04412_GRAHATIA_000_011","負責調查達摩法區的雅·修特拉和桑克瑞德可能已經到了，
 我們先去集合地看看吧！"
 51,"TEXT_AKTKMD104_04412_GRAHATIA_000_012","及納巴哈和紡絲局的諸位也要多加小心。
 雖然轉移商品迫在眉睫，但你們自身的安危才是最重要的。"
@@ -66,7 +66,7 @@ int32,str,str
 你……還記得我嗎？"
 56,"TEXT_AKTKMD104_04412_MATSYA_000_036","之前你還幫我在新港賣過魚，
 回家路上差點被綁架時，也是你救了我……謝謝！"
-57,"TEXT_AKTKMD104_04412_ALPHINAUD_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……阿莉塞……
+57,"TEXT_AKTKMD104_04412_ALPHINAUD_000_040","<Highlight>ObjectParameter(1)</Highlight>……阿莉塞……
 我們必須得想辦法救救波洛伽護法村的那些人！"
 58,"TEXT_AKTKMD104_04412_ALPHINAUD_000_041","摩提夏，抱歉，
 要你陪我們去危險的地方……"
@@ -77,7 +77,7 @@ int32,str,str
 村子周圍的樹林裡全都是可怕的野獸，
 我只好原路返回。"
 61,"TEXT_AKTKMD104_04412_ALPHINAUD_000_044","我明白了，那這樣吧。"
-62,"TEXT_AKTKMD104_04412_ALPHINAUD_000_045"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你一邊警戒一邊在前方開路，
+62,"TEXT_AKTKMD104_04412_ALPHINAUD_000_045","<Highlight>ObjectParameter(1)</Highlight>，你一邊警戒一邊在前方開路，
 一旦被異形野獸襲擊，便就地討伐它們。"
 63,"TEXT_AKTKMD104_04412_ALPHINAUD_000_046","我和阿莉塞帶著摩提夏藏在樹林中，
 等確定安全了再前進。"
@@ -118,10 +118,10 @@ int32,str,str
 治療魔法已經無法阻止他的生命流失了……"
 88,"TEXT_AKTKMD104_04412_PALAKASMAND04412_000_141","這是……夢嗎……
 醒過來……是不是就能見到……往常的……"
-89,"TEXT_AKTKMD104_04412_PALAKASMAND04412_000_142","………………。"
+89,"TEXT_AKTKMD104_04412_PALAKASMAND04412_000_142","……"
 90,"TEXT_AKTKMD104_04412_SYSTEM_000_143","無論如何呼喚，這個人也無法做出回應了。"
 91,"TEXT_AKTKMD104_04412_SYSTEM_000_144","這個人已經去世了……"
-92,"TEXT_AKTKMD104_04412_ALPHINAUD_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+92,"TEXT_AKTKMD104_04412_ALPHINAUD_000_150","<Highlight>ObjectParameter(1)</Highlight>……
 這些就是全部的倖存者了嗎。"
 93,"TEXT_AKTKMD104_04412_ALPHINAUD_000_151","但願其他人都已經逃走了。
 可如果變成了異形野獸，

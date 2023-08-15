@@ -58,9 +58,9 @@ int32,str,str
 哇，這不就是頭領要找的人才嗎？！"
 51,"TEXT_STMBDZ215_02687_HANSAKU_000_003","哎呀，失禮了，我叫半作。
 我想委託你一件事……對了，你叫什麼？"
-52,"TEXT_STMBDZ215_02687_HANSAKU_000_004"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊……我要委託你的事其實很簡單。
+52,"TEXT_STMBDZ215_02687_HANSAKU_000_004","<Highlight>ObjectParameter(1)</Highlight>啊……我要委託你的事其實很簡單。
 只要去見一下
-掌管海賊眾帳房的月影老大就行。"
+掌管海賊眾賬房的月影老大就行。"
 53,"TEXT_STMBDZ215_02687_HANSAKU_000_005","自從來自帝國的壓力增大，
 黃金港那邊的人因恐懼而取消了和海賊眾的交易。
 所以老大正在找新的交易對象。"
@@ -91,14 +91,14 @@ int32,str,str
 64,"TEXT_STMBDZ215_02687_SUZUME_100_013","喂，你們，快走啊！"
 65,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_014","讓你受驚了，剛才忙著別的事。
 那麼，你這個異鄉人，找海賊眾有什麼事？"
-66,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_015","嗯， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下
+66,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_015","嗯，<Highlight>ObjectParameter(1)</Highlight>閣下
 和東阿爾迪納德商會的掌櫃相識啊。
 還是半作介紹來的啊……哎呀，真是太好了。"
 67,"TEXT_STMBDZ215_02687_SUZUME_000_016","老大，這不是正好嗎？
 話說回來，半作那傢伙……
 竟然不給客人帶路，得好好教訓一番。"
 68,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_017","請原諒部下半作的失禮之舉。
-我是掌管海賊眾帳房的月影。
+我是掌管海賊眾賬房的月影。
 這位是我的左膀右臂，雀……"
 69,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_018","你似乎已經從半作那裡聽了一些簡單的說明，
 請容我說明海賊眾面臨的窘境。"
@@ -116,9 +116,9 @@ int32,str,str
 74,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_023","所以說，現在的情況是，空有存貨而囊中羞澀。
 所以，我們正在想辦法找到沒有被帝國支配的商會，
 比如東阿爾迪納德商會，進行交易。不過一直苦於沒有人脈。"
-75,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_024"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+75,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_024","<Highlight>ObjectParameter(1)</Highlight>閣下，
 作為第一步，可否前去確認他們所說之真偽？"
-76,"TEXT_STMBDZ215_02687_TSUKIKAGE_100_024","雀，把東西拿給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。"
+76,"TEXT_STMBDZ215_02687_TSUKIKAGE_100_024","雀，把東西拿給<Highlight>ObjectParameter(1)</Highlight>閣下。"
 77,"TEXT_STMBDZ215_02687_SUZUME_000_025","我想他們說的是謊話，不過萬一是真的，可就麻煩了。
 我們和東阿爾迪納德商會交易的計劃也就泡湯了。"
 78,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_026","這是他們揚起的<Sheet(EventItem,2002223,0)/>和<Sheet(EventItem,2002224,0)/>。
@@ -128,42 +128,42 @@ int32,str,str
 他們揚起的<Sheet(EventItem,2002223,0)/>和<Sheet(EventItem,2002224,0)/>，
 真相就可見分曉了。"
 80,"TEXT_STMBDZ215_02687_SUZUME_000_029","我們的任務就是管好海賊眾的錢包。
-記帳的也是我……
+記賬的也是我......
 也許是父母遺傳的，做細緻的活也感覺順手。"
-81,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_030","歡迎， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+81,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_030","歡迎，<Highlight>ObjectParameter(1)</Highlight>。
 有什麼事嗎？"
-82,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_031","<Sheet(EventItem,2002223,0)/>和<Sheet(EventItem,2002224,0)/>嗎……
+82,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_031","<Sheet(EventItem,2002223,0)/>和<Sheet(EventItem,2002224,0)/>嗎......
 你是要確認被海賊眾抓獲的船隻
 是否屬於我商會，對吧？"
-83,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_032","很抱歉，我只負責交易，所以並不瞭解。
-關於商船的事，負責採購的琪琪茉應該很瞭解。
+83,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_032","很抱歉，我只負責交易，所以並不了解。
+關於商船的事，負責採購的琪琪茉應該很了解。
 她就在第一防波堤，你去問問她吧。"
-84,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_039","關於商船的事，負責採購的琪琪茉應該很瞭解。
+84,"TEXT_STMBDZ215_02687_SHOUNIN02687_000_039","關於商船的事，負責採購的琪琪茉應該很了解。
 她就在第一防波堤，你去問問她吧。"
-85,"TEXT_STMBDZ215_02687_KIKIMO_000_040","咦，你是傳說中的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎？
-原來如此，你想確認被海賊眾抓獲的船隻的出處……
-那麼，請容我查看一下他們的旗幟和帳冊。"
+85,"TEXT_STMBDZ215_02687_KIKIMO_000_040","咦，你是傳說中的<Highlight>ObjectParameter(1)</Highlight>嗎？
+原來如此，你想確認被海賊眾抓獲的船隻的出處......
+那麼，請容我查看一下他們的旗幟和賬冊。"
 86,"TEXT_STMBDZ215_02687_KIKIMO_000_041","正如你所料，那艘船和我商會無關。
 他們是被紅玉海的海賊眾抓獲的對吧？
 請告訴海賊眾，他們可以「隨意處置」。"
 87,"TEXT_STMBDZ215_02687_KIKIMO_000_042","話說回來，真是可惜了……
 如果前來確認的是別人，那我就可以謊稱被抓獲的船隻屬於我們，
 然後將那艘船上的貨物佔為己有了。"
-88,"TEXT_STMBDZ215_02687_KIKIMO_000_043","如果只看帳冊，那艘船裡裝著非常好的商品。
+88,"TEXT_STMBDZ215_02687_KIKIMO_000_043","如果只看賬冊，那艘船裡裝著非常好的商品。
 即便繳納他們要求的紅玉錢，也能獲得可觀的收入。
 作為負責採購的人，我的心境很是不平衡。"
 89,"TEXT_STMBDZ215_02687_KIKIMO_000_044","如果海賊眾想找買家的話，
 麻煩你告訴他們，請務必來找我。"
 90,"TEXT_STMBDZ215_02687_KIKIMO_000_045","不過，真沒想到，你在海盜中也有人脈。
 今後也請多多關照我們商會。"
-91,"TEXT_STMBDZ215_02687_SUZUME_000_049"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，你沒事啊。
+91,"TEXT_STMBDZ215_02687_SUZUME_000_049","<Highlight>ObjectParameter(1)</Highlight>閣下，你沒事啊。
 很抱歉勞煩你去了一趟黃金港。"
-92,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_050"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，回來了啊，辛苦了。
+92,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_050","<Highlight>ObjectParameter(1)</Highlight>閣下，回來了啊，辛苦了。
 先把之前託付給你的物品還給我吧。"
 93,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_051","果然他們說的是謊話……
 不僅如此，這位叫琪琪茉的人對船上的貨物有興趣！
 真沒想到事情會如此順利！"
 94,"TEXT_STMBDZ215_02687_SUZUME_000_052","老大的目標終於可以實現了！"
 95,"TEXT_STMBDZ215_02687_TSUKIKAGE_000_053","是啊，多虧有人願意接受我們的委託！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下……請你再次協助我們吧。
+<Highlight>ObjectParameter(1)</Highlight>閣下……請你再次協助我們吧。
 幫助我們拯救日薄西山的海賊眾！"

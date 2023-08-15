@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_BANLOP117_04703_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-希望的貨艙的營運威很擔心外出的同伴。"
+希望的貨艙的運營威很擔心外出的同伴。"
 1,"TEXT_BANLOP117_04703_SEQ_01","和熒光洞的邁著碎步的兔兔族對話"
 2,"TEXT_BANLOP117_04703_SEQ_02","將委託物品交給邁著碎步的兔兔族"
-3,"TEXT_BANLOP117_04703_SEQ_03","向營運威報告"
+3,"TEXT_BANLOP117_04703_SEQ_03","向運營威報告"
 4,"TEXT_BANLOP117_04703_SEQ_04",""
 5,"TEXT_BANLOP117_04703_SEQ_05",""
 6,"TEXT_BANLOP117_04703_SEQ_06",""
@@ -30,7 +30,7 @@ int32,str,str
 23,"TEXT_BANLOP117_04703_SEQ_23",""
 24,"TEXT_BANLOP117_04703_TODO_00","和熒光洞的邁著碎步的兔兔族對話"
 25,"TEXT_BANLOP117_04703_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給熒光洞的邁著碎步的兔兔族</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP117_04703_TODO_02","向營運威報告"
+26,"TEXT_BANLOP117_04703_TODO_02","向運營威報告"
 27,"TEXT_BANLOP117_04703_TODO_03",""
 28,"TEXT_BANLOP117_04703_TODO_04",""
 29,"TEXT_BANLOP117_04703_TODO_05",""
@@ -63,7 +63,7 @@ int32,str,str
 幫他修理工具！"
 51,"TEXT_BANLOP117_04703_SUPPORTER04703_000_005","嗶嗶嗶……因材料提供委託而處於待機狀態……"
 52,"TEXT_BANLOP117_04703_LOPORRIT04703_000_010","唉！工具壞掉了，我正發愁呢！
-我為寫新菜品的菜單，出來收集食材，
+我為寫新菜品的選單，出來收集食材，
 可沒想到這裡的蘑菇這麼結實！"
 53,"TEXT_BANLOP117_04703_LOPORRIT04703_000_011","為了修理缺損的刀刃，
 我想麻煩你幫忙製作<Sheet(Item,38877,0)/>作為替代品！
@@ -97,8 +97,8 @@ int32,str,str
 這下就可以修復工具，收集到蘑菇了！
 我一定會像廚行威那樣製作出美味的食物！"
 65,"TEXT_BANLOP117_04703_LOPORRIT04703_000_027","我收集到足夠的蘑菇後再回去！
-就麻煩你把這邊的情況跟營運威彙報一下吧！"
-66,"TEXT_BANLOP117_04703_MANAGINGWAY_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人，歡迎回來！
+就麻煩你把這邊的情況跟運營威彙報一下吧！"
+66,"TEXT_BANLOP117_04703_MANAGINGWAY_000_030","<Highlight>ObjectParameter(1)</Highlight>大人，歡迎回來！
 同伴的問題已經解決，真是太好了！"
 67,"TEXT_BANLOP117_04703_MANAGINGWAY_000_031","他的夢想就是將進化菌類做成菜餚，
 一來能驅除菌類，二來能享受美食的樂趣，一舉兩得！

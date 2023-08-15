@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE118_01192_SEQ_00","沙之家的敏菲利亞有事情想要委託冒險者。"
-1,"TEXT_GAIUSE118_01192_SEQ_01","終於做好了遷移拂曉本部的準備。將此事傳達給沙之家的于里昂熱。"
-2,"TEXT_GAIUSE118_01192_SEQ_02","在和于里昂熱交談的途中，聽見了敏菲利亞的尖叫聲。原來一個白袍無影出現在她的面前。白袍無影應該往黃昏灣去了，追上他。"
+1,"TEXT_GAIUSE118_01192_SEQ_01","終於做好了遷移拂曉本部的準備。將此事傳達給沙之家的於里昂熱。"
+2,"TEXT_GAIUSE118_01192_SEQ_02","在和於里昂熱交談的途中，聽見了敏菲利亞的尖叫聲。原來一個白袍無影出現在她的面前。白袍無影應該往黃昏灣去了，追上他。"
 3,"TEXT_GAIUSE118_01192_SEQ_03","發現了白袍無影。繼續追蹤白袍無影，並打倒3隻<Sheet(BNpcName,692,0)/>。"
 4,"TEXT_GAIUSE118_01192_SEQ_04","成功打倒了<Sheet(BNpcName,692,0)/>。繼續追蹤白袍無影，並打倒<Sheet(BNpcName,693,0)/>。"
 5,"TEXT_GAIUSE118_01192_SEQ_05","成功打倒了<Sheet(BNpcName,693,0)/>。繼續追蹤白袍無影，並打倒2隻<Sheet(BNpcName,694,0)/>。"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSE118_01192_SEQ_21",""
 22,"TEXT_GAIUSE118_01192_SEQ_22",""
 23,"TEXT_GAIUSE118_01192_SEQ_23",""
-24,"TEXT_GAIUSE118_01192_TODO_00","和于里昂熱對話"
+24,"TEXT_GAIUSE118_01192_TODO_00","和於里昂熱對話"
 25,"TEXT_GAIUSE118_01192_TODO_01","追蹤白袍無影"
 26,"TEXT_GAIUSE118_01192_TODO_02","追蹤白袍無影 打倒3隻<Sheet(BNpcName,692,0)/>"
 27,"TEXT_GAIUSE118_01192_TODO_03","追蹤白袍無影 打倒<Sheet(BNpcName,693,0)/>"
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_GAIUSE118_01192_TODO_23",""
 48,"TEXT_GAIUSE118_01192_MINFILIA_000_000","現在得到了格里達尼亞的支援，
 看來一切已經準備就緒了。
-這些全都是透過你的努力得來的。"
+這些全都是通過你的努力得來的。"
 49,"TEXT_GAIUSE118_01192_MINFILIA_000_001","我們準備分成幾組人，
 分別入駐喪靈鐘。"
 50,"TEXT_GAIUSE118_01192_MINFILIA_000_002","因為組成大部隊一起行動的話，
@@ -61,17 +61,17 @@ int32,str,str
 身為光之戰士的你……當然屬於後者了。"
 52,"TEXT_GAIUSE118_01192_MINFILIA_000_004","等我們轉移後，準備開放這個沙之家，
 讓這裡成為隸屬「拂曉」的冒險者們的聚集地。
-于里昂熱先生接下來會擔任這裡的主管。"
+於里昂熱先生接下來會擔任這裡的主管。"
 53,"TEXT_GAIUSE118_01192_MINFILIA_000_005","雖然我已經極力說服他一起去喪靈鐘……
-但是于里昂熱先生提出了強烈的要求。"
+但是於里昂熱先生提出了強烈的要求。"
 54,"TEXT_GAIUSE118_01192_MINFILIA_000_006","他似乎是想身兼這裡的主管的同時，
 專心調查如何解決蠻神問題。"
 55,"TEXT_GAIUSE118_01192_MINFILIA_000_007","而且，他說這裡還有沒完成的工作。
 一定是關於阿莉塞的事情吧……"
 56,"TEXT_GAIUSE118_01192_MINFILIA_000_008","他還表示如果我們發生什麼問題的話，他便會馬上趕過來。
 所以這裡就交給他管理，我們放心出發吧。"
-57,"TEXT_GAIUSE118_01192_MINFILIA_000_009","好了，可以請你去跟于里昂熱先生說聲我們已經準備就緒了嗎？
-你剛才可能正巧沒碰見他，他應該還在原來的位置上。"
+57,"TEXT_GAIUSE118_01192_MINFILIA_000_009","好了，可以請你去跟於里昂熱先生說聲我們已經準備就緒了嗎？
+你剛才可能正巧沒碰見他，估計他還在原來的位置上。"
 58,"TEXT_GAIUSE118_01192_URIANGER_000_010","準備工作……一切盡悉。
 本部遷移後，還有訪客來這裡時，
 我會將他們引導至喪靈鐘……"
@@ -109,7 +109,7 @@ int32,str,str
 76,"TEXT_GAIUSE118_01192_MINFILIA_000_040","不甘心……這是怎麼回事！
 拉哈布雷亞應該已經被那個人打倒了啊？！"
 77,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_041","(-？？？？-)我還以為擊敗了深淵祭司的你們，
-多少能對我們的事情有些瞭解呢……"
+多少能對我們的事情有些了解呢……"
 78,"TEXT_GAIUSE118_01192_ELIDIBUSEORZEA_000_042","(-？？？？-)我們是不死之身。
 即使你們破壞了作為依附於人的媒介——暗之水晶，
 我們也不會被消滅。"
@@ -156,20 +156,20 @@ int32,str,str
 剛才的尖叫聲是怎麼回事？！"
 103,"TEXT_GAIUSE118_01192_TATARU_000_073","是頭暈嗎？還是突然起身引起的暈眩？
 你要是累了的話，就請喝塔塔露的特製藥茶……"
-104,"TEXT_GAIUSE118_01192_MINFILIA_000_074","于里昂熱先生，我有件事要拜託你。
-請你聯繫委員會，申請「禁書」的閱覽許可！"
-105,"TEXT_GAIUSE118_01192_MINFILIA_000_075","我們一定要更瞭解無影……
-瞭解他們的事情……"
+104,"TEXT_GAIUSE118_01192_MINFILIA_000_074","於里昂熱先生，我有件事要拜託你。
+請你聯絡委員會，申請「禁書」的閱覽許可！"
+105,"TEXT_GAIUSE118_01192_MINFILIA_000_075","我們必須要更了解無影……
+了解他們的事情……"
 106,"TEXT_GAIUSE118_01192_URIANGER_000_076","難道說，剛才的尖叫聲是因為無影？"
 107,"TEXT_GAIUSE118_01192_URIANGER_000_077","剛才趕往這裡的途中……
 我察覺到有股氣息向街道那邊移動。莫非那就是無影？"
-108,"TEXT_GAIUSE118_01192_MINFILIA_000_078"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，快追上去！
+108,"TEXT_GAIUSE118_01192_MINFILIA_000_078","<Highlight>ObjectParameter(1)</Highlight>，快追上去！
 那個白袍無影給人一種很不好的感覺！"
 109,"TEXT_GAIUSE118_01192_URIANGER_000_079","塔塔露小姐……我需要你的協助。"
 110,"TEXT_GAIUSE118_01192_MINFILIA_000_090","那個白袍無影給人一種很不好的感覺！
 就像是要發生不好事情的前兆，
 ……不，倒不如說他就是前兆。"
-111,"TEXT_GAIUSE118_01192_MINFILIA_000_091"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+111,"TEXT_GAIUSE118_01192_MINFILIA_000_091","<Highlight>ObjectParameter(1)</Highlight>！
 請你追上那個白袍無影！"
 112,"TEXT_GAIUSE118_01192_TATARU_000_095","總感覺忐忑不安的。
 不會是要發生什麼可怕的事情吧？"
@@ -209,7 +209,7 @@ int32,str,str
 在不會被任何人打擾的地方……"
 130,"TEXT_GAIUSE118_01192_MINFILIA_000_140","你平安回來真是太好了……
 我叫你去追後，就一直很擔心你。"
-131,"TEXT_GAIUSE118_01192_MINFILIA_000_141","真的很抱歉， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+131,"TEXT_GAIUSE118_01192_MINFILIA_000_141","真的很抱歉，<Highlight>ObjectParameter(1)</Highlight>。
 雖說我當時被嚇得驚慌失措，但不應該貿然讓你以身犯險。
 不過……後來那個白袍無影怎麼樣了？"
 132,"TEXT_GAIUSE118_01192_MINFILIA_000_142","他說海德林會恢復原本的姿態？
@@ -219,8 +219,8 @@ int32,str,str
 但從他說的那些話上推斷，那個人果然不是站在我們這一邊。"
 134,"TEXT_GAIUSE118_01192_MINFILIA_000_144","總之，我這邊會調查關於他的事情。
 你先好好休息，從戰鬥的疲憊中恢復過來。
-謝謝你了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
-135,"TEXT_GAIUSE118_01192_TATARU_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！還好你沒事！
+謝謝你了，<Highlight>ObjectParameter(1)</Highlight>。"
+135,"TEXT_GAIUSE118_01192_TATARU_000_150","<Highlight>ObjectParameter(1)</Highlight>！還好你沒事！
 敏菲利亞正等著你呢。"
 136,"TEXT_GAIUSE118_01192_URIANGER_000_155","友朋歸來不亦樂乎。
 好了，快到拂曉之間去吧……"

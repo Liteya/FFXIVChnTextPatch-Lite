@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_STMBDZ824_02852_SEQ_23",""
 24,"TEXT_STMBDZ824_02852_TODO_00","將<Sheet(EventItem,2002351,0)/>放到<Sheet(EObj,2008856,0)/>"
 25,"TEXT_STMBDZ824_02852_TODO_01","在<Sheet(EObj,2008856,0)/>等待
-對<Sheet(BNpcName,6281,0)/>使用<Sheet(EventItem,2002352,0)/>並將其討伐獲得邪眼"
+對<Sheet(BNpcName,6281,0)/>使用<Sheet(EventItem,2002352,0)/>並將其討伐獲取邪眼"
 26,"TEXT_STMBDZ824_02852_TODO_02","將<Sheet(EventItem,2002353,0)/>交給茉特"
 27,"TEXT_STMBDZ824_02852_TODO_03",""
 28,"TEXT_STMBDZ824_02852_TODO_04",""

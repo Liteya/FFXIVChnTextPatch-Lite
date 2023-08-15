@@ -2,15 +2,15 @@
 #,,
 int32,str,str
 0,"TEXT_BANLOP002_04682_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-希望的貨艙的夢明威打算擴充夢明工作室。"
+希望的貨艙的夢明威打算擴展夢明工作室。"
 1,"TEXT_BANLOP002_04682_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-和夢明威進行了交談。在最偉大的森林尋找扳擰威，詢問她是否願意幫忙建設下一個場地。"
+和夢明威進行了交談。在最偉大的森林尋找扳擰威，詢問他是否願意幫忙建設下一個場地。"
 2,"TEXT_BANLOP002_04682_SEQ_02","和扳擰威進行了交談。扳擰威說抽不出時間，於是將發明威介紹給了冒險者。在嘆息海最偉大的森林尋找發明威，找到他後和夢明威談談。"
 3,"TEXT_BANLOP002_04682_SEQ_03","找到了發明威，和夢明威進行了交談。夢明威說明了活動的原委，發明威十分爽快地答應幫忙。再次和希望的貨艙的夢明威談談。"
 4,"TEXT_BANLOP002_04682_SEQ_04","再次和夢明威進行了交談。準備建設新場地所需的素材，並交給希望的貨艙的夢明威。"
-5,"TEXT_BANLOP002_04682_SEQ_05","將建設新場地所需的素材交給了夢明威。在發明威的努力下，機械臺建設完成，可以製作機器了。繼續協助夢明威他們，幫助兔兔族建設尋找夢想的場所吧。"
+5,"TEXT_BANLOP002_04682_SEQ_05","將建設新場地所需的素材交給了夢明威。在發明威的努力下，機械台建設完成，可以製作機器了。繼續協助夢明威他們，幫助兔兔族建設尋找夢想的場所吧。"
 6,"TEXT_BANLOP002_04682_SEQ_06",""
 7,"TEXT_BANLOP002_04682_SEQ_07",""
 8,"TEXT_BANLOP002_04682_SEQ_08",""
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANLOP002_04682_TODO_21",""
 46,"TEXT_BANLOP002_04682_TODO_22",""
 47,"TEXT_BANLOP002_04682_TODO_23",""
-48,"TEXT_BANLOP002_04682_DREAMINGWAY_000_000","多虧了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫忙，
+48,"TEXT_BANLOP002_04682_DREAMINGWAY_000_000","多虧了<Highlight>ObjectParameter(1)</Highlight>幫忙，
 我們的活動也終於順利地邁出了第一步！
 就照這個樣子，為其他人展示夢想做好準備吧！"
 49,"TEXT_BANLOP002_04682_DREAMINGWAY_000_001","為此我們還需要更多心懷夢想的兔兔族來參與……"
@@ -63,8 +63,8 @@ int32,str,str
 53,"TEXT_BANLOP002_04682_DREAMINGWAY_000_005","（★未使用／削除予定★）"
 54,"TEXT_BANLOP002_04682_MANAGINGWAY_000_006","（★未使用／削除予定★）"
 55,"TEXT_BANLOP002_04682_MANAGINGWAY_000_007","心懷夢想的兔兔族嗎……"
-56,"TEXT_BANLOP002_04682_MANAGINGWAY_000_008","或許她正適合？"
-57,"TEXT_BANLOP002_04682_DREAMINGWAY_000_009","哦？你心裡有適合的人選嗎？！"
+56,"TEXT_BANLOP002_04682_MANAGINGWAY_000_008","或許她正合適？"
+57,"TEXT_BANLOP002_04682_DREAMINGWAY_000_009","哦？你心裡有合適的人選嗎？！"
 58,"TEXT_BANLOP002_04682_MANAGINGWAY_000_010","我有一位喜歡修理各種物件的同伴。
 只不過她不喜歡被人指使，
 要說服她可能不太容易……"
@@ -75,7 +75,7 @@ int32,str,str
 62,"TEXT_BANLOP002_04682_MANAGINGWAY_000_014","她叫扳擰威。
 現在這個時間……她應該在最偉大的森林修理機器吧。"
 63,"TEXT_BANLOP002_04682_DREAMINGWAY_000_015","我知道了！我去去就回！"
-64,"TEXT_BANLOP002_04682_DREAMINGWAY_000_016"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你能和我一起走一趟嗎？"
+64,"TEXT_BANLOP002_04682_DREAMINGWAY_000_016","<Highlight>ObjectParameter(1)</Highlight>，你能和我一起走一趟嗎？"
 65,"TEXT_BANLOP002_04682_DREAMINGWAY_000_017","她就是扳擰威嗎？"
 66,"TEXT_BANLOP002_04682_DREAMINGWAY_000_020","那個……打擾一下，你是扳擰威嗎？"
 67,"TEXT_BANLOP002_04682_REPAIRINGWAY_000_021","沒錯……你是？"
@@ -99,7 +99,7 @@ int32,str,str
 只不過除了幫忙修好東西以外，
 他還總會多做出一些額外的改動。"
 77,"TEXT_BANLOP002_04682_REPAIRINGWAY_100_030","比如之前我拜託他修理胡蘿蔔栽培機的時候，
-他給機器額外新增了手腳，結果機器開始邊跳舞邊澆水……
+他給機器額外添加了手腳，結果機器開始邊跳舞邊澆水……
 沒過多久他就被開除了。"
 78,"TEXT_BANLOP002_04682_REPAIRINGWAY_000_031","即便如此，我想他在你們的活動中
 應該能夠自由、充分地發揮出自己的才能。"
@@ -126,7 +126,7 @@ int32,str,str
 90,"TEXT_BANLOP002_04682_INVENTINGWAY_000_045","你說你叫夢明威對吧？
 你這個傢伙……這可真是……"
 91,"TEXT_BANLOP002_04682_INVENTINGWAY_000_046","太棒了！"
-92,"TEXT_BANLOP002_04682_INVENTINGWAY_000_047","沒別的，我這個人打從心裡喜歡搗鼓機器！
+92,"TEXT_BANLOP002_04682_INVENTINGWAY_000_047","沒別的，我這個人打心底喜歡搗鼓機器！
 所以一直待在研究室裡負責設計開發來著！"
 93,"TEXT_BANLOP002_04682_INVENTINGWAY_100_047","那些協助機什麼的都是我的作品哦！
 只不過因為搞錯了人類的尺寸，
@@ -164,25 +164,25 @@ int32,str,str
 108,"TEXT_BANLOP002_04682_INVENTINGWAY_000_061","哦——！這裡是什麼情況？！"
 109,"TEXT_BANLOP002_04682_SUPPORTER_000_062","夢明威好像有話要說！"
 110,"TEXT_BANLOP002_04682_DREAMINGWAY_000_070","你來了啊！
-營運威跟發明威聊了聊後，
-把他需要的東西都列出來了！"
-111,"TEXT_BANLOP002_04682_DREAMINGWAY_000_071","其中有需要 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 幫忙製作的東西，
+我跟發明威聊了聊，
+運營威把他需要的東西都列出來了！"
+111,"TEXT_BANLOP002_04682_DREAMINGWAY_000_071","其中有需要<Highlight>ObjectParameter(1)</Highlight>幫忙製作的東西，
 我來為你說明一下！"
 112,"TEXT_BANLOP002_04682_DREAMINGWAY_000_072","嗯……他想讓你製作<Sheet(Item,38845,0)/>——特製精密工具！"
 113,"TEXT_BANLOP002_04682_DREAMINGWAY_000_073","嗯……他想讓你製作<Sheet(Item,38845,0)/>——特製絕緣體！"
 114,"TEXT_BANLOP002_04682_DREAMINGWAY_000_074","嗯……他想讓你製作<Sheet(Item,38845,0)/>——特製機械油！"
-115,"TEXT_BANLOP002_04682_DREAMINGWAY_000_075","營運威已經準備好了製作所需的素材，
+115,"TEXT_BANLOP002_04682_DREAMINGWAY_000_075","運營威已經準備好了製作所需的素材，
 請你收下！"
-116,"TEXT_BANLOP002_04682_DREAMINGWAY_000_076","素材不夠用時，你可以從夢明協助機那裡獲得，
+116,"TEXT_BANLOP002_04682_DREAMINGWAY_000_076","素材不夠用時，你可以從夢明協助機那裡獲取，
 那就拜託你了！"
 117,"TEXT_BANLOP002_04682_DREAMINGWAY_000_077","咦？素材不夠用了嗎？
-你可以從夢明協助機那裡獲得，
+你可以從夢明協助機那裡獲取，
 需要多少就拿多少吧！"
 118,"TEXT_BANLOP002_04682_DREAMINGWAY_000_078","咦？素材不夠用了嗎？
-你可以從夢明協助機那裡獲得，
+你可以從夢明協助機那裡獲取，
 需要多少就拿多少吧！"
 119,"TEXT_BANLOP002_04682_DREAMINGWAY_000_0079","咦？素材不夠用了嗎？
-你可以從夢明協助機那裡獲得，
+你可以從夢明協助機那裡獲取，
 需要多少就拿多少吧！"
 120,"TEXT_BANLOP002_04682_SUPPORTER_000_080","稍等，這就把素材給你……咦？！
 你不是已經有了嗎！"
@@ -198,7 +198,7 @@ int32,str,str
 給你，請收下吧！"
 126,"TEXT_BANLOP002_04682_DREAMINGWAY_000_090","拜託你的東西做好了嗎？！"
 127,"TEXT_BANLOP002_04682_DREAMINGWAY_000_091","嗚哇！好厲害！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的手藝真好，
+<Highlight>ObjectParameter(1)</Highlight>的手藝真好，
 沒想到你製作東西也這麼在行！"
 128,"TEXT_BANLOP002_04682_DREAMINGWAY_000_092","這樣就能讓發明威開始開發新機器了！
 我這就去告訴他！"
@@ -222,20 +222,20 @@ int32,str,str
 136,"TEXT_BANLOP002_04682_TALKINGWAY_000_107","……就讓我再關注你們一段時間吧。"
 137,"TEXT_BANLOP002_04682_MANAGINGWAY_000_108","那個傢伙是……？"
 138,"TEXT_BANLOP002_04682_DREAMINGWAY_000_109","不管怎麼樣！
-機械臺也順利完成了，
+機械台也順利完成了，
 也有部分同伴對此產生了興趣，實在是太好了！"
 139,"TEXT_BANLOP002_04682_DREAMINGWAY_000_110","就照這樣，不斷地建設新的場地，
 將這裡打造成大家尋夢的地方吧！"
-140,"TEXT_BANLOP002_04682_SYSTEM_000_111","機械臺建設完成了！
+140,"TEXT_BANLOP002_04682_SYSTEM_000_111","機械台建設完成了！
 為了讓更多的兔兔族找到夢想，
 努力進一步擴張吧！"
 141,"TEXT_BANLOP002_04682_SYSTEM_000_112","與兔兔族「夢明工作室」之間的關係程度到達了「信賴」。"
-142,"TEXT_BANLOP002_04682_SYSTEM_000_113","冒險者協助建設機械臺，贏得了信賴。"
-143,"TEXT_BANLOP002_04682_SYSTEM_000_114","今後可以在夢明工作室的營運威處，
+142,"TEXT_BANLOP002_04682_SYSTEM_000_113","冒險者協助建設機械台，贏得了信賴。"
+143,"TEXT_BANLOP002_04682_SYSTEM_000_114","今後可以在夢明工作室的運營威處，
 接受新的友好部族日常任務。"
 144,"TEXT_BANLOP002_04682_SYSTEM_000_115","同時，作為獎勵，
 友好關係等級提升的當天，
-可從營運威處接受的友好部族日常任務數量追加3個。"
+可從運營威處接受的友好部族日常任務數量追加3個。"
 145,"TEXT_BANLOP002_04682_SYSTEM_000_116","領取完所有友好關係等級提升前發行的友好部族日常任務後，
 將會發行作為獎勵的追加任務。
 受理限額未達到上限即可接受追加任務。"

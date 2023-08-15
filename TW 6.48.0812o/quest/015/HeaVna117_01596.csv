@@ -3,9 +3,9 @@
 int32,str,str
 0,"TEXT_HEAVNA117_01596_SEQ_00","雲頂營地的埃馬內蘭正滿心期待著什麼。"
 1,"TEXT_HEAVNA117_01596_SEQ_01","埃馬內蘭堅信發現雲神一事能夠成為自己的功績。在阿巴拉提亞雲海的玫瑰園和拉妮艾特談談。"
-2,"TEXT_HEAVNA117_01596_SEQ_02","向拉妮艾特講述了事件的原委。她感到了新蠻神的威脅，並對不著調的埃馬內蘭表示無語。阿巴拉提亞雲海的任務告一段落了。和伊修加爾德飛艇坪的奧爾什方談談。"
-3,"TEXT_HEAVNA117_01596_SEQ_03","和奧爾什方進行了交談。前往伊修加爾德的福爾唐伯爵府和埃馬內蘭談談。"
-4,"TEXT_HEAVNA117_01596_SEQ_04","和埃馬內蘭進行了交談。他被埃德蒙．德．福爾唐伯爵收拾了一頓並遭到了責罵，不過即使如此也還是沒有在反省的樣子。他反省自己所作所為的那一天真的會來臨嗎……"
+2,"TEXT_HEAVNA117_01596_SEQ_02","向拉妮艾特講述了事件的原委。她感到了新蠻神的威脅，並對不著調的埃馬內蘭表示無語。阿巴拉提亞雲海的任務告一段落了。和伊修加德飛艇坪的奧爾什方談談。"
+3,"TEXT_HEAVNA117_01596_SEQ_03","和奧爾什方進行了交談。前往伊修加德的福爾唐伯爵府和埃馬內蘭談談。"
+4,"TEXT_HEAVNA117_01596_SEQ_04","和埃馬內蘭進行了交談。他被埃德蒙·德·福爾唐伯爵收拾了一頓並遭到了責罵，不過即使如此也還是沒有在反省的樣子。他反省自己所作所為的那一天真的會來臨嗎……"
 5,"TEXT_HEAVNA117_01596_SEQ_05",""
 6,"TEXT_HEAVNA117_01596_SEQ_06",""
 7,"TEXT_HEAVNA117_01596_SEQ_07",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNA117_01596_SEQ_22",""
 23,"TEXT_HEAVNA117_01596_SEQ_23",""
 24,"TEXT_HEAVNA117_01596_TODO_00","和拉妮艾特對話"
-25,"TEXT_HEAVNA117_01596_TODO_01","和伊修加爾德飛艇坪的奧爾什方對話"
+25,"TEXT_HEAVNA117_01596_TODO_01","和伊修加德飛艇坪的奧爾什方對話"
 26,"TEXT_HEAVNA117_01596_TODO_02","和福爾唐伯爵府的埃馬內蘭對話"
 27,"TEXT_HEAVNA117_01596_TODO_03",""
 28,"TEXT_HEAVNA117_01596_TODO_04",""
@@ -66,7 +66,7 @@ int32,str,str
 54,"TEXT_HEAVNA117_01596_LANIAITTE_000_010","你平安回來了呀！
 究竟是發生了什麼事？"
 55,"TEXT_HEAVNA117_01596_LANIAITTE_000_011","什、什麼，竟然是雲神俾斯麥？！"
-56,"TEXT_HEAVNA117_01596_LANIAITTE_000_012","在傳說中，俾斯麥是一條游弋在雲海的白鯨……
+56,"TEXT_HEAVNA117_01596_LANIAITTE_000_012","在傳說中，俾斯麥是一條游曳在雲海的白鯨……
 瓦努族竟然將其作為蠻神召喚了出來。"
 57,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_013","從前友善的瓦努族之所以突然轉變了態度，
 原來是因為受到蠻神的影響啊……"
@@ -76,30 +76,30 @@ int32,str,str
 這下子我肯定也能被封個男爵噹噹了。
 拉妮艾特，快嫁給我當男爵夫人吧！"
 60,"TEXT_HEAVNA117_01596_LANIAITTE_000_016","哈……
- <Highlight>ObjectParameter(1)</Highlight> 閣下，
+<Highlight>ObjectParameter(1)</Highlight>閣下，
 竟然讓你為了這種人而涉險，實在是萬分抱歉……"
 61,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_017","總之關於蠻神的事確實需要上報。
 教皇廳和神殿騎士團那邊就由我傳達吧。"
 62,"TEXT_HEAVNA117_01596_LANIAITTE_000_018","有勞了，奧爾什方閣下。
- <Highlight>ObjectParameter(1)</Highlight> 閣下也辛苦了，實在是幫了大忙。
+<Highlight>ObjectParameter(1)</Highlight>閣下也辛苦了，實在是幫了大忙。
 你已經完成這邊的任務了，請返回皇都吧。"
 63,"TEXT_HEAVNA117_01596_EMMANELLAIN_000_019","咦，任務這就結束了嗎？
 那我也回去了，累得要死。
 拉妮艾特，我期待你的答覆！拜拜！"
-64,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_020","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
-我們也返回皇都伊修加爾德吧。
+64,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_020","好了，<Highlight>ObjectParameter(1)</Highlight>。
+我們也返回皇都伊修加德吧。
 "
-65,"TEXT_HEAVNA117_01596_LANIAITTE_000_021","感謝你的協助， <Highlight>ObjectParameter(1)</Highlight> 閣下。
+65,"TEXT_HEAVNA117_01596_LANIAITTE_000_021","感謝你的協助，<Highlight>ObjectParameter(1)</Highlight>閣下。
 你也可以去稍微教訓一下埃馬內蘭那個傻瓜，
 出了問題由我來承擔。"
 66,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_030","真是次久違的並肩作戰……你戰鬥的樣子果然太棒了！
 明明是在如此寒冷的天氣中，卻無法冷卻我心中的燥熱！"
 67,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_031","不過也是，畢竟是經歷了那般激烈的戰鬥。
 我先前往神殿騎士團總部向艾默里克閣下彙報這件事。"
-68,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_032"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先回福爾唐伯爵府去吧。
+68,"TEXT_HEAVNA117_01596_HAURCHEFANT_000_032","<Highlight>ObjectParameter(1)</Highlight>，你先回福爾唐伯爵府去吧。
 順帶著看看埃馬內蘭是不是到家了。"
 69,"TEXT_HEAVNA117_01596_EMMANELLAIN_000_040","疼疼疼……
-好疼呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+好疼呀，<Highlight>ObjectParameter(1)</Highlight>……"
 70,"TEXT_HEAVNA117_01596_EMMANELLAIN_000_041","我這是怎麼了？
 我被父親狠狠地揍了……
 還說我讓重要的客人身陷險境，搞什麼呀……"

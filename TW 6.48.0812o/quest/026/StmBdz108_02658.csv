@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_STMBDZ108_02658_SWETELOVE_000_000","父親曾說，採石歌的第二段很少有人唱。
 不過，父親更喜歡第二段，
 在我小時候也用這首歌作為搖籃曲唱給我聽。"
-50,"TEXT_STMBDZ108_02658_SAYER_000_001","採石作業的時候，總是重複唱第一段，
+50,"TEXT_STMBDZ108_02658_SAYER_000_001","採石作業的時候，總是重覆唱第一段，
 所以也就忘記了第二段啊。"
 51,"TEXT_STMBDZ108_02658_SWETELOVE_000_002","爺爺忘記歌詞也是難免的。
 第二段前一半和第一段完全相同，
@@ -76,7 +76,7 @@ int32,str,str
 據說從此以後，就有死靈徘徊在藏淚丘……"
 58,"TEXT_STMBDZ108_02658_SAYER_000_009","雖然很想立即到現場確認石頭的存在，
 但這事仍需要一段時間。"
-59,"TEXT_STMBDZ108_02658_SAYER_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+59,"TEXT_STMBDZ108_02658_SAYER_000_010","<Highlight>ObjectParameter(1)</Highlight>，
 很抱歉一次又一次依賴你，
 不過，拜託了，陪同我去一趟藏淚丘吧！"
 60,"TEXT_STMBDZ108_02658_SAYER_000_011","非常感謝。
@@ -84,7 +84,7 @@ int32,str,str
 61,"TEXT_STMBDZ108_02658_SWETELOVE_000_019","藏淚丘由於長久沒有進行慰靈儀式
 而成了死靈出沒之地。
 請保護好爺爺的安全。"
-62,"TEXT_STMBDZ108_02658_SAYER_000_020","好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+62,"TEXT_STMBDZ108_02658_SAYER_000_020","好，<Highlight>ObjectParameter(1)</Highlight>。
 前方就是歌詞中提到的藏淚丘。
 可否麻煩你確認一下是否安全？"
 63,"TEXT_STMBDZ108_02658_SAYER_000_021","張望周圍，如果有死靈出現，就鎮下去。
@@ -102,9 +102,9 @@ int32,str,str
 68,"TEXT_STMBDZ108_02658_SAYER_000_039","多虧有你，接下來我可以獨自順利地採掘了。
 你先回到阿拉加納，
 向絲薇特拉芙告知情況，讓她放心吧。"
-69,"TEXT_STMBDZ108_02658_SWETELOVE_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎回來！
+69,"TEXT_STMBDZ108_02658_SWETELOVE_000_040","<Highlight>ObjectParameter(1)</Highlight>，歡迎回來！
 咦，爺爺呢？"
-70,"TEXT_STMBDZ108_02658_SWETELOVE_000_041","原來是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 
+70,"TEXT_STMBDZ108_02658_SWETELOVE_000_041","原來是<Highlight>ObjectParameter(1)</Highlight>
 確保了安全，
 讓爺爺可以一個人進行採掘啊。"
 71,"TEXT_STMBDZ108_02658_SWETELOVE_000_042","謝謝。
@@ -146,7 +146,7 @@ int32,str,str
 所謂道路曲折，但前途光明。"
 85,"TEXT_STMBDZ108_02658_SAYER_000_056","來吧，鄉親們，開始採石吧！
 當然，要唱著採石歌！"
-86,"TEXT_STMBDZ108_02658_SAYER_000_057"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，
+86,"TEXT_STMBDZ108_02658_SAYER_000_057","<Highlight>ObjectParameter(1)</Highlight>啊，
 如果沒有你，我也無法走到這一步，
 真的非常感謝。"
 87,"TEXT_STMBDZ108_02658_SAYER_000_058","今後，即便沒有你的幫助，

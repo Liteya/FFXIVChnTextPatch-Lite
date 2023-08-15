@@ -52,14 +52,14 @@ int32,str,str
 45,"TEXT_CHRHDB731_03094_TODO_21",""
 46,"TEXT_CHRHDB731_03094_TODO_22",""
 47,"TEXT_CHRHDB731_03094_TODO_23",""
-48,"TEXT_CHRHDB731_03094_SHIGURE_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，不好了！
+48,"TEXT_CHRHDB731_03094_SHIGURE_000_000","<Highlight>ObjectParameter(1)</Highlight>閣下，不好了！
 在下在那之後一直在追尋一匹狼的足跡，
 可始終沒有收穫，陷入了苦戰……"
 49,"TEXT_CHRHDB731_03094_SHIGURE_000_001","但就在剛才，
 聽說他又犯下了案件！
 二位調查員已經先一步前往了犯罪現場！"
 50,"TEXT_CHRHDB731_03094_SHIGURE_000_002","在下接下來也要趕往那邊，
-希望 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下也務必隨在下一同前往！
+希望<Highlight>ObjectParameter(1)</Highlight>閣下也務必隨在下一同前往！
 來，我們趕緊去樂座街的犯罪現場吧！"
 51,"TEXT_CHRHDB731_03094_SHIGURE_000_003","（★未使用／削除予定★）"
 52,"TEXT_CHRHDB731_03094_NASHUMHAKARACCA_000_004","小賊一匹狼又出現了呢。"
@@ -173,7 +173,7 @@ int32,str,str
 那就乾脆來剃個光頭吧！"
 108,"TEXT_CHRHDB731_03094_SHIGURE_000_074","居、居然！
 就為了借身衣服要不惜做到那種程度嗎？！"
-109,"TEXT_CHRHDB731_03094_NASHUMHAKARACCA_000_075","娜修，咔嚓咔嚓！"
+109,"TEXT_CHRHDB731_03094_NASHUMHAKARACCA_000_075","娜修，哢嚓哢嚓！"
 110,"TEXT_CHRHDB731_03094_NASHUMHAKARACCA_000_076","完美！"
 111,"TEXT_CHRHDB731_03094_SHIGURE_000_077","什、什、什、什、什麼——？！
 在下帥氣的髮髻啊！"
@@ -203,14 +203,14 @@ int32,str,str
 把娜修……不，把這位藝伎帶過來了！
 這下能讓我們進去了嗎？"
 130,"TEXT_CHRHDB731_03094_KUGANEGUARDA_000_097","我看看……"
-131,"TEXT_CHRHDB731_03094_KUGANEGUARDA_000_098","欸，不錯嘛，這位藝伎。
+131,"TEXT_CHRHDB731_03094_KUGANEGUARDA_000_098","誒，不錯嘛，這位藝伎。
 這樣的話商業談判對象肯定也會高興的……"
 132,"TEXT_CHRHDB731_03094_KUGANEGUARDA_000_099","好吧，可以進。
 不過能進去的只有這名藝伎！"
 133,"TEXT_CHRHDB731_03094_HILDIBRAND_000_100","太好了！"
 134,"TEXT_CHRHDB731_03094_NASHUMHAKARACCA_000_101","娜修去去就回！"
 135,"TEXT_CHRHDB731_03094_SHIGURE_000_102","不過讓娜修閣下一個人去沒問題嗎？
-真的不需要在下或者 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下一起跟過去嗎？"
+真的不需要在下或者<Highlight>ObjectParameter(1)</Highlight>閣下一起跟過去嗎？"
 136,"TEXT_CHRHDB731_03094_HILDIBRAND_000_103","哼哼哼……放心吧，我可是有其他的對策的！"
 137,"TEXT_CHRHDB731_03094_AKEBONO_000_104","名刀破衣助廣配名藝伎千代梅……
 看著這漂亮的寶刀還有動人的舞姿……
@@ -228,7 +228,7 @@ int32,str,str
 不過千代梅啊，你也差不多該死心做我的妾了吧？"
 143,"TEXT_CHRHDB731_03094_CHIYOUME_000_110","您可真會開玩笑……
 藝伎賣藝不賣身，
-這是藝伎的信念，我沒少告訴過您吧？"
+這是藝伎的信條，我沒少告訴過您吧？"
 144,"TEXT_CHRHDB731_03094_KUMODE_000_111","(-自大的男人-)嗯，果然這樣下去沒戲啊……
 不過總有一天我會讓你點頭的！"
 145,"TEXT_CHRHDB731_03094_CHIYOUME_000_112","（★未使用／削除予定★）"
@@ -294,7 +294,7 @@ int32,str,str
 在下最後還被曙閣下叫做糊塗蛋……
 這是在下時雨一生的失敗……"
 182,"TEXT_CHRHDB731_03094_SHIGURE_000_151","在下必須抓住一匹狼把破衣助廣拿回來……"
-183,"TEXT_CHRHDB731_03094_SHIGURE_000_152"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下和二位調查員，
+183,"TEXT_CHRHDB731_03094_SHIGURE_000_152","<Highlight>ObjectParameter(1)</Highlight>閣下和二位調查員，
 希望你們能繼續幫助在下。
 另外保鏢閣下似乎也有意幫忙。"
 184,"TEXT_CHRHDB731_03094_SHIGURE_000_153","一匹狼逃跑的方向在下心裡有數，

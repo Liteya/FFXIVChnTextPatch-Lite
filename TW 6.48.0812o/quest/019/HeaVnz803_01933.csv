@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ803_01933_SEQ_00","薩雷安精製區的費爾茨默克斯看起來十分沮喪。"
-1,"TEXT_HEAVNZ803_01933_SEQ_01","費爾茨默克斯因為釣不上魚而非常失落，正在散步解煩。費爾茨默克斯委託冒險者為她找來<Sheet(EventItem,2001691,0)/>。在薩雷安精製區討伐<Sheet(BNpcName,3596,0)/>，獲得3個<Sheet(EventItem,2001691,0)/>。"
+1,"TEXT_HEAVNZ803_01933_SEQ_01","費爾茨默克斯因為釣不上魚而非常失落，正在散步解煩。費爾茨默克斯委託冒險者為她找來<Sheet(EventItem,2001691,0)/>。在薩雷安精製區討伐<Sheet(BNpcName,3596,0)/>，獲取3個<Sheet(EventItem,2001691,0)/>。"
 2,"TEXT_HEAVNZ803_01933_SEQ_02","獲得了<Sheet(EventItem,2001691,0)/>。將<Sheet(EventItem,2001691,0)/>交給薩雷安精製區的費爾茨默克斯。"
 3,"TEXT_HEAVNZ803_01933_SEQ_03","將<Sheet(EventItem,2001691,0)/>交給了費爾茨默克斯。費爾茨默克斯將用<Sheet(EventItem,2001691,0)/>作為魚餌來釣魚，努力擺脫現在的萎靡狀態。"
 4,"TEXT_HEAVNZ803_01933_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_HEAVNZ803_01933_SEQ_21",""
 22,"TEXT_HEAVNZ803_01933_SEQ_22",""
 23,"TEXT_HEAVNZ803_01933_SEQ_23",""
-24,"TEXT_HEAVNZ803_01933_TODO_00","從<Sheet(BNpcName,3596,0)/>身上獲得<Sheet(EventItem,2001691,0)/>"
+24,"TEXT_HEAVNZ803_01933_TODO_00","從<Sheet(BNpcName,3596,0)/>身上獲取<Sheet(EventItem,2001691,0)/>"
 25,"TEXT_HEAVNZ803_01933_TODO_01","將<Sheet(EventItem,2001691,0)/>交給費爾茨默克斯"
 26,"TEXT_HEAVNZ803_01933_TODO_02",""
 27,"TEXT_HEAVNZ803_01933_TODO_03",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_HEAVNZ803_01933_TODO_23",""
 48,"TEXT_HEAVNZ803_01933_FELTSMOX_000_000","呼哧……呼哧……
 為了換口氣 放鬆心情 出來散步哥布！
-即便如此 還是覺得 提不起勁哥布…… "
+即便如此 還是覺得 提不起勁哥布……"
 49,"TEXT_HEAVNZ803_01933_FELTSMOX_000_001","哥布真的很想 享受釣魚……
 不知為何 狀態萎靡 怎麼都 釣不上來哥布！"
 50,"TEXT_HEAVNZ803_01933_FELTSMOX_000_002","那邊那個 冒險者 哥布想 拜託你一件事……

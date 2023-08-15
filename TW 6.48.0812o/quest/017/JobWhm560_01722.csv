@@ -51,12 +51,12 @@ int32,str,str
 45,"TEXT_JOBWHM560_01722_TODO_21",""
 46,"TEXT_JOBWHM560_01722_TODO_22",""
 47,"TEXT_JOBWHM560_01722_TODO_23",""
-48,"TEXT_JOBWHM560_01722_ESCHIVA_000_000","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+48,"TEXT_JOBWHM560_01722_ESCHIVA_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>！
 太好了，只有我一個人的話真不知道該怎麼辦了……
 本應淨化了的不淨之物……復活了！"
 49,"TEXT_JOBWHM560_01722_ESCHIVA_000_001","而且，那不淨之物再次侵蝕了魔物，
 致使魔物襲擊了正在執行巡邏任務的騎士大人。"
-50,"TEXT_JOBWHM560_01722_ESCHIVA_000_002","這裡接到了聖菲內雅連隊露營地來的聯繫，
+50,"TEXT_JOBWHM560_01722_ESCHIVA_000_002","這裡接到了聖菲內雅連隊露營地來的聯絡，
 說那位騎士向他們請求了幫助。
 據說騎士受的傷很重，有生命危險……"
 51,"TEXT_JOBWHM560_01722_ESCHIVA_000_003","不能放任瀕死的人不管。
@@ -80,7 +80,7 @@ int32,str,str
 淨化只有身為白魔法師的你可以做到……
 拜託了！！"
 60,"TEXT_JOBWHM560_01722_NOBLE01722_000_0016","唔，謝謝……疼痛減輕了不少……"
-61,"TEXT_JOBWHM560_01722_ESCHIVA_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你沒事就好……
+61,"TEXT_JOBWHM560_01722_ESCHIVA_000_020","<Highlight>ObjectParameter(1)</Highlight>，你沒事就好……
 ……看來淨化成功了呢。"
 62,"TEXT_JOBWHM560_01722_ESCHIVA_000_021","就在剛才，騎士大人也脫離了生命危險。
 這都是多虧了你……"
@@ -101,7 +101,7 @@ int32,str,str
 那麼黑衣森林和庫爾札斯都會遭受極大的損害。"
 70,"TEXT_JOBWHM560_01722_ESCHIVA_000_029","……我過後會把這危機情況寫成報告書，
 送到碩老樹冥想窟的。
-雖然應該角尊們也不會有什麼行動……"
+雖然估計角尊們也不會有什麼行動……"
 71,"TEXT_JOBWHM560_01722_ESCHIVA_000_030","……唉。
 提那些不在場的人也沒什麼用……"
 72,"TEXT_JOBWHM560_01722_ESCHIVA_000_031","打起精神，做一些咱們力所能及的事吧。
@@ -109,7 +109,7 @@ int32,str,str
 73,"TEXT_JOBWHM560_01722_ESCHIVA_000_032","據騎士大人所說，她向西邊去了。
 西邊的龍堡參天高地有個村落叫尾羽集落，
 咱們先去那裡看看吧。"
-74,"TEXT_JOBWHM560_01722_ESCHIVA_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，和我想的一樣……
+74,"TEXT_JOBWHM560_01722_ESCHIVA_000_040","<Highlight>ObjectParameter(1)</Highlight>，和我想的一樣……
 這個村子裡的好多人也都看到了奇怪的女性。
 而且，看見的次數很多……"
 75,"TEXT_JOBWHM560_01722_ESCHIVA_000_042","我準備在這裡等新的目擊情報。
@@ -120,4 +120,4 @@ int32,str,str
 77,"TEXT_JOBWHM560_01722_ESCHIVA_000_044","看來需要做一些與以往不同的準備……
 在我進行情報收集的這段時間內，
 請你繼續鍛鍊自己的實力吧。"
-78,"TEXT_JOBWHM560_01722_ESCHIVA_000_045","（★未使用／削除予定★）"
+78,"TEXT_JOBWHM560_01722_ESCHIVA_000_045","（未使用/預計刪除）"

@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_MANSEA302_00681_SEQ_00","黑渦團軍官對於冒險者立志加入黑渦團感到十分高興。"
-1,"TEXT_MANSEA302_00681_SEQ_01","將加入的意願傳達給了黑渦團軍官。拜訪利姆薩．羅敏薩的黑渦軍令部，由黑渦團人事負責人辦理正式的入團手續。"
-2,"TEXT_MANSEA302_00681_SEQ_02","在入團儀式之前，接到了報告稱高風飛行社的飛空艇受到了帝國的炮擊。前往預測墜落地點雪松原，確認一下情況。"
-3,"TEXT_MANSEA302_00681_SEQ_03","打倒了試圖接管墜落的飛空艇的帝國兵。乘坐在飛空艇上的，是加隆德煉鐵廠的技術員畢格斯和威吉。據畢格斯所說，加隆德煉鐵廠的會長似乎在第七靈災之後就下落不明了……向黑渦軍令部的黑渦團人事負責人報告。"
-4,"TEXT_MANSEA302_00681_SEQ_04"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在正式入黨前就完成了一項重要工作，黑渦團人事負責人對此給予了高度評價。營救出的技術人員也平安歸來了，事件看上去得以解決。與黑渦團人事負責人交談，舉行入團儀式。"
+1,"TEXT_MANSEA302_00681_SEQ_01","將加入的意願傳達給了黑渦團軍官。拜訪利姆薩·羅敏薩的黑渦軍令部，由黑渦團人事負責人辦理正式的入團手續。"
+2,"TEXT_MANSEA302_00681_SEQ_02","在入團儀式之前，接到了報告稱高風飛行社的飛空艇受到了帝國的砲擊。前往預測墜落地點雪松原，確認一下情況。"
+3,"TEXT_MANSEA302_00681_SEQ_03","打倒了試圖接管墜落的飛空艇的帝國兵。乘坐在飛空艇上的，是加隆德煉鐵廠的技術員比格斯和魏吉。據比格斯所說，加隆德煉鐵廠的會長似乎在第七靈災之後就下落不明了……向黑渦軍令部的黑渦團人事負責人報告。"
+4,"TEXT_MANSEA302_00681_SEQ_04","<Highlight>ObjectParameter(1)</Highlight>在正式入黨前就完成了一項重要工作，黑渦團人事負責人對此給予了高度評價。營救出的技術人員也平安歸來了，事件看上去得以解決。與黑渦團人事負責人交談，舉行入團儀式。"
 5,"TEXT_MANSEA302_00681_SEQ_05",""
 6,"TEXT_MANSEA302_00681_SEQ_06",""
 7,"TEXT_MANSEA302_00681_SEQ_07",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_MANSEA302_00681_SEQ_21",""
 22,"TEXT_MANSEA302_00681_SEQ_22",""
 23,"TEXT_MANSEA302_00681_SEQ_23",""
-24,"TEXT_MANSEA302_00681_TODO_00","和利姆薩．羅敏薩的黑渦軍令部的黑渦團人事負責人對話"
+24,"TEXT_MANSEA302_00681_TODO_00","和利姆薩·羅敏薩的黑渦軍令部的黑渦團人事負責人對話"
 25,"TEXT_MANSEA302_00681_TODO_01","去雪松原確認情況"
 26,"TEXT_MANSEA302_00681_TODO_02","和黑渦軍令部的黑渦團人事負責人對話"
 27,"TEXT_MANSEA302_00681_TODO_03",""
@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_MANSEA302_00681_STORMOFFICER_000_1","演講怎麼樣？
 相信梅爾維布提督的想法，
 能夠將你招攬進黑渦團的。"
-49,"TEXT_MANSEA302_00681_Q1_000_1","要加入利姆薩．羅敏薩的黑渦團嗎？"
+49,"TEXT_MANSEA302_00681_Q1_000_1","要加入利姆薩·羅敏薩的黑渦團嗎？"
 50,"TEXT_MANSEA302_00681_A1_000_1","是"
 51,"TEXT_MANSEA302_00681_A1_000_2","否"
 52,"TEXT_MANSEA302_00681_STORMOFFICER_000_2","你能答應真是太好了！
@@ -60,8 +60,8 @@ int32,str,str
 一定會使我們的活動一帆風順的吧。"
 53,"TEXT_MANSEA302_00681_STORMOFFICER_000_3","既然決定了，那就趕快辦理正式的入團手續吧！
 做好旅行的準備後，
-就前往利姆薩．羅敏薩的黑渦軍令部。"
-54,"TEXT_MANSEA302_00681_STORMOFFICER_000_4","黑渦團的軍令部位於利姆薩．羅敏薩的上層甲板。
+就前往利姆薩·羅敏薩的黑渦軍令部。"
+54,"TEXT_MANSEA302_00681_STORMOFFICER_000_4","黑渦團的軍令部位於利姆薩·羅敏薩的上層甲板。
 我會先和接待處的人事負責人傳達下你的事情，
 到時候你去找他就可以了。"
 55,"TEXT_MANSEA302_00681_STORMOFFICER_000_5","黑渦團的工作雖然會比較辛苦，
@@ -74,31 +74,31 @@ int32,str,str
 58,"TEXT_MANSEA302_00681_FLAMEOFFICER_000_11","什麼！
 勞班局長魅力不再了？
 不過，那股老練勁習慣後也不錯呢。"
-59,"TEXT_MANSEA302_00681_STORMOFFICER_000_12","前往利姆薩．羅敏薩的黑渦軍令部辦理正式的入團手續。
+59,"TEXT_MANSEA302_00681_STORMOFFICER_000_12","前往利姆薩·羅敏薩的黑渦軍令部辦理正式的入團手續。
 那邊應該會焦急等待著你的到來。"
 60,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_20","冒險者，有什麼事嗎？
-這裡是利姆薩．羅敏薩的大國防聯軍黑渦團的軍令部。"
+這裡是利姆薩·羅敏薩的大國防聯軍黑渦團的軍令部。"
 61,"TEXT_MANSEA302_00681_Q2_000_1","要做什麼？"
 62,"TEXT_MANSEA302_00681_A2_000_1","報上名字"
 63,"TEXT_MANSEA302_00681_A2_000_2","表示想加入黑渦團"
-64,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_21","你就是 <Highlight>ObjectParameter(1)</Highlight> 啊！
-我已經收到聯繫了。
+64,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_21","你就是<Highlight>ObjectParameter(1)</Highlight>啊！
+我已經收到聯絡了。
 衷心歡迎你加入黑渦團。"
 65,"TEXT_MANSEA302_00681_STORMPERSONNEL_100_21","歡迎來到黑渦團！
-你是 <Highlight>ObjectParameter(1)</Highlight> 吧！
-我已經收到聯繫了。"
+你是<Highlight>ObjectParameter(1)</Highlight>吧！
+我已經收到聯絡了。"
 66,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_22","那麼這就由我來說明一下入團的各項規定，
 並召開一個簡短的入團儀式吧！"
 67,"TEXT_MANSEA302_00681_STORMPRIVATE_000_23","報告！"
 68,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_24","慌慌張張的，出什麼事了？"
 69,"TEXT_MANSEA302_00681_STORMPRIVATE_000_25","斥候部隊傳來報告！
 高風飛行社的小型飛空艇，在拉諾西亞低地上空，
-遭到帝國軍炮擊！"
+遭到帝國軍砲擊！"
 70,"TEXT_MANSEA302_00681_STORMPRIVATE_000_26","之後飛空艇迫降在雪松原！"
 71,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_27","怎麼會這樣！
 偏偏在這個時候……
 主力陸戰隊全都調出去解決與魚人族的衝突了。"
-72,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_28"," <Highlight>ObjectParameter(1)</Highlight> ！
+72,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_28","<Highlight>ObjectParameter(1)</Highlight>！
 在正式入團前雖有些過意不去，但請你幫忙！
 "
 73,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_29","飛空艇中應該乘有普通百姓才對！
@@ -117,37 +117,37 @@ int32,str,str
 80,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_42","我們是大國防聯軍黑渦團的人。
 你是加隆德煉鐵廠的技術員吧？
 我們接到飛空艇墜落報告，前來進行營救。"
-81,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_43","你就是 <Highlight>ObjectParameter(1)</Highlight> 吧？
+81,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_43","你就是<Highlight>ObjectParameter(1)</Highlight>吧？
 先行偵察辛苦你了！"
 82,"TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_44","竟然造出了這樣的新型飛空艇……
-席德．南．加隆德這傢伙是多痛恨帝國。"
+西德·南·加隆德這傢伙是多痛恨帝國。"
 83,"TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_45","飛空艇本來就是基於我國的魔導技術製造出來的……
 不過是那傢伙擅自將這技術盜走而已。
-怎麼可能交給艾奧傑亞！"
+怎麼可能交給艾歐澤亞！"
 84,"TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_46","這艘新型飛空艇，就由我軍接管了！
 把那邊的魔導技術員也帶走！
 準備撤退！"
 85,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_47","他們是帝國西方堡派來的斥候麼……
 打算接管飛空艇啊。"
-86,"TEXT_MANSEA302_00681_BIGGS_000_48","(-飛空艇的乘員-)請救救我的搭檔，救救威吉！
+86,"TEXT_MANSEA302_00681_BIGGS_000_48","(-飛空艇的乘員-)請救救我的搭檔，救救魏吉！
 他沒能逃出來，還藏在小野馬中！"
 87,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_49","小野馬？！
 那麼，這就是傳聞中的新型艇了！"
-88,"TEXT_MANSEA302_00681_BIGGS_000_50","(-飛空艇的乘員-)是在我們老闆，不，席德會長，
+88,"TEXT_MANSEA302_00681_BIGGS_000_50","(-飛空艇的乘員-)是在我們老闆，不，西德會長，
 因第七靈災下落不明後，
-艾奧傑亞首次製造出的飛空艇。"
+艾歐澤亞首次製造出的飛空艇。"
 89,"TEXT_MANSEA302_00681_BIGGS_000_51","(-飛空艇的乘員-)好不容易熬到試飛了。
 明明飛得很順利，可惡……"
-90,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_52","奪回艾奧傑亞的飛空艇，
+90,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_52","奪回艾歐澤亞的飛空艇，
 救出未能逃出的加隆德煉鐵廠技術員！"
-91,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_53"," <Highlight>ObjectParameter(1)</Highlight> ！
+91,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_53","<Highlight>ObjectParameter(1)</Highlight>！
 你也來幫忙嗎？"
 92,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_54","好，全體突擊！
 讓我們化為驚濤駭浪，將敵人捲入其中！"
 93,"TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_55","可惡，敵方襲擊！
 快還擊！"
-94,"TEXT_MANSEA302_00681_WEDGE_000_60","畢格斯！"
-95,"TEXT_MANSEA302_00681_BIGGS_000_61","威吉！
+94,"TEXT_MANSEA302_00681_WEDGE_000_60","比格斯！"
+95,"TEXT_MANSEA302_00681_BIGGS_000_61","魏吉！
 太好了，沒事吧！"
 96,"TEXT_MANSEA302_00681_WEDGE_000_62","太可怕了！"
 97,"TEXT_MANSEA302_00681_BIGGS_000_63","看來沒受傷。
@@ -160,18 +160,18 @@ int32,str,str
 100,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_66","在這期間，由我們對周邊進行警戒。
 剛才的帝國兵看上去是斥候。
 一時半會應該不會有援軍來的。"
-101,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_67"," <Highlight>ObjectParameter(1)</Highlight> ！
-你返回利姆薩．羅敏薩的黑渦團總部，
+101,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_67","<Highlight>ObjectParameter(1)</Highlight>！
+你返回利姆薩·羅敏薩的黑渦團總部，
 將入團手續辦完吧。"
 102,"TEXT_MANSEA302_00681_STORMLIEUTENANT_000_68","希望像你這樣出色的冒險者，
-能儘早成為黑渦團的一員！
-軍令部那邊就由我負責聯繫了。"
+能盡早成為黑渦團的一員！
+軍令部那邊就由我負責聯絡了。"
 103,"TEXT_MANSEA302_00681_BIGGS_000_69","抱歉，剛剛懷疑了你……
 謝謝！
 多虧有你，我們才能得救！"
 104,"TEXT_MANSEA302_00681_BIGGS_000_70","還不快道謝？！"
 105,"TEXT_MANSEA302_00681_WEDGE_000_71","謝謝你救了我們！"
-106,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_80"," <Highlight>ObjectParameter(1)</Highlight> ，辛苦你了！
+106,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_80","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了！
 我剛剛收到了報告。"
 107,"TEXT_MANSEA302_00681_STORMPERSONNEL_000_81","哈哈哈！
 雖然聽說你是個有能力的冒險者，
@@ -186,7 +186,7 @@ int32,str,str
 111,"TEXT_MANSEA302_00681_QIB_TODO_001","打倒加雷馬帝國兵！"
 112,"TEXT_MANSEA302_00681_STORMLT_BATTLETALK_001","全體，殲滅帝國軍！"
 113,"TEXT_MANSEA302_00681_IMPERIALCENTURION_BATTLETALK_001","不要讓他們靠近飛空艇！"
-114,"TEXT_MANSEA302_00681_IMPERIALCENTURION_BATTLETALK_002","艾奧傑亞的野蠻人來勁了！"
+114,"TEXT_MANSEA302_00681_IMPERIALCENTURION_BATTLETALK_002","艾歐澤亞的野蠻人來勁了！"
 115,"TEXT_MANSEA302_00681_IMPERIALCENTURION_BATTLETALK_003","喂，使用那個！"
 116,"TEXT_MANSEA302_00681_IMPERIALCENTURION_BATTLETALK_004","去吧，魔導先鋒！
 讓他們領教一下魔導技術的可怕之處！"

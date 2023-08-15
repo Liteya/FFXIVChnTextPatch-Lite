@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANKJN305_02983_SEQ_22",""
 23,"TEXT_BANKJN305_02983_SEQ_23",""
 24,"TEXT_BANKJN305_02983_TODO_00","在獄之蓋的<Sheet(EObj,2009091,0)/>使用<Sheet(EventItem,2002401,0)/>
-討伐<Sheet(BNpcName,6876,0)/> 獲得<Sheet(EventItem,2002402,0)/>"
+討伐<Sheet(BNpcName,6876,0)/> 獲取<Sheet(EventItem,2002402,0)/>"
 25,"TEXT_BANKJN305_02983_TODO_01","將<Sheet(EventItem,2002402,0)/>交給頭巾"
 26,"TEXT_BANKJN305_02983_TODO_02",""
 27,"TEXT_BANKJN305_02983_TODO_03",""

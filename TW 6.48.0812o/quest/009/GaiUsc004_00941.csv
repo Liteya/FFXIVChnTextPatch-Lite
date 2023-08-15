@@ -70,9 +70,9 @@ int32,str,str
 我們都被你玩弄於股掌之間……
 但是這位聰慧的冒險者把你的把戲都看穿了！"
 57,"TEXT_GAIUSC004_00941_DRILLEMONT_000_025","異端者居然冒充異端審問官，簡直罪無可赦！
-捨棄伊修加爾德臣民的使命，
+捨棄伊修加德臣民的使命，
 與龍族勾結的惡賊……接受制裁吧！"
-58,"TEXT_GAIUSC004_00941_GUILLAIME_000_026","伊修加爾德臣民的使命？
+58,"TEXT_GAIUSC004_00941_GUILLAIME_000_026","伊修加德臣民的使命？
 呵呵呵……哈哈……哈哈哈哈！"
 59,"TEXT_GAIUSC004_00941_GUILLAIME_000_027","這種事情你們還準備持續多少年？
 你們準備讓子子孫孫也都持續著這種毫無成果的宿命嗎？"
@@ -106,7 +106,7 @@ int32,str,str
 這樣的話，問題應該算是暫告一段落了……"
 72,"TEXT_GAIUSC004_00941_ALPHINAUD_000_051","雖然早就知道探索飛空艇不簡單，
 可也沒想到會如此辛苦。
-伊修加爾德內部的黑暗面可見一斑啊……"
+伊修加德內部的黑暗面可見一斑啊……"
 73,"TEXT_GAIUSC004_00941_ALPHINAUD_000_052","多虧了你的活躍，我們才能前進至此。
 飛空艇企業號也已經近在眼前了！"
 74,"TEXT_GAIUSC004_00941_QIB_TODO001","打倒吉耶姆一夥！"
@@ -126,6 +126,6 @@ int32,str,str
 82,"TEXT_GAIUSC004_00941_GUILLAIME_BATTLETALK_08","唔……為什麼……不放棄？"
 83,"TEXT_GAIUSC004_00941_DRILLEMONT_BATTLETALK_09","不要小看我們的力量！還有這戰鬥的歷史！"
 84,"TEXT_GAIUSC004_00941_GUILLAIME_BATTLETALK_HP20","嗚嗷……就憑你們這些傢伙！"
-85,"TEXT_GAIUSC004_00941_DRILLEMONT_BATTLETALK_DEAD","嗚……我絕不承認騎士是弱小無力的……"
+85,"TEXT_GAIUSC004_00941_DRILLEMONT_BATTLETALK_DEAD","嗚……我決不承認騎士是弱小無力的……"
 86,"TEXT_GAIUSC004_00941_FOLLOWER_A_GAIUSC004_BATTLETALK_DEAD","接下來就拜託你了……請一定要幹掉那傢伙……"
 87,"TEXT_GAIUSC004_00941_FOLLOWER_B_GAIUSC004_BATTLETALK_DEAD","太恥辱了……居然會不敵異端者！"

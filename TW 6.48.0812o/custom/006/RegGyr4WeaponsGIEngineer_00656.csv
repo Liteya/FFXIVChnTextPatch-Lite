@@ -6,7 +6,7 @@ int32,str,str
 真想一把抱上去……嘿嘿嘿。"
 2,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_Q1_000_001","想要看哪個模型？"
 3,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_MENU_CANCEL","取消"
-4,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_NOSELECT_000","欸？！
+4,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_NOSELECT_000","誒？！
 不想看嗎？！
 我的新模型可是很壯觀的哦？！"
 5,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_000","嗯……沒有什麼新模型的創意……"
@@ -16,7 +16,7 @@ int32,str,str
 7,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_002","這就是由我製作出原型的<Sheet(Item,28994,0)/>！
 接下來就由我簡單講解一下……"
 8,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_003","紅寶石神兵最大的特點就在於甲殼類般的重裝甲和變幻自如的爪子！
-應該是在鎮壓行省叛亂之時從尚未確認的蠻神那裡
+估計是在鎮壓行省叛亂之時從尚未確認的蠻神那裡
 吸收並繼承的能力，著實讓人震驚……"
 9,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_004","那如同妖異般的可怕的頭部形狀，或許也是因為
 受到蠻神吸收的影響，不過目前還無法斷言。
@@ -42,9 +42,9 @@ int32,str,str
 18,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_013","攻擊終端的位置設定，與曾經蓋烏斯在入侵維爾利特時使用的
 包圍戰術中的部隊配置及其後續展開完全一致。那是種可以
 邊攻擊目標，邊讓目標按自己所想的路線移動的戰術……"
-19,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_014","這很好地展現了蓋烏斯不僅是一名自創劍技「恩惠終結」的
+19,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_014","這很好地體現了蓋烏斯不僅是一名自創劍技「恩惠終結」的
 出色武人，同時也是一位出類拔萃的戰略家。
-只可惜戰鬥的舞臺不是在維爾利特，而是在乾船塢之中……"
+只可惜戰鬥的舞台不是在維爾利特，而是在乾船塢之中……"
 20,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_015","哎呀，不行不行。
 一不小心就說多了。"
 21,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_016","那我就用模擬戰系統來掃描一下模型。
@@ -60,8 +60,8 @@ int32,str,str
 而末尾記號「Z」則表示的是最終樣式。"
 26,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_023","所以我認為，紅寶石、藍寶石、綠寶石這3個神兵，
 都是為了讓鑽石神兵昇華為完美兵器而製造的
-用於收集資料的實驗機……"
-27,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_024","但可悲的是，只靠這些資料是無法真正完成的。
+用於收集數據的實驗機……"
+27,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_024","但可悲的是，只靠這些數據是無法真正完成的。
 只是因為鑽石神兵中安裝的特殊設備，
 才使得這個試驗機成為了最棒的兵器……"
 28,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_WEAPONSGIENGINEER_000_025","而隱藏在這背後的悲傷的故事，
@@ -74,5 +74,5 @@ int32,str,str
 這既是為了防止更多的悲劇發生，
 也是為了給你平時的訓練提供幫助！"
 31,"TEXT_REGGYR4WEAPONSGIENGINEER_00656_SYSTEM_000_900","將維爾利特戰役相關的副本任務中獲得的圖騰
-交給喪靈鐘的卡．因塔娜，
+交給喪靈鐘的卡·因塔娜，
 可以交換裝備和道具。"

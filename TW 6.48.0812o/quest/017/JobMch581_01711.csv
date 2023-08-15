@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMCH581_01711_SEQ_00","天鋼機工房的斯特凡尼維安很擔心羅斯特恩斯塔爾。"
-1,"TEXT_JOBMCH581_01711_SEQ_01","找到了羅斯特恩斯塔爾。和伊修加爾德砥柱層的羅斯特恩斯塔爾談談。"
-2,"TEXT_JOBMCH581_01711_SEQ_02","羅斯特恩斯塔爾還是打算去自首。對伊修加爾德砥柱層的羅斯特恩斯塔爾使用虹吸彈。"
+1,"TEXT_JOBMCH581_01711_SEQ_01","找到了羅斯特恩斯塔爾。和伊修加德砥柱層的羅斯特恩斯塔爾談談。"
+2,"TEXT_JOBMCH581_01711_SEQ_02","羅斯特恩斯塔爾還是打算去自首。對伊修加德砥柱層的羅斯特恩斯塔爾使用虹吸彈。"
 3,"TEXT_JOBMCH581_01711_SEQ_03","說服了羅斯特恩斯塔爾。和天鋼機工房的斯特凡尼維安談談。"
 4,"TEXT_JOBMCH581_01711_SEQ_04","和斯特凡尼維安進行了交談。雖然羅斯特恩斯塔爾也會參加戰鬥，但天鋼機工房討伐<Sheet(BNpcName,4224,0)/>的這次審查還是太過艱難了。盡最大可能磨練自己的技藝，爭取在審查中取得勝利。
 
@@ -51,18 +51,18 @@ int32,str,str
 45,"TEXT_JOBMCH581_01711_TODO_21",""
 46,"TEXT_JOBMCH581_01711_TODO_22",""
 47,"TEXT_JOBMCH581_01711_TODO_23",""
-48,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我接到聯繫說教官已經找到了。
+48,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_000","<Highlight>ObjectParameter(1)</Highlight>，我接到聯絡說教官已經找到了。
 現在喬伊正在拖住他。
-你也過去會合說服教官吧。"
+你也過去匯合說服教官吧。"
 49,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_009","現在喬伊正在拖住教官。
-你也過去會合說服教官吧。"
-50,"TEXT_JOBMCH581_01711_JOYE_000_009"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！
+你也過去匯合說服教官吧。"
+50,"TEXT_JOBMCH581_01711_JOYE_000_009","<Highlight>ObjectParameter(1)</Highlight>大人！
 快幫喬伊攔住教官！"
 51,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_010","你也來了嗎……快讓開！
 不然我就打爆這傢伙的腦袋。"
 52,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_011","喬伊也讓開，讓我過去！"
 53,"TEXT_JOBMCH581_01711_JOYE_000_012","喬伊想說，喬伊不讓開！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人……
+<Highlight>ObjectParameter(1)</Highlight>大人……
 請使用虹吸彈阻止教官！"
 54,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_013","哼，看來是不打算退讓嗎……
 那就來和我比比誰的槍更快吧！"
@@ -70,7 +70,7 @@ int32,str,str
 不然我就打爆這傢伙的腦袋。"
 56,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_020","唔……你變強了啊，遠超我的預料。"
 57,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_021","是教官在皇都傳授的火槍術終於開花結果了。"
-58,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_022","而且我在 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的幫助下又開發出了新機能。"
+58,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_022","而且我在<Highlight>ObjectParameter(1)</Highlight>的幫助下又開發出了新機能。"
 59,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_023","我們不會敗給<Sheet(BNpcName,4224,0)/>！
 要相信你的弟子們呀！"
 60,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_024","況且，就算教官你去背了鍋，
@@ -83,7 +83,7 @@ int32,str,str
 64,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_028","好吧，我可以不去自首。
 但我有一個附加條件。"
 65,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_029","一定要讓我也參加左右工房命運的<Sheet(BNpcName,4224,0)/>討伐戰。
-當然，這不算在契約內，是我自願參加的。"
+當然，這不算在合同內，是我自願參加的。"
 66,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_030","明明一直和工房裡的機工士都保持著距離，
 今天這卻是怎麼了？"
 67,"TEXT_JOBMCH581_01711_ROSTNSTHAL_000_031","都是我自身的問題。
@@ -105,7 +105,7 @@ int32,str,str
 74,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_038","你的身手又幫上了大忙呢。
 你果然是工房的救星。
 好了，我們回工房去吧。"
-75,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_040","來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+75,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_040","來啦，<Highlight>ObjectParameter(1)</Highlight>。
 我剛才聯繫了提達爾格蘭什，
 表達了我們要接受審查的意願。"
 76,"TEXT_JOBMCH581_01711_STEPHANIVIEN_000_041","但依現狀判斷，雖然有教官的加盟，

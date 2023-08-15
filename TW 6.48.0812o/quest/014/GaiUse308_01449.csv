@@ -64,11 +64,11 @@ int32,str,str
 我來說明一下拂曉、雙蛇黨和暫留地妖精的三方共同作戰內容。
 這次作戰的目標是進攻妖精領。"
 49,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_001","為了和蠻神拉姆對話，
-一定要去進行請神的地點。"
+必須要去進行請神的地點。"
 50,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_002","該地點就在妖精領內，
 但具體位置我們無法查明……
 而且，在危險的妖精領中漫無目的地搜索是一件很危險的事情。"
-51,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_003","因此，我們就請拂曉的成員——伊達、帕帕力莫、雅．修特拉和桑克瑞德
+51,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_003","因此，我們就請拂曉的成員——伊達、帕帕力莫、雅·修特拉和桑克瑞德
 幫我們查明請神的具體位置了。"
 52,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_004","他們這些薩雷安的賢人持有乙太測量儀，
 可以看見蠻神出現時所引發的乙太紊亂……
@@ -91,9 +91,9 @@ int32,str,str
 60,"TEXT_GAIUSE308_01449_KOMUXIO_000_012","這樣的話就請用這<Sheet(EventItem,2001310,0)/>吧呼啾！
 如果能洗去鱗粉，就會好受多啦呼啾。"
 61,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_013","十分感謝你！
-這清水就交給 <Highlight>ObjectParameter(1)</Highlight> 你了。"
-62,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_014"," <Highlight>ObjectParameter(1)</Highlight> ，目前情況不是很樂觀，
-請你趕快去妖精領和賢人們會合吧。"
+這清水就交給<Highlight>ObjectParameter(1)</Highlight>你了。"
+62,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_014","<Highlight>ObjectParameter(1)</Highlight>，目前情況不是很樂觀，
+請你趕快去妖精領和賢人們匯合吧。"
 63,"TEXT_GAIUSE308_01449_LIEUTENANT01448_000_015","只要護衛們能冷靜下來，就能問出賢人們的去向了。
 ……拜託你了。"
 64,"TEXT_GAIUSE308_01449_MAXIO_000_016","受到襲擊的人類，就在妖精領的入口呼啾。
@@ -116,7 +116,7 @@ int32,str,str
 差點燒穿我的喉嚨！
 那粉末到底是什麼玩意啊？"
 73,"TEXT_GAIUSE308_01449_NAMIDA01449_000_055","視線還有點模糊……
-但一定要去轟走敵方妖精……"
+但必須要去轟走敵方妖精……"
 74,"TEXT_GAIUSE308_01449_TEMPEREDSYLPH01449_000_060","哼，增援嗎呼啾？
 誰來都一樣，
 我會用這<Sheet(EventItem,2001311,0)/>對付你們的呼啾！"
@@ -174,7 +174,7 @@ int32,str,str
 我沒事的，我還能戰鬥！"
 97,"TEXT_GAIUSE308_01449_NAMIDA01449_000_140","謝謝你在危急關頭救了我們，
 終於能看清東西了……
-你就是 <Highlight>ObjectParameter(1)</Highlight> 吧？"
+你就是<Highlight>ObjectParameter(1)</Highlight>吧？"
 98,"TEXT_GAIUSE308_01449_NAMIDA01449_000_145","我馬上就向你報告目前的作戰情況和賢人的去向！"
 99,"TEXT_GAIUSE308_01449_RECOVER_000_000","透明狀態效果時間延長了！"
 100,"TEXT_GAIUSE308_01449_SYSTEM_000_200","不在透明狀態的話就不能進行任務了。

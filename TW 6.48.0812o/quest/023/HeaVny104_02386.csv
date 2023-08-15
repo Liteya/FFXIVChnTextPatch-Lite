@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNY104_02386_SEQ_00","田園郡的米德奈特．迪尤似乎有事情想拜託冒險者。"
-1,"TEXT_HEAVNY104_02386_SEQ_01","米德奈特．迪尤想委託冒險者前往迦巴勒幻想圖書館取得<Sheet(EventItem,2002010,0)/>。和龍堡內陸低地迦巴勒幻想圖書館前的米德奈特．迪尤談談。"
-2,"TEXT_HEAVNY104_02386_SEQ_02","從米德奈特．迪尤那裡得知了通往禁書庫的大門的所在位置。做好準備後，突破秘本寶庫迦巴勒幻想圖書館，獲得<Sheet(EventItem,2002010,0)/>。
+0,"TEXT_HEAVNY104_02386_SEQ_00","田園郡的米德奈特·迪尤似乎有事情想拜託冒險者。"
+1,"TEXT_HEAVNY104_02386_SEQ_01","米德奈特·迪尤想委託冒險者前往迦巴勒幻想圖書館取得<Sheet(EventItem,2002010,0)/>。和龍堡內陸低地迦巴勒幻想圖書館前的米德奈特·迪尤談談。"
+2,"TEXT_HEAVNY104_02386_SEQ_02","從米德奈特·迪尤那裡得知了通往禁書庫的大門的所在位置。做好準備後，突破秘本寶庫迦巴勒幻想圖書館，獲取<Sheet(EventItem,2002010,0)/>。
 
-※可以透過任務搜尋器參加。"
-3,"TEXT_HEAVNY104_02386_SEQ_03","突破了秘本寶庫迦巴勒幻想圖書館，獲得了<Sheet(EventItem,2002010,0)/>。將<Sheet(EventItem,2002010,0)/>交給田園郡的米德奈特．迪尤。"
-4,"TEXT_HEAVNY104_02386_SEQ_04","將<Sheet(EventItem,2002010,0)/>交給了米德奈特．迪尤。原來是委託人——咒術師公會的雅雅凱為了整理圖書館裡的藏書，所以才想要<Sheet(EventItem,2002010,0)/>的。這樣一來，就能開始著手整理長眠於迦巴勒幻想圖書館的書籍了。"
+※可以通過任務搜尋器參加。"
+3,"TEXT_HEAVNY104_02386_SEQ_03","突破了秘本寶庫迦巴勒幻想圖書館，獲得了<Sheet(EventItem,2002010,0)/>。將<Sheet(EventItem,2002010,0)/>交給田園郡的米德奈特·迪尤。"
+4,"TEXT_HEAVNY104_02386_SEQ_04","將<Sheet(EventItem,2002010,0)/>交給了米德奈特·迪尤。原來是委託人——咒術師公會的雅雅凱為了整理圖書館裡的藏書，所以才想要<Sheet(EventItem,2002010,0)/>的。這樣一來，就能開始著手整理長眠於迦巴勒幻想圖書館的書籍了。"
 5,"TEXT_HEAVNY104_02386_SEQ_05",""
 6,"TEXT_HEAVNY104_02386_SEQ_06",""
 7,"TEXT_HEAVNY104_02386_SEQ_07",""
@@ -27,10 +27,10 @@ int32,str,str
 21,"TEXT_HEAVNY104_02386_SEQ_21",""
 22,"TEXT_HEAVNY104_02386_SEQ_22",""
 23,"TEXT_HEAVNY104_02386_SEQ_23",""
-24,"TEXT_HEAVNY104_02386_TODO_00","和迦巴勒幻想圖書館前的米德奈特．迪尤對話"
+24,"TEXT_HEAVNY104_02386_TODO_00","和迦巴勒幻想圖書館前的米德奈特·迪尤對話"
 25,"TEXT_HEAVNY104_02386_TODO_01","突破秘本寶庫迦巴勒幻想圖書館
-獲得<Sheet(EventItem,2002010,0)/>"
-26,"TEXT_HEAVNY104_02386_TODO_02","將<Sheet(EventItem,2002010,0)/>交給米德奈特．迪尤"
+獲取<Sheet(EventItem,2002010,0)/>"
+26,"TEXT_HEAVNY104_02386_TODO_02","將<Sheet(EventItem,2002010,0)/>交給米德奈特·迪尤"
 27,"TEXT_HEAVNY104_02386_TODO_03",""
 28,"TEXT_HEAVNY104_02386_TODO_04",""
 29,"TEXT_HEAVNY104_02386_TODO_05",""
@@ -56,7 +56,7 @@ int32,str,str
 其實我們收到了一份委託，
 希望你能幫忙。"
 49,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_001","聽說你曾突破過迦巴勒幻想圖書館？
-那這份委託交給你再適合不過了。"
+那這份委託交給你再合適不過了。"
 50,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_002","據委託人說，在圖書館最上層的珍秘書庫裡，
 有一本非常顯眼的<Sheet(EventItem,2002010,0)/>。
 希望我們能把那本書取回來。"
@@ -69,11 +69,11 @@ int32,str,str
 我會告訴你通往書庫的路的，我們在圖書館前集合吧。"
 54,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_010","你來了啊。
 從這裡往前走然後左轉，能看見一扇結實的大門，
-透過那扇門就能去禁書庫了。"
+通過那扇門就能去禁書庫了。"
 55,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_011","我只能帶你到這裡了。
 就拜託你取回<Sheet(EventItem,2002010,0)/>啦！"
 56,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_012","從這裡往前走然後左轉，能看見一扇結實的大門，
-透過那扇門就能去禁書庫了。
+通過那扇門就能去禁書庫了。
 就拜託你取回<Sheet(EventItem,2002010,0)/>啦！"
 57,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_013","<Sheet(EventItem,2002010,0)/>似乎在圖書館最上層的珍秘書庫。
 就拜託你前去回收啦！"
@@ -87,13 +87,13 @@ int32,str,str
 十分感謝您的協助。"
 62,"TEXT_HEAVNY104_02386_YAYAKE_000_024","……哎呀！
 雖然聽說有一個身手了得的冒險者接受了委託，
-但沒想到就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 您呀。"
-63,"TEXT_HEAVNY104_02386_YAYAKE_000_025","既然是我們咒術師公會的朋友 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 接受了委託，
+但沒想到就是<Highlight>ObjectParameter(1)</Highlight>您呀。"
+63,"TEXT_HEAVNY104_02386_YAYAKE_000_025","既然是我們咒術師公會的朋友<Highlight>ObjectParameter(1)</Highlight>接受了委託，
 那一定不會有什麼問題的。"
 64,"TEXT_HEAVNY104_02386_YAYAKE_000_026","……哎呀！
 雖然聽說有一個身手了得的冒險者接受了委託，
-但沒想到竟然是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人！"
-65,"TEXT_HEAVNY104_02386_YAYAKE_000_027","既然是破壞的化身 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 出手，
+但沒想到竟然是<Highlight>ObjectParameter(1)</Highlight>大人！"
+65,"TEXT_HEAVNY104_02386_YAYAKE_000_027","既然是破壞的化身<Highlight>ObjectParameter(1)</Highlight>出手，
 想必書籍的回收不會有任何問題吧！"
 66,"TEXT_HEAVNY104_02386_YAYAKE_000_028","那麼，就讓我確認一下。
 請讓我看一下回收的<Sheet(EventItem,2002010,0)/>。"
@@ -105,7 +105,7 @@ int32,str,str
 70,"TEXT_HEAVNY104_02386_YAYAKE_000_032","現在遺留在迦巴勒幻想圖書館裡的書籍，
 可以說是薩雷安人智慧的結晶。
 不能只讓它們一直沉睡在圖書館裡。"
-71,"TEXT_HEAVNY104_02386_YAYAKE_000_033","……為了艾奧傑亞的將來，
+71,"TEXT_HEAVNY104_02386_YAYAKE_000_033","……為了艾歐澤亞的將來，
 我們也有必要妥善整理館內的書籍，讓更多人閱讀到它們。
 所以這本«藏書目錄»是必需的。"
 72,"TEXT_HEAVNY104_02386_MIDNIGHTDEW_000_034","原來如此……只要那個圖書館能夠重建，

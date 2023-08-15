@@ -5,7 +5,7 @@ int32,str,str
 西風仄費羅斯的喝彩的克勒翁滿心期待地看著冒險者。"
 1,"TEXT_AKTKZH104_04514_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
-克勒翁為了讓伊娥成為更加強大的野獸，想要借助冒險者的智慧。前往西風仄費羅斯的喝彩觀察伊娥。"
+克勒翁為了讓伊娥成為更加強大的野獸，想要藉助冒險者的智慧。前往西風仄費羅斯的喝彩觀察伊娥。"
 2,"TEXT_AKTKZH104_04514_SEQ_02","調查了伊娥，並就如何讓它變強表達了自己的想法。克勒翁似乎想到了什麼，想要重新創造伊娥。和阿爾卡埃烏斯、麥拉一起在西風仄費羅斯的喝彩的<Sheet(EObj,2012486,0)/>等待。"
 3,"TEXT_AKTKZH104_04514_SEQ_03","克勒翁帶來的全新創造生物就像貝希摩斯一樣……成功創造了強大野獸的克勒翁一臉滿足地回到了亞馬烏羅提。和創作者之家的麥拉談談。"
 4,"TEXT_AKTKZH104_04514_SEQ_04","阿爾卡埃烏斯和麥拉兄妹對於幫忙解決客人問題的冒險者表達了感謝。難道說原初世界的貝希摩斯……"
@@ -59,7 +59,7 @@ int32,str,str
 第一次看到它跟人這麼親，我好開心呀。
 它見到我們這麼強，總是很怕我們。"
 50,"TEXT_AKTKZH104_04514_SYSTEM_000_008","伊娥安靜地佇立著。"
-51,"TEXT_AKTKZH104_04514_KLEON_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+51,"TEXT_AKTKZH104_04514_KLEON_000_010","<Highlight>ObjectParameter(1)</Highlight>，
 借你的智慧一用吧。"
 52,"TEXT_AKTKZH104_04514_KLEON_000_011","我想將你眼前的創造生物伊娥
 變成能夠站在生態系統頂端的強大野獸。"
@@ -77,8 +77,8 @@ int32,str,str
 要是被這爪子攻擊一下絕對夠受的。"
 60,"TEXT_AKTKZH104_04514_SYSTEM_000_033","即使眼睛看不見，
 靠甩尾巴應該也能擊退敵人……
-要想站在生態系統的頂端，一定要有非同小可的實力。"
-61,"TEXT_AKTKZH104_04514_KLEON_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+要想站在生態系統的頂端，必須要有非同小可的實力。"
+61,"TEXT_AKTKZH104_04514_KLEON_000_040","<Highlight>ObjectParameter(1)</Highlight>，
 有沒有想到什麼讓這孩子變強的好方法？"
 62,"TEXT_AKTKZH104_04514_Q1_000_000","如何作答？"
 63,"TEXT_AKTKZH104_04514_A1_000_001","減少角和毛的數量，讓牙齒和爪子有用武之地！"
@@ -89,7 +89,7 @@ int32,str,str
 66,"TEXT_AKTKZH104_04514_KLEON_000_042","阿爾卡埃烏斯，麥拉。
 我想根據<If(PlayerParameter(4))>她<Else/>他</If>的建議
 讓它改頭換面，可以嗎？"
-67,"TEXT_AKTKZH104_04514_ALKAIOS_000_043","如果是正式觀察的話本應要透過創造管理局的許可，
+67,"TEXT_AKTKZH104_04514_ALKAIOS_000_043","如果是正式觀察的話本應要通過創造管理局的許可，
 但只是臨時嘗試的話只要有我們在場監督就沒問題。"
 68,"TEXT_AKTKZH104_04514_KLEON_000_044","啊，太好了！
 那我在稍遠一點的地方重新創造。
@@ -97,7 +97,7 @@ int32,str,str
 69,"TEXT_AKTKZH104_04514_ALKAIOS_000_050","那個，你……真的是使魔嗎？
 我總覺得你和我們實在是太像了……"
 70,"TEXT_AKTKZH104_04514_MAIRA_000_055","活得久了，
-我們想問題時多少會受到慣性思維侷限。
+我們想問題時多少會受到慣性思維局限。
 還是你的點子厲害。"
 71,"TEXT_AKTKZH104_04514_MAIRA_000_060","克勒翁好慢啊。
 推敲創造魔法這麼耽誤時間嗎……"
@@ -105,18 +105,18 @@ int32,str,str
 73,"TEXT_AKTKZH104_04514_ALKAIOS_000_062","克勒翁閣下……
 那個……不知道該怎麼說……
 感覺你下了很大的決心啊。"
-74,"TEXT_AKTKZH104_04514_KLEON_000_063","聽了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的建議之後，
+74,"TEXT_AKTKZH104_04514_KLEON_000_063","聽了<Highlight>ObjectParameter(1)</Highlight>的建議之後，
 我的靈感也受到了激發！"
 75,"TEXT_AKTKZH104_04514_KLEON_000_064","我整理了它的角和毛，強化了爪子，還讓它可以使用魔法。
 不僅是隕石，我還讓它學會了釋放大漩渦！
 這樣應該就足夠強大了吧？"
 76,"TEXT_AKTKZH104_04514_ALKAIOS_000_065","是的，迄今為止我觀察過很多創造生物，
-即使與它們相比，也絕對……是可以排進前幾的水準。
+即使與它們相比，也絕對……是可以排進前幾的水平。
 完全有可能站在生態系統的頂端。"
 77,"TEXT_AKTKZH104_04514_KLEON_000_066","啊，太好了！
 我馬上向創造管理局提出申請！
 呃，該用什麼名字好呢……"
-78,"TEXT_AKTKZH104_04514_KLEON_000_067","對了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+78,"TEXT_AKTKZH104_04514_KLEON_000_067","對了，<Highlight>ObjectParameter(1)</Highlight>……
 我希望你可以為它起名字。
 通稱最終被定為正式名稱的情況也是時有發生，你意下如何？"
 79,"TEXT_AKTKZH104_04514_Q2_000_000","如何作答？"
@@ -132,10 +132,10 @@ int32,str,str
 85,"TEXT_AKTKZH104_04514_MAIRA_000_071","厄爾庇斯的工作人員隨時歡迎
 像你這樣充滿熱情的創造者。"
 86,"TEXT_AKTKZH104_04514_ALKAIOS_000_072","期待閣下今後能創造出更多有趣的生物。"
-87,"TEXT_AKTKZH104_04514_MAIRA_000_073","哥哥， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+87,"TEXT_AKTKZH104_04514_MAIRA_000_073","哥哥，<Highlight>ObjectParameter(1)</Highlight>。
 我們就回創作者之家吧。"
-88,"TEXT_AKTKZH104_04514_ALKAIOS_000_075"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦你了。"
-89,"TEXT_AKTKZH104_04514_MAIRA_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+88,"TEXT_AKTKZH104_04514_ALKAIOS_000_075","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了。"
+89,"TEXT_AKTKZH104_04514_MAIRA_000_080","<Highlight>ObjectParameter(1)</Highlight>，
 感謝你能幫忙解決客人的問題。"
 90,"TEXT_AKTKZH104_04514_MAIRA_100_080","話說你雖然只是現任的阿謝姆大人的使魔，
 但卻有著堅定的意志和自己的想法，還這麼聰明。
@@ -146,9 +146,9 @@ int32,str,str
 感謝你。"
 93,"TEXT_AKTKZH104_04514_MAIRA_000_083","哥哥真是的，連感謝的話都說得這麼生硬。
 其實現在開心得不得了吧。"
-94,"TEXT_AKTKZH104_04514_MAIRA_000_084"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你。
+94,"TEXT_AKTKZH104_04514_MAIRA_000_084","<Highlight>ObjectParameter(1)</Highlight>，謝謝你。
 等你完成你身為使魔的使命之後，
 有機會要再來找我們聊天呀。"
-95,"TEXT_AKTKZH104_04514_MAIRA_000_085"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你。
+95,"TEXT_AKTKZH104_04514_MAIRA_000_085","<Highlight>ObjectParameter(1)</Highlight>，謝謝你。
 等你完成你身為使魔的使命之後，
 記得要再來找我們呀。"

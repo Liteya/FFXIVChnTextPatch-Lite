@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CHRHDB742_03151_SEQ_00","黃金港的希爾迪布蘭德正在等待冒險者一同前往紅玉炮臺。"
-1,"TEXT_CHRHDB742_03151_SEQ_01","和希爾迪布蘭德進行了交談。追上前往紅玉海的紅玉炮臺的希爾迪布蘭德並和他談談。"
+0,"TEXT_CHRHDB742_03151_SEQ_00","黃金港的希爾迪布蘭德正在等待冒險者一同前往紅玉砲台。"
+1,"TEXT_CHRHDB742_03151_SEQ_01","和希爾迪布蘭德進行了交談。追上前往紅玉海的紅玉砲台的希爾迪布蘭德並和他談談。"
 2,"TEXT_CHRHDB742_03151_SEQ_02","和希爾迪布蘭德進行了交談。眾人在討論要如何前往絕鬼島的過程中得知了為何小賊一匹狼要執著於破衣助廣，這也使大家奪回破衣助廣的心願更加強烈。向酒杯島的海盜詢問是否見到過保鏢。"
 3,"TEXT_CHRHDB742_03151_SEQ_03","詢問了海盜。為了得到進一步的情報，再次詢問酒杯島的海盜。"
 4,"TEXT_CHRHDB742_03151_SEQ_04","詢問了海盜。希爾迪布蘭德一行人在酒杯島下遇見了大五郎，讓大五郎帶路去尋找保鏢。順利從保鏢手中拿回了破衣助廣，卻在赤誠組的隊員到來時發現拿著破衣助廣的小賊一匹狼不見了，時雨也因協助越獄的罪名被捕。和螺旋海峽的希爾迪布蘭德談談接下來該如何是好。"
@@ -49,9 +49,9 @@ int32,str,str
 45,"TEXT_CHRHDB742_03151_TODO_21",""
 46,"TEXT_CHRHDB742_03151_TODO_22",""
 47,"TEXT_CHRHDB742_03151_TODO_23",""
-48,"TEXT_CHRHDB742_03151_HILDIBRAND_000_000","準備好了嗎， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下？？
+48,"TEXT_CHRHDB742_03151_HILDIBRAND_000_000","準備好了嗎，<Highlight>ObjectParameter(1)</Highlight>閣下？？
 那我們就去紅玉海吧！"
-49,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_000_001","想去紅玉炮臺的話有渡船，
+49,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_000_001","想去紅玉砲台的話有渡船，
 咱們到那邊等時雨吧。"
 50,"TEXT_CHRHDB742_03151_NASHUMHAKARACCA_000_002","不知道時雨會穿什麼來呀！"
 51,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_000_003","天之叢雲能賣多少錢呢？
@@ -69,7 +69,7 @@ int32,str,str
 58,"TEXT_CHRHDB742_03151_SHIGURE_000_013","是、是嗎？
 第一次被誇時髦，感覺有點不好意思啊！"
 59,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_100_013","時髦啊……
-每個人品味不一樣也沒辦法，
+每個人品位不一樣也沒辦法，
 不過我覺得這身衣服和草鞋還是有點不太搭吧……"
 60,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_000_014","算了，反正又不是來遊山玩水的。
 比起那傢伙的衣服，
@@ -80,7 +80,7 @@ int32,str,str
 要不把你的大隼叫出來？"
 63,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_000_017","門太郎因為之前的事情受了刺激，
 變得死都不願意接近調查員，
-咱們沒辦法靠它了。"
+咱們沒法靠它了。"
 64,"TEXT_CHRHDB742_03151_SHIGURE_000_018","嗚，好吧……
 那該如何是好啊……"
 65,"TEXT_CHRHDB742_03151_HILDIBRAND_000_019","說起來一匹狼閣下為什麼想要得到破衣助廣？
@@ -121,7 +121,7 @@ int32,str,str
 ……我、我可沒在胡思亂想！"
 83,"TEXT_CHRHDB742_03151_IHAKI_000_040","怎麼又是你。
 又有什麼事？"
-84,"TEXT_CHRHDB742_03151_IHAKI_000_041","戴斗笠穿木屐的傢伙？
+84,"TEXT_CHRHDB742_03151_IHAKI_000_041","戴鬥笠穿木屐的傢伙？
 唔——沒什麼印象啊……"
 85,"TEXT_CHRHDB742_03151_IHAKI_000_042","聽起來這打扮不太常見啊，
 要是見過我肯定會記得的，
@@ -139,7 +139,7 @@ int32,str,str
 聽他說完在下對他的看法也有所改變了……"
 92,"TEXT_CHRHDB742_03151_KUGANEWOLFBURGLAR_000_049","……忘了我剛才說的吧。
 現在還是專心先把保鏢揪出來。"
-93,"TEXT_CHRHDB742_03151_WATCHMANA03151_000_060","戴斗笠佩刀的大塊頭？
+93,"TEXT_CHRHDB742_03151_WATCHMANA03151_000_060","戴鬥笠佩刀的大塊頭？
 剛才有個帶著狗的傢伙穿的跟你說的差不多。"
 94,"TEXT_CHRHDB742_03151_WATCHMANA03151_000_061","那傢伙問我要怎麼去絕鬼島。
 我就跟他說了紅甲族很好戰，而且那裡乘船是無法登陸的……
@@ -147,7 +147,7 @@ int32,str,str
 95,"TEXT_CHRHDB742_03151_WATCHMANA03151_000_062","說起來那傢伙把帶著的狗丟下了。
 我之前還看見那條狗在下面打轉呢。"
 96,"TEXT_CHRHDB742_03151_HILDIBRAND_000_063","感謝你提供了重要的情報！"
-97,"TEXT_CHRHDB742_03151_HILDIBRAND_000_064","一定是大五郎吧！
+97,"TEXT_CHRHDB742_03151_HILDIBRAND_000_064","肯定是大五郎吧！
 叫上大家一起去找它吧！"
 98,"TEXT_CHRHDB742_03151_HILDIBRAND_000_065","呆五郎在哪呢？"
 99,"TEXT_CHRHDB742_03151_NASHUMHAKARACCA_000_066","啊，是大五郎！"
@@ -160,7 +160,7 @@ int32,str,str
 106,"TEXT_CHRHDB742_03151_DAIGORO_100_070","汪汪！"
 107,"TEXT_CHRHDB742_03151_SHIGURE_000_071","這狗可真夠喜歡小判的……
 真是個守財奴啊……"
-108,"TEXT_CHRHDB742_03151_HILDIBRAND_000_072","大五郎似乎是想帶我們去找保鏢欸！"
+108,"TEXT_CHRHDB742_03151_HILDIBRAND_000_072","大五郎似乎是想帶我們去找保鏢誒！"
 109,"TEXT_CHRHDB742_03151_DAIGORO_000_073","汪！！"
 110,"TEXT_CHRHDB742_03151_YOJIMBO_000_074","唔唔……要怎麼才能過去……"
 111,"TEXT_CHRHDB742_03151_DAIGORO_000_075","汪！"
@@ -236,7 +236,7 @@ int32,str,str
 總之先回黃金港吧！
 走吧，娜修！"
 153,"TEXT_CHRHDB742_03151_NASHUMHAKARACCA_000_113","時雨和一匹狼都不在了……"
-154,"TEXT_CHRHDB742_03151_HILDIBRAND_000_130"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，我等你好久了！"
+154,"TEXT_CHRHDB742_03151_HILDIBRAND_000_130","<Highlight>ObjectParameter(1)</Highlight>閣下，我等你好久了！"
 155,"TEXT_CHRHDB742_03151_HILDIBRAND_000_131","那之後我想了很多，
 終於找到了救時雨閣下的辦法！"
 156,"TEXT_CHRHDB742_03151_HILDIBRAND_000_132","我記得一匹狼閣下說，

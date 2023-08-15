@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB704_00899_SEQ_00","巨龍首營地的科朗蒂奧有工作想要委託給冒險者。"
-1,"TEXT_GAIUSB704_00899_SEQ_01","科朗蒂奧出錢對<Sheet(BNpcName,659,0)/>發起懸賞。討伐<Sheet(BNpcName,659,0)/>，獲得4份<Sheet(EventItem,2000703,0)/>。"
+1,"TEXT_GAIUSB704_00899_SEQ_01","科朗蒂奧出錢對<Sheet(BNpcName,659,0)/>發起懸賞。討伐<Sheet(BNpcName,659,0)/>，獲取4份<Sheet(EventItem,2000703,0)/>。"
 2,"TEXT_GAIUSB704_00899_SEQ_02","獲得了<Sheet(EventItem,2000703,0)/>。將其交給巨龍首營地的科朗蒂奧。"
 3,"TEXT_GAIUSB704_00899_SEQ_03","巨龍首營地忙於和龍族開戰的戰鬥準備，沒有餘力討伐魔物。科朗蒂奧好像很不贊同推行排外主義的其他家族的方針……"
 4,"TEXT_GAIUSB704_00899_SEQ_04",""
@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_GAIUSB704_00899_CORENTIAUX_000_001","只要你帶回它們的毛皮做證物，錢就是你的啦。
 ……那傢伙傷了我們家不少傭人和傭兵。
 不要以為只是普通的狼而掉以輕心啊。加油吧。"
-50,"TEXT_GAIUSB704_00899_DUMMY_000_010","討伐狼，獲得4張<Sheet(EventItem,2000703,0)/>"
+50,"TEXT_GAIUSB704_00899_DUMMY_000_010","討伐狼，獲取4張<Sheet(EventItem,2000703,0)/>"
 51,"TEXT_GAIUSB704_00899_DUMMYTODO_000_010","（★未使用／削除予定★）"
 52,"TEXT_GAIUSB704_00899_CORENTIAUX_000_020","幹掉<Sheet(BNpcName,659,0)/>了嗎？
 如果已經完成的話，就把證物交給我。"

@@ -51,16 +51,16 @@ int32,str,str
 45,"TEXT_CLSGLD350_00655_TODO_21",""
 46,"TEXT_CLSGLD350_00655_TODO_22",""
 47,"TEXT_CLSGLD350_00655_TODO_23",""
-48,"TEXT_CLSGLD350_00655_SERENDIPITY_000_001","啊！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，等你好久了！"
+48,"TEXT_CLSGLD350_00655_SERENDIPITY_000_001","啊！<Highlight>ObjectParameter(1)</Highlight>，等你好久了！"
 49,"TEXT_CLSGLD350_00655_SERENDIPITY_000_002","你還記得之前那個寶石商人羅羅特恩嗎？
 他剛剛來到公會，想要拜託你製作東西呢。"
 50,"TEXT_CLSGLD350_00655_SERENDIPITY_000_003","嘿嘿嘿，看來羅羅特恩很看好你啊！"
 51,"TEXT_CLSGLD350_00655_SERENDIPITY_000_004","羅羅特恩這次委託製作的是<Sheet(ItemHQ,　2078,0)/>。"
 52,"TEXT_CLSGLD350_00655_SERENDIPITY_000_005","你做好之後拿來給我，
 我會作為雕金匠公會的會長來對品質進行檢測的。"
-53,"TEXT_CLSGLD350_00655_SERENDIPITY_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你做好<Sheet(ItemHQ,　2078,0)/>了嗎？"
+53,"TEXT_CLSGLD350_00655_SERENDIPITY_000_010","<Highlight>ObjectParameter(1)</Highlight>，你做好<Sheet(ItemHQ,　2078,0)/>了嗎？"
 54,"TEXT_CLSGLD350_00655_SERENDIPITY_000_011","涅吉！時隔多日的鑑定！
-來評價評價 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 這段時間的進步吧！"
+來評價評價<Highlight>ObjectParameter(1)</Highlight>這段時間的進步吧！"
 55,"TEXT_CLSGLD350_00655_GIGI_000_012","……嘰嘰嘰……火華……咒角……
 火！火！火火火嚯嚯火火火火火！
 火火火霍火火火火火火嚯嚯火火火火夥嚯活火！"
@@ -72,7 +72,7 @@ int32,str,str
 冷靜！冷靜啊！"
 58,"TEXT_CLSGLD350_00655_SERENDIPITY_000_015","不、不好意思！
 因為之前給涅吉修理時碰到了他的發聲線路，
-所以他現在似乎陷入混亂狀態。"
+所以他現在貌似陷入混亂狀態。"
 59,"TEXT_CLSGLD350_00655_SERENDIPITY_000_016","不過沒事的！你看他多精神！
 ……
 ……對吧。"

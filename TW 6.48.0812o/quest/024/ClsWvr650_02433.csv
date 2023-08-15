@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_CLSWVR650_02433_TODO_21",""
 46,"TEXT_CLSWVR650_02433_TODO_22",""
 47,"TEXT_CLSWVR650_02433_TODO_23",""
-48,"TEXT_CLSWVR650_02433_KEIMEI_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你到這裡來！
+48,"TEXT_CLSWVR650_02433_KEIMEI_000_000","<Highlight>ObjectParameter(1)</Highlight>，歡迎你到這裡來！
 你製作的禮服十分高雅，深受上流階層的喜愛，
 琴蝶也因此變得大紅大紫。"
 49,"TEXT_CLSWVR650_02433_KEIMEI_000_001","你知道她紅到什麼程度嗎？我跟你說，近期這裡
@@ -64,28 +64,28 @@ int32,str,str
 51,"TEXT_CLSWVR650_02433_KEIMEI_000_003","琴蝶成為藝伎的時日還不長，居然就已經當選，
 這可以說是花街史無前例的壯舉了。
 她的活躍的確正在改變花街！"
-52,"TEXT_CLSWVR650_02433_KEIMEI_000_004","那我就一定要送她一件適合那個盛大場面的服裝！
+52,"TEXT_CLSWVR650_02433_KEIMEI_000_004","那我就必須要送她一件適合那個盛大場面的服裝！
 當然了，這麼重要的服裝只能交給你來製作！！"
 53,"TEXT_CLSWVR650_02433_KEIMEI_000_005","首先請你去找琴蝶本人問問她對衣服有什麼要求，
 她現在應該在三條花街。"
 54,"TEXT_CLSWVR650_02433_KEIMEI_000_009","我必須送琴蝶一件適合那個盛大場面的新禮服！
 請你去找琴蝶本人問問她對衣服有什麼要求，
 她現在應該在三條花街。"
-55,"TEXT_CLSWVR650_02433_KOTOCHO_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，真高興又能見到你。
+55,"TEXT_CLSWVR650_02433_KOTOCHO_000_010","<Highlight>ObjectParameter(1)</Highlight>，真高興又能見到你。
 多虧了你為我製作的「裙撐禮服」，
 我每晚都被叫去宴會上招待客人，忙得不得了。"
 56,"TEXT_CLSWVR650_02433_KOTOCHO_000_011","如果能在開港曼舞上吸引異國要人的目光，
 那我離三條花街首席的夢想就能更近一步。
 因此只許成功，不許失敗。"
-57,"TEXT_CLSWVR650_02433_KOTOCHO_000_012","舞臺和平時的宴會不同，是設定在室外的，
+57,"TEXT_CLSWVR650_02433_KOTOCHO_000_012","舞台和平時的宴會不同，是設定在室外的，
 我希望你幫我製作的衣服能在陽光下光彩奪目，並且方便活動。
-艾奧傑亞有這樣的衣服嗎？"
+艾歐澤亞有這樣的衣服嗎？"
 58,"TEXT_CLSWVR650_02433_Q1_000_000","要選擇什麼樣的禮服？"
 59,"TEXT_CLSWVR650_02433_A1_000_001","露肩禮服"
 60,"TEXT_CLSWVR650_02433_A1_000_002","輕盈禮服"
 61,"TEXT_CLSWVR650_02433_A1_000_003","（★未使用／削除予定★）"
 62,"TEXT_CLSWVR650_02433_KOTOCHO_000_013","咦，是看上去會像花魁一樣的衣服嗎？
-不過，艾奧傑亞風格的「禮服」會讓人有耳目一新的感覺呢。
+不過，艾歐澤亞風格的「禮服」會讓人有耳目一新的感覺呢。
 這件衣服叫什麼名字？"
 63,"TEXT_CLSWVR650_02433_KOTOCHO_000_014","的確，「裙撐禮服」是用很多層厚布料製成的，
 如果是用輕盈的布料製成的衣服，想必在室外也更容易活動吧。
@@ -99,10 +99,10 @@ int32,str,str
 66,"TEXT_CLSWVR650_02433_KOTOCHO_000_017","請你幫我做成
 我的幸運色青綠色可以嗎？
 麻煩你也這樣告訴啟明少東家。"
-67,"TEXT_CLSWVR650_02433_KEIMEI_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你回來了。
+67,"TEXT_CLSWVR650_02433_KEIMEI_000_020","<Highlight>ObjectParameter(1)</Highlight>，你回來了。
 你從琴蝶那裡打聽到了禮服的具體要求嗎？"
 68,"TEXT_CLSWVR650_02433_KEIMEI_000_021","原來如此，如果是像春天盛開的花兒一般的禮服，
-就能營造出與藝服不同的氣氛，在舞臺上掀起繽紛落英般的清風吧。
+就能營造出與藝服不同的氣氛，在舞台上掀起繽紛落英般的清風吧。
 那麼，我現在正式向你發出委託，麻煩你幫我製作這件禮服。"
 69,"TEXT_CLSWVR650_02433_KEIMEI_000_022","請你去矢切掌櫃那裡領取必要的材料，
 待<Sheet(ItemHQ,17920)/>做好之後，
@@ -122,13 +122,13 @@ int32,str,str
 75,"TEXT_CLSWVR650_02433_YAGIRI_000_039","<Sheet(ItemHQ,17920)/>似乎做好了啊，
 那就請快點交給少東家吧，少東家正迫不及待地等著呢。
 "
-76,"TEXT_CLSWVR650_02433_KEIMEI_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦你了。
+76,"TEXT_CLSWVR650_02433_KEIMEI_000_040","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了。
 如果<Sheet(ItemHQ,17920)/>做好了，
 請讓我看看。"
 77,"TEXT_CLSWVR650_02433_KEIMEI_000_041","哦哦，好精良的做工啊！
 不過肩頭的部分露得太大膽了，我稍微有些擔心……
 快點送給琴蝶，讓她穿上試試。"
-78,"TEXT_CLSWVR650_02433_KOTOCHO_000_043","少東家， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+78,"TEXT_CLSWVR650_02433_KOTOCHO_000_043","少東家，<Highlight>ObjectParameter(1)</Highlight>……
 我穿好了，怎麼樣？"
 79,"TEXT_CLSWVR650_02433_KEIMEI_000_044","這件也美得驚為天人！我一開始還擔心肩頭太過暴露，
 不過實際上看著卻很清涼，而且非常惹人憐愛！
@@ -136,9 +136,9 @@ int32,str,str
 80,"TEXT_CLSWVR650_02433_KEIMEI_000_045","如果穿著這件禮服在開港曼舞上獻上一舞，
 肯定能讓人感受到吹拂山野復甦萬物的春風。
 保證可以吸引異國要人的目光！"
-81,"TEXT_CLSWVR650_02433_KOTOCHO_000_046","少東家， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，謝謝你們。
+81,"TEXT_CLSWVR650_02433_KOTOCHO_000_046","少東家，<Highlight>ObjectParameter(1)</Highlight>，謝謝你們。
 這件禮服不僅外表美麗，也很輕盈，非常方便活動，很適合跳舞。
-我會穿著它登上舞臺，開始書寫自己的傳說！"
+我會穿著它登上舞台，開始書寫自己的傳說！"
 82,"TEXT_CLSWVR650_02433_KOTOTSURU_000_047","(-帶刺的聲音-)哎呀，琴蝶，有漂亮衣服穿真好呢？
 雖然你連正經的舞蹈都跳不好。"
 83,"TEXT_CLSWVR650_02433_KOTOCHO_000_048","琴鶴姐姐……
@@ -162,7 +162,7 @@ int32,str,str
 姐姐總是死板地守著老一套的做法，
 我肯定很快就能超越她！"
 90,"TEXT_CLSWVR650_02433_KOTOCHO_000_055","現在來我這裡的常客雖然很少，但是不要緊，
-我身邊有少東家和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 這麼可靠的同伴……
+我身邊有少東家和<Highlight>ObjectParameter(1)</Highlight>這麼可靠的同伴……
 我一定會努力的！"
 91,"TEXT_CLSWVR650_02433_SYSTEM_000_056","作為裁衣匠完成了為琴蝶增光添彩的服裝，
 學會了新的技能「掌握」！"

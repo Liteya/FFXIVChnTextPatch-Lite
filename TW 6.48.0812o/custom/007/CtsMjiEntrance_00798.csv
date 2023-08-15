@@ -3,11 +3,11 @@
 int32,str,str
 0,"TEXT_CTSMJIENTRANCE_00798_TALK_ACTOR","0"
 1,"TEXT_CTSMJIENTRANCE_00798_BARDIN_000_000","喲！要去謝爾達萊群島嗎？"
-2,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_020","需返回主世界才能前往自己的小島。"
+2,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_020","需返回原始伺服器才能前往自己的小島。"
 3,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_000","要做什麼？"
 4,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_005","要前往你的小島嗎？"
 5,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_010","要去誰的小島？"
-6,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_015","想瞭解什麼？"
+6,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_000_015","想了解什麼？"
 7,"TEXT_CTSMJIENTRANCE_00798_Q1_000_000","前往自己的小島"
 8,"TEXT_CTSMJIENTRANCE_00798_Q1_000_005","前往熟人的小島"
 9,"TEXT_CTSMJIENTRANCE_00798_Q1_000_010","聽取說明"
@@ -27,7 +27,7 @@ int32,str,str
 種種田養養動物，想怎麼過就怎麼過！
 你可真走運啊，竟然有了一座自己的島！"
 21,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_200_000","想要開拓自己的無人島
-需要先完成任務「曉月的終焉」和「出發！前往無人島！」。"
+需要先完成任務「曉月之終途」和「出發！前往無人島！」。"
 22,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_200_005","想要開拓自己的無人島
 需要先從舊薩雷安的大繁榮商店的新人店員處領取並完成
 任務「出發！前往無人島！」。"
@@ -39,5 +39,5 @@ int32,str,str
 25,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_300_005","但在島上沒有人或已有15人，
 以及島主禁止進入的情況下，
 無法進入該島。"
-26,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_300_010","除此以外，與島主來自不同主世界的玩家
-無法前往其他世界拜訪好友的小島。"
+26,"TEXT_CTSMJIENTRANCE_00798_SYSTEM_300_010","除此以外，與島主來自不同原始伺服器的玩家
+無法前往其他伺服器拜訪好友的小島。"

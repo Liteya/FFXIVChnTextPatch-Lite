@@ -7,8 +7,8 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 穆納瓦努委託冒險者去狩獵建材。向西風島的木工奇努瓦努詢問詳情。"
-2,"TEXT_BANVAN303_02187_SEQ_02","和木工奇努瓦努進行了交談。他希望冒險者為他取來成年長頸駝的骨頭。在危步臺的<Sheet(EObj,2006679,0)/>周圍張望，從出現的<Sheet(BNpcName,4592,0)/>身上獲得2根<Sheet(EventItem,2001916,0)/>。"
-3,"TEXT_BANVAN303_02187_SEQ_03","獲得了2根<Sheet(EventItem,2001916,0)/>。在危步臺的<Sheet(EObj,2006680,0)/>周圍張望，從出現的<Sheet(BNpcName,4682,0)/>身上獲得2根<Sheet(EventItem,2001937,0)/>。"
+2,"TEXT_BANVAN303_02187_SEQ_02","和木工奇努瓦努進行了交談。他希望冒險者為他取來成年長頸駝的骨頭。在危步台的<Sheet(EObj,2006679,0)/>周圍張望，從出現的<Sheet(BNpcName,4592,0)/>身上獲取2根<Sheet(EventItem,2001916,0)/>。"
+3,"TEXT_BANVAN303_02187_SEQ_03","獲得了2根<Sheet(EventItem,2001916,0)/>。在危步台的<Sheet(EObj,2006680,0)/>周圍張望，從出現的<Sheet(BNpcName,4682,0)/>身上獲取2根<Sheet(EventItem,2001937,0)/>。"
 4,"TEXT_BANVAN303_02187_SEQ_04","獲得了2根<Sheet(EventItem,2001937,0)/>。將<Sheet(EventItem,2001916,0)/>和<Sheet(EventItem,2001937,0)/>交給西風島的木工奇努瓦努。"
 5,"TEXT_BANVAN303_02187_SEQ_05","將<Sheet(EventItem,2001916,0)/>和<Sheet(EventItem,2001937,0)/>交給了奇努瓦努。長頸駝的骨頭又直又長又堅固，是十分好用的建材。"
 6,"TEXT_BANVAN303_02187_SEQ_06",""
@@ -31,9 +31,9 @@ int32,str,str
 23,"TEXT_BANVAN303_02187_SEQ_23",""
 24,"TEXT_BANVAN303_02187_TODO_00","和木工奇努瓦努對話"
 25,"TEXT_BANVAN303_02187_TODO_01","在<Sheet(EObj,2006679,0)/>張望
-從出現的<Sheet(BNpcName,4592,0)/>身上獲得<Sheet(EventItem,2001916,0)/>"
+從出現的<Sheet(BNpcName,4592,0)/>身上獲取<Sheet(EventItem,2001916,0)/>"
 26,"TEXT_BANVAN303_02187_TODO_02","在<Sheet(EObj,2006680,0)/>張望
-從出現的<Sheet(BNpcName,4682,0)/>身上獲得<Sheet(EventItem,2001937,0)/>"
+從出現的<Sheet(BNpcName,4682,0)/>身上獲取<Sheet(EventItem,2001937,0)/>"
 27,"TEXT_BANVAN303_02187_TODO_03","將<Sheet(EventItem,2001916,0)/>和<Sheet(EventItem,2001937,0)/>交給木工奇努瓦努"
 28,"TEXT_BANVAN303_02187_TODO_04",""
 29,"TEXT_BANVAN303_02187_TODO_05",""
@@ -56,24 +56,24 @@ int32,str,str
 46,"TEXT_BANVAN303_02187_TODO_22",""
 47,"TEXT_BANVAN303_02187_TODO_23",""
 48,"TEXT_BANVAN303_02187_MUNAVANU_000_000","我要是再年輕個十歲，就能去狩獵了……
-噢噢這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+噢噢這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 你的實力絕對不輸給年輕時的我！"
 49,"TEXT_BANVAN303_02187_MUNAVANU_000_001","其實、其實，我在找能夠幫忙去狩獵建材的人。
-請你去找木工奇努瓦努瞭解一下情況吧。"
-50,"TEXT_BANVAN303_02187_GINUVANU_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你願意幫忙去狩獵嗎？
-那麼、那麼，能不能請你去被人類稱為危步臺的地方，
+請你去找木工奇努瓦努了解一下情況吧。"
+50,"TEXT_BANVAN303_02187_GINUVANU_000_010","<Highlight>ObjectParameter(1)</Highlight>，你願意幫忙去狩獵嗎？
+那麼、那麼，能不能請你去被人類稱為危步台的地方，
 收集來<Sheet(EventItem,2001916,0)/>和<Sheet(EventItem,2001937,0)/>呢？"
 51,"TEXT_BANVAN303_02187_GINUVANU_000_011","不過、不過，並不是所有長頸駝的骨頭都可以的。
-年幼長頸駝的骨頭過短，年邁的又太脆弱，只有成年的才最適合。
+年幼長頸駝的骨頭過短，年邁的又太脆弱，只有成年的才最合適。
 請你如吹拂過境的涼風一般，速戰速決！"
 52,"TEXT_BANVAN303_02187_GINUVANU_000_012","能不能請你收集來<Sheet(EventItem,2001916,0)/>和<Sheet(EventItem,2001937,0)/>呢？
-長頸駝棲息在被人類稱為危步臺的地方。
+長頸駝棲息在被人類稱為危步台的地方。
 請你如吹拂過境的涼風一般，速戰速決！"
-53,"TEXT_BANVAN303_02187_GINUVANU_000_020","你回來了啊！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_BANVAN303_02187_GINUVANU_000_020","你回來了啊！<Highlight>ObjectParameter(1)</Highlight>！
 怎麼樣、怎麼樣？得到長頸駝的骨頭了嗎？"
 54,"TEXT_BANVAN303_02187_GINUVANU_000_021","這真是、這真是，太符合我的要求了！
 有了它，就能為房子搭建骨架了。
-謝謝你， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+謝謝你，<Highlight>ObjectParameter(1)</Highlight>！"
 55,"TEXT_BANVAN303_02187_GINUVANU_000_022","這兩種骨頭不光又直又長，
 <Sheet(EventItem,2001916,0)/>還很堅固，<Sheet(EventItem,2001937,0)/>十分柔韌，
 都是瓦努族建築中必不可少的建材。"

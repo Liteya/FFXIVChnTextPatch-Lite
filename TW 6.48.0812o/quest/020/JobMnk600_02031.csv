@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_JOBMNK600_02031_SEQ_00","喪靈鐘的維達蓋爾特看起來十分焦急。"
-1,"TEXT_JOBMNK600_02031_SEQ_01","雖然現在第七脈輪還沒有打開，但再耗下去德．傑恩茶就要被殺害了。為了救她，只能與赫．拉哈．提亞拚死一戰。和南薩納蘭小阿拉米格附近的奧．夏可哈談談。"
-2,"TEXT_JOBMNK600_02031_SEQ_02","在大戰之前，奧．夏可哈希望冒險者能和她戰鬥從而打開脈輪，但被維達蓋爾特阻止了。3人齊心協力拚死一戰一定可以與赫．拉哈．提亞相抗衡。和小阿拉米格附近的維達蓋爾特談談。"
-3,"TEXT_JOBMNK600_02031_SEQ_03","赫．拉哈．提亞不理會維達蓋爾特的勸說，向冒險者等人發動了攻擊。在戰鬥中冒險者打開了太陰第七脈輪。在營救出德．傑恩茶後她也加入了戰鬥，冒險者等人在經歷了激烈的交戰後終於打倒了赫．拉哈．提亞。和小阿拉米格以南的維達蓋爾特談談。"
-4,"TEXT_JOBMNK600_02031_SEQ_04","拉爾戈星導教的古老傳統被冒險者打破了。維達蓋爾特會和德．傑恩茶與奧．夏可哈一起，以冒險者這顆新星為目標，建立全新的拉爾戈星導教。作為打開了陰陽所有脈輪的武僧，今後在必要的時候要再助他們一臂之力。
+1,"TEXT_JOBMNK600_02031_SEQ_01","雖然現在第七脈輪還沒有打開，但再耗下去德·傑恩茶就要被殺害了。為了救她，只能與赫·拉哈·提亞拚死一戰。和南薩納蘭小阿拉米格附近的奧·夏可哈談談。"
+2,"TEXT_JOBMNK600_02031_SEQ_02","在大戰之前，奧·夏可哈希望冒險者能和她戰鬥從而打開脈輪，但被維達蓋爾特阻止了。3人齊心協力拚死一戰一定可以與赫·拉哈·提亞相抗衡。和小阿拉米格附近的維達蓋爾特談談。"
+3,"TEXT_JOBMNK600_02031_SEQ_03","赫·拉哈·提亞不理會維達蓋爾特的勸說，向冒險者等人發動了攻擊。在戰鬥中冒險者打開了太陰第七脈輪。在營救出德·傑恩茶後她也加入了戰鬥，冒險者等人在經歷了激烈的交戰後終於打倒了赫·拉哈·提亞。和小阿拉米格以南的維達蓋爾特談談。"
+4,"TEXT_JOBMNK600_02031_SEQ_04","拉爾戈星導教的古老傳統被冒險者打破了。維達蓋爾特會和德·傑恩茶與奧·夏可哈一起，以冒險者這顆新星為目標，建立全新的拉爾戈星導教。作為打開了陰陽所有脈輪的武僧，今後在必要的時候要再助他們一臂之力。
 
 ※滿足下列條件後，可以從雕金匠公會的艾里克那裡領取新的特職任務。
 完成「龍詩戰爭尾聲主線任務」中「命運的止境」。"
@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_JOBMNK600_02031_SEQ_21",""
 22,"TEXT_JOBMNK600_02031_SEQ_22",""
 23,"TEXT_JOBMNK600_02031_SEQ_23",""
-24,"TEXT_JOBMNK600_02031_TODO_00","和小阿拉米格附近的奧．夏可哈對話"
+24,"TEXT_JOBMNK600_02031_TODO_00","和小阿拉米格附近的奧·夏可哈對話"
 25,"TEXT_JOBMNK600_02031_TODO_01","和維達蓋爾特對話"
 26,"TEXT_JOBMNK600_02031_TODO_02","再次和維達蓋爾特對話"
 27,"TEXT_JOBMNK600_02031_TODO_03",""
@@ -52,27 +52,27 @@ int32,str,str
 45,"TEXT_JOBMNK600_02031_TODO_21",""
 46,"TEXT_JOBMNK600_02031_TODO_22",""
 47,"TEXT_JOBMNK600_02031_TODO_23",""
-48,"TEXT_JOBMNK600_02031_WIDARGELT_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ,
+48,"TEXT_JOBMNK600_02031_WIDARGELT_000_000","<Highlight>ObjectParameter(1)</Highlight>,
 現在我們還是沒能找到不經過死鬥也能各自打開第七脈輪的方法。"
 49,"TEXT_JOBMNK600_02031_WIDARGELT_000_001","……但是，已經沒有時間了。
-不能再繼續拖延時間，延後和赫．拉哈．提亞的交涉了……
+不能再繼續拖延時間，延後和赫·拉哈·提亞的交涉了……
 我們不得不選擇戰鬥。"
 50,"TEXT_JOBMNK600_02031_WIDARGELT_000_002","夏可哈正在小阿拉米格附近做最後的情報收集工作。
-我們先去和她會合吧。"
+我們先去和她匯合吧。"
 51,"TEXT_JOBMNK600_02031_WIDARGELT_000_010","已經沒有時間了，我們接下來怎麼辦呢……"
-52,"TEXT_JOBMNK600_02031_OTCHAKHA_000_050","噢，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊……
+52,"TEXT_JOBMNK600_02031_OTCHAKHA_000_050","噢，是<Highlight>ObjectParameter(1)</Highlight>啊……
 由我收集到的情報所知，傑恩茶還沒有被殺。
 不過剛才她被帶到了遺跡那邊去……
 "
 53,"TEXT_JOBMNK600_02031_OTCHAKHA_000_051","到頭來我還是沒能找到不經過死鬥也能打開脈輪的方法……
 ……可是現在竟然已經到了交涉的最後時間。"
-54,"TEXT_JOBMNK600_02031_OTCHAKHA_000_052","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+54,"TEXT_JOBMNK600_02031_OTCHAKHA_000_052","……<Highlight>ObjectParameter(1)</Highlight>。
 如今脈輪打開最多的就是你了。
 你現在已經分別打開了太陽第七和太陰第六脈輪。"
 55,"TEXT_JOBMNK600_02031_OTCHAKHA_000_053","接下來只要讓你打開太陰第七脈輪的話，就能與師父勢均力敵……
-所以…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，拜託你了！
+所以……<Highlight>ObjectParameter(1)</Highlight>，拜託你了！
 ……請與我一戰，打開最後的第七脈輪！"
-56,"TEXT_JOBMNK600_02031_Q1_000_000","要和奧．夏可哈進行死鬥嗎？"
+56,"TEXT_JOBMNK600_02031_Q1_000_000","要和奧·夏可哈進行死鬥嗎？"
 57,"TEXT_JOBMNK600_02031_A1_000_010","是"
 58,"TEXT_JOBMNK600_02031_A1_000_020","否"
 59,"TEXT_JOBMNK600_02031_WIDARGELT_000_054","(-維達蓋爾特-)請、請等一下！
@@ -82,23 +82,23 @@ int32,str,str
 但絕對不能為了力量而失去真正寶貴的東西……
 這樣和過去的我又有什麼兩樣！！"
 61,"TEXT_JOBMNK600_02031_WIDARGELT_000_056","(-維達蓋爾特-)夏可哈，你冷靜一點……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 說的沒錯！"
+<Highlight>ObjectParameter(1)</Highlight>說的沒錯！"
 62,"TEXT_JOBMNK600_02031_WIDARGELT_000_057","(-維達蓋爾特-)要是打開了太陰第七脈輪的話，我們的確更有可能獲勝。
 但失去了你，就算救回傑恩茶她也不會開心！"
-63,"TEXT_JOBMNK600_02031_WIDARGELT_000_058","(-維達蓋爾特-)論打開的脈輪數目，我們比不過赫．拉哈．提亞。
+63,"TEXT_JOBMNK600_02031_WIDARGELT_000_058","(-維達蓋爾特-)論打開的脈輪數目，我們比不過赫·拉哈·提亞。
 但我們齊心協力彌補各自缺少的力量，拼盡全力戰鬥的話……
 一定會有奇蹟發生的。"
 64,"TEXT_JOBMNK600_02031_WIDARGELT_000_059","(-維達蓋爾特-)在太陰流與太陽流反目之前……
 拉爾戈星導教混雜著如今陰陽兩個流派的武僧，
 他們曾經也是以這種方式戰鬥的「同伴」吧。"
 65,"TEXT_JOBMNK600_02031_OTCHAKHA_000_060","……謝謝你，維達蓋爾特。"
-66,"TEXT_JOBMNK600_02031_WIDARGELT_000_061","(-維達蓋爾特-)那麼我們到赫．拉哈．提亞那裡去吧！
+66,"TEXT_JOBMNK600_02031_WIDARGELT_000_061","(-維達蓋爾特-)那麼我們到赫·拉哈·提亞那裡去吧！
 我先試試能不能說服他。
 如果不行的話……我們就一起對付他吧！"
 67,"TEXT_JOBMNK600_02031_OTCHAKHA_000_070","那我們就出發吧！"
-68,"TEXT_JOBMNK600_02031_WIDARGELT_000_099"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，準備好了嗎？
-我們這就出發去找赫．拉哈．提亞吧！"
-69,"TEXT_JOBMNK600_02031_WIDARGELT_000_100","赫．拉哈．提亞！
+68,"TEXT_JOBMNK600_02031_WIDARGELT_000_099","<Highlight>ObjectParameter(1)</Highlight>，準備好了嗎？
+我們這就出發去找赫·拉哈·提亞吧！"
+69,"TEXT_JOBMNK600_02031_WIDARGELT_000_100","赫·拉哈·提亞！
 你就在附近吧……聽好了！！"
 70,"TEXT_JOBMNK600_02031_WIDARGELT_000_101","我們不會答應你的條件！
 太陽流和太陰流本是師出同門的同伴！
@@ -109,11 +109,11 @@ int32,str,str
 看樣子你已經忘記了拉爾戈星導教的本質。"
 73,"TEXT_JOBMNK600_02031_HRAHATIA_000_104","為了接近破壞神拉爾戈而進行殘忍的修行磨練自己，
 這才是星導教的本質。"
-74,"TEXT_JOBMNK600_02031_HRAHATIA_000_105","只能透過同伴之間的死鬥才能將陰陽十四脈輪全部打開，
+74,"TEXT_JOBMNK600_02031_HRAHATIA_000_105","只能通過同伴之間的死鬥才能將陰陽十四脈輪全部打開，
 這也可以說是為了讓我們不忘本而進行的試煉。"
 75,"TEXT_JOBMNK600_02031_HRAHATIA_000_106","太陽流依附於阿拉米格王族，忘記了自己的本質。
 這才是太陽流滅亡的原因啊……"
-76,"TEXT_JOBMNK600_02031_HRAHATIA_000_107","只要你們成為我們太陰流的糧食，
+76,"TEXT_JOBMNK600_02031_HRAHATIA_000_107","只要你們成為我們太陰流的食糧，
 拉爾戈星導教就會越來越強大。
 這才是我們對星導寺的祖師們應盡的職責！"
 77,"TEXT_JOBMNK600_02031_WIDARGELT_000_108","太陽流與王族相互勾結，
@@ -122,7 +122,7 @@ int32,str,str
 78,"TEXT_JOBMNK600_02031_WIDARGELT_000_109","這也是你剛才所說的追求「破壞」導致的結果！
 太陰流若是再試圖破壞同伴的生命的話，
 一定會像過去的太陽流那樣走向覆滅！"
-79,"TEXT_JOBMNK600_02031_WIDARGELT_000_110","既然現在只能透過同伴之間的死鬥打開陰陽十四脈輪，
+79,"TEXT_JOBMNK600_02031_WIDARGELT_000_110","既然現在只能通過同伴之間的死鬥打開陰陽十四脈輪，
 我們就必須想出其他辦法避免自相殘殺……
 雖然在你看來我只是在說漂亮話吧，但我們必須這麼做！"
 80,"TEXT_JOBMNK600_02031_WIDARGELT_000_111","擁有力量的人必須承擔和偉大世界一樣重大的責任！
@@ -131,7 +131,7 @@ int32,str,str
 81,"TEXT_JOBMNK600_02031_HRAHATIA_000_112","你這臭小子就曉得說些漂亮話。
 在消滅所有妨礙我實現理想的人之前，我是不會停下來的……
 殺了傑恩茶和夏可哈……還有維達蓋爾特！"
-82,"TEXT_JOBMNK600_02031_HRAHATIA_000_113","為了確保我們太陰流的糧食，
+82,"TEXT_JOBMNK600_02031_HRAHATIA_000_113","為了確保我們太陰流的食糧，
 給我活捉那個打開了太陽第七脈輪的<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精靈族</Case><Case(3)>拉拉菲爾族</Case><Case(4)>貓魅族</Case><Case(5)>魯加族</Case><Case(6)>敖龍族</Case><Case(7)>硌獅族</Case><Case(8)>維埃拉族</Case></Switch>冒險者！"
 83,"TEXT_JOBMNK600_02031_OTCHAKHA_000_500","傑恩茶、傑恩茶！你沒事吧？！"
 84,"TEXT_JOBMNK600_02031_DZENTSA_000_501","夏可哈……維達蓋爾特……
@@ -148,16 +148,16 @@ int32,str,str
 現在我應該可以發動曾經最強的技能了……"
 89,"TEXT_JOBMNK600_02031_HRAHATIA_000_506","好了，你們已經沒用了……死吧！！"
 90,"TEXT_JOBMNK600_02031_HRAHATIA_000_507","竟然……抵擋住了我的絕招？！"
-91,"TEXT_JOBMNK600_02031_WIDARGELT_000_508"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+91,"TEXT_JOBMNK600_02031_WIDARGELT_000_508","<Highlight>ObjectParameter(1)</Highlight>！
 難道說你在剛才的戰鬥中打開了最後的脈輪？！"
-92,"TEXT_JOBMNK600_02031_DZENTSA_000_509"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 打開了陰陽所有脈輪！
+92,"TEXT_JOBMNK600_02031_DZENTSA_000_509","<Highlight>ObjectParameter(1)</Highlight>打開了陰陽所有脈輪！
 ……也就是說，與師父已經是勢均力敵了！！"
 93,"TEXT_JOBMNK600_02031_OTCHAKHA_000_510","是啊！
-只要我們支援 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話……說不定還有勝算！"
+只要我們支援<Highlight>ObjectParameter(1)</Highlight>的話……說不定還有勝算！"
 94,"TEXT_JOBMNK600_02031_HRAHATIA_000_511","勝算？
 別鬧了，看來我的弟子不但功夫不行腦子也有問題啊。
 哎呀哎呀，是我教導無方啊……"
-95,"TEXT_JOBMNK600_02031_HRAHATIA_000_512"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 才剛剛打開脈輪……
+95,"TEXT_JOBMNK600_02031_HRAHATIA_000_512","<Highlight>ObjectParameter(1)</Highlight>才剛剛打開脈輪……
 而我剛從你們3名武僧身上奪取了新鮮的「氣」，
 體內充斥著強大的力量！"
 96,"TEXT_JOBMNK600_02031_HRAHATIA_000_513","像你們這種雜兵多幾個也跟沒有一樣！
@@ -169,8 +169,8 @@ int32,str,str
 ……簡直就像在做夢一樣！！"
 99,"TEXT_JOBMNK600_02031_WIDARGELT_000_700","我們3個成功救出了傑恩茶。
 多虧了這份力量……"
-100,"TEXT_JOBMNK600_02031_WIDARGELT_000_701","到頭來我還是沒能說服赫．拉哈．提亞。
-……難道說我只能透過戰鬥來開拓未來嗎？"
+100,"TEXT_JOBMNK600_02031_WIDARGELT_000_701","到頭來我還是沒能說服赫·拉哈·提亞。
+……難道說我只能通過戰鬥來開拓未來嗎？"
 101,"TEXT_JOBMNK600_02031_WIDARGELT_000_702","拉爾戈星導教只能在破壞之中存在嗎……"
 102,"TEXT_JOBMNK600_02031_DZENTSA_000_703","……可是，我們全靠你們的力量才得以獲救。
 武僧的力量是為了拯救什麼而存在的吧。"
@@ -184,23 +184,23 @@ int32,str,str
 但是和同伴們一起努力的話一定會找到解決的方法。
 若是大家心懷相同理想的話更是事半功倍。"
 106,"TEXT_JOBMNK600_02031_OTCHAKHA_000_707","如今師父已經不在了，
-將陰陽十四脈輪全部打開的武僧只剩 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一人。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 是一名擁有溫柔而強大的力量的武僧。"
-107,"TEXT_JOBMNK600_02031_OTCHAKHA_000_708","正因為 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 追求的不只是單純的破壞之力，
+將陰陽十四脈輪全部打開的武僧只剩<Highlight>ObjectParameter(1)</Highlight>一人。
+<Highlight>ObjectParameter(1)</Highlight>是一名擁有溫柔而強大的力量的武僧。"
+107,"TEXT_JOBMNK600_02031_OTCHAKHA_000_708","正因為<Highlight>ObjectParameter(1)</Highlight>追求的不只是單純的破壞之力，
 才達到了拉爾戈星導教的至高境界……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 打破了傳統……為武僧開闢了新的道路。"
-108,"TEXT_JOBMNK600_02031_OTCHAKHA_100_708","而且 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 透過抵擋那傢伙的攻擊打開了最後的脈輪。
+<Highlight>ObjectParameter(1)</Highlight>打破了傳統……為武僧開闢了新的道路。"
+108,"TEXT_JOBMNK600_02031_OTCHAKHA_100_708","而且<Highlight>ObjectParameter(1)</Highlight>通過抵擋那傢伙的攻擊打開了最後的脈輪。
 這說明打開脈輪並不一定需要有人犧牲！"
 109,"TEXT_JOBMNK600_02031_WIDARGELT_000_709","……傑恩茶、夏可哈，謝謝你們。
 讓我們一起思考如何使用這份力量，為未來開闢新的道路吧！
 我們會為建立全新的拉爾戈星導教打下堅實的基礎！"
-110,"TEXT_JOBMNK600_02031_WIDARGELT_000_710"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，今後你就是我們的目標。
+110,"TEXT_JOBMNK600_02031_WIDARGELT_000_710","<Highlight>ObjectParameter(1)</Highlight>，今後你就是我們的目標。
 我們要成為為打破束縛、開闢自由的未來而使用力量的武僧……"
 111,"TEXT_JOBMNK600_02031_WIDARGELT_000_711","過去星導教的先祖們被群星引領勇攀高峰，
 我們要像先祖一樣以你這顆新星為目標，探尋抵達巔峰的道路。"
 112,"TEXT_JOBMNK600_02031_WIDARGELT_000_712","雖然我並不強大……也曾迷惘、恐懼、為自己的行為後悔過。
 但是即便身處黑暗中，只要前方有光明我就不會停下腳步。"
-113,"TEXT_JOBMNK600_02031_WIDARGELT_000_713"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+113,"TEXT_JOBMNK600_02031_WIDARGELT_000_713","<Highlight>ObjectParameter(1)</Highlight>！
 請你成為我們拉爾戈星導教的領航之星吧！
 以你的強大、正義、高尚而純潔的力量引領我們走向光明！！"
 114,"TEXT_JOBMNK600_02031_SYSTEM_000_500","「武僧」的故事到此告一段落！
@@ -209,34 +209,34 @@ int32,str,str
 115,"TEXT_JOBMNK600_02031_SYSTEM_000_501","完成「龍詩戰爭尾聲主線任務」中「命運的止境」。"
 116,"TEXT_JOBMNK600_02031_SYSTEM_000_502","滿足條件後，和雕金匠公會的艾里克對話，
 即可開始新的特職任務！"
-117,"TEXT_JOBMNK600_02031_QIB_001_TODO_1","在救出德．傑恩茶之前 防禦赫．拉哈．提亞的攻擊！"
-118,"TEXT_JOBMNK600_02031_QIB_001_TODO_2","打倒赫．拉哈．提亞！"
+117,"TEXT_JOBMNK600_02031_QIB_001_TODO_1","在救出德·傑恩茶之前 防禦赫·拉哈·提亞的攻擊！"
+118,"TEXT_JOBMNK600_02031_QIB_001_TODO_2","打倒赫·拉哈·提亞！"
 119,"TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_PCDEAD","我還……不夠強大……"
 120,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_DEAD","可惡……傑恩茶就交給你了……"
 121,"TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_DEAD","夏可哈……對不起……謝謝……"
 122,"TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_10","我和夏可哈去救傑恩茶！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你拖住赫．拉哈．提亞！"
+<Highlight>ObjectParameter(1)</Highlight>，請你拖住赫·拉哈·提亞！"
 123,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_11","傑恩茶……我這就去救你！"
 124,"TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_12","夏可哈……還有你們兩個，怎麼在這裡？！"
 125,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_13","嘿嘿嘿……就你還想贏我？"
-126,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_20","嗯，你還蠻有本事啊……
+126,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_20","嗯，你還挺有本事啊……
 那麼我就換一招吧。"
 127,"TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_21","我感受到一股不安定的氣流……請小心！"
 128,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_22","想要在戰鬥中覺醒嗎……有意思！"
 129,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_23","（★未使用／削除予定★）"
 130,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_24","敵方的攻勢減緩了，快去救傑恩茶……趁現在！"
 131,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_30","太棒了……我體內的氣都要溢出來了！"
-132,"TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_31","如果是在戰鬥中再次成長的 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的話……
-一定可以打敗赫．拉哈．提亞！"
+132,"TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_31","如果是在戰鬥中再次成長的<Highlight>ObjectParameter(1)</Highlight>的話……
+一定可以打敗赫·拉哈·提亞！"
 133,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_32","周圍的敵人就交給我們吧！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你專心對付赫．拉哈．提亞！"
+<Highlight>ObjectParameter(1)</Highlight>，你專心對付赫·拉哈·提亞！"
 134,"TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_33","……我也想出一份力！"
 135,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_40","差不多也該分出勝負了吧……
 來領教一下我的最終奧義吧！"
 136,"TEXT_JOBMNK600_02031_QIB_001_WIDARGELT_BATTLETALK_41","他要攻過來了……小心！"
-137,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_42","赫．拉哈．提亞，請停手吧！
+137,"TEXT_JOBMNK600_02031_QIB_001_OTCHAKHA_BATTLETALK_42","赫·拉哈·提亞，請停手吧！
 我們應該一起探尋新的道路，新的道路一定存在！"
-138,"TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_43"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 沒有殺人照樣打開了第七脈輪！
+138,"TEXT_JOBMNK600_02031_QIB_001_DZENTSA_BATTLETALK_43","<Highlight>ObjectParameter(1)</Highlight>沒有殺人照樣打開了第七脈輪！
 總之只要去尋找的話就肯定有辦法！"
 139,"TEXT_JOBMNK600_02031_QIB_001_HRAHATIA_BATTLETALK_44","呵呵……這麼做毫無意義。
 你們難道已經忘記破壞神拉爾戈的教誨了嗎？"

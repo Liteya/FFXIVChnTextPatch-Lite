@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA104_01225_SEQ_00","灰陣營的菲布布．夏遇到了無法容忍的事。"
-1,"TEXT_BANAMA104_01225_SEQ_01","接受了菲布布．夏的委託。前往贊拉克，首先討伐3隻<Sheet(BNpcName,2511,0)/>，再討伐現身的頭目<Sheet(BNpcName,2360,0)/>。"
-2,"TEXT_BANAMA104_01225_SEQ_02","討伐了<Sheet(BNpcName,2511,0)/>及其頭目<Sheet(BNpcName,2360,0)/>。向灰陣營的菲布布．夏報告。"
-3,"TEXT_BANAMA104_01225_SEQ_03","向菲布布．夏報告完畢。討伐了<Sheet(BNpcName,2360,0)/>之後，<Sheet(BNpcName,2511,0)/>們應該會安分一段時間。"
+0,"TEXT_BANAMA104_01225_SEQ_00","灰陣營的菲布布·夏遇到了無法容忍的事。"
+1,"TEXT_BANAMA104_01225_SEQ_01","接受了菲布布·夏的委託。前往贊拉克，首先討伐3隻<Sheet(BNpcName,2511,0)/>，再討伐現身的頭目<Sheet(BNpcName,2360,0)/>。"
+2,"TEXT_BANAMA104_01225_SEQ_02","討伐了<Sheet(BNpcName,2511,0)/>及其頭目<Sheet(BNpcName,2360,0)/>。向灰陣營的菲布布·夏報告。"
+3,"TEXT_BANAMA104_01225_SEQ_03","向菲布布·夏報告完畢。討伐了<Sheet(BNpcName,2360,0)/>之後，<Sheet(BNpcName,2511,0)/>們應該會安分一段時間。"
 4,"TEXT_BANAMA104_01225_SEQ_04",""
 5,"TEXT_BANAMA104_01225_SEQ_05",""
 6,"TEXT_BANAMA104_01225_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANAMA104_01225_SEQ_22",""
 23,"TEXT_BANAMA104_01225_SEQ_23",""
 24,"TEXT_BANAMA104_01225_TODO_00","討伐3隻<Sheet(BNpcName,2511,0)/> 再討伐現身的<Sheet(BNpcName,2360,0)/>"
-25,"TEXT_BANAMA104_01225_TODO_01","向菲布布．夏報告"
+25,"TEXT_BANAMA104_01225_TODO_01","向菲布布·夏報告"
 26,"TEXT_BANAMA104_01225_TODO_02",""
 27,"TEXT_BANAMA104_01225_TODO_03",""
 28,"TEXT_BANAMA104_01225_TODO_04",""
@@ -54,12 +54,12 @@ int32,str,str
 49,"TEXT_BANAMA104_01225_FIBUBBGAH_000_002","最近<Sheet(BNpcName,2511,0)/>引發的問題特別嚴重。
 那群傢伙食慾旺盛，把地上的東西都吃光了，
 還無節操地不斷增殖……可謂大地的憂患。"
-50,"TEXT_BANAMA104_01225_FIBUBBGAH_000_003","因此，一定要消滅它們的頭目——巨龜<Sheet(BNpcName,2360,0)/>，
+50,"TEXT_BANAMA104_01225_FIBUBBGAH_000_003","因此，必須要消滅它們的頭目——巨龜<Sheet(BNpcName,2360,0)/>，
 它是造成增殖的主要原因。"
 51,"TEXT_BANAMA104_01225_FIBUBBGAH_000_004","如果找不到<Sheet(BNpcName,2360,0)/>，
 你就去狩獵<Sheet(BNpcName,2511,0)/>，把它引出來。
 強者啊，這項使命就交給你了。"
-52,"TEXT_BANAMA104_01225_FIBUBBGAH_000_011","討伐目標是「<Sheet(BNpcName,2511,0)/>」和它們的頭目「<Sheet(BNpcName,2360,0)/>」。
+52,"TEXT_BANAMA104_01225_FIBUBBGAH_000_011","討伐對象是「<Sheet(BNpcName,2511,0)/>」和它們的頭目「<Sheet(BNpcName,2360,0)/>」。
 強者啊，去狩獵<Sheet(BNpcName,2511,0)/>，
 然後把<Sheet(BNpcName,2360,0)/>引出來！"
 53,"TEXT_BANAMA104_01225_FIBUBBGAH_000_021","你成功討伐了<Sheet(BNpcName,2360,0)/>，幹得漂亮！

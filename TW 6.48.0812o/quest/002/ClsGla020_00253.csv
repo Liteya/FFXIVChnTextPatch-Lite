@@ -65,7 +65,7 @@ int32,str,str
 她可是全體公會成員仰慕的對象。
 來吧，請你去裡面的訓練場找她吧！"
 55,"TEXT_CLSGLA020_00253_MYLLA_000_10","露露茨都跟我說了。
-你叫 <Highlight>ObjectParameter(1)</Highlight> 啊？
+你叫<Highlight>ObjectParameter(1)</Highlight>啊？
 真是個不錯的名字。"
 56,"TEXT_CLSGLA020_00253_MYLLA_000_11","首先，歡迎你來到我們劍術師公會。
 我是公會會長密拉。"
@@ -98,7 +98,7 @@ int32,str,str
 73,"TEXT_CLSGLA020_00253_MYLLA_000_25","先熟悉一下手中的劍，
 這是基本中的基本。"
 74,"TEXT_CLSGLA020_00253_MYLLA_000_26","(CUT)"
-75,"TEXT_CLSGLA020_00253_MYLLA_000_30","你回來了啊， <Highlight>ObjectParameter(1)</Highlight> 。
+75,"TEXT_CLSGLA020_00253_MYLLA_000_30","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 怎麼樣，你順利打倒魔物了嗎？"
 76,"TEXT_CLSGLA020_00253_MYLLA_000_31","我把這本「討伐筆記」交給作為劍術師踏出新一步的你！"
 77,"TEXT_CLSGLA020_00253_MYLLA_000_32","討伐筆記中記載著適合修行的對手。
@@ -108,4 +108,4 @@ int32,str,str
 新人，我很看好你喲！"
 79,"TEXT_CLSGLA020_00253_SYSTEM_000_34","開啟了「劍術師」的職業任務。
 等級達到「5級」以上時，才可以領取下一個任務。
-提高等級後再來公會。 "
+提高等級後再來公會。"

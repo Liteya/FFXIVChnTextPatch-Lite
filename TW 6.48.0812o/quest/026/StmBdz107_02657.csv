@@ -5,7 +5,7 @@ int32,str,str
 1,"TEXT_STMBDZ107_02657_SEQ_01","塞伊亞想要嘗試採掘採石歌中隱藏的寶石。可是，採石地點處於危險地帶，因此委託冒險者進行護衛。和基拉巴尼亞山區赤紅神塔西邊的塞伊亞談談。"
 2,"TEXT_STMBDZ107_02657_SEQ_02","和塞伊亞進行了交談。為確保採掘地點的安全，在赤紅神塔西邊的<Sheet(EObj,2008315,0)/>進行張望，討伐出現的盧恩族。"
 3,"TEXT_STMBDZ107_02657_SEQ_03","討伐了<Sheet(BNpcName,5895,0)/>，確保了採掘地點的安全。到赤紅神塔西邊的試掘地點標誌附近使用情感動作「招手」。"
-4,"TEXT_STMBDZ107_02657_SEQ_04","在採掘地點透過招手叫來了塞伊亞。經過採掘，發現了似乎是所尋求的寶石原石的石頭。和阿拉加納的塞伊亞談談。"
+4,"TEXT_STMBDZ107_02657_SEQ_04","在採掘地點通過招手叫來了塞伊亞。經過採掘，發現了似乎是所尋求的寶石原石的石頭。和阿拉加納的塞伊亞談談。"
 5,"TEXT_STMBDZ107_02657_SEQ_05","和塞伊亞進行了交談。採掘到的原石，實際上毫無價值。不過，關於採石歌，絲薇特拉芙似乎想起了什麼。"
 6,"TEXT_STMBDZ107_02657_SEQ_06",""
 7,"TEXT_STMBDZ107_02657_SEQ_07",""
@@ -80,11 +80,11 @@ int32,str,str
 不怕一萬，就怕萬一，拜託了。"
 59,"TEXT_STMBDZ107_02657_SAYER_000_020","果然，把你帶來是正確的選擇……
 我看到了盧恩族的山賊，藏在前面。
-這樣根本沒辦法進行作業。"
-60,"TEXT_STMBDZ107_02657_SAYER_000_021"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，到前方張望周圍，
+這樣根本沒法進行作業。"
+60,"TEXT_STMBDZ107_02657_SAYER_000_021","<Highlight>ObjectParameter(1)</Highlight>，到前方張望周圍，
 找到並討伐藏起來的盧恩族。
 確保了安全後，「招手」示意。"
-61,"TEXT_STMBDZ107_02657_SAYER_000_029","盧恩族的山賊就藏在前面。這樣根本沒辦法進行作業。
+61,"TEXT_STMBDZ107_02657_SAYER_000_029","盧恩族的山賊就藏在前面。這樣根本沒法進行作業。
 到前方張望周圍，討伐藏起來的盧恩族。
 確保了安全後，「招手」示意。"
 62,"TEXT_STMBDZ107_02657_SYSTEM_000_029","確保了周圍的安全後，到試掘地點標誌附近，
@@ -98,13 +98,13 @@ int32,str,str
 65,"TEXT_STMBDZ107_02657_SAYER_000_041","這有可能是寶石的原石。
 我要趕緊回到阿拉加納，詳細調查一番。
 爭取在你回來之前得出結果！"
-66,"TEXT_STMBDZ107_02657_SWETELOVE_000_049"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+66,"TEXT_STMBDZ107_02657_SWETELOVE_000_049","<Highlight>ObjectParameter(1)</Highlight>，
 感謝你陪同爺爺。
 他沒有給你添麻煩吧？"
-67,"TEXT_STMBDZ107_02657_SAYER_000_050","噢噢，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊。
+67,"TEXT_STMBDZ107_02657_SAYER_000_050","噢噢，是<Highlight>ObjectParameter(1)</Highlight>啊。
 我用天眼鏡查看了一番，發現這石頭沒什麼價值……
 之所以閃閃發光，是因為混有低純度的水晶碎片。"
-68,"TEXT_STMBDZ107_02657_SAYER_000_051","也只有玩家家酒的小孩子才會喜歡這東西……
+68,"TEXT_STMBDZ107_02657_SAYER_000_051","也只有玩扮家家酒的小孩子才會喜歡這東西……
 採石歌裡所說的「不要賣」，是因為這種石頭混有低純度的水晶。
 也就是說，歌詞的含義，就是字面上的意思。"
 69,"TEXT_STMBDZ107_02657_SWETELOVE_000_052","爺爺，採石歌指的莫非就是
@@ -128,4 +128,4 @@ int32,str,str
 76,"TEXT_STMBDZ107_02657_SWETELOVE_000_059","當然，那是父親留給我的珍貴回憶。"
 77,"TEXT_STMBDZ107_02657_SAYER_000_060","沒想到，希望還存在！
 也許能從第二段歌詞中有所新發現！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，上天還沒有拋棄我！"
+<Highlight>ObjectParameter(1)</Highlight>啊，上天還沒有拋棄我！"

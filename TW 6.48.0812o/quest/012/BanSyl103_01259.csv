@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSYL103_01259_SEQ_00","妖精暫留地的特那克希亞好像遇上了些麻煩。"
-1,"TEXT_BANSYL103_01259_SEQ_01","接受了特那克希亞的委託。在百靈啼獲得5個<Sheet(EventItem,2001163,0)/>。"
+1,"TEXT_BANSYL103_01259_SEQ_01","接受了特那克希亞的委託。在百靈啼獲取5個<Sheet(EventItem,2001163,0)/>。"
 2,"TEXT_BANSYL103_01259_SEQ_02","獲得了<Sheet(EventItem,2001163,0)/>。將<Sheet(EventItem,2001163,0)/>交給妖精暫留地的特那克希亞。"
 3,"TEXT_BANSYL103_01259_SEQ_03","將<Sheet(EventItem,2001163,0)/>交給了特那克希亞，看到重要的南瓜回到身邊，特那克希亞非常高興。下次有機會再協助他。"
 4,"TEXT_BANSYL103_01259_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANSYL103_01259_SEQ_21",""
 22,"TEXT_BANSYL103_01259_SEQ_22",""
 23,"TEXT_BANSYL103_01259_SEQ_23",""
-24,"TEXT_BANSYL103_01259_TODO_00","在百靈啼獲得<Sheet(EventItem,2001163,0)/>"
+24,"TEXT_BANSYL103_01259_TODO_00","在百靈啼獲取<Sheet(EventItem,2001163,0)/>"
 25,"TEXT_BANSYL103_01259_TODO_01","將<Sheet(EventItem,2001163,0)/>交給特那克希亞"
 26,"TEXT_BANSYL103_01259_TODO_02",""
 27,"TEXT_BANSYL103_01259_TODO_03",""

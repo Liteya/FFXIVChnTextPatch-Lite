@@ -51,10 +51,10 @@ int32,str,str
 45,"TEXT_BANSAH004_01377_TODO_21",""
 46,"TEXT_BANSAH004_01377_TODO_22",""
 47,"TEXT_BANSAH004_01377_TODO_23",""
-48,"TEXT_BANSAH004_01377_NOVV_000_000","呼嘶…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+48,"TEXT_BANSAH004_01377_NOVV_000_000","呼嘶……<Highlight>ObjectParameter(1)</Highlight>，
 你本領高強，我有一事想要拜託你。"
 49,"TEXT_BANSAH004_01377_NOVV_000_001","呼嘶……我要去做一件要緊事，
-一定要離開養育場一陣子。
+必須要離開養育場一陣子。
 這段時間裡，你能幫我照看這裡嗎？"
 50,"TEXT_BANSAH004_01377_NOVV_000_002","照顧那些孩子們的事不用你費心。
 即使我不在，
@@ -66,7 +66,7 @@ int32,str,str
 到底有什麼要緊事啊？"
 53,"TEXT_BANSAH004_01377_NOVV_000_005","呼嘶……塞烏，這事你不用管。
 你只要保護好弟弟們，盡好你身為兄長的職責就行。"
-54,"TEXT_BANSAH004_01377_NOVV_000_006","呼嘶…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，這裡就麻煩你了。
+54,"TEXT_BANSAH004_01377_NOVV_000_006","呼嘶……<Highlight>ObjectParameter(1)</Highlight>，這裡就麻煩你了。
 等事情一完我就會立刻回來的。
 這段時間就勞駕你多費心了。"
 55,"TEXT_BANSAH004_01377_SEWW_000_007","呼嘶！老爹！"
@@ -78,7 +78,7 @@ int32,str,str
 老爹卻從來不肯跟我們講他過去的戰鬥！"
 58,"TEXT_BANSAH004_01377_SEWW_000_012","細想起來……我們對老爹幾乎是一無所知啊。
 他的過去，還有他曾經在戰場上的英姿……我們都不知道。"
-59,"TEXT_BANSAH004_01377_SEWW_000_013","呼嘶…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有事拜託你！
+59,"TEXT_BANSAH004_01377_SEWW_000_013","呼嘶……<Highlight>ObjectParameter(1)</Highlight>，我有事拜託你！
 你能暗中調查一下老爹去辦的到底是什麼事情嗎？
 我太想知道了！"
 60,"TEXT_BANSAH004_01377_SEWW_000_014","那些上了歲數的魚人族裡應該有很多受過老爹照顧的傢伙。
@@ -141,11 +141,11 @@ int32,str,str
 他們一定會設下卑鄙的陷阱對付老爹的！"
 81,"TEXT_BANSAH004_01377_SEWW_000_043","呼嘶……老爹一定是不想把我們這些孩子捲進去，
 所以才一個人去的……他最初就做好了戰鬥的準備了！"
-82,"TEXT_BANSAH004_01377_SEWW_000_044","無鰭類……不， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+82,"TEXT_BANSAH004_01377_SEWW_000_044","無鰭類……不，<Highlight>ObjectParameter(1)</Highlight>！
 會談是在海蛇巢穴吧？我想請你潛入那裡，
 要是老爹有個萬一，就請你幫幫他！"
 83,"TEXT_BANSAH004_01377_SEWW_000_045","呼嘶……我很想自己趕去。
-但是我有老爹交給我的任務，我一定要保護弟弟們……
+但是我有老爹交給我的任務，我必須要保護弟弟們……
 我不能放下自己的責任……所以，請你幫幫老爹！"
 84,"TEXT_BANSAH004_01377_SEWW_000_046","呼嘶……請你潛入海蛇巢穴，
 暗中窺探老爹和珊瑚尖槍的會談！
@@ -169,7 +169,7 @@ int32,str,str
 真想不到會從你嘴裡聽到這種話……
 你還真是老糊塗了啊！"
 93,"TEXT_BANSAH004_01377_ZUUG_000_108","過去的你那是多麼強悍，多麼令人敬畏！
-比鯊魚的牙還要鋒利，比鰩魚的毒針更危險，比海蛇更凶猛！
+比鯊魚的牙還要鋒利，比鰩魚的毒針更危險，比海蛇更兇猛！
 威震蒼茫洋的無畏戰士！"
 94,"TEXT_BANSAH004_01377_ZUUG_000_109","那就是「紅珊瑚海魔」諾布！
 呼嘶！那就是你啊！
@@ -199,7 +199,7 @@ int32,str,str
 107,"TEXT_BANSAH004_01377_ZUUG_000_000_121","呼嘶……給我記住了，諾布！
 我一定會成為超越你的戰士的！
 我才配得上紅珊瑚海魔之名！"
-108,"TEXT_BANSAH004_01377_NOVV_000_122"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊……不好意思，
+108,"TEXT_BANSAH004_01377_NOVV_000_122","<Highlight>ObjectParameter(1)</Highlight>啊……不好意思，
 沒有你出場的機會了。
 是塞烏叫你來的嗎？"
 109,"TEXT_BANSAH004_01377_NOVV_000_123","呼嘶……那傢伙真是的……
@@ -207,7 +207,7 @@ int32,str,str
 只是我還沒老弱到要讓孩子為我操心啊。"
 110,"TEXT_BANSAH004_01377_NOVV_000_124","呼嘶……不過還是得謝謝你。
 我先回養育場等你了。"
-111,"TEXT_BANSAH004_01377_NOVV_000_050","呼嘶……你來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+111,"TEXT_BANSAH004_01377_NOVV_000_050","呼嘶……你來啦，<Highlight>ObjectParameter(1)</Highlight>。
 我正等你呢。
 塞烏在嗎？"
 112,"TEXT_BANSAH004_01377_SEWW_000_051","呼嘶……老爹……
@@ -249,18 +249,18 @@ int32,str,str
 125,"TEXT_BANSAH004_01377_SEWW_000_064","呼嘶……居然是這樣……
 老爹……我……為了死去的那些兄弟，
 我一定要阻止珊瑚尖槍的野心！"
-126,"TEXT_BANSAH004_01377_NOVV_000_065","呼嘶…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+126,"TEXT_BANSAH004_01377_NOVV_000_065","呼嘶……<Highlight>ObjectParameter(1)</Highlight>，
 你現在能理解我為什麼對你寄予厚望了吧？"
 127,"TEXT_BANSAH004_01377_NOVV_000_066","說實話……我憎恨你們人類！
 但是我也決定了不去憎恨人類。
 如果能跨越憎恨，在那前面一定有我們所尋求的真正共存。"
 128,"TEXT_BANSAH004_01377_NOVV_000_067","這就是我對死去孩子們的悼念……
 所以，請你繼續幫助我。
-呼嘶……拜託了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+呼嘶……拜託了，<Highlight>ObjectParameter(1)</Highlight>！"
 129,"TEXT_BANSAH004_01377_SYSTEM_200_070","與魚人族「諾布一夥」的關係程度到達了「友好」。
 他們接受了冒險者作為共同追求和平的一員。"
 130,"TEXT_BANSAH004_01377_SYSTEM_200_071","今後可以在諾布養育場的塞烏處，
-接受可重複進行的友好部族日常任務。"
+接受可重覆進行的友好部族日常任務。"
 131,"TEXT_BANSAH004_01377_SYSTEM_200_072","並且可以在「魚人族雜用商人」處購入要求「關係程度：友好」的商品。
 在今後的冒險裡善加利用吧！"
 132,"TEXT_BANSAH004_01377_TAMER01376_000_080","呼嘶……你要騎上我的水龍蜥前往月影島嗎？"

@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSC205_00964_SEQ_00","天狼星燈塔的奧坦．雅拉坦，看上去對死靈充滿了畏懼。"
-1,"TEXT_GAIUSC205_00964_SEQ_01","奧坦．雅拉坦十分懼怕死靈。打倒5個<Sheet(BNpcName,1854,0)/>。"
-2,"TEXT_GAIUSC205_00964_SEQ_02","打倒了<Sheet(BNpcName,1854,0)/>。返回天狼星燈塔，向奧坦．雅拉坦報告。"
-3,"TEXT_GAIUSC205_00964_SEQ_03","聽說死靈都被趕跑了，奧坦．雅拉坦放下心來。寧靜的燈塔到底出了什麼事……"
+0,"TEXT_GAIUSC205_00964_SEQ_00","天狼星燈塔的奧坦·雅拉坦，看上去對死靈充滿了畏懼。"
+1,"TEXT_GAIUSC205_00964_SEQ_01","奧坦·雅拉坦十分懼怕死靈。打倒5個<Sheet(BNpcName,1854,0)/>。"
+2,"TEXT_GAIUSC205_00964_SEQ_02","打倒了<Sheet(BNpcName,1854,0)/>。返回天狼星燈塔，向奧坦·雅拉坦報告。"
+3,"TEXT_GAIUSC205_00964_SEQ_03","聽說死靈都被趕跑了，奧坦·雅拉坦放下心來。寧靜的燈塔到底出了什麼事……"
 4,"TEXT_GAIUSC205_00964_SEQ_04",""
 5,"TEXT_GAIUSC205_00964_SEQ_05",""
 6,"TEXT_GAIUSC205_00964_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSC205_00964_SEQ_22",""
 23,"TEXT_GAIUSC205_00964_SEQ_23",""
 24,"TEXT_GAIUSC205_00964_TODO_00","討伐<Sheet(BNpcName,1854,0)/>"
-25,"TEXT_GAIUSC205_00964_TODO_01","向奧坦．雅拉坦報告"
+25,"TEXT_GAIUSC205_00964_TODO_01","向奧坦·雅拉坦報告"
 26,"TEXT_GAIUSC205_00964_TODO_02",""
 27,"TEXT_GAIUSC205_00964_TODO_03",""
 28,"TEXT_GAIUSC205_00964_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 拜託你去把死靈趕跑吧！
 這樣下去的話，根本顧不上修理什麼燈塔啊！"
 50,"TEXT_GAIUSC205_00964_DUMMY_000_000","討伐5隻幽靈"
-51,"TEXT_GAIUSC205_00964_SYSTEM_000_000","（★未使用／削除予定★）"
+51,"TEXT_GAIUSC205_00964_SYSTEM_000_000","（未使用/預計刪除）"
 52,"TEXT_GAIUSC205_00964_OTANYARATAN_000_010","你把死靈都趕跑了嗎？
 哎呀哎呀，終於可以放心了，謝謝你。"
 53,"TEXT_GAIUSC205_00964_OTANYARATAN_000_011","近來，不光觸礁的船隻絡繹不絕，

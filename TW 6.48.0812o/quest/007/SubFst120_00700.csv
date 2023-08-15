@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_SUBFST120_00700_SEQ_00","沃爾賽勒正牙校想要教給冒險者如何獲得專屬陸行鳥。"
-1,"TEXT_SUBFST120_00700_SEQ_01","用軍票和補給負責人交換<Sheet(Item,6018,0)/>，再交給陸行鳥房的辛格爾就能獲得專屬陸行鳥了。努力蓄積軍票。"
+1,"TEXT_SUBFST120_00700_SEQ_01","用軍票和補給負責人交換<Sheet(Item,6018,0)/>，再交給陸行鳥房的辛格爾就能獲得專屬陸行鳥了。努力積攢軍票。"
 2,"TEXT_SUBFST120_00700_SEQ_02","辛格爾牽來了專屬陸行鳥。給陸行鳥取個好聽的名字。"
 3,"TEXT_SUBFST120_00700_SEQ_03","給陸行鳥取了<Highlight>ObjectParameter(55)</Highlight>這個名字。和辛格爾談談。"
 4,"TEXT_SUBFST120_00700_SEQ_04","和辛格爾進行了交談，成功辦完了手續，領取了陸行鳥。今後的旅途將有<Highlight>ObjectParameter(55)</Highlight>為伴。"
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_SUBFST120_00700_TODO_21",""
 46,"TEXT_SUBFST120_00700_TODO_22",""
 47,"TEXT_SUBFST120_00700_TODO_23",""
-48,"TEXT_SUBFST120_00700_Vorsaile_000","看來你沒少執行任務啊， <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If>。
+48,"TEXT_SUBFST120_00700_Vorsaile_000","看來你沒少執行任務啊，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If>。
 你的活躍表現我們都有所耳聞。
 真是身手了得啊。"
 49,"TEXT_SUBFST120_00700_Vorsaile_001","對了，你想在執行任務時移動得更快嗎？"
@@ -69,21 +69,21 @@ int32,str,str
 請稍等。"
 56,"TEXT_SUBFST120_00700_Cingur_012","在客人來之前這孩子就開始鬧騰起來，
 我想它一定是預感到要與客人見面了。"
-57,"TEXT_SUBFST120_00700_Cingur_013","來吧，快給這雄陸行鳥取個名字。"
+57,"TEXT_SUBFST120_00700_Cingur_013","來吧，快給這雄陸行鳥起個名字。"
 58,"TEXT_SUBFST120_00700_Cingur_020","你想要專屬陸行鳥？
 那請去大國防聯軍的補給負責人那裡，
 領取<Sheet(Item,6018,0)/>。"
 59,"TEXT_SUBFST120_00700_Cingur_021","完成大國防聯軍的任務能得到軍票，
-而你可以用蓄積下來的軍票進行交換。"
+而你可以用積攢下來的軍票進行交換。"
 60,"TEXT_SUBFST120_00700_CHOCOBO_000","咕哎！"
-61,"TEXT_SUBFST120_00700_Cingur_030","來吧，快給這雄陸行鳥取個名字。"
+61,"TEXT_SUBFST120_00700_Cingur_030","來吧，快給這雄陸行鳥起個名字。"
 62,"TEXT_SUBFST120_00700_Cingur_040","看來陸行鳥也很喜歡你取的這個名字呢。"
 63,"TEXT_SUBFST120_00700_Cingur_041","請收下這<Sheet(Item,6001,0)/>。
 只要一吹它，專屬陸行鳥就會跑到你身邊來。"
 64,"TEXT_SUBFST120_00700_Cingur_042","不過請注意，
 如果是在人聲嘈雜的城市和魔物棲息的洞窟裡，
 是叫不來陸行鳥的，因為它們討厭這些地方。"
-65,"TEXT_SUBFST120_00700_Cingur_043","另外，我將各個城市發行的「初階騎乘證」也交給你。"
+65,"TEXT_SUBFST120_00700_Cingur_043","另外，我將各個城市發行的「初級騎乘證」也交給你。"
 66,"TEXT_SUBFST120_00700_Cingur_044","這樣一來所需手續就全辦完了。
 你可以馬上出城，享受和專屬陸行鳥的快樂旅程。"
 67,"TEXT_SUBFST120_00700_CHOCOBO_PROMPT_TITLE","請輸入專屬陸行鳥的名字"

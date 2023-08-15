@@ -51,11 +51,11 @@ int32,str,str
 47,"TEXT_STMBDA126_02460_TODO_23",""
 48,"TEXT_STMBDA126_02460_LYSE_000_001","我為自己的無能為力感到不甘……
 我……我一點忙都幫不上……"
-49,"TEXT_STMBDA126_02460_MEFFRID_000_010","我們一直在這裡待著也不是辦法。
-一定要重新打起精神來……"
+49,"TEXT_STMBDA126_02460_MEFFRID_000_010","我們一直在這裡呆著也不是辦法。
+必須要重新打起精神來……"
 50,"TEXT_STMBDA126_02460_MEFFRID_000_011","我也有點擔心瓦克拉塔的傷勢……
 我們先回阿拉加納，把事情經過向拉加恩弗里德村長報告一下，
-然後再瞭解一下之後的情況吧。"
+然後再了解一下之後的情況吧。"
 51,"TEXT_STMBDA126_02460_RAGANFRID_000_020","是你們啊……
 我聽瓦克拉塔說，是你們救了他。
 我代表村子向你們表示感謝……謝謝你們出手相助。"
@@ -90,7 +90,7 @@ int32,str,str
 63,"TEXT_STMBDA126_02460_MEFFRID_000_051","我擔心她情緒消沉。
 總之我們先找找莉瑟吧。"
 64,"TEXT_STMBDA126_02460_MEFFRID_000_060","嗯，原來她在那裡……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你去叫她一聲吧。"
+<Highlight>ObjectParameter(1)</Highlight>，你去叫她一聲吧。"
 65,"TEXT_STMBDA126_02460_LYSE_000_070","……抱歉，我沒說一聲就出來了。
 這樣……很沒禮貌吧。"
 66,"TEXT_STMBDA126_02460_LYSE_000_071","但是，我不想承認我的忍耐是對的……
@@ -132,7 +132,7 @@ int32,str,str
 絕對不會……"
 83,"TEXT_STMBDA126_02460_MEFFRID_000_087","好，雖然有點出乎意料，不過招兵任務也順利完成了。
 我們回神拳痕吧！"
-84,"TEXT_STMBDA126_02460_MEFFRID_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、莉瑟，
+84,"TEXT_STMBDA126_02460_MEFFRID_000_090","<Highlight>ObjectParameter(1)</Highlight>、莉瑟，
 首先讓我對你們的協助表示感謝，你們做得很好。"
 85,"TEXT_STMBDA126_02460_MEFFRID_000_091","雖然發生了一些預料之外的情況，
 不過從結果來看，我們還是得到了一些新的同伴。
@@ -156,7 +156,7 @@ int32,str,str
 越過最初的那道坎，作為同伴再次攜手一起走下去。
 至少我是這麼相信的。"
 92,"TEXT_STMBDA126_02460_MEFFRID_000_098","好了，我這就去著手接收新兵的準備了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 、莉瑟，感謝你們這次的協助。
+<Highlight>ObjectParameter(1)</Highlight>、莉瑟，感謝你們這次的協助。
 就地解散……辛苦了！"
 93,"TEXT_STMBDA126_02460_ROBUSTMAN_000_076","（★未使用／削除予定★）"
 94,"TEXT_STMBDA126_02460_ROBUSTMAN_000_078","（★未使用／削除予定★）"

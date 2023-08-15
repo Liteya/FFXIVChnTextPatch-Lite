@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_LUCKMD117_03622_SEQ_21",""
 22,"TEXT_LUCKMD117_03622_SEQ_22",""
 23,"TEXT_LUCKMD117_03622_SEQ_23",""
-24,"TEXT_LUCKMD117_03622_TODO_00","和水晶都的雅．修特拉對話"
+24,"TEXT_LUCKMD117_03622_TODO_00","和水晶都的雅·修特拉對話"
 25,"TEXT_LUCKMD117_03622_TODO_01","和懸掛公館的管理員對話"
 26,"TEXT_LUCKMD117_03622_TODO_02",""
 27,"TEXT_LUCKMD117_03622_TODO_03",""
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_LUCKMD117_03622_TODO_22",""
 47,"TEXT_LUCKMD117_03622_TODO_23",""
 48,"TEXT_LUCKMD117_03622_ALPHINAUD_000_000","終於輪到和沃斯里對決了……
-不過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，現在先和阿莉塞慶祝一下
+不過<Highlight>ObjectParameter(1)</Highlight>，現在先和阿莉塞慶祝一下
 為這片大地取回了黑暗吧。"
 49,"TEXT_LUCKMD117_03622_ALISAIE_000_005","現在可能還不行，
 以後找機會去跟泰絲琳報告一下吧。
@@ -61,7 +61,7 @@ int32,str,str
 這又是什麼的終結、什麼的開始呢……"
 52,"TEXT_LUCKMD117_03622_YSHTOLA_000_020","這次愛梅特賽爾克沒來迎接啊。
 真是個搞不懂的男人……"
-53,"TEXT_LUCKMD117_03622_RYNE_000_030","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+53,"TEXT_LUCKMD117_03622_RYNE_000_030","……<Highlight>ObjectParameter(1)</Highlight>。
 難道說……你的身體……"
 54,"TEXT_LUCKMD117_03622_RYNE_000_031","啊……沒什麼，是我的錯覺！
 抱、抱歉……"
@@ -71,8 +71,8 @@ int32,str,str
 要不要先回水晶都？"
 57,"TEXT_LUCKMD117_03622_RYNE_000_034","大家都需要休息，還要向水晶公報告……
 之後我們再啟程如何？"
-58,"TEXT_LUCKMD117_03622_YSHTOLA_000_035","那孩子發現了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的變化嗎？"
-59,"TEXT_LUCKMD117_03622_RYNE_000_040","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+58,"TEXT_LUCKMD117_03622_YSHTOLA_000_035","那孩子發現了<Highlight>ObjectParameter(1)</Highlight>的變化嗎？"
+59,"TEXT_LUCKMD117_03622_RYNE_000_040","啊……<Highlight>ObjectParameter(1)</Highlight>……"
 60,"TEXT_LUCKMD117_03622_YSHTOLA_000_050","大家已經去跟水晶公報告了。
 我……有點事情要跟你說，
 所以在這等你。"
@@ -80,24 +80,24 @@ int32,str,str
 62,"TEXT_LUCKMD117_03622_RYNE_000_052","是的……
 得到了光之巫女的力量之後，
 我就能夠感覺到了。"
-63,"TEXT_LUCKMD117_03622_RYNE_000_053"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 身上積存了含量驚人的光。
+63,"TEXT_LUCKMD117_03622_RYNE_000_053","<Highlight>ObjectParameter(1)</Highlight>身上積存了含量驚人的光。
 打倒靈光衛之後就更加……"
 64,"TEXT_LUCKMD117_03622_YSHTOLA_000_054","果然……
 光之巫女也這麼認為的話，
 這件事就不能再繼續當成錯覺了。"
 65,"TEXT_LUCKMD117_03622_YSHTOLA_000_055","你自己呢？
 有沒有感覺到什麼變化？"
-66,"TEXT_LUCKMD117_03622_YSHTOLA_000_056","喂， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？！"
+66,"TEXT_LUCKMD117_03622_YSHTOLA_000_056","喂，<Highlight>ObjectParameter(1)</Highlight>？！"
 67,"TEXT_LUCKMD117_03622_YSHTOLA_000_057","拜託了，不要嚇我……
 真怕你就這麼出事了……"
 68,"TEXT_LUCKMD117_03622_YSHTOLA_000_058","琳，以光之巫女的力量
 有沒有什麼解決辦法？"
 69,"TEXT_LUCKMD117_03622_RYNE_000_059","……我想我應該可以令狂暴的光暫時安定下來。"
 70,"TEXT_LUCKMD117_03622_RYNE_000_060","但我也無法去除其身上的光……
-這和敏菲利亞只能停止光之氾濫，
+這和敏菲利亞只能停止光之泛濫，
 卻不能消除是一樣的。"
 71,"TEXT_LUCKMD117_03622_YSHTOLA_000_061","是嗎……
-看來只能用于里昂熱準備的方案了……"
+看來只能用於里昂熱準備的方案了……"
 72,"TEXT_LUCKMD117_03622_YSHTOLA_000_062","不管怎麼說，你可千萬不要逞強。
 就算只剩下最後的靈光衛，但要走的路還很長，
 你一定要記得好好休息。"
@@ -117,9 +117,9 @@ int32,str,str
 ……之後見。"
 81,"TEXT_LUCKMD117_03622_YSHTOLA_000_067","……你說什麼？"
 82,"TEXT_LUCKMD117_03622_YSHTOLA_000_068","這可真是沒救了，
-我建議你立刻回寢室上床睡覺。
+我建議你立馬回寢室上床睡覺。
 ……等你腦子清醒了我們再見吧。"
-83,"TEXT_LUCKMD117_03622_GUIDEOFTHEPENDANTS_000_070","…… <Highlight>ObjectParameter(1)</Highlight> ？
+83,"TEXT_LUCKMD117_03622_GUIDEOFTHEPENDANTS_000_070","……<Highlight>ObjectParameter(1)</Highlight>？
 你沒事吧？我看你走路都走不穩了？"
 84,"TEXT_LUCKMD117_03622_GUIDEOFTHEPENDANTS_000_071","啊……抱歉，是我誤會了。
 要是感到疲憊的話
@@ -146,7 +146,7 @@ int32,str,str
 95,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_908","就沒有什麼能做的嗎？"
 96,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_909","你是說對這個戰況？
 沒有啦，這已經不是有誰站起來就能解決的問題了。"
-97,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_910","艾奧傑亞各國現在都一樣，
+97,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_910","艾歐澤亞各國現在都一樣，
 東洲那邊更慘，聽說那個遠東之國都快要完蛋了。"
 98,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_911","人不互相殘殺殆盡戰鬥是不會停止了，
 性命也好文明也罷，都將盡數滅亡……這已經是靈災了。"

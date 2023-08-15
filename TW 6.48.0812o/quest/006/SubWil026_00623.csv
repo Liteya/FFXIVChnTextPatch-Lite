@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_SUBWIL026_00623_TODO_21",""
 46,"TEXT_SUBWIL026_00623_TODO_22",""
 47,"TEXT_SUBWIL026_00623_TODO_23",""
-48,"TEXT_SUBWIL026_00623_MOMODI_000_1"," <Highlight>ObjectParameter(1)</Highlight> ，最近還好嗎？
+48,"TEXT_SUBWIL026_00623_MOMODI_000_1","<Highlight>ObjectParameter(1)</Highlight>，最近還好嗎？
 你既然來跟我對話，
 也就是說你想要尋求新冒險了吧？"
 49,"TEXT_SUBWIL026_00623_MOMODI_000_2","嘻嘻嘻，這就對了。
@@ -63,13 +63,13 @@ int32,str,str
 渡過毒蠍交易所北面的橋後，走到街道的盡頭便是。"
 53,"TEXT_SUBWIL026_00623_MOMODI_100_5","達達內恩沒準知道王家王冠的事……
 別在意，我在自言自語罷了。"
-54,"TEXT_SUBWIL026_00623_MOMODI_000_6","對了，如果你的資金充裕的話，
+54,"TEXT_SUBWIL026_00623_MOMODI_000_6","對了，如果你的資金富餘的話，
 不妨考慮一下使用陸行鳥運輸前往地平關。"
 55,"TEXT_SUBWIL026_00623_MOMODI_000_7","在流沙屋旁邊就有陸行鳥欄，
 和那裡的米米古恩談談。"
 56,"TEXT_SUBWIL026_00623_MOMODI_000_8","那麼，願你在嶄新的旅途中，
 一路順風！"
-57,"TEXT_SUBWIL026_00623_DADANEN_000_10","你就是冒險者 <Highlight>ObjectParameter(1)</Highlight> 吧？
+57,"TEXT_SUBWIL026_00623_DADANEN_000_10","你就是冒險者<Highlight>ObjectParameter(1)</Highlight>吧？
 我已經聽莫莫蒂說過了。
 來得正是時候，我等你好久了。"
 58,"TEXT_SUBWIL026_00623_DADANEN_000_11","地平關彙集了由西面的港口城市黃昏灣運來的大量物資，

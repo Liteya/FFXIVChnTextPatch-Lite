@@ -54,7 +54,7 @@ int32,str,str
 被追的人是不是麥梵啊？！"
 50,"TEXT_AKTKMD107_04415_ALISAIE_000_010","被野獸追的人向西邊逃去了！
 但現在被樹叢擋住看不到了……"
-51,"TEXT_AKTKMD107_04415_ALISAIE_000_011"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和摩提夏沿著河岸找一找！
+51,"TEXT_AKTKMD107_04415_ALISAIE_000_011","<Highlight>ObjectParameter(1)</Highlight>和摩提夏沿著河岸找一找！
 我和阿爾菲諾從南邊開始找！"
 52,"TEXT_AKTKMD107_04415_MATSYA_000_020","這裡是被稱為摩耶幻泉的遺跡，
 阿莉塞看到的那個人也許就躲在附近！"
@@ -75,7 +75,7 @@ int32,str,str
 61,"TEXT_AKTKMD107_04415_ALPHINAUD_000_061","明明都找到了……就差一步……！"
 62,"TEXT_AKTKMD107_04415_ALPHINAUD_000_062","我先為她治療，
 一定要讓這個孩子活下去！"
-63,"TEXT_AKTKMD107_04415_ALISAIE_000_070","………………。"
+63,"TEXT_AKTKMD107_04415_ALISAIE_000_070","……"
 64,"TEXT_AKTKMD107_04415_ESTINIEN_000_075","你們想弔唁多久都行，不用管我。"
 65,"TEXT_AKTKMD107_04415_ALPHINAUD_000_080","我們能做的也只有這麼多了，
 之後再帶波洛伽護法村的村民們來弔唁他們吧……"

@@ -67,9 +67,9 @@ int32,str,str
 53,"TEXT_LUCKZE102_03457_NIELDEN_000_010","（★未使用／削除予定★）"
 54,"TEXT_LUCKZE102_03457_CALLEA_000_011","涅爾登叔叔，
 感謝你專門過來一趟。"
-55,"TEXT_LUCKZE102_03457_CALLEA_000_012","還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+55,"TEXT_LUCKZE102_03457_CALLEA_000_012","還有<Highlight>ObjectParameter(1)</Highlight>……
 也謝謝你把叔叔請了過來。"
-56,"TEXT_LUCKZE102_03457_NIELDEN_000_013","今後你的生活應該會變的很辛苦，
+56,"TEXT_LUCKZE102_03457_NIELDEN_000_013","今後你的生活估計會變的很辛苦，
 不過我會暫時留在這裡，你什麼也不用擔心。
 <If(PlayerParameter(4))>她<Else/>他</If>也會來幫忙的。"
 57,"TEXT_LUCKZE102_03457_CALLEA_000_014","怎麼能這樣，真是給你們添麻煩了。
@@ -82,7 +82,7 @@ int32,str,str
 要是我能在那個時候阻止了父親的話……"
 60,"TEXT_LUCKZE102_03457_NIELDEN_000_017","……那傢伙是個責任心很強的男人。
 在聽到水灘村被食罪靈襲擊後，
-一定是無法忍耐袖手旁觀就跑了出去。"
+肯定是無法忍耐袖手旁觀就跑了出去。"
 61,"TEXT_LUCKZE102_03457_CALLEA_000_018","……所有人都在夸父親是一個偉大而又勇敢的人。
 為了傷患四處奔走於各種危險的地方，
 是一名非常高潔的醫師……"
@@ -97,10 +97,10 @@ int32,str,str
 到底有什麼理由值得他這麼做！"
 65,"TEXT_LUCKZE102_03457_CALLEA_100_021","抱、抱歉……
 我有些太過激動了……"
-66,"TEXT_LUCKZE102_03457_NIELDEN_000_022","可能現在你還沒辦法整理好頭緒……
+66,"TEXT_LUCKZE102_03457_NIELDEN_000_022","可能現在你還沒法整理好頭緒……
 不過我想問問你今後打算怎麼辦？"
 67,"TEXT_LUCKZE102_03457_CALLEA_000_023","我能做到的也就只是幫忙而已，
-我也沒辦法像父親那樣給人看病。
+我也沒法像父親那樣給人看病。
 所以今後沒辦法維持診所的經營。"
 68,"TEXT_LUCKZE102_03457_CALLEA_000_024","因此我想要移居到水晶都。
 不管是診所還是道具全部都處理掉，
@@ -108,12 +108,12 @@ int32,str,str
 69,"TEXT_LUCKZE102_03457_NIELDEN_000_025","是嗎，那我也不會勉強留下你。
 住在水晶都至少是安全的，
 我也能放心地送你走。"
-70,"TEXT_LUCKZE102_03457_NIELDEN_000_026","懸鏈公館那邊應該會給移居志工提供房間。
+70,"TEXT_LUCKZE102_03457_NIELDEN_000_026","懸鏈公館那邊應該會給移居志願者提供房間。
 你就先住那裡好了。"
 71,"TEXT_LUCKZE102_03457_NIELDEN_000_027","抱歉，能麻煩你到水晶都的懸鏈公館，
 跟那裡的希爾伽姆說明一下情況嗎？
 我們趁著你去那邊的時候整理一下行李。"
-72,"TEXT_LUCKZE102_03457_CALLEA_000_028"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+72,"TEXT_LUCKZE102_03457_CALLEA_000_028","<Highlight>ObjectParameter(1)</Highlight>，
 不好意思，就拜託你了。"
 73,"TEXT_LUCKZE102_03457_SYLGHAM_100_040","哎呀，有什麼事嗎？"
 74,"TEXT_LUCKZE102_03457_SYLGHAM_000_040","……原來如此，我知道了。
@@ -132,7 +132,7 @@ int32,str,str
 79,"TEXT_LUCKZE102_03457_NIELDEN_000_050","哦，你回來了啊。
 我這有了點麻煩事，
 詳細情況你去問問卡蕾雅吧。"
-80,"TEXT_LUCKZE102_03457_CALLEA_000_051"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，歡迎你回來。
+80,"TEXT_LUCKZE102_03457_CALLEA_000_051","<Highlight>ObjectParameter(1)</Highlight>，歡迎你回來。
 專門讓你跑一趟真是對不起。
 為了我而奔波，謝謝你了。"
 81,"TEXT_LUCKZE102_03457_CALLEA_000_052","你走之後，在涅爾登叔叔的幫助下，

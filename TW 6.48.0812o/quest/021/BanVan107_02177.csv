@@ -6,9 +6,9 @@ int32,str,str
 1,"TEXT_BANVAN107_02177_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-穆納瓦努委託冒險者去籌備食物。在候鳥雲巢獲得3個<Sheet(EventItem,2001931,0)/>。"
+穆納瓦努委託冒險者去籌備食物。在候鳥雲巢獲取3個<Sheet(EventItem,2001931,0)/>。"
 2,"TEXT_BANVAN107_02177_SEQ_02","獲得了3個<Sheet(EventItem,2001931,0)/>。將<Sheet(EventItem,2001931,0)/>交給西風島的穆納瓦努。"
-3,"TEXT_BANVAN107_02177_SEQ_03","將<Sheet(EventItem,2001931,0)/>交給了穆納瓦努。雖然<Sheet(EventItem,2001931,0)/>是非常重要的食材，可卻因安祖非常凶暴，所以能夠獲得<Sheet(EventItem,2001931,0)/>的只有少數人。"
+3,"TEXT_BANVAN107_02177_SEQ_03","將<Sheet(EventItem,2001931,0)/>交給了穆納瓦努。雖然<Sheet(EventItem,2001931,0)/>是非常重要的食材，可卻因安祖非常凶暴，所以能夠獲取<Sheet(EventItem,2001931,0)/>的只有少數人。"
 4,"TEXT_BANVAN107_02177_SEQ_04",""
 5,"TEXT_BANVAN107_02177_SEQ_05",""
 6,"TEXT_BANVAN107_02177_SEQ_06",""
@@ -29,7 +29,7 @@ int32,str,str
 21,"TEXT_BANVAN107_02177_SEQ_21",""
 22,"TEXT_BANVAN107_02177_SEQ_22",""
 23,"TEXT_BANVAN107_02177_SEQ_23",""
-24,"TEXT_BANVAN107_02177_TODO_00","獲得<Sheet(EventItem,2001931,0)/>"
+24,"TEXT_BANVAN107_02177_TODO_00","獲取<Sheet(EventItem,2001931,0)/>"
 25,"TEXT_BANVAN107_02177_TODO_01","將<Sheet(EventItem,2001931,0)/>交給穆納瓦努"
 26,"TEXT_BANVAN107_02177_TODO_02",""
 27,"TEXT_BANVAN107_02177_TODO_03",""
@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_BANVAN107_02177_TODO_21",""
 46,"TEXT_BANVAN107_02177_TODO_22",""
 47,"TEXT_BANVAN107_02177_TODO_23",""
-48,"TEXT_BANVAN107_02177_MUNAVANU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我想請你幫忙籌備一些食物啊。
+48,"TEXT_BANVAN107_02177_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight>，我想請你幫忙籌備一些食物啊。
 正好、正好現在是安祖的產卵期，
 能否請你去它們的巢穴取回一些蛋呢？3個左右就夠了。"
 49,"TEXT_BANVAN107_02177_MUNAVANU_000_001","安祖應該在人類所說的候鳥雲巢築有巢穴……
@@ -61,7 +61,7 @@ int32,str,str
 50,"TEXT_BANVAN107_02177_MUNAVANU_000_010","你拿到<Sheet(EventItem,2001931,0)/>了嗎？
 有3個左右就夠了。"
 51,"TEXT_BANVAN107_02177_MUNAVANU_000_011","竟然這麼快就從凶暴的安祖那裡取回了蛋，
-不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+不愧是<Highlight>ObjectParameter(1)</Highlight>！"
 52,"TEXT_BANVAN107_02177_MUNAVANU_000_012","安祖的蛋是非常好吃的食物，
 無論是生吃，還是用來釀酒，都非常美味。
 對我們來說，可以算是如同太陽般的重要食材了。"

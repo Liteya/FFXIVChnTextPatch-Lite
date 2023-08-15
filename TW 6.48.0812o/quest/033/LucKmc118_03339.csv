@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_LUCKMC118_03339_SEQ_00","休憩廣場的于里昂熱想要為魯納爾進行治療。"
+0,"TEXT_LUCKMC118_03339_SEQ_00","休憩廣場的於里昂熱想要為魯納爾進行治療。"
 1,"TEXT_LUCKMC118_03339_SEQ_01",""
 2,"TEXT_LUCKMC118_03339_SEQ_02",""
 3,"TEXT_LUCKMC118_03339_SEQ_03",""
@@ -29,7 +29,7 @@ int32,str,str
 25,"TEXT_LUCKMC118_03339_TODO_01","使用<Sheet(EventItem,2002554,0)/>尋找<Sheet(EObj,2009892,0)/>"
 26,"TEXT_LUCKMC118_03339_TODO_02","在<Sheet(EObj,2009892,0)/>吹響口哨"
 27,"TEXT_LUCKMC118_03339_TODO_03","和愛梅特賽爾克對話"
-28,"TEXT_LUCKMC118_03339_TODO_04","和雅．修特拉對話"
+28,"TEXT_LUCKMC118_03339_TODO_04","和雅·修特拉對話"
 29,"TEXT_LUCKMC118_03339_TODO_05",""
 30,"TEXT_LUCKMC118_03339_TODO_06",""
 31,"TEXT_LUCKMC118_03339_TODO_07",""
@@ -51,9 +51,9 @@ int32,str,str
 47,"TEXT_LUCKMC118_03339_TODO_23",""
 48,"TEXT_LUCKMC118_03339_RUNAR_000_000","……大姐……"
 49,"TEXT_LUCKMC118_03339_URIANGER_000_010","接下來由我為魯納爾導師治療，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你先去休息一下……"
+<Highlight>ObjectParameter(1)</Highlight>，你先去休息一下……"
 50,"TEXT_LUCKMC118_03339_THANCRED_000_020","陷阱……倒應該不至於，
-但是一定要小心謹慎， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……"
+但是一定要小心謹慎，<Highlight>ObjectParameter(1)</Highlight>……"
 51,"TEXT_LUCKMC118_03339_RYNE_000_025","這能救出瑪托雅嗎？"
 52,"TEXT_LUCKMC118_03339_URIANGER_000_030","干涉地脈即便是會魔法的人，
 也不是輕易能做到的，
@@ -75,8 +75,8 @@ int32,str,str
 58,"TEXT_LUCKMC118_03339_EMETSELCH_000_061","我想想……你拿著這個，
 這是用我的魔力做成的<Sheet(EventItem,2002554,0)/>。"
 59,"TEXT_LUCKMC118_03339_EMETSELCH_000_062","這朵火焰晃動越劇烈的地方的地脈就寬，
-你去靠觀察晃動把適合的地方找出來。"
-60,"TEXT_LUCKMC118_03339_EMETSELCH_000_063","找到了的話……啊……就吹個口哨做訊號吧。
+你去靠觀察晃動把合適的地方找出來。"
+60,"TEXT_LUCKMC118_03339_EMETSELCH_000_063","找到了的話……啊……就吹個口哨做信號吧。
 雖說麻煩，不過我還是會過去的。"
 61,"TEXT_LUCKMC118_03339_SYSTEM_000_064","此次探索中不會顯示具體的指定地點。"
 62,"TEXT_LUCKMC118_03339_SYSTEM_000_065","請在地圖所示的範圍內，
@@ -84,7 +84,7 @@ int32,str,str
 尋找<Sheet(EObj,2009892,0)/>！"
 63,"TEXT_LUCKMC118_03339_EMETSELCH_000_070","怎麼了，還愣著幹什麼。
 <Sheet(EventItem,2002554,0)/>在地脈越寬的地方晃動幅度越大，
-你就用它去找出適合的地點。"
+你就用它去找出合適的地點。"
 64,"TEXT_LUCKMC118_03339_SYSTEM_000_080","火焰劇烈晃動了一下！
 這一塊就是<Sheet(EObj,2009892,0)/>。"
 65,"TEXT_LUCKMC118_03339_SYSTEM_000_081","火焰大幅晃動了一下。
@@ -94,7 +94,7 @@ int32,str,str
 67,"TEXT_LUCKMC118_03339_SYSTEM_000_083","火焰偶爾微微晃動一下……
 換個地方再看看<Sheet(EventItem,2002554,0)/>。"
 68,"TEXT_LUCKMC118_03339_SYSTEM_000_084","火焰紋絲不動……
-這裡似乎沒有適合的地脈。"
+這裡似乎沒有合適的地脈。"
 69,"TEXT_LUCKMC118_03339_YSHTOLA_000_090","嗯？愛梅特賽爾克呢？"
 70,"TEXT_LUCKMC118_03339_THANCRED_000_095","古代傳送魔法的經驗能派上用場就好。"
 71,"TEXT_LUCKMC118_03339_THANCRED_000_096","……不過有愛梅特賽爾克在，
@@ -121,7 +121,7 @@ int32,str,str
 79,"TEXT_LUCKMC118_03339_EMETSELCH_000_130","……像那樣激動地擁抱在一起慶祝再會的人們，
 說不定哪一天也會互相背叛。"
 80,"TEXT_LUCKMC118_03339_EMETSELCH_000_131","你不這麼覺得嗎？
-你們總是重複著這樣的過程。"
+你們總是重覆著這樣的過程。"
 81,"TEXT_LUCKMC118_03339_Q1_000_000","要說什麼？"
 82,"TEXT_LUCKMC118_03339_A1_000_001","他們不會那樣的"
 83,"TEXT_LUCKMC118_03339_A1_000_002","別說得事不關己高高掛起"
@@ -144,7 +144,7 @@ int32,str,str
 90,"TEXT_LUCKMC118_03339_EMETSELCH_000_140","幹嘛，都說我不想聽反駁和爭論了。
 現在重要的是，你們的戰鬥力已經到齊，
 還是快點去討伐靈光衛吧。"
-91,"TEXT_LUCKMC118_03339_YSHTOLA_000_150"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，抱歉讓你擔心了。
+91,"TEXT_LUCKMC118_03339_YSHTOLA_000_150","<Highlight>ObjectParameter(1)</Highlight>，抱歉讓你擔心了。
 在你的幫助下夜之民已經安然無恙，
 我現在也回來了……"
 92,"TEXT_LUCKMC118_03339_YSHTOLA_000_151","人果然還是得勇於嘗試才行啊。

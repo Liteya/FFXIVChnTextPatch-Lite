@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_STMBDZ407_02730_SEQ_21",""
 22,"TEXT_STMBDZ407_02730_SEQ_22",""
 23,"TEXT_STMBDZ407_02730_SEQ_23",""
-24,"TEXT_STMBDZ407_02730_TODO_00","從<Sheet(BNpcName,5762,0)/>身上獲得<Sheet(EventItem,2002239,0)/>"
+24,"TEXT_STMBDZ407_02730_TODO_00","從<Sheet(BNpcName,5762,0)/>身上獲取<Sheet(EventItem,2002239,0)/>"
 25,"TEXT_STMBDZ407_02730_TODO_01","將<Sheet(EventItem,2002239,0)/>交給剪定"
 26,"TEXT_STMBDZ407_02730_TODO_02",""
 27,"TEXT_STMBDZ407_02730_TODO_03",""
@@ -62,7 +62,7 @@ int32,str,str
 52,"TEXT_STMBDZ407_02730_KOHAGI_000_004","他應該在村子東面的醉蛙小屋裡。
 可能要費點功夫，不過還是拜託了。"
 53,"TEXT_STMBDZ407_02730_KOHAGI_000_005","能請你請打倒3匹無二江裡的<Sheet(BNpcName,5762,0)/>嗎？
-要是獲得了<Sheet(EventItem,2002239,0)/>，
+要是獲取了<Sheet(EventItem,2002239,0)/>，
 請送到村子東邊醉蛙小屋裡的剪定那裡。"
 54,"TEXT_STMBDZ407_02730_SENTEI_000_010","怎麼了？
 找我有事？"

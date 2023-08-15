@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_LUCKZA003_03345_SEQ_21",""
 22,"TEXT_LUCKZA003_03345_SEQ_22",""
 23,"TEXT_LUCKZA003_03345_SEQ_23",""
-24,"TEXT_LUCKZA003_03345_TODO_00","從艾狄絲那裡獲得<Sheet(EventItem,2002581,0)/>"
+24,"TEXT_LUCKZA003_03345_TODO_00","從艾狄絲那裡獲取<Sheet(EventItem,2002581,0)/>"
 25,"TEXT_LUCKZA003_03345_TODO_01","將<Sheet(EventItem,2002581,0)/>交給懸鏈公館的管理人"
 26,"TEXT_LUCKZA003_03345_TODO_02","和答爾福特對話"
 27,"TEXT_LUCKZA003_03345_TODO_03",""
@@ -67,7 +67,7 @@ int32,str,str
 拜託你了。"
 54,"TEXT_LUCKZA003_03345_DARLFORT_000_005","酒你可以去宇宙和音的艾狄絲那裡拿。
 拜託你了。"
-55,"TEXT_LUCKZA003_03345_EIDITH_000_010","情況我已經瞭解了，這個就是<Sheet(EventItem,2002581,0)/>。
+55,"TEXT_LUCKZA003_03345_EIDITH_000_010","情況我已經了解了，這個就是<Sheet(EventItem,2002581,0)/>。
 是懸鏈公館的客人訂的對吧？"
 56,"TEXT_LUCKZA003_03345_EIDITH_000_011","那麼就把它交給懸鏈公館的管理人就好，
 他會幫你轉交給那位客人的。

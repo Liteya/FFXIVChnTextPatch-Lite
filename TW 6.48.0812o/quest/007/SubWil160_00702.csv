@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_SUBWIL160_00702_SEQ_00","斯威夫特正耀校想要教給冒險者如何獲得專屬陸行鳥。"
-1,"TEXT_SUBWIL160_00702_SEQ_01","用軍票和補給負責人交換<Sheet(Item,6019,0)/>，再交給陸行鳥房的米米古恩就能獲得專屬陸行鳥了。努力蓄積軍票。"
+1,"TEXT_SUBWIL160_00702_SEQ_01","用軍票和補給負責人交換<Sheet(Item,6019,0)/>，再交給陸行鳥房的米米古恩就能獲得專屬陸行鳥了。努力積攢軍票。"
 2,"TEXT_SUBWIL160_00702_SEQ_02","米米古恩牽來了專屬陸行鳥。給陸行鳥取個好聽的名字。"
 3,"TEXT_SUBWIL160_00702_SEQ_03","給陸行鳥取了<Highlight>ObjectParameter(55)</Highlight>這個名字。和米米古恩談談。"
 4,"TEXT_SUBWIL160_00702_SEQ_04","和米米古恩進行了交談，成功辦完了手續，領取了陸行鳥。今後的旅途將有<Highlight>ObjectParameter(55)</Highlight>為伴。"
@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_SUBWIL160_00702_TODO_21",""
 46,"TEXT_SUBWIL160_00702_TODO_22",""
 47,"TEXT_SUBWIL160_00702_TODO_23",""
-48,"TEXT_SUBWIL160_00702_Swift_000","你就是傳聞中的 <Highlight>ObjectParameter(1)</Highlight> <If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>吧……
+48,"TEXT_SUBWIL160_00702_Swift_000","你就是傳聞中的<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>吧……
 你的活躍表現我也有所耳聞。
 真是身手了得啊。"
 49,"TEXT_SUBWIL160_00702_Swift_001","對了，你想在執行任務時移動得更快嗎？"
@@ -70,21 +70,21 @@ int32,str,str
 請稍等。"
 56,"TEXT_SUBWIL160_00702_MIMIGUN_012","在客人來之前這孩子就開始鬧騰起來，
 我想它一定是預感到要與客人見面了。"
-57,"TEXT_SUBWIL160_00702_MIMIGUN_013","來吧，快給這雄陸行鳥取個名字。"
+57,"TEXT_SUBWIL160_00702_MIMIGUN_013","來吧，快給這雄陸行鳥起個名字。"
 58,"TEXT_SUBWIL160_00702_MIMIGUN_020","你想要專屬陸行鳥？
 那請去大國防聯軍的補給負責人那裡，
 領取<Sheet(Item,6019,0)/>。"
 59,"TEXT_SUBWIL160_00702_MIMIGUN_021","完成大國防聯軍的任務能得到軍票，
-而你可以用蓄積下來的軍票進行交換。"
+而你可以用積攢下來的軍票進行交換。"
 60,"TEXT_SUBWIL160_00702_CHOCOBO_000","咕哎！"
-61,"TEXT_SUBWIL160_00702_MIMIGUN_030","來吧，快給這雄陸行鳥取個名字。"
+61,"TEXT_SUBWIL160_00702_MIMIGUN_030","來吧，快給這雄陸行鳥起個名字。"
 62,"TEXT_SUBWIL160_00702_MIMIGUN_040","看來陸行鳥也很喜歡你取的這個名字呢。"
 63,"TEXT_SUBWIL160_00702_MIMIGUN_041","請收下這<Sheet(Item,6001,0)/>。
 只要一吹它，專屬陸行鳥就會跑到你身邊來。"
 64,"TEXT_SUBWIL160_00702_MIMIGUN_042","不過請注意，
 如果是在人聲嘈雜的城市和魔物棲息的洞窟裡，
 是叫不來陸行鳥的，因為它們討厭這些地方。"
-65,"TEXT_SUBWIL160_00702_MIMIGUN_043","另外，我將各個城市發行的「初階騎乘證」也交給你。"
+65,"TEXT_SUBWIL160_00702_MIMIGUN_043","另外，我將各個城市發行的「初級騎乘證」也交給你。"
 66,"TEXT_SUBWIL160_00702_MIMIGUN_044","這樣一來所需手續就全辦完了。
 你可以馬上出城，享受和專屬陸行鳥的快樂旅程。"
 67,"TEXT_SUBWIL160_00702_CHOCOBO_PROMPT_TITLE","請輸入專屬陸行鳥的名字"

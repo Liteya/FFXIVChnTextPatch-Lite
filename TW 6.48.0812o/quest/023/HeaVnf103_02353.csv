@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_HEAVNF103_02353_SEQ_00","水車十字廣場的艾默里克想要詢問會談的場地在哪裡。"
 1,"TEXT_HEAVNF103_02353_SEQ_01","和艾默里克進行了交談。通常會談的場地都設在芙蓉圓桌。和豐饒神祭壇的寂靜的法師談談。"
-2,"TEXT_HEAVNF103_02353_SEQ_02","艾奧傑亞同盟軍的盟主會談結束了。和阿爾菲諾談談。"
+2,"TEXT_HEAVNF103_02353_SEQ_02","艾歐澤亞同盟軍的盟主會談結束了。和阿爾菲諾談談。"
 3,"TEXT_HEAVNF103_02353_SEQ_03","和阿爾菲諾進行了交談。和艾默里克等人別過之後，決定回到石之家。和喪靈鐘的阿莉塞談談。"
 4,"TEXT_HEAVNF103_02353_SEQ_04","和阿莉塞進行了交談。她不太適應那種大人物雲集的會談。"
 5,"TEXT_HEAVNF103_02353_SEQ_05",""
@@ -52,23 +52,23 @@ int32,str,str
 48,"TEXT_HEAVNF103_02353_LUCIA_000_001","格里達尼亞看上去那麼和平。
 但加雷馬帝國軍也潛入了這座森林，並築起了壁壘。
 而且，壁壘的另一側便是他們的行省。"
-49,"TEXT_HEAVNF103_02353_SERPENTHONORGUARD_000_002","歡迎各位伊修加爾德使節前來，
+49,"TEXT_HEAVNF103_02353_SERPENTHONORGUARD_000_002","歡迎各位伊修加德使節前來，
 我是來迎接各位的！"
 50,"TEXT_HEAVNF103_02353_AYMERIC_000_010","至於會談……
 聽這位前來迎接我們的雙蛇黨儀仗兵說，
 會談的場地在一個叫芙蓉圓桌的地方……"
 51,"TEXT_HEAVNF103_02353_AYMERIC_000_011","原來如此，寂靜的法師會給我們帶路啊……
 明白了，那我們這就動身吧。"
-52,"TEXT_HEAVNF103_02353_SILENTCONJURER_000_020","你帶來了伊修加爾德的代表？
+52,"TEXT_HEAVNF103_02353_SILENTCONJURER_000_020","你帶來了伊修加德的代表？
 各國的代表和拂曉的人員也都相繼到達了。
-嗯……那是利姆薩．羅敏薩的代表……"
+嗯……那是利姆薩·羅敏薩的代表……"
 53,"TEXT_HEAVNF103_02353_MERLWYB_000_021","看來我們是最後到的啊。
 艾默里克閣下，好久不見。
 這次會談也請多指教了。"
 54,"TEXT_HEAVNF103_02353_AYMERIC_000_022","彼此彼此，梅爾維布提督……"
-55,"TEXT_HEAVNF103_02353_MERLWYB_000_023"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也別來無恙啊……
+55,"TEXT_HEAVNF103_02353_MERLWYB_000_023","<Highlight>ObjectParameter(1)</Highlight>也別來無恙啊……
 今天我把你的朋友也帶來了。"
-56,"TEXT_HEAVNF103_02353_YUGIRI_000_024","好久不見了…… <Highlight>ObjectParameter(1)</Highlight> 閣下。
+56,"TEXT_HEAVNF103_02353_YUGIRI_000_024","好久不見了……<Highlight>ObjectParameter(1)</Highlight>閣下。
 我聽里奧爾閣下說其他的賢人也都平安回歸了。
 真是太好了……"
 57,"TEXT_HEAVNF103_02353_MERLWYB_000_025","好了，雖然想說的話有很多，
@@ -81,20 +81,20 @@ int32,str,str
 我還擔心你們是不是已經回去了。"
 60,"TEXT_HEAVNF103_02353_ALPHINAUD_000_032","艾默里克閣下！"
 61,"TEXT_HEAVNF103_02353_AYMERIC_000_033","阿爾菲諾閣下……阿莉塞閣下看上去也恢復得很好，
-這我就放心了。因為勞煩 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下給我們帶路，
+這我就放心了。因為勞煩<Highlight>ObjectParameter(1)</Highlight>閣下給我們帶路，
 所以我想來道聲謝。"
 62,"TEXT_HEAVNF103_02353_AYMERIC_000_034","然後還有……也謝謝你，多瑪的朋友……"
 63,"TEXT_HEAVNF103_02353_YUGIRI_000_035","你竟然能察覺到在下……
 抱歉，抹消氣息是忍者的天性……望見諒。"
 64,"TEXT_HEAVNF103_02353_AYMERIC_000_036","哈哈……不愧是東方的忍者。
 總之，多謝你在我表示能向格里達尼亞派遣援軍時贊同我的提議。"
-65,"TEXT_HEAVNF103_02353_AYMERIC_000_037","我們常年以來一直無視艾奧傑亞同盟的協助請求，
+65,"TEXT_HEAVNF103_02353_AYMERIC_000_037","我們常年以來一直無視艾歐澤亞同盟的協助請求，
 所以深感內疚。"
 66,"TEXT_HEAVNF103_02353_AYMERIC_000_038","但是，各國的領袖應該也沒有想到，
-伊修加爾德的代表竟然會在那個場合正式表達歉意吧。
+伊修加德的代表竟然會在那個場合正式表達歉意吧。
 我也看出他們感到困擾了。"
 67,"TEXT_HEAVNF103_02353_AYMERIC_000_039","多虧了你在那時接過話題，
-嘉恩．艾閣下也能夠更容易接受我國提出派遣援軍的提議，
+嘉恩·艾閣下也能夠更容易接受我國提出派遣援軍的提議，
 再次謝謝你了……"
 68,"TEXT_HEAVNF103_02353_YUGIRI_000_040","正如在下當時所說的那樣，加雷馬帝國是我們的仇敵。
 在下只不過是述說事實，並未做什麼值得你感謝的事情。
@@ -110,11 +110,11 @@ int32,str,str
 73,"TEXT_HEAVNF103_02353_ALISAIE_000_045","忍者小姐也要回喪靈鐘的話，那我們一起走吧？"
 74,"TEXT_HEAVNF103_02353_ALPHINAUD_000_046","我打算先去跟帕帕力莫和伊達打聲招呼再回去，
 他們去查看妖精族和長城的情況了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，待會見。"
+<Highlight>ObjectParameter(1)</Highlight>，待會見。"
 75,"TEXT_HEAVNF103_02353_YUGIRI_000_050","真是一模一樣啊，
 阿爾菲諾閣下和阿莉塞閣下……
 連走路的姿勢都這麼像，真是令人吃驚。"
-76,"TEXT_HEAVNF103_02353_ALISAIE_000_060","辛苦了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+76,"TEXT_HEAVNF103_02353_ALISAIE_000_060","辛苦了，<Highlight>ObjectParameter(1)</Highlight>。
 你不覺得那群大人物的會談太拘束了嗎？
 不過看你的樣子好像已經習慣了……"
 77,"TEXT_HEAVNF103_02353_ALISAIE_000_061","話說回來，

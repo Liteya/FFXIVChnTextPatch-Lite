@@ -53,20 +53,20 @@ int32,str,str
 45,"TEXT_BANVAN401_02189_TODO_21",""
 46,"TEXT_BANVAN401_02189_TODO_22",""
 47,"TEXT_BANVAN401_02189_TODO_23",""
-48,"TEXT_BANVAN401_02189_02189_MUNAVANU_000_001","這不是、這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嘛！
+48,"TEXT_BANVAN401_02189_02189_MUNAVANU_000_001","這不是、這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 利努瓦努大人需要你的幫助！"
 49,"TEXT_BANVAN401_02189_02189_MUNAVANU_000_002","能不能勞煩你去找一下利努瓦努大人呢？
 如同灑在草地上的午後陽光般拜託你！"
 50,"TEXT_BANVAN401_02189_02189_MUNAVANU_000_010","（★未使用／削除予定★）"
-51,"TEXT_BANVAN401_02189_02189_LINUVANU_000_020"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊。
+51,"TEXT_BANVAN401_02189_02189_LINUVANU_000_020","<Highlight>ObjectParameter(1)</Highlight>，你來了啊。
 豁達的尊杜族中有人說看到了傳奇的黑色惡魔，
 不知你知不知道。"
 52,"TEXT_BANVAN401_02189_02189_LINUVANU_000_021","如果這是真的，那可就不得了了。
 我也會加強尊杜集落周邊的警戒的，
 請你也務必助我一臂之力。"
-53,"TEXT_BANVAN401_02189_02189_LINUVANU_000_022","總之，先去向尊杜集落的膽怯的尊杜族瞭解一下情況，
+53,"TEXT_BANVAN401_02189_02189_LINUVANU_000_022","總之，先去向尊杜集落的膽怯的尊杜族了解一下情況，
 只要見到傳奇的黑色惡魔，就立刻消滅它！"
-54,"TEXT_BANVAN401_02189_02189_LINUVANU_000_030","總之，先去向尊杜集落的膽怯的尊杜族瞭解一下情況，
+54,"TEXT_BANVAN401_02189_02189_LINUVANU_000_030","總之，先去向尊杜集落的膽怯的尊杜族了解一下情況，
 只要見到傳奇的黑色惡魔，就立刻消滅它！"
 55,"TEXT_BANVAN401_02189_02189_ZUNDU02189_000_040","哎喲喲、哎喲喲……世界就要完蛋了！
 我向光芒耀眼的太陽發誓，我看到了傳奇的黑色惡魔！"
@@ -87,7 +87,7 @@ int32,str,str
 61,"TEXT_BANVAN401_02189_02189_ZUNDU02189_000_080","好厲害、好厲害！你譜寫了新的傳說！
 傳奇的黑色惡魔被人類打倒啦！
 謝謝！這下終於可以放下心來了！"
-62,"TEXT_BANVAN401_02189_02189_LINUVANU_000_090","你回來了啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+62,"TEXT_BANVAN401_02189_02189_LINUVANU_000_090","你回來了啊，<Highlight>ObjectParameter(1)</Highlight>！
 看樣子你已經成功討伐了傳奇的黑色惡魔吧！"
 63,"TEXT_BANVAN401_02189_02189_LINUVANU_000_091","真不愧、真不愧是我認可的戰士！
 我也要加把油，不能輸給你呀！"

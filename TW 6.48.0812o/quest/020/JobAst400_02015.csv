@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_JOBAST400_02015_TODO_21",""
 46,"TEXT_JOBAST400_02015_TODO_22",""
 47,"TEXT_JOBAST400_02015_TODO_23",""
-48,"TEXT_JOBAST400_02015_JANNEQUINARD_000_000","別來無恙， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_JOBAST400_02015_JANNEQUINARD_000_000","別來無恙，<Highlight>ObjectParameter(1)</Highlight>。
 ……是這樣的，蕾薇瓦老師之前在皇都裡遭到了賊人襲擊。"
 49,"TEXT_JOBAST400_02015_JANNEQUINARD_000_001","雖說多虧有坎佩蘭在，沒出什麼大事，
 但這已經不是單純的偷竊之類的普通案件了，
@@ -58,7 +58,7 @@ int32,str,str
 她似乎有事要跟你說，就麻煩你過去一趟吧。"
 51,"TEXT_JOBAST400_02015_JANNEQUINARD_000_009","蕾薇瓦老師目前在占星院二樓稍作休息。
 她似乎有事要跟你說，就麻煩你過去一趟吧。"
-52,"TEXT_JOBAST400_02015_LEVEVA_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了。
+52,"TEXT_JOBAST400_02015_LEVEVA_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了。
 關於遇襲的事你已經聽說了吧。
 有坎佩蘭保護我，不用那麼擔心。"
 53,"TEXT_JOBAST400_02015_LEVEVA_000_011","叫你來也不是為了說這種無聊的事情。

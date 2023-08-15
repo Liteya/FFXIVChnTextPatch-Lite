@@ -6,8 +6,8 @@ int32,str,str
 1,"TEXT_BANVAN304_02188_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-穆納瓦努委託冒險者獲得房子的塗料。和西風島的木工奇努瓦努談談，聽取詳情。"
-2,"TEXT_BANVAN304_02188_SEQ_02","和奇努瓦努進行了交談。袞杜族目前做不出塗料，因此希望冒險者去溫杜族那裡偷。前往瓦納溫杜集落，獲得3個<Sheet(EventItem,2001917,0)/>。"
+穆納瓦努委託冒險者獲取房子的塗料。和西風島的木工奇努瓦努談談，聽取詳情。"
+2,"TEXT_BANVAN304_02188_SEQ_02","和奇努瓦努進行了交談。袞杜族目前做不出塗料，因此希望冒險者去溫杜族那裡偷。前往瓦納溫杜集落，獲取3個<Sheet(EventItem,2001917,0)/>。"
 3,"TEXT_BANVAN304_02188_SEQ_03","獲得了3個<Sheet(EventItem,2001917,0)/>。將<Sheet(EventItem,2001917,0)/>交給西風島的木工奇努瓦努。"
 4,"TEXT_BANVAN304_02188_SEQ_04","將<Sheet(EventItem,2001917,0)/>交給了奇努瓦努。瓦努族的各部族都使用不同顏色的塗料，因此使用藍色塗料的袞杜族無法依靠使用紅色塗料的尊杜族。"
 5,"TEXT_BANVAN304_02188_SEQ_05",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANVAN304_02188_SEQ_22",""
 23,"TEXT_BANVAN304_02188_SEQ_23",""
 24,"TEXT_BANVAN304_02188_TODO_00","和木工奇努瓦努對話"
-25,"TEXT_BANVAN304_02188_TODO_01","獲得<Sheet(EventItem,2001917,0)/>"
+25,"TEXT_BANVAN304_02188_TODO_01","獲取<Sheet(EventItem,2001917,0)/>"
 26,"TEXT_BANVAN304_02188_TODO_02","將<Sheet(EventItem,2001917,0)/>交給木工奇努瓦努"
 27,"TEXT_BANVAN304_02188_TODO_03",""
 28,"TEXT_BANVAN304_02188_TODO_04",""
@@ -53,13 +53,13 @@ int32,str,str
 45,"TEXT_BANVAN304_02188_TODO_21",""
 46,"TEXT_BANVAN304_02188_TODO_22",""
 47,"TEXT_BANVAN304_02188_TODO_23",""
-48,"TEXT_BANVAN304_02188_MUNAVANU_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我等你好久啦！
+48,"TEXT_BANVAN304_02188_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight>，我等你好久啦！
 我想拜託你幫忙去準備些漆牆的塗料，
 這事只有你能去辦。"
 49,"TEXT_BANVAN304_02188_MUNAVANU_000_001","其實是、其實是，做塗料的材料不夠了……
 詳情你還是去問木工奇努瓦努吧。"
-50,"TEXT_BANVAN304_02188_GINUVANU_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你是來幫忙籌備塗料的嗎？
-你就好比那曬乾溼羽的日光，真是幫了我大忙了！
+50,"TEXT_BANVAN304_02188_GINUVANU_000_010","<Highlight>ObjectParameter(1)</Highlight>，你是來幫忙籌備塗料的嗎？
+你就好比那曬乾濕羽的日光，真是幫了我大忙了！
 因為不管房子建得多牢固，不塗上顏色就完不了工……"
 51,"TEXT_BANVAN304_02188_GINUVANU_000_011","雖然我們也很想自己做塗料，可是工具全被弄壞了，
 最關鍵的是，作為原料的花草也被冷酷的溫杜族霸佔，
@@ -77,7 +77,7 @@ int32,str,str
 用這鮮豔的顏色，描繪出美麗的花紋，
 為建築物注入靈魂！"
 57,"TEXT_BANVAN304_02188_GINUVANU_000_032","我們不同的部族會使用不同顏色的塗料，
-因此沒辦法去依靠使用紅色塗料的豁達的尊杜族。
+因此沒法去依靠使用紅色塗料的豁達的尊杜族。
 太謝謝你幫我們籌備來這藍色塗料了。"
 58,"TEXT_BANVAN304_02188_GINUVANU_000_033","好了、好了，鼓足幹勁去刷牆了！
 用這晴空般的顏色繪製出美麗的圖案，

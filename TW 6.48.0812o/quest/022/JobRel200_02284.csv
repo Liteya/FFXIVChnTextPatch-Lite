@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 阿爾達希爾提案對元靈武器進行改造，使冒險者更容易將乙太傳導給人造元靈。為此，需要將蓋羅爾特的工具進行絕靈化才行。蓋羅爾特委託冒險者收集絕靈化用的<Sheet(Item,14899,0)/>。使用接受任務時的職業並換下元靈武器放在兵裝庫或背包中，將5個<Sheet(Item,14899,0)/>交給魔大陸阿濟茲拉螺旋港的阿爾達希爾。"
-2,"TEXT_JOBREL200_02284_SEQ_02","將<Sheet(Item,14899,0)/>交給了阿爾達希爾。武器發散出的美麗光華完美證明了冒險者的乙太已源源不斷地傳導給人造元靈，人造元靈本身也有了一些改變……同元靈武器．超導共同成長，為下一次研究做好準備。"
+2,"TEXT_JOBREL200_02284_SEQ_02","將<Sheet(Item,14899,0)/>交給了阿爾達希爾。武器發散出的美麗光華完美證明了冒險者的乙太已源源不斷地傳導給人造元靈，人造元靈本身也有了一些改變……同元靈武器·超導共同成長，為下一次研究做好準備。"
 3,"TEXT_JOBREL200_02284_SEQ_03",""
 4,"TEXT_JOBREL200_02284_SEQ_04",""
 5,"TEXT_JOBREL200_02284_SEQ_05",""
@@ -61,7 +61,7 @@ int32,str,str
 51,"TEXT_JOBREL200_02284_A2_000_000","創造<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器"
 52,"TEXT_JOBREL200_02284_SYSTEM_100_001","接受任務「人造元靈的聲音」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 53,"TEXT_JOBREL200_02284_SYSTEM_100_002","請轉換為與所需元靈武器相應的特職，
 再次和阿爾達希爾對話。"
 54,"TEXT_JOBREL200_02284_SYSTEM_100_003","要接受任務「人造元靈的聲音」，
@@ -75,28 +75,28 @@ int32,str,str
 請轉換為其它特職，
 再次和阿爾達希爾對話。"
 58,"TEXT_JOBREL200_02284_ARDASHIR_000_000","在之前的製作過程中，
-人造元靈成功向 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 表達出了自己的想法，
+人造元靈成功向<Highlight>ObjectParameter(1)</Highlight>表達出了自己的想法，
 雖然還只是單方向的。"
 59,"TEXT_JOBREL200_02284_ARDASHIR_000_001","我們為了研究出能夠獨立思考的武器，
-不能僅僅止步於單向，一定要進一步想辦法達成雙向對話才行！"
+不能僅僅止步於單向，必須要進一步想辦法達成雙向對話才行！"
 60,"TEXT_JOBREL200_02284_ARDASHIR_000_002","因此，我們這次的目標是讓人造元靈理解到你是主人，
 兩者之間能夠自然地進行對話！"
-61,"TEXT_JOBREL200_02284_ARDASHIR_000_003","但關於為什麼只有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一個人能夠看到人造元靈……"
-62,"TEXT_JOBREL200_02284_ARDASHIR_000_004","我認為這一定是因為我們和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 之間
+61,"TEXT_JOBREL200_02284_ARDASHIR_000_003","但關於為什麼只有<Highlight>ObjectParameter(1)</Highlight>一個人能夠看到人造元靈……"
+62,"TEXT_JOBREL200_02284_ARDASHIR_000_004","我認為這肯定是因為我們和<Highlight>ObjectParameter(1)</Highlight>之間
 有著什麼關鍵性的不同。
 因此我從該角度出發，擅自對你進行了一些調查。"
-63,"TEXT_JOBREL200_02284_ARDASHIR_000_005"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+63,"TEXT_JOBREL200_02284_ARDASHIR_000_005","<Highlight>ObjectParameter(1)</Highlight>……
 你有著名為超越之力的異能對嗎？"
-64,"TEXT_JOBREL200_02284_ARDASHIR_000_006","你透過能夠打破語言障礙、穿過心靈隔閡的這一異能，
+64,"TEXT_JOBREL200_02284_ARDASHIR_000_006","你通過能夠打破語言障礙、穿過心靈隔閡的這一異能，
 得以看到人造元靈的樣子、聽到人造元靈的聲音……
 我認為應該就是這個原因。"
 65,"TEXT_JOBREL200_02284_GEROLT_000_007","也就是說，如果不想點新的辦法，
-想看到人造元靈就只能透過這傢伙的異能了？"
+想看到人造元靈就只能通過這傢伙的異能了？"
 66,"TEXT_JOBREL200_02284_GEROLT_000_008","這種只有特定人群能用的次品怎麼可能賣得出去？！
 你有沒有想好怎麼解除這個限制？"
 67,"TEXT_JOBREL200_02284_ARDASHIR_100_008","嗯，當然想好了！！"
 68,"TEXT_JOBREL200_02284_ARDASHIR_000_009","這個人造元靈，
-是從 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 收集的星極和靈極水晶的乙太中孕育而生的，
+是從<Highlight>ObjectParameter(1)</Highlight>收集的星極和靈極水晶的乙太中孕育而生的，
 可以算是一種魔法生物。"
 69,"TEXT_JOBREL200_02284_ARDASHIR_000_010","舉例來說，像巨像兵這種簡單的魔法生物，
 它可以依靠創造時被賦予的魔力維持活動，
@@ -110,11 +110,11 @@ int32,str,str
 相當於泛用性的問題也同時解決了，可算是一石二鳥。"
 73,"TEXT_JOBREL200_02284_ARDASHIR_000_014","蓋羅爾特先生，到了展現你手藝的時候了。
 能把武器改良一下，
-讓 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 更容易將乙太傳導給人造元靈嗎？"
+讓<Highlight>ObjectParameter(1)</Highlight>更容易將乙太傳導給人造元靈嗎？"
 74,"TEXT_JOBREL200_02284_GEROLT_000_015","能當然是能，
 只要將元靈武器敲打一番，
 提升一下乙太傳導率就可以了，不過……"
-75,"TEXT_JOBREL200_02284_GEROLT_100_015","想要單隻傳導 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的乙太，就有些難辦了……"
+75,"TEXT_JOBREL200_02284_GEROLT_100_015","想要單只傳導<Highlight>ObjectParameter(1)</Highlight>的乙太，就有些難辦了……"
 76,"TEXT_JOBREL200_02284_GEROLT_000_016","要提升武器的乙太傳導率，
 我的乙太必然也會在改造過程中傳導過去。
 這樣人造元靈的乙太性質就會向我的方向靠攏。"
@@ -133,13 +133,13 @@ int32,str,str
 只要能弄到它，我的工具就能實現暫時絕靈化。"
 82,"TEXT_JOBREL200_02284_GEROLT_000_018","雖然我不知道在哪能弄到，
 但一直在負責籌集各種東西的你應該能把它找來吧？"
-83,"TEXT_JOBREL200_02284_GEROLT_000_019","行了 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+83,"TEXT_JOBREL200_02284_GEROLT_000_019","行了<Highlight>ObjectParameter(1)</Highlight>！
 去找從前和你做過交易的那些人問問，
 給我的鍛造錘和鐵砧弄5個<Sheet(Item,14899,0)/>回來吧！"
-84,"TEXT_JOBREL200_02284_ARDASHIR_000_020","蠻有兩下子呀，居然還研究了亞拉戈的知識。
+84,"TEXT_JOBREL200_02284_ARDASHIR_000_020","挺有兩下子呀，居然還研究了亞拉戈的知識。
 不過知道有這東西卻不知道在哪能弄到……
 不愧是蓋羅爾特先生，真是只知其一不知其二的大老粗啊。"
-85,"TEXT_JOBREL200_02284_ARDASHIR_000_021"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+85,"TEXT_JOBREL200_02284_ARDASHIR_000_021","<Highlight>ObjectParameter(1)</Highlight>，
 我和蓋羅爾特先生會仔細研究一下相關的亞拉戈資料，
 為接下來的調整做好準備。"
 86,"TEXT_JOBREL200_02284_ARDASHIR_000_022","實在不好意思，
@@ -172,8 +172,8 @@ int32,str,str
 你個乳臭未乾的小鬼懂什麼！
 喝酒能讓我的腦袋更加清晰！"
 99,"TEXT_JOBREL200_02284_ARDASHIR_000_046","你確定不是讓腦袋更加光溜？"
-100,"TEXT_JOBREL200_02284_GEROLT_000_047","嘁，真是嘴賤的小鬼……
-行了，你快把 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 找來的絕靈油塗到鐵砧上吧。"
+100,"TEXT_JOBREL200_02284_GEROLT_000_047","嘁，真是嘴欠的小鬼……
+行了，你快把<Highlight>ObjectParameter(1)</Highlight>找來的絕靈油塗到鐵砧上吧。"
 101,"TEXT_JOBREL200_02284_ARDASHIR_000_048","塗好了！
 非常完美。"
 102,"TEXT_JOBREL200_02284_GEROLT_000_049","我也給鍛造錘塗上了。
@@ -182,10 +182,10 @@ int32,str,str
 103,"TEXT_JOBREL200_02284_GEROLT_000_050","（★未使用／削除予定★）"
 104,"TEXT_JOBREL200_02284_GEROLT_000_051","（★未使用／削除予定★）"
 105,"TEXT_JOBREL200_02284_GEROLT_000_052","（★未使用／削除予定★）"
-106,"TEXT_JOBREL200_02284_ARDASHIR_000_053","絕靈油可是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 辛辛苦苦找來的，
+106,"TEXT_JOBREL200_02284_ARDASHIR_000_053","絕靈油可是<Highlight>ObjectParameter(1)</Highlight>辛辛苦苦找來的，
 你可別搞砸了喲？"
 107,"TEXT_JOBREL200_02284_GEROLT_000_054","哈？這還用你說！
-我可是專門去幹了瓶蒸餾酒打精神！"
+我可是專門去乾了瓶蒸餾酒打精神！"
 108,"TEXT_JOBREL200_02284_ARDASHIR_000_055","這樣啊，你還算有點腦……"
 109,"TEXT_JOBREL200_02284_ARDASHIR_000_056","什……你去喝酒了？！
 醉鬼你可千萬別碰人造元靈！！"
@@ -204,12 +204,12 @@ int32,str,str
 怎麼樣，是不是特別崇拜我？"
 118,"TEXT_JOBREL200_02284_GEROLT_000_065","拿起你的元靈武器吧。
 這下乙太應該能更好地傳導給人造元靈了！"
-119,"TEXT_JOBREL200_02284_GEROLT_100_066"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和我的傑作！
+119,"TEXT_JOBREL200_02284_GEROLT_100_066","<Highlight>ObjectParameter(1)</Highlight>和我的傑作！
 其名為<Sheet(Item,IntegerParameter(1),0)/>！"
-120,"TEXT_JOBREL200_02284_GEROLT_100_067"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和我的傑作！
+120,"TEXT_JOBREL200_02284_GEROLT_100_067","<Highlight>ObjectParameter(1)</Highlight>和我的傑作！
 其名為<Sheet(Item,IntegerParameter(1),0)/>、<Sheet(Item,IntegerParameter(2),0)/>！"
 121,"TEXT_JOBREL200_02284_ARDASHIR_000_066","好厲害……如夢幻般美麗的光華！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的乙太在武器上奔騰！
+<Highlight>ObjectParameter(1)</Highlight>的乙太在武器上奔騰！
 這下人造元靈一定能得到進一步成長！"
 122,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_067","溫暖……"
 123,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_068","令人心神寧靜的乙太……
@@ -222,14 +222,14 @@ int32,str,str
 127,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_072","主人，我有一個請求。
 我想多看看外面的世界，
 你願意帶我去嗎？"
-128,"TEXT_JOBREL200_02284_ARDASHIR_000_073"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+128,"TEXT_JOBREL200_02284_ARDASHIR_000_073","<Highlight>ObjectParameter(1)</Highlight>？
 莫非你剛才是在和人造元靈對話？！"
 129,"TEXT_JOBREL200_02284_ARDASHIR_000_074","太棒了！
 照這樣成長下去，屆時我們一定也能看到人造元靈的樣子……
 創造出能獨立思考的武器不是夢！"
 130,"TEXT_JOBREL200_02284_GEROLT_000_075","怎麼樣，一流武器匠的手藝就是這麼棒！
 對了，還有個好東西給你們看！"
-131,"TEXT_JOBREL200_02284_GEROLT_000_076"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 四處找絕靈油的時候，
+131,"TEXT_JOBREL200_02284_GEROLT_000_076","<Highlight>ObjectParameter(1)</Highlight>四處找絕靈油的時候，
 我找到了這個有意思的玩意。"
 132,"TEXT_JOBREL200_02284_GEROLT_000_077","它的學習能力非常強。
 我試著讓它釀了一下蒸餾酒，
@@ -245,8 +245,8 @@ int32,str,str
 錢有時候可是比生命更加重要。"
 137,"TEXT_JOBREL200_02284_ARDASHIR_000_082","這人真是沒救了……"
 138,"TEXT_JOBREL200_02284_ARDASHIR_000_083","好了我們不管他……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你繼續加深和人造元靈的羈絆，
+<Highlight>ObjectParameter(1)</Highlight>，請你繼續加深和人造元靈的羈絆，
 到時候咱們一起創造出能獨立思考的武器，讓世界大吃一驚！"
-139,"TEXT_JOBREL200_02284_ARDASHIR_000_084"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，請你繼續加深和人造元靈的羈絆，
+139,"TEXT_JOBREL200_02284_ARDASHIR_000_084","<Highlight>ObjectParameter(1)</Highlight>，請你繼續加深和人造元靈的羈絆，
 到時候咱們一起創造出能獨立思考的武器，讓世界大吃一驚！"
-140,"TEXT_JOBREL200_02284_SYSTEM_000_085","成功將「元靈武器」強化為「元靈武器．超導」！"
+140,"TEXT_JOBREL200_02284_SYSTEM_000_085","成功將「元靈武器」強化為「元靈武器·超導」！"

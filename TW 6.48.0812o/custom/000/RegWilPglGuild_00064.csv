@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGWILPGLGUILD_00064_HAMON_000","哈哈哈，
 你對格鬥術有興趣嗎？"
-1,"TEXT_REGWILPGLGUILD_00064_Q1_000_1","想瞭解什麼？"
+1,"TEXT_REGWILPGLGUILD_00064_Q1_000_1","想了解什麼？"
 2,"TEXT_REGWILPGLGUILD_00064_A1_000_1","你是做什麼的？"
 3,"TEXT_REGWILPGLGUILD_00064_A1_000_2","什麼是「格鬥術」？"
 4,"TEXT_REGWILPGLGUILD_00064_A1_000_3","取消"
@@ -25,19 +25,19 @@ int32,str,str
 是可以將技能無限連擊的，
 哈哈哈哈哈！"
 12,"TEXT_REGWILPGLGUILD_00064_HAMON_000_050","哈哈哈哈哈。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你近來可好啊？"
+<Highlight>ObjectParameter(1)</Highlight>，你近來可好啊？"
 13,"TEXT_REGWILPGLGUILD_00064_HAMON_000_060","艾里克那個囉嗦的老傢伙告訴我了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你學到武僧的技藝了吧！"
+<Highlight>ObjectParameter(1)</Highlight>，你學到武僧的技藝了吧！"
 14,"TEXT_REGWILPGLGUILD_00064_HAMON_000_061","為了尋求力量而繼續前行，你的背影看起來可真是年輕！
 真好啊，武僧啊，真想跟你過過招啊！
 哈哈哈哈哈！"
-15,"TEXT_REGWILPGLGUILD_00064_HAMON_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你好像攤上大事了嘛。
+15,"TEXT_REGWILPGLGUILD_00064_HAMON_000_070","<Highlight>ObjectParameter(1)</Highlight>，你好像攤上大事了嘛。
 哈哈哈，不要那麼擔心。
 我相信你揮出的拳頭！"
-16,"TEXT_REGWILPGLGUILD_00064_HAMON_000_071"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看來你的麻煩事解決了。
+16,"TEXT_REGWILPGLGUILD_00064_HAMON_000_071","<Highlight>ObjectParameter(1)</Highlight>，看來你的麻煩事解決了。
 今後也記得好好貫徹自己的信念，
 不要向任何苦境低頭呀，哈哈哈！"
-17,"TEXT_REGWILPGLGUILD_00064_Q2_000_1","想瞭解什麼？"
+17,"TEXT_REGWILPGLGUILD_00064_Q2_000_1","想了解什麼？"
 18,"TEXT_REGWILPGLGUILD_00064_A2_000_1","最近怎麼樣？"
 19,"TEXT_REGWILPGLGUILD_00064_A2_000_2","什麼是「格鬥術」？"
 20,"TEXT_REGWILPGLGUILD_00064_A2_000_3","取消"
@@ -51,7 +51,7 @@ int32,str,str
 我還以為一定會很受歡迎的……到底是怎麼回事呢？"
 24,"TEXT_REGWILPGLGUILD_00064_HAMON_000_120","你似乎又做了很了不得的事情啊。
 那麼結果如何呢？"
-25,"TEXT_REGWILPGLGUILD_00064_HAMON_000_121","交給秋秋拓的信裡不是都寫著嗎！
+25,"TEXT_REGWILPGLGUILD_00064_HAMON_000_121","交給秋秋拓的信裡不是都寫著呢嗎！
 「如果在帝國發現了性感辣妹的話，記得向我彙報」！"
 26,"TEXT_REGWILPGLGUILD_00064_HAMON_000_122","怎麼了，幹嘛一副無語的樣子？"
 27,"TEXT_REGWILPGLGUILD_00064_HAMON_000_110","喔，你又在重新思考「格鬥術」的含義嗎？

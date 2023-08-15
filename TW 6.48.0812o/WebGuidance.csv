@@ -2,15 +2,15 @@
 #,Image,Url,Name,,Description
 int32,Image,WebURL,str,str,str
 0,0,0,"","",""
-1,180102,2,"COMMUNITY FINDER","社群招募","在社群招募中獲得關於部隊、通訊貝等朋友募集的最新消息。
+1,180102,2,"COMMUNITY FINDER","社群搜尋器","在社群搜尋器中獲得關於部隊、通訊貝等朋友募集的最新消息。
 
 如果想在遊戲中尋找朋友或戰友的話，
 請訪問這裡！"
-2,180103,18,"Immerse Spatial Audio","","「Immerse Spatial Audio」是Embody公司提供的可選聲音附加模組。
-能夠將Final Fantasy 14的聲音根據不同的使用者進行個性化訂製，讓玩家盡情享受更身臨其境，360度有立體感的音訊。
+2,180103,18,"Immerse Spatial Audio","","“Immerse Spatial Audio”は、Embody社の提供するオプショナルサウンドアドオンです。
+ファイナルファンタジーXIVのサウンドをあなたの耳の形状にあわせてパーソナライズし再生することで、360度から音が聴こえるような、より立体感のあるオーディオをお楽しみいただけます。
 
-要使用本功能，需要導入「Immerse Spatial Audio」。
-可以先免費試用。
-※試用期結束後繼續使用「Immerse Spatial Audio」需要另外購買許可證。
+本機能をご利用いただくには、“Immerse Spatial Audio”の導入が必要です。
+まずは無料でお試しください。
+※トライアル期間終了後も“Immerse Spatial Audio”を継続的にご利用いただくには別途ライセンス購入が必要です。
 
-詳細情況請透過以下按鈕前往Immerse™官方網站確認。"
+詳しくは以下のボタンから、Immerse™公式サイトをご確認ください。"

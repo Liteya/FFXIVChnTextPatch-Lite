@@ -16,7 +16,7 @@ int32,str,str
 9,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_053","開始「巴哈姆特大迷宮入侵之章」，
 需要8名等級達到
 50級以上的戰鬥菁英或魔法導師來組成隊伍。"
-10,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_054","另外，所有成員一定要領取並完成任務「向深淵再次啟程」。"
+10,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_054","另外，所有成員必須要領取並完成任務「向深淵再次啟程」。"
 11,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_055","「巴哈姆特大迷宮入侵之章」的開始地點取決於小隊隊長的進攻進度。"
 12,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_056","如果滿足「巴哈姆特大迷宮入侵之章」的開始條件，
 未達到小隊隊長進攻進度的成員也可以同步參加。"
@@ -31,7 +31,7 @@ int32,str,str
 戰利品中的道具會自動轉移到背包裡。"
 17,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_060","請注意：這種情況下，放不下的道具會被自動丟棄。"
 18,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_070","「巴哈姆特零式大迷宮入侵之章」是挑戰型任務。"
-19,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_071","所有成員一定要領取並完成任務「英雄敘事詩：大迷宮之章」。"
+19,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_071","所有成員必須要領取並完成任務「英雄敘事詩：大迷宮之章」。"
 20,"TEXT_BAHAMUTGUIDETRAVELFOREST_SYSTEM_000_072","「巴哈姆特零式大迷宮入侵之章」的進攻進度
 和「巴哈姆特大迷宮入侵之章」是共通的，
 兩者可以使用相同的進攻進度。"

@@ -66,8 +66,8 @@ int32,str,str
 53,"TEXT_CLSGLD021_00610_SYSTEM_000_6","試著用「<Sheet(Item,5106,0)/>」製作「<Sheet(Item,5062,0)/>」吧。
 從快捷指令的「手冊管理」裡選擇「製作筆記」，
 就可以開始製作了。"
-54,"TEXT_CLSGLD021_00610_SERENDIPITY_000_7","(CUT)"
-55,"TEXT_CLSGLD021_00610_SERENDIPITY_000_8"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！等候多時了！
+54,"TEXT_CLSGLD021_00610_SERENDIPITY_000_7","CUT"
+55,"TEXT_CLSGLD021_00610_SERENDIPITY_000_8","<Highlight>ObjectParameter(1)</Highlight>！等候多時了！
 你做好「<Sheet(Item,5062,0)/>」了麼？"
 56,"TEXT_CLSGLD021_00610_SERENDIPITY_000_9","嗯……我看看……"
 57,"TEXT_CLSGLD021_00610_GIGI_000_10","……嘰嘰嘰嘰……
@@ -81,7 +81,7 @@ int32,str,str
 61,"TEXT_CLSGLD021_00610_SERENDIPITY_000_14","這孩子是我的助手，
 他叫涅吉，是個魔法人偶。"
 62,"TEXT_CLSGLD021_00610_SERENDIPITY_000_15","所謂魔法人偶，就是超一流的雕金匠
-融合了鍊金術、咒術等知識，
+融合了煉金術、咒術等知識，
 製作出來的魔法機械人偶。"
 63,"TEXT_CLSGLD021_00610_SERENDIPITY_000_16","他們在這公會中擔任雕金匠們的助手，
 表現得可活躍了。"
@@ -97,7 +97,7 @@ int32,str,str
 68,"TEXT_CLSGLD021_00610_SERENDIPITY_000_21","啊，對了對了！
 我們剛才在說<Sheet(Item,5062,0)/>呢！
 我把這事給忘了！對不起！"
-69,"TEXT_CLSGLD021_00610_SERENDIPITY_000_22","你真厲害啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+69,"TEXT_CLSGLD021_00610_SERENDIPITY_000_22","你真厲害啊，<Highlight>ObjectParameter(1)</Highlight>！
 這<Sheet(Item,5062,0)/>，你做得很細心，
 不管是純度還是光澤，都做得很好。"
 70,"TEXT_CLSGLD021_00610_SERENDIPITY_000_23","你還只是個新手，就能做到這種地步，
@@ -106,7 +106,7 @@ int32,str,str
 等你用慣了錘子再來公會找我。
 我會等著你的！"
 72,"TEXT_CLSGLD021_00610_SERENDIPITY_000_25","……嘰嘰嘰嘰……
-別再、來了！你這個、白痴！"
+別再、來了！你這個、白癡！"
 73,"TEXT_CLSGLD021_00610_SYSTEM_000_26","開啟了「雕金匠」的職業任務。
 等級達到「5級」以上時，才可以領取下一個任務。
-提高等級後再來公會。 "
+提高等級後再來公會。"

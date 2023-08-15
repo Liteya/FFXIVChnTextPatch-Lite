@@ -1,13 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBSCH350_01098_SEQ_00","斧術師公會的阿爾卡．佐爾卡有話要對冒險者說。"
-1,"TEXT_JOBSCH350_01098_SEQ_01","接受了阿爾卡．佐爾卡的委託。前往拉諾西亞外地的尼姆浮游遺跡，調查<Sheet(EObj,2002379,0)/>。"
+0,"TEXT_JOBSCH350_01098_SEQ_00","斧術師公會的阿爾卡·佐爾卡有話要對冒險者說。"
+1,"TEXT_JOBSCH350_01098_SEQ_01","接受了阿爾卡·佐爾卡的委託。前往拉諾西亞外地的尼姆浮游遺跡，調查<Sheet(EObj,2002379,0)/>。"
 2,"TEXT_JOBSCH350_01098_SEQ_02","調查了<Sheet(EObj,2002379,0)/>。在拉諾西亞外地的尼姆浮游遺跡調查<Sheet(EObj,2002383,0)/>。"
-3,"TEXT_JOBSCH350_01098_SEQ_03","在<Sheet(EObj,2002383,0)/>張望了一番。向利姆薩．羅敏薩斧術師公會的阿爾卡．佐爾卡報告。"
-4,"TEXT_JOBSCH350_01098_SEQ_04","向阿爾卡．佐爾卡報告完畢。阿爾卡．佐爾卡的論斷幫助小仙女喚醒了記憶，他對此感到很高興。
+3,"TEXT_JOBSCH350_01098_SEQ_03","在<Sheet(EObj,2002383,0)/>張望了一番。向利姆薩·羅敏薩斧術師公會的阿爾卡·佐爾卡報告。"
+4,"TEXT_JOBSCH350_01098_SEQ_04","向阿爾卡·佐爾卡報告完畢。阿爾卡·佐爾卡的論斷幫助小仙女喚醒了記憶，他對此感到很高興。
 
-※學者的等級達到40級以上時，可以從阿爾卡．佐爾卡那裡領取下一個學者任務。"
+※學者的等級達到40級以上時，可以從阿爾卡·佐爾卡那裡領取下一個學者任務。"
 5,"TEXT_JOBSCH350_01098_SEQ_05",""
 6,"TEXT_JOBSCH350_01098_SEQ_06",""
 7,"TEXT_JOBSCH350_01098_SEQ_07",""
@@ -29,7 +29,7 @@ int32,str,str
 23,"TEXT_JOBSCH350_01098_SEQ_23",""
 24,"TEXT_JOBSCH350_01098_TODO_00","調查尼姆浮游遺跡的<Sheet(EObj,2002379,0)/>"
 25,"TEXT_JOBSCH350_01098_TODO_01","調查<Sheet(EObj,2002383,0)/>"
-26,"TEXT_JOBSCH350_01098_TODO_02","向斧術師公會的阿爾卡．佐爾卡報告"
+26,"TEXT_JOBSCH350_01098_TODO_02","向斧術師公會的阿爾卡·佐爾卡報告"
 27,"TEXT_JOBSCH350_01098_TODO_03",""
 28,"TEXT_JOBSCH350_01098_TODO_04",""
 29,"TEXT_JOBSCH350_01098_TODO_05",""
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_JOBSCH350_01098_TODO_21",""
 46,"TEXT_JOBSCH350_01098_TODO_22",""
 47,"TEXT_JOBSCH350_01098_TODO_23",""
-48,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_000","哎呀呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 麼！
+48,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_000","哎呀呀，這不是<Highlight>ObjectParameter(1)</Highlight>麼！
 現在關於尼姆海兵團的研究有了一定的進展。
 不過石板劣化嚴重，解讀工作費了我好一番工夫呢。"
 49,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_001","當然，你的事情我也沒忘記。
@@ -77,7 +77,7 @@ int32,str,str
 說不定小仙女會觸景生情，喚醒記憶。"
 58,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_011","不過，那一帶臨近地靈族的勢力範圍。
 你要多加小心，注意避開那些傢伙。"
-59,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_020","你回來啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+59,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_020","你回來啦，<Highlight>ObjectParameter(1)</Highlight>。
 看來我的方案進展很順利。"
 60,"TEXT_JOBSCH350_01098_ALKAZOLKA_000_021","隨著小仙女的覺醒，
 蘊藏於靈魂水晶中的古代軍事魔法也將會被喚醒。"

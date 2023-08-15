@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你好啊！
+0,"TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000","<Highlight>ObjectParameter(1)</Highlight>，你好啊！
 很高興你能過來。"
 1,"TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_010","正好我這裡有個好消息，
 其實，現在蒼天街正在舉辦蒼天同慶。

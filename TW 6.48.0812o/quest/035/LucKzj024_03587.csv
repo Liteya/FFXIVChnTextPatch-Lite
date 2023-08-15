@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_LUCKZJ024_03587_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-鰭人潮池的涅姆嘶．澳恩好像想要鏟除麻煩的傢伙。"
+鰭人潮池的涅姆嘶·澳恩好像想要剷除麻煩的傢伙。"
 1,"TEXT_LUCKZJ024_03587_SEQ_01",""
 2,"TEXT_LUCKZJ024_03587_SEQ_02",""
 3,"TEXT_LUCKZJ024_03587_SEQ_03",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_LUCKZJ024_03587_SEQ_22",""
 23,"TEXT_LUCKZJ024_03587_SEQ_23",""
 24,"TEXT_LUCKZJ024_03587_TODO_00","討伐<Sheet(BNpcName,8619,0)/>"
-25,"TEXT_LUCKZJ024_03587_TODO_01","和涅姆嘶．澳恩對話"
+25,"TEXT_LUCKZJ024_03587_TODO_01","和涅姆嘶·澳恩對話"
 26,"TEXT_LUCKZJ024_03587_TODO_02",""
 27,"TEXT_LUCKZJ024_03587_TODO_03",""
 28,"TEXT_LUCKZJ024_03587_TODO_04",""
@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000","人類啊，能搭把鰭嗎？
 支援一下，我們的狩獵吧。"
 49,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001","<Sheet(BNpcName,8619,0)/>，會假裝成岩石，襲擊我們。
-而且它們，繁殖很快，我想儘快，削減它們的數量，
+而且它們，繁殖很快，我想盡快，削減它們的數量，
 但是只靠我們，很難，將它們驅逐。"
 50,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002","我想請你，在潮池周圍，
 打倒<Sheet(BNpcName,8619,0)/>。
@@ -65,6 +65,6 @@ int32,str,str
 我能猜到，因為你散發著，<Sheet(BNpcName,8619,0)/>的味道。"
 53,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011","那幫傢伙，佔據著古老的建築物，當做自己的住處。
 我們建起來的祭壇，供奉的貢品，全被它們破壞了。
-這些可恨的傢伙，必須根除。"
+這些可恨的傢伙，必鬚根除。"
 54,"TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012","要是潮水，能回來的話，驅除它們，會更輕鬆一些的……啊。
 沒什麼，請你，不要介意。"

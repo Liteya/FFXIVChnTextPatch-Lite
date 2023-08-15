@@ -52,12 +52,12 @@ int32,str,str
 48,"TEXT_STMBDZ614_02792_MAUCI_000_000","旅行者，你真的願意陪我修行嗎？
 感激不盡！
 那麼……那個，可否告訴我你的名字？"
-49,"TEXT_STMBDZ614_02792_MAUCI_000_001","那麼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+49,"TEXT_STMBDZ614_02792_MAUCI_000_001","那麼，<Highlight>ObjectParameter(1)</Highlight>，
 我們這就去實戰演練一下吧。
 我想看看你的戰鬥，從中學習技巧。"
 50,"TEXT_STMBDZ614_02792_MAUCI_000_002","說不定能發現我身上缺乏的東西。
 就以沙漠中的火精為對手吧。
-我先去引過來一些，我們在外面會合吧！"
+我先去引過來一些，我們在外面匯合吧！"
 51,"TEXT_STMBDZ614_02792_MAUCI_000_010","我在前面放了一些家畜身上的肥肉。
 這種肉上易燃的油脂，
 是火精<Sheet(BNpcName,5906,0)/>的最愛……"
@@ -69,7 +69,7 @@ int32,str,str
 54,"TEXT_STMBDZ614_02792_MAUCI_000_021","好，我這就把學到的東西付諸實踐！
 朵塔兒水洲的訓練比賽快要開始了，
 好久沒參加了，這次我決定去參加！"
-55,"TEXT_STMBDZ614_02792_MAUCI_000_030","好痛…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+55,"TEXT_STMBDZ614_02792_MAUCI_000_030","好痛……<Highlight>ObjectParameter(1)</Highlight>……
 抱歉，如你所見，我真是慘敗啊……
 這下誰都不會相信我是「七劍」了吧……"
 56,"TEXT_STMBDZ614_02792_DOTHARLAUDIENCEA02792_000_031","(-朵塔兒部女性-)沒想到，「七劍」馬兀赤竟這麼輕易就輸了……"
@@ -84,7 +84,7 @@ int32,str,str
 可是大家還給他這麼大壓力……"
 60,"TEXT_STMBDZ614_02792_KHULAN_000_035","……你是他的朋友嗎？
 我是庫蘭，是馬兀赤的青梅竹馬，
-所以很瞭解他的實力……"
+所以很了解他的實力……"
 61,"TEXT_STMBDZ614_02792_KHULAN_000_036","你也知道馬兀赤實力很弱吧？
 既然如此，就幫幫我吧……
 為了他的將來，我想做一些力所能及的事……"

@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSC107_00958_SEQ_00","採礦工佛羅廷．斯特恩，想要冒險者幫他收集東西。"
-1,"TEXT_GAIUSC107_00958_SEQ_01","討伐5隻棲息在火牆的變異礦爬蟲<Sheet(BNpcName,275,0)/>，獲得<Sheet(EventItem,2000744,0)/>。"
-2,"TEXT_GAIUSC107_00958_SEQ_02","獲得了<Sheet(EventItem,2000744,0)/>。將其交給紫紅瀑布的採礦工佛羅廷．斯特恩。"
+0,"TEXT_GAIUSC107_00958_SEQ_00","採礦工佛羅廷·斯特恩，想要冒險者幫他收集東西。"
+1,"TEXT_GAIUSC107_00958_SEQ_01","討伐5隻棲息在火牆的變異礦爬蟲<Sheet(BNpcName,275,0)/>，獲取<Sheet(EventItem,2000744,0)/>。"
+2,"TEXT_GAIUSC107_00958_SEQ_02","獲得了<Sheet(EventItem,2000744,0)/>。將其交給紫紅瀑布的採礦工佛羅廷·斯特恩。"
 3,"TEXT_GAIUSC107_00958_SEQ_03","因第七靈災的影響，火牆附近的環境發生了巨大變化。此處因蘊含著稀有礦物，對採礦工來說是不可多得的寶地。"
 4,"TEXT_GAIUSC107_00958_SEQ_04",""
 5,"TEXT_GAIUSC107_00958_SEQ_05",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSC107_00958_SEQ_22",""
 23,"TEXT_GAIUSC107_00958_SEQ_23",""
 24,"TEXT_GAIUSC107_00958_TODO_00","從<Sheet(BNpcName,275,0)/>身上得到<Sheet(EventItem,2000744,0)/>"
-25,"TEXT_GAIUSC107_00958_TODO_01","將<Sheet(EventItem,2000744,0)/>交給佛羅廷．斯特恩"
+25,"TEXT_GAIUSC107_00958_TODO_01","將<Sheet(EventItem,2000744,0)/>交給佛羅廷·斯特恩"
 26,"TEXT_GAIUSC107_00958_TODO_02",""
 27,"TEXT_GAIUSC107_00958_TODO_03",""
 28,"TEXT_GAIUSC107_00958_TODO_04",""
@@ -55,7 +55,7 @@ int32,str,str
 體內積累了大量罕見的<Sheet(EventItem,2000744,0)/>。
 你能代替我去採集一些麼。"
 50,"TEXT_GAIUSC107_00958_DUMMY_000_000","打倒5隻石英礦妖蟲，獲得<Sheet(EventItem,2000744,0)/>"
-51,"TEXT_GAIUSC107_00958_SYSTEM_000_000","（★未使用／削除予定★）"
+51,"TEXT_GAIUSC107_00958_SYSTEM_000_000","（未使用/預計刪除）"
 52,"TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010","怎麼樣了？
 你採到<Sheet(EventItem,2000744,0)/>了嗎？"
 53,"TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020","對，就是這個。

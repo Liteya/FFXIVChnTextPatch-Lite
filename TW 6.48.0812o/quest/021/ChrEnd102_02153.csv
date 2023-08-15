@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_CHREND102_02153_SEQ_00","寶杖大街的加埃泰勒用尊敬的目光注視著冒險者。"
-1,"TEXT_CHREND102_02153_SEQ_01","加埃泰勒委託冒險者與聖恩達利姆神學院的院長見面。為了透過加埃泰勒見到院長，和砥柱層聖雷馬諾大聖堂的神學院的祭司對話，進入聖恩達利姆神學院。"
+1,"TEXT_CHREND102_02153_SEQ_01","加埃泰勒委託冒險者與聖恩達利姆神學院的院長見面。為了通過加埃泰勒見到院長，和砥柱層聖雷馬諾大聖堂的神學院的祭司對話，進入聖恩達利姆神學院。"
 2,"TEXT_CHREND102_02153_SEQ_02","和神學院的祭司進行了交談，進入了聖恩達利姆神學院。和聖恩達利姆神學院的加埃泰勒談談。"
 3,"TEXT_CHREND102_02153_SEQ_03","來到加埃泰勒這裡時院長不在。轉而要與布里亞迪安一起調查石像被盜事件。和聖恩達利姆神學院負責石像修復工作的神學生談談。"
-4,"TEXT_CHREND102_02153_SEQ_04","負責石像修復工作的人是特奧莫桑。他為了對此事負責而去尋找石像的頭部了。和伊修加爾德基礎層的特奧莫桑談談。"
+4,"TEXT_CHREND102_02153_SEQ_04","負責石像修復工作的人是特奧莫桑。他為了對此事負責而去尋找石像的頭部了。和伊修加德基礎層的特奧莫桑談談。"
 5,"TEXT_CHREND102_02153_SEQ_05","和特奧莫桑進行了交談。特奧莫桑因盜竊犯對正教欺瞞民眾之事的聲討而心生動搖。得到冒險者的指引，他決心成為聖職者來為正教贖罪。向聖恩達利姆神學院的布呂瓦尼翁副院長報告。"
 6,"TEXT_CHREND102_02153_SEQ_06","向布呂瓦尼翁副院長報告完畢。雖然石像被盜事件解決了，但學院內似乎問題堆積如山。和布呂瓦尼翁副院長談談。"
 7,"TEXT_CHREND102_02153_SEQ_07","和布呂瓦尼翁副院長進行了交談。冒險者的功績得到了認可，正式成為了神學院的顧問。然而招聘顧問的原因似乎另有隱情。"
@@ -49,22 +49,22 @@ int32,str,str
 45,"TEXT_CHREND102_02153_TODO_21",""
 46,"TEXT_CHREND102_02153_TODO_22",""
 47,"TEXT_CHREND102_02153_TODO_23",""
-48,"TEXT_CHREND102_02153_GAETELLE_000_000","那麼， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+48,"TEXT_CHREND102_02153_GAETELLE_000_000","那麼，<Highlight>ObjectParameter(1)</Highlight>閣下。
 希望您在方便的時間來聖恩達利姆神學院。
 聖雷馬諾大聖堂的神學院的祭司會給您帶路。"
-49,"TEXT_CHREND102_02153_THEOMOCENT_000_009","啊，是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+49,"TEXT_CHREND102_02153_THEOMOCENT_000_009","啊，是<Highlight>ObjectParameter(1)</Highlight>！
 您來了啊！
 我一直在祈禱，希望您的冒險之路平安無事。"
 50,"TEXT_CHREND102_02153_MATHYE_000_009","院長因為公事繁忙，很少與他人會面。
 果然英雄的待遇就是不一樣。
 真是讓人羨慕。"
-51,"TEXT_CHREND102_02153_SCHOLASTICATELECTOR_000_005","您就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下吧？
+51,"TEXT_CHREND102_02153_SCHOLASTICATELECTOR_000_005","您就是<Highlight>ObjectParameter(1)</Highlight>閣下吧？
 感謝您特意前來。
 這邊請。"
 52,"TEXT_CHREND102_02153_Q1_000_010","要前往聖恩達利姆神學院嗎？"
 53,"TEXT_CHREND102_02153_A1_000_011","是"
 54,"TEXT_CHREND102_02153_A1_000_012","否"
-55,"TEXT_CHREND102_02153_GAETELLE_000_010","英雄 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，您好！
+55,"TEXT_CHREND102_02153_GAETELLE_000_010","英雄<Highlight>ObjectParameter(1)</Highlight>，您好！
 辛苦您特意前來，
 但是與院長的會面恐怕要改日了。"
 56,"TEXT_CHREND102_02153_BRUVAGNON_000_011","我是副院長布呂瓦尼翁。
@@ -74,7 +74,7 @@ int32,str,str
 我正忙於應對這些狀況。"
 58,"TEXT_CHREND102_02153_GAETELLE_000_013","因為我們這邊的問題讓您白跑一趟，
 所以理應向您把事情解釋清楚。"
-59,"TEXT_CHREND102_02153_GAETELLE_000_014"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，
+59,"TEXT_CHREND102_02153_GAETELLE_000_014","<Highlight>ObjectParameter(1)</Highlight>閣下，
 您知道聖瓦勒魯瓦揚石像嗎？
 是的，就是基礎層的廣場上沒有頭部的龍騎士石像。"
 60,"TEXT_CHREND102_02153_GAETELLE_000_015","那個石像的頭部原本作為賑濟活動的一環，
@@ -87,7 +87,7 @@ int32,str,str
 63,"TEXT_CHREND102_02153_BRUVAGNON_000_018","啊呀……
 您原來認識我的侄子布里亞迪安嗎？"
 64,"TEXT_CHREND102_02153_BRIARDIEN_000_019","是的，叔父大人。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 曾經和我一起調查過某個事件。"
+<Highlight>ObjectParameter(1)</Highlight>曾經和我一起調查過某個事件。"
 65,"TEXT_CHREND102_02153_BRIARDIEN_000_020","對了！
 叔父大人，<If(PlayerParameter(4))>她<Else/>他</If>是非常優秀的冒險者。
 我希望能讓<If(PlayerParameter(4))>她<Else/>他</If>成為特別顧問做我的助手，可以嗎？"
@@ -98,19 +98,19 @@ int32,str,str
 英雄出於善意向我們的學生伸出了援助之手。
 這樣的人是值得信賴的。"
 68,"TEXT_CHREND102_02153_BRIARDIEN_000_023","……先不說是否聘任為正式的顧問，
-在石像被盜這件事上借助冒險者的力量總歸沒有問題吧？
-以後的事透過實績再來決定就可以了。"
+在石像被盜這件事上藉助冒險者的力量總歸沒有問題吧？
+以後的事通過實績再來決定就可以了。"
 69,"TEXT_CHREND102_02153_BRUVAGNON_000_024","好吧，我也希望在院長回來之前，
 能把石像被盜事件解決啊……
 那麼，我也請求您借我們一臂之力。"
-70,"TEXT_CHREND102_02153_BRIARDIEN_000_025","雖然是順勢把你捲了進來，
+70,"TEXT_CHREND102_02153_BRIARDIEN_000_025","雖然是順勢把你卷了進來，
 但是為了解決事件，真的需要像你這樣的幹將。
 我們現在就去問問負責石像修復工作的神學生吧。"
 71,"TEXT_CHREND102_02153_BRIARDIEN_000_029","他好像參與了聖瓦勒魯瓦揚石像的修復工作。"
 72,"TEXT_CHREND102_02153_BRUVAGNON_000_029","希望你們能在院長回來之前解決這件事。"
 73,"TEXT_CHREND102_02153_GAETELLE_000_029","您竟然和布里亞迪安閣下是舊識，
 這真是上天的安排啊……"
-74,"TEXT_CHREND102_02153_THEOMOCENT_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+74,"TEXT_CHREND102_02153_THEOMOCENT_000_030","<Highlight>ObjectParameter(1)</Highlight>，
 感謝戰神哈羅妮讓我們再會。"
 75,"TEXT_CHREND102_02153_THEOMOCENT_000_031","……原來如此，您也是為了石像的事而來的啊。
 這起事件的責任在我，都怪我把石像頭部隨意放在了工作區。
@@ -127,7 +127,7 @@ int32,str,str
 總之我們分頭去基礎層找他吧。"
 80,"TEXT_CHREND102_02153_BEN_000_039","怎麼又是你！
 如果不想被捲入麻煩事裡就趕緊一邊去！"
-81,"TEXT_CHREND102_02153_THEOMOCENT_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+81,"TEXT_CHREND102_02153_THEOMOCENT_000_040","<Highlight>ObjectParameter(1)</Highlight>……
 看來石像的頭部就裝在那個箱子裡……
 但是請等一下，我相信本會改過自新的。"
 82,"TEXT_CHREND102_02153_THEOMOCENT_000_041","本……
@@ -157,11 +157,11 @@ int32,str,str
 91,"TEXT_CHREND102_02153_THEOMOCENT_000_050","……正教，犯下了擴散偽造歷史的罪行。
 但是，把我們這些孤兒撫養長大的，
 也是正教的祭司大人……"
-92,"TEXT_CHREND102_02153_THEOMOCENT_000_051"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+92,"TEXT_CHREND102_02153_THEOMOCENT_000_051","<Highlight>ObjectParameter(1)</Highlight>……
 我，到底該怎麼做……"
 93,"TEXT_CHREND102_02153_Q1_000_000","如何作答？"
 94,"TEXT_CHREND102_02153_A1_000_001","自己做出決定"
-95,"TEXT_CHREND102_02153_A1_000_002","…………。"
+95,"TEXT_CHREND102_02153_A1_000_002","……"
 96,"TEXT_CHREND102_02153_THEOMOCENT_000_052","謝謝您，我終於確定了自己的心意。
 神一定是為了引導我才讓您來到我的身邊吧。
 沒錯，這是必須自己決定的事情！"
@@ -180,12 +180,12 @@ int32,str,str
 因為說不定我們的處境會不太妙啊。"
 102,"TEXT_CHREND102_02153_BRIARDIEN_000_059","哎呀哎呀，不光比我先找到了特奧莫桑，
 還把事情給解決了。"
-103,"TEXT_CHREND102_02153_THEOMOCENT_000_059"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+103,"TEXT_CHREND102_02153_THEOMOCENT_000_059","<Highlight>ObjectParameter(1)</Highlight>！
 我正向副院長報告您給我們提供幫助的事呢。"
 104,"TEXT_CHREND102_02153_LEIGH_000_059","你來了啊，謝謝。
 也請你向副院長報告一下吧。
 只是……希望你不要把本的事情說出來。"
-105,"TEXT_CHREND102_02153_BRUVAGNON_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，您回來了啊。
+105,"TEXT_CHREND102_02153_BRUVAGNON_000_060","<Highlight>ObjectParameter(1)</Highlight>閣下，您回來了啊。
 聽說因為您的幫助，事情順利解決了。"
 106,"TEXT_CHREND102_02153_BRIARDIEN_000_061","……那麼，偷了石像的犯人在哪裡？
 學生們全都緘口不言啊。"
@@ -226,7 +226,7 @@ int32,str,str
 122,"TEXT_CHREND102_02153_BRIARDIEN_000_079","你真是太厲害了。
 這樣的話，叔父大人也必須認同你做我的助手了。"
 123,"TEXT_CHREND102_02153_BRUVAGNON_000_080","剛剛因為學生們的胡鬧稍微有些混亂，
-不過 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下真是把事情解決得很漂亮。
+不過<Highlight>ObjectParameter(1)</Highlight>閣下真是把事情解決得很漂亮。
 說好的，從今天開始您就是我們的特別顧問了。"
 124,"TEXT_CHREND102_02153_BRIARDIEN_000_081","叔父大人，在這之前我有一件事想確認。
 來到神學院的這幾天……

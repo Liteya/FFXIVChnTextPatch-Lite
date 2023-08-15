@@ -6,7 +6,7 @@ int32,str,str
 2,"TEXT_JOBAST680_02412_SEQ_02","和旭峰進行了交談。與風水師有關的地點雖然已被帝國軍封鎖，但文獻可能留了下來。和延夏岩燕廟的旭峰談談。"
 3,"TEXT_JOBAST680_02412_SEQ_03","和旭峰進行了交談，討伐了門前的守護者。再次和岩燕廟的旭峰談談。"
 4,"TEXT_JOBAST680_02412_SEQ_04","再次和旭峰進行了交談。他找到了記載有關風水術秘技的古書，但卻無法解讀。和黃金港潮風亭的旭峰談談。"
-5,"TEXT_JOBAST680_02412_SEQ_05","和旭峰進行了交談。透過解讀古書，得知發動秘技需要活人做祭品。好不容易看到的希望又打了水漂，旭峰十分失落。和小金街的旭峰談談。"
+5,"TEXT_JOBAST680_02412_SEQ_05","和旭峰進行了交談。通過解讀古書，得知發動秘技需要活人做祭品。好不容易看到的希望又打了水漂，旭峰十分失落。和小金街的旭峰談談。"
 6,"TEXT_JOBAST680_02412_SEQ_06","和旭峰進行了交談，他決定重新尋找別的鋪設結界的方法。冒險者是否能夠拯救黃金港的危機？
 
 ※占星術士的等級達到70級以上時，可以從黃金港的旭峰那裡領取下一個占星術士任務。"
@@ -52,7 +52,7 @@ int32,str,str
 46,"TEXT_JOBAST680_02412_TODO_22",""
 47,"TEXT_JOBAST680_02412_TODO_23",""
 48,"TEXT_JOBAST680_02412_NAYAGA_000_000","（★未使用／削除予定★）"
-49,"TEXT_JOBAST680_02412_MURAKUMO_000_000","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下嘛，歡迎。
+49,"TEXT_JOBAST680_02412_MURAKUMO_000_000","這不是<Highlight>ObjectParameter(1)</Highlight>閣下嘛，歡迎。
 最近我與旭峰在日夜苦讀師父留下的文獻……"
 50,"TEXT_JOBAST680_02412_KYOKUHOU_000_000","（★未使用／削除予定★）"
 51,"TEXT_JOBAST680_02412_KYOKUHO_000_000","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，你來了啊。
@@ -69,10 +69,10 @@ int32,str,str
 56,"TEXT_JOBAST680_02412_KYOKUHOU_000_003","（★未使用／削除予定★）"
 57,"TEXT_JOBAST680_02412_KYOKUHO_000_003","謝謝你，<If(PlayerParameter(4))>師姐<Else/>師兄</If>！
 不過，現在還不知帝國軍的侵略對該地造成了多大的影響，
-只有親自去看看才能瞭解了……"
+只有親自去看看才能了解了……"
 58,"TEXT_JOBAST680_02412_KYOKUHOU_000_004","（★未使用／削除予定★）"
 59,"TEXT_JOBAST680_02412_KYOKUHO_000_004","先去茨菰村吧，
-我想試著去找找對風水術有瞭解的人。
+我想試著去找找對風水術有了解的人。
 那我就先走一步了，我們到地方見。"
 60,"TEXT_JOBAST680_02412_NAYAGA_000_009","（★未使用／削除予定★）"
 61,"TEXT_JOBAST680_02412_MURAKUMO_000_009","你要和旭峰一起去延夏啊，
@@ -128,7 +128,7 @@ int32,str,str
 88,"TEXT_JOBAST680_02412_KYOKUHO_000_040","什麼……鋪設結界的方法竟然是……"
 89,"TEXT_JOBAST680_02412_NAYAGA_000_041","（★未使用／削除予定★）"
 90,"TEXT_JOBAST680_02412_MURAKUMO_000_041","旭峰……
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下來了。"
+<Highlight>ObjectParameter(1)</Highlight>閣下來了。"
 91,"TEXT_JOBAST680_02412_KYOKUHOU_000_042","（★未使用／削除予定★）"
 92,"TEXT_JOBAST680_02412_KYOKUHO_000_042","啊，不好意思，<If(PlayerParameter(4))>師姐<Else/>師兄</If>……
 你來了啊……"
@@ -156,7 +156,7 @@ int32,str,str
 因此結界才會不完整，
 過一段時間就出現了裂縫……"
 107,"TEXT_JOBAST680_02412_KYOKUHOU_000_050","（★未使用／削除予定★）"
-108,"TEXT_JOBAST680_02412_KYOKUHO_000_050","不過，我打從心裡為曾祖父的選擇感到驕傲！
+108,"TEXT_JOBAST680_02412_KYOKUHO_000_050","不過，我打心底為曾祖父的選擇感到驕傲！
 我也不想獻上什麼活人祭品！"
 109,"TEXT_JOBAST680_02412_NAYAGA_000_051","（★未使用／削除予定★）"
 110,"TEXT_JOBAST680_02412_MURAKUMO_000_051","……今天就先到這裡吧。
@@ -170,7 +170,7 @@ int32,str,str
 114,"TEXT_JOBAST680_02412_KYOKUHO_000_060","<If(PlayerParameter(4))>師姐<Else/>師兄</If>都這麼幫我了，
 最後卻搞成了這個樣子，真是抱歉……"
 115,"TEXT_JOBAST680_02412_KYOKUHOU_000_061","（★未使用／削除予定★）"
-116,"TEXT_JOBAST680_02412_KYOKUHO_000_061","前幾天我們修補好的結界
+116,"TEXT_JOBAST680_02412_KYOKUHO_000_061","前些天我們修補好的結界
 又開始出現了裂痕。"
 117,"TEXT_JOBAST680_02412_KYOKUHOU_000_062","（★未使用／削除予定★）"
 118,"TEXT_JOBAST680_02412_KYOKUHO_000_062","我也知道早晚結界還會裂開，但這也太快了……

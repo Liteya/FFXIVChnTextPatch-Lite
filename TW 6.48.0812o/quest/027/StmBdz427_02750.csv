@@ -61,7 +61,7 @@ int32,str,str
 不，不行，我得鼓起勇氣加油！"
 52,"TEXT_STMBDZ427_02750_GYORIN_000_004","不過，我還是不敢和魔物面對面戰鬥，
 所以，我打算布置陷阱捕捉它們。
-希望 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 能幫我準備一些誘餌！"
+希望<Highlight>ObjectParameter(1)</Highlight>能幫我準備一些誘餌！"
 53,"TEXT_STMBDZ427_02750_GYORIN_000_005","你去到無二江流域討伐3隻<Sheet(BNpcName,5762,0)/>就好。
 <Sheet(BNpcName,5762,0)/>的肉可以作為很好的誘餌。"
 54,"TEXT_STMBDZ427_02750_GYORIN_000_006","你去到無二江流域討伐3隻<Sheet(BNpcName,5762,0)/>就好。
@@ -70,7 +70,7 @@ int32,str,str
 得到<Sheet(EventItem,2002328,0)/>了嗎？"
 56,"TEXT_STMBDZ427_02750_GYORIN_000_011","就是這個，謝謝哦！
 我這邊也做好陷阱了，我這就去布置好！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就在這裡等我吧！"
+<Highlight>ObjectParameter(1)</Highlight>就在這裡等我吧！"
 57,"TEXT_STMBDZ427_02750_SYSTEM_000_020","魚鱗遲遲不歸。
 難道發生了什麼意外？"
 58,"TEXT_STMBDZ427_02750_GYORIN_000_030","謝、謝謝……得救了！"
@@ -84,8 +84,8 @@ int32,str,str
 問問他有沒有好辦法。
 然後再付諸行動。"
 63,"TEXT_STMBDZ427_02750_GYORIN_000_035","雖然一直都在失敗，不過我不會放棄的，
-所以，請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 繼續陪同我……
+所以，請<Highlight>ObjectParameter(1)</Highlight>繼續陪同我……
 先回到倉庫那裡吧。"
 64,"TEXT_STMBDZ427_02750_GYORIN_000_040","我回來後，接受了治療。
 還好受傷並不嚴重。
-多虧 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 及時相助……"
+多虧<Highlight>ObjectParameter(1)</Highlight>及時相助……"

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CLSEXC100_00314_SEQ_00","斧術師公會的會長威爾恩茲恩，好像要告訴冒險者今後的修行方針。"
-1,"TEXT_CLSEXC100_00314_SEQ_01","為了打倒殺害了少年西蓋爾德雙親的魔物庫加塔，威爾恩茲恩決定給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 進行特別指導。遵從他的指示，打倒盲鐵坑道附近的嬰猴。"
+1,"TEXT_CLSEXC100_00314_SEQ_01","為了打倒殺害了少年西蓋爾德雙親的魔物庫加塔，威爾恩茲恩決定給<Highlight>ObjectParameter(1)</Highlight>進行特別指導。遵從他的指示，打倒盲鐵坑道附近的嬰猴。"
 2,"TEXT_CLSEXC100_00314_SEQ_02","成功討伐了指定的魔物。向斧術師公會的威爾恩茲恩報告。"
 3,"TEXT_CLSEXC100_00314_SEQ_03","在向威爾恩茲恩報告時，得知了庫加塔出現的情報。調查中拉諾西亞的開墾者小倉附近的貨車。打倒隨之出現的平原闊步龍。"
 4,"TEXT_CLSEXC100_00314_SEQ_04","成功討伐了平原闊步龍。向斧術師公會的威爾恩茲恩報告。"
@@ -60,12 +60,12 @@ int32,str,str
 50,"TEXT_CLSEXC100_00314_WYRNZOEN_000_3","少年的事情我聽我妹妹索爾克維布說了。
 你打算對他的願望做出回應的話，
 我認為這是最好不過了。"
-51,"TEXT_CLSEXC100_00314_WYRNZOEN_000_6","為此你一定要變得更強才行。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，首先你要去盲鐵坑道一趟。"
+51,"TEXT_CLSEXC100_00314_WYRNZOEN_000_6","為此你必須要變得更強才行。
+<Highlight>ObjectParameter(1)</Highlight>，首先你要去盲鐵坑道一趟。"
 52,"TEXT_CLSEXC100_00314_WYRNZOEN_000_7","有情報說那裡有魔物在襲擊附近的人們。
 去消滅盤踞在那裡的嬰猴吧。
 從魔物手裡保護大家，以此鍛鍊自己。"
-53,"TEXT_CLSEXC100_00314_WYRNZOEN_000_10","幹得好， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+53,"TEXT_CLSEXC100_00314_WYRNZOEN_000_10","幹得好，<Highlight>ObjectParameter(1)</Highlight>。
 這樣一來受到魔物威脅的人們也能稍微安心了吧。"
 54,"TEXT_CLSEXC100_00314_WYRNZOEN_000_11","雖然你剛回來，但我還有一件工作想要交給你。
 ……據說，庫加塔在開墾者小倉附近出現過，
@@ -73,11 +73,11 @@ int32,str,str
 55,"TEXT_CLSEXC100_00314_WYRNZOEN_000_12","成群的魔物為了覓食正向壞掉的貨車湧去。
 這樣下去貨物就全都不保了，農場的百姓們生活會很艱難。
 用你手上的斧頭去消滅聚在貨車周圍的魔物，救助百姓們吧！"
-56,"TEXT_CLSEXC100_00314_WYRNZOEN_000_20","討伐魔物的工作幹得很靈活嘛。
+56,"TEXT_CLSEXC100_00314_WYRNZOEN_000_20","討伐魔物的工作幹得很利索嘛。
 但是，這些傢伙只是跟隨在庫加塔身後，
 以撿它的殘羹剩飯為生的卑劣魔物而已。"
 57,"TEXT_CLSEXC100_00314_WYRNZOEN_000_22","要打倒庫加塔，你的力量還遠遠不夠。
-……要繼續修行了哦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。"
+……要繼續修行了哦，<Highlight>ObjectParameter(1)</Highlight>。"
 58,"TEXT_CLSEXC100_00314_WYRNZOEN_000_23","正如你和少年定下的約定一樣，我也和你約定一件事。
 身為公會會長，同時也身為斧術師的前輩，
 我一定會讓你變強的……"
@@ -89,7 +89,7 @@ int32,str,str
 61,"TEXT_CLSEXC100_00314_SYSTEM_000_27","開放了「職業轉換系統」。
 前往其他職業的公會，與接待員對話後，
 可以領取新職業的任務。"
-62,"TEXT_CLSEXC100_00314_SYSTEM_000_28","艾奧傑亞有各式各樣的職業供你選擇。
+62,"TEXT_CLSEXC100_00314_SYSTEM_000_28","艾歐澤亞有各式各樣的職業供你選擇。
 熟練掌握目前所學的「斧術」之後，
 再學習其他職業的本領，這樣更能加深對職業的理解。"
 63,"TEXT_CLSEXC100_00314_POP_MESSAGE","察覺到了敵人的氣息！"

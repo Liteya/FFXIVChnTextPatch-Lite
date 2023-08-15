@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN403_02987_TODO_21",""
 46,"TEXT_BANKJN403_02987_TODO_22",""
 47,"TEXT_BANKJN403_02987_TODO_23",""
-48,"TEXT_BANKJN403_02987_ZUKIN_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> <If(PlayerParameter(4))>大姐<Else/>大哥</If>，你來得正是時候——
+48,"TEXT_BANKJN403_02987_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，你來得正是時候——
 村子裡的老爺爺到痙攣寨去行商了，
 可是最近他的健忘越發嚴重，我很擔心啊——"
 49,"TEXT_BANKJN403_02987_ZUKIN_000_001","拜託了！替我去一趟痙攣寨，

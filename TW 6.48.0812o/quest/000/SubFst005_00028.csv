@@ -60,7 +60,7 @@ int32,str,str
 我勸你最好不要到處閒逛。"
 52,"TEXT_SUBFST005_00028_GALFRID_000_10","你是……
 繆恩派來的那個新人冒險者吧？
-我記得是叫 <Highlight>ObjectParameter(1)</Highlight> 。"
+我記得是叫<Highlight>ObjectParameter(1)</Highlight>。"
 53,"TEXT_SUBFST005_00028_GALFRID_000_11","歡迎你來到這裡。
 我叫加爾弗里德。在這所烤餅練兵所中，
 負責操練雙蛇黨的士兵。"
@@ -73,6 +73,6 @@ int32,str,str
 光是保持目前的狀態就已十分勉強了。"
 57,"TEXT_SUBFST005_00028_GALFRID_000_15","作為格里達尼亞的子民，支援森林是我們當仁不讓的職責。
 希望身為冒險者的你，也可以助我們一臂之力。"
-58,"TEXT_SUBFST005_00028_GALFRID_000_16"," <Highlight>ObjectParameter(1)</Highlight> 。
+58,"TEXT_SUBFST005_00028_GALFRID_000_16","<Highlight>ObjectParameter(1)</Highlight>。
 森林所引導的冒險者，願你得到元靈的保佑。
 請你去幫助更多的人吧。"

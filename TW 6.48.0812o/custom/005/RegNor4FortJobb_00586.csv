@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_000","怎麼了？有什麼困擾嗎？"
 1,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_002","水灘村那邊遭到了食罪靈的襲擊，
-這次輪到遊末邦軍又攻了過來……
+這次輪到游末邦軍又攻了過來……
 真是慌慌張張的，不過我們一定會守住這個喬布要塞還有都市！"
 2,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_003","現在雷克蘭德處於戒嚴狀態。
 我正在強化警戒，有事情的話請長話短說。"
@@ -15,7 +15,7 @@ int32,str,str
 5,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_007","居然會等到這一天……
 我真的從未想過黑暗會重返世界。
 這不是我在做夢吧？"
-6,"TEXT_REGNOR4FORTJOBB_00586_Q1_000_000","想瞭解什麼？"
+6,"TEXT_REGNOR4FORTJOBB_00586_Q1_000_000","想了解什麼？"
 7,"TEXT_REGNOR4FORTJOBB_00586_A1_000_001","你是做什麼的？"
 8,"TEXT_REGNOR4FORTJOBB_00586_A1_000_002","這裡是什麼地方？"
 9,"TEXT_REGNOR4FORTJOBB_00586_A1_000_003","取消"
@@ -32,8 +32,8 @@ int32,str,str
 為水晶都貢獻出自己的力量。"
 14,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_200","這裡是水晶都的衛兵團駐紮的防衛據點。
 數百年前，雷克蘭德聯邦的菁靈族建設了這個喬布要塞，
-從那個時候取就已經是這個名字了。"
-15,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_201","光之氾濫以後眾多失去了故鄉的人們，
+從那個時候起就已經是這個名字了。"
+15,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_201","光之泛濫以後眾多失去了故鄉的人們，
 來到了這個喬布要塞避難，生活在了一起。"
 16,"TEXT_REGNOR4FORTJOBB_00586_FERNWREN_000_202","自從開始水晶都的建設後，
 這裡主要用作衛兵團駐紮的防衛據點。

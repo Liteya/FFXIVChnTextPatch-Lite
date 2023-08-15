@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGNOR4SLITHERBOUGH_00602_WRENDIA_000_000","歡迎來到夜之民居住的蛇行枝。
 我們會好好招待來自森林外面的客人。"
-1,"TEXT_REGNOR4SLITHERBOUGH_00602_Q1_000_000","想瞭解什麼？"
+1,"TEXT_REGNOR4SLITHERBOUGH_00602_Q1_000_000","想了解什麼？"
 2,"TEXT_REGNOR4SLITHERBOUGH_00602_A1_000_001","你是做什麼的？"
 3,"TEXT_REGNOR4SLITHERBOUGH_00602_A1_000_002","這裡是什麼地方？"
 4,"TEXT_REGNOR4SLITHERBOUGH_00602_A1_000_003","取消"
@@ -20,7 +20,7 @@ int32,str,str
 森林大樹的粗枝在廣場映出的影子
 猶如蛇在爬行時的樣子，因此這裡得名蛇行枝。"
 9,"TEXT_REGNOR4SLITHERBOUGH_00602_WRENDIA_000_021","其源頭可以追溯到90年前。
-因為光之氾濫而失去了故鄉的難民們為了尋求安居之地，
+因為光之泛濫而失去了故鄉的難民們為了尋求安居之地，
 而來到了拉凱提卡大森林，據說這就是這裡的起源。"
 10,"TEXT_REGNOR4SLITHERBOUGH_00602_WRENDIA_000_022","從那之後在他們之間開始產生了崇拜黑暗的新信仰，
 最終擁有同樣思想的人們從各地聚集了過來。

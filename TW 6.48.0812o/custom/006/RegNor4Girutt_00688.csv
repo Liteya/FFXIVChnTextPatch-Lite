@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_000","我打算在這裡大賺一筆。
 現在正在準備開業，你稍後再來吧。"
-1,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_001","你好啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+1,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_001","你好啊，<Highlight>ObjectParameter(1)</Highlight>！
 要不要試試在我的酒館「魯卡的首飾」裡當調酒師？"
 2,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_002","你只需要根據客人的對話來判斷其喜好，
 然後加入2種輔助材料調製雞尾酒即可。
@@ -17,7 +17,7 @@ int32,str,str
 9,"TEXT_REGNOR4GIRUTT_00688_A2_000_002","雞尾酒的配方"
 10,"TEXT_REGNOR4GIRUTT_00688_A2_000_003","不看了"
 11,"TEXT_REGNOR4GIRUTT_00688_RECIPE00688_000_020","(-雞尾酒食譜-)本店的雞尾酒均以
-透過燃料提煉技術得來的矮人酒精為基酒。"
+通過燃料提煉技術得來的矮人酒精為基酒。"
 12,"TEXT_REGNOR4GIRUTT_00688_RECIPE00688_000_021","(-雞尾酒食譜-)但由於矮人酒精幾乎是純粹的酒精，
 無法直接飲用。
 為此，需要用輔助材料來增加味道。"
@@ -29,7 +29,7 @@ int32,str,str
 15,"TEXT_REGNOR4GIRUTT_00688_RECIPE00688_000_030","(-雞尾酒食譜-)「矮人拳」
 加入了苦液和酸粉。
 極具衝擊力的苦味直擊口舌，經典中的經典。"
-16,"TEXT_REGNOR4GIRUTT_00688_RECIPE00688_000_031","(-雞尾酒食譜-)「光之氾濫」
+16,"TEXT_REGNOR4GIRUTT_00688_RECIPE00688_000_031","(-雞尾酒食譜-)「光之泛濫」
 加入了苦液和甜水。
 好喝但易醉，充斥著危險又神秘的成熟味道。"
 17,"TEXT_REGNOR4GIRUTT_00688_RECIPE00688_000_032","(-雞尾酒食譜-)「河狸之夢」
@@ -70,7 +70,7 @@ int32,str,str
 42,"TEXT_REGNOR4GIRUTT_00688_GIOTT_000_058","不過要是換成別人說我媽是大哥布林的話，
 我又會感覺很不爽。
 總之謝謝你調出這麼好喝的酒……回見啦！"
-43,"TEXT_REGNOR4GIRUTT_00688_GIOTT_000_060","光之氾濫嗎，這雞尾酒的名字真是不吉利啊……"
+43,"TEXT_REGNOR4GIRUTT_00688_GIOTT_000_060","光之泛濫嗎，這雞尾酒的名字真是不吉利啊……"
 44,"TEXT_REGNOR4GIRUTT_00688_GIOTT_000_061","咕咚……咕咚……咕咚……噗哈！"
 45,"TEXT_REGNOR4GIRUTT_00688_GIOTT_000_062","剛開始我還以為這是給小孩子喝的果汁呢，
 沒想到越喝酒勁兒越大！"
@@ -86,7 +86,7 @@ int32,str,str
 那我就先告辭了……回見啦！"
 51,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_070","我聽說矮人族在這一帶開了個酒館，
 就想來看看……"
-52,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_071","沒想到是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 在這裡當調酒師。
+52,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_071","沒想到是<Highlight>ObjectParameter(1)</Highlight>在這裡當調酒師。
 正好我今天不值班，給我來一杯甜酒好嗎？"
 53,"TEXT_REGNOR4GIRUTT_00688_Q8_000_000","選擇第1種輔助材料！"
 54,"TEXT_REGNOR4GIRUTT_00688_A8_000_001","苦液"
@@ -110,7 +110,7 @@ int32,str,str
 是不是說明我的口味還不夠成熟呢？"
 69,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_078","總之謝謝你調的酒。
 那我就先告辭了。"
-70,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_080","光之氾濫……
+70,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_080","光之泛濫……
 我覺得這名字有些沒品，
 但這是不是象徵著要將不吉之事一飲而盡呢？"
 71,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_081","原來如此……
@@ -128,7 +128,7 @@ int32,str,str
 還是真的滴酒不沾呢……"
 77,"TEXT_REGNOR4GIRUTT_00688_LYNA_000_087","對不起，這些話請你對他保密好嗎？
 那我就先告辭了。"
-78,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_090"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+78,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_090","<Highlight>ObjectParameter(1)</Highlight>！
 我在招待雷克蘭德的孩子們去麗耶美格夢園的時候，
 聽說你正在玩一個很有意思的遊戲！"
 79,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_091","人類喝的酒是非常美味，
@@ -155,8 +155,8 @@ int32,str,str
 人類竟然會喜歡這種東西？
 嗯……感覺艾澤爾二世可能會喜歡這個味道……"
 97,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_098","就算在夢裡，我也不會讓孩子們喝這種噁心的泥水！
-再見啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-98,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_100","光之氾濫？
+再見啦，<Highlight>ObjectParameter(1)</Highlight>！"
+98,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_100","光之泛濫？
 這就是人類喝的酒啊……"
 99,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_101","讓我先嘗一小口……"
 100,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_100_101","咕咚……"
@@ -176,8 +176,8 @@ int32,str,str
 誰讓你做出河狸之夢這種讓仙子害怕的東西的！
 讓人做惡夢什麼的，還是我更擅長一些！"
 108,"TEXT_REGNOR4GIRUTT_00688_TYRBEQ_000_110","哈哈，真是有趣！
-謝謝你啦， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
-109,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_115","你這調酒師當得還蠻像樣嘛。
+謝謝你啦，<Highlight>ObjectParameter(1)</Highlight>！"
+109,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_115","你這調酒師當得還挺像樣嘛。
 我也跟著享受了一番呢。
 謝啦！"
 110,"TEXT_REGNOR4GIRUTT_00688_GIRUTT_000_116","還想招待客人的話，

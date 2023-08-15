@@ -3,18 +3,18 @@
 int32,str,str
 0,"TEXT_JOBDEFSAM_00423_MAKOTO_000_000","赤誠組是負責維護黃金港治安的組織，
 平時主要在市內巡邏，抓捕一些擾亂治安的犯罪分子。"
-1,"TEXT_JOBDEFSAM_00423_MAKOTO_000_005","這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下嗎……
+1,"TEXT_JOBDEFSAM_00423_MAKOTO_000_005","這不是<Highlight>ObjectParameter(1)</Highlight>閣下嗎……
 雨月一派的勢力還在不斷膨脹，
 如果能得到無雙齋大人的幫助，那是該有多好……"
-2,"TEXT_JOBDEFSAM_00423_MAKOTO_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+2,"TEXT_JOBDEFSAM_00423_MAKOTO_000_010","<Highlight>ObjectParameter(1)</Highlight>閣下。
 萬分感謝你對赤誠組的幫助。"
-3,"TEXT_JOBDEFSAM_00423_MAKOTO_000_020","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+3,"TEXT_JOBDEFSAM_00423_MAKOTO_000_020","……<Highlight>ObjectParameter(1)</Highlight>閣下。
 沒想到紫電居然會是背叛者，實在是令人惋惜。
 但一想到那些慘遭毒手的隊員們，我心中只餘下滔天怒火。"
-4,"TEXT_JOBDEFSAM_00423_MAKOTO_000_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+4,"TEXT_JOBDEFSAM_00423_MAKOTO_000_030","<Highlight>ObjectParameter(1)</Highlight>閣下。
 沒想到繼副局長之後，金剛局長也這麼去了。
 但現在還不是傷心的時候，雨月哥哥——必須死。"
-5,"TEXT_JOBDEFSAM_00423_Q1_000_050","想瞭解什麼？"
+5,"TEXT_JOBDEFSAM_00423_Q1_000_050","想了解什麼？"
 6,"TEXT_JOBDEFSAM_00423_A1_000_051","你是做什麼的？"
 7,"TEXT_JOBDEFSAM_00423_A1_000_052","什麼是「武士」？"
 8,"TEXT_JOBDEFSAM_00423_A1_000_053","取消"
@@ -39,12 +39,12 @@ int32,str,str
 16,"TEXT_JOBDEFSAM_00423_MAKOTO_000_074","如今雨月一派在暗中蠢蠢欲動，
 我誓要遵照無雙齋大人的教誨，為維護國家的和平揮舞手中之刃。
 我堅信，這才是武士真正該走的路，這才是真正的「武士道」。"
-17,"TEXT_JOBDEFSAM_00423_MAKOTO_000_100","啊， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下。
+17,"TEXT_JOBDEFSAM_00423_MAKOTO_000_100","啊，<Highlight>ObjectParameter(1)</Highlight>閣下。
 請將這裡當成自己的家，好好休息一下吧。
 如果不是有你鼎力相助，遠東之國哪能像這樣一片安寧。"
-18,"TEXT_JOBDEFSAM_00423_MAKOTO_000_200"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，歡迎來到赤誠組！
+18,"TEXT_JOBDEFSAM_00423_MAKOTO_000_200","<Highlight>ObjectParameter(1)</Highlight>閣下，歡迎來到赤誠組！
 快來營房裡休息一下，緩解緩解旅途勞頓吧。"
-19,"TEXT_JOBDEFSAM_00423_Q1_000_150","想瞭解什麼？"
+19,"TEXT_JOBDEFSAM_00423_Q1_000_150","想了解什麼？"
 20,"TEXT_JOBDEFSAM_00423_A1_000_151","最近怎麼樣？"
 21,"TEXT_JOBDEFSAM_00423_A1_000_152","什麼是「武士」？"
 22,"TEXT_JOBDEFSAM_00423_A1_000_153","取消"
@@ -73,13 +73,13 @@ int32,str,str
 32,"TEXT_JOBDEFSAM_00423_MAKOTO_000_213","真心希望像奧斯提爾古雷因先生這樣洗心革面的人能越來越多。"
 33,"TEXT_JOBDEFSAM_00423_MAKOTO_000_214","不過這就需要我們多多去行俠仗義，
 留下一個個新的故事，促使人們向善了。"
-34,"TEXT_JOBDEFSAM_00423_MAKOTO_000_300","我已經透過烏爾達哈商會館的漢考克瞭解了你的事情。
+34,"TEXT_JOBDEFSAM_00423_MAKOTO_000_300","我已經通過烏爾達哈商館的漢考克了解了你的事情。
 沒想到你居然跑到了宇宙盡頭，真是讓人吃驚。"
 35,"TEXT_JOBDEFSAM_00423_MAKOTO_000_301","我想說的是最近莫莫吉格造訪了黃金港，
 在無地鼓座向大家講述了«仗劍行俠無雙齋傳»。
 現場座無虛席，大家聽後響起了震耳欲聾的掌聲。"
 36,"TEXT_JOBDEFSAM_00423_MAKOTO_000_302","他認為越是在世界遇到危機之時，
-越應該透過評書的力量去鼓舞人們，
+越應該通過評書的力量去鼓舞人們，
 因此一直在各國之間奔波。"
 37,"TEXT_JOBDEFSAM_00423_MAKOTO_000_303","所以我們也不能輸，要多多去行俠仗義，
 留下一個個新的故事，為人們帶去希望。"

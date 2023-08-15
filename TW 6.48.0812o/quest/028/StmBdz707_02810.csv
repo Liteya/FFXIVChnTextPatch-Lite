@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_STMBDZ707_02810_TODO_21",""
 46,"TEXT_STMBDZ707_02810_TODO_22",""
 47,"TEXT_STMBDZ707_02810_TODO_23",""
-48,"TEXT_STMBDZ707_02810_MOTOJIRO_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+48,"TEXT_STMBDZ707_02810_MOTOJIRO_000_000","<Highlight>ObjectParameter(1)</Highlight>。
 可以的話，能否聽一聽我的請求？"
 49,"TEXT_STMBDZ707_02810_MOTOJIRO_000_001","我的請求是希望你
 去討伐我的孩子……"
@@ -78,7 +78,7 @@ int32,str,str
 59,"TEXT_STMBDZ707_02810_MOTOJIRO_000_021","我實在不忍心看到父親精心製作的清房們
 像亡靈一樣四處彷徨，
 多虧了你，我也整理好了心情。"
-60,"TEXT_STMBDZ707_02810_MOTOJIRO_000_022","作為人偶師，我現在有件一定要做的事，
+60,"TEXT_STMBDZ707_02810_MOTOJIRO_000_022","作為人偶師，我現在有件必須要做的事，
 ……那就是，製作在真正意義上保護多瑪的機械兵器。"
 61,"TEXT_STMBDZ707_02810_MOTOJIRO_000_023","也許會花很長時間，不過我一定會完成它的。
 這次真是非常感謝你。

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ927_01992_SEQ_00","第七傳送環的改善系統安靜地佇立著。"
-1,"TEXT_HEAVNZ927_01992_SEQ_01","改善系統命令冒險者前去消滅因洗腦試驗失敗而失控的龍族。在阿濟茲拉的愚神臺南邊討伐3隻<Sheet(BNpcName,4073,0)/>。"
+1,"TEXT_HEAVNZ927_01992_SEQ_01","改善系統命令冒險者前去消滅因洗腦試驗失敗而失控的龍族。在阿濟茲拉的愚神台南邊討伐3隻<Sheet(BNpcName,4073,0)/>。"
 2,"TEXT_HEAVNZ927_01992_SEQ_02","成功討伐了<Sheet(BNpcName,4073,0)/>。向第七傳送環的改善系統報告。"
 3,"TEXT_HEAVNZ927_01992_SEQ_03","向改善系統報告完畢。為了強化兵器的戰鬥力，故在洗腦時增加了其狂暴性，造成了失控的原因。"
 4,"TEXT_HEAVNZ927_01992_SEQ_04",""
@@ -49,14 +49,14 @@ int32,str,str
 45,"TEXT_HEAVNZ927_01992_TODO_21",""
 46,"TEXT_HEAVNZ927_01992_TODO_22",""
 47,"TEXT_HEAVNZ927_01992_TODO_23",""
-48,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000","咔……咔咔……保安部發來救援請求。
+48,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000","哢……哢哢……保安部發來救援請求。
 在控制龍族的洗腦試驗中發生了事故。"
 49,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_001","對象在洗腦時發狂失去控制，之後逃亡……
 請消滅<Sheet(BNpcName,4073,0)/>。"
 50,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_010","對象在洗腦時發狂失去控制，之後逃亡……
 請消滅<Sheet(BNpcName,4073,0)/>。"
-51,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_020","咔……咔咔……
+51,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_020","哢……哢哢……
 確認對象的反應消失，辛苦了。"
 52,"TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_021","為了強化對象作為兵器的戰鬥能力，所以在洗腦時增加了其狂暴性，
 看來這是釀成此次事故的原因……
-需要進一步改善……咔咔……完美的兵器……咔……"
+需要進一步改善……哢哢……完美的兵器……哢……"

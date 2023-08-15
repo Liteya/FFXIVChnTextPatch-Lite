@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_LUCKMC106_03327_TODO_21",""
 46,"TEXT_LUCKMC106_03327_TODO_22",""
 47,"TEXT_LUCKMC106_03327_TODO_23",""
-48,"TEXT_LUCKMC106_03327_RYNE_000_000","…………。"
+48,"TEXT_LUCKMC106_03327_RYNE_000_000","……"
 49,"TEXT_LUCKMC106_03327_RUNAR_000_010","哦，水澆好了？"
 50,"TEXT_LUCKMC106_03327_RUNAR_000_011","是嗎，那真是幫大忙了。
 我這邊也差不多準備好你們的飯菜和床鋪了。"
@@ -78,8 +78,8 @@ int32,str,str
 被食罪靈給害死了……"
 63,"TEXT_LUCKMC106_03327_MANOFNIGHT03326_000_024","我們趕過去的時候，
 那裡已經沒有剩下什麼可以稱得上遺物的東西了，
-不過她用作項鍊的皮繩斷開掉在了地上。"
-64,"TEXT_LUCKMC106_03327_MANOFNIGHT03326_000_025","那個項鍊上掛的是命名石……
+不過她用作項鏈的皮繩斷開掉在了地上。"
+64,"TEXT_LUCKMC106_03327_MANOFNIGHT03326_000_025","那個項鏈上掛的是命名石……
 是夜之民在出生取名時獲得的特殊的石頭，
 是要伴隨夜之民一生的東西。"
 65,"TEXT_LUCKMC106_03327_MANOFNIGHT03326_000_026","所以我本打算趕在她的葬禮前，
@@ -100,7 +100,7 @@ int32,str,str
 71,"TEXT_LUCKMC106_03327_RUNAR_000_032","……好吧，
 前提是你不能胡來，
 一旦感到危險就要優先保護好自己。"
-72,"TEXT_LUCKMC106_03327_RYNE_000_033"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我去去就回。
+72,"TEXT_LUCKMC106_03327_RYNE_000_033","<Highlight>ObjectParameter(1)</Highlight>，我去去就回。
 然後那個……要是在這期間桑克瑞德回來了的話……"
 73,"TEXT_LUCKMC106_03327_Q1_000_000","要說什麼？"
 74,"TEXT_LUCKMC106_03327_A1_000_001","我不會讓你一個人去的"
@@ -127,24 +127,24 @@ int32,str,str
 87,"TEXT_LUCKMC106_03327_A2_000_001","好，那就上吧！"
 88,"TEXT_LUCKMC106_03327_A2_000_002","兵分兩路"
 89,"TEXT_LUCKMC106_03327_A2_000_003","你覺得該怎麼做？"
-90,"TEXT_LUCKMC106_03327_RYNE_000_063","欸？！不用討論一下作戰方案嗎……"
+90,"TEXT_LUCKMC106_03327_RYNE_000_063","誒？！不用討論一下作戰方案嗎……"
 91,"TEXT_LUCKMC106_03327_RYNE_000_064","唔……也是啦……
 食罪靈只有兩隻，我們需要的是勇氣和……氣勢！"
 92,"TEXT_LUCKMC106_03327_RYNE_000_065","我去引走一隻！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，另一隻……
+<Highlight>ObjectParameter(1)</Highlight>，另一隻……
 就交給你了！"
 93,"TEXT_LUCKMC106_03327_RYNE_000_066","好的。
 那麼一隻交給我來打倒，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，另一隻就交給你了！"
+<Highlight>ObjectParameter(1)</Highlight>，另一隻就交給你了！"
 94,"TEXT_LUCKMC106_03327_RYNE_000_067","呃……這個地方雖然比較開闊，
 但一有風吹草動，也容易使野獸們發動襲擊，
 所以能夠戰鬥的場地很有限……"
-95,"TEXT_LUCKMC106_03327_RYNE_000_068","所以我覺得應該由我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 
+95,"TEXT_LUCKMC106_03327_RYNE_000_068","所以我覺得應該由我和<Highlight>ObjectParameter(1)</Highlight>
 一人負責一隻，
 把它們拉開來戰鬥……"
 96,"TEXT_LUCKMC106_03327_RYNE_000_069","……太好了！
 那就按照這個計劃開始吧。"
-97,"TEXT_LUCKMC106_03327_RYNE_000_080","啊…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+97,"TEXT_LUCKMC106_03327_RYNE_000_080","啊……<Highlight>ObjectParameter(1)</Highlight>……
 我這邊的食罪靈已經打倒了……"
 98,"TEXT_LUCKMC106_03327_RYNE_000_081","不過……我受了點小傷……
 一想到要由我一個人打倒食罪靈，我的手就開始發抖，
@@ -160,7 +160,7 @@ int32,str,str
 105,"TEXT_LUCKMC106_03327_RYNE_000_111","啊，這個！
 和描述的一樣，
 這肯定就是托迪雅的命名石了。"
-106,"TEXT_LUCKMC106_03327_RYNE_000_112","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 真的好厲害。
+106,"TEXT_LUCKMC106_03327_RYNE_000_112","……<Highlight>ObjectParameter(1)</Highlight>真的好厲害。
 找東西也好，戰鬥也好，取回黑暗也是，
 彷彿無所不能……"
 107,"TEXT_LUCKMC106_03327_RYNE_000_113","我一直以為英雄只要強大就行了……

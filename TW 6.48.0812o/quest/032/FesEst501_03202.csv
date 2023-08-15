@@ -3,13 +3,13 @@
 int32,str,str
 0,"TEXT_FESEST501_03202_SEQ_00","※本任務是特定期間內的任務。
 
-格里達尼亞的吉莉．阿里亞珀正在尋找參加彩蛋狩獵的人。"
+格里達尼亞的吉莉·阿里亞珀正在尋找參加彩蛋狩獵的人。"
 1,"TEXT_FESEST501_03202_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-和吉莉．阿里亞珀進行了交談。她夢見魔石精里吉將彩蛋藏了起來。和水車十字廣場的諾諾塔談談。"
-2,"TEXT_FESEST501_03202_SEQ_02","和諾諾塔進行了交談。這次的彩蛋狩獵內容是解開諾諾塔和里吉設計的謎題，並找出<Sheet(EventItem,2002500,0)/>。吉莉．阿里亞珀打算作為一名普通的參加者享受這次的彩蛋狩獵。"
+和吉莉·阿里亞珀進行了交談。她夢見魔石精里吉將彩蛋藏了起來。和水車十字廣場的諾諾塔談談。"
+2,"TEXT_FESEST501_03202_SEQ_02","和諾諾塔進行了交談。這回的彩蛋狩獵內容是解開諾諾塔和里吉設計的謎題，並找出<Sheet(EventItem,2002500,0)/>。吉莉·阿里亞珀打算作為一名普通的參加者享受這回的彩蛋狩獵。"
 3,"TEXT_FESEST501_03202_SEQ_03",""
 4,"TEXT_FESEST501_03202_SEQ_04",""
 5,"TEXT_FESEST501_03202_SEQ_05",""
@@ -57,15 +57,15 @@ int32,str,str
 47,"TEXT_FESEST501_03202_TODO_23",""
 48,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_001","彩蛋～彩蛋～大彩蛋～
 又到了彩蛋狩獵的季節了！"
-49,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_002","哎呀，這不是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 嗎！
+49,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_002","哎呀，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 你再次來跟我一起收集裝飾彩蛋了啊！"
 50,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_003","你是一名冒險者吧？
 如果可以的話，能不能告訴我一下你的名字？"
-51,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_004","原來你叫 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊！
+51,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_004","原來你叫<Highlight>ObjectParameter(1)</Highlight>啊！
 你願不願意來參加彩蛋狩獵活動啊？"
 52,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_005","彩蛋狩獵這個活動是以我在靈災發生之前
 做的一個夢為契機開始舉辦的。"
-53,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_006","這次我夢見的是魔石精里吉將裝飾彩蛋藏了起來……
+53,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_006","這回我夢見的是魔石精里吉將裝飾彩蛋藏了起來……
 平時很乖的里吉為什麼要做這種事呢？"
 54,"TEXT_FESEST501_03202_JIHLIALIAPOH_000_007","雖然不清楚其中的緣由，不過這要是跟我往常做的夢一樣的話，
 咱們只要遵從夢境的指引，就一定會有好事發生的！"
@@ -99,7 +99,7 @@ int32,str,str
 都放馬過來吧！"
 69,"TEXT_FESEST501_03202_JIHLIALIAPOH_200_061","……雖然是這樣說，
 不過光看這張紙，完全搞不懂什麼是什麼啊……"
-70,"TEXT_FESEST501_03202_NONOTTA_000_062","當然了，只靠那張紙是沒辦法解謎的！
+70,"TEXT_FESEST501_03202_NONOTTA_000_062","當然了，只靠那張紙是沒法解謎的！
 需要在新街找到不知藏在哪裡的3隻魔蛋精，
 從它們口中獲得進一步提示才行！"
 71,"TEXT_FESEST501_03202_RIGGY_000_063","（★未使用／削除予定★）"
@@ -109,7 +109,7 @@ int32,str,str
 73,"TEXT_FESEST501_03202_JIHLIALIAPOH_100_064","你們真是花了很多心思啊……"
 74,"TEXT_FESEST501_03202_JIHLIALIAPOH_100_065","這樣就行了嗎？"
 75,"TEXT_FESEST501_03202_NONOTTA_200_065","不愧是小吉莉，非常可愛哦！"
-76,"TEXT_FESEST501_03202_NONOTTA_300_065","諾諾塔也給 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一套衣服吧。
+76,"TEXT_FESEST501_03202_NONOTTA_300_065","諾諾塔也給<Highlight>ObjectParameter(1)</Highlight>一套衣服吧。
 肯定非常適合你的！"
 77,"TEXT_FESEST501_03202_RIGGY_000_065","咿嘰嘰！
 節意、節意！"

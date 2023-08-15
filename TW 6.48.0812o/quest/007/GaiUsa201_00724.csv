@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_GAIUSA201_00724_TODO_21",""
 46,"TEXT_GAIUSA201_00724_TODO_22",""
 47,"TEXT_GAIUSA201_00724_TODO_23",""
-48,"TEXT_GAIUSA201_00724_KOMUXIO_000_000","我有件事想借助你的力量呼啾。
+48,"TEXT_GAIUSA201_00724_KOMUXIO_000_000","我有件事想藉助你的力量呼啾。
 妖精族的克拉克希奧獨自一人離開了暫留地呼啾。"
 49,"TEXT_GAIUSA201_00724_KOMUXIO_000_001","外面到處都是魔物呼啾。
 克拉克希奧一個人的話，實在太危險了呼啾！
@@ -81,7 +81,7 @@ int32,str,str
 59,"TEXT_GAIUSA201_00724_CLAXIO_000_026","壞、壞妖精？！
 有、有什麼事嗎呼啾！
 我是好妖精呼啾，不會變壞的呼啾！"
-60,"TEXT_GAIUSA201_00724_PAPALYMO_000_027"," <Highlight>ObjectParameter(1)</Highlight> ……
+60,"TEXT_GAIUSA201_00724_PAPALYMO_000_027","<Highlight>ObjectParameter(1)</Highlight>……
 這些傢伙是被蠻神「拉姆」精煉的妖精族。"
 61,"TEXT_GAIUSA201_00724_PAPALYMO_000_028","你在與蠻神「伊弗利特」戰鬥時，
 也見過被精煉成信徒的蜥蜴人族了吧。"
@@ -117,7 +117,7 @@ int32,str,str
 妖精族全都是一家人呼啾，
 大家都是重要的家族成員呼啾。"
 74,"TEXT_GAIUSA201_00724_KOMUXIO_000_041","我想了一陣呼啾……
-你一定是英雄呼啾！
+你肯定是英雄呼啾！
 是你加深了我們妖精族和人類的聯繫呼啾。"
 75,"TEXT_GAIUSA201_00724_KOMUXIO_000_042","你既可靠，又友善，還是英雄，
 我認可你了呼啾，你可以與我們的族長會面了呼啾！"

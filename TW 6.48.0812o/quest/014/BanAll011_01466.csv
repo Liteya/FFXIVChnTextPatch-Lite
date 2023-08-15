@@ -49,11 +49,11 @@ int32,str,str
 45,"TEXT_BANALL011_01466_TODO_21",""
 46,"TEXT_BANALL011_01466_TODO_22",""
 47,"TEXT_BANALL011_01466_TODO_23",""
-48,"TEXT_BANALL011_01466_TRACHRAET_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，多虧了你，
-利姆薩．羅敏薩的蠻族問題姑且得到了和平解決。
+48,"TEXT_BANALL011_01466_TRACHRAET_000_000","<Highlight>ObjectParameter(1)</Highlight>，多虧了你，
+利姆薩·羅敏薩的蠻族問題姑且得到了和平解決。
 我代表黑渦團向你表示感謝。"
 49,"TEXT_BANALL011_01466_TRACHRAET_000_001","你不僅與地靈族建立了信賴關係，
-更是與艾奧傑亞最主要的5大蠻族都結下了友誼。
+更是與艾歐澤亞最主要的5大蠻族都結下了友誼。
 你的種種活躍表現，真令我佩服得五體投地。"
 50,"TEXT_BANALL011_01466_TRACHRAET_000_002","這都歸功於你非比尋常的人望。
 ……因此，我也想拜託你一件事。"
@@ -62,7 +62,7 @@ int32,str,str
 願利姆萊茵女神保佑你！"
 52,"TEXT_BANALL011_01466_TRACHRAET_000_004","我相信你一定能出色地完成這項任務。
 詳情請去詢問蛇巢司令部的加文。"
-53,"TEXT_BANALL011_01466_GAVIN_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊！
+53,"TEXT_BANALL011_01466_GAVIN_000_010","<Highlight>ObjectParameter(1)</Highlight>，你來了啊！
 現在，雙蛇黨內人人都在談論關於你的話題。
 有時間請跟我也說說你與蠻族的冒險故事！"
 54,"TEXT_BANALL011_01466_GAVIN_000_011","……哎呀，不好意思，我太激動了。

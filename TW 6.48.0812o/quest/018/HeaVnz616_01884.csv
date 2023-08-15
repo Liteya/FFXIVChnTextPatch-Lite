@@ -59,13 +59,13 @@ int32,str,str
 真是麻煩你了，拜託了！"
 51,"TEXT_HEAVNZ616_01884_NORTHINVESTIGATOR01883_000_020","看來你成功回收了測量儀呢，真是幫了大忙。
 嗯，這下測量任務也算順利完成了……"
-52,"TEXT_HEAVNZ616_01884_NORTHINVESTIGATOR01883_000_021","應該南邊戰場遺跡的測量任務也差不多結束了。
+52,"TEXT_HEAVNZ616_01884_NORTHINVESTIGATOR01883_000_021","估計南邊戰場遺跡的測量任務也差不多結束了。
 在你回去之前，能否繞遠去一下南方偵察隊的龍騎士那裡，
 順便把那裡的測量儀也回收了。"
 53,"TEXT_HEAVNZ616_01884_NORTHINVESTIGATOR01883_000_022","當你把全部的測量儀都回收完畢後，就拿回去給瑪艾娜隊長吧。
 飛空艇差不多也要來了……
 我會從別的路線一邊繼續偵察一邊回去的。"
-54,"TEXT_HEAVNZ616_01884_NORTHINVESTIGATOR01883_000_034","應該南邊戰場遺跡的測量任務也差不多結束了。
+54,"TEXT_HEAVNZ616_01884_NORTHINVESTIGATOR01883_000_034","估計南邊戰場遺跡的測量任務也差不多結束了。
 在你回去之前，能否繞遠去一下南方偵察隊的龍騎士那裡，
 順便把那裡的測量儀也回收了。"
 55,"TEXT_HEAVNZ616_01884_SOUTHINVESTIGATOR01879_000_030","呀，冒險者。
@@ -82,7 +82,7 @@ int32,str,str
 拿回去交給瑪艾娜隊長吧。"
 61,"TEXT_HEAVNZ616_01884_AIRPORTINVESTIGATOR01871_000_064","冒險者！
 在冒險者你不在的時候，瑪艾娜隊長她……"
-62,"TEXT_HEAVNZ616_01884_MAENNE_000_060","哈、哈…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊……
+62,"TEXT_HEAVNZ616_01884_MAENNE_000_060","哈、哈……<Highlight>ObjectParameter(1)</Highlight>啊……
 我在與敵人戰鬥的時候受了傷……放心，死不了。
 ……你那邊如何了？"
 63,"TEXT_HEAVNZ616_01884_MAENNE_000_061","原來如此，乙太的測量……順利完成了啊……

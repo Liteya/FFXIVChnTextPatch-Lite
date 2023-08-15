@@ -54,7 +54,7 @@ int32,str,str
 46,"TEXT_BANVAN504_02196_TODO_22",""
 47,"TEXT_BANVAN504_02196_TODO_23",""
 48,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_001","哎喲喂、哎呦喂……這可怎麼辦才好……
-哎呀， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+哎呀，<Highlight>ObjectParameter(1)</Highlight>！
 你來得可太是時候啦！"
 49,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_002","我現在急需活蹦亂跳的猴面雀。
 但村子裡的工作堆積如山，
@@ -63,7 +63,7 @@ int32,str,str
 然後用這個袋子捉住掉進陷阱裡的活蹦亂跳的猴面雀！"
 51,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_010","（★未使用／削除予定★）"
 52,"TEXT_BANVAN504_02196_02196_SYSTEM_000_040","捉住了掉進陷阱裡的活蹦亂跳的猴面雀！"
-53,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_050","啊！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+53,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_050","啊！<Highlight>ObjectParameter(1)</Highlight>！
 怎麼樣、怎麼樣，捉住猴面雀了嗎？"
 54,"TEXT_BANVAN504_02196_02196_MUNAVANU_000_051","真是、真是太棒了！
 好一隻如積雨雲般強而有力的猴面雀！

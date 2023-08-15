@@ -49,8 +49,8 @@ int32,str,str
 45,"TEXT_LUCKHA021_03972_TODO_21",""
 46,"TEXT_LUCKHA021_03972_TODO_22",""
 47,"TEXT_LUCKHA021_03972_TODO_23",""
-48,"TEXT_LUCKHA021_03972_AUGEBERT_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-這次的重建計劃完工了！
+48,"TEXT_LUCKHA021_03972_AUGEBERT_000_000","<Highlight>ObjectParameter(1)</Highlight>！
+這回的重建計劃完工了！
 多虧了工匠們的幫助啊！"
 49,"TEXT_LUCKHA021_03972_AUGEBERT_000_001","新區域名叫落羽商業區。
 有很多像是天鋼機工房分館

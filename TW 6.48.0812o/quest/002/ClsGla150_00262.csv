@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CLSGLA150_00262_SEQ_00","劍術師公會的密拉，將要給予冒險者新的課題。"
 1,"TEXT_CLSGLA150_00262_SEQ_01","最近發生了多起使用弓的蜥蜴人族襲擊商人的事件。前往枯骨的東邊，和負傷的劍術師對話，打倒隨之襲來的蜥蜴人破壞者。"
 2,"TEXT_CLSGLA150_00262_SEQ_02","無畏弓箭，與蜥蜴人族戰鬥，並打倒了蜥蜴人族。和負傷的劍術師對話，確認他是否平安無事。"
-3,"TEXT_CLSGLA150_00262_SEQ_03","負傷的劍術師似乎沒有大礙。回到劍術師公會，向密拉報告。"
+3,"TEXT_CLSGLA150_00262_SEQ_03","負傷的劍術師貌似沒有大礙。回到劍術師公會，向密拉報告。"
 4,"TEXT_CLSGLA150_00262_SEQ_04","密拉認可了冒險者的活躍表現。在向她報告時，阿爾迪斯突然走進了公會。他似乎和密拉有著什麼過去，並想告訴冒險者什麼事。去流沙屋和阿爾迪斯對話。"
 5,"TEXT_CLSGLA150_00262_SEQ_05","在談話時襲來的弓箭手似乎也是衝著阿爾迪斯來的。回到劍術師公會，和密拉對話。"
 6,"TEXT_CLSGLA150_00262_SEQ_06","和密拉進行了交談。活用她所傳授的戰技，爭取更大進步。
@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_CLSGLA150_00262_TODO_21",""
 46,"TEXT_CLSGLA150_00262_TODO_22",""
 47,"TEXT_CLSGLA150_00262_TODO_23",""
-48,"TEXT_CLSGLA150_00262_MYLLA_000_1","你來了啊， <Highlight>ObjectParameter(1)</Highlight> 。
+48,"TEXT_CLSGLA150_00262_MYLLA_000_1","你來了啊，<Highlight>ObjectParameter(1)</Highlight>。
 你已經熟悉劍的用法了吧。
 我為你準備的試煉也要到高潮了。"
 49,"TEXT_CLSGLA150_00262_MYLLA_000_2","最近蜥蜴人族常出現在枯骨附近的街道旁，
@@ -60,18 +60,18 @@ int32,str,str
 也是恆輝隊和銅刃團重兵守備的邊境要地。
 我們公會也經常向他們派遣戰力。"
 51,"TEXT_CLSGLA150_00262_MYLLA_000_4","蜥蜴人在蠻族中算是聰明的種族了。
-而且我聽說，這次襲擊商隊的是有組織的弓兵團。"
+而且我聽說，這回襲擊商隊的是有組織的弓兵團。"
 52,"TEXT_CLSGLA150_00262_MYLLA_000_5","去吧！
 用你的盾彈飛箭雨，橫掃敵人！"
 53,"TEXT_CLSGLA150_00262_GUILDMEMBER_000_30","噢……公會派人來支援我們了麼！
 得、得救了！"
-54,"TEXT_CLSGLA150_00262_NPC_000_32","(CUT)※にぎやかしに変更"
+54,"TEXT_CLSGLA150_00262_NPC_000_32","(CUT)"
 55,"TEXT_CLSGLA150_00262_GUILDMEMBER_AFTER","謝謝你救了我。
 看來我的劍術還差得遠呢……
 我這樣是不會讓密拉滿意的。"
 56,"TEXT_CLSGLA150_00262_GUILDMEMBER_000_33","看來我的劍術還差得遠呢……"
-57,"TEXT_CLSGLA150_00262_NPC_000_34","(CUT)※にぎやかしに変更"
-58,"TEXT_CLSGLA150_00262_MYLLA_000_50"," <Highlight>ObjectParameter(1)</Highlight> ，你立大功了。
+57,"TEXT_CLSGLA150_00262_NPC_000_34","(CUT)"
+58,"TEXT_CLSGLA150_00262_MYLLA_000_50","<Highlight>ObjectParameter(1)</Highlight>，你立大功了。
 呵呵……看來我真是沒看錯人。
 作為公會會長，我真是感到自豪。"
 59,"TEXT_CLSGLA150_00262_MYLLA_000_51","(CUT)"
@@ -92,7 +92,7 @@ int32,str,str
 怎麼這個時候才回來！
 回答我！"
 71,"TEXT_CLSGLA150_00262_ALDIS_000_63","別發這麼大火嘛密拉。
-你就當我去尋找自我了吧。
+你就當我去尋找自我了唄。
 別看我這樣，我這人可是很多愁善感的。"
 72,"TEXT_CLSGLA150_00262_MYLLA_000_64","別開玩笑了！
 你再也別跨進公會的大門！
@@ -110,18 +110,18 @@ int32,str,str
 79,"TEXT_CLSGLA150_00262_ALDIS_000_71","(CUT)"
 80,"TEXT_CLSGLA150_00262_MYLLA_000_80","阿爾迪斯……那個笨蛋……
 為什麼事到如今還要回到烏爾達哈來……"
-81,"TEXT_CLSGLA150_00262_ALDIS_000_100","喲， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來了啊。
+81,"TEXT_CLSGLA150_00262_ALDIS_000_100","喲，<Highlight>ObjectParameter(1)</Highlight>，你來了啊。
 剛才真是讓你見笑了。"
 82,"TEXT_CLSGLA150_00262_ALDIS_000_102","「浪子遠旅還，親朋夾道迎」
 ……看來是實現不了了。
 算了，這樣也不錯。"
-83,"TEXT_CLSGLA150_00262_ALDIS_000_104"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+83,"TEXT_CLSGLA150_00262_ALDIS_000_104","<Highlight>ObjectParameter(1)</Highlight>，
 我有一件事要拜託你。
 是有關劍術師公會……有關密拉的。"
 84,"TEXT_CLSGLA150_00262_ALDIS_000_105","雖說你還是個初出茅廬的劍術師，
 但你的眼中寄宿著「火焰」。"
 85,"TEXT_CLSGLA150_00262_ALDIS_000_107","那「火焰」名為信念。
-像我這種早已被燻黑的人，別說火焰，
+像我這種早已被熏黑的人，別說火焰，
 連火種都沒有了。"
 86,"TEXT_CLSGLA150_00262_ALDIS_000_110","這是傳說中的武器工匠蓋羅爾特的畢生傑作「狂亂劍」，
 這劍可是贈送給鬥技場的英雄們的名劍。
@@ -163,7 +163,7 @@ int32,str,str
 109,"TEXT_CLSGLA150_00262_MYLLA_000_146","(CUT)"
 110,"TEXT_CLSGLA150_00262_MYLLA_000_147","(CUT)"
 111,"TEXT_CLSGLA150_00262_MYLLA_000_148","我要教給你「投盾」這一本領。
-你可以透過投擲盾攻擊遠方的敵人，
+你可以通過投擲盾攻擊遠方的敵人，
 以此吸引他們的注意力。"
 112,"TEXT_CLSGLA150_00262_MYLLA_000_149","(CUT)"
 113,"TEXT_CLSGLA150_00262_MYLLA_000_150","(CUT)"
@@ -173,14 +173,14 @@ int32,str,str
 你在戰場上要靈活運用它啊！"
 116,"TEXT_CLSGLA150_00262_SYSTEM_000_160","等級達到「20級」以上時，才可以領取下一個任務。
 提高等級後再來公會。"
-117,"TEXT_CLSGLA150_00262_POP_MESSAGE","察覺到了敵人的氣息！ "
+117,"TEXT_CLSGLA150_00262_POP_MESSAGE","察覺到了敵人的氣息！"
 118,"TEXT_CLSGLA150_00262_SCENE00040_INSTANCE_BATTLE_YESNO_TITLE","要開始「箭雨中的勝機」的戰鬥嗎？"
 119,"TEXT_CLSGLA150_00262_SCENE00040_INSTANCE_BATTLE_YESNO_YES","是"
 120,"TEXT_CLSGLA150_00262_SCENE00040_INSTANCE_BATTLE_YESNO_NO","否"
 121,"TEXT_CLSGLA150_00262_QIB_TODO001","打倒神秘的襲擊者"
-122,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_001"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你可要睜大眼睛看好了。
+122,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_001","<Highlight>ObjectParameter(1)</Highlight>，你可要睜大眼睛看好了。
 我要教給你劍術師的戰鬥方法。"
 123,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_004","看來被敵人小看了啊。以為憑這麼幾個人就能打倒我麼？"
 124,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_002","喂，那邊的小個子就交給你了。"
 125,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_ALDIS_HP50","哦？還是有幾個有骨氣的傢伙的嘛。"
-126,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_003"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，避開連珠箭！"
+126,"TEXT_CLSGLA150_00262_ALDIS_BATTLETALK_003","<Highlight>ObjectParameter(1)</Highlight>，避開連珠箭！"

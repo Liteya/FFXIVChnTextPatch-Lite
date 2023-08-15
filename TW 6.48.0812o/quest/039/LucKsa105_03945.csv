@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_LUCKSA105_03945_TODO_22",""
 47,"TEXT_LUCKSA105_03945_TODO_23",""
 48,"TEXT_LUCKSA105_03945_SYSTEM_100_000","若要領取或繼續推進本任務，
-需要反抗軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
+需要義軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
 49,"TEXT_LUCKSA105_03945_DMITAR_000_000","解放者閣下！好消息！
 多虧了你和女王之刃們在戰場上大施拳腳，
 戰線已經成功前移了！"
@@ -59,7 +59,7 @@ int32,str,str
 將據點調整為供我方使用的狀態。"
 51,"TEXT_LUCKSA105_03945_DMITAR_000_002","我帶你去據點看看吧！
 在出發之前，別忘了和烏特亞前哨的乙太之光共鳴一下。"
-52,"TEXT_LUCKSA105_03945_DMITAR_000_020","前面就是被反抗軍所佔領的據點了。
+52,"TEXT_LUCKSA105_03945_DMITAR_000_020","前面就是被義軍所佔領的據點了。
 臨時乙太之光已經設定完成，可以進行共鳴了。"
 53,"TEXT_LUCKSA105_03945_DMITAR_000_021","雖然戰線正在像這樣一點點前移，
 但距離收復目標帝國湖岸堡還是很遙遠啊……"
@@ -68,5 +68,5 @@ int32,str,str
 繼續深入敵陣，讓「蒼鷹歸巢作戰」成功吧！"
 55,"TEXT_LUCKSA105_03945_SYSTEM_000_030","由於戰場的範圍擴大，
 將會發生新的衝突戰和緊急遭遇戰！"
-56,"TEXT_LUCKSA105_03945_SYSTEM_000_031","另外，反抗軍等級達到「<Value>IntegerParameter(1)</Value>」以上時，
+56,"TEXT_LUCKSA105_03945_SYSTEM_000_031","另外，義軍等級達到「<Value>IntegerParameter(1)</Value>」以上時，
 可以從烏特亞前哨的水琴那裡領取下一個任務。"

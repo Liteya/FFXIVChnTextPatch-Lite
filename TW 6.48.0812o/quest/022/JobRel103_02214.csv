@@ -62,7 +62,7 @@ int32,str,str
 51,"TEXT_JOBREL103_02214_A2_000_000","創造<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的元靈武器"
 52,"TEXT_JOBREL103_02214_SYSTEM_100_001","接受任務「閃耀的元靈武器」後，
 直至完成或放棄該任務，
-其間都無法同時以其他特職重複接受該任務。"
+其間都無法同時以其他特職重覆接受該任務。"
 53,"TEXT_JOBREL103_02214_SYSTEM_100_002","請轉換為與所需元靈武器相應的特職，
 再次和阿爾達希爾對話。"
 54,"TEXT_JOBREL103_02214_SYSTEM_100_003","要接受任務「閃耀的元靈武器」，
@@ -75,8 +75,8 @@ int32,str,str
 57,"TEXT_JOBREL103_02214_SYSTEM_100_006","已擁有<Sheet(Item,IntegerParameter(1),0)/>。
 請轉換為其它特職，
 再次和阿爾達希爾對話。"
-58,"TEXT_JOBREL103_02214_ARDASHIR_000_000","人造元靈透過與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一起旅行得到了飛速的成長，
-能夠開口說話就是最好的展現。"
+58,"TEXT_JOBREL103_02214_ARDASHIR_000_000","人造元靈通過與<Highlight>ObjectParameter(1)</Highlight>一起旅行得到了飛速的成長，
+能夠開口說話就是最好的體現。"
 59,"TEXT_JOBREL103_02214_ARDASHIR_000_001","但過快的成長也是一把雙刃劍……
 作為人造元靈核心的魂石，其容量是有限度的。"
 60,"TEXT_JOBREL103_02214_GEROLT_000_002","你的意思是人造元靈繼續成長下去的話，
@@ -93,13 +93,13 @@ int32,str,str
 我需要你幫忙打造新的武器。"
 65,"TEXT_JOBREL103_02214_GEROLT_000_007","為什麼又要我幹活！
 不是剛把元靈武器升級成覺醒嗎？！"
-66,"TEXT_JOBREL103_02214_ARDASHIR_000_008","當然是因為根據靈魂的尺寸，需要有配對的新身體啦。
+66,"TEXT_JOBREL103_02214_ARDASHIR_000_008","當然是因為根據靈魂的尺寸，需要有匹配的新身體啦。
 人類的身體不也是會隨著成長而變大嗎？
 你看看你自己不就長成了個大塊頭？"
 67,"TEXT_JOBREL103_02214_GEROLT_000_009","嘁，真是麻煩。
 沒轍，為了還錢忍了……
 好吧，新武器我造。"
-68,"TEXT_JOBREL103_02214_GEROLT_000_010"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你也得幫忙。
+68,"TEXT_JOBREL103_02214_GEROLT_000_010","<Highlight>ObjectParameter(1)</Highlight>你也得幫忙。
 武器和魂石連接的位置需要乙太傳導率高的材料，
 這我手頭上可沒有。"
 69,"TEXT_JOBREL103_02214_GEROLT_000_011","需要<Sheet(Item,13577,0)/>、<Sheet(Item,13578,0)/>、
@@ -107,10 +107,10 @@ int32,str,str
 70,"TEXT_JOBREL103_02214_GEROLT_000_012","你去找羅薇娜的下屬「克里斯蒂安娜」要吧。
 那傢伙總是藏在羅薇娜會館的角落裡，性格麻煩得要死。
 總之交涉就交給你了。"
-71,"TEXT_JOBREL103_02214_ARDASHIR_000_020","人造元靈透過與 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 一起旅行得到了飛速的成長。
+71,"TEXT_JOBREL103_02214_ARDASHIR_000_020","人造元靈通過與<Highlight>ObjectParameter(1)</Highlight>一起旅行得到了飛速的成長。
 因此，這次我們也需要強化魂石才行。"
-72,"TEXT_JOBREL103_02214_GEROLT_000_021","就是又要打造新武器了吧？
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你知道自己要做什麼了吧。"
+72,"TEXT_JOBREL103_02214_GEROLT_000_021","就是又要打造新武器了唄？
+<Highlight>ObjectParameter(1)</Highlight>，你知道自己要做什麼了吧。"
 73,"TEXT_JOBREL103_02214_GEROLT_000_022","<Sheet(Item,13577,0)/>、<Sheet(Item,13578,0)/>、
 還有<Sheet(Item,13580,0)/>和<Sheet(Item,13579,0)/>這4樣材料。
 快去給我弄來吧。"
@@ -133,12 +133,12 @@ int32,str,str
 80,"TEXT_JOBREL103_02214_CRISTIANA_100_035","……什麼嘛，還想要上次的那些東西呀。
 那我這邊的條件也不變！
 拿、拿我要的東西來換吧！"
-81,"TEXT_JOBREL103_02214_SYSTEM_100_034","克里斯蒂安娜要求的道具可以透過
-副本迷宮、友好部族任務、生產製造等多種管道獲得。"
+81,"TEXT_JOBREL103_02214_SYSTEM_100_034","克里斯蒂安娜要求的道具可以通過
+副本迷宮、友好部族任務、生產製造等多種渠道獲得。"
 82,"TEXT_JOBREL103_02214_SYSTEM_100_035","玩家間可以互相交換情報，
-以便找到適合自己的獲得途徑。"
+以便找到適合自己的獲取途徑。"
 83,"TEXT_JOBREL103_02214_GEROLT_000_030","喂，我要的東西弄來了嗎？
-弄來了就快點和元靈武器．覺醒一起拿給我！"
+弄來了就快點和元靈武器·覺醒一起拿給我！"
 84,"TEXT_JOBREL103_02214_GEROLT_000_031","臭小鬼應該是已經把魂石強化完了，
 從剛才起就一直催我趕緊弄，煩人得不得了……
 好了，我也快點把它搞定吧！"
@@ -181,7 +181,7 @@ int32,str,str
 看來還真是寶刀未老啊！"
 104,"TEXT_JOBREL103_02214_ARDASHIR_000_051","一開始我也很是懷疑你這醉鬼能派上什麼用場，
 不過現在看來確實是沒有愧對名匠之名呢！"
-105,"TEXT_JOBREL103_02214_ARDASHIR_000_052","還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+105,"TEXT_JOBREL103_02214_ARDASHIR_000_052","還有<Highlight>ObjectParameter(1)</Highlight>……
 人造元靈能夠成長到這一步都是多虧了你的努力。
 能得到你的幫助真的是太好了！"
 106,"TEXT_JOBREL103_02214_GEROLT_000_053","……真是不招人喜歡的臭小鬼。"
@@ -190,7 +190,7 @@ int32,str,str
 108,"TEXT_JOBREL103_02214_ARDASHIR_100_055","而且還飛到了我們面前？！
 但我完全沒有看到人造元靈呀……"
 109,"TEXT_JOBREL103_02214_ARDASHIR_100_057","究竟怎麼回事……
-為什麼 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 能看到，我們卻看不到……"
+為什麼<Highlight>ObjectParameter(1)</Highlight>能看到，我們卻看不到……"
 110,"TEXT_JOBREL103_02214_GEROLT_100_059","哎呀呀……
 看來不招人喜歡的臭小鬼不光只有一個呢。"
 111,"TEXT_JOBREL103_02214_ARDASHIR_100_058","雖然看不到人造元靈令人有些遺憾，
@@ -209,16 +209,16 @@ int32,str,str
 一定要找出繼續讓人造元靈成長的方法！"
 118,"TEXT_JOBREL103_02214_ARDASHIR_000_059","對了，作為人造元靈的創造者，
 我將至今的研究過程整理成了日誌。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你有空可以來看一看。"
+<Highlight>ObjectParameter(1)</Highlight>你有空可以來看一看。"
 119,"TEXT_JOBREL103_02214_GEROL_000_060","……嘻嘻嘻，沒錯臭小鬼，就是這樣。
 照這樣把研究完成的話，
 我就能和一屁股債說拜拜——重獲自由之身了！"
-120,"TEXT_JOBREL103_02214_ARDASHIR_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+120,"TEXT_JOBREL103_02214_ARDASHIR_000_070","<Highlight>ObjectParameter(1)</Highlight>！
 這次新元靈武器也順利完成了呢！"
 121,"TEXT_JOBREL103_02214_ARDASHIR_100_071","噢噢噢！你又看到人造元靈了啊！"
 122,"TEXT_JOBREL103_02214_ARDASHIR_100_072","雖然這次我也沒能看到……
 不過相信總有一天我一定也能看到的！"
 123,"TEXT_JOBREL103_02214_ARDASHIR_000_071","為此我會繼續進行研究，
 一定要找出繼續讓人造元靈成長的方法！"
-124,"TEXT_JOBREL103_02214_SYSTEM_000_072","成功將「元靈武器．覺醒」強化為「新元靈武器」！"
+124,"TEXT_JOBREL103_02214_SYSTEM_000_072","成功將「元靈武器·覺醒」強化為「新元靈武器」！"
 125,"TEXT_JOBREL103_02214_ARDASHIR_100_056","（★未使用／削除予定★）"

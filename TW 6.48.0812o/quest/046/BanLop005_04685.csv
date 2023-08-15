@@ -7,9 +7,9 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 和夢明威進行了交談。和大家商量後，眾人決定建設可以播送廣播的場地。夢明威打算將這個主意告訴灰毛兔兔族。和嘆息海監視者之館附近的夢明威談談。"
-2,"TEXT_BANLOP005_04685_SEQ_02","和夢明威進行了交談。灰毛兔兔族似乎有什麼想法。返回最佳威兔洞，再次和希望的貨艙的夢明威談談。"
+2,"TEXT_BANLOP005_04685_SEQ_02","和夢明威進行了交談。灰毛兔兔族貌似有什麼想法。返回最佳威兔洞，再次和希望的貨艙的夢明威談談。"
 3,"TEXT_BANLOP005_04685_SEQ_03","和夢明威進行了交談。準備建設新場地所需的素材，交給希望的貨艙的夢明威。"
-4,"TEXT_BANLOP005_04685_SEQ_04","將建設新場地所需的素材交給了夢明威。廣播臺建設完成，灰毛兔兔族向亞伊太利斯播送了第一次廣播。灰毛兔兔族從播送廣播這件事中找到了夢想。透過夢明威他們建設的各種場地，兔兔族會不斷地找到自己的夢想。繼續和夢明工作室的同伴們一起協助兔兔族尋找夢想。"
+4,"TEXT_BANLOP005_04685_SEQ_04","將建設新場地所需的素材交給了夢明威。廣播台建設完成，灰毛兔兔族向亞伊太利斯播送了第一次廣播。灰毛兔兔族從播送廣播這件事中找到了夢想。通過夢明威他們建設的各種場地，兔兔族會不斷地找到自己的夢想。繼續和夢明工作室的同伴們一起協助兔兔族尋找夢想。"
 5,"TEXT_BANLOP005_04685_SEQ_05",""
 6,"TEXT_BANLOP005_04685_SEQ_06",""
 7,"TEXT_BANLOP005_04685_SEQ_07",""
@@ -53,9 +53,9 @@ int32,str,str
 45,"TEXT_BANLOP005_04685_TODO_21",""
 46,"TEXT_BANLOP005_04685_TODO_22",""
 47,"TEXT_BANLOP005_04685_TODO_23",""
-48,"TEXT_BANLOP005_04685_DREAMINGWAY_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你來得正好！
-我正打算和營運威商討一下今後的事情呢！"
-49,"TEXT_BANLOP005_04685_MANAGINGWAY_000_001","至今為止我們透過建設各種場地，
+48,"TEXT_BANLOP005_04685_DREAMINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來得正好！
+我正打算和運營威商討一下今後的事情呢！"
+49,"TEXT_BANLOP005_04685_MANAGINGWAY_000_001","至今為止我們通過建設各種場地，
 讓許多兔兔族找到了夢想。
 不過仍有部分同伴沒有找到夢想。"
 50,"TEXT_BANLOP005_04685_MANAGINGWAY_000_002","沒錯，就是夢明威最惦記的那個灰毛兔兔族……"
@@ -67,7 +67,7 @@ int32,str,str
 他真正想要的應該是與人類溝通，
 為人類解決問題才對。"
 54,"TEXT_BANLOP005_04685_MANAGINGWAY_100_005","所以能不能往這個方向想想辦法？"
-55,"TEXT_BANLOP005_04685_DREAMINGWAY_000_006","透過與人類溝通，解決他們的問題嗎……
+55,"TEXT_BANLOP005_04685_DREAMINGWAY_000_006","通過與人類溝通，解決他們的問題嗎……
 嗯，你說我們建設什麼樣的場地才能引起他的興趣？"
 56,"TEXT_BANLOP005_04685_Q1_000_000","如何作答？"
 57,"TEXT_BANLOP005_04685_A1_000_001","試著播送可以解決問題的情報如何？"
@@ -88,7 +88,7 @@ int32,str,str
 屆時還要解決如何分配之類的問題……"
 68,"TEXT_BANLOP005_04685_DREAMINGWAY_120_008","嗯……"
 69,"TEXT_BANLOP005_04685_DREAMINGWAY_000_009","對了！
-我們可以從這裡向亞伊太利斯的收音機傳送情報！"
+我們可以從這裡向亞伊太利斯的收音機發送情報！"
 70,"TEXT_BANLOP005_04685_MANAGINGWAY_000_010","（★未使用／削除予定★）"
 71,"TEXT_BANLOP005_04685_DREAMINGWAY_000_011","（★未使用／削除予定★）"
 72,"TEXT_BANLOP005_04685_DREAMINGWAY_100_011","（★未使用／削除予定★）"
@@ -98,10 +98,10 @@ int32,str,str
 74,"TEXT_BANLOP005_04685_MANAGINGWAY_000_013","那這樣的話，我們這邊該做的就是建設用來播送廣播的場地！"
 75,"TEXT_BANLOP005_04685_MANAGINGWAY_000_014","（★未使用／削除予定★）"
 76,"TEXT_BANLOP005_04685_MANAGINGWAY_000_015","我會去和生命威還有發明威他們商量一下這個想法！"
-77,"TEXT_BANLOP005_04685_DREAMINGWAY_000_016","不愧是 <Highlight>ObjectParameter(1)</Highlight> ！
+77,"TEXT_BANLOP005_04685_DREAMINGWAY_000_016","不愧是<Highlight>ObjectParameter(1)</Highlight>！
 那我就去找商定威，跟他說說這個想法，
-邀請他一起參加這次的活動！"
-78,"TEXT_BANLOP005_04685_DREAMINGWAY_000_017","能麻煩 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 也來之前和他見面的地方嗎？"
+邀請他一起參加這回的活動！"
+78,"TEXT_BANLOP005_04685_DREAMINGWAY_000_017","能麻煩<Highlight>ObjectParameter(1)</Highlight>也來之前和他見面的地方嗎？"
 79,"TEXT_BANLOP005_04685_TALKINGWAY_000_018","怎麼連你也……找我有什麼事？"
 80,"TEXT_BANLOP005_04685_DREAMINGWAY_000_020","（★未使用／削除予定★）"
 81,"TEXT_BANLOP005_04685_TALKINGWAY_000_021","身處月球……還能幫助人類？"
@@ -127,15 +127,15 @@ int32,str,str
 91,"TEXT_BANLOP005_04685_TALKINGWAY_000_030","只要將雲的動向傳達給亞伊太利斯上的人類，
 應該就能提供準確的天氣預報了。"
 92,"TEXT_BANLOP005_04685_DREAMINGWAY_000_031","原來還有這個用處！
-我完全沒有想到過這點……欸嘿嘿！"
+我完全沒有想到過這點……誒嘿嘿！"
 93,"TEXT_BANLOP005_04685_TALKINGWAY_000_032","如果你們真的造出了可以播送廣播的設備，
 我倒是可以過去看看……"
 94,"TEXT_BANLOP005_04685_DREAMINGWAY_000_033","太好了！
 你願意過來看看是吧？！"
 95,"TEXT_BANLOP005_04685_DREAMINGWAY_000_034","那等我們建設完成之後，
 大家一起面向亞伊太利斯播送廣播吧！"
-96,"TEXT_BANLOP005_04685_DREAMINGWAY_000_035"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
-我們回到夢明工作室問問營運威場地建設的進度吧！"
+96,"TEXT_BANLOP005_04685_DREAMINGWAY_000_035","<Highlight>ObjectParameter(1)</Highlight>！
+我們回到夢明工作室問問運營威場地建設的進度吧！"
 97,"TEXT_BANLOP005_04685_DREAMINGWAY_000_036","你可一定要來哦！
 我們說定了！"
 98,"TEXT_BANLOP005_04685_TALKINGWAY_000_037","幫助人類嗎……"
@@ -143,17 +143,17 @@ int32,str,str
 100,"TEXT_BANLOP005_04685_SUPPORTER_000_039","夢明威好像有話要說！"
 101,"TEXT_BANLOP005_04685_DREAMINGWAY_000_040","怎麼樣？播送廣播的場地，我們造得出來嗎？"
 102,"TEXT_BANLOP005_04685_MANAGINGWAY_000_041","這是當然，已經按計劃進行了。
-只不過有些元件準備不出來，
-還需要 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人幫幫忙。"
+只不過有些部件準備不出來，
+還需要<Highlight>ObjectParameter(1)</Highlight>大人幫幫忙。"
 103,"TEXT_BANLOP005_04685_DREAMINGWAY_000_042","（★未使用／削除予定★）"
 104,"TEXT_BANLOP005_04685_MANAGINGWAY_000_043","嗯哼！
 關於需要你幫忙製作的東西，
 我親自跟你說一下。"
-105,"TEXT_BANLOP005_04685_MANAGINGWAY_000_044","需要請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人幫忙製作<Sheet(ItemHQ,38851,0)/>，
+105,"TEXT_BANLOP005_04685_MANAGINGWAY_000_044","需要請<Highlight>ObjectParameter(1)</Highlight>大人幫忙製作<Sheet(ItemHQ,38851,0)/>，
 也就是收音話筒！"
-106,"TEXT_BANLOP005_04685_MANAGINGWAY_000_045","需要請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人幫忙製作<Sheet(ItemHQ,38851,0)/>，
-也就是混音元件！"
-107,"TEXT_BANLOP005_04685_MANAGINGWAY_000_046","需要請 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 大人幫忙製作<Sheet(ItemHQ,38851,0)/>，
+106,"TEXT_BANLOP005_04685_MANAGINGWAY_000_045","需要請<Highlight>ObjectParameter(1)</Highlight>大人幫忙製作<Sheet(ItemHQ,38851,0)/>，
+也就是混音部件！"
+107,"TEXT_BANLOP005_04685_MANAGINGWAY_000_046","需要請<Highlight>ObjectParameter(1)</Highlight>大人幫忙製作<Sheet(ItemHQ,38851,0)/>，
 也就是特殊機械油！"
 108,"TEXT_BANLOP005_04685_MANAGINGWAY_000_047","製作所需的素材已經為你準備好了，
 請收下！"
@@ -161,13 +161,13 @@ int32,str,str
 110,"TEXT_BANLOP005_04685_MANAGINGWAY_000_049","等製作好之後，請你交給夢明威吧。
 我還要監督場地的建設呢。"
 111,"TEXT_BANLOP005_04685_DREAMINGWAY_000_050","咦？素材不夠用了嗎？
-你可以從夢明協助機那裡獲得，
+你可以從夢明協助機那裡獲取，
 需要多少就拿多少吧！"
 112,"TEXT_BANLOP005_04685_DREAMINGWAY_000_051","咦？素材不夠用了嗎？
-你可以從夢明協助機那裡獲得，
+你可以從夢明協助機那裡獲取，
 需要多少就拿多少吧！"
 113,"TEXT_BANLOP005_04685_DREAMINGWAY_000_052","咦？素材不夠用了嗎？
-你可以從夢明協助機那裡獲得，
+你可以從夢明協助機那裡獲取，
 需要多少就拿多少吧！"
 114,"TEXT_BANLOP005_04685_SUPPORTER_000_053","稍等，這就把素材給你……咦？！
 你不是已經有了嗎！"
@@ -182,11 +182,11 @@ int32,str,str
 119,"TEXT_BANLOP005_04685_SUPPORTER_000_058","哦？素材不夠用嗎？
 給你，請收下吧！"
 120,"TEXT_BANLOP005_04685_SYSTEM_000_059","背包中留有在本次任務中製作出的普通品質道具。
-這種道具無法使用也無法出售給商店，儘早扔掉吧。"
-121,"TEXT_BANLOP005_04685_DREAMINGWAY_000_060","營運威拜託你的東西做好了嗎？"
-122,"TEXT_BANLOP005_04685_DREAMINGWAY_000_061","哦哦——不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+這種道具無法使用也無法出售給商店，盡早扔掉吧。"
+121,"TEXT_BANLOP005_04685_DREAMINGWAY_000_060","運營威拜託你的東西做好了嗎？"
+122,"TEXT_BANLOP005_04685_DREAMINGWAY_000_061","哦哦——不愧是<Highlight>ObjectParameter(1)</Highlight>！
 這樣絕對能造出超棒的場地！"
-123,"TEXT_BANLOP005_04685_DREAMINGWAY_000_062","那我就將這個送到營運威那裡，
+123,"TEXT_BANLOP005_04685_DREAMINGWAY_000_062","那我就將這個送到運營威那裡，
 建設可以播送廣播的場地吧！"
 124,"TEXT_BANLOP005_04685_TALKINGWAY_000_070","沒想到你們真的在建造啊……"
 125,"TEXT_BANLOP005_04685_Q2_000_000","要說什麼？"
@@ -202,8 +202,8 @@ int32,str,str
 將我們的聲音傳達給亞伊太利斯的人們吧！"
 134,"TEXT_BANLOP005_04685_TALKINGWAY_000_077","……好吧。"
 135,"TEXT_BANLOP005_04685_TALKINGWAY_000_078","方便的話，能讓我也參加到你們的作業當中嗎？
-我會儘量不給你們添麻煩的。"
-136,"TEXT_BANLOP005_04685_DREAMINGWAY_000_080","廣播臺終於建設完成了！
+我會盡量不給你們添麻煩的。"
+136,"TEXT_BANLOP005_04685_DREAMINGWAY_000_080","廣播台終於建設完成了！
 快點試播一下吧！"
 137,"TEXT_BANLOP005_04685_MANAGINGWAY_000_081","我當然贊成試播，但內容怎麼辦？
 這方面我們還沒討論過……"
@@ -218,10 +218,10 @@ int32,str,str
 亞伊太利斯的諸位，聽得到嗎？"
 143,"TEXT_BANLOP005_04685_TALKINGWAY_000_087","這裡是最佳威兔洞……
 現在正在從月球為您播報。"
-144,"TEXT_BANLOP005_04685_TALKINGWAY_000_088","本電臺不僅會為您提供有用的情報，
+144,"TEXT_BANLOP005_04685_TALKINGWAY_000_088","本電台不僅會為您提供有用的情報，
 有煩惱的人也可以找我們傾訴，
 我們將竭誠為您解決問題……"
-145,"TEXT_BANLOP005_04685_TALKINGWAY_100_088","那麼首先請讓我為您介紹一下本電臺設立的前因後果。"
+145,"TEXT_BANLOP005_04685_TALKINGWAY_100_088","那麼首先請讓我為您介紹一下本電台設立的前因後果。"
 146,"TEXT_BANLOP005_04685_TALKINGWAY_000_089","一直以來，我……"
 147,"TEXT_BANLOP005_04685_TALKINGWAY_000_090","我們兔兔族都在為末日降臨亞伊太利斯時拯救人類做著準備。
 不過萬幸的是末日已經消散。"
@@ -248,7 +248,7 @@ int32,str,str
 今後能讓我繼續播送廣播嗎？"
 159,"TEXT_BANLOP005_04685_TALKINGWAY_000_102","因為這就是我找到的、十分寶貴的夢想……"
 160,"TEXT_BANLOP005_04685_SYSTEM_000_103","與兔兔族「夢明工作室」之間的關係程度到達了「誓約」。"
-161,"TEXT_BANLOP005_04685_SYSTEM_000_104","冒險者協助建設廣播臺，贏得了信賴！"
+161,"TEXT_BANLOP005_04685_SYSTEM_000_104","冒險者協助建設廣播台，贏得了信賴！"
 162,"TEXT_BANLOP005_04685_SYSTEM_000_105","同時，「夢明工作室」的友好部族日常任務中
 可獲得的經驗值加成有所增加了。"
 163,"TEXT_BANLOP005_04685_SYSTEM_000_106","並且可以在「幣經威」處購買要求「關係程度：誓約」的商品。

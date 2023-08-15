@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB608_00890_SEQ_00","阿德內爾占星臺的卡里洛想秘密地將一件工作委託給冒險者。"
-1,"TEXT_GAIUSB608_00890_SEQ_01","卡里洛不相信弗朗塞爾會是異端者。前往阿德內爾占星臺北面的天火要塞群，將情況報告給弗朗塞爾。暗號是薄雪草。"
+0,"TEXT_GAIUSB608_00890_SEQ_00","阿德內爾占星台的卡里洛想秘密地將一件工作委託給冒險者。"
+1,"TEXT_GAIUSB608_00890_SEQ_01","卡里洛不相信弗朗塞爾會是異端者。前往阿德內爾占星台北面的天火要塞群，將情況報告給弗朗塞爾。暗號是薄雪草。"
 2,"TEXT_GAIUSB608_00890_SEQ_02","弗朗塞爾從最近的幾件異端者騷亂中嗅出了陰謀的氣味。前往巨龍首營地，將<Sheet(EventItem,2000697,0)/>交給福爾唐家的騎士奧爾什方。"
-3,"TEXT_GAIUSB608_00890_SEQ_03","奧爾什方接受了弗朗塞爾的請求，答應協助冒險者。但是，要搜索在第七靈災前失蹤的飛空艇企業號還是有一定的困難。 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 自己也要盡最大的努力……"
+3,"TEXT_GAIUSB608_00890_SEQ_03","奧爾什方接受了弗朗塞爾的請求，答應協助冒險者。但是，要搜索在第七靈災前失蹤的飛空艇企業號還是有一定的困難。<Highlight>ObjectParameter(1)</Highlight>自己也要盡最大的努力……"
 4,"TEXT_GAIUSB608_00890_SEQ_04",""
 5,"TEXT_GAIUSB608_00890_SEQ_05",""
 6,"TEXT_GAIUSB608_00890_SEQ_06",""
@@ -101,15 +101,15 @@ int32,str,str
 美麗的<Sheet(Race,PlayerParameter(71),0)/>啊，有什麼事就說吧！"
 70,"TEXT_GAIUSB608_00890_HAURCHEFANT_000_062","這是弗朗塞爾的……
 被懷疑是異端者，還以為他會有什麼請求呢，
-想不到居然是「請協助 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 」啊。"
+想不到居然是「請協助<Highlight>ObjectParameter(1)</Highlight>」啊。"
 71,"TEXT_GAIUSB608_00890_HAURCHEFANT_000_063","那我更是沒有拒絕的理由啊。
 雖然我很擔心他，
 但還是先聽聽你的事情吧。"
 72,"TEXT_GAIUSB608_00890_HAURCHEFANT_000_064","飛空艇企業號……並且是靈災之前的事情啊。
-……伊修加爾德在那個時期也是極其混亂。
+……伊修加德在那個時期也是極其混亂。
 尋找目擊者的話大概也會很費工夫。"
 73,"TEXT_GAIUSB608_00890_HAURCHEFANT_000_065","當然，我會盡全力來幫助你的。
-但是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你的力量也是不可或缺的。
+但是<Highlight>ObjectParameter(1)</Highlight>，你的力量也是不可或缺的。
 就讓我好好見識見識你的力量吧！"
 74,"TEXT_GAIUSB608_00890_HAURCHEFANT_000_066","你一路走來也辛苦了。
 以好友和福爾唐家的名義起誓，

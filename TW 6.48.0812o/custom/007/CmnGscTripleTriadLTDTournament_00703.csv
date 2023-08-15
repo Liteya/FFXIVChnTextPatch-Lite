@@ -17,14 +17,14 @@ int32,str,str
 正在舉辦中的錦標賽使用基本規則。
 對局規則僅設有「選拔」一項。
 
-透過數字的大小與配置方式等簡單要素來角逐勝負，
+通過數字的大小與配置方式等簡單要素來角逐勝負，
 可以體驗到九宮幻卡最基本的玩法。
 "
 9,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_105","要參加官方錦標賽嗎？
 
 正在舉辦中的錦標賽使用進階規則。
 對局規則除了「選拔」之外還將使用以下規則：
-．<Sheet(TripleTriadRule,IntegerParameter(1),0)/>
+·<Sheet(TripleTriadRule,IntegerParameter(1),0)/>
 <If(GreaterThan(IntegerParameter(2),0))>·<Sheet(TripleTriadRule,IntegerParameter(2),0)/>
 <Else/></If><If(GreaterThan(IntegerParameter(3),0))>·<Sheet(TripleTriadRule,IntegerParameter(3),0)/>
 <Else/></If><If(GreaterThan(IntegerParameter(4),0))>·<Sheet(TripleTriadRule,IntegerParameter(4),0)/><Else/></If>"

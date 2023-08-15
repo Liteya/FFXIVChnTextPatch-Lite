@@ -52,16 +52,16 @@ int32,str,str
 45,"TEXT_CLSTHM250_00352_TODO_21",""
 46,"TEXT_CLSTHM250_00352_TODO_22",""
 47,"TEXT_CLSTHM250_00352_TODO_23",""
-48,"TEXT_CLSTHM250_00352_SCENE00020_INSTANCE_BATTLE_YESNO_TITLE","クエスト「呪術クエスト250」のバトルを開始しますか？"
+48,"TEXT_CLSTHM250_00352_SCENE00020_INSTANCE_BATTLE_YESNO_TITLE","要開始「呪術クエスト250」的戰鬥嗎？"
 49,"TEXT_CLSTHM250_00352_SCENE00020_INSTANCE_BATTLE_YESNO_YES","是"
 50,"TEXT_CLSTHM250_00352_SCENE00020_INSTANCE_BATTLE_YESNO_NO","否"
-51,"TEXT_CLSTHM250_00352_COCOBYGO_000_1"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你也應該知道可可布希的事情吧。
+51,"TEXT_CLSTHM250_00352_COCOBYGO_000_1","<Highlight>ObjectParameter(1)</Highlight>，你也應該知道可可布希的事情吧。
 可、可可布奇哥哥已經告訴我們了。
-現在必須儘快找到可可布希……並抓住他……"
+現在必須盡快找到可可布希……並抓住他……"
 52,"TEXT_CLSTHM250_00352_COCOBYGO_000_3","但、但是哥哥他現在很煩惱……
 這對於一直沉著、冷靜的哥哥來說是很反常的，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……請你去他那裡看看吧。"
-53,"TEXT_CLSTHM250_00352_COCOBUKI_000_10"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+<Highlight>ObjectParameter(1)</Highlight>……請你去他那裡看看吧。"
+53,"TEXT_CLSTHM250_00352_COCOBUKI_000_10","<Highlight>ObjectParameter(1)</Highlight>……
 我從那開始就一直很煩惱。
 我在想如何才能拯救可可布希……"
 54,"TEXT_CLSTHM250_00352_COCOBUKI_000_11","我不能對外人說這件事情。
@@ -74,14 +74,14 @@ int32,str,str
 57,"TEXT_CLSTHM250_00352_AKUMAA_000_20","你想要妖異「茉門」的研究論文？
 哈哈哈，可以啊，不過你的興趣還真獨特啊。"
 58,"TEXT_CLSTHM250_00352_AKUMAA_000_21","我執筆的是«茉門論：第一章»。
-上面記載著我們是如何瞭解到茉門的。
+上面記載著我們是如何了解到茉門的。
 封印著茉門的壺相當危險啊。"
 59,"TEXT_CLSTHM250_00352_AKUMAA_000_200","«茉門論：第一章»可是相當耐人尋味啊！
 你能對妖異感興趣，作為研究者的我也感到很高興。"
 60,"TEXT_CLSTHM250_00352_AKUMAB_000_32","你對妖異「茉門」很感興趣嘛，那我就教教你吧。
 妖異是來自虛無界的魔物，
-它們透過一種「孔洞」才能來到這邊的世界。"
-61,"TEXT_CLSTHM250_00352_AKUMAB_000_34","不過呢，像茉門那種強大的妖異無法透過窄小的孔洞。
+它們通過一種「孔洞」才能來到這邊的世界。"
+61,"TEXT_CLSTHM250_00352_AKUMAB_000_34","不過呢，像茉門那種強大的妖異無法通過窄小的孔洞。
 但它可以讓靈魂來到這邊的世界，再依附於屍體上進行活動。
 你好好看看«茉門論：第二章»就會明白了。"
 62,"TEXT_CLSTHM250_00352_AKUMAB_000_205","啊，研究考查結束了，
@@ -120,11 +120,11 @@ int32,str,str
 要是有記載解決方法就好了……"
 75,"TEXT_CLSTHM250_00352_COCOBYGO_000_71","哥、哥哥……
 茉、茉門論文集上盡寫著令人絕望的東西。
-我想……一定要儘早下決定了。"
+我想……必須要盡早下決定了。"
 76,"TEXT_CLSTHM250_00352_COCOBUKI_000_72","……雖然很難辦到，但現在還有一個可以拯救所有人的辦法。
 嘿嘿嘿……不過如果失手了，到時將會出現眾多犧牲者。"
 77,"TEXT_CLSTHM250_00352_COCOBANI_000_73","什、什麼！這可不像哥哥的作風啊！
-瞭解危機，從而降低戰鬥的風險！
+了解危機，從而降低戰鬥的風險！
 這才是咒術師們的戰鬥方式吧？！"
 78,"TEXT_CLSTHM250_00352_COCOBEZI_000_74","過不了多久，茉門便將恢復魔力……
 兄長……應該趁敵人還未壯大之前將其消滅……"
@@ -137,37 +137,37 @@ int32,str,str
 而且那樣的話，茉門就完全復活了啊！"
 82,"TEXT_CLSTHM250_00352_COCOBUKI_000_80","我的魔力量很大，有可能免於一死。
 完全復活的茉門……
-就由你們和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 聯合起來打倒。"
+就由你們和<Highlight>ObjectParameter(1)</Highlight>聯合起來打倒。"
 83,"TEXT_CLSTHM250_00352_COCOBOHA_000_81","啊哈哈……怎麼可能辦得到，那可是傳說中的妖異……
 而且，我們從未和沒有勝算的敵人戰鬥過……"
 84,"TEXT_CLSTHM250_00352_COCOBUKI_000_82","……那是我的錯。
 我教你們避免危險的技巧，指導你們巧妙戰勝敵人的方法。
 卻沒有告訴你們挑戰強敵的勇氣……"
-85,"TEXT_CLSTHM250_00352_COCOBUKI_000_83"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有件事要拜託你。
+85,"TEXT_CLSTHM250_00352_COCOBUKI_000_83","<Highlight>ObjectParameter(1)</Highlight>，我有件事要拜託你。
 請你去挑戰「咒術的深淵：隱藏篇章」，
 在弟弟們面前展現出你的勇氣。"
-86,"TEXT_CLSTHM250_00352_COCOBYGO_000_84","什、什麼！這太為難 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 了！
+86,"TEXT_CLSTHM250_00352_COCOBYGO_000_84","什、什麼！這太為難<Highlight>ObjectParameter(1)</Highlight>了！
 那個試煉連我們都沒挑戰過……"
-87,"TEXT_CLSTHM250_00352_COCOBUKI_000_85"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 和你們都已經擁有足夠強大的力量了。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，等你下定決心挑戰隱藏篇章的試煉時，
+87,"TEXT_CLSTHM250_00352_COCOBUKI_000_85","<Highlight>ObjectParameter(1)</Highlight>和你們都已經擁有足夠強大的力量了。
+<Highlight>ObjectParameter(1)</Highlight>，等你下定決心挑戰隱藏篇章的試煉時，
 請到札爾神祠來，屆時我會詳細跟你說明……"
 88,"TEXT_CLSTHM250_00352_COCOBUKI_000_90","很抱歉將你捲入這次的事件。
 但是，你曾多次戰勝恐懼，
-我相信你一定能透過試煉……"
+我相信你一定能通過試煉……"
 89,"TEXT_CLSTHM250_00352_COCOBUKI_000_91","「咒術的深淵：隱藏篇章」是考驗咒術師綜合實力的試煉。
 請你在戰鬥中尋找勝利之路。"
 90,"TEXT_CLSTHM250_00352_COCOBUKI_000_93","那麼開始挑戰「咒術的深淵：隱藏篇章」吧……"
-91,"TEXT_CLSTHM250_00352_SCENE00015_INSTANCE_BATTLE_YESNO_TITLE","クエスト「呪術クエスト250」のバトルを開始しますか？"
+91,"TEXT_CLSTHM250_00352_SCENE00015_INSTANCE_BATTLE_YESNO_TITLE","要開始「呪術クエスト250」的戰鬥嗎？"
 92,"TEXT_CLSTHM250_00352_SCENE00015_INSTANCE_BATTLE_YESNO_YES","是"
 93,"TEXT_CLSTHM250_00352_SCENE00015_INSTANCE_BATTLE_YESNO_NO","否"
-94,"TEXT_CLSTHM250_00352_COCOBYGO_000_110"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……你別太為難自己啊……"
-95,"TEXT_CLSTHM250_00352_COCOBANI_000_111"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，逃跑也無妨的。
+94,"TEXT_CLSTHM250_00352_COCOBYGO_000_110","<Highlight>ObjectParameter(1)</Highlight>……你別太為難自己啊……"
+95,"TEXT_CLSTHM250_00352_COCOBANI_000_111","<Highlight>ObjectParameter(1)</Highlight>啊，逃跑也無妨的。
 我們已經很欣賞你了！"
 96,"TEXT_CLSTHM250_00352_COCOBEZI_000_112","隱藏篇章，連我們都未達成。
 獲勝的機率不大呢……"
 97,"TEXT_CLSTHM250_00352_COCOBOHA_000_113","你真的要挑戰隱藏篇章嗎？
 ……為什麼你不害怕呢？"
-98,"TEXT_CLSTHM250_00352_COCOBYGO_000_120"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+98,"TEXT_CLSTHM250_00352_COCOBYGO_000_120","<Highlight>ObjectParameter(1)</Highlight>……
 竟、竟然真的突破了隱藏篇章的試煉了？！"
 99,"TEXT_CLSTHM250_00352_COCOBUKI_000_121","弟弟們……你們看到了吧……
 咒術可以戰勝一切危機，
@@ -175,36 +175,36 @@ int32,str,str
 100,"TEXT_CLSTHM250_00352_COCOBANI_000_123","我們也要去救可可布希。
 使用咒術，戰勝強敵！"
 101,"TEXT_CLSTHM250_00352_COCOBEZI_000_124","看來我們不只是膽小，而且還不夠成熟。
-竟然還要 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 教我們何為勇氣……"
-102,"TEXT_CLSTHM250_00352_COCOBOHA_000_125"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 通過了隱藏篇章的試煉。
+竟然還要<Highlight>ObjectParameter(1)</Highlight>教我們何為勇氣……"
+102,"TEXT_CLSTHM250_00352_COCOBOHA_000_125","<Highlight>ObjectParameter(1)</Highlight>通過了隱藏篇章的試煉。
 如果不展現出那樣的氣魄的話，
 我們也無法得到啟示呢。"
 103,"TEXT_CLSTHM250_00352_COCOBUKI_000_126","嘿嘿嘿……不愧是我的弟弟們……
 只要你們齊心協力，便可戰勝一切困難。"
-104,"TEXT_CLSTHM250_00352_COCOBUKI_000_127"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，多虧了你，我的弟弟們才能學會挑戰危機……
+104,"TEXT_CLSTHM250_00352_COCOBUKI_000_127","<Highlight>ObjectParameter(1)</Highlight>，多虧了你，我的弟弟們才能學會挑戰危機……
 我們先回公會一趟吧，想想之後的作戰對策。"
 105,"TEXT_CLSTHM250_00352_COCOBUKI_000_130","可可比格、可可巴尼、可可貝吉、可可博哈，
-還有 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ……
+還有<Highlight>ObjectParameter(1)</Highlight>……
 集結起你們的魔力，應該就能打敗茉門了。"
-106,"TEXT_CLSTHM250_00352_COCOBUKI_000_133"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，在此之前你要繼續努力鍛鍊，
+106,"TEXT_CLSTHM250_00352_COCOBUKI_000_133","<Highlight>ObjectParameter(1)</Highlight>，在此之前你要繼續努力鍛鍊，
 把勝利緊緊握在自己的手裡。"
 107,"TEXT_CLSTHM250_00352_COCOBUKI_000_134","你的進步也是我弟弟們的願望。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我很期待你的表現。"
+<Highlight>ObjectParameter(1)</Highlight>，我很期待你的表現。"
 108,"TEXT_CLSTHM250_00352_QIB_TODO_001","打倒「隱藏篇章」的試煉中出現的所有敵人！"
 109,"TEXT_CLSTHM250_00352_COCOBUKI_BATTLETALK_01","嘿嘿嘿……已經不能反悔了哦……"
 110,"TEXT_CLSTHM250_00352_COCOBUKI_BATTLETALK_02","虛降現世，暗翼亂舞！
 吮吸鮮血吧！虛無先鋒！"
 111,"TEXT_CLSTHM250_00352_COCOBYGO_BATTLETALK_03","這、這就是隱藏篇章的試煉！"
-112,"TEXT_CLSTHM250_00352_COCOBANI_BATTLETALK_04"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！別、別太為難自己了啊！"
+112,"TEXT_CLSTHM250_00352_COCOBANI_BATTLETALK_04","<Highlight>ObjectParameter(1)</Highlight>！別、別太為難自己了啊！"
 113,"TEXT_CLSTHM250_00352_COCOBUKI_BATTLETALK_05","隱藏篇章的試煉不僅如此……
 接下來要呼喚新的危機了……"
 114,"TEXT_CLSTHM250_00352_COCOBUKI_BATTLETALK_06","虛降現世，絞織深淵的汙濁！
 腐化一切吧！虛無遺恨！"
 115,"TEXT_CLSTHM250_00352_COCOBEZI_BATTLETALK_07","沾上虛無遺恨的靜寂液後，魔法將會被封印。
-不儘快將其解決的話，你將在沉默中滅亡！"
+不盡快將其解決的話，你將在沉默中滅亡！"
 116,"TEXT_CLSTHM250_00352_COCOBUKI_BATTLETALK_08","嘿嘿嘿，很好，幹得漂亮……
 接下來是最後一關了……稍有大意，便會一命嗚呼……"
 117,"TEXT_CLSTHM250_00352_COCOBUKI_BATTLETALK_09","虛降現世，蠅王將至！
 侵蝕生者吧！虛無蠅王！"
-118,"TEXT_CLSTHM250_00352_COCOBOHA_BATTLETALK_10","……加、加油！ <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+118,"TEXT_CLSTHM250_00352_COCOBOHA_BATTLETALK_10","……加、加油！<Highlight>ObjectParameter(1)</Highlight>！
 冷靜觀察敵人的動作，便可避開對方的電擊！"

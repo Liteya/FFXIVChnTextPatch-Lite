@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_LUCKZB005_03383_SEQ_21",""
 22,"TEXT_LUCKZB005_03383_SEQ_22",""
 23,"TEXT_LUCKZB005_03383_SEQ_23",""
-24,"TEXT_LUCKZB005_03383_TODO_00","從<Sheet(BNpcName,8502,0)/>身上獲得<Sheet(EventItem,2002851,0)/>"
+24,"TEXT_LUCKZB005_03383_TODO_00","從<Sheet(BNpcName,8502,0)/>身上獲取<Sheet(EventItem,2002851,0)/>"
 25,"TEXT_LUCKZB005_03383_TODO_01","將<Sheet(EventItem,2002851,0)/>交給水晶都的達克斯"
 26,"TEXT_LUCKZB005_03383_TODO_02",""
 27,"TEXT_LUCKZB005_03383_TODO_03",""
@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_LUCKZB005_03383_TODO_21",""
 46,"TEXT_LUCKZB005_03383_TODO_22",""
 47,"TEXT_LUCKZB005_03383_TODO_23",""
-48,"TEXT_LUCKZB005_03383_BJORN_000_000","哦，這不是 <Highlight>ObjectParameter(1)</Highlight> 嗎！
+48,"TEXT_LUCKZB005_03383_BJORN_000_000","哦，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 聽說你在水灘村做了不少工作。
 其實我也有點事想讓你幫忙。"
 49,"TEXT_LUCKZB005_03383_BJORN_000_001","新兵們被你的活躍表現所鼓舞，
@@ -61,14 +61,14 @@ int32,str,str
 在速度上跟他們進行一次競賽……你看怎麼樣？"
 51,"TEXT_LUCKZB005_03383_BJORN_000_003","哦，你能幫忙那真是太好了！
 那就去迷途羊倌之森打倒<Sheet(BNpcName,8502,0)/>，
-獲得<Sheet(EventItem,2002851,0)/>吧。"
-52,"TEXT_LUCKZB005_03383_BJORN_100_003","請平安獲得<Sheet(EventItem,2002851,0)/>，
+獲取<Sheet(EventItem,2002851,0)/>吧。"
+52,"TEXT_LUCKZB005_03383_BJORN_100_003","請平安獲取<Sheet(EventItem,2002851,0)/>，
 然後交給水晶都的達克斯吧！
 拜託你了！"
-53,"TEXT_LUCKZB005_03383_BJORN_000_004","請平安獲得<Sheet(EventItem,2002851,0)/>，
+53,"TEXT_LUCKZB005_03383_BJORN_000_004","請平安獲取<Sheet(EventItem,2002851,0)/>，
 然後交給水晶都的達克斯吧！
 拜託你了！"
-54,"TEXT_LUCKZB005_03383_DAWKES_000_010","嗯，你是 <Highlight>ObjectParameter(1)</Highlight> 嗎？
+54,"TEXT_LUCKZB005_03383_DAWKES_000_010","嗯，你是<Highlight>ObjectParameter(1)</Highlight>嗎？
 拿到<Sheet(EventItem,2002851,0)/>了嗎？"
 55,"TEXT_LUCKZB005_03383_DAWKES_000_011","嗯，就是這個！你果然是最快的啊。
 新兵們士氣高昂是很好，但僅憑士氣貿然行事，

@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSC509_00997_SEQ_00","喪靈鐘的冒險者阿加恩博爾德想要測試下 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的實力。"
-1,"TEXT_GAIUSC509_00997_SEQ_01","要在喪靈鐘進行冒險活動的話，需要透過某個儀式。前往喪靈鐘西邊的糾纏沼澤林，討伐3隻<Sheet(BNpcName,237,0)/>。"
+0,"TEXT_GAIUSC509_00997_SEQ_00","喪靈鐘的冒險者阿加恩博爾德想要測試下<Highlight>ObjectParameter(1)</Highlight>的實力。"
+1,"TEXT_GAIUSC509_00997_SEQ_01","要在喪靈鐘進行冒險活動的話，需要通過某個儀式。前往喪靈鐘西邊的糾纏沼澤林，討伐3隻<Sheet(BNpcName,237,0)/>。"
 2,"TEXT_GAIUSC509_00997_SEQ_02","成功討伐了<Sheet(BNpcName,237,0)/>。返回喪靈鐘，向阿加恩博爾德報告。"
 3,"TEXT_GAIUSC509_00997_SEQ_03","下一個對手據說是喪靈鐘冒險者們的宿敵。在<Sheet(EObj,2002213,0)/>等待，討伐隨之出現的<Sheet(BNpcName,2007,0)/>。"
 4,"TEXT_GAIUSC509_00997_SEQ_04","成功討伐了<Sheet(BNpcName,2007,0)/>。返回喪靈鐘，向阿加恩博爾德報告。"

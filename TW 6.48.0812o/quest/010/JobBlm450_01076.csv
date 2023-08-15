@@ -1,12 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_JOBBLM450_01076_SEQ_00","紫紅瀑布的卡扎古．春，有事情想告訴冒險者。"
-1,"TEXT_JOBBLM450_01076_SEQ_01","接受了卡扎古．春的委託。前往南部林區的兀爾德恩惠地，調查<Sheet(EObj,2002433,0)/>。"
+0,"TEXT_JOBBLM450_01076_SEQ_00","紫紅瀑布的卡扎古·春，有事情想告訴冒險者。"
+1,"TEXT_JOBBLM450_01076_SEQ_01","接受了卡扎古·春的委託。前往南部林區的兀爾德恩惠地，調查<Sheet(EObj,2002433,0)/>。"
 2,"TEXT_JOBBLM450_01076_SEQ_02","調查了石塔。在南部林區的兀爾德恩惠地，和第269團募緣修士韃札對話。"
-3,"TEXT_JOBBLM450_01076_SEQ_03","和第269團募緣修士韃札進行了交談。前往東薩納蘭的紫紅瀑布，和德佐爾．梅羅克對話。"
-4,"TEXT_JOBBLM450_01076_SEQ_04","和德佐爾．梅羅克行了交談。在東薩納蘭的紫紅瀑布，向卡扎古．春報告。"
-5,"TEXT_JOBBLM450_01076_SEQ_05","向卡扎古．春報告完畢。冒險者驅散了妖霧，消除了卡扎古．春的擔憂，他對冒險者的能力感到很滿意。"
+3,"TEXT_JOBBLM450_01076_SEQ_03","和第269團募緣修士韃札進行了交談。前往東薩納蘭的紫紅瀑布，和德佐爾·梅羅克對話。"
+4,"TEXT_JOBBLM450_01076_SEQ_04","和德佐爾·梅羅克行了交談。在東薩納蘭的紫紅瀑布，向卡扎古·春報告。"
+5,"TEXT_JOBBLM450_01076_SEQ_05","向卡扎古·春報告完畢。冒險者驅散了妖霧，消除了卡扎古·春的擔憂，他對冒險者的能力感到很滿意。"
 6,"TEXT_JOBBLM450_01076_SEQ_06",""
 7,"TEXT_JOBBLM450_01076_SEQ_07",""
 8,"TEXT_JOBBLM450_01076_SEQ_08",""
@@ -27,8 +27,8 @@ int32,str,str
 23,"TEXT_JOBBLM450_01076_SEQ_23",""
 24,"TEXT_JOBBLM450_01076_TODO_00","調查兀爾德恩惠地的<Sheet(EObj,2002433,0)/>"
 25,"TEXT_JOBBLM450_01076_TODO_01","和第269團募緣修士韃札對話"
-26,"TEXT_JOBBLM450_01076_TODO_02","和紫紅瀑布的德佐爾．梅羅克對話"
-27,"TEXT_JOBBLM450_01076_TODO_03","向卡扎古．春報告"
+26,"TEXT_JOBBLM450_01076_TODO_02","和紫紅瀑布的德佐爾·梅羅克對話"
+27,"TEXT_JOBBLM450_01076_TODO_03","向卡扎古·春報告"
 28,"TEXT_JOBBLM450_01076_TODO_04",""
 29,"TEXT_JOBBLM450_01076_TODO_05",""
 30,"TEXT_JOBBLM450_01076_TODO_06",""
@@ -49,8 +49,8 @@ int32,str,str
 45,"TEXT_JOBBLM450_01076_TODO_21",""
 46,"TEXT_JOBBLM450_01076_TODO_22",""
 47,"TEXT_JOBBLM450_01076_TODO_23",""
-48,"TEXT_JOBBLM450_01076_KAZAGGCHAH_000_000","黑魔法師 <Highlight>ObjectParameter(1)</Highlight> 。
-德佐爾．梅羅克有話對你說。"
+48,"TEXT_JOBBLM450_01076_KAZAGGCHAH_000_000","黑魔法師<Highlight>ObjectParameter(1)</Highlight>。
+德佐爾·梅羅克有話對你說。"
 49,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_001","呦，黑魔法師。
 黑魔法是關閉虛無界之門的鑰匙……
 你現在練習得順利嗎？"
@@ -59,7 +59,7 @@ int32,str,str
 52,"TEXT_JOBBLM450_01076_A1_000_2","否"
 53,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_002","那就好……不過，你注意到沒？
 從你的魔力中，我可以感覺到一種奇怪的氣息。"
-54,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_003","哼……蠻厲害的嘛！
+54,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_003","哼……挺厲害的嘛！
 你也感覺到你的魔力中有一種奇怪的氣息了？！"
 55,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_004","那其實是從虛無界之門中滲透出來的妖霧！
 你的黑魔法覺醒了，所以虛無界的妖氣才會被你的魔力吸引過來！"
@@ -70,7 +70,7 @@ int32,str,str
 只要身為黑魔法師的你弄到下一把鑰匙，
 就可以驅散那些妖霧了！"
 58,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_007","至於方法嘛！
-就由我德佐爾．梅羅克大人來教你吧！
+就由我德佐爾·梅羅克大人來教你吧！
 咳咳，豎起耳朵聽好哦！
 "
 59,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_008","很久很久以前……
@@ -79,11 +79,11 @@ int32,str,str
 60,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_009","那個黑魔法師預料到黑魔法會被濫用，
 就對黑魔法施加了咒文，封印了起來，
 只對他自己承認的人開放。"
-61,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_010","黑魔法散落在艾奧傑亞各地，
+61,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_010","黑魔法散落在艾歐澤亞各地，
 幾乎被人們所遺忘。但有一個黑魔法，
 至今仍刻在黑衣森林深處的<Sheet(EObj,2002433,0)/>上。"
 62,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_011","那個黑魔法正是驅散妖霧的新鑰匙！
-當揹負使命的黑魔法師，被「證明」指引而來的時候，
+當背負使命的黑魔法師，被「證明」指引而來的時候，
 封印在咒文中的黑魔法將會解封！"
 63,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_012","……這是只有我們一族才知道的秘密。
 是我曾祖母告訴我的，她是位非常了不起的術士。"
@@ -101,16 +101,16 @@ int32,str,str
 在那裡的石塔附近，有凶暴的魔物在四處遊蕩……"
 69,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_018","所以呢……
 喂！韃札！"
-70,"TEXT_JOBBLM450_01076_DAZA_000_019","是叫 我來 幫助 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 的吧？"
+70,"TEXT_JOBBLM450_01076_DAZA_000_019","是叫 我來 幫助<Highlight>ObjectParameter(1)</Highlight>的吧？"
 71,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_020","是的！
 因為我無法進入森林，
-所以就拜託你照顧下 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 了！"
+所以就拜託你照顧下<Highlight>ObjectParameter(1)</Highlight>了！"
 72,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_021","這樣你也能放心了吧！
 好了，快出發吧！"
 73,"TEXT_JOBBLM450_01076_SYSTEM_000_030","佇立著長滿苔蘚的石碑。"
-74,"TEXT_JOBBLM450_01076_SYSTEM_000_031","在 <Highlight>ObjectParameter(1)</Highlight> 持有的<Sheet(Item,　4548,0)/>的光輝照耀下，
+74,"TEXT_JOBBLM450_01076_SYSTEM_000_031","在<Highlight>ObjectParameter(1)</Highlight>持有的<Sheet(Item,　4548,0)/>的光輝照耀下，
 石塔上漸漸浮現出了文字。"
-75,"TEXT_JOBBLM450_01076_SEKIHI_000_032","(-？？？？-)我將透過古代魔石，傳授你新的黑魔法……
+75,"TEXT_JOBBLM450_01076_SEKIHI_000_032","(-？？？？-)我將通過古代魔石，傳授你新的黑魔法……
 不過，在此之前你必須完成試煉。
 蠱惑你的邪惡妖霧，即將在此顯現。"
 76,"TEXT_JOBBLM450_01076_SEKIHI_100_032","(-？？？？-)用你的黑魔法斷絕妖氣的蠱惑後，
@@ -119,29 +119,29 @@ int32,str,str
 77,"TEXT_JOBBLM450_01076_DAZA_000_040","嗯？
 感覺 妖霧 真的 變濃了？
 壞傢伙 要出現了！"
-78,"TEXT_JOBBLM450_01076_DAZA_000_050","成功啦 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！
+78,"TEXT_JOBBLM450_01076_DAZA_000_050","成功啦 <Highlight>ObjectParameter(1)</Highlight>！
 成功驅散 妖霧了！ 好厲害！"
-79,"TEXT_JOBBLM450_01076_DAZA_000_051","那我們 回到 德佐爾．梅羅克 那裡吧？
+79,"TEXT_JOBBLM450_01076_DAZA_000_051","那我們 回到 德佐爾·梅羅克 那裡吧？
 回到 紫紅瀑布！"
 80,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_060","成功了啊！
 你身上的妖霧已經完全消失了！
 現在沒什麼好擔心了！"
-81,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_061","好了，你也去和卡扎古．春打個招呼吧！
+81,"TEXT_JOBBLM450_01076_DOZOLMELOC_000_061","好了，你也去和卡扎古·春打個招呼吧！
 告訴他你回來了！"
 82,"TEXT_JOBBLM450_01076_KAZAGGCHAH_000_070","你回來啦，可喜可賀。
 看來你成功驅散妖霧了。
 應該也掌握新的黑魔法了吧！"
-83,"TEXT_JOBBLM450_01076_KAZAGGCHAH_000_071","黑魔法師 <Highlight>ObjectParameter(1)</Highlight> 啊。
+83,"TEXT_JOBBLM450_01076_KAZAGGCHAH_000_071","黑魔法師<Highlight>ObjectParameter(1)</Highlight>啊。
 等你熟練掌握那力量後，
 你的面前便會出現一條嶄新的道路。"
 84,"TEXT_JOBBLM450_01076_QIB_001_TODO_1","驅散妖霧！"
 85,"TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_01","妖霧中 會出現 妖異！
 快用 黑魔法 將其消滅！"
 86,"TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_02","感覺變得 危險 起來了。
-小心啊 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ！"
+小心啊 <Highlight>ObjectParameter(1)</Highlight>！"
 87,"TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_03","妖異的 數量 增加了！
 有點 顧不 過來了。"
 88,"TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_04","再 加把勁啊！
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 堅持住！"
+<Highlight>ObjectParameter(1)</Highlight> 堅持住！"
 89,"TEXT_JOBBLM450_01076_QIB_001_DAZA_BATTLETALK_05","被 幹掉了！
 對不起 接下來 交給你了。"

@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_SUBWIL140_00697_SEQ_00","拂曉血盟的奈德里克．艾恩哈特想要告訴冒險者他的秘藏情報。"
+0,"TEXT_SUBWIL140_00697_SEQ_00","拂曉血盟的奈德里克·艾恩哈特想要告訴冒險者他的秘藏情報。"
 1,"TEXT_SUBWIL140_00697_SEQ_01","奈德里克將東薩納蘭的日影地修練所介紹給了冒險者。和入口處恆輝隊的法法喬尼上等耀兵打聲招呼。"
 2,"TEXT_SUBWIL140_00697_SEQ_02","可以使用日影地修練所了。積極地挑戰這裡，磨練自己的本領！
 
-※可以透過任務搜尋器參加。"
+※可以通過任務搜尋器參加。"
 3,"TEXT_SUBWIL140_00697_SEQ_03",""
 4,"TEXT_SUBWIL140_00697_SEQ_04",""
 5,"TEXT_SUBWIL140_00697_SEQ_05",""
@@ -52,7 +52,7 @@ int32,str,str
 46,"TEXT_SUBWIL140_00697_TODO_22",""
 47,"TEXT_SUBWIL140_00697_TODO_23",""
 48,"TEXT_SUBWIL140_00697_NEDRICK_000_000","喲，<If(PlayerParameter(4))>小姐<Else/>先生</If>。
-我是奈德里克．艾恩哈特，是個探險家。"
+我是奈德里克·艾恩哈特，是個探險家。"
 49,"TEXT_SUBWIL140_00697_NEDRICK_000_001","<If(PlayerParameter(4))>小姐<Else/>先生</If>幹勁十足啊，
 我告訴你一個好地方吧。
 東薩納蘭的角落裡有個「日影地修練所」……"
@@ -75,6 +75,6 @@ int32,str,str
 56,"TEXT_SUBWIL140_00697_FAFAJONI_000_14","並且都是極其凶暴的傢伙！
 我們恆輝隊現在也對裡面束手無策。
 所以說你也趕緊……"
-57,"TEXT_SUBWIL140_00697_FAFAJONI_000_15","哎哎？你就是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ？
+57,"TEXT_SUBWIL140_00697_FAFAJONI_000_15","哎哎？你就是<Highlight>ObjectParameter(1)</Highlight>？
 我雖然知道你的來意……
 但是請一定注意不要變成送上門的新食物哦。"

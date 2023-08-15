@@ -5,13 +5,13 @@ int32,str,str
 憶念廣場的機靈的莫古艾克有事情想要拜託冒險者。"
 1,"TEXT_BANMOG101_02290_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
-莫古艾克委託冒險者製作用於訓練莫古利族工匠學徒的<Sheet(Item,15725,0)/>。為了獲得製作所需要的材料，和翻雲霧海贖罪天廊的管理員莫古昂談談。"
+莫古艾克委託冒險者製作用於訓練莫古力族工匠學徒的<Sheet(Item,15725,0)/>。為了獲得製作所需要的材料，和翻雲霧海贖罪天廊的管理員莫古昂談談。"
 2,"TEXT_BANMOG101_02290_SEQ_02","和莫古昂進行了交談，領取了<Sheet(Item,15751,0)/>。用<Sheet(Item,15751,0)/>製作<Sheet(Item,15725,0)/>，並將其交給贖罪天廊的採購員莫古珀。
 
 ※如果<Sheet(Item,15751,0)/>不足，可以與管理員莫古昂對話重新獲得材料，並再次進行挑戰。"
-3,"TEXT_BANMOG101_02290_SEQ_03","將<Sheet(Item,15725,0)/>交給了莫古珀，他又委託冒險者將<Sheet(EventItem,2001982,0)/>分配給莫古利族工匠學徒們。將<Sheet(EventItem,2001982,0)/>交給贖罪天廊的莫古利族工匠學徒們。"
-4,"TEXT_BANMOG101_02290_SEQ_04","將<Sheet(EventItem,2001982,0)/>交給了莫古利族工匠學徒們。向憶念廣場的機靈的莫古艾克報告。"
-5,"TEXT_BANMOG101_02290_SEQ_05","向莫古艾克報告完畢。等莫古利族工匠學徒們學好了技術，修復工作肯定會更加順利。"
+3,"TEXT_BANMOG101_02290_SEQ_03","將<Sheet(Item,15725,0)/>交給了莫古珀，他又委託冒險者將<Sheet(EventItem,2001982,0)/>分配給莫古力族工匠學徒們。將<Sheet(EventItem,2001982,0)/>交給贖罪天廊的莫古力族工匠學徒們。"
+4,"TEXT_BANMOG101_02290_SEQ_04","將<Sheet(EventItem,2001982,0)/>交給了莫古力族工匠學徒們。向憶念廣場的機靈的莫古艾克報告。"
+5,"TEXT_BANMOG101_02290_SEQ_05","向莫古艾克報告完畢。等莫古力族工匠學徒們學好了技術，修復工作肯定會更加順利。"
 6,"TEXT_BANMOG101_02290_SEQ_06",""
 7,"TEXT_BANMOG101_02290_SEQ_07",""
 8,"TEXT_BANMOG101_02290_SEQ_08",""
@@ -32,7 +32,7 @@ int32,str,str
 23,"TEXT_BANMOG101_02290_SEQ_23",""
 24,"TEXT_BANMOG101_02290_TODO_00","和管理員莫古昂對話"
 25,"TEXT_BANMOG101_02290_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,15725,0)/><Else/>將<Sheet(Item,15725,0)/>交給採購員莫古珀</If>"
-26,"TEXT_BANMOG101_02290_TODO_02","將<Sheet(EventItem,2001982,0)/>交給莫古利族工匠學徒"
+26,"TEXT_BANMOG101_02290_TODO_02","將<Sheet(EventItem,2001982,0)/>交給莫古力族工匠學徒"
 27,"TEXT_BANMOG101_02290_TODO_03","向機靈的莫古艾克報告"
 28,"TEXT_BANMOG101_02290_TODO_04",""
 29,"TEXT_BANMOG101_02290_TODO_05",""
@@ -66,7 +66,7 @@ int32,str,str
 51,"TEXT_BANMOG101_02290_MOGEK_000_003","據修復團裡最聰明的莫古分析，
 莫古們現在最需要學習的技術是塗裝技術庫啵。
 所以需要一些塗料和保護劑用來訓練庫啵。"
-52,"TEXT_BANMOG101_02290_MOGEK_000_004","製作所必要的材料，
+52,"TEXT_BANMOG101_02290_MOGEK_000_004","製作所必須的材料，
 可以去贖罪天廊的莫古昂那裡拿到庫啵。
 那麼就拜託你了庫啵。"
 53,"TEXT_BANMOG101_02290_MOGWON_000_010","莫古已經從莫古艾克那裡聽說了庫啵。

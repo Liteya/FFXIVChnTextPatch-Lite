@@ -46,7 +46,7 @@ int32,str,str
 選擇「提取記憶」就可以得到相應的「文理技能」。"
 18,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_130_034","獲得的「文理技能」會顯示在介面上，
 最多能夠保存3組。"
-19,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_034","另外，可以透過德雷克確認已獲得的「文理技能」，
+19,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_034","另外，可以通過德雷克確認已獲得的「文理技能」，
 或是聽取更為詳細的說明。
 如果有問題的話，請找他詢問。"
 20,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_KRILE_000_035","哎呀，你們兩個已經談完了嗎？"
@@ -103,8 +103,8 @@ int32,str,str
 你去找她談談吧。"
 41,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_100","啊，冒險者。
 感謝你使用文理融合器。
-多虧了你，研究所需要的資料總算收集齊了！"
-42,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_101","我跟師父大人一起利用這些資料進行了研究。
+多虧了你，研究所需要的數據總算收集齊了！"
+42,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_101","我跟師父大人一起利用這些數據進行了研究。
 我想差不多也該弄出什麼成果了……"
 43,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_102","喲，你也在啊。
 正好我這邊的研究有了些進展。
@@ -120,7 +120,7 @@ int32,str,str
 47,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_110","冒險者，非常感謝你的幫忙。
 多虧了你使用文理融合器，
 使得我們的研究有了很大的進展！"
-48,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_111","資料也收集得差不多了，
+48,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_111","數據也收集得差不多了，
 我想差不多又能為你展現新的研究成果了……"
 49,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_112","喲，原來你也在啊。
 正好研究有了新的進展。
@@ -139,7 +139,7 @@ int32,str,str
 研究終於快要完成了！"
 54,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_121","我想差不多應該能確立完美的記憶嵌寫方法了……"
 55,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_122","什麼啊，你怎麼又在這啊。
-每次我出來的時候你都像是看準了時機一樣，在跟德雷克聊著啊。
+每次我出來的時候你都像是瞅準了時機一樣，在跟德雷克聊著啊。
 所謂的優秀的冒險者是不會錯過這種場合的是吧。"
 56,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_123","你也察覺到了吧，我們的研究總算完成了。
 雖說是請可露兒小姐幫了一下忙才得以確立了非常完美的提取方法。
@@ -163,7 +163,7 @@ int32,str,str
 64,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_132","我過來是想告訴德雷克研究成果的，
 不過跟我猜的一樣，你果然也在這裡。
 真是省得我去找你了。"
-65,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_133","我這次研究出了將武器強化理論運用到防具上的方法，
+65,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_133","我這回研究出了將武器強化理論運用到防具上的方法，
 也就是可以用湧火地帶的素材製作防具了。"
 66,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_134","不過光是強化武器就夠我忙的了。
 我只負責設計，之後製作的事情就交給調查隊的工匠了。
@@ -180,7 +180,7 @@ int32,str,str
 72,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_003","詢問有關文理融合器"
 73,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_004","對話"
 74,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A1_000_005","取消"
-75,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_Q2_000_000","想瞭解什麼？"
+75,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_Q2_000_000","想了解什麼？"
 76,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_001","關於文理融合器"
 77,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_002","關於未鑑定的文理碎晶"
 78,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_A2_000_003","關於文理碎晶的鑑定"
@@ -204,17 +204,17 @@ int32,str,str
 88,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_520","如果你在探索中發現了「文理碎晶」的話，
 請先交給我看看。
 我會為你鑑定出碎晶中寄宿著什麼樣的記憶。"
-89,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_521","透過「鑑定文理碎晶」
+89,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_521","通過「鑑定文理碎晶」
 可以辨別出「未鑑定的文理碎晶」中寄宿的記憶的種類。
 只有經過鑑定的文理碎晶才可以放入「文理融合器」。"
 90,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_522","另外，經過鑑定的「文理碎晶」
-可以透過介面上顯示的「魔素板」進行確認。"
+可以通過介面上顯示的「魔素板」進行確認。"
 91,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_523","經過鑑定的「文理碎晶」每種的持有上限為200個。
 當持有數量超過200個時，超出的部分將會被自動捨棄。"
 92,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_530","提取記憶什麼的，師父大人的想法真的是很厲害啊。
 說實在的，我最初聽他說起這個的時候，
-都懷疑行得通嗎。"
-93,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_531","透過「提取記憶」可以從設定的「文理碎晶」中
+都懷疑能不能行得通。"
+93,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_531","通過「提取記憶」可以從設定的「文理碎晶」中
 獲得相應的「文理技能」。"
 94,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_531","另外，分別在「星極融合器」和「靈極融合器」設定文理碎晶，
 進行「提取記憶」後，可以獲得擁有2種技能的「文理技能」。"

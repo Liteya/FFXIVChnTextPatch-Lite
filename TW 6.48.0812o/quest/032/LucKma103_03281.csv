@@ -59,7 +59,7 @@ int32,str,str
 你只要和衛兵團的守衛說一聲就可以進去了。"
 52,"TEXT_LUCKMA103_03281_Q1_000_002","如何作答？"
 53,"TEXT_LUCKMA103_03281_A1_000_003","……裡面可以進去了嗎？"
-54,"TEXT_LUCKMA103_03281_A1_000_004","你該不會是古．拉哈．提亞吧？"
+54,"TEXT_LUCKMA103_03281_A1_000_004","你該不會是古·拉哈·提亞吧？"
 55,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_005","當然可以。
 我將塔召喚過來的時候，塔的門就是可以自由開關的。"
 56,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_006","我不清楚你所在的時代塔是什麼樣的狀態……
@@ -80,8 +80,8 @@ int32,str,str
 63,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_031","帶你去那邊的話會經過市場附近，
 不過以防萬一，還是再給你介紹一下好了。
 ……這邊請。"
-64,"TEXT_LUCKMA103_03281_SYSTEM_000_035","和菲奧．烏兒締結了契約，
-在第一世界也可以使用郵差莫古利、
+64,"TEXT_LUCKMA103_03281_SYSTEM_000_035","和菲奧·烏兒締結了契約，
+在第一世界也可以使用郵差莫古力、
 市場布告板和傳喚鈴了！"
 65,"TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_040","哦哦，難道你就是……"
 66,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_050","嗯，房間我已經確認過了。
@@ -90,13 +90,13 @@ int32,str,str
 67,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_051","管理人會帶你前往那裡，你就在那裡休息一下。
 準備好啟程之後，我們就在剛才的觀星室見。"
 68,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_052","那我就先回去了……"
-69,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_053","…… <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，
+69,"TEXT_LUCKMA103_03281_MYSTERYVOICE_000_053","……<Highlight>ObjectParameter(1)</Highlight>，
 非常感謝你來到這裡，
 即便夜晚不再降臨，也祝你能夠安眠。"
 70,"TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_060","你好，我就是懸掛公館的管理員。"
 71,"TEXT_LUCKMA103_03281_GUIDEOFTHEPENDANTS_000_061","房間已經準備好了，
 要現在去休息嗎？"
 72,"TEXT_LUCKMA103_03281_Q3_000_062","要進入起居室休息嗎？"
-73,"TEXT_LUCKMA103_03281_CRYSTALGATEKEEPER_000_070"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，水晶公已經交代過了！
+73,"TEXT_LUCKMA103_03281_CRYSTALGATEKEEPER_000_070","<Highlight>ObjectParameter(1)</Highlight>閣下，水晶公已經交代過了！
 請問要進入水晶塔嗎？"
 74,"TEXT_LUCKMA103_03281_Q4_000_071","要前往觀星室嗎？"

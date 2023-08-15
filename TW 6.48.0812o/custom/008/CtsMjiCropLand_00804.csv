@@ -41,7 +41,7 @@ int32,str,str
 假如澆水不及時，作物則會暫時停止生長。
 降雨天氣則視為作物已自動完成了澆水工作。"
 21,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_005","可以使用收穫模式收集長成的開拓作物，
-或使用鏟除模式處理不再需要的開拓作物。"
+或使用剷除模式處理不再需要的開拓作物。"
 22,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_010","（★未使用／削除予定★）"
 23,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_015","（★未使用／削除予定★）"
 24,"TEXT_CTSMJICROPLAND_00804_SYSTEM_100_000","要做什麼？"

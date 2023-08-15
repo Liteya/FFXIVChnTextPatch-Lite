@@ -63,14 +63,14 @@ int32,str,str
 マンダヴィルウェポンとなります。"
 49,"TEXT_CHRHDY301_04771_SYSTEM_000_001","『匠の酒宴』を、
 「<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>」で受けますか？"
-50,"TEXT_CHRHDY301_04771_Q4_000_001","要製作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的曼德維爾武器嗎？"
-51,"TEXT_CHRHDY301_04771_A4_000_002","再考慮一下"
-52,"TEXT_CHRHDY301_04771_A4_000_003","製作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的曼德維爾武器"
+50,"TEXT_CHRHDY301_04771_Q4_000_001","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>のマンダヴィルウェポンを作成しますか？"
+51,"TEXT_CHRHDY301_04771_A4_000_002","もう少し考える"
+52,"TEXT_CHRHDY301_04771_A4_000_003","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>のマンダヴィルウェポンを作成する"
 53,"TEXT_CHRHDY301_04771_SYSTEM_000_005","『匠の酒宴』を受注した場合、
 クエストを完了、あるいは破棄するまで、
 ほかのジョブで『匠の酒宴』を受注できません。"
-54,"TEXT_CHRHDY301_04771_SYSTEM_000_006","請切換成想製作曼德維爾武器的特職，
-再次與蓋羅爾特對話。"
+54,"TEXT_CHRHDY301_04771_SYSTEM_000_006","作成したいマンダヴィルウェポンに応じたジョブとなり、
+再度、ゲロルトに声をかけてください。"
 55,"TEXT_CHRHDY301_04771_SYSTEM_000_007","「<Sheet(Item,IntegerParameter(1),0)/>」および、
 「<Sheet(Item,IntegerParameter(2),0)/>」を所持、
 または装備していないと、『匠の酒宴』を受注できません。"
@@ -139,8 +139,8 @@ int32,str,str
 最高級のラザハン産蒸留酒をもらおう！"
 87,"TEXT_CHRHDY301_04771_GODBERT_000_202","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>殿は、
 お酒は飲まれますかな？"
-88,"TEXT_CHRHDY301_04771_Q1_000_000","要說什麼？"
-89,"TEXT_CHRHDY301_04771_A1_000_001","當然！"
+88,"TEXT_CHRHDY301_04771_Q1_000_000","何と言う？"
+89,"TEXT_CHRHDY301_04771_A1_000_001","もちろん！"
 90,"TEXT_CHRHDY301_04771_A1_000_002","付き合い程度なら……"
 91,"TEXT_CHRHDY301_04771_A1_000_003","酒は飲まない"
 92,"TEXT_CHRHDY301_04771_GODBERT_000_203","わかりました。
@@ -193,7 +193,7 @@ int32,str,str
 オレってヤツはよォ、ダメな職人ですまねェ～。"
 114,"TEXT_CHRHDY301_04771_GODBERT_000_225","フム、誰かと間違われているようですが……
 ここはどうか、あなたから返事してやってくだされ。"
-115,"TEXT_CHRHDY301_04771_Q2_000_000","要說什麼？"
+115,"TEXT_CHRHDY301_04771_Q2_000_000","何と言う？"
 116,"TEXT_CHRHDY301_04771_A2_000_001","ゲロルトは立派な職人だ"
 117,"TEXT_CHRHDY301_04771_A2_000_002","あんたは本当にダメなハゲよ！"
 118,"TEXT_CHRHDY301_04771_GEROLT_000_226","お、お前がそんなこと言ってくれるなんて……
@@ -237,10 +237,10 @@ int32,str,str
 使い手であるあなたの好みをお伝えくだされ。"
 134,"TEXT_CHRHDY301_04771_GODBERT_000_255","どのような能力をご希望するか、
 よく考えて決めることをお勧めしますぞ……。"
-135,"TEXT_CHRHDY301_04771_Q3_000_000","要做什麼？"
+135,"TEXT_CHRHDY301_04771_Q3_000_000","何をする？"
 136,"TEXT_CHRHDY301_04771_A3_000_001","「マンダヴィルウェポン」の能力を調整する"
-137,"TEXT_CHRHDY301_04771_A3_000_002","聽取說明"
-138,"TEXT_CHRHDY301_04771_A3_000_003","取消"
+137,"TEXT_CHRHDY301_04771_A3_000_002","説明を聞く"
+138,"TEXT_CHRHDY301_04771_A3_000_003","キャンセル"
 139,"TEXT_CHRHDY301_04771_SYSTEM_000_260","改良したマンダヴィルウェポンに、
 3種類のパラメータを選択して付与できます。
 その内のひとつは付与できる数値が低くなります。"
@@ -252,11 +252,12 @@ int32,str,str
 よく考えながら、パラメータを調整していきましょう。"
 142,"TEXT_CHRHDY301_04771_GODBERT_000_270","かしこまりました！
 それでは仕上げといきますぞ……！！"
-143,"TEXT_CHRHDY301_04771_GODBERT_000_280","武器製作完成了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下！"
+143,"TEXT_CHRHDY301_04771_GODBERT_000_280","完成しましたぞ、<Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>殿！"
 144,"TEXT_CHRHDY301_04771_GEROLT_000_281","ソイツがオレたちの職人魂の結晶、
 マンダヴィルウェポンのさらなる段階……"
-145,"TEXT_CHRHDY301_04771_GEROLT_000_282","<Sheet(Item,IntegerParameter(1),0)/>還有<Sheet(Item,IntegerParameter(2),0)/>！"
-146,"TEXT_CHRHDY301_04771_GEROLT_000_283","<Sheet(Item,IntegerParameter(1),0)/>！"
+145,"TEXT_CHRHDY301_04771_GEROLT_000_282","「<Sheet(Item,IntegerParameter(1),0)/>」、
+そして、「<Sheet(Item,IntegerParameter(2),0)/>」だ！"
+146,"TEXT_CHRHDY301_04771_GEROLT_000_283","「<Sheet(Item,IntegerParameter(1),0)/>」だ！"
 147,"TEXT_CHRHDY301_04771_GODBERT_000_284","見事、改良に成功しましたな！
 これも、ゲロルト殿と酒宴で打ち解けあった賜物ですぞ……！"
 148,"TEXT_CHRHDY301_04771_GEROLT_000_285","それが、ほとんど記憶がないンだが……

@@ -56,7 +56,7 @@ int32,str,str
 50,"TEXT_HEAVNA326_01627_MOGHAN_000_002","去西邊的天極白堊宮嗚嗚地吹響這個喇叭，
 就能見到聖龍大人了庫啵。
 那莫古就先回村子去了，再見庫啵！"
-51,"TEXT_HEAVNA326_01627_ALPHINAUD_000_003"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你休息得怎麼樣？
+51,"TEXT_HEAVNA326_01627_ALPHINAUD_000_003","<Highlight>ObjectParameter(1)</Highlight>，你休息得怎麼樣？
 就要到旅程的終點了，再努一把力吧。"
 52,"TEXT_HEAVNA326_01627_ESTINIEN_000_004","讓我們去見見傳說中的七大天龍之一吧。"
 53,"TEXT_HEAVNA326_01627_ICEHEART_000_005","與聖龍的談話一定要成功才行……
@@ -71,7 +71,7 @@ int32,str,str
 真不愧是七大天龍之一，
 竟然能直接用魔力來傳達自己的思想。"
 59,"TEXT_HEAVNA326_01627_ALPHINAUD_000_011","我們大老遠跑到雲海上來，
-雖說是瞭解到了新的真相，
+雖說是了解到了新的真相，
 但卻沒能獲得聖龍的幫助……"
 60,"TEXT_HEAVNA326_01627_ALPHINAUD_000_012","究竟該如何阻止邪龍尼德霍格……"
 61,"TEXT_HEAVNA326_01627_ESTINIEN_000_013","冰之巫女失敗了。

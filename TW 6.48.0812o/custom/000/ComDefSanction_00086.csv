@@ -9,12 +9,12 @@ int32,str,str
 4,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02","什麼是「神應」？"
 5,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03","取消"
 6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","偉大的工藝神比爾格啊……
-請將您的加護賜予 <Highlight>ObjectParameter(1)</Highlight> <Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch>閣下吧……"
+請將您的加護賜予<Highlight>ObjectParameter(1)</Highlight><Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch>閣下吧……"
 7,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012","好了，「神應」的賦予完成了！
 <Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch>閣下，
 願您今後能夠旗開得勝！"
 8,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016","神應是<Switch(IntegerParameter(1))><Case(1)>大國防聯軍「黑渦團」</Case><Case(2)>大國防聯軍「雙蛇黨」</Case><Case(3)>大國防聯軍「恆輝隊」</Case></Switch>
-與「艾奧傑亞城邦軍事同盟」的加盟城邦
+與「艾歐澤亞城邦軍事同盟」的加盟城邦
 共同開發出的裝備強化術。"
 9,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017","對在製造階段施加了「特殊魔法加工」的武器防具，
 附加一種強化魔法。

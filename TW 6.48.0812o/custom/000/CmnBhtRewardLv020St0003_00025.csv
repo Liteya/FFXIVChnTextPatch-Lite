@@ -20,7 +20,7 @@ int32,str,str
 公會令會結束並且全員返回。"
 13,"TEXT_CMNBHTREWARDLV020ST0003_00025_RET_FAIL_TALK_00","喂喂，你的背包已經裝滿了啊。"
 14,"TEXT_CMNBHTREWARDLV020ST0003_00025_RET_FAIL_SYSTEM_TALK_00","因為已經沒有辦法持有更多的道具了，
-所以不能獲得報酬。請在道具列表中
+所以不能獲取報酬。請在道具列表中
 整理出空白欄，再來報告。"
 15,"TEXT_CMNBHTREWARDLV020ST0003_00025_AFTER_RWD_TALK_00","正在發放任務的報酬。
 請等一下。"

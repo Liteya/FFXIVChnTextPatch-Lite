@@ -75,8 +75,8 @@ int32,str,str
 57,"TEXT_STMBDC102_03023_PAWNBROKER03023_100_029","嗯，您想看魯加族武士當的刀？
 哎呀，客人您消息可真靈通。
 請稍候，我這就去給您取。"
-58,"TEXT_STMBDC102_03023_ALPHINAUD_100_030"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，你找到招福當鋪了？"
-59,"TEXT_STMBDC102_03023_ALPHINAUD_101_030","真不愧是 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 。
+58,"TEXT_STMBDC102_03023_ALPHINAUD_100_030","<Highlight>ObjectParameter(1)</Highlight>，你找到招福當鋪了？"
+59,"TEXT_STMBDC102_03023_ALPHINAUD_101_030","真不愧是<Highlight>ObjectParameter(1)</Highlight>。
 這麼說來，這把刀就是……"
 60,"TEXT_STMBDC102_03023_YUGIRI_000_031","這……沒錯，這正是豪雪的愛刀！"
 61,"TEXT_STMBDC102_03023_PAWNBROKER03023_000_032","(-招福當鋪的掌櫃-)這刀相當不錯吧？
@@ -86,7 +86,7 @@ int32,str,str
 但由於暫時還沒有其他客人競爭出價，
 所以我可以稍稍給諸位打個折。不知諸位意下如何？"
 63,"TEXT_STMBDC102_03023_YUGIRI_000_034","唔——果然是要錢的嗎……
-不過這也是尋回武士大將所必要的開銷，應該狠下心來……
+不過這也是尋回武士大將所必須的開銷，應該狠下心來……
 可在下不經過請示就擅自花這麼多錢，真的沒問題嗎……"
 64,"TEXT_STMBDC102_03023_Q1_000_000","如何作答？"
 65,"TEXT_STMBDC102_03023_A1_000_001","我來付吧？"

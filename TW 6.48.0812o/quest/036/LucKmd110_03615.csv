@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKMD110_03615_SEQ_22",""
 23,"TEXT_LUCKMD110_03615_SEQ_23",""
 24,"TEXT_LUCKMD110_03615_TODO_00","和薩夫對話"
-25,"TEXT_LUCKMD110_03615_TODO_01","和于里昂熱對話"
+25,"TEXT_LUCKMD110_03615_TODO_01","和於里昂熱對話"
 26,"TEXT_LUCKMD110_03615_TODO_02","尋找桑克瑞德"
 27,"TEXT_LUCKMD110_03615_TODO_03",""
 28,"TEXT_LUCKMD110_03615_TODO_04",""
@@ -56,7 +56,7 @@ int32,str,str
 51,"TEXT_LUCKMD110_03615_RYNE_000_015","強硬地逼問也不是個好辦法……
 但要是能夠獲得前行的線索，我……"
 52,"TEXT_LUCKMD110_03615_URIANGER_000_020","我不會讓辛苦打通的魔力血管變成一場空的。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，感謝你的幫助。"
+<Highlight>ObjectParameter(1)</Highlight>，感謝你的幫助。"
 53,"TEXT_LUCKMD110_03615_JERYK_000_030","……塔羅斯的核心，
 需要使用比較容易沾染魔力的石頭……
 而且還必須與構成身體的石頭來源於同一開採地。"
@@ -77,8 +77,8 @@ int32,str,str
 抱歉了，礦車的事就……"
 62,"TEXT_LUCKMD110_03615_THAFFE_000_061","什麼？傑瑞克那傢伙跟你們說了？！
 真是的，要說就自己說完啊……"
-63,"TEXT_LUCKMD110_03615_THAFFE_000_062","哎，他應該是覺得，
-如果能透過你們改變一下現狀就好了吧。
+63,"TEXT_LUCKMD110_03615_THAFFE_000_062","哎，估計他是覺得，
+如果能通過你們改變一下現狀就好了吧。
 這一點我倒是也同意……"
 64,"TEXT_LUCKMD110_03615_THAFFE_000_063","……好吧，剩下的我來講。
 你去把你的同伴們都帶過來。"
@@ -106,7 +106,7 @@ int32,str,str
 我的前輩古斯約恩應該在那裡採礦，
 建議你們先去找他。"
 74,"TEXT_LUCKMD110_03615_URIANGER_000_096","感謝你的建議……"
-75,"TEXT_LUCKMD110_03615_URIANGER_000_097"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，我有事想拜託你。
+75,"TEXT_LUCKMD110_03615_URIANGER_000_097","<Highlight>ObjectParameter(1)</Highlight>，我有事想拜託你。
 ……你能去把這件事跟桑克瑞德說一聲，
 然後和他一起前往努貝依舊礦山嗎？"
 76,"TEXT_LUCKMD110_03615_URIANGER_000_098","不管他想怎麼辦……

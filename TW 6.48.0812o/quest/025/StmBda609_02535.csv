@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_STMBDA609_02535_SEQ_00","阿拉基利附近的梅．娜格看上去鬥志高昂。"
+0,"TEXT_STMBDA609_02535_SEQ_00","阿拉基利附近的梅·娜格看上去鬥志高昂。"
 1,"TEXT_STMBDA609_02535_SEQ_01",""
 2,"TEXT_STMBDA609_02535_SEQ_02",""
 3,"TEXT_STMBDA609_02535_SEQ_03",""
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_STMBDA609_02535_TODO_23",""
 48,"TEXT_STMBDA609_02535_RAUBAHN_000_001","嗯，怎麼就你自己來了？"
 49,"TEXT_STMBDA609_02535_PIPIN_000_005","目前為止的作戰還算順利。"
-50,"TEXT_STMBDA609_02535_CONRAD_000_010","梅．娜格有好好和家人聚一聚嗎？
+50,"TEXT_STMBDA609_02535_CONRAD_000_010","梅·娜格有好好和家人聚一聚嗎？
 有時候，戰士們也有必要脫離一下戰場。"
 51,"TEXT_STMBDA609_02535_SERPENTOFFICER_000_015","我接到了報告，聽說你打倒了阿難陀族召喚的蠻神。
 那個蠻神或許會對格里達尼亞造成巨大的威脅，
@@ -66,7 +66,7 @@ int32,str,str
 各位，我們這就過去吧！"
 57,"TEXT_STMBDA609_02535_RAUBAHN_000_050","這下子人都到齊了吧。
 那麼我們開始吧。"
-58,"TEXT_STMBDA609_02535_RAUBAHN_000_051","雖然有些意料之外，不過阿拉基利已經毫髮無傷得到解放。
+58,"TEXT_STMBDA609_02535_RAUBAHN_000_051","雖然有些意料之外，不過阿拉基利已經毫髮無損得到解放。
 這麼一來，我們接下來的目標就是攻下坐落在基拉巴尼亞山區中央的
 帝國軍據點——御制監望塔。"
 59,"TEXT_STMBDA609_02535_ALPHINAUD_000_052","不過真是有些詭異……
@@ -74,10 +74,10 @@ int32,str,str
 60,"TEXT_STMBDA609_02535_RAUBAHN_000_053","關於這一點，我們也覺得很可疑。
 不過我軍只有繼續前進這一條路。"
 61,"TEXT_STMBDA609_02535_RAUBAHN_000_054","監望塔再往東，在與基拉巴尼亞湖區的交界處有一座帝國軍基地，
-就是帝國白山堡，那裡設定有大口徑的加農炮。
-如果無謂地浪費時間，那麼難免會遭到遠距離炮擊。"
-62,"TEXT_STMBDA609_02535_PIPIN_000_055","也就是說，我們必須儘快逼近監望塔，
-將敵人的監望塔作為抵擋炮擊的盾牌。"
+就是帝國白山堡，那裡設定有大口徑的加農砲。
+如果無謂地浪費時間，那麼難免會遭到遠距離砲擊。"
+62,"TEXT_STMBDA609_02535_PIPIN_000_055","也就是說，我們必須盡快逼近監望塔，
+將敵人的監望塔作為抵擋砲擊的盾牌。"
 63,"TEXT_STMBDA609_02535_ALPHINAUD_000_056","原來如此……
 看來沒有其他更好的選擇了。"
 64,"TEXT_STMBDA609_02535_CONRAD_000_057","是啊……
@@ -89,7 +89,7 @@ int32,str,str
 66,"TEXT_STMBDA609_02535_ALPHINAUD_000_059","明白了。"
 67,"TEXT_STMBDA609_02535_LYSE_000_060","等一下！
 我可以和娜格……和阿拉米格解放軍一起進攻監望塔嗎？"
-68,"TEXT_STMBDA609_02535_LYSE_000_061","在討伐吉祥天女時，我們一直都依靠 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 來著……
+68,"TEXT_STMBDA609_02535_LYSE_000_061","在討伐吉祥天女時，我們一直都依靠<Highlight>ObjectParameter(1)</Highlight>來著……
 我希望把自己能做到的事做得更好。"
 69,"TEXT_STMBDA609_02535_Q1_000_000","要對她說些什麼？"
 70,"TEXT_STMBDA609_02535_A1_000_001","去吧，痛快戰一場！"
@@ -100,9 +100,9 @@ int32,str,str
 73,"TEXT_STMBDA609_02535_LYSE_000_064","我知道。
 我會好好聽隊長……聽康拉德的話的。"
 74,"TEXT_STMBDA609_02535_ALPHINAUD_000_065","……那我也一起去。
-阿莉塞，你就協助 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 吧。"
-75,"TEXT_STMBDA609_02535_ALISAIE_000_066","蠻有幹勁啊……
-好的，那我和 <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 就負責後方支援了，
+阿莉塞，你就協助<Highlight>ObjectParameter(1)</Highlight>吧。"
+75,"TEXT_STMBDA609_02535_ALISAIE_000_066","挺有幹勁啊……
+好的，那我和<Highlight>ObjectParameter(1)</Highlight>就負責後方支援了，
 你們倆可要好好表現啊。"
 76,"TEXT_STMBDA609_02535_RAUBAHN_000_067","好，那就這樣！
 作戰開始……目標——御制監望塔！

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_JOBAST450_02017_SEQ_00","聖岡里奧爾占星院的雅內基納爾衷心歡迎冒險者的來訪。"
-1,"TEXT_JOBAST450_02017_SEQ_01","雅內基納爾要向教皇廳申請讓蕾薇瓦進行演講。前往庫爾札斯中央高地的阿德內爾占星臺，從福勒莫爾手中獲得<Sheet(EventItem,2001819,0)/>。"
+1,"TEXT_JOBAST450_02017_SEQ_01","雅內基納爾要向教皇廳申請讓蕾薇瓦進行演講。前往庫爾札斯中央高地的阿德內爾占星台，從福勒莫爾手中獲取<Sheet(EventItem,2001819,0)/>。"
 2,"TEXT_JOBAST450_02017_SEQ_02","從福勒莫爾那裡獲得了<Sheet(EventItem,2001819,0)/>。將<Sheet(EventItem,2001819,0)/>交給聖岡里奧爾占星院的雅內基納爾。"
 3,"TEXT_JOBAST450_02017_SEQ_03","將<Sheet(EventItem,2001819,0)/>交給了雅內基納爾。前往摩杜納，和早霜頂的蕾薇瓦談談。"
 4,"TEXT_JOBAST450_02017_SEQ_04","協助蕾薇瓦等人救出了受到襲擊的占星學家。在早霜頂的<Sheet(EObj,2006318,0)/>進行張望。"
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBAST450_02017_SEQ_21",""
 22,"TEXT_JOBAST450_02017_SEQ_22",""
 23,"TEXT_JOBAST450_02017_SEQ_23",""
-24,"TEXT_JOBAST450_02017_TODO_00","從阿德內爾占星臺的福勒莫爾那裡領取<Sheet(EventItem,2001819,0)/>"
+24,"TEXT_JOBAST450_02017_TODO_00","從阿德內爾占星台的福勒莫爾那裡領取<Sheet(EventItem,2001819,0)/>"
 25,"TEXT_JOBAST450_02017_TODO_01","將<Sheet(EventItem,2001819,0)/>交給聖岡里奧爾占星院的雅內基納爾"
 26,"TEXT_JOBAST450_02017_TODO_02","和早霜頂的蕾薇瓦對話"
 27,"TEXT_JOBAST450_02017_TODO_03","在<Sheet(EObj,2006318,0)/>張望"
@@ -51,19 +51,19 @@ int32,str,str
 45,"TEXT_JOBAST450_02017_TODO_21",""
 46,"TEXT_JOBAST450_02017_TODO_22",""
 47,"TEXT_JOBAST450_02017_TODO_23",""
-48,"TEXT_JOBAST450_02017_JANNEQUINARD_000_000"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，看樣子你有在努力進行修練啊。
+48,"TEXT_JOBAST450_02017_JANNEQUINARD_000_000","<Highlight>ObjectParameter(1)</Highlight>，看樣子你有在努力進行修練啊。
 蕾薇瓦老師也一直在努力四處奔走，
 為了尋找下一個修練地而置自身危險於不顧……"
 49,"TEXT_JOBAST450_02017_JANNEQUINARD_000_001","我原本希望老師能在皇都舉行一場演講，
 可是教皇廳到現在都沒有通過我的申請。"
-50,"TEXT_JOBAST450_02017_JANNEQUINARD_000_002","所以我希望能得到福勒莫爾臺長的推薦。
-畢竟是伊修加爾德占星術界舉足輕重的人物，
-他的意見是很有分量的。"
-51,"TEXT_JOBAST450_02017_JANNEQUINARD_000_003","福勒莫爾臺長那邊我之前已經拜託過了，
-麻煩你去一趟阿德內爾占星臺，
-從臺長那裡取回<Sheet(EventItem,2001819,0)/>吧。"
-52,"TEXT_JOBAST450_02017_JANNEQUINARD_000_009","能麻煩你去一趟阿德內爾占星臺，
-從臺長那裡取回<Sheet(EventItem,2001819,0)/>嗎？"
+50,"TEXT_JOBAST450_02017_JANNEQUINARD_000_002","所以我希望能得到福勒莫爾台長的推薦。
+畢竟是伊修加德占星術界舉足輕重的人物，
+他的意見是很有份量的。"
+51,"TEXT_JOBAST450_02017_JANNEQUINARD_000_003","福勒莫爾台長那邊我之前已經拜託過了，
+麻煩你去一趟阿德內爾占星台，
+從台長那裡取回<Sheet(EventItem,2001819,0)/>吧。"
+52,"TEXT_JOBAST450_02017_JANNEQUINARD_000_009","能麻煩你去一趟阿德內爾占星台，
+從台長那裡取回<Sheet(EventItem,2001819,0)/>嗎？"
 53,"TEXT_JOBAST450_02017_FORLEMORT_000_020","你就是那個不務正業的雅內基納爾派來的使者？
 這是他要的東西，拿走吧。"
 54,"TEXT_JOBAST450_02017_FORLEMORT_000_021","委託人本人居然不親自來拿，不負責任也要有個限度。
@@ -71,38 +71,38 @@ int32,str,str
 才決定寫這封推薦信的啊！"
 55,"TEXT_JOBAST450_02017_FORLEMORT_000_022","……聽好了，薩雷安式的星象圖，
 是以北極星和圍繞著北極星的六天座構成的。
-和我們伊修加爾德式重視龍星的星象圖截然不同。"
+和我們伊修加德式重視龍星的星象圖截然不同。"
 56,"TEXT_JOBAST450_02017_FORLEMORT_000_023","雅內基納爾也真是個無可救藥的傢伙，
 居然被這種無法觀察龍族動向的術式迷得神魂顛倒。"
-57,"TEXT_JOBAST450_02017_FORLEMORT_000_024","要不是因為他是管轄占星臺的狄蘭達爾家族的人，
+57,"TEXT_JOBAST450_02017_FORLEMORT_000_024","要不是因為他是管轄占星台的狄蘭達爾家族的人，
 大概早就被趕出占星院了。
 你回去也好好提醒他一下，讓他有點自知之明。"
-58,"TEXT_JOBAST450_02017_FORLEMORT_000_029","要不是因為他是管轄占星臺的狄蘭達爾家族的人，
+58,"TEXT_JOBAST450_02017_FORLEMORT_000_029","要不是因為他是管轄占星台的狄蘭達爾家族的人，
 大概早就被趕出占星院了。
 你回去也好好提醒他一下，讓他有點自知之明。"
-59,"TEXT_JOBAST450_02017_JANNEQUINARD_000_030","能麻煩你去一趟阿德內爾占星臺，
-從臺長那裡取回<Sheet(EventItem,2001819,0)/>嗎？"
+59,"TEXT_JOBAST450_02017_JANNEQUINARD_000_030","能麻煩你去一趟阿德內爾占星台，
+從台長那裡取回<Sheet(EventItem,2001819,0)/>嗎？"
 60,"TEXT_JOBAST450_02017_JANNEQUINARD_000_031","……真是非常感謝。
-臺長的忠告和推薦信，我就一併收下了。"
-61,"TEXT_JOBAST450_02017_JANNEQUINARD_000_032","雖然臺長還是老樣子，不過最近也出現了一些
+台長的忠告和推薦信，我就一併收下了。"
+61,"TEXT_JOBAST450_02017_JANNEQUINARD_000_032","雖然台長還是老樣子，不過最近也出現了一些
 對薩雷安式占星術產生了興趣的人。
-說不定透過演講能掀起一波學習熱潮呢，真是值得期待。"
+說不定通過演講能掀起一波學習熱潮呢，真是值得期待。"
 62,"TEXT_JOBAST450_02017_JANNEQUINARD_000_033","對了，蕾薇瓦老師已經出發前往新的修練地了。
 這次似乎是在摩杜納的早霜頂，趕快出發吧。"
 63,"TEXT_JOBAST450_02017_JANNEQUINARD_000_039","對了，蕾薇瓦老師已經出發前往新的修練地了。
 這次似乎是在摩杜納的早霜頂，趕快出發吧。"
-64,"TEXT_JOBAST450_02017_QUIMPERAIN_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 閣下，請小心！"
+64,"TEXT_JOBAST450_02017_QUIMPERAIN_000_040","<Highlight>ObjectParameter(1)</Highlight>閣下，請小心！"
 65,"TEXT_JOBAST450_02017_FEMAIL02017_000_040","突然遭到了盜賊的襲擊……"
-66,"TEXT_JOBAST450_02017_LEVEVA_000_040"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，小心點！
+66,"TEXT_JOBAST450_02017_LEVEVA_000_040","<Highlight>ObjectParameter(1)</Highlight>，小心點！
 我們到這裡時，她正遭到襲擊！"
 67,"TEXT_JOBAST450_02017_FEMAIL02017_000_041","（★未使用／削除予定★）"
-68,"TEXT_JOBAST450_02017_QUIMPERAIN_000_041","……這位女士是伊修加爾德的占星學家。
+68,"TEXT_JOBAST450_02017_QUIMPERAIN_000_041","……這位女士是伊修加德的占星學家。
 她說想要參觀薩雷安式占星術的修練，
-所以我們約好了在這裡會合。"
-69,"TEXT_JOBAST450_02017_LEVEVA_000_042","同志有難，絕不能袖手旁觀。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，坎佩蘭，好好教訓一下這幫賊人！"
+所以我們約好了在這裡匯合。"
+69,"TEXT_JOBAST450_02017_LEVEVA_000_042","同志有難，決不能袖手旁觀。
+<Highlight>ObjectParameter(1)</Highlight>，坎佩蘭，好好教訓一下這幫賊人！"
 70,"TEXT_JOBAST450_02017_QIB_001_TODO_1","打倒刺客！"
-71,"TEXT_JOBAST450_02017_QIB_001_LEVEVA_BATTLETALK_01","我來保護伊修加爾德的占星學家，
+71,"TEXT_JOBAST450_02017_QIB_001_LEVEVA_BATTLETALK_01","我來保護伊修加德的占星學家，
 你負責支援坎佩蘭！"
 72,"TEXT_JOBAST450_02017_QIB_001_BOSS_BATTLETALK_02","有點棘手……小的們，給我上！"
 73,"TEXT_JOBAST450_02017_QIB_001_LEVEVA_BATTLETALK_02","是增援嗎……不必膽怯！"
@@ -121,7 +121,7 @@ int32,str,str
 可是沒想到……"
 84,"TEXT_JOBAST450_02017_LEVEVA_000_051","你平安無事就好。
 關於襲擊你的人，你心裡有數嗎？"
-85,"TEXT_JOBAST450_02017_FEMAIL02017_000_052","是的，可能是我的上司僱的人……
+85,"TEXT_JOBAST450_02017_FEMAIL02017_000_052","是的，可能是我的上司雇的人……
 他聽說我想學習薩雷安式占星術，
 馬上就對我施加壓力，想讓我放棄。"
 86,"TEXT_JOBAST450_02017_FEMAIL02017_000_053","（★未使用／削除予定★）"
@@ -137,30 +137,30 @@ int32,str,str
 91,"TEXT_JOBAST450_02017_QUIMPERAIN_000_058","對那位女士而言，真是飛來橫禍。
 要是能安穩地進行修練該多好……"
 92,"TEXT_JOBAST450_02017_LEVEVA_000_059","總之，先達成最初的目的吧。
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，在門打開之前，
+<Highlight>ObjectParameter(1)</Highlight>，在門打開之前，
 站在那裡仰望天空，沒問題吧。"
 93,"TEXT_JOBAST450_02017_QUIMPERAIN_000_060","對那位女士而言，真是飛來橫禍。
 要是能安穩地進行修練該多好……"
-94,"TEXT_JOBAST450_02017_LEVEVA_000_060"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，在門打開之前，
+94,"TEXT_JOBAST450_02017_LEVEVA_000_060","<Highlight>ObjectParameter(1)</Highlight>，在門打開之前，
 站在那裡仰望天空，沒問題吧。"
-95,"TEXT_JOBAST450_02017_LEVEVA_000_070","好了， <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 啊，
+95,"TEXT_JOBAST450_02017_LEVEVA_000_070","好了，<Highlight>ObjectParameter(1)</Highlight>啊，
 與閃耀著清澈潔白之光的水天座心意相通，
 打開它的大門吧！"
 96,"TEXT_JOBAST450_02017_LEVEVA_000_071","相傳在水之天界——水天之上，
 行星神妮美雅將星辰溶解產生水源，而手持水瓶的
 知識神沙利亞克則利用這水源創造出知識之河。"
 97,"TEXT_JOBAST450_02017_LEVEVA_000_072","因此我們將象徵著水天座祝福的奧秘之力稱為「水瓶」。
-透過使用「水瓶」的能力，
+通過使用「水瓶」的能力，
 就能獲得如湧出的泉水般強勁的力量。"
 98,"TEXT_JOBAST450_02017_LEVEVA_000_073","水天座正是代表著水天之門的星座……
 現在，這扇門已為你而打開……"
-99,"TEXT_JOBAST450_02017_LEVEVA_000_074","在伊修加爾德也出現了對占星術感興趣的人，
+99,"TEXT_JOBAST450_02017_LEVEVA_000_074","在伊修加德也出現了對占星術感興趣的人，
 我們的努力也算是有所收穫。
 就這樣繼續努力，開拓命運吧。"
-100,"TEXT_JOBAST450_02017_JANNEQUINARD_000_080"," <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> ，辛苦你了。
+100,"TEXT_JOBAST450_02017_JANNEQUINARD_000_080","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了。
 你們又遭到襲擊了是嗎？
 看到你們平安無事，真是再好不過了。"
-101,"TEXT_JOBAST450_02017_JANNEQUINARD_000_081","聽說有一位伊修加爾德的占星學家也來參觀修練過程了？
+101,"TEXT_JOBAST450_02017_JANNEQUINARD_000_081","聽說有一位伊修加德的占星學家也來參觀修練過程了？
 真是振奮人心的消息。
 就算是為了那位占星學家，也一定要實現老師的演講啊。"
 102,"TEXT_JOBAST450_02017_JANNEQUINARD_000_082","……對了，蕾薇瓦老師說你打開了水天座之門，

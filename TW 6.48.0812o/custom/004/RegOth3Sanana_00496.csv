@@ -14,4 +14,4 @@ int32,str,str
 我要讓那個吊眉混蛋大吃一驚！"
 4,"TEXT_REGOTH3SANANA_00496_SANANA_000_040","為了能讓我大賺……
 ……為了實現紅的夢想，
- <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/> 你可得多多交些物品過來哦！"
+<Highlight>ObjectParameter(1)</Highlight>你可得多多交些物品過來哦！"

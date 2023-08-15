@@ -3,14 +3,14 @@
 int32,str,str
 0,"TEXT_FESSUM303_02958_SEQ_00","※本任務是特定期間內的任務。
 
-永夏島的紅蓮祭食品專員希爾德拉娜似乎很繁忙。"
+永夏島的紅蓮節食品專員希爾德拉娜似乎很繁忙。"
 1,"TEXT_FESSUM303_02958_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
 
-希爾德拉娜委託冒險者準備<Sheet(Item,10332,0)/>。獲得<Sheet(Item,10332,0)/>，交給紅蓮祭食品專員希爾德拉娜。
+希爾德拉娜委託冒險者準備<Sheet(Item,10332,0)/>。獲取<Sheet(Item,10332,0)/>，交給紅蓮節食品專員希爾德拉娜。
 
-※<Sheet(Item,10332,0)/>可由烹調師製作，也可以透過市場布告板購買。"
+※<Sheet(Item,10332,0)/>可由烹調師製作，也可以通過市場布告板購買。"
 2,"TEXT_FESSUM303_02958_SEQ_02","將<Sheet(Item,10332,0)/>交給了希爾德拉娜。客人的點單太多，讓她忙得不可開交，擇時再來幫幫忙吧。"
 3,"TEXT_FESSUM303_02958_SEQ_03",""
 4,"TEXT_FESSUM303_02958_SEQ_04",""
@@ -33,7 +33,7 @@ int32,str,str
 21,"TEXT_FESSUM303_02958_SEQ_21",""
 22,"TEXT_FESSUM303_02958_SEQ_22",""
 23,"TEXT_FESSUM303_02958_SEQ_23",""
-24,"TEXT_FESSUM303_02958_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲得<Sheet(Item,10332,0)/><Else/>將<Sheet(Item,10332,0)/>交給希爾德拉娜</If>"
+24,"TEXT_FESSUM303_02958_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,10332,0)/><Else/>將<Sheet(Item,10332,0)/>交給希爾德拉娜</If>"
 25,"TEXT_FESSUM303_02958_TODO_01",""
 26,"TEXT_FESSUM303_02958_TODO_02",""
 27,"TEXT_FESSUM303_02958_TODO_03",""
@@ -63,10 +63,10 @@ int32,str,str
 而是作為執行委員參加工作。
 ……莫非你是來幫我們的？"
 50,"TEXT_FESSUM303_02958_HILDELANA_000_010","抱歉，現在後廚繁忙……
-欸，你不是客人？
+誒，你不是客人？
 ……莫非是來幫忙的冒險者？"
 51,"TEXT_FESSUM303_02958_HILDELANA_000_020","太好了！
-紅蓮祭客流量大，
+紅蓮節客流量大，
 點單數量太多，我們忙不過來……"
 52,"TEXT_FESSUM303_02958_HILDELANA_000_021","可不可以幫忙準備<Sheet(Item,10332,0)/>？
 這是客人點得最多的菜餚。"
