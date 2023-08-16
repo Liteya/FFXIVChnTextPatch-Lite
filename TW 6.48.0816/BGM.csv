@@ -961,8 +961,8 @@ int32,str
 966,music/ex4/BGM_EX4_Ban_14.scd
 967,music/ex3/BGM_EX3_AOZ_01.scd
 968,music/ffxiv/BGM_MJI_03.scd
-969,
-970,
+969,music/ffxiv/BGM_Minigame_10th01.scd
+970,music/ffxiv/BGM_Minigame_10th02.scd
 971,music/ex4/BGM_EX4_Dan_D12.scd
 972,music/ex4/BGM_EX4_VVD_03.scd
 973,music/ex4/BGM_EX4_VVD_04.scd
@@ -975,6 +975,6 @@ int32,str
 980,music/ffxiv/BGM_Ride_Pandemonium03.scd
 981,music/ffxiv/BGM_Ride_VVD03.scd
 982,music/ffxiv/BGM_Ride_VVD04.scd
-983,
-984,
+983,music/ffxiv/BGM_Minigame_10th03.scd
+984,music/ffxiv/BGM_Minigame_10th04.scd
 985,music/ffxiv/BGM_Ride_Fanfes2023.scd
