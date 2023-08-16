@@ -1,6 +1,0 @@
-﻿key,4,5,6,7
-#,SoundEffect{4},SoundEffect{3},SoundEffect{2},SoundEffect{1}
-offset,0,4,8,12
-int32,str,str,str,str
-0,,,,
-1,SE_Bt_Etc_ChocoboBuddy04,SE_Bt_Etc_ChocoboBuddy03,SE_Bt_Etc_ChocoboBuddy02,SE_Bt_Etc_ChocoboBuddy01
