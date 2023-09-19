@@ -55,7 +55,7 @@ int32,str,str
 49,"TEXT_JOBAST680_02412_MURAKUMO_000_000","這不是<Highlight>ObjectParameter(1)</Highlight>閣下嘛，歡迎。
 最近我與旭峰在日夜苦讀師父留下的文獻……"
 50,"TEXT_JOBAST680_02412_KYOKUHOU_000_000","（★未使用／削除予定★）"
-51,"TEXT_JOBAST680_02412_KYOKUHO_000_000","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，你來了啊。
+51,"TEXT_JOBAST680_02412_KYOKUHO_000_000","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，你來了啊。
 我找出了不少曾祖父留下的文獻埋頭苦讀，
 還是沒有找到有關秘技的直接記載。"
 52,"TEXT_JOBAST680_02412_KYOKUHOU_000_001","（★未使用／削除予定★）"
@@ -67,7 +67,7 @@ int32,str,str
 也許就能找到自古流傳下來的結界秘技古書了。
 因此，能請你和我一起前往嗎？"
 56,"TEXT_JOBAST680_02412_KYOKUHOU_000_003","（★未使用／削除予定★）"
-57,"TEXT_JOBAST680_02412_KYOKUHO_000_003","謝謝你，<If(PlayerParameter(4))>师姐<Else/>师兄</If>！
+57,"TEXT_JOBAST680_02412_KYOKUHO_000_003","謝謝你，<If(PlayerParameter(4))>師姐<Else/>師兄</If>！
 不過，現在還不知帝國軍的侵略對該地造成了多大的影響，
 只有親自去看看才能了解了……"
 58,"TEXT_JOBAST680_02412_KYOKUHOU_000_004","（★未使用／削除予定★）"
@@ -78,7 +78,7 @@ int32,str,str
 61,"TEXT_JOBAST680_02412_MURAKUMO_000_009","你要和旭峰一起去延夏啊，
 那裡是風水的發祥地……祝願你們能夠取得成果。"
 62,"TEXT_JOBAST680_02412_KYOKUHOU_000_010","（★未使用／削除予定★）"
-63,"TEXT_JOBAST680_02412_KYOKUHO_000_010","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，我等你好久啦。
+63,"TEXT_JOBAST680_02412_KYOKUHO_000_010","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，我等你好久啦。
 真不愧是風水術的發祥地，
 光是和村民們聊聊，就獲得了不少情報。"
 64,"TEXT_JOBAST680_02412_KYOKUHOU_000_011","（★未使用／削除予定★）"
@@ -87,7 +87,7 @@ int32,str,str
 66,"TEXT_JOBAST680_02412_KYOKUHOU_000_012","（★未使用／削除予定★）"
 67,"TEXT_JOBAST680_02412_KYOKUHO_000_012","不過，位於大龍壁中央的寺廟建築還健在，
 我們所尋找的文獻，也有很大可能還在那裡。
-走吧，<If(PlayerParameter(4))>师姐<Else/>师兄</If>，去岩燕廟！"
+走吧，<If(PlayerParameter(4))>師姐<Else/>師兄</If>，去岩燕廟！"
 68,"TEXT_JOBAST680_02412_KYOKUHOU_000_020","（★未使用／削除予定★）"
 69,"TEXT_JOBAST680_02412_KYOKUHO_000_020","那座宏偉的建築，就是岩燕廟。
 根據曾祖父的日記所記述，
@@ -97,7 +97,7 @@ int32,str,str
 則需要運用到風水術。
 因此尋找古書的事就交給我來辦吧。"
 72,"TEXT_JOBAST680_02412_KYOKUHOU_000_022","（★未使用／削除予定★）"
-73,"TEXT_JOBAST680_02412_KYOKUHO_000_022","而<If(PlayerParameter(4))>师姐<Else/>师兄</If>，我想拜託你
+73,"TEXT_JOBAST680_02412_KYOKUHO_000_022","而<If(PlayerParameter(4))>師姐<Else/>師兄</If>，我想拜託你
 幫忙掃清門的守護者。"
 74,"TEXT_JOBAST680_02412_KYOKUHOU_000_023","（★未使用／削除予定★）"
 75,"TEXT_JOBAST680_02412_KYOKUHO_000_023","與此同時，我用風水術集氣，為開門做準備。
@@ -119,7 +119,7 @@ int32,str,str
 83,"TEXT_JOBAST680_02412_KYOKUHOU_000_033","（★未使用／削除予定★）"
 84,"TEXT_JOBAST680_02412_KYOKUHO_000_033","別擔心，只要給他買點好酒，他就會答應的。
 走，我們回黃金港吧！
-<If(PlayerParameter(4))>师姐<Else/>师兄</If>也一起來潮風亭。"
+<If(PlayerParameter(4))>師姐<Else/>師兄</If>也一起來潮風亭。"
 85,"TEXT_JOBAST680_02412_NAYAGA_000_039","（★未使用／削除予定★）"
 86,"TEXT_JOBAST680_02412_MURAKUMO_000_039","你回來了啊，
 我正在解讀古書呢……
@@ -130,7 +130,7 @@ int32,str,str
 90,"TEXT_JOBAST680_02412_MURAKUMO_000_041","旭峰……
 <Highlight>ObjectParameter(1)</Highlight>閣下來了。"
 91,"TEXT_JOBAST680_02412_KYOKUHOU_000_042","（★未使用／削除予定★）"
-92,"TEXT_JOBAST680_02412_KYOKUHO_000_042","啊，不好意思，<If(PlayerParameter(4))>师姐<Else/>师兄</If>……
+92,"TEXT_JOBAST680_02412_KYOKUHO_000_042","啊，不好意思，<If(PlayerParameter(4))>師姐<Else/>師兄</If>……
 你來了啊……"
 93,"TEXT_JOBAST680_02412_KYOKUHOU_000_043","（★未使用／削除予定★）"
 94,"TEXT_JOBAST680_02412_KYOKUHO_000_043","群雲老爺子幫我們解讀了古書，
@@ -167,7 +167,7 @@ int32,str,str
 但沒想到還有這種隱情……
 現在我理解了師父的心情……"
 113,"TEXT_JOBAST680_02412_KYOKUHOU_000_060","（★未使用／削除予定★）"
-114,"TEXT_JOBAST680_02412_KYOKUHO_000_060","<If(PlayerParameter(4))>师姐<Else/>师兄</If>都這麼幫我了，
+114,"TEXT_JOBAST680_02412_KYOKUHO_000_060","<If(PlayerParameter(4))>師姐<Else/>師兄</If>都這麼幫我了，
 最後卻搞成了這個樣子，真是抱歉……"
 115,"TEXT_JOBAST680_02412_KYOKUHOU_000_061","（★未使用／削除予定★）"
 116,"TEXT_JOBAST680_02412_KYOKUHO_000_061","前些天我們修補好的結界
@@ -180,5 +180,5 @@ int32,str,str
 120,"TEXT_JOBAST680_02412_KYOKUHO_000_063","待它完全恢復力量，黃金港就要完了。
 總而言之，我們要快點尋找其他辦法……"
 121,"TEXT_JOBAST680_02412_KYOKUHOU_000_064","（★未使用／削除予定★）"
-122,"TEXT_JOBAST680_02412_KYOKUHO_000_064","<If(PlayerParameter(4))>师姐<Else/>师兄</If>也做好萬全準備，不要讓身體生鏽。
+122,"TEXT_JOBAST680_02412_KYOKUHO_000_064","<If(PlayerParameter(4))>師姐<Else/>師兄</If>也做好萬全準備，不要讓身體生鏽。
 就算遇到天大的困難，我們也要共同面對……"

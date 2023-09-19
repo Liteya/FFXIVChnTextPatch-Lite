@@ -45,7 +45,7 @@ int32,str,str
 27,"TEXT_FESEST103_00559_TODO_03","在變身狀態下找到第2隻魔石精並使用<Sheet(EventItem,2001565,0)/>"
 28,"TEXT_FESEST103_00559_TODO_04","在變身狀態下找到第3隻魔石精並使用<Sheet(EventItem,2001565,0)/>"
 29,"TEXT_FESEST103_00559_TODO_05","向莫特報告"
-30,"TEXT_FESEST103_00559_TODO_06","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>完成危命任务 获取<Sheet(Item,10087,0)/><Else/>将在危命任务中获得的<Sheet(Item,10087,0)/>交给莫特</If>"
+30,"TEXT_FESEST103_00559_TODO_06","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>完成危命任務 獲取<Sheet(Item,10087,0)/><Else/>將在危命任務中獲得的<Sheet(Item,10087,0)/>交給莫特</If>"
 31,"TEXT_FESEST103_00559_TODO_07","和俾斯麥餐廳壞人模樣的眼罩男對話"
 32,"TEXT_FESEST103_00559_TODO_08",""
 33,"TEXT_FESEST103_00559_TODO_09",""
@@ -64,7 +64,7 @@ int32,str,str
 46,"TEXT_FESEST103_00559_TODO_22",""
 47,"TEXT_FESEST103_00559_TODO_23",""
 48,"TEXT_FESEST103_00559_NONOTTA_000_000","彩蛋～彩蛋～彩蛋蛋～
-呃……剛才那個惡棍親昵地向我搭訕的事情，
+呃……剛才那個惡棍親暱地向我搭訕的事情，
 請把它埋藏在記憶的深處吧……這是諾諾塔這輩子最重大的請求！"
 49,"TEXT_FESEST103_00559_NONOTTA_100_000","那麼……忘了這件事，重振精神！
 有件新的事情想要拜託冒險者去做。"

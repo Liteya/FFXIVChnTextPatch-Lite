@@ -30,11 +30,11 @@ int32,byte,byte,Image,byte,str,str,str
 8,0,0,0,0,"","",""
 9,0,0,0,0,"","",""
 10,1,1,150121,0,"
-接受任務時，在彈出的接受窗口中會顯示出任務概況及報酬。
+接受任務時，在彈出的接受視窗中會顯示出任務概況及報酬。
 
 點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>接受<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕後便會開始任務。","",""
 11,1,1,150121,0,"
-接受任務時，在彈出的接受窗口中會顯示出任務概況及報酬。
+接受任務時，在彈出的接受視窗中會顯示出任務概況及報酬。
 
 按下<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>接受<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕後便會開始任務。","",""
 12,0,0,0,0,"","",""
@@ -103,17 +103,17 @@ int32,byte,byte,Image,byte,str,str,str
 30,1,1,150041,0,"
 在執行任務的過程中，地圖上會顯示出該任務的目的地。
 
-點擊快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地圖&移動<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地圖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，或者按下鍵盤上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>M鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，都可以打開地圖窗口進行確認。","",""
+點擊快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地圖&移動<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地圖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，或者按下鍵盤上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>M鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，都可以打開地圖視窗進行確認。","",""
 31,1,1,150042,0,"
-點擊目的列表中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前目的<UIGlow>01</UIGlow><UIForeground>01</UIForeground>也可以打開地圖窗口，同時會直觀地顯示出接下來的目標區域。
+點擊目的列表中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前目的<UIGlow>01</UIGlow><UIForeground>01</UIForeground>也可以打開地圖視窗，同時會直觀地顯示出接下來的目標區域。
 
 只要按照地圖上的指示前進，就不用擔心在任務途中迷失方向了。","",""
 32,1,1,150041,0,"
 在執行任務的過程中，地圖上會顯示出該任務的目的地。
 
-選擇快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地圖&移動<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中的地圖<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>鍵可以打開地圖窗口進行確認。","",""
+選擇快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地圖&移動<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中的地圖<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>鍵可以打開地圖視窗進行確認。","",""
 33,1,1,150042,0,"
-選擇目的列表中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前目的<UIGlow>01</UIGlow><UIForeground>01</UIForeground>也可以打開地圖窗口，同時會直觀地顯示出接下來的目標區域。
+選擇目的列表中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前目的<UIGlow>01</UIGlow><UIForeground>01</UIForeground>也可以打開地圖視窗，同時會直觀地顯示出接下來的目標區域。
 
 只要按照地圖上的指示前進，就不用擔心在任務途中迷失方向了。","",""
 34,0,0,0,0,"","",""
@@ -124,7 +124,7 @@ int32,byte,byte,Image,byte,str,str,str
 36,1,0,150182,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色畫面<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中還可以更換玩家自身的裝備。
 
-選中裝備欄的特定部位會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>兵裝庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口，每種裝備都單獨分為一類，只需切換部位便可快速進行裝備的更換。","",""
+選中裝備欄的特定部位會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>兵裝庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗，每種裝備都單獨分為一類，只需切換部位便可快速進行裝備的更換。","",""
 37,1,0,150181,0,"
 在快捷指令中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色畫面<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -136,11 +136,11 @@ int32,byte,byte,Image,byte,str,str,str
 
 利用莫古力速遞，可以方便快捷地向登錄到好友名單中的朋友發送郵件。","",""
 41,1,0,150222,0,"
-點擊莫古力速遞窗口右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口並寫入郵件內容。
+點擊莫古力速遞視窗右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗並寫入郵件內容。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等物品也可以以附件的形式隨文本一起發送給對方。","",""
 42,1,0,150222,0,"
-選擇莫古力速遞窗口右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口並寫入郵件內容。
+選擇莫古力速遞視窗右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗並寫入郵件內容。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等物品也可以以附件的形式隨文本一起發送給對方。","",""
 43,0,0,0,0,"","",""
@@ -179,11 +179,11 @@ int32,byte,byte,Image,byte,str,str,str
 
 列表中最多可以顯示5個任務，可以很直觀地看到接下來的任務要求。","",""
 61,1,1,150032,0,"
-點擊目的列表中顯示的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務標題<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以快速打開該任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口。
+點擊目的列表中顯示的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務標題<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以快速打開該任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗。
 
 任務日誌中記錄了該任務的任務目的、詳細情況以及完成獎勵等各種具體資訊。","",""
 62,1,1,150032,0,"
-選擇目的列表中顯示的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務標題<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以快速打開該任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口。
+選擇目的列表中顯示的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務標題<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以快速打開該任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗。
 
 任務日誌中記錄了該任務的任務目的、詳細情況以及完成獎勵等各種具體資訊。","",""
 63,0,0,0,0,"","",""
@@ -191,11 +191,11 @@ int32,byte,byte,Image,byte,str,str,str
 65,1,1,150051,0,"
 在執行部分任務時，會遇到需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情況。
 
-右鍵點擊任務目標會打開任務道具窗口，之後再用右鍵點擊道具並選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可發動效果。","",""
+右鍵點擊任務目標會打開任務道具視窗，之後再用右鍵點擊道具並選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可發動效果。","",""
 66,1,1,150051,0,"
 在執行部分任務時，會遇到需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情況。
 
-選中任務目標會打開任務道具窗口，之後對相應道具打開次級指令選單並選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可發動效果。","",""
+選中任務目標會打開任務道具視窗，之後對相應道具打開次級指令選單並選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可發動效果。","",""
 67,0,0,0,0,"","",""
 68,0,0,0,0,"","",""
 69,0,0,0,0,"","",""
@@ -218,15 +218,15 @@ int32,byte,byte,Image,byte,str,str,str
 80,1,1,150381,0,"
 利用各種<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感動作<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能夠表現出當前的心情和情緒。
 
-選中目標角色後，從快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>社交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感動作<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以打開窗口選擇想要表達的情感。","",""
+選中目標角色後，從快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>社交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感動作<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以打開視窗選擇想要表達的情感。","",""
 81,1,1,150382,1,"
-打開情感動作窗口之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
+打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>羅絲溫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>下跪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。","
-打開情感動作窗口之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
+打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>奧妮莉<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>行禮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。","
-打開情感動作窗口之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
+打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>茱莉安娜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>歡迎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。"
 82,1,1,150383,0,"
@@ -234,13 +234,13 @@ int32,byte,byte,Image,byte,str,str,str
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※另外，道具和巨集指令也可以設定到熱鍵欄裡。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 83,1,1,150382,1,"
-打開情感動作窗口之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
+打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>羅絲溫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>下跪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。","
-打開情感動作窗口之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
+打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>奧妮莉<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>行禮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。","
-打開情感動作窗口之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
+打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>茱莉安娜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>歡迎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。"
 84,0,0,0,0,"","",""
@@ -292,27 +292,28 @@ int32,byte,byte,Image,byte,str,str,str
 職業是根據當前<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>主手<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上的裝備決定的。
 
 更換主手裝備便可輕鬆完成<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>轉職<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
-111,1,0,150112,0,"學會了新職業之後，請務必記得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存新加的套裝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+111,1,0,150112,0,"新しいクラスを修得したら
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「ギアセット」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>の登録を忘れずに
+行いましょう。
 
-使用套裝功能，
-即可瞬間更換全身
-包括主手裝備在內的裝備。","",""
+ギアセットを使用すると、
+登録したクラスのメインアームと防具を
+瞬時に切り替えることができます。","",""
 112,0,0,0,0,"","",""
 113,0,0,0,0,"","",""
 114,0,0,0,0,"","",""
-115,1,0,150101,0,"開放了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「職業轉換系統」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
-前往其他職業的公會，與接待員對話後
-即可領取學會新職業
-所需的任務。","",""
-116,1,0,150102,0,"在艾歐澤亞，除了戰鬥職業之外，
-還有能製作道具的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作職業<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
-以及能在地圖上收集到各種
-生產素材的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>採集職業<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+115,1,0,150101,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>套裝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能能夠將各種裝備的搭配分別保存下來。
 
-請在熟悉了現在
-所使用的職業之後，
-再學習其他的職業，
-進一步探索這個世界吧。","",""
+轉職的時候使用套裝功能，可以同時變更全身所有裝備。
+
+只要事先將對應的裝備準備好，便可以隨時隨地瞬間更換裝備。","",""
+116,1,0,150102,0,"
+設定套裝配置可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗中進行。
+
+按下<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>＋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕便可以將當前身上穿戴的裝備作為套裝保存下來。
+
+利用套裝，無論是職業特定的裝備還是各種混搭的漂亮裝備都可以隨時記錄下來並瞬間轉換完畢。","",""
 117,0,0,0,0,"","",""
 118,0,0,0,0,"","",""
 119,0,0,0,0,"","",""
@@ -409,10 +410,10 @@ int32,byte,byte,Image,byte,str,str,str
 
 所以當獲得新裝備想要查看一下詳情時，請打開兵裝庫而不是背包進行查看。","",""
 162,1,0,151143,0,"
-在快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>兵裝庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕或者同時按下鍵盤上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Ctrl鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>I鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以打開兵裝庫窗口。
+在快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>兵裝庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕或者同時按下鍵盤上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Ctrl鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>I鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以打開兵裝庫視窗。
 ","",""
 163,1,0,151143,0,"
-在快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>兵裝庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕可以打開兵裝庫窗口。
+在快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>兵裝庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕可以打開兵裝庫視窗。
 ","",""
 164,0,0,0,0,"","",""
 165,0,0,0,0,"","",""
@@ -512,17 +513,17 @@ int32,byte,byte,Image,byte,str,str,str
 208,0,0,0,0,"","",""
 209,0,0,0,0,"","",""
 210,1,0,150631,0,"
-通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家搜索<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能，可以搜索到已經登錄到遊戲中的玩家，並顯示出最多200人的結果。
+通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家搜尋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能，可以搜索到已經登入到遊戲中的玩家，並顯示出最多200人的結果。
 
 搜索結果中會優先顯示當前處於同一地點的玩家。","",""
 211,1,0,150632,0,"
-打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家搜索條件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，可以設定搜索目標的各種條件。條件包括姓名、職業、等級、線上狀態、所在地以及使用語言。
+打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家搜尋條件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，可以設定搜索目標的各種條件。條件包括姓名、職業、等級、線上狀態、所在地以及使用語言。
 
 選好之後點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開始搜索<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，便會將結果顯示出來。","",""
 212,1,0,150633,0,"
-玩家搜索功能可以查看各個玩家的個人資訊。而自己的資訊可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行編輯。
+玩家搜尋功能可以查看各個玩家的個人資訊。而自己的資訊可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行編輯。
 
-通過快捷指令打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之後用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>滑鼠右鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>點擊自己的名字，之後選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊窗口進行編輯。","",""
+通過快捷指令打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，之後用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>滑鼠右鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>點擊自己的名字，之後選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊視窗進行編輯。","",""
 213,1,0,150634,0,"
 搜索情報中還可以編輯線上狀態和個性簽名。
 
@@ -532,9 +533,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 不過如果線上狀態不是「希望組隊」，即使選中了多個職業也不會起到任何作用，只會將自己當前的職業作為搜索對象。","",""
 215,1,0,150633,0,"
-玩家搜索功能可以查看各個玩家的個人資訊。而自己的資訊可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行編輯。
+玩家搜尋功能可以查看各個玩家的個人資訊。而自己的資訊可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行編輯。
 
-通過快捷指令打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之後選中自己的名字並在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>次級指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊窗口進行編輯。","",""
+通過快捷指令打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，之後選中自己的名字並在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>次級指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊視窗進行編輯。","",""
 216,1,0,150635,0,"
 線上狀態為「希望組隊」時可以選擇多個職業作為搜索對象，按一次確認鍵為選中，再按一次確認鍵會取消選中狀態。
 
@@ -606,16 +607,13 @@ int32,byte,byte,Image,byte,str,str,str
 260,1,0,150991,0,"
 獲得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>靈魂水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
-靈魂水晶是能夠開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的重要道具。
-裝備對應不同職業的不同武器和靈魂水晶之後，即可進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職轉換<UIGlow>01</UIGlow><UIForeground>01</UIForeground>轉為對應的特職。","",""
+靈魂水晶是能夠開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的重要道具。每個特職所對應的靈魂水晶均不相同，進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職轉換<UIGlow>01</UIGlow><UIForeground>01</UIForeground>只能轉為對應的特職。","",""
 261,1,0,150992,0,"
 轉為特職後，除了可以使用職業狀態時的技能之外，還可以學習和使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職專用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 262,1,0,150993,0,"
-如果該特職有對應的基礎職業，
-那麼特職的等級、經驗值均和其基礎職業共通。
+特職狀態下，等級、經驗值均和其基礎職業共通。
 
-沒有對應基礎職業的特職，
-玩家也可以從特定的等級開始遊玩。","",""
+職業狀態下升級時，特職的等級也會隨之提高，反過來，特職狀態下升級時也是同樣的效果。","",""
 263,0,0,0,0,"","",""
 264,0,0,0,0,"","",""
 265,0,0,0,0,"","",""
@@ -756,7 +754,7 @@ int32,byte,byte,Image,byte,str,str,str
 343,1,0,150864,0,"
 另外，專屬陸行鳥還有多種專用裝備。
 
-在快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類下點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭檔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕可以打開搭檔窗口，在這裡可以隨意更換專屬陸行鳥的裝備。","",""
+在快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類下點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭檔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕可以打開搭檔視窗，在這裡可以隨意更換專屬陸行鳥的裝備。","",""
 344,0,0,0,0,"","",""
 345,0,0,0,0,"","",""
 346,0,0,0,0,"","",""
@@ -886,7 +884,7 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>大國防聯軍<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是各城邦面臨危機時設立的軍事組織。
 組織內的地位以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>軍銜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>來表示。
 
-在角色窗口中個人資訊欄目下可以查看自己當前的軍銜。","",""
+在角色視窗中個人資訊欄目下可以查看自己當前的軍銜。","",""
 411,1,0,150882,0,"
 一名玩家無法同時加入多個大國防聯軍。
 
@@ -963,9 +961,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 今後可以利用「部隊頻道」與其他的隊員進行交流了。","",""
 461,1,0,151132,0,"
-所屬部隊的情報可以通過快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>社交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類下的「部隊」按鈕來打開部隊窗口進行查看。
+所屬部隊的情報可以通過快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>社交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類下的「部隊」按鈕來打開部隊視窗進行查看。
 
-在部隊窗口中還可以設定玩家的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>階級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和每個階級所擁有的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>許可權<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+在部隊視窗中還可以設定玩家的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>階級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和每個階級所擁有的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>許可權<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 462,1,0,151133,0,"
 階級的許可權包括<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任命階級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>招待成員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>除名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>幾種。安排人員許可權時一定要慎重。","",""
 463,1,0,151134,0,"
@@ -1014,7 +1012,7 @@ int32,byte,byte,Image,byte,str,str,str
 490,1,0,151381,0,"
 使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「部隊特效」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以令全體隊員在一定時間內獲得部分能力提高的效果。
 
-部隊窗口中可以選擇相應的部隊特效來使用，同時還可以查看效果的剩餘時間。","",""
+部隊視窗中可以選擇相應的部隊特效來使用，同時還可以查看效果的剩餘時間。","",""
 491,1,0,151382,0,"
 部隊特效需要與大國防聯軍總部的部隊補給負責人對話獲得，同時還必須要支付相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「部隊戰績」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -1031,7 +1029,7 @@ int32,byte,byte,Image,byte,str,str,str
 498,0,0,0,0,"","",""
 499,0,0,0,0,"","",""
 500,1,0,150331,0,"
-當前可以受領的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>公會理符<UIGlow>01</UIGlow><UIForeground>01</UIForeground>均會在理符任務窗口顯示出來。
+當前可以受領的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>公會理符<UIGlow>01</UIGlow><UIForeground>01</UIForeground>均會在理符任務視窗顯示出來。
 
 選擇任務後再選下<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>接受<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可接受任務。","",""
 501,1,0,150332,0,"
@@ -1047,7 +1045,7 @@ int32,byte,byte,Image,byte,str,str,str
 508,0,0,0,0,"","",""
 509,0,0,0,0,"","",""
 510,1,0,150341,0,"
-從快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口可以查看當前已接受的理符任務。
+從快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗可以查看當前已接受的理符任務。
 
 在日誌介面選擇已接受的理符任務標題還可以進一步查看理符的詳細情況。","",""
 511,1,0,150342,0,"
@@ -1057,7 +1055,7 @@ int32,byte,byte,Image,byte,str,str,str
 512,1,0,150343,0,"
 到達理符任務的目的地之後，再次打開日誌並點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開始<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕便會開始執行任務。","",""
 513,1,0,150341,0,"
-從快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口可以查看當前已接受的理符任務。
+從快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗可以查看當前已接受的理符任務。
 
 在日誌介面選擇已接受的理符任務標題還可以進一步查看理符的詳細情況。","",""
 514,1,0,150342,0,"
@@ -1087,7 +1085,7 @@ int32,byte,byte,Image,byte,str,str,str
 530,1,0,150421,0,"
 在任務開始之後，導向地圖上會顯示出任務的目的地。
 
-理符任務的目標敵人頭上會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>理符目標圖標<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+理符任務的目標敵人頭上會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>理符目標表徵圖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 531,1,0,150422,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以查看剩餘敵人和限制時間等相關任務情況。
 
@@ -1145,13 +1143,13 @@ int32,byte,byte,Image,byte,str,str,str
 568,0,0,0,0,"","",""
 569,0,0,0,0,"","",""
 570,1,0,150681,0,"
-與委託人交談會打開交易窗口，將目標道具從背包<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖曳<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到交易窗口裡，或右鍵點擊道具再選擇「遞交」，之後點擊窗口中的「遞交」按鈕便可以完成任務。
+與委託人交談會打開交易視窗，將目標道具從背包<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖曳<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到交易視窗裡，或右鍵點擊道具再選擇「遞交」，之後點擊視窗中的「遞交」按鈕便可以完成任務。
 
-能工巧匠在交納優質道具後還可以領取到額外的追加報酬。","",""
+交納優質道具還可以領取到額外的追加報酬。","",""
 571,1,0,150682,0,"
-與委託人交談會打開交易窗口，在背包中選中目標道具，之後點擊窗口中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「遞交」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕便可以完成任務。
+與委託人交談會打開交易視窗，在背包中選中目標道具，之後點擊視窗中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「遞交」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕便可以完成任務。
 
-能工巧匠在交納優質道具後還可以領取到額外的追加報酬。","",""
+能工巧匠在交納優質道具還可以領取到額外的追加報酬。","",""
 572,0,0,0,0,"","",""
 573,0,0,0,0,"","",""
 574,0,0,0,0,"","",""
@@ -1236,7 +1234,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 依據任務成功與否及玩家的貢獻度情況，所獲取的報酬也會有所不同。
 
-所受的報酬內容會在任務結束出現的報酬窗口中顯示出來。","",""
+所受的報酬內容會在任務結束出現的報酬視窗中顯示出來。","",""
 621,1,0,150662,0,"
 貢獻度表示的是在危命任務的過程中的積極程度。
 
@@ -1266,7 +1264,7 @@ int32,byte,byte,Image,byte,str,str,str
 638,0,0,0,0,"","",""
 639,0,0,0,0,"","",""
 640,1,0,150721,0,"
-公會令開始之後會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務說明窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，裡面記有出當前任務的流程以及相關情報。","",""
+公會令開始之後會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務說明視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，裡面記有出當前任務的流程以及相關情報。","",""
 641,0,0,0,0,"","",""
 642,0,0,0,0,"","",""
 643,0,0,0,0,"","",""
@@ -1432,7 +1430,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 耐久度降為0%時，該裝備的性能將會完全無法發揮出來。","",""
 751,1,0,150312,0,"
-要確認裝備的耐久度時，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>進行查看。
+要確認裝備的耐久度時，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>進行查看。
 
 裝備的圖標邊上顯示有表示耐久度的耐久槽。","",""
 752,1,0,150313,0,"
@@ -1449,7 +1447,7 @@ int32,byte,byte,Image,byte,str,str,str
 760,1,0,150321,0,"
 能工巧匠可以自己修理受到損耗的裝備。
 
-選中要修理的裝備之後再選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>修理<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可開始進行修理。 ","",""
+選中要修理的裝備之後再選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>修理<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可開始進行修理。","",""
 761,1,0,150322,0,"
 每種裝備都有其特定的材質，材質不同的情況下對進行修理時所需的職業和等級的要求也不相同。
 
@@ -1537,7 +1535,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 例如想要查找適合35級弓箭手的所有腳部裝備，只需要在左側選中弓箭手圖標，再選中腳部防具圖標，並將等級指定為35級，此時再點擊搜索按鈕便會列出查找結果。","",""
 813,1,0,150484,0,"
-滿足查找條件的物品會全部在窗口中列出來。
+滿足查找條件的物品會全部在視窗中列出來。
 
 道具名右側的數值表示當前正在出售的數量。","",""
 814,0,0,0,0,"","",""
@@ -1547,7 +1545,7 @@ int32,byte,byte,Image,byte,str,str,str
 818,0,0,0,0,"","",""
 819,0,0,0,0,"","",""
 820,1,0,150491,0,"
-在列表中選中道具名之後，會在新窗口中以價格順序列出當前出售的情況。","",""
+在列表中選中道具名之後，會在新視窗中以價格順序列出當前出售的情況。","",""
 821,1,0,150492,0,"
 選中商品即可當場購買。不過購買時需要繳納5%的手續費。","",""
 822,0,0,0,0,"","",""
@@ -1801,7 +1799,7 @@ int32,byte,byte,Image,byte,str,str,str
 此外，在完成特定任務之前，
 部分道具無法進行染色。
 
-可以通過染色窗口確認染色條件，
+可以通過染色視窗確認染色條件，
 完成相應的任務就可以進行染色了。","",""
 953,1,0,151004,0,"
 想要為家具染色時，
@@ -2161,12 +2159,12 @@ int32,byte,byte,Image,byte,str,str,str
 通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「任務搜尋器」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能可以很方便快捷地參加各種迷宮以及公會令等需要組隊的內容。
 今後，將隨著冒險進程的推進追加各種各樣的任務。
 
-按下鍵盤上的U鍵，或者在快捷指令中點下「任務搜尋器」按鈕，都可以打開窗口進行下一步操作。","",""
+按下鍵盤上的U鍵，或者在快捷指令中點下「任務搜尋器」按鈕，都可以打開視窗進行下一步操作。","",""
 1171,1,0,151181,0,"
 通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「任務搜尋器」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能可以很方便快捷地參加各種迷宮以及公會令等需要組隊的內容。
 今後，將隨著冒險進程的推進開放各種各樣的任務。
 
-打開快捷指令，選擇「任務搜尋器」可以打開窗口進行下一步操作。","",""
+打開快捷指令，選擇「任務搜尋器」可以打開視窗進行下一步操作。","",""
 1172,0,0,0,0,"","",""
 1173,0,0,0,0,"","",""
 1174,0,0,0,0,"","",""
@@ -2182,9 +2180,9 @@ int32,byte,byte,Image,byte,str,str,str
 1181,1,0,151192,0,"
 開始搜索之後，畫面右側顯示任務情報的位置會出現搜尋器的圖標，可以隨時查看預約的狀況。
 
-點擊任務情報打開窗口可以查看當前的預約情況。窗口中會顯示當前的隊伍情況和伺服器預約情況。","",""
+點擊任務情報打開視窗可以查看當前的預約情況。視窗中會顯示當前的隊伍情況和伺服器預約情況。","",""
 1182,1,0,151193,0,"
-做好開始任務的準備之後，畫面中會打開出發確認窗口。之後便可以一起挑戰任務了。
+做好開始任務的準備之後，畫面中會打開出發確認視窗。之後便可以一起挑戰任務了。
 
 當然，任務開始之後一定不要忘記先和新朋友打聲招呼。接下來就一起向目標前進吧。","",""
 1183,0,0,0,0,"","",""
@@ -2566,18 +2564,18 @@ int32,byte,byte,Image,byte,str,str,str
 1389,0,0,0,0,"","",""
 1390,1,0,151591,0,"
 快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「小隊」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中追加了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「隊員招募」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能。
-打開隊員招募窗口可以查看符合自己當前狀態的招募資訊。同時也能夠直接在窗口中參加他人小隊、修改搜索條件以及主動招募隊員。","",""
+打開隊員招募視窗可以查看符合自己當前狀態的招募資訊。同時也能夠直接在視窗中參加他人小隊、修改搜索條件以及主動招募隊員。","",""
 1391,1,0,151592,0,"
 看到條件合適的招募資訊，直接打開詳細內容後便可以按下「參加」按鈕加入小隊。
 
 想要尋找隊伍的時候最好積極使用搜索功能。","",""
 1392,1,0,151593,0,"
-自己招募隊員時要首先打開「編輯招募內容窗口」，設定好目的和人數，再加上適當的說明，便可以開始進行招募了。
+自己招募隊員時要首先打開「編輯招募內容視窗」，設定好目的和人數，再加上適當的說明，便可以開始進行招募了。
 
 招募開始之後也可以隨時修改內容或撤銷招募。","",""
 1393,1,0,151591,0,"
 快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「小隊」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中追加了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「隊員招募」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能。
-打開隊員招募窗口可以查看符合自己當前狀態的招募資訊。同時也能夠直接在窗口中參加他人小隊、修改搜索條件以及主動招募隊員。","",""
+打開隊員招募視窗可以查看符合自己當前狀態的招募資訊。同時也能夠直接在視窗中參加他人小隊、修改搜索條件以及主動招募隊員。","",""
 1394,0,0,0,0,"","",""
 1395,0,0,0,0,"","",""
 1396,0,0,0,0,"","",""
@@ -2780,7 +2778,7 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>·很友善的隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 等等給人留下了良好印象的人。","",""
 1521,1,0,151722,0,"
-任務結束之後，畫面右下方會彈出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「最優隊員推薦」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的提示，點擊之後會打開投票窗口。
+任務結束之後，畫面右下方會彈出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「最優隊員推薦」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的提示，點擊之後會打開投票視窗。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※「最優隊員推薦」的投票只能投給申請參加任務時所在隊伍之外的玩家。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1522,1,0,151723,0,"
@@ -2972,11 +2970,11 @@ int32,byte,byte,Image,byte,str,str,str
 1630,1,0,151831,0,"
 在«最終幻想14»中，存在一種輔助玩家之間互相交流的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「定型文系統」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1631,1,0,151832,0,"
-在對話欄輸入文字時，按下「TAB」鍵會自動顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「定型文候選詞窗口」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+在對話欄輸入文字時，按下「TAB」鍵會自動顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「定型文候選詞視窗」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1632,1,0,151832,0,"
-在對話欄輸入文字時，按下<CommandIcon(13)/>鍵會自動顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「定型文候選詞窗口」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+在對話欄輸入文字時，按下<CommandIcon(13)/>鍵會自動顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「定型文候選詞視窗」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1633,1,0,151833,0,"
-在定型文候選詞窗口中按照<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2:【問候語】→3:你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的順序選擇之後，對話框中會出現<Gui(54)/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Gui(55)/>這樣帶有特殊括號的文字。","",""
+在定型文候選詞視窗中按照<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2:【問候語】→3:你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的順序選擇之後，對話框中會出現<Gui(54)/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Gui(55)/>這樣帶有特殊括號的文字。","",""
 1634,1,0,151834,0,"
 使用這種功能可以很快速地打出一些遊戲中常用的短語和用詞。","",""
 1635,1,0,151835,0,"
@@ -3116,7 +3114,7 @@ int32,byte,byte,Image,byte,str,str,str
 1711,1,0,151912,0,"
 在大國防聯軍內部，每天會張貼一份<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「怪物通緝令」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，每週會張貼一份<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「惡名菁英通緝令」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。接下這些通緝令並成功討伐通緝的敵人，也能夠得到同盟徽章。
 
-將收集到的同盟徽章交給各個組織窗口處的怪物狩獵負責人，可以交換到各種各樣的物品。 ","",""
+將收集到的同盟徽章交給各個組織視窗處的怪物狩獵負責人，可以交換到各種各樣的物品。","",""
 1712,0,0,0,0,"","",""
 1713,0,0,0,0,"","",""
 1714,0,0,0,0,"","",""
@@ -3550,11 +3548,11 @@ int32,byte,byte,Image,byte,str,str,str
 2073,0,0,0,0,"","",""
 2080,0,0,0,0,"","",""
 2090,1,0,152271,0,"
-打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寶箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的時候同時也會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的分配窗口。
+打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寶箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的時候同時也會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的分配視窗。
 
-如果是其他隊員打開了寶箱，畫面右下會彈出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品通知<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。左鍵點擊這個通知也會打開同樣的窗口。","",""
+如果是其他隊員打開了寶箱，畫面右下會彈出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品通知<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。左鍵點擊這個通知也會打開同樣的視窗。","",""
 2091,1,0,152272,0,"
-戰利品窗口中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「需求」「貪婪」「放棄」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>三個按鈕。
+戰利品視窗中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「需求」「貪婪」「放棄」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>三個按鈕。
 
 這三個按鈕表示玩家當前的希望程度。
 需求：真的非常需要。
@@ -3571,13 +3569,13 @@ int32,byte,byte,Image,byte,str,str,str
 
 組隊時最重要的就是和隊友的交流，最好別太過於貪心，適當和隊友商量一下戰利品的分配方法吧。","",""
 2094,1,0,152271,0,"
-打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寶箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的時候同時也會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的分配窗口。
+打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寶箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的時候同時也會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的分配視窗。
 
-如果是其他隊員打開了寶箱，畫面右下會彈出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品通知<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。選擇這個通知也會打開同樣的窗口。","",""
+如果是其他隊員打開了寶箱，畫面右下會彈出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>戰利品通知<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。選擇這個通知也會打開同樣的視窗。","",""
 2100,1,0,152281,0,"
 達到規定人數或解除限制的小隊在參加任務副本時，能夠選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>僅限貪婪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊長分配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這兩種分配方式。
 
-※隊長可以在任務搜尋器設定窗口中的分配方式裡進行設定，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>任務中無法變更設定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+※隊長可以在任務搜尋器設定視窗中的分配方式裡進行設定，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>任務中無法變更設定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 2101,1,0,152282,0,"
 在設定分配方式的時候，請先與小隊成員進行商量，設定一個符合小隊目的的分配方式吧。","",""
 2110,1,0,152291,0,"
@@ -3795,7 +3793,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 水族箱有4種型號，不同型號可放入的魚的數量有所不同。
 
-可以在「水族箱設定」窗口中對<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「環境」、「箱內裝飾」、「觀賞魚」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>進行設定。","",""
+可以在「水族箱設定」視窗中對<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「環境」、「箱內裝飾」、「觀賞魚」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>進行設定。","",""
 2251,1,0,152442,0,"
 通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「環境」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選項可以改變水族箱內的水環境。
 
@@ -3898,7 +3896,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，在騎乘飛行坐騎時，以一定角度接觸水面可以自動潛入水中。","",""
 2313,1,0,152504,0,"
-能夠潛水後，就可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「水中情感動作」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。試著打開情感動作窗口，在水中翻跟頭吧！
+能夠潛水後，就可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「水中情感動作」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。試著打開情感動作視窗，在水中翻跟頭吧！
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在水中使用的情感動作會在右下角標有標示。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2320,1,0,152511,0,"
@@ -3968,7 +3966,7 @@ int32,byte,byte,Image,byte,str,str,str
 2390,1,0,152581,0,"
 根據假面·羅斯給出的主題，完成時尚搭配接受假面·羅斯的評分，這就是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「時尚品鑒」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-每週主題都會變化。主題會在<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）發表，在<ResetTime>1206</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）開始評分。","",""
+每週主題都會變化。主題會在<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）發表，在<ResetTime>1206</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）開始評分。","",""
 2391,1,0,152582,0,"
 每個部位會被指定一個或數個主題。
 
@@ -4171,7 +4169,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 可以將「文理碎晶」投入文理融合器中提取記憶，從而獲得「文理技能」。","",""
 2497,1,0,152732,0,"
-文理技能獲得後會存儲在魔素板右側的窗口中，最多可存儲最近3次提取的技能。
+文理技能獲得後會存儲在魔素板右側的視窗中，最多可存儲最近3次提取的技能。
 使用存儲的文理技能即可獲得其中的記憶，將其化為任務指令使用。","",""
 2498,1,0,152733,0,"
 融合後會出現的文理技能種類，
@@ -4298,7 +4296,7 @@ int32,byte,byte,Image,byte,str,str,str
 收藏品採集與以往的採集不同，
 是在提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>收藏價值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後進行的特殊採集。
 
-詳細內容請從窗口左下的「？」標識進行確認。","",""
+詳細內容請從視窗左下的「？」標識進行確認。","",""
 2553,1,0,152871,0,"
 在進行採集時，觸發<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>額外採集獎勵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，
 獲得的道具數量將會額外增加一個。
@@ -4403,12 +4401,12 @@ int32,byte,byte,Image,byte,str,str,str
 
 將想要使用的技能添加到熱鍵欄，
 出發去尋找採集地點吧！","",""
-2573,1,0,152454,0,"要想改變召喚獸的外貌，
-需要完成對應任務。
-召喚師需要完成任務「召喚獸變形」
-學者需要完成任務「小仙女變形」
-完成各自特職對應的任務後，
-即可使用任務對應的召喚獸外貌。","",""
+2573,1,0,152454,0,"召喚士のペットは
+クエスト<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「変幻するエギ」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を、
+学者のペットは
+クエスト<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「変幻するフェアリー」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>を
+それぞれクリアすることで、
+見た目の変更が可能になります。","",""
 2574,0,0,0,0,"","",""
 2575,0,0,0,0,"","",""
 2576,0,0,0,0,"","",""

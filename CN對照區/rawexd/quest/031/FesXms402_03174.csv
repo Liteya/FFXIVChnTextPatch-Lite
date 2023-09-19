@@ -116,9 +116,9 @@ int32,str,str
 72,"TEXT_FESXMS402_03174_SYSTEM_000_023","左邊的通常提示符：需要在光圈與提示符重合時單擊按鍵
 右邊的連擊提示符：需要重合之後在一定時間內連擊按鍵
 可用的按鍵如下："
-73,"TEXT_FESXMS402_03174_SYSTEM_000_024","<If(Equal(PlayerParameter(80),0))>鼠标：在画面上任意位置点击鼠标左键或鼠标右键
-键盘：点击键盘上alt等特殊键之外的正常英文字母等标准按键
-此外，在音乐会途中将无法使用直接聊天模式。<Else/><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>：按下除<CommandIcon(18)/>以外的所有按键皆可　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>等</If>"
+73,"TEXT_FESXMS402_03174_SYSTEM_000_024","<If(Equal(PlayerParameter(80),0))>滑鼠：在畫面上任意位置點擊滑鼠左鍵或滑鼠右鍵
+鍵盤：點擊鍵盤上alt等特殊鍵之外的正常英文字母等標準按鍵
+此外，在音樂會途中將無法使用直接聊天模式。<Else/><If(GreaterThan(PlayerParameter(75),0))>手把<Else/>手把</If>：按下除<CommandIcon(18)/>以外的所有按鍵皆可　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>等</If>"
 74,"TEXT_FESXMS402_03174_SYSTEM_000_025","通過按下<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>鍵或者<CommandIcon(18)/>鍵，
 可以在中途結束聖夜的音樂會。"
 75,"TEXT_FESXMS402_03174_SYSTEM_000_026","如果沒有準確地配合音符按下按鍵，
@@ -155,9 +155,9 @@ int32,str,str
 89,"TEXT_FESXMS402_03174_SYSTEM_000_043","左邊的通常提示符：需要在光圈與提示符重合時單擊按鍵
 右邊的連擊提示符：需要重合之後在一定時間內連擊按鍵
 可用的按鍵如下："
-90,"TEXT_FESXMS402_03174_SYSTEM_000_044","<If(Equal(PlayerParameter(80),0))>鼠标：在画面上任意位置点击鼠标左键或鼠标右键
-键盘：点击键盘上alt等特殊键之外的正常英文字母等标准按键
-此外，在音乐会途中将无法使用直接聊天模式。<Else/><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>：按下除<CommandIcon(18)/>以外的所有按键皆可　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>等</If>"
+90,"TEXT_FESXMS402_03174_SYSTEM_000_044","<If(Equal(PlayerParameter(80),0))>滑鼠：在畫面上任意位置點擊滑鼠左鍵或滑鼠右鍵
+鍵盤：點擊鍵盤上alt等特殊鍵之外的正常英文字母等標準按鍵
+此外，在音樂會途中將無法使用直接聊天模式。<Else/><If(GreaterThan(PlayerParameter(75),0))>手把<Else/>手把</If>：按下除<CommandIcon(18)/>以外的所有按鍵皆可　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>等</If>"
 91,"TEXT_FESXMS402_03174_SYSTEM_000_045","通過按下<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>鍵或者<CommandIcon(18)/>鍵，
 可以在中途結束聖夜的音樂會。"
 92,"TEXT_FESXMS402_03174_SYSTEM_000_046","如果沒有準確地配合音符按下按鍵，
@@ -181,7 +181,7 @@ int32,str,str
 如果你願意的話，就再來幫幫忙吧！"
 99,"TEXT_FESXMS402_03174_BAENFAELD_000_062","執行委員長的阿姆也想對你表示感謝！
 你就去找她聊聊吧。"
-100,"TEXT_FESXMS402_03174_COMMITTEE03174A_000_032",""
-101,"TEXT_FESXMS402_03174_COMMITTEE03174A_000_033",""
-102,"TEXT_FESXMS402_03174_COMMITTEE03174B_000_052",""
-103,"TEXT_FESXMS402_03174_COMMITTEE03174B_000_053",""
+100,"TEXT_FESXMS402_03174_COMMITTEE03174A_000_032","（★未使用／削除予定★）"
+101,"TEXT_FESXMS402_03174_COMMITTEE03174A_000_033","（★未使用／削除予定★）"
+102,"TEXT_FESXMS402_03174_COMMITTEE03174B_000_052","（★未使用／削除予定★）"
+103,"TEXT_FESXMS402_03174_COMMITTEE03174B_000_053","（★未使用／削除予定★）"

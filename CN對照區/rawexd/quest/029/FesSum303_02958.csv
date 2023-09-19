@@ -33,7 +33,7 @@ int32,str,str
 21,"TEXT_FESSUM303_02958_SEQ_21",""
 22,"TEXT_FESSUM303_02958_SEQ_22",""
 23,"TEXT_FESSUM303_02958_SEQ_23",""
-24,"TEXT_FESSUM303_02958_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,10332,0)/><Else/>将<Sheet(Item,10332,0)/>交给希尔德拉娜</If>"
+24,"TEXT_FESSUM303_02958_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,10332,0)/><Else/>將<Sheet(Item,10332,0)/>交給希爾德拉娜</If>"
 25,"TEXT_FESSUM303_02958_TODO_01",""
 26,"TEXT_FESSUM303_02958_TODO_02",""
 27,"TEXT_FESSUM303_02958_TODO_03",""

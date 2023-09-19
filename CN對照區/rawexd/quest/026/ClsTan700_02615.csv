@@ -31,7 +31,7 @@ int32,str,str
 25,"TEXT_CLSTAN700_02615_TODO_01","和艾尼恩對話"
 26,"TEXT_CLSTAN700_02615_TODO_02","再次和艾尼恩對話"
 27,"TEXT_CLSTAN700_02615_TODO_03","和製革匠公會附近的阿特魯納對話"
-28,"TEXT_CLSTAN700_02615_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17916,0)/><Else/>将<Sheet(ItemHQ,17916,0)/>交给艾尼恩</If>"
+28,"TEXT_CLSTAN700_02615_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17916,0)/><Else/>將<Sheet(ItemHQ,17916,0)/>交給艾尼恩</If>"
 29,"TEXT_CLSTAN700_02615_TODO_05","（★未使用／削除予定★）"
 30,"TEXT_CLSTAN700_02615_TODO_06",""
 31,"TEXT_CLSTAN700_02615_TODO_07",""

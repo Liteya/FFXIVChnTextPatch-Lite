@@ -77,12 +77,12 @@ int32,str,str
 58,"TEXT_FESANV602_03974_ANV07GOLDSMITH_000_005","好，那就準備開始吧！"
 59,"TEXT_FESANV602_03974_SYSTEM_000_006","開始修復彩繪玻璃。
 操作方法如下。<If(Equal(PlayerParameter(80),0))>
-（未变更设置的情况下）<Else/></If>"
-60,"TEXT_FESANV602_03974_SYSTEM_100_006","<If(Equal(PlayerParameter(80),0))>向左拖动鼠标：向左移动
-向右拖动鼠标：向右移动
-选择碎片／放置　取消选择碎片<Else/><CommandIcon(3)/>：向左移动
-<CommandIcon(4)/>：向右移动
-<CommandIcon(8)/>选择碎片／放置　<CommandIcon(9)/>取消选择碎片</If>"
+（未變更設定的情況下）<Else/></If>"
+60,"TEXT_FESANV602_03974_SYSTEM_100_006","<If(Equal(PlayerParameter(80),0))>向左拖動滑鼠：向左移動
+向右拖動滑鼠：向右移動
+選擇碎片／放置　取消選擇碎片<Else/><CommandIcon(3)/>：向左移動
+<CommandIcon(4)/>：向右移動
+<CommandIcon(8)/>選擇碎片／放置　<CommandIcon(9)/>取消選擇碎片</If>"
 61,"TEXT_FESANV602_03974_ANV07GOLDSMITH_000_015","是想起來有什麼事要做嗎？
 如果還願意繼續幫忙的話，請再來跟我打聲招呼哦。"
 62,"TEXT_FESANV602_03974_ANV07GOLDSMITH_000_020","好了，完美地拼湊整齊了！

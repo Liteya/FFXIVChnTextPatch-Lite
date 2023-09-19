@@ -56,7 +56,7 @@ int32,str,str
 你幫助我們神殿騎士分憂，也就是為聖戰出力。
 你可以為此感到光榮，不過也要盡快完成工作啊。"
 50,"TEXT_GAIUSB909_00932_DUMMY_000_010","打倒4隻駿鷹，獲得<Sheet(EventItem,2000728,0)/>"
-51,"TEXT_GAIUSB909_00932_DUMMYTODO_000_010","無"
+51,"TEXT_GAIUSB909_00932_DUMMYTODO_000_010","（★未使用／削除予定★）"
 52,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_020","你拿到<Sheet(EventItem,2000728,0)/>了嗎？
 希望你能準備4份。"
 53,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_030","嗯，這些<Sheet(EventItem,2000728,0)/>品質很不錯，辛苦了。

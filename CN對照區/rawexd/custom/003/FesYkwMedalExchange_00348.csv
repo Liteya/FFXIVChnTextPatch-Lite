@@ -9,10 +9,10 @@ int32,str,str
 今天是來看我的嗎？
 還是說還有什麼想要的東西？"
 3,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_001","（★未使用／削除予定★）"
-4,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_001",""
-5,"TEXT_FESYKWMEDALEXCHANGE_00348_Q4_000_001",""
-6,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_001",""
-7,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_002",""
+4,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_001","（★未使用／削除予定★）"
+5,"TEXT_FESYKWMEDALEXCHANGE_00348_Q4_000_001","（★未使用／削除予定★）"
+6,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_001","（★未使用／削除予定★）"
+7,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_002","（★未使用／削除予定★）"
 8,"TEXT_FESYKWMEDALEXCHANGE_00348_Q1_000_001","要做什麼？"
 9,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_001","交換寵物"
 10,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_002","交換武器"
@@ -51,7 +51,7 @@ int32,str,str
 這就是你的新朋友，<Sheet(Companion,IntegerParameter(1),0)/>！
 要和睦相處哦！"
 31,"TEXT_FESYKWMEDALEXCHANGE_00348_Q3_000_001","要交換哪種武器？"
-32,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_001","<Sheet(Item,IntegerParameter(3),0)/>:<Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>单手剑<Else/><If(Equal(IntegerParameter(1),15209))>格斗武器<Else/><If(Equal(IntegerParameter(1),15210))>大斧<Else/><If(Equal(IntegerParameter(1),15211))>长枪<Else/><If(Equal(IntegerParameter(1),15212))>弓<Else/><If(Equal(IntegerParameter(1),15213))>双剑<Else/><If(Equal(IntegerParameter(1),15214))>双手剑<Else/><If(Equal(IntegerParameter(1),15215))>火枪<Else/><If(Equal(IntegerParameter(1),15216))>双手幻杖<Else/><If(Equal(IntegerParameter(1),15217))>双手咒杖<Else/><If(Equal(IntegerParameter(1),15218))>魔导书：召唤师<Else/><If(Equal(IntegerParameter(1),15219))>魔导书：学者<Else/><If(Equal(IntegerParameter(1),15220))>天球仪<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/>＆盾</If>)"
+32,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_001","<Sheet(Item,IntegerParameter(3),0)/>:<Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>單手劍<Else/><If(Equal(IntegerParameter(1),15209))>格鬥武器<Else/><If(Equal(IntegerParameter(1),15210))>大斧<Else/><If(Equal(IntegerParameter(1),15211))>長槍<Else/><If(Equal(IntegerParameter(1),15212))>弓<Else/><If(Equal(IntegerParameter(1),15213))>雙劍<Else/><If(Equal(IntegerParameter(1),15214))>雙手劍<Else/><If(Equal(IntegerParameter(1),15215))>火槍<Else/><If(Equal(IntegerParameter(1),15216))>雙手幻杖<Else/><If(Equal(IntegerParameter(1),15217))>雙手咒杖<Else/><If(Equal(IntegerParameter(1),15218))>魔導書：召喚師<Else/><If(Equal(IntegerParameter(1),15219))>魔導書：學者<Else/><If(Equal(IntegerParameter(1),15220))>天球儀<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/>＆盾</If>)"
 33,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_002","取消"
 34,"TEXT_FESYKWMEDALEXCHANGE_00348_Q5_000_001","確定要使用<Value>IntegerParameter(5)</Value>枚<Sheet(Item,IntegerParameter(3),0)/>，
 交換<Sheet(Item,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))><Else/>和<Sheet(Item,IntegerParameter(2),0)/></If>嗎？"
@@ -100,7 +100,7 @@ int32,str,str
 通過參加指定地區的危命任務做出貢獻後偶爾獲得。
 請在妖怪大辭典中確認指定地區的詳情，試著進行挑戰吧。"
 56,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_034","「妖怪大辭典」可以從「重要物品」或「寵物一覽」處打開。"
-57,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_035",""
+57,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_035","（★未使用／削除予定★）"
 58,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_040","看來你已經收集了13種武器啊。
 哎呀，你真是太努力了，真令我吃驚。
 總之恭喜你了！"
@@ -132,7 +132,7 @@ int32,str,str
 就讓我以朋友的身份和你一起冒險吧！"
 70,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_001","交換武器（戰鬥菁英）"
 71,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_002","交換武器（魔法導師）"
-72,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_003","<Sheet(Item,IntegerParameter(3),0)/>:<Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>单手剑<Else/><If(Equal(IntegerParameter(1),15209))>格斗武器<Else/><If(Equal(IntegerParameter(1),15210))>大斧<Else/><If(Equal(IntegerParameter(1),15211))>长枪<Else/><If(Equal(IntegerParameter(1),15212))>弓<Else/><If(Equal(IntegerParameter(1),15213))>双剑<Else/><If(Equal(IntegerParameter(1),15214))>双手剑<Else/><If(Equal(IntegerParameter(1),15215))>火枪<Else/><If(Equal(IntegerParameter(1),15216))>双手幻杖<Else/><If(Equal(IntegerParameter(1),15217))>双手咒杖<Else/><If(Equal(IntegerParameter(1),15218))>魔导书：召唤师<Else/><If(Equal(IntegerParameter(1),15219))>魔导书：学者<Else/><If(Equal(IntegerParameter(1),15220))>天球仪<Else/><If(Equal(IntegerParameter(1),30807))>武士刀<Else/><If(Equal(IntegerParameter(1),30808))>刺剑<Else/><If(Equal(IntegerParameter(1),30809))>枪刃<Else/><If(Equal(IntegerParameter(1),30810))>投掷武器<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/>＆盾</If>)"
+72,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_003","<Sheet(Item,IntegerParameter(3),0)/>:<Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>單手劍<Else/><If(Equal(IntegerParameter(1),15209))>格鬥武器<Else/><If(Equal(IntegerParameter(1),15210))>大斧<Else/><If(Equal(IntegerParameter(1),15211))>長槍<Else/><If(Equal(IntegerParameter(1),15212))>弓<Else/><If(Equal(IntegerParameter(1),15213))>雙劍<Else/><If(Equal(IntegerParameter(1),15214))>雙手劍<Else/><If(Equal(IntegerParameter(1),15215))>火槍<Else/><If(Equal(IntegerParameter(1),15216))>雙手幻杖<Else/><If(Equal(IntegerParameter(1),15217))>雙手咒杖<Else/><If(Equal(IntegerParameter(1),15218))>魔導書：召喚師<Else/><If(Equal(IntegerParameter(1),15219))>魔導書：學者<Else/><If(Equal(IntegerParameter(1),15220))>天球儀<Else/><If(Equal(IntegerParameter(1),30807))>武士刀<Else/><If(Equal(IntegerParameter(1),30808))>刺劍<Else/><If(Equal(IntegerParameter(1),30809))>槍刃<Else/><If(Equal(IntegerParameter(1),30810))>投擲武器<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/>＆盾</If>)"
 73,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_061","真是令人驚訝，你居然集齊了所有的武器。
 你的收藏家精神真是值得讚賞。
 恭喜你啦！"

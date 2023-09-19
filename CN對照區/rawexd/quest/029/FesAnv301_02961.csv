@@ -120,12 +120,12 @@ int32,str,str
 找到潛藏在深處的暗號吧。"
 73,"TEXT_FESANV301_02961_SYSTEM_000_060","開始攻略便宜迷宮。
 操作方法如下。<If(Equal(PlayerParameter(80),0))>
-（未变更设置的情况下）<Else/></If>"
-74,"TEXT_FESANV301_02961_SYSTEM_000_061","<If(Equal(PlayerParameter(80),0))>［W］键：前进、［S］键：后退
-［A］键：向左转、［D］键：向右转
-［Q］键：向左平行移动、［E］键：向右平行移动<Else/><CommandIcon(1)/>前进　　　　<CommandIcon(2)/>后退
-<CommandIcon(3)/>向左转　　　<CommandIcon(4)/>向右转
-<CommandIcon(12)/>向左平行移动　<CommandIcon(13)/>向右平行移动</If>"
+（未變更設定的情況下）<Else/></If>"
+74,"TEXT_FESANV301_02961_SYSTEM_000_061","<If(Equal(PlayerParameter(80),0))>［W］鍵：前進、［S］鍵：後退
+［A］鍵：向左轉、［D］鍵：向右轉
+［Q］鍵：向左平行移動、［E］鍵：向右平行移動<Else/><CommandIcon(1)/>前進　　　　<CommandIcon(2)/>後退
+<CommandIcon(3)/>向左轉　　　<CommandIcon(4)/>向右轉
+<CommandIcon(12)/>向左平行移動　<CommandIcon(13)/>向右平行移動</If>"
 75,"TEXT_FESANV301_02961_WANDERINGMINSTREL_000_100","……這就是解咒的暗號啊。
 沒想到這麼快就找出來了，不愧是冒險者！
 雖然很想好好報答你……不過現在還是逃離這裡更要緊。"

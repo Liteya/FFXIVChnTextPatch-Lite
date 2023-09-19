@@ -6,8 +6,8 @@ int32,str
 2,"尋找道具"
 3,"殲滅敵人"
 4,"追擊敵人"
-5,"令敵人弱化，並利用<If(Equal(IntegerParameter(1),0))>情感动作“安抚”<Else/><Sheet(EventItem,IntegerParameter(1),0)/></If>將其馴服"
-6,"通過<If(Equal(IntegerParameter(1),0))>攻击<Else/>使用<Sheet(EventItem,IntegerParameter(1),0)/></If>來識破敵人的真身並進行討伐"
+5,"令敵人弱化，並利用<If(Equal(IntegerParameter(1),0))>情感動作「安撫」<Else/><Sheet(EventItem,IntegerParameter(1),0)/></If>將其馴服"
+6,"通過<If(Equal(IntegerParameter(1),0))>攻擊<Else/>使用<Sheet(EventItem,IntegerParameter(1),0)/></If>來識破敵人的真身並進行討伐"
 7,"在指定地點巡邏，並擊退敵人"
 8,"收集«妖異全集»的書頁
 召喚出被封印的魔物並將其打倒"
@@ -54,7 +54,7 @@ int32,str
 29,""
 30,"打倒呼叫增援的敵人"
 31,"失敗條件：沒有達到目標數量"
-32,"打倒對「<If(Equal(IntegerParameter(1),1))>戳指<Else/>质疑</If>」動作有反應的敵人
+32,"打倒對「<If(Equal(IntegerParameter(1),1))>戳指<Else/>質疑</If>」動作有反應的敵人
 獲得<Sheet(EventItem,IntegerParameter(2),0)/>"
 33,"失敗條件：失去所有<Sheet(BNpcName,IntegerParameter(1),0)/>"
 34,"從<Sheet(BNpcName,IntegerParameter(1),0)/>身上獲得<Sheet(EventItem,IntegerParameter(2),0)/>

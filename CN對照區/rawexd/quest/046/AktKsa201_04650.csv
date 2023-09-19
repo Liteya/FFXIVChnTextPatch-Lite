@@ -96,7 +96,7 @@ int32,str,str
 65,"TEXT_AKTKSA201_04650_EMMANELLAIN_000_044","我需要做一些準備，你先去阿巴拉提亞雲海，
 找玫瑰園的拉妮艾特談談！
 我們當地集合吧！"
-66,"TEXT_AKTKSA201_04650_EMMANELLAIN_000_050",""
+66,"TEXT_AKTKSA201_04650_EMMANELLAIN_000_050","（★未使用／削除予定★）"
 67,"TEXT_AKTKSA201_04650_LANIAITTE_000_060","<Highlight>ObjectParameter(1)</Highlight>閣下，許久不見。
 你手中拿著的莫非是……？"
 68,"TEXT_AKTKSA201_04650_LANIAITTE_000_070","這就是傳聞中大繁榮商店開發的裝備啊……
@@ -334,7 +334,7 @@ int32,str,str
 你們交易時 要小心！"
 171,"TEXT_AKTKSA201_04650_CAITSITH_000_280","利奧法德有沒有露出什麼馬腳啊？
 他有時會因為自尊心失控。"
-172,"TEXT_AKTKSA201_04650_STACIA_000_282",""
+172,"TEXT_AKTKSA201_04650_STACIA_000_282","（★未使用／削除予定★）"
 173,"TEXT_AKTKSA201_04650_LEOFARD_000_300","差不多了吧……
 斯塔西婭，傳聞擴散得怎麼樣了？"
 174,"TEXT_AKTKSA201_04650_STACIA_000_301","現在大家都在談論關於你們的事。

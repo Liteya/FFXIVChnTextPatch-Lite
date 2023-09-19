@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANQIQ114_03819_SEQ_22",""
 23,"TEXT_BANQIQ114_03819_SEQ_23",""
 24,"TEXT_BANQIQ114_03819_TODO_00","在「說話」頻道下輸入「啦嘿」
-在四晨星附近呼喚古老的守護石像"
+在四晨星附近呼喚古老的守護石像 (la-hee)"
 25,"TEXT_BANQIQ114_03819_TODO_01","向柯呫盧利·帕嗦梸報告"
 26,"TEXT_BANQIQ114_03819_TODO_02",""
 27,"TEXT_BANQIQ114_03819_TODO_03",""
@@ -75,4 +75,4 @@ int32,str,str
 56,"TEXT_BANQIQ114_03819_QHOTERLPASOL_000_041","真是充滿歷史感的語言啊！
 早上豎起耳朵，甚至能感覺到
 各位祖先正在用「啦嘿！」向某等問好是也。"
-57,"TEXT_BANQIQ114_03819_SAYTODO_000_000","啦嘿"
+57,"TEXT_BANQIQ114_03819_SAYTODO_000_000","la-hee"

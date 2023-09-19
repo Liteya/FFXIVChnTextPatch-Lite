@@ -134,7 +134,7 @@ int32,str,str
 我們拿上肉丸分頭尋找吧。"
 92,"TEXT_AKTKMC108_04406_SYSTEM_000_100","開始尋找奔行威。
 尋找不停奔跑一直說話的兔兔族，
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>扔出肉丸！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>扔出肉丸！"
 93,"TEXT_AKTKMC108_04406_RUNNINGWAY_000_101","嗯嗯？
 我的確是奔行威，
 為了讓我停下來不惜扔出慕斯肉丸，到底有何事？"

@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_LUCKSA110_03950_TODO_23",""
 48,"TEXT_LUCKSA110_03950_SYSTEM_100_000","若要領取或繼續推進本任務，
 需要義軍等級達到「<Value>IntegerParameter(1)</Value>」以上。"
-49,"TEXT_LUCKSA110_03950_LILJA_110_000",""
+49,"TEXT_LUCKSA110_03950_LILJA_110_000","（★未使用／削除予定★）"
 50,"TEXT_LUCKSA110_03950_LILJA_000_000","英雄，聽我說！
 我靈光一現冒出了一個想法，
 說不定能掌握水琴小姐的位置！"

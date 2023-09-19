@@ -60,7 +60,7 @@ int32,str,str
 因此，盡量提高品質後做出成品是尤為重要的。"
 31,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_002","提高品質成功時，
 自身便會附加「內靜」。"
-32,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_003",""
+32,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_003","（★未使用／削除予定★）"
 33,"TEXT_CTSSFSCHARACTER6_00674_GUIDE_004_004","盡可能地多積攢內靜，
 最後用「比爾格的祝福」等技能
 一口氣提高品質後，就可以完成製作了。"
@@ -119,7 +119,7 @@ int32,str,str
 56,"TEXT_CTSSFSCHARACTER6_00674_TUTORIAL_001_002","另外，每週最多可以交貨6次。
 積極地交納收藏品，提高信賴等級吧！"
 57,"TEXT_CTSSFSCHARACTER6_00674_WEEKLYLIMIT_000_000","本週的交貨次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 58,"TEXT_CTSSFSCHARACTER6_00674_KNOWLEDGE_EHLLTOU_001_000","這就是「採集」要使用的工具嗎，真是不可思議呀！
 就這樣收集各種素材和部件，製作東西……
 這可是龍族不具有的浪漫呢！！"
@@ -345,7 +345,7 @@ int32,str,str
 160,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_113","從附近路過的時候，
 總是能聞到許多食物混在一起的、複雜而有魅力的香味……
 每次我都覺得很不可思議呢！"
-161,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_114",""
+161,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_EHLLTOU_002_114","（★未使用／削除予定★）"
 162,"TEXT_CTSSFSCHARACTER6_00674_LCUT_RANKUP_HAUTDLONG_002_114","你是在說「菜餚」吧？
 確實，這個應該可以引起龍族的興趣！
 進食對龍族也是很重要的事呢！"
@@ -444,7 +444,7 @@ int32,str,str
 我會努力讓更多的人和龍看到它的！"
 209,"TEXT_CTSSFSCHARACTER6_00674_RANKUP_EHLLTOU_006_007","就是這樣，今後也請你繼續見證我們的活躍吧！"
 210,"TEXT_CTSSFSCHARACTER6_00674_AFTWEEKLY_000_000","本週向<Sheet(ENpcResident,IntegerParameter(1),0)/>交貨的次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 211,"TEXT_CTSSFSCHARACTER6_00674_EHLLTOU_000_000","哇，英雄！
 你戰鬥時的英姿也很帥氣呢！"
 212,"TEXT_CTSSFSCHARACTER6_00674_EHLLTOU_000_001","但是要指導「製作」的話，得穿上適合「製作」的衣服才行！"

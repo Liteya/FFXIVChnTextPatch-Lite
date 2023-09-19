@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_LUCKZJ019_03582_TODO_21",""
 46,"TEXT_LUCKZJ019_03582_TODO_22",""
 47,"TEXT_LUCKZJ019_03582_TODO_23",""
-48,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_000","請等一下，那邊那位，人類<If(PlayerParameter(4))>小姑娘<Else/>小伙子</If>。
+48,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_000","請等一下，那邊那位，人類<If(PlayerParameter(4))>小姑娘<Else/>小夥子</If>。
 來給我這個，老淵斯，幫個忙吧。"
 49,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_001","我們鰭人族，保護著，遠古的遺跡。
 為此，我們不斷，與前來搗亂的海洋生物戰鬥。
@@ -65,7 +65,7 @@ int32,str,str
 52,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_010","長著硬鱗片的傢伙，用這個<Sheet(EventItem,2002836,0)/>，就能吸引到，
 只要它現身，你就立刻，使用<Sheet(EventItem,2002837,0)/>。
 打倒它，拿到它的硬鱗，回來交給我。"
-53,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_020","哦，人類<If(PlayerParameter(4))>小姑娘<Else/>小伙子</If>。
+53,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_020","哦，人類<If(PlayerParameter(4))>小姑娘<Else/>小夥子</If>。
 這麼快就回來了。
 你拿到<Sheet(EventItem,2002838,0)/>了嗎？"
 54,"TEXT_LUCKZJ019_03582_AMSHSAATH_000_021","沒錯，就是這個，謝天謝地。

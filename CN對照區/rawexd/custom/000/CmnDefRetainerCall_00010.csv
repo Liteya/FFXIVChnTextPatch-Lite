@@ -77,7 +77,7 @@ int32,str,str
 66,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_ROEGADYN_FEMALE_TYPE4","有何貴幹？"
 67,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_ROEGADYN_FEMALE_TYPE5","讓你瞧瞧我的工作態度有多端正吧。"
 68,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_ROEGADYN_FEMALE_TYPE6","有事的話就交給我吧。"
-69,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_MALE_TYPE1","喲，<If(PlayerParameter(4))>小姐<Else/>老板</If>！
+69,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_MALE_TYPE1","喲，<If(PlayerParameter(4))>小姐<Else/>老闆</If>！
 今天找我是有什麼事啊！"
 70,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_MALE_TYPE2","跟我不要客氣，有話就說！"
 71,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_MALE_TYPE3","竟然敢直呼我的名字……
@@ -88,7 +88,7 @@ int32,str,str
 可別讓我做太麻煩的事情啊。"
 74,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_MALE_TYPE6","我是隨叫隨到的小跟班！
 我的主人，你找我是有什麼好事嗎？"
-75,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_FEMALE_TYPE1","你找我嗎，<If(PlayerParameter(4))>小姐<Else/>老板</If>？
+75,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_FEMALE_TYPE1","你找我嗎，<If(PlayerParameter(4))>小姐<Else/>老闆</If>？
 有什麼事你儘管說！"
 76,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_FEMALE_TYPE2","既然把我找來，想必是有什麼事吧？"
 77,"TEXT_CMNDEFRETAINERCALL_00010_ENTER_AURA_FEMALE_TYPE3","你好像在叫我。
@@ -337,7 +337,7 @@ int32,str,str
 274,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_ROEGADYN_FEMALE_TYPE4","我知道了。"
 275,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_ROEGADYN_FEMALE_TYPE5","有眼光，交給我是不會有錯的！"
 276,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_ROEGADYN_FEMALE_TYPE6","誠心誠意為你服務。"
-277,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_AURA_MALE_TYPE1","我會為了<If(PlayerParameter(4))>小姐<Else/>老板</If>上刀山下火海！
+277,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_AURA_MALE_TYPE1","我會為了<If(PlayerParameter(4))>小姐<Else/>老闆</If>上刀山下火海！
 開玩笑啦！你就好好期待我的回歸吧！"
 278,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_AURA_MALE_TYPE2","好嘞，打起精神出發吧！"
 279,"TEXT_CMNDEFRETAINERCALL_00010_ACCEPT_AURA_MALE_TYPE3","今晚又要有可憐的小羊羔成為我的犧牲品了……
@@ -431,7 +431,7 @@ int32,str,str
 354,"TEXT_CMNDEFRETAINERCALL_00010_COMPLETE_AURA_MALE_TYPE6","嘿嘿嘿……不必多言。
 你的喜悅心情我已經完全感受到了！"
 355,"TEXT_CMNDEFRETAINERCALL_00010_COMPLETE_AURA_FEMALE_TYPE1","……你喜歡嗎？
-希望這個能夠帶給<If(PlayerParameter(4))>小姐<Else/>老板</If>你好運！"
+希望這個能夠帶給<If(PlayerParameter(4))>小姐<Else/>老闆</If>你好運！"
 356,"TEXT_CMNDEFRETAINERCALL_00010_COMPLETE_AURA_FEMALE_TYPE2","嘿嘿！簡直小菜一碟！
 啊，出了點汗還挺舒服！"
 357,"TEXT_CMNDEFRETAINERCALL_00010_COMPLETE_AURA_FEMALE_TYPE3","拿去吧。
@@ -486,8 +486,8 @@ int32,str,str
 389,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_6","可以用軍票交換獲得探險幣，
 也可以通過完成友好部族日常任務、公會理符任務獲得探險幣。"
 390,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_1","委託<Highlight>StringParameter(1)</Highlight>進行探險。"
-391,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_2","這次探險所需時間為<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/>1分钟</If></If>。
-在<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/>1分钟</If></If>後再來確認情況吧。"
+391,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_2","這次探險所需時間為<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/>1分鐘</If></If>。
+在<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/>1分鐘</If></If>後再來確認情況吧。"
 392,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_3","僱員選單中追加了「查看僱員探險情況」一項。
 可以查看委託的內容和剩餘時間。"
 393,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_4","剩餘時間可以在僱員選單和任務情報中查看。"
@@ -603,7 +603,7 @@ int32,str,str
 475,"TEXT_CMNDEFRETAINERCALL_00010_ENTER2_AURA_MALE_TYPE6","你就那麼急著想見我嗎？！
 哈哈哈，其實我也一樣！"
 476,"TEXT_CMNDEFRETAINERCALL_00010_ENTER2_AURA_FEMALE_TYPE1","來了、來了！
-<If(PlayerParameter(4))>小姐<Else/>老板</If>，怎麼了？"
+<If(PlayerParameter(4))>小姐<Else/>老闆</If>，怎麼了？"
 477,"TEXT_CMNDEFRETAINERCALL_00010_ENTER2_AURA_FEMALE_TYPE2","別一點小事就叫我回來，真是的！
 沒有我你就什麼都幹不了嗎？"
 478,"TEXT_CMNDEFRETAINERCALL_00010_ENTER2_AURA_FEMALE_TYPE3","竟然在我冒險的時候叫我回來，你還真是會指使人。
@@ -761,7 +761,7 @@ int32,str,str
 611,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_ROEGADYN_FEMALE_TYPE4","我回來了。"
 612,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_ROEGADYN_FEMALE_TYPE5","結束了一件工作！"
 613,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_ROEGADYN_FEMALE_TYPE6","我回來了。"
-614,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_AURA_MALE_TYPE1","<If(PlayerParameter(4))>小姐<Else/>老板</If>，我回來了！
+614,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_AURA_MALE_TYPE1","<If(PlayerParameter(4))>小姐<Else/>老闆</If>，我回來了！
 這是我給你的禮物！請收下吧。"
 615,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_AURA_MALE_TYPE2","我可是全力以赴了！"
 616,"TEXT_CMNDEFRETAINERCALL_00010_ENTER3_AURA_MALE_TYPE3","恭迎我的回歸吧！

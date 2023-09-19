@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_JOBREL501_02397_SEQ_21",""
 22,"TEXT_JOBREL501_02397_SEQ_22",""
 23,"TEXT_JOBREL501_02397_SEQ_23",""
-24,"TEXT_JOBREL501_02397_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>收集<Sheet(Item,16933,0)/><Else/>将<Sheet(Item,16933,0)/>交给加工系统</If>"
+24,"TEXT_JOBREL501_02397_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>收集<Sheet(Item,16933,0)/><Else/>將<Sheet(Item,16933,0)/>交給加工系統</If>"
 25,"TEXT_JOBREL501_02397_TODO_01",""
 26,"TEXT_JOBREL501_02397_TODO_02",""
 27,"TEXT_JOBREL501_02397_TODO_03",""

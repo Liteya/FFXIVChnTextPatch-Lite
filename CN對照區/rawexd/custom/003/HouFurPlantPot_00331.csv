@@ -17,6 +17,6 @@ int32,str,str
 13,"TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_NO","否"
 14,"TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_VIGOROUS","種著<Sheet(Item,IntegerParameter(1),0)/>，正茁壯成長。"
 15,"TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_DEPRESSED","種著<Sheet(Item,IntegerParameter(1),0)/>，狀態不太好……"
-16,"TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT","看起來會開出<Switch(IntegerParameter(1))><Case(1)>红</Case><Case(2)>蓝</Case><Case(3)>黄</Case><Case(4)>绿</Case><Case(5)>橙</Case><Case(6)>紫</Case><Case(7)>未知颜</Case></Switch>色的花朵……"
-17,"TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT_UNKNOWN","看起來會開出<Switch(IntegerParameter(1))><Case(1)>红</Case><Case(2)>蓝</Case><Case(3)>黄</Case><Case(4)>绿</Case><Case(5)>橙</Case><Case(6)>紫</Case></Switch>色，亦或是稀有顏色的花朵……"
+16,"TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT","看起來會開出<Switch(IntegerParameter(1))><Case(1)>紅</Case><Case(2)>藍</Case><Case(3)>黃</Case><Case(4)>綠</Case><Case(5)>橙</Case><Case(6)>紫</Case><Case(7)>未知顏</Case></Switch>色的花朵……"
+17,"TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT_UNKNOWN","看起來會開出<Switch(IntegerParameter(1))><Case(1)>紅</Case><Case(2)>藍</Case><Case(3)>黃</Case><Case(4)>綠</Case><Case(5)>橙</Case><Case(6)>紫</Case></Switch>色，亦或是稀有顏色的花朵……"
 18,"TEXT_HOUFURPLANTPOT_00331_FLOWERED","開著<Sheet(Item,IntegerParameter(1),0)/>。"

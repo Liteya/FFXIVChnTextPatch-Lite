@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","呀，最近有什麼新奇的事情嗎？
 如果有能讓我寫成詩歌的冒險故事，請務必講給我聽。"
-1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","講述「<If(Equal(IntegerParameter(1),20047))>豪神须佐之男<Else/><If(Equal(IntegerParameter(1),20049))>美神吉祥天女<Else/><If(Equal(IntegerParameter(1),20050))>神龙<Else/><If(Equal(IntegerParameter(1),30057))>龙神巴哈姆特<Else/><If(Equal(IntegerParameter(1),30067))>究极神兵<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神月读<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/><If(Equal(IntegerParameter(1),20061))>青龙<Else/><If(Equal(IntegerParameter(1),30086))>亚历山大<Else/></If></If></If></If></If></If></If></If></If></If>」的故事"
+1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","講述「<If(Equal(IntegerParameter(1),20047))>豪神須佐之男<Else/><If(Equal(IntegerParameter(1),20049))>美神吉祥天女<Else/><If(Equal(IntegerParameter(1),20050))>神龍<Else/><If(Equal(IntegerParameter(1),30057))>龍神巴哈姆特<Else/><If(Equal(IntegerParameter(1),30067))>究極神兵<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神月讀<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/><If(Equal(IntegerParameter(1),20061))>青龍<Else/><If(Equal(IntegerParameter(1),30086))>亞歷山大<Else/></If></If></If></If></If></If></If></If></If></If>」的故事"
 2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","取消"
 3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……現在有比回顧過去更加重要的事情要做？
 哈哈哈，每次迎來新的冒險時，你的雙眼都會閃閃發光。

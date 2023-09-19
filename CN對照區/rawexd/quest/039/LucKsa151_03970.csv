@@ -31,7 +31,7 @@ int32,str,str
 21,"TEXT_LUCKSA151_03970_SEQ_21",""
 22,"TEXT_LUCKSA151_03970_SEQ_22",""
 23,"TEXT_LUCKSA151_03970_SEQ_23",""
-24,"TEXT_LUCKSA151_03970_TODO_00","卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,30228,0)/>与<Sheet(Item,30245,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,30229,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,30230,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,30231,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,30232,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,30236,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,30237,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,30238,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,30239,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,30233,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,30235,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,30234,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,30240,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,30241,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,30242,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,30243,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,30244,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
+24,"TEXT_LUCKSA151_03970_TODO_00","卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,30228,0)/>與<Sheet(Item,30245,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,30229,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,30230,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,30231,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,30232,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,30236,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,30237,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,30238,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,30239,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,30233,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,30235,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,30234,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,30240,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,30241,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,30242,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,30243,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,30244,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
 將3種記憶晶塊交給甘戈斯的茲拉坦"
 25,"TEXT_LUCKSA151_03970_TODO_01",""
 26,"TEXT_LUCKSA151_03970_TODO_02",""
@@ -186,4 +186,4 @@ int32,str,str
 104,"TEXT_LUCKSA151_03970_ZLATAN_000_122","總之，想要進一步改良的話就告訴我一聲。
 希望你能手握義軍武器，
 為我們博茲雅人民而戰！"
-105,"TEXT_LUCKSA151_03970_GEROLT_000_006",""
+105,"TEXT_LUCKSA151_03970_GEROLT_000_006","（★未使用／削除予定★）"

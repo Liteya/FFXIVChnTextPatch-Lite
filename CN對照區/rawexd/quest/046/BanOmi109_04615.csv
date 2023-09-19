@@ -28,7 +28,7 @@ A4調查平台的斯提格瑪四想要委託冒險者幫忙籌備格雷布洛弗
 21,"TEXT_BANOMI109_04615_SEQ_21",""
 22,"TEXT_BANOMI109_04615_SEQ_22",""
 23,"TEXT_BANOMI109_04615_SEQ_23",""
-24,"TEXT_BANOMI109_04615_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在瓦铭癸辛的矿脉采掘<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给斯提格玛四</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在瓦铭癸辛的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给斯提格玛四</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在异亚村落附近钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给斯提格玛四</If><Else/></If></If></If>"
+24,"TEXT_BANOMI109_04615_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在瓦銘癸辛的礦脈採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給斯提格瑪四</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在瓦銘癸辛的草場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給斯提格瑪四</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在異亞村落附近釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給斯提格瑪四</If><Else/></If></If></If>"
 25,"TEXT_BANOMI109_04615_TODO_01",""
 26,"TEXT_BANOMI109_04615_TODO_02",""
 27,"TEXT_BANOMI109_04615_TODO_03",""

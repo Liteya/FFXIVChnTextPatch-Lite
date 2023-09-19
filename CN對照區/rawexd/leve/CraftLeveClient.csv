@@ -9,5 +9,5 @@ int32,str,str
 5,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE","確定要結束任務，取消繼續交貨嗎？"
 6,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES","是"
 7,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO","否"
-8,"TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD","因繳納了<If(Equal(IntegerParameter(1),1))><Else/><Value>IntegerParameter(1)</Value>种</If>優質道具，
+8,"TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD","因繳納了<If(Equal(IntegerParameter(1),1))><Else/><Value>IntegerParameter(1)</Value>種</If>優質道具，
 得到了額外<Value>IntegerParameter(2)</Value>%的報酬獎勵。"

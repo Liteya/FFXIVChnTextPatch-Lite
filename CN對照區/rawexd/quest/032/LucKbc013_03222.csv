@@ -79,12 +79,12 @@ int32,str,str
 59,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_030","蕾薇瓦老師拜託你去接旭峰？
 看來……她真的是有什麼心事。
 總之，先請你去乙太之光廣場吧。"
-60,"TEXT_LUCKBC013_03222_KYOKUHO_000_040","<If(PlayerParameter(4))>师姐<Else/>师兄</If>！
+60,"TEXT_LUCKBC013_03222_KYOKUHO_000_040","<If(PlayerParameter(4))>師姐<Else/>師兄</If>！
 竟然能在這裡遇到你，看來並不是偶然吧？"
 61,"TEXT_LUCKBC013_03222_KYOKUHO_000_041","……原來你是替蕾薇瓦老師來接我的啊。
 老師她似乎有什麼煩惱，整天心不在焉的？
 這可真是大問題！"
-62,"TEXT_LUCKBC013_03222_KYOKUHO_000_042","在藉助老師與<If(PlayerParameter(4))>师姐<Else/>师兄</If>的力量解決了黃金港的危機之後，
+62,"TEXT_LUCKBC013_03222_KYOKUHO_000_042","在藉助老師與<If(PlayerParameter(4))>師姐<Else/>師兄</If>的力量解決了黃金港的危機之後，
 我一直沒能得閒，現在終於忙完了事情，
 想來這裡再次向你們道謝……"
 63,"TEXT_LUCKBC013_03222_KYOKUHO_000_043","總之，我們先回聖岡里奧爾占星院吧。"
@@ -105,7 +105,7 @@ int32,str,str
 71,"TEXT_LUCKBC013_03222_KYOKUHO_000_066","你這樣說也太沒禮貌了……
 老師一直在為使命而奔波，現在終於告一段落，
 怎麼說她也是個女孩子……怎麼就不能有點戀愛的小煩惱呢！"
-72,"TEXT_LUCKBC013_03222_KYOKUHO_000_067","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，就讓我們為老師排憂解難吧！
+72,"TEXT_LUCKBC013_03222_KYOKUHO_000_067","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，就讓我們為老師排憂解難吧！
 說來老師去哪了？"
 73,"TEXT_LUCKBC013_03222_KYOKUHO_000_068","……原來如此，去建國十二騎士像了啊。
 那我們也過去吧！"
@@ -116,7 +116,7 @@ int32,str,str
 我就動用家族的力量……嘿嘿嘿……"
 76,"TEXT_LUCKBC013_03222_LEVEVA_000_072","怎麼？
 你也來這附近辦事嗎？"
-77,"TEXT_LUCKBC013_03222_KYOKUHO_000_080","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，
+77,"TEXT_LUCKBC013_03222_KYOKUHO_000_080","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，
 蕾薇瓦老師，就在，那裡……"
 78,"TEXT_LUCKBC013_03222_Q1_000_000","要對旭峰說什麼？"
 79,"TEXT_LUCKBC013_03222_A1_000_001","為什麼傻站在這裡？"
@@ -129,7 +129,7 @@ int32,str,str
 我還沒有做好心理準備……"
 83,"TEXT_LUCKBC013_03222_KYOKUHO_000_110","我一衝動就跑過來了，
 但是根本不知道該對戀愛中的老師說點什麼。
-<If(PlayerParameter(4))>师姐<Else/>师兄</If>，怎麼辦啊？"
+<If(PlayerParameter(4))>師姐<Else/>師兄</If>，怎麼辦啊？"
 84,"TEXT_LUCKBC013_03222_KYOKUHO_000_111","你想啊……
 我整天除了風水術就沒想過別的，
 要怎麼對別人的戀愛指手畫腳。"
@@ -169,7 +169,7 @@ int32,str,str
 等著你的好消息了。"
 102,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_130","能請你去巨龍首營地問問蕾薇瓦老師有什麼煩惱嗎？
 我想她一定會告訴你的。"
-103,"TEXT_LUCKBC013_03222_KYOKUHO_000_131","就靠你了，<If(PlayerParameter(4))>师姐<Else/>师兄</If>……
+103,"TEXT_LUCKBC013_03222_KYOKUHO_000_131","就靠你了，<If(PlayerParameter(4))>師姐<Else/>師兄</If>……
 蕾薇瓦老師就拜託你了。"
 104,"TEXT_LUCKBC013_03222_LEVEVA_000_140","這不是<Highlight>ObjectParameter(1)</Highlight>麼？
 來問婚約者的事的？
@@ -213,7 +213,7 @@ int32,str,str
 122,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_200","看來你已經幫老師從煩惱中解脫了。
 我的占卜並沒有出錯。
 謝謝你，<Highlight>ObjectParameter(1)</Highlight>。"
-123,"TEXT_LUCKBC013_03222_KYOKUHO_000_200","真不愧是<If(PlayerParameter(4))>师姐<Else/>师兄</If>，
+123,"TEXT_LUCKBC013_03222_KYOKUHO_000_200","真不愧是<If(PlayerParameter(4))>師姐<Else/>師兄</If>，
 和我這種半吊子就是不一樣……"
 124,"TEXT_LUCKBC013_03222_LEVEVA_000_500","我要先向你們二位道歉。
 我研究遇到瓶頸，就不顧周圍了，

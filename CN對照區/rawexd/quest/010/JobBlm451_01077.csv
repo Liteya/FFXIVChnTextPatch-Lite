@@ -35,7 +35,7 @@ int32,str,str
 並獲取黑魔法師裝束"
 27,"TEXT_JOBBLM451_01077_TODO_03","和紫紅瀑布的卡扎古·春對話"
 28,"TEXT_JOBBLM451_01077_TODO_04","調查札爾神祠的<Sheet(EObj,2002437,0)/>並討伐妖異 獲取<Sheet(EventItem,2000957,0)/>"
-29,"TEXT_JOBBLM451_01077_TODO_05","將<Sheet(EventItem,2000957,0)/>銘刻於<Sheet(EObj,2002437,0)/>並獲取黑魔法師裝束"
+29,"TEXT_JOBBLM451_01077_TODO_05","將<Sheet(EventItem,2000957,0)/>銘刻於<Sheet(EObj,2002437,0)/> 並獲取黑魔法師裝束"
 30,"TEXT_JOBBLM451_01077_TODO_06","向紫紅瀑布的卡扎古·春報告"
 31,"TEXT_JOBBLM451_01077_TODO_07",""
 32,"TEXT_JOBBLM451_01077_TODO_08",""

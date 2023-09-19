@@ -71,7 +71,7 @@ int32,str,str
 已經是很久很久之前發生的了。"
 56,"TEXT_LUCKMF106_03649_SYSTEM_000_030","開始觀察鰭人潮池周邊的建築。
 如果發現了有特徵的地方，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行確認！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 57,"TEXT_LUCKMF106_03649_SYSTEM_000_040","用盡全力將<Sheet(EventItem,2002673,0)/>插向牆壁！
 ……但卻沒能將牆壁剝下分毫。
 似乎很難對其造成損傷。"

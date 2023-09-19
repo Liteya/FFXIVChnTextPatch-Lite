@@ -57,7 +57,7 @@ int32,str,str
 50,"TEXT_SUBFST911_01162_DOCETTE_000_003","而且你這陸行鳥，訓練得也欠點火候。
 你就去中央林區的彎枝牧場那裡，
 向牧童呂凱洛請教請教吧。"
-51,"TEXT_SUBFST911_01162_LUQUELOT_000_010","<Switch(PlayerParameter(70))><Case(1)>你好，冒险者。</Case><Case(2)>蕾亚的蛋一事，多亏了你才能解决。</Case><Case(3)>你好，冒险者。</Case></Switch>
+51,"TEXT_SUBFST911_01162_LUQUELOT_000_010","<Switch(PlayerParameter(70))><Case(1)>你好，冒險者。</Case><Case(2)>蕾亞的蛋一事，多虧了你才能解決。</Case><Case(3)>你好，冒險者。</Case></Switch>
 什麼？
 你想學習怎麼訓練專屬陸行鳥？"
 52,"TEXT_SUBFST911_01162_LUQUELOT_000_011","你身上微微的陸行鳥的味道……

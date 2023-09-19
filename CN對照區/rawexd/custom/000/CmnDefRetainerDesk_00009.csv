@@ -316,7 +316,7 @@ int32,str,str
 239,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_ROEGADYN_FEMALE_TYPE4","(-慢性子的魯加族女子-)有何貴幹？"
 240,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_ROEGADYN_FEMALE_TYPE5","(-叛逆的魯加族女子-)讓你瞧瞧我的工作態度有多端正吧。"
 241,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_ROEGADYN_FEMALE_TYPE6","(-大大咧咧的魯加族女子-)有事的話就交給我吧。"
-242,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_MALE_TYPE1","(-開朗的敖龍族男子-)喲，<If(PlayerParameter(4))>小姐<Else/>老板</If>！
+242,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_MALE_TYPE1","(-開朗的敖龍族男子-)喲，<If(PlayerParameter(4))>小姐<Else/>老闆</If>！
 今天找我是有什麼事啊！"
 243,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_MALE_TYPE2","(-豪放的敖龍族男子-)跟我不要客氣，有話就說！"
 244,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_MALE_TYPE3","(-冷傲的敖龍族男子-)竟然敢直呼我的名字……
@@ -327,7 +327,7 @@ int32,str,str
 可別讓我做太麻煩的事情啊。"
 247,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_MALE_TYPE6","(-大大咧咧的敖龍族男子-)我是隨叫隨到的小跟班！
 我的主人，你找我是有什麼好事嗎？"
-248,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_FEMALE_TYPE1","(-開朗的敖龍族女子-)你找我嗎，<If(PlayerParameter(4))>小姐<Else/>老板</If>？
+248,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_FEMALE_TYPE1","(-開朗的敖龍族女子-)你找我嗎，<If(PlayerParameter(4))>小姐<Else/>老闆</If>？
 有什麼事你儘管說！"
 249,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_FEMALE_TYPE2","(-豪放的敖龍族女子-)既然把我找來，想必是有什麼事吧？"
 250,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_FEMALE_TYPE3","(-冷傲的敖龍族女子-)你好像在叫我。
@@ -336,7 +336,7 @@ int32,str,str
 252,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_FEMALE_TYPE5","(-叛逆的敖龍族女子-)你確定是……要找我嗎？"
 253,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_AURA_FEMALE_TYPE6","(-大大咧咧的敖龍族女子-)呀吼！
 怎麼怎麼？你是不是想我了？"
-254,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_HROTHGAR_MALE_TYPE1","(-開朗的硌獅族男子-)我來了<If(PlayerParameter(4))>小姐<Else/>老爷</If>。
+254,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_HROTHGAR_MALE_TYPE1","(-開朗的硌獅族男子-)我來了<If(PlayerParameter(4))>小姐<Else/>老爺</If>。
 請問有什麼吩咐？"
 255,"TEXT_CMNDEFRETAINERDESK_00009_ENTER_HROTHGAR_MALE_TYPE2","(-豪放的硌獅族男子-)有事找俺是吧？
 別顧忌什麼，快說吧。"
@@ -455,7 +455,7 @@ int32,str,str
 343,"TEXT_CMNDEFRETAINERDESK_00009_LEAVE_AURA_FEMALE_TYPE6","(-大大咧咧的敖龍族女子-)那麼再見了！
 有什麼事的話可以隨時來找我哦。
 要是我心情好的話會過來看看的！"
-344,"TEXT_CMNDEFRETAINERDESK_00009_LEAVE_HROTHGAR_MALE_TYPE1","(-開朗的硌獅族男子-)能為<If(PlayerParameter(4))>小姐<Else/>老爷</If>服務是我的榮幸。
+344,"TEXT_CMNDEFRETAINERDESK_00009_LEAVE_HROTHGAR_MALE_TYPE1","(-開朗的硌獅族男子-)能為<If(PlayerParameter(4))>小姐<Else/>老爺</If>服務是我的榮幸。
 有事請隨時呼喚我。"
 345,"TEXT_CMNDEFRETAINERDESK_00009_LEAVE_HROTHGAR_MALE_TYPE2","(-豪放的硌獅族男子-)這點小活輕鬆加愉快。
 有事隨時再叫俺！"

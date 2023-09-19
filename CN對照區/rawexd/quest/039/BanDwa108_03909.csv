@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANDWA108_03909_SEQ_22",""
 23,"TEXT_BANDWA108_03909_SEQ_23",""
 24,"TEXT_BANDWA108_03909_TODO_00","在風化大地的沃茨之錘周圍尋找可疑的人影
-在「說話」頻道下輸入「啦哩吼」進行呼喚"
+在「說話」頻道下輸入「啦哩吼」進行呼喚 (lali-ho)"
 25,"TEXT_BANDWA108_03909_TODO_01","向雷吉圖報告"
 26,"TEXT_BANDWA108_03909_TODO_02",""
 27,"TEXT_BANDWA108_03909_TODO_03",""
@@ -94,4 +94,4 @@ int32,str,str
 64,"TEXT_BANDWA108_03909_REGITT_000_022","話說回來，你真是個可靠的幫手啦哩！
 要是又有人看到了可疑人物的話，
 就還得麻煩你和可疑人物談談啦！"
-65,"TEXT_BANDWA108_03909_SAYTODO_000_030","啦哩吼"
+65,"TEXT_BANDWA108_03909_SAYTODO_000_030","lali-ho"

@@ -7,17 +7,17 @@ int32,str,str
 你是想要乘坐「努力號」嗎？"
 2,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_005","乘船登記中"
 3,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_010","非乘船登記時間
-下次開始登記時間： <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>小时<If(GreaterThan(IntegerParameter(3),1))><Value>IntegerParameter(3)</Value>分钟<Else/></If>后<Else/><If(GreaterThan(IntegerParameter(3),1))><Value>IntegerParameter(3)</Value>分钟后<Else/>1分钟以内</If></If>"
+下次開始登記時間： <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>小時<If(GreaterThan(IntegerParameter(3),1))><Value>IntegerParameter(3)</Value>分鐘<Else/></If>後<Else/><If(GreaterThan(IntegerParameter(3),1))><Value>IntegerParameter(3)</Value>分鐘後<Else/>1分鐘以內</If></If>"
 4,"TEXT_CTSIKDENTRANCE_00663_Q1_000_000","進行乘船登記"
-5,"TEXT_CTSIKDENTRANCE_00663_Q1_000_001","查看「航運表」"
+5,"TEXT_CTSIKDENTRANCE_00663_Q1_000_001","查看航運表"
 6,"TEXT_CTSIKDENTRANCE_00663_Q1_000_002","確認「出海垂釣」的詳細情報"
 7,"TEXT_CTSIKDENTRANCE_00663_Q1_000_003","取消"
-8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","要乘坐哪條航線？"
-9,"TEXT_CTSIKDENTRANCE_00663_STM_001","乘坐<Sheet(IKDRoute,IntegerParameter(1),11)/>。"
-10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","確定要乘坐<Sheet(IKDRoute,IntegerParameter(1),11)/>嗎？"
-11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","要乘坐<Sheet(IKDRoute,IntegerParameter(1),11)/>嗎？
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※如果有小隊成員未完成「紅蓮之狂潮主線任務」的話，
-將無法乘坐這條航線。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","要搭乘什麼航線？"
+9,"TEXT_CTSIKDENTRANCE_00663_STM_001","「<Sheet(IKDRoute,IntegerParameter(1),11)/>」。"
+10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","確定要乘船前往「<Sheet(IKDRoute,IntegerParameter(1),11)/>」嗎？"
+11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","確定要乘船前往「<Sheet(IKDRoute,IntegerParameter(1),11)/>」嗎？
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※若隊伍中有尚未完成主線任務「紅蓮之狂潮」的隊員，
+　會無法搭乘此航線。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","哎呀，你難道是忘帶魚竿了嗎？
 努力號是捕魚人專用的大型漁船，
 所以歡迎你作為捕魚人前來乘坐！"
@@ -38,12 +38,12 @@ int32,str,str
 請等待下次的航海。"
 19,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_605","因中途退出了上次的出海垂釣，所以無法進行登記。
 下次乘船登記的開始時間可以從「航運表」進行確認。"
-20,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR",""
-21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005",""
-22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010",""
-23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000",""
-24,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001",""
-25,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002",""
-26,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010",""
-27,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001",""
+20,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR","（★未使用／削除予定★）"
+21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005","（★未使用／削除予定★）"
+22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010","（★未使用／削除予定★）"
+23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000","（★未使用／削除予定★）"
+24,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001","（★未使用／削除予定★）"
+25,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002","（★未使用／削除予定★）"
+26,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010","（★未使用／削除予定★）"
+27,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001","（★未使用／削除予定★）"
 28,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000","非乘船登記時間（距離下次登記開始還有：<Value>IntegerParameter(1)</Value>秒）"

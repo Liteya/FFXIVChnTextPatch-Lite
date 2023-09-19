@@ -28,7 +28,7 @@ A4調查平台的斯提格瑪四想要傳達來自異亞族的委託。"
 21,"TEXT_BANOMI120_04626_SEQ_21",""
 22,"TEXT_BANOMI120_04626_SEQ_22",""
 23,"TEXT_BANOMI120_04626_SEQ_23",""
-24,"TEXT_BANOMI120_04626_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福乐土游乐区采掘<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给交纳接待型奥密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福乐土游乐区采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给交纳接待型奥密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福乐土游乐区钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给交纳接待型奥密克戎</If><Else/></If></If></If>"
+24,"TEXT_BANOMI120_04626_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給交納接待型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給交納接待型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給交納接待型奧密克戎</If><Else/></If></If></If>"
 25,"TEXT_BANOMI120_04626_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI120_04626_TODO_02",""
 27,"TEXT_BANOMI120_04626_TODO_03",""
@@ -65,9 +65,9 @@ A4調查平台的斯提格瑪四想要傳達來自異亞族的委託。"
 52,"TEXT_BANOMI120_04626_STIGMA4_000_004","請前往至福樂土遊樂區獲取<Sheet(Item,38341,0)/>。
 然後交給背世咖啡廳的交納接待型奧密克戎。
 捕獲時推薦使用<Sheet(Item,36588,0)/>。"
-53,"TEXT_BANOMI120_04626_STIGMA4_000_005",""
-54,"TEXT_BANOMI120_04626_STIGMA4_000_006",""
-55,"TEXT_BANOMI120_04626_STIGMA4_000_007",""
+53,"TEXT_BANOMI120_04626_STIGMA4_000_005","（★未使用／削除予定★）"
+54,"TEXT_BANOMI120_04626_STIGMA4_000_006","（★未使用／削除予定★）"
+55,"TEXT_BANOMI120_04626_STIGMA4_000_007","（★未使用／削除予定★）"
 56,"TEXT_BANOMI120_04626_DELIVERER04626_000_010","確認為同盟者<Highlight>ObjectParameter(1)</Highlight>……
 是關於繆·繆咻的食材籌備的事吧？
 沙沙沙……無法確認到獲取物品……請籌備完成後再來。"

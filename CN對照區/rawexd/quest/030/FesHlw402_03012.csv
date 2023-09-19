@@ -34,9 +34,9 @@ int32,str,str
 24,"TEXT_FESHLW402_03012_TODO_00","裝扮成狼和團長對話"
 25,"TEXT_FESHLW402_03012_TODO_01","和爪牙對話"
 26,"TEXT_FESHLW402_03012_TODO_02","在「說話」頻道下輸入「嗷嗚」
-嚇唬爽朗的格里達尼亞市民。"
+嚇唬爽朗的格里達尼亞市民。 (GRRR!)"
 27,"TEXT_FESHLW402_03012_TODO_03","在「說話」頻道下輸入「嗷嗚」
-嚇唬市民們"
+嚇唬市民們 (GRRR!)"
 28,"TEXT_FESHLW402_03012_TODO_04","和爪牙匯合"
 29,"TEXT_FESHLW402_03012_TODO_05","和團長對話"
 30,"TEXT_FESHLW402_03012_TODO_06","向冒險者公會的調查員報告"
@@ -103,7 +103,7 @@ int32,str,str
 65,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_025","怎、怎麼突然有獸人跑出來？！
 ……嗯？要嚇唬我？
 你們究竟要做什麼……"
-66,"TEXT_FESHLW402_03012_SAYTODO_000_030","嗷嗚"
+66,"TEXT_FESHLW402_03012_SAYTODO_000_030","GRRR!"
 67,"TEXT_FESHLW402_03012_FRIENDLYMAN03012_000_031","哦，哦哦？！
 哎呀呀，嚇了我一跳！"
 68,"TEXT_FESHLW402_03012_SOGA_100_031","哈哈哈，嚇了一跳吧！
@@ -127,7 +127,7 @@ int32,str,str
 76,"TEXT_FESHLW402_03012_SOGA_000_046","難得裝扮成了狼的樣子，
 就「嗷嗚」的叫一聲，嚇這個人類一跳吧！"
 77,"TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_050","哎呀，突然被嚇了一跳，
-仔細一看，你還挺<If(PlayerParameter(4))>可爱的<Else/>帅气的</If>呀！
+仔細一看，你還挺<If(PlayerParameter(4))>可愛的<Else/>帥氣的</If>呀！
 為什麼要做這種事呢？"
 78,"TEXT_FESHLW402_03012_TOUGHWOMAN03012_000_051","你說是大陸馬戲團的體驗入團？
 而且，還能拿到狼造型的衣服，

@@ -31,7 +31,7 @@ int32,str,str
 21,"TEXT_FESSUM502_03664_SEQ_21",""
 22,"TEXT_FESSUM502_03664_SEQ_22",""
 23,"TEXT_FESSUM502_03664_SEQ_23",""
-24,"TEXT_FESSUM502_03664_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,27993,0)/><Else/>将<Sheet(Item,27993,0)/>交给红莲节执行委员长荷尔玛伽</If>"
+24,"TEXT_FESSUM502_03664_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,27993,0)/><Else/>將<Sheet(Item,27993,0)/>交給紅蓮節執行委員長荷爾瑪伽</If>"
 25,"TEXT_FESSUM502_03664_TODO_01","和爾·瑪嘉對話"
 26,"TEXT_FESSUM502_03664_TODO_02","和紅蓮節執行委員博德富安對話"
 27,"TEXT_FESSUM502_03664_TODO_03","救助爾·弗爾·提亞"

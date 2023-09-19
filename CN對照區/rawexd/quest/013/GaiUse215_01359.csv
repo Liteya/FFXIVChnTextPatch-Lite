@@ -82,7 +82,7 @@ int32,str,str
 而你們的任務就是擔任入侵部隊。"
 61,"TEXT_GAIUSE215_01359_MINFILIA_000_013","桑克瑞德，還有主動協助戰鬥的夕霧，
 你們去吸引薩普沙產卵地外面的魚人族，支援入侵部隊。"
-62,"TEXT_GAIUSE215_01359_MINFILIA_000_014","適當周旋後，就和<If(PlayerParameter(4))>她们<Else/>他们</If>匯合。"
+62,"TEXT_GAIUSE215_01359_MINFILIA_000_014","適當周旋後，就和<If(PlayerParameter(4))>她們<Else/>他們</If>匯合。"
 63,"TEXT_GAIUSE215_01359_MERLWYB_000_015","我和敏菲利亞在這裡統籌全局。
 稍後會趕往現地。"
 64,"TEXT_GAIUSE215_01359_MERLWYB_000_016","無論如何，都要阻止魚人族請神！

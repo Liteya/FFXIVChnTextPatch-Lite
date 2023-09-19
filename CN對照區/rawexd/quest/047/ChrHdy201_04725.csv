@@ -32,9 +32,9 @@ int32,str,str
 22,"TEXT_CHRHDY201_04725_SEQ_22",""
 23,"TEXT_CHRHDY201_04725_SEQ_23",""
 24,"TEXT_CHRHDY201_04725_TODO_00","在<Sheet(EObj,2013276,0)/>等待"
-25,"TEXT_CHRHDY201_04725_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,38940,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,38400)/>与
-<Sheet(Item,38419,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,38401,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,38402,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,38403,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,38404,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,38408,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,38409,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,38410,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,38411,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,38405,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,38407,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,38406,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,38412,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,38413,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,38414,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,38415,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,38416,0)/><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,38418,0)/><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,38417,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵装库或背包
-将<Sheet(Item,38940,0)/>交给盖罗尔特</If>"
+25,"TEXT_CHRHDY201_04725_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,38940,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,38400)/>與
+<Sheet(Item,38419,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,38401,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,38402,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,38403,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,38404,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,38408,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,38409,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,38410,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,38411,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,38405,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,38407,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,38406,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,38412,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,38413,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,38414,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,38415,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,38416,0)/><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,38418,0)/><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,38417,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
+將<Sheet(Item,38940,0)/>交給蓋羅爾特</If>"
 26,"TEXT_CHRHDY201_04725_TODO_02",""
 27,"TEXT_CHRHDY201_04725_TODO_03",""
 28,"TEXT_CHRHDY201_04725_TODO_04",""
@@ -83,7 +83,7 @@ int32,str,str
 感謝你這次也前來為我們提供幫助！"
 62,"TEXT_CHRHDY201_04725_GODBERT_000_015","在那之後，我已經成功解讀了古書的內容，
 搞懂了強化曼德維爾武器的方法。"
-63,"TEXT_CHRHDY201_04725_GODBERT_000_016","這次我們需要的是一種新的隕石類材料，叫<Sheet(Item,38940,0)/>。
+63,"TEXT_CHRHDY201_04725_GODBERT_000_016","需要的素材，又是一種叫<Sheet(Item,38940,0)/>的隕石。
 加入這種隕石之後，鏝元素的性質將大幅提高，
 乙太傳導率也會相應地提升。"
 64,"TEXT_CHRHDY201_04725_GODBERT_000_017","然而，想要成功強化武器，
@@ -104,7 +104,7 @@ int32,str,str
 70,"TEXT_CHRHDY201_04725_GODBERT_000_023","我在和冒險者共同行動的這段時間裡，
 與一名叫超威盧格的強敵對戰後取得了勝利。
 通過這場戰鬥，我已經覺醒了戰鬥本能。"
-71,"TEXT_CHRHDY201_04725_GODBERT_000_024","然而，蓋羅爾特閣下想要強化武器，
+71,"TEXT_CHRHDY201_04725_GODBERT_000_024","然而，蓋羅爾特你想要強化武器，
 就需要和強敵戰鬥，並取得勝利！"
 72,"TEXT_CHRHDY201_04725_GEROLT_000_025","喂、喂！這真的跟造武器有關係嗎？！"
 73,"TEXT_CHRHDY201_04725_GODBERT_000_026","當然有很大的關係！
@@ -116,7 +116,7 @@ int32,str,str
 76,"TEXT_CHRHDY201_04725_GEROLT_000_030","為什麼我一個武器工匠非得要戰鬥啊……"
 77,"TEXT_CHRHDY201_04725_GEROLT_000_200","真是的，我為什麼非得要戰鬥啊……"
 78,"TEXT_CHRHDY201_04725_GODBERT_000_201","嚯嚯嚯，久等了。
-蓋羅爾特閣下要戰鬥的對手，已經準備好了。"
+蓋羅爾特要戰鬥的對手，已經準備好了。"
 79,"TEXT_CHRHDY201_04725_GEROLT_000_202","就這麼一個破魔法人偶？
 我雖然是個工匠不是戰士，不過這點戰鬥力我還是有的。
 別看我這樣，在酒館打架的時候可沒輸過！"
@@ -145,7 +145,7 @@ int32,str,str
 92,"TEXT_CHRHDY201_04725_GEROLT_000_215","那我們就先回工房，
 把鍛造爐熱起來等你回來了！"
 93,"TEXT_CHRHDY201_04725_GODBERT_000_216","嚯嚯嚯！
-蓋羅爾特閣下和最弱的魔法人偶的這場戰鬥打得挺不錯的啊！"
+蓋羅爾特和最弱的魔法人偶的這場戰鬥打得挺不錯的啊！"
 94,"TEXT_CHRHDY201_04725_GODBERT_000_217","讓我告訴你實話吧，
 其實這個魔法人偶設定的是最弱，而不是最強的狀態。
 曼德維爾蠑螈油也只有活血化瘀的功能……"
@@ -171,7 +171,7 @@ int32,str,str
 105,"TEXT_CHRHDY201_04725_GEROLT_000_252","<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>！"
 106,"TEXT_CHRHDY201_04725_GEROLT_000_253","<Sheet(Item,IntegerParameter(1),0)/>！"
 107,"TEXT_CHRHDY201_04725_GODBERT_000_254","能這樣成功強化武器，
-也是多虧了蓋羅爾特閣下心中覺醒的戰鬥本能啊！"
+也是多虧了蓋羅爾特你心中覺醒的戰鬥本能啊！"
 108,"TEXT_CHRHDY201_04725_GEROLT_000_255","真的是這樣嗎……我還是搞不太懂……
 總之就先當是這樣吧。"
 109,"TEXT_CHRHDY201_04725_GODBERT_000_256","如果你還有其他的曼德維爾武器也想要強化，
@@ -207,5 +207,5 @@ int32,str,str
 124,"TEXT_CHRHDY201_04725_GODBERT_000_271","那我先告辭了。"
 125,"TEXT_CHRHDY201_04725_SYSTEM_000_282","今後，可以從煉金術製藥堂的「曼德維爾家的銷售員」處購買
 曼德維爾武器的複製品了。"
-126,"TEXT_CHRHDY201_04725_SYSTEM_000_280",""
-127,"TEXT_CHRHDY201_04725_SYSTEM_000_281",""
+126,"TEXT_CHRHDY201_04725_SYSTEM_000_280","（★未使用／削除予定★）"
+127,"TEXT_CHRHDY201_04725_SYSTEM_000_281","（★未使用／削除予定★）"

@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ908_02864_SEQ_22",""
 23,"TEXT_STMBDZ908_02864_SEQ_23",""
 24,"TEXT_STMBDZ908_02864_TODO_00","將聊天頻道設定為「說話」頻道 輸入含有「給冷卻的暖爐以希望之火」的詞句
-向嘉·雅拉妮說暗號"
+向嘉·雅拉妮說暗號 (rekindle the flames of hope)"
 25,"TEXT_STMBDZ908_02864_TODO_01","把<Sheet(EventItem,2002331,0)/>交給貝蕾塔"
 26,"TEXT_STMBDZ908_02864_TODO_02","和貝蕾塔對話"
 27,"TEXT_STMBDZ908_02864_TODO_03",""
@@ -81,7 +81,7 @@ int32,str,str
 59,"TEXT_STMBDZ908_02864_SYSTEM_000_011","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤，
 輸入暗號「給冷卻的暖爐以希望之火」。"
-60,"TEXT_STMBDZ908_02864_SAYTODO_000_000","給冷卻的暖爐以希望之火"
+60,"TEXT_STMBDZ908_02864_SAYTODO_000_000","rekindle the flames of hope"
 61,"TEXT_STMBDZ908_02864_JDYALANI_000_020","……這是以前一位骷髏連隊的年輕士兵留在這裡的包裹。
 他和我說，
 把這個包裹交給說出暗號的人。"

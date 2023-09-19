@@ -34,7 +34,7 @@ int32,str,str
 24,"TEXT_FESEST503_03204_TODO_00","和5隻魔蛋精對話"
 25,"TEXT_FESEST503_03204_TODO_01","和吉莉·阿里亞珀匯合"
 26,"TEXT_FESEST503_03204_TODO_02","前往<Sheet(EventItem,2002500,0)/>的隱藏地點
-在「說話」頻道下輸入「彩蛋狩獵」"
+在「說話」頻道下輸入「彩蛋狩獵」 (Egg Hunt)"
 27,"TEXT_FESEST503_03204_TODO_03","將<Sheet(EventItem,2002500,0)/>交給米·凱特露天劇場的諾諾塔"
 28,"TEXT_FESEST503_03204_TODO_04",""
 29,"TEXT_FESEST503_03204_TODO_05",""
@@ -123,7 +123,7 @@ int32,str,str
 第5個！"
 81,"TEXT_FESEST503_03204_GABINEAUX_100_150","嗯？什麼事？
 你想說什麼？"
-82,"TEXT_FESEST503_03204_SYSTEM_200_150","彩蛋狩獵"
+82,"TEXT_FESEST503_03204_SYSTEM_200_150","Egg Hunt"
 83,"TEXT_FESEST503_03204_GABINEAUX_000_150","這個暗號……"
 84,"TEXT_FESEST503_03204_GABINEAUX_000_151","你果然是彩蛋狩獵活動的參加者。
 <Sheet(EventItem,2002500,0)/>在我這裡。"

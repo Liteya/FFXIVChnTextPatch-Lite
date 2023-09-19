@@ -169,10 +169,10 @@ int32,str,str
 為了鞏固基礎知識，你們就快去南部林區的蔓根沼
 看看土天座吧。"
 96,"TEXT_JOBAST601_02409_JANNEQUINARD_000_038","旭峰就由我帶過去，
-到那裡之後，就麻煩你這個<If(PlayerParameter(4))>师姐<Else/>师兄</If>
+到那裡之後，就麻煩你這個<If(PlayerParameter(4))>師姐<Else/>師兄</If>
 來教教他了。"
 97,"TEXT_JOBAST601_02409_KYOKUHOU_000_039","（★未使用／削除予定★）"
-98,"TEXT_JOBAST601_02409_KYOKUHO_000_039","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，請多指教！"
+98,"TEXT_JOBAST601_02409_KYOKUHO_000_039","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，請多指教！"
 99,"TEXT_JOBAST601_02409_LEVEVA_000_040","旭峰，推開占星術的大門，
 開闢你，以及我們的未來吧！"
 100,"TEXT_JOBAST601_02409_LEVEVA_000_049","<Highlight>ObjectParameter(1)</Highlight>，
@@ -186,7 +186,7 @@ int32,str,str
 103,"TEXT_JOBAST601_02409_QUIMPERAIN_000_049","<Highlight>ObjectParameter(1)</Highlight>閣下的事跡我早有耳聞。
 能夠再次協助您的旅途，我倍感榮幸。"
 104,"TEXT_JOBAST601_02409_KYOKUHOU_000_050","（★未使用／削除予定★）"
-105,"TEXT_JOBAST601_02409_KYOKUHO_000_050","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，你沒事吧！
+105,"TEXT_JOBAST601_02409_KYOKUHO_000_050","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，你沒事吧！
 接下來只需等待與土天之門的對峙之時了，
 在這之前，能不能請你教教我何為土天？"
 106,"TEXT_JOBAST601_02409_Q1_000_000","要教授什麼知識？"

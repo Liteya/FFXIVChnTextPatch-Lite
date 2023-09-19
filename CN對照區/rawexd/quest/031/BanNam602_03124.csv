@@ -64,7 +64,7 @@ int32,str,str
 52,"TEXT_BANNAM602_03124_GYOBI_000_011","等你完事以後再跟我詳細講解一下吧噗！"
 53,"TEXT_BANNAM602_03124_SYSTEM_000_012","開始使用弓箭瞄準射擊。
 如果發現了大祭的靶子，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行射擊。"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行射擊。"
 54,"TEXT_BANNAM602_03124_GYOBI_000_020","哇哦……真是厲害噗！
 要怎樣做才能射得那麼准呢噗？"
 55,"TEXT_BANNAM602_03124_Q1_000_000","如何精準射箭？"

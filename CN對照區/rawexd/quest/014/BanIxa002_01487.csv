@@ -35,7 +35,7 @@ int32,str,str
 23,"TEXT_BANIXA002_01487_SEQ_23",""
 24,"TEXT_BANIXA002_01487_TODO_00","從盧恩族的商人那裡獲取<Sheet(EventItem,2001364,0)/>"
 25,"TEXT_BANIXA002_01487_TODO_01","將<Sheet(EventItem,2001364,0)/>交給休德耶德"
-26,"TEXT_BANIXA002_01487_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务1级：制作<Sheet(Item,　8129,0)/><Else/>将<Sheet(Item,　8129,0)/>拿给塔塔拉姆查看</If>"
+26,"TEXT_BANIXA002_01487_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務1級：製作<Sheet(Item,　8129,0)/><Else/>將<Sheet(Item,　8129,0)/>拿給塔塔拉姆查看</If>"
 27,"TEXT_BANIXA002_01487_TODO_03","將<Sheet(Item,　8129,0)/>交給賽茲爾·托托羅克"
 28,"TEXT_BANIXA002_01487_TODO_04","和賽茲爾·托托羅克對話"
 29,"TEXT_BANIXA002_01487_TODO_05",""
@@ -57,7 +57,7 @@ int32,str,str
 45,"TEXT_BANIXA002_01487_TODO_21",""
 46,"TEXT_BANIXA002_01487_TODO_22",""
 47,"TEXT_BANIXA002_01487_TODO_23",""
-48,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_000","嗯？<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，你這是什麼表情？
+48,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_000","嗯？<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，你這是什麼表情？
 你有什麼想要問我的嗎？"
 49,"TEXT_BANIXA002_01487_Q1_000_000","想了解什麼？"
 50,"TEXT_BANIXA002_01487_A1_000_001","你們是做什麼的？"
@@ -72,13 +72,13 @@ int32,str,str
 而這裡，就是我們的基地——長風實驗場！"
 55,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_004","我們長風空力團的夢想則是飛得比誰都高！
 為此，我們在努力尋找能讓我們飛得更高的「翅膀」！"
-56,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_005","<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，你是<Sheet(ClassJob,PlayerParameter(68),0)/>吧？
+56,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_005","<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，你是<Sheet(ClassJob,PlayerParameter(68),0)/>吧？
 嘿嘿嘿嘿，我們可是工匠集團，周圍都是頂級工匠，
 見多了自然有一定的閱歷，一眼就看出來你是<Sheet(ClassJob,PlayerParameter(68),0)/>了。"
 57,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_006","製作東西如孕育生命！
 無論人類還是鳥人族，工匠裡沒有壞人！
 所以我才安心地把你招待到這實驗場的！"
-58,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_007","<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，讓我看看你的技術吧！
+58,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_007","<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，讓我看看你的技術吧！
 ……其實就是有事想委託你，
 想讓你幫忙製作點東西，是在這裡製作不了的東西！"
 59,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_008","這附近不是有個村落嗎？叫什麼秋瓜浮村？
@@ -199,9 +199,9 @@ int32,str,str
 112,"TEXT_BANIXA002_01487_HILDEYERD_000_076","還有，請你千萬不要討厭塔塔拉姆，
 他只是一關係到飛空艇就會變得看不清周圍。
 其實是個坦誠、認真的少年。"
-113,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_080","哦哦，<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，你回來啦！
+113,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_080","哦哦，<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，你回來啦！
 怎麼樣？我委託你的東西搞到了嗎？"
-114,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_081","這是<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>你製作的？
+114,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_081","這是<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>你製作的？
 製作精良，很不錯啊！
 這樣的話飛空艇的開發也算是有進展了。"
 115,"TEXT_BANIXA002_01487_TATARAMU_000_082","哦哦哦哦哦哦哦哦哦哦哦！！"
@@ -266,13 +266,13 @@ int32,str,str
 139,"TEXT_BANIXA002_01487_IXALDAILYR401498_000_131","你居然把我們鳥人族重要的<Sheet(Item,　8568,0)/>給弄丟了？"
 140,"TEXT_BANIXA002_01487_IXALDAILYR401498_000_132","真沒辦法，給你拿好！
 再有下次的話，小心我把你千刀萬剮！"
-141,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_105","對了，<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！
+141,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_105","對了，<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！
 剛才忘記說了，這船體元件……做得真不錯！"
 142,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_106","這<Sheet(Item,　8568,0)/>怎麼樣？
 戴上它以後，無論多難製作的東西，都不怕了吧！"
 143,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_107","如果你願意與我們一起開發迪茲爾·庫瓦蘭號的話，
 我就把這<Sheet(Item,　8568,0)/>送給你。"
-144,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_108","怎麼樣<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>？
+144,"TEXT_BANIXA002_01487_SEZULTOTOLOC_000_108","怎麼樣<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>？
 跟我們一起飛向夢的彼端吧！"
 145,"TEXT_BANIXA002_01487_Q3_000_000","要幫助長風空力團嗎？"
 146,"TEXT_BANIXA002_01487_A3_000_001","交給我了！一起幹吧！"

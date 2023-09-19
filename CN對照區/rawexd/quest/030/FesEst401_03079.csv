@@ -230,12 +230,12 @@ int32,str,str
 所以就由你代替我們，使用通訊珠來支援它吧！"
 127,"TEXT_FESEST401_03079_SYSTEM_000_101","開始攻略彩蛋獵手里吉。
 操作方法如下。<If(Equal(PlayerParameter(80),0))>
-（未变更设置的情况下）<Else/></If>"
-128,"TEXT_FESEST401_03079_SYSTEM_000_102","<If(Equal(PlayerParameter(80),0))>［A］键、向左拖动鼠标：向左移动
-［D］键、向右拖动鼠标：向右移动
-［<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>］键、鼠标左键：跳跃、2段跳跃<Else/><CommandIcon(3)/>：向左移动
-<CommandIcon(4)/>：向右移动
-<CommandIcon(9)/>键、<CommandIcon(8)/>键：跳跃、2段跳跃</If>"
+（未變更設定的情況下）<Else/></If>"
+128,"TEXT_FESEST401_03079_SYSTEM_000_102","<If(Equal(PlayerParameter(80),0))>［A］鍵、向左拖動滑鼠：向左移動
+［D］鍵、向右拖動滑鼠：向右移動
+［<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>］鍵、滑鼠左鍵：跳躍、2段跳躍<Else/><CommandIcon(3)/>：向左移動
+<CommandIcon(4)/>：向右移動
+<CommandIcon(9)/>鍵、<CommandIcon(8)/>鍵：跳躍、2段跳躍</If>"
 129,"TEXT_FESEST401_03079_SYSTEM_000_103","回收15個以上的裝飾彩蛋，小遊戲則會成功。
 碰到障礙物，或是受到魔物的攻擊的話，彩蛋將會掉落，
 注意小心前進！"
@@ -327,7 +327,7 @@ int32,str,str
 170,"TEXT_FESEST401_03079_JIHLIALIAPOH_000_143","方便的話，希望之後你能幫我隱藏裝飾彩蛋。
 一定會再次引發這樣的美好邂逅的。"
 171,"TEXT_FESEST401_03079_SYSTEM_000_144","為紀念彩蛋狩獵，
-小遊戲「彩蛋獵手里吉「開放了。"
+小遊戲「彩蛋獵手里吉」開放了。"
 172,"TEXT_FESEST401_03079_SYSTEM_000_145","可在各國旅館客房內的「玩具箱」進行遊戲。"
 173,"TEXT_FESEST401_03079_LEIHALIAPOH_000_145","我把裝飾彩蛋找到了的消息告訴諾諾塔了。
 你把裝飾彩蛋交給她吧。"

@@ -760,7 +760,7 @@ int32,str,str
 冠冕堂皇的話說得再多，也沒有任何意義啊！
 所以，就請你們不要再刺激我們了！"
 334,"TEXT_VOICEMAN_04002_003170_WOUNDEDOLDMAN","年輕人，你們先冷靜一下，
-首先我們得感謝<If(PlayerParameter(4))>她们<Else/>他们</If>冒著危險來救我們。"
+首先我們得感謝<If(PlayerParameter(4))>她們<Else/>他們</If>冒著危險來救我們。"
 335,"TEXT_VOICEMAN_04002_003180_YUGIRI","這位老人家，你臉上的傷……"
 336,"TEXT_VOICEMAN_04002_003190_WOUNDEDOLDMAN","這麼點傷，這裡每個人都有，不提也罷。
 只是，我們最終還是對暴力屈服了。"
@@ -960,8 +960,8 @@ int32,str,str
 426,"TEXT_VOICEMAN_04002_004050_E3F2VILLAGERC","這太好了！
 我們既然決心要幹了，就要全力以赴。
 如果有什麼需要我們幫忙的，二位千萬不要客氣！"
-427,"TEXT_VOICEMAN_04002_004060_GOSETSU","你快要把<If(PlayerParameter(4))>她们<Else/>他们</If>看出窟窿了，
-乾脆去跟<If(PlayerParameter(4))>她们<Else/>他们</If>打個招呼如何。"
+427,"TEXT_VOICEMAN_04002_004060_GOSETSU","你快要把<If(PlayerParameter(4))>她們<Else/>他們</If>看出窟窿了，
+乾脆去跟<If(PlayerParameter(4))>她們<Else/>他們</If>打個招呼如何。"
 428,"TEXT_VOICEMAN_04002_004070_ISSE","你，你管我啊……
 你們應該有重要的事情要討論吧，
 我就不打擾了，我去和村子裡的人說說話。"

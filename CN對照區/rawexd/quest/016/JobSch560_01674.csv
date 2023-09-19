@@ -29,9 +29,9 @@ int32,str,str
 23,"TEXT_JOBSCH560_01674_SEQ_23",""
 24,"TEXT_JOBSCH560_01674_TODO_00","和哈爾加·特爾加對話"
 25,"TEXT_JOBSCH560_01674_TODO_01","在「說話」頻道下輸入含有「海兵之魂」的詞句
-回答哈爾加·特爾加"
+回答哈爾加·特爾加 (come hells or high water)"
 26,"TEXT_JOBSCH560_01674_TODO_02","再次在「說話」頻道下輸入含有「海兵之魂」的詞句
-回答哈爾加·特爾加"
+回答哈爾加·特爾加 (come hells or high water)"
 27,"TEXT_JOBSCH560_01674_TODO_03","對輝鱗人隊長做 「大笑」的情感動作
 對方發起攻擊的話就將其討伐"
 28,"TEXT_JOBSCH560_01674_TODO_04","向哈爾加·特爾加報告"
@@ -94,7 +94,7 @@ int32,str,str
 就你這樣的「逗樂小四眼」也敢說自己是海兵？
 哈哈哈哈……我腹肌都笑疼了！"
 62,"TEXT_JOBSCH560_01674_HALGATOLGA_000_021","然後，這邊這個就是繼承了軍事學的「新時代的學者」？
-就憑你這個<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>？
+就憑你這個<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻桿</Case><Case(3)>小不點</Case><Case(4)>小貓崽</Case><Case(5)>傻大個</Case><Case(6)>一身鱗的</Case><Case(7)>大毛球</Case><Case(8)>長耳朵</Case></Switch>？
 哎喲你們兩個，是想笑死我嗎？！"
 63,"TEXT_JOBSCH560_01674_HALGATOLGA_000_022","不過，只要經過我的調教，
 哪怕是你們這樣的搞笑文工團，也能成為不錯的戰力！
@@ -102,7 +102,7 @@ int32,str,str
 64,"TEXT_JOBSCH560_01674_SYSTEM_000_023","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入包含「海兵之魂」的任意詞句
 來回答哈爾加·特爾加。"
-65,"TEXT_JOBSCH560_01674_SYSTEM_100_023","海兵之魂"
+65,"TEXT_JOBSCH560_01674_SYSTEM_100_023","come hells or high water"
 66,"TEXT_JOBSCH560_01674_HALGATOLGA_200_023","愣著幹什麼？試著吼句「海兵之魂」給我聽聽啊！
 要是連這點幹勁都拿不出，就趁早滾回家找幾個娃娃，
 給它們上鼓舞扔活性，慢慢玩學者扮演遊戲去吧！"
@@ -119,7 +119,7 @@ int32,str,str
 71,"TEXT_JOBSCH560_01674_ALKAZOLKA_000_027","海兵之魂嗯嗯嗯嗯！！"
 72,"TEXT_JOBSCH560_01674_HALGATOLGA_000_028","很好，就是這樣，一定要時刻牢記「海兵之魂」！
 行了，接下來分別給你們出點課題來做做！"
-73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","喂，那個<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>！這附近有個自以為是的輝鱗人隊長，
+73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","喂，那個<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻桿</Case><Case(3)>小不點</Case><Case(4)>小貓崽</Case><Case(5)>傻大個</Case><Case(6)>一身鱗的</Case><Case(7)>大毛球</Case><Case(8)>長耳朵</Case></Switch>！這附近有個自以為是的輝鱗人隊長，
 去找到他，然後狠狠地嘲笑他一番！"
 74,"TEXT_JOBSCH560_01674_HALGATOLGA_000_030","那幫四腳蛇襲擊過古神殿，都是一群人渣！
 要是他們惱羞成怒地攻擊你，就給我往死裡揍！
@@ -134,7 +134,7 @@ int32,str,str
 竟敢、跟我、搭話？
 知不知道、我們是、光鱗戰鬥團、的？"
 78,"TEXT_JOBSCH560_01674_HALGATOLGA_000_040","噢，你們兩個的課題看來是完成了嘛！
-區區逗樂小四眼和<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>，
+區區逗樂小四眼和<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻桿</Case><Case(3)>小不點</Case><Case(4)>小貓崽</Case><Case(5)>傻大個</Case><Case(6)>一身鱗的</Case><Case(7)>大毛球</Case><Case(8)>長耳朵</Case></Switch>，
 能做到這一步也算不錯了，給你們點個讚……"
 79,"TEXT_JOBSCH560_01674_HALGATOLGA_000_041","……以為我會這麼說嗎！
 這麼簡單的課題， 居然花了這麼久！
@@ -148,7 +148,7 @@ int32,str,str
 最強軍團不需要拖後腿的人！不需要拖累同伴的累贅！
 需要的是，你們個人最基本的強大！"
 83,"TEXT_JOBSCH560_01674_HALGATOLGA_000_045","逗樂小四眼，你看到大叔那副肉體，難道沒有任何感覺嗎？
-<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>，你在以一敵多的戰鬥中，
+<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻桿</Case><Case(3)>小不點</Case><Case(4)>小貓崽</Case><Case(5)>傻大個</Case><Case(6)>一身鱗的</Case><Case(7)>大毛球</Case><Case(8)>長耳朵</Case></Switch>，你在以一敵多的戰鬥中，
 難道就沒有任何收穫嗎？！"
 84,"TEXT_JOBSCH560_01674_HALGATOLGA_000_046","你們各自都好好想想今天訓練的意義，然後砍掉重練！
 如果不能強大起來，你們憑什麼消滅妖異，

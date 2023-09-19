@@ -6,10 +6,10 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 2,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡是公會理符受領處。
 一定可以為您找到一份合適的工作。","這裡是公會理符受領處。
 冒險者公會的成員們都會到這裡來領取公會理符任務。
-<Unknown17/>如果您能在冒險者公會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>贡特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
+<Unknown17/>如果您能在冒險者公會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
 我就可以給您介紹任務了。","那麼這個任務就拜託您了。","這裡是公會理符受領處。
 冒險者公會的成員們都會到這裡來領取公會理符任務。
-<Unknown17/>如果您能在冒險者公會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>贡特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
+<Unknown17/>如果您能在冒險者公會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
 我就可以給您介紹任務了。","您平安完成任務了嗎？
 看來把這個任務拜託給您是正確的選擇。
 這是準備好的報酬，請收下吧。","0","0","您竟然討伐了懸賞魔物？
@@ -19,7 +19,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 也有很多是來自附近居民的委託。
 如果您有興趣，請幫幫他們吧。","您在找工作嗎？
 不過我們只對有一定經驗的冒險者發行公會理符任務。
-如果是<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆介紹來的我們也可以放心了。","那麼就拜託您了。
+如果是<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆介紹來的我們也可以放心了。","那麼就拜託您了。
 希望看到您早日凱旋。","您在找工作嗎？
 不過我們只對有一定經驗的冒險者發行公會理符任務。
 等您的實力可以匹敵這附近的魔物後再來吧。","是來報告任務完成的嗎？
@@ -30,7 +30,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 對公會理符任務有興趣嗎？
 我可以給你介紹些不錯的工作。","我是冒險者公會的一員。
 主要負責為冒險者們發行實力相符的公會理符任務。
-<Unknown17/>如果你能取得<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的認可的話，
+<Unknown17/>如果你能取得<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的認可的話，
 到時候我可以介紹一些好工作給你。","好好幹吧，等你回來！","我是冒險者公會的一員。
 主要負責為冒險者們發行實力相符的公會理符任務。
 <Unknown17/>如果你有能力收拾這附近的魔物時，
@@ -42,10 +42,10 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 5,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者們發行公會理符任務。
 任務內容基本是黑衣森林各地發來的委託工作。","這裡是發行公會理符的窗口，會為冒險者介紹各種工作。
 你看上去是一個新人冒險者啊。
-<Unknown17/>如果你有<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹，
+<Unknown17/>如果你有<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹，
 那麼我們會很樂意交給你一些工作的。","0","這裡是發行公會理符的窗口，會為冒險者介紹各種工作。
 你看上去是一個新人冒險者啊。
-<Unknown17/>如果你有<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹，
+<Unknown17/>如果你有<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹，
 那麼我們會很樂意交給你一些工作的。","你是來領取任務報酬的？
 竟然能完成這個任務……幹得漂亮。
 這裡是這次的報酬，請收下吧。","0","0","你竟然打倒了通緝中的懸賞魔物啊，
@@ -54,7 +54,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 6,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者們發行公會理符，
 任務內容基本是利姆薩·羅敏薩市民及周圍居民的一些委託。","你要是想找工作的話那就來對了。
 這裡會為有實力的冒險者發行公會理符。
-<Unknown17/>不過得有冒險者公會的負責人<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
+<Unknown17/>不過得有冒險者公會的負責人<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
 這樣就可以為你提供各種各樣的工作了。","很好，祝你好運！","你要是想找工作的話那就來對了。
 這裡會為有實力的冒險者發行公會理符。
 <Unknown17/>不過你起碼得有本事對付這附近的魔物才行。
@@ -66,7 +66,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 7,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行公會理符，
 任務內容基本是烏爾達哈市民及其他人士發來的一些委託。","您是在找工作嗎？
 這裡會為有一定經驗的冒險者發行公會理符任務。
-<Unknown17/>如果您有冒險者公會的負責人<Switch(IntegerParameter(1))><Case(1)>巴德龙先生</Case><Case(2)>缪恩女士</Case><Case(3)>莫莫蒂女士</Case></Switch>的介紹，
+<Unknown17/>如果您有冒險者公會的負責人<Switch(IntegerParameter(1))><Case(1)>巴德龍先生</Case><Case(2)>繆恩女士</Case><Case(3)>莫莫蒂女士</Case></Switch>的介紹，
 那麼屆時請務必接受理符任務的委託。","那麼請您加油，恭候您的好消息。","您是在找工作嗎？
 這裡會為有一定經驗的冒險者發行公會理符任務。
 <Unknown17/>如果您有能力輕易打倒這附近的魔物，
@@ -78,7 +78,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 都是來自周圍居民的委託，過來看看吧。
 ","喲，這位同志！
 這裡會為有實力的冒險者發行公會理符任務。
-<Unknown17/>不過你的實力得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>贡特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的認可才行，
+<Unknown17/>不過你的實力得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的認可才行，
 不然可沒法交給你任務啊。","那就拜託給你了！","喲，這位同志！
 這裡會為有實力的冒險者發行公會理符任務。
 <Unknown17/>不過你得有能力輕鬆打倒這附近的魔物才行，
@@ -88,7 +88,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 再多追加些報酬給你！恭喜你了！"
 9,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡會將枯骨一帶的委託作為公會理符發行。","你是冒險者公會的同志吧？
 這裡會為有一定經驗的冒險者發行公會理符任務。
-<Unknown17/>不過得有公會負責人<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
+<Unknown17/>不過得有公會負責人<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
 不然沒辦法放心將工作交出去啊。","那就請你多加小心。","你是冒險者公會的同志吧？
 這裡會為有一定經驗的冒險者發行公會理符任務。
 <Unknown17/>不過你得有實力和枯骨這一帶的魔物相抗衡才行，
@@ -100,7 +100,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 10,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行一些公會理符，
 都是附近居民發來的一些委託。","這裡會為想要賺點外快的冒險者提供適合的公會理符任務。
 當然只面向有一定實力的傢伙發行。
-<Unknown17/>首先你得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>贡特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的信任才行，
+<Unknown17/>首先你得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的信任才行，
 不然可沒辦法把工作交給你。","喲，去吧！
 帶點像樣的說法回來！","這裡會為想要賺點外快的冒險者提供適合的公會理符任務。
 當然只面向有一定實力的傢伙發行。
@@ -112,7 +112,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 11,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行一些公會理符，
 都是小麥酒港的居民和周邊地域發來的委託。","我們面向有實力的冒險者發行公會理符任務。
 不過，領取理符是有條件的。
-<Unknown17/>首先你得有<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
+<Unknown17/>首先你得有<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
 這是最基本的要求。","祝你可以順利完成任務。","我們面向有實力的冒險者發行公會理符任務。
 不過，領取理符是有條件的。
 <Unknown17/>首先你得有實力對付這周圍令人恐懼的魔物才行，
@@ -124,19 +124,19 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 12,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"你也是來接任務的吧？
 理符任務很不賴，幫助他人還能拿報酬，多麼一舉兩得。","我是冒險者公會負責發行「公會理符」的職員。
 不過你看上去好像只是個剛出道的冒險者吧。
-<Unknown17/>想接公會理符任務，要先得到<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
-有了<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹，我們才能放心地將任務託付給你們。","那你就加把勁吧。
+<Unknown17/>想接公會理符任務，要先得到<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
+有了<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹，我們才能放心地將任務託付給你們。","那你就加把勁吧。
 委託給你的任務可不要搞砸了哦。","我是冒險者公會負責發行「公會理符」的職員。
 不過你看上去好像只是個剛出道的冒險者吧。
-<Unknown17/>想接公會理符任務，要先得到<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
-有了<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹，我們才能放心地將任務託付給你們。","看你的樣子，事情應該辦得不錯吧。
+<Unknown17/>想接公會理符任務，要先得到<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
+有了<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹，我們才能放心地將任務託付給你們。","看你的樣子，事情應該辦得不錯吧。
 看來你也挺有兩下子的。
 給，這是你的報酬，收下吧！","0","0","你也相當不簡單嘛，竟然把懸賞魔物消滅掉了。
 來，這是有加成的報酬，收下吧！"
 13,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行公會理符，
 基本都是這周邊發來的一些委託。","嗯，看樣子你是在找事做啊。
 不過你現在實力尚不足以來領取理符任務。
-首先得讓冒險者公會的<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>對你的能力有所認可才行。","祝你旗開得勝。","嗯，看樣子你是在找事做啊。
+首先得讓冒險者公會的<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>對你的能力有所認可才行。","祝你旗開得勝。","嗯，看樣子你是在找事做啊。
 不過你現在實力尚不足以來領取理符任務。
 <Unknown17/>首先得有能力對付這附近的魔物才行，
 到時候我可以給你介紹很多工作。","哦，辛苦了。
@@ -145,7 +145,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 你這傢伙很了不得嘛！來，報酬再給你加一些！"
 14,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行公會理符，
 都是葡萄酒港周邊發來的一些委託。","我的工作是將這附近的委託作為公會理符發放給冒險者。
-不過，你得有公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹才行，
+不過，你得有公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹才行，
 因為都是一些需要有一定實力的人來完成的工作。","那麼就拜託你了。
 期待你能有出色的表現。","我的工作是將這附近的委託作為公會理符發放給冒險者。
 不過你現在實力尚淺，還是先多去些地方積累些經驗再來吧。
@@ -157,7 +157,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 作為公會理符發放給冒險者。","你看樣子是在找事做啊……
 沒錯，我是發行公會理符的人。
 
-不過，你得先有公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹才行，
+不過，你得先有公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的介紹才行，
 因為這些工作得委託給有一定實力的人……","祈禱你能順利完成任務後平安歸來。
 祝你旗開得勝……","你看樣子是在找事做啊……
 沒錯，我是發行公會理符的人。
@@ -171,7 +171,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 負責發行白雲崖前哨附近的公會理符。","我是冒險者公會的人。
 負責發行白雲崖前哨附近的公會理符。
 
-不過，你得有公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龙先生</Case><Case(2)>缪恩女士</Case><Case(3)>莫莫蒂女士</Case></Switch>的介紹才行。
+不過，你得有公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍先生</Case><Case(2)>繆恩女士</Case><Case(3)>莫莫蒂女士</Case></Switch>的介紹才行。
 因為我們想要把任務交給值得信賴的人去做。","祈禱你能夠順利完成任務。
 願戰神哈羅妮保佑你……","我是冒險者公會的人。
 負責發行白雲崖前哨附近的公會理符。
@@ -186,7 +186,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 要不要來試試看？","在下名為梅爾特蘭。
 在冒險者公會中負責為冒險者們發行理符任務。
 <Unknown17/>不過您現在看起來還沒有累積足夠的經驗……
-請先去找<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>交流一下吧，等得到認可之後，
+請先去找<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>交流一下吧，等得到認可之後，
 再來這裡申請任務。","準備好之後就請開始執行理符任務吧。
 這些委託就拜託您了。","在下名為梅爾特蘭。
 在冒險者公會中負責為冒險者們發行理符任務。
@@ -198,7 +198,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 您的身手著實了得，不得不讓人佩服。
 那麼報酬也會相應給您增加一些的。"
 18,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我的工作是將藍霧營地周邊的委託作為公會理符發放給冒險者。","我的工作是將藍霧營地周邊的委託作為公會理符發放給冒險者。
-不過，你得先得到公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
+不過，你得先得到公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
 因為我們需要把工作交給值得信賴的人。","那麼你就加油完成任務吧。
 我會給你準備好報酬的。","我的工作是將藍霧營地周邊的委託作為公會理符發放給冒險者。
 不過，你經驗上還是稍有欠缺。
@@ -210,7 +210,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 19,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行公會理符，
 都是一些關於毒蠍交易所周邊的委託。","你在找事做嗎？
 我們這裡受理周邊的委託，並將其作為公會理符任務發放給冒險者。
-<Unknown17/>不過，還是希望你能先得到<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可，
+<Unknown17/>不過，還是希望你能先得到<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可，
 畢竟這工作不是誰都可以託付的。","我相信你能完成任務。
 好，出發吧！","你在找事做嗎？
 我們這裡受理周邊的委託，並將其作為公會理符任務發放給冒險者。
@@ -222,7 +222,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 報酬會給你加成的，你確認一下。"
 20,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行公會理符。
 內容基本上是這裡的居民發到冒險者公會的委託……","嗯……你在找事做嗎？
-不過，要領取公會理符任務，需要得到公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
+不過，要領取公會理符任務，需要得到公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。
 <Unknown17/>畢竟這些事得交給信得過、並有相應實力的人去做。
 你就繼續努力吧……","這樣啊，那就去執行任務吧……
 祝你成功……","嗯……你在找事做嗎？
@@ -236,7 +236,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 21,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我們將太陽海岸周邊的委託作為公會理符發放給冒險者。
 歡迎幹勁十足、能力超群的冒險者們領取任務。","你想要領取公會理符嗎？
 傷腦筋了，這些工作只能交給有相應實力的人去做。
-你得先得到冒險者公會的總管<Switch(IntegerParameter(1))><Case(1)>巴德龙老板</Case><Case(2)>缪恩大姐</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。","好嘞，那就拜託你去完成這項任務了。
+你得先得到冒險者公會的總管<Switch(IntegerParameter(1))><Case(1)>巴德龍老闆</Case><Case(2)>繆恩大姐</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行。","好嘞，那就拜託你去完成這項任務了。
 我很看好你喲！","你想要領取公會理符嗎？
 傷腦筋了，這些工作只能交給有相應實力的人去做。
 等你有能力輕鬆解決這附近的魔物之後再來吧。","哎呀，已經完成任務了嗎？
@@ -246,7 +246,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 來，收下這筆報酬，有加成的！"
 22,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我們這裡發行公會理符，
 基本上都是莫拉比造船廠附近的任務。","你想要領取公會理符任務嗎？
-不過在這此之前你得先得到冒險者公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行……
+不過在這此之前你得先得到冒險者公會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>的認可才行……
 我們只能把任務交給有實力的人。","聽好了，不要貿然出擊。
 要冷靜、踏實地完成任務。","你想要領取公會理符任務嗎？
 不過前提是你得有能力輕易解決這附近殘暴的魔物才行……
@@ -258,7 +258,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 那你可找對人了。
 我可是公會理符的發行人。
 不過，目前還不能交給你理符任務。
-因為公會理符只能交給<Switch(IntegerParameter(1))><Case(1)>巴德龙</Case><Case(2)>缪恩</Case><Case(3)>莫莫蒂</Case></Switch>介紹來的人。","那你加油吧。
+因為公會理符只能交給<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>介紹來的人。","那你加油吧。
 我會為你祈禱的，你要平安回來。","哦，你是在找事做嗎？
 那你可找對人了。
 我可是公會理符的發行人。

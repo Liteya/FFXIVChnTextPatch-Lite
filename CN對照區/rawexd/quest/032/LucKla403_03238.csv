@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKLA403_03238_SEQ_22",""
 23,"TEXT_LUCKLA403_03238_SEQ_23",""
 24,"TEXT_LUCKLA403_03238_TODO_00","和碎石山地東北邊的科希·芮對話"
-25,"TEXT_LUCKLA403_03238_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在碎石山地采集<Sheet(Item,26757,0)/><Else/>将<Sheet(Item,26757,0)/>交给科希·芮</If>"
+25,"TEXT_LUCKLA403_03238_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在碎石山地採集<Sheet(Item,26757,0)/><Else/>將<Sheet(Item,26757,0)/>交給科希·芮</If>"
 26,"TEXT_LUCKLA403_03238_TODO_02","在<Sheet(EObj,2009806,0)/>使用<Sheet(EventItem,2002566,0)/>"
 27,"TEXT_LUCKLA403_03238_TODO_03","和中庸工藝館的科希·芮對話"
 28,"TEXT_LUCKLA403_03238_TODO_04",""
@@ -242,4 +242,4 @@ int32,str,str
 125,"TEXT_LUCKLA403_03238_SYSTEM_000_105","此外，現在所有部門的交易均已完成！
 中庸工藝館的館長卡特莉絲好像有事情想要拜託你。"
 126,"TEXT_LUCKLA403_03238_SYSTEM_000_106","請到中庸工藝館的綜合接待處與卡特莉絲談談。"
-127,"TEXT_LUCKLA403_03238_QESHIRAE_000_025",""
+127,"TEXT_LUCKLA403_03238_QESHIRAE_000_025","（★未使用／削除予定★）"

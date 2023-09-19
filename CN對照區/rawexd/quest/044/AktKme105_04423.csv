@@ -157,7 +157,7 @@ int32,str,str
 103,"TEXT_AKTKME105_04423_MEMNON_000_160","哎呀，你……嗯……"
 104,"TEXT_AKTKME105_04423_SYSTEM_000_161","看來需要與梅蒂恩處於同行狀態。"
 105,"TEXT_AKTKME105_04423_MEMNON_000_165","哎呀，你……嗯……"
-106,"TEXT_AKTKME105_04423_MEMNON_000_166","<Switch(PlayerParameter(71))><Case(1)>造型和人类很相似，但以太密度很低，十分脆弱</Case><Case(2)>造型和人很相似，但以太密度很低，十分脆弱</Case><Case(3)>和人类有点像，但简直就像个玩偶一样</Case><Case(4)>和人类有点像，但有着动物的耳朵和尾巴</Case><Case(5)>和人类有点像，但有着异常壮硕的身体</Case><Case(6)>和人类有点像，但有着动物的角和鳞片</Case><Case(7)>和人类有点像，但有着很多动物的特征</Case><Case(8)>和人类有点像，但有着动物的耳朵</Case></Switch>……
+106,"TEXT_AKTKME105_04423_MEMNON_000_166","<Switch(PlayerParameter(71))><Case(1)>造型和人類很相似，但乙太密度很低，十分脆弱</Case><Case(2)>造型和人很相似，但乙太密度很低，十分脆弱</Case><Case(3)>和人類有點像，但簡直就像個玩偶一樣</Case><Case(4)>和人類有點像，但有著動物的耳朵和尾巴</Case><Case(5)>和人類有點像，但有著異常壯碩的身體</Case><Case(6)>和人類有點像，但有著動物的角和鱗片</Case><Case(7)>和人類有點像，但有著很多動物的特徵</Case><Case(8)>和人類有點像，但有著動物的耳朵</Case></Switch>……
 也就是說，你和梅蒂恩一樣，都是擬人型使魔對吧。
 找我有什麼事嗎？"
 107,"TEXT_AKTKME105_04423_METEION_000_167","我想請你、這裡的事、告訴<Highlight>ObjectParameter(1)</Highlight>！"

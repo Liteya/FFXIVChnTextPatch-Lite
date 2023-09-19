@@ -109,7 +109,7 @@ int32,str,str
 是錯覺嗎？"
 77,"TEXT_JOBPLD650_02573_CONSTAINT_000_032","密拉的動作基本功十分紮實，滴水不漏……
 不愧是劍術師公會的會長。"
-78,"TEXT_JOBPLD650_02573_CONSTAINT_000_033","<If(PlayerParameter(4))>师姐<Else/>师兄</If>要出場決賽？
+78,"TEXT_JOBPLD650_02573_CONSTAINT_000_033","<If(PlayerParameter(4))>師姐<Else/>師兄</If>要出場決賽？
 我會為你加油的！"
 79,"TEXT_JOBPLD650_02573_MYLLA_000_040","那個叫布萊克·羅塔斯的傢伙，
 技術、力量、速度都強於我。

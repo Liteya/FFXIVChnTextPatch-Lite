@@ -59,7 +59,7 @@ int32,str,str
 36,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_006","每次大賽能夠進行排位戰的次數有限，
 請爭取在有限次數中獲取更多的積分！"
 37,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_007","想在大賽中確認自己當前的排名時，
-<If(Equal(IntegerParameter(1),0))>请来找我咨询或查看我身边的排行榜。<Else/>请到金碟游乐场的幻卡广场查看排行榜。</If>"
+<If(Equal(IntegerParameter(1),0))>請來找我諮詢或查看我身邊的排行榜。<Else/>請到金碟遊樂場的幻卡廣場查看排行榜。</If>"
 38,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_008","大賽結束後，會根據您獲得的積分決定排名。"
 39,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_009","排名高的參賽者可以得到特別的卡片作為獎勵。
 請您也務必向著高名次努力！"

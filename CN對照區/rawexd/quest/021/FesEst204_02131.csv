@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_FESEST204_02131_SEQ_00","※本任務是特定期間內的任務。
 
-米·凱特露天劇場的莫特想確認冒險者是不是要參加「數著蛋！」活動。 "
+米·凱特露天劇場的莫特想確認冒險者是不是要參加「數著蛋！」活動。"
 1,"TEXT_FESEST204_02131_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。
 　季節活動結束後無法進行，敬請注意。
 　詳情請參見官方網站。
@@ -100,8 +100,8 @@ int32,str,str
 72,"TEXT_FESEST204_02131_A1_000_005","（★未使用／削除予定★）"
 73,"TEXT_FESEST204_02131_A1_000_006","（★未使用／削除予定★）"
 74,"TEXT_FESEST204_02131_A1_000_007","（★未使用／削除予定★）"
-75,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFC02131_000_014","白色裝飾彩蛋有<Switch(IntegerParameter(1))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>，
-藍色裝飾彩蛋有<Switch(IntegerParameter(2))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>是嗎？"
+75,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFC02131_000_014","白色裝飾彩蛋有<Switch(IntegerParameter(1))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>，
+藍色裝飾彩蛋有<Switch(IntegerParameter(2))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>是嗎？"
 76,"TEXT_FESEST204_02131_Q2_000_000","用這個答案回答嗎？"
 77,"TEXT_FESEST204_02131_A2_000_000","是"
 78,"TEXT_FESEST204_02131_A2_000_001","否"
@@ -126,9 +126,9 @@ int32,str,str
 中級難度……開始！"
 89,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFD02131_100_022","嘿嘿嘿……好好數清楚了嗎？
 告訴我每種彩蛋都有幾個吧！"
-90,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFD02131_000_023","白色裝飾彩蛋有<Switch(IntegerParameter(1))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>，
-藍色裝飾彩蛋有<Switch(IntegerParameter(2))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>，
-橙色裝飾彩蛋有<Switch(IntegerParameter(3))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>是嗎？"
+90,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFD02131_000_023","白色裝飾彩蛋有<Switch(IntegerParameter(1))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>，
+藍色裝飾彩蛋有<Switch(IntegerParameter(2))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>，
+橙色裝飾彩蛋有<Switch(IntegerParameter(3))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>是嗎？"
 91,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFD02131_100_023","那麼接下來公布結果！"
 92,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFD02131_000_024","幹得漂亮！中級難度回答正確了哦！
 居然能突破這個難度，你挺能幹的嘛！
@@ -149,8 +149,8 @@ int32,str,str
 高級難度……開始！！"
 101,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFF02131_100_032","嘿嘿嘿……好好數清楚了嗎？
 告訴我每種彩蛋都有幾個吧！"
-102,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFF02131_000_033","白色裝飾彩蛋有<Switch(IntegerParameter(1))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>，藍色裝飾彩蛋有<Switch(IntegerParameter(2))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>，
-橙色裝飾彩蛋有<Switch(IntegerParameter(3))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>，黑色裝飾彩蛋有<Switch(IntegerParameter(4))><Case(1)>1个</Case><Case(2)>2个</Case><Case(3)>3个</Case><Case(4)>4个</Case><Case(5)>5个</Case><Case(6)>6个</Case><Case(7)>7个</Case></Switch>是嗎？"
+102,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFF02131_000_033","白色裝飾彩蛋有<Switch(IntegerParameter(1))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>，藍色裝飾彩蛋有<Switch(IntegerParameter(2))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>，
+橙色裝飾彩蛋有<Switch(IntegerParameter(3))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>，黑色裝飾彩蛋有<Switch(IntegerParameter(4))><Case(1)>1個</Case><Case(2)>2個</Case><Case(3)>3個</Case><Case(4)>4個</Case><Case(5)>5個</Case><Case(6)>6個</Case><Case(7)>7個</Case></Switch>是嗎？"
 103,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFF02131_100_033","那麼接下來公布結果哦！"
 104,"TEXT_FESEST204_02131_EGGHUNTINGSTAFFF02131_000_034","啊呀，真不愧是你啊！
 居然連高級難度都突破了！

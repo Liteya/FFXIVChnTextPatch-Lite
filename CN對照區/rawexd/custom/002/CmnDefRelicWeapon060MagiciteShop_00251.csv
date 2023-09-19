@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_000","呵呵……沒問題，你想要哪個武器的聖魂？
 價格絕對公道。"
 1,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_TITLE","請選擇武器"
-2,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CHOICES","<If(Equal(IntegerParameter(1),9491))>安装<Sheet(Item,9491,0)/>与<Sheet(Item,9500,0)/>的圣魂<Else/>安装<Sheet(Item,IntegerParameter(1),0)/>的圣魂</If>（剩餘<Value>IntegerParameter(2)</Value>顆）"
+2,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CHOICES","<If(Equal(IntegerParameter(1),9491))>安裝<Sheet(Item,9491,0)/>與<Sheet(Item,9500,0)/>的聖魂<Else/>安裝<Sheet(Item,IntegerParameter(1),0)/>的聖魂</If>（剩餘<Value>IntegerParameter(2)</Value>顆）"
 3,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CANCEL","取消"
 4,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_100","（未使用/預計刪除）"
 5,"TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_110","（未使用/預計刪除）"

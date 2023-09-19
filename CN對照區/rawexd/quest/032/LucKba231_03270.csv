@@ -140,7 +140,7 @@ int32,str,str
 89,"TEXT_LUCKBA231_03270_WARRIOROFDARKNESS_000_213","好，那我們就和布蘭登、奈貝爾特他們匯合，
 去找你妹妹吧！"
 90,"TEXT_LUCKBA231_03270_GIOTT_000_214","你給我振作一點！
-<Switch(PlayerParameter(71))><Case(1)>没心没肺的尘族</Case><Case(2)>傲慢的菁灵</Case><Case(3)>丢人的矮人</Case><Case(4)>长得像猫的猫秘</Case><Case(5)>肌肉硬邦邦的迦震</Case><Case(6)>浑身鳞片的朵龙</Case><Case(7)>死脑筋的隆索</Case><Case(8)>长着兔耳朵的维斯</Case></Switch><If(PlayerParameter(4))>丫头<Else/>小子</If>！！
+<Switch(PlayerParameter(71))><Case(1)>沒心沒肺的塵族</Case><Case(2)>傲慢的菁靈</Case><Case(3)>丟人的矮人</Case><Case(4)>長得像貓的貓秘</Case><Case(5)>肌肉硬邦邦的迦震</Case><Case(6)>渾身鱗片的朵龍</Case><Case(7)>死腦筋的隆索</Case><Case(8)>長著兔耳朵的維斯</Case></Switch><If(PlayerParameter(4))>丫頭<Else/>小子</If>！！
 你個大哥布林養的醜八怪！！"
 91,"TEXT_LUCKBA231_03270_GIOTT_000_215","看來你又看到過去了啊。
 這個力量在解讀未知事物上雖然很有用，

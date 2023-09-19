@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_AKTKLA107_04138_SEQ_21",""
 22,"TEXT_AKTKLA107_04138_SEQ_22",""
 23,"TEXT_AKTKLA107_04138_SEQ_23",""
-24,"TEXT_AKTKLA107_04138_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35838,0)/><Else/>将<Sheet(ItemHQ,35838,0)/>交给露露夏</If>"
+24,"TEXT_AKTKLA107_04138_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 魔法大學交易：製作<Sheet(ItemHQ,35838,0)/><Else/>將<Sheet(ItemHQ,35838,0)/>交給露露夏</If>"
 25,"TEXT_AKTKLA107_04138_TODO_01","和納摩諾·塔玡摩諾對話"
 26,"TEXT_AKTKLA107_04138_TODO_02","和露露夏對話"
 27,"TEXT_AKTKLA107_04138_TODO_03",""
@@ -269,8 +269,8 @@ int32,str,str
 141,"TEXT_AKTKLA107_04138_SYSTEM_000_100","此外，魔法大學裡好像還有其他
 需要厲害的工匠幫助的人。
 請去找他們談談吧。"
-142,"TEXT_AKTKLA107_04138_SYSTEM_000_101",""
-143,"TEXT_AKTKLA107_04138_SYSTEM_000_102",""
+142,"TEXT_AKTKLA107_04138_SYSTEM_000_101","（★未使用／削除予定★）"
+143,"TEXT_AKTKLA107_04138_SYSTEM_000_102","（★未使用／削除予定★）"
 144,"TEXT_AKTKLA107_04138_SYSTEM_000_103","此外，現在所有學系的交易均已完成！
 魔法大學的職員奇伊·阿里亞珀好像有事情想要拜託你。"
 145,"TEXT_AKTKLA107_04138_SYSTEM_000_104","去屯集堂和她談談吧。"

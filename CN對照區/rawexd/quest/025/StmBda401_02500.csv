@@ -28,7 +28,7 @@ int32,str,str
 24,"TEXT_STMBDA401_02500_TODO_00","在重逢集市收集情報"
 25,"TEXT_STMBDA401_02500_TODO_01","和格洛部的訓馬人交談"
 26,"TEXT_STMBDA401_02500_TODO_02","在「說話」頻道下輸入「你是模兒部的嗎」
-尋找模兒部女性"
+尋找模兒部女性 (Mol)"
 27,"TEXT_STMBDA401_02500_TODO_03","和其日娜對話"
 28,"TEXT_STMBDA401_02500_TODO_04",""
 29,"TEXT_STMBDA401_02500_TODO_05",""
@@ -161,4 +161,4 @@ int32,str,str
 那我就趕緊去找了！"
 95,"TEXT_STMBDA401_02500_CIRINA_000_119","那個，飛燕先生的事能過後再說嗎？
 抱歉，你先等我一下！"
-96,"TEXT_STMBDA401_02500_SAYTODO_000_000","你是模兒部的嗎"
+96,"TEXT_STMBDA401_02500_SAYTODO_000_000","Mol"

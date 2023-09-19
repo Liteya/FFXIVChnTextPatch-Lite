@@ -110,7 +110,7 @@ int32,str,str
 那麼……"
 77,"TEXT_LUCKMC109_03330_SYSTEM_000_090","開始觀察壁畫。
 在瞄準牆上的畫後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行觀察！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察！"
 78,"TEXT_LUCKMC109_03330_THANCRED_000_100","你那邊沒問題吧？
 ……看來我的佯攻派上用場了。"
 79,"TEXT_LUCKMC109_03330_YSHTOLA_000_110","到這的話應該就安全了，

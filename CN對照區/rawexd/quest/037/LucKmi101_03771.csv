@@ -53,9 +53,9 @@ int32,str,str
 46,"TEXT_LUCKMI101_03771_TODO_22",""
 47,"TEXT_LUCKMI101_03771_TODO_23",""
 48,"TEXT_LUCKMI101_03771_SYSTEM_000_000","若要領取或繼續推進本任務，
-需完成任務「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>）」。"
-49,"TEXT_LUCKMI101_03771_SYSTEM_000_001","「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>）」任務可以從
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部的尔·阿夏正漩校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部的沃尔赛勒正牙校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部的斯威夫特正耀校<Else/></If><Else/></If>處領取。"
+需完成任務「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>）」。"
+49,"TEXT_LUCKMI101_03771_SYSTEM_000_001","「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>）」任務可以從
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部的爾·阿夏正漩校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部的沃爾賽勒正牙校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部的斯威夫特正耀校<Else/></If><Else/></If>處領取。"
 50,"TEXT_LUCKMI101_03771_SYSTEM_000_002","若要領取或繼續推進本任務，
 需完成「第七星曆編年史：水晶塔」。"
 51,"TEXT_LUCKMI101_03771_SYSTEM_000_003","可以從喪靈鐘的異國裝扮的男人那裡，
@@ -63,9 +63,9 @@ int32,str,str
 完成「第七星曆編年史：水晶塔」。"
 52,"TEXT_LUCKMI101_03771_SYSTEM_000_004","「第七星曆編年史：水晶塔」的攻略狀況可以在日誌中查看。"
 53,"TEXT_LUCKMI101_03771_SYSTEM_000_005","若要領取或繼續推進本任務，
-需要完成任務「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>）」。"
-54,"TEXT_LUCKMI101_03771_SYSTEM_000_006","「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>）」任務可以從
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部的尔·阿夏正漩校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部的沃尔赛勒正牙校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部的斯威夫特正耀校<Else/></If><Else/></If>處領取。"
+需要完成任務「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>）」。"
+54,"TEXT_LUCKMI101_03771_SYSTEM_000_006","「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>）」任務可以從
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部的爾·阿夏正漩校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部的沃爾賽勒正牙校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部的斯威夫特正耀校<Else/></If><Else/></If>處領取。"
 55,"TEXT_LUCKMI101_03771_SYSTEM_000_007","此外若要領取或繼續推進本任務，
 還需要完成「第七星曆編年史：水晶塔」。"
 56,"TEXT_LUCKMI101_03771_SYSTEM_000_008","可以從喪靈鐘的異國裝扮的男人那裡，

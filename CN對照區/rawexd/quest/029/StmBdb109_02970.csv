@@ -137,7 +137,7 @@ int32,str,str
 之後的實戰就交給我吧！"
 84,"TEXT_STMBDB109_02970_SYSTEM_000_101","開始用望遠鏡觀察。
 找出蝦蛄的弱點，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行觀察。"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察。"
 85,"TEXT_STMBDB109_02970_SYSTEM_100_101","蝦蛄全身被堅硬的甲殼覆蓋。
 但其頭部下方裸露著一部分柔軟的肉，
 應該是它的弱點所在。"
@@ -159,7 +159,7 @@ int32,str,str
 教給我和它的戰鬥方法！"
 94,"TEXT_STMBDB109_02970_SYSTEM_000_121","開始用望遠鏡觀察。
 找出弗巴德的弱點，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行觀察。"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察。"
 95,"TEXT_STMBDB109_02970_SYSTEM_100_121","弗巴德雙手巨大，擁有怪力，
 但只要貫穿其操控鹽結晶的核心，便會使其失去力量。
 核心應該隱藏在其眼睛內部。"

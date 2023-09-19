@@ -71,7 +71,7 @@ int32,str,str
 天上可不會掉餡餅吶！"
 56,"TEXT_LUCKSA211_04027_WANDERINGWRITER_000_005","太過分了！
 宴會上玩的最歡的分明就是少當家你和你夫人嘛！"
-57,"TEXT_LUCKSA211_04027_WAKADANNAOFMUJIKOZA_000_006","哦？這位<If(PlayerParameter(4))>勇猛的小姐<Else/>健壮的小哥</If>是？"
+57,"TEXT_LUCKSA211_04027_WAKADANNAOFMUJIKOZA_000_006","哦？這位<If(PlayerParameter(4))>勇猛的小姐<Else/>健壯的小哥</If>是？"
 58,"TEXT_LUCKSA211_04027_WAKADANNAOFMUJIKOZA_000_007","什、什、什麼——！
 你就是那個家喻戶曉的艾歐澤亞的大英雄、
 多瑪與阿拉米格的解放者閣下嗎？！太、太驚人了！"

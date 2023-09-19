@@ -39,7 +39,7 @@ int32,str,str
 22,"TEXT_BANIXA008_01493_SEQ_22",""
 23,"TEXT_BANIXA008_01493_SEQ_23",""
 24,"TEXT_BANIXA008_01493_TODO_00","將<Sheet(EventItem,2001371,0)/>交給秋瓜浮村的休德耶德"
-25,"TEXT_BANIXA008_01493_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务18级：制作<Sheet(ItemHQ,　8133,0)/><Else/>将<Sheet(ItemHQ,　8133,0)/>交给长风实验场的赛兹尔·托托罗克</If>"
+25,"TEXT_BANIXA008_01493_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務18級：製作<Sheet(ItemHQ,　8133,0)/><Else/>將<Sheet(ItemHQ,　8133,0)/>交給長風實驗場的賽茲爾·托托羅克</If>"
 26,"TEXT_BANIXA008_01493_TODO_02","和風揚殖民地的密探茨扎爾·特爾坦對話"
 27,"TEXT_BANIXA008_01493_TODO_03","對<Sheet(EObj,2004448,0)/>使用<Sheet(EventItem,2001439,0)/>讓其停止工作"
 28,"TEXT_BANIXA008_01493_TODO_04","和密探茨扎爾·特爾坦對話"
@@ -50,7 +50,7 @@ int32,str,str
 33,"TEXT_BANIXA008_01493_TODO_09","向長風實驗場的賽茲爾·托托羅克報告"
 34,"TEXT_BANIXA008_01493_TODO_10","和塔塔拉姆對話"
 35,"TEXT_BANIXA008_01493_TODO_11","將<Sheet(EventItem,2001372,0)/>交給賽茲爾·托托羅克"
-36,"TEXT_BANIXA008_01493_TODO_12","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务18级：制作<Sheet(ItemHQ,　8134,0)/><Else/>将<Sheet(ItemHQ,　8134,0)/>交给塔塔拉姆</If>"
+36,"TEXT_BANIXA008_01493_TODO_12","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務18級：製作<Sheet(ItemHQ,　8134,0)/><Else/>將<Sheet(ItemHQ,　8134,0)/>交給塔塔拉姆</If>"
 37,"TEXT_BANIXA008_01493_TODO_13","和塔塔拉姆對話"
 38,"TEXT_BANIXA008_01493_TODO_14","向蛇巢司令部的斯卡利特協牙尉報告"
 39,"TEXT_BANIXA008_01493_TODO_15",""
@@ -70,9 +70,9 @@ int32,str,str
 50,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_002","接下來只要組裝上最重要的元件就可以完成了！
 這樣就能趕在風揚殖民地那群笨蛋來之前，
 完成迪茲爾·庫瓦蘭號，並讓它飛翔於空了！"
-51,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_003","接下來就靠你了<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！
+51,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_003","接下來就靠你了<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！
 去製作一個優質的<Sheet(ItemHQ,　8133,0)/>並把它交給我！
-這就是<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>你最後的任務了！"
+這就是<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>你最後的任務了！"
 52,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_004","我已經幫你準備好<Sheet(EventItem,2001371,0)/>了，
 你只需要把它拿到秋瓜浮村的製作設施進行加工就好了！
 拜託你了……"
@@ -94,7 +94,7 @@ int32,str,str
 姐姐我會在旁邊看著的，不要放棄哦！"
 59,"TEXT_BANIXA008_01493_HILDEYERD_000_014","幹完活的好孩子要記得去交貨才行喲！
 如果不小心在路上把東西弄丟了，可以來姐姐這裡重新做哦！"
-60,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_020","哦哦！<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，你回來啦！
+60,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_020","哦哦！<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，你回來啦！
 怎麼樣，我要的東西弄到手了嗎？快告訴我！"
 61,"TEXT_BANIXA008_01493_SEZULTOTOLOC_100_020","太好了！太好了！！確實是<Sheet(ItemHQ,　8133,0)/>！
 終於……終於……
@@ -124,7 +124,7 @@ int32,str,str
 71,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_030","別慌！笨蛋！
 就算拼了我這條老命，也絕對不會讓他們得逞的！
 只能去阻止他們裝甲氣球部隊的出擊了！"
-72,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_031","<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！
+72,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_031","<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！
 真是抱歉，我還想再請你幫個忙！
 這件事只能交給擅長戰鬥的你……"
 73,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_032","請你深入敵人陣地，阻止他們裝甲氣球部隊的出擊！
@@ -133,10 +133,10 @@ int32,str,str
 74,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_033","敵人的陣地是在庫爾札斯中央高地的風揚殖民地。
 你先去跟已經潛入敵陣的密探茨扎爾·特爾坦取得聯繫，
 ……問問他有沒有好的辦法來阻止裝甲氣球部隊的出擊。"
-75,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_034","敵人的事情就交給<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！
+75,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_034","敵人的事情就交給<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！
 你們繼續進行第一次試飛的準備工作！
 別磨磨蹭蹭的，做自己現在力所能及的事！"
-76,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_035","<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，拜託你了！
+76,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_035","<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，拜託你了！
 一定要好好地教訓他們一頓！"
 77,"TEXT_BANIXA008_01493_TATARAMU_000_036","絕對不能讓他們破壞迪茲爾·庫瓦蘭號！
 <Highlight>ObjectParameter(1)</Highlight>，拜託你了！
@@ -320,7 +320,7 @@ int32,str,str
 並且為了讓自己能飛得更高，
 我們鳥人族便在氣球的船首裝上羽毛製作的護符，求個吉利。"
 157,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_083","臭小子，淨瞎操心……呵呵。
-不過，最後的一筆果然還是需要<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>你來完成！"
+不過，最後的一筆果然還是需要<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>你來完成！"
 158,"TEXT_BANIXA008_01493_SEZULTOTOLOC_100_083","給你<Sheet(Item,　8090,0)/>，
 憑你的手藝，很輕鬆就能搞定，
 這也是真真正正最後的製作了，別鬆懈哦！"

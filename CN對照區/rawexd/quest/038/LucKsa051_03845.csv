@@ -29,7 +29,7 @@ int32,str,str
 21,"TEXT_LUCKSA051_03845_SEQ_21",""
 22,"TEXT_LUCKSA051_03845_SEQ_22",""
 23,"TEXT_LUCKSA051_03845_SEQ_23",""
-24,"TEXT_LUCKSA051_03845_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获得<Sheet(Item,30273,0)/><Else/>将<Sheet(Item,30273,0)/>交给甘戈斯的兹拉坦</If>"
+24,"TEXT_LUCKSA051_03845_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲得<Sheet(Item,30273,0)/><Else/>將<Sheet(Item,30273,0)/>交給甘戈斯的茲拉坦</If>"
 25,"TEXT_LUCKSA051_03845_TODO_01",""
 26,"TEXT_LUCKSA051_03845_TODO_02",""
 27,"TEXT_LUCKSA051_03845_TODO_03",""

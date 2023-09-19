@@ -56,7 +56,7 @@ int32,str,str
 49,"TEXT_HEAVNE105_02345_ALISAIE_000_005","聽說這種增強蠻神力量的祭器，
 在收藏家之間被高價轉賣。
 但是聽了這樣的事情後，真的是……讓人感到心寒。"
-50,"TEXT_HEAVNE105_02345_GABU_000_010","那個 那個<Highlight>ObjectParameter(1)</Highlight>
+50,"TEXT_HEAVNE105_02345_GABU_000_010","那個 那個 <Highlight>ObjectParameter(1)</Highlight>
 謝謝你願意幫助我！"
 51,"TEXT_HEAVNE105_02345_GABU_000_011","我 知道的喲
 要召喚泰坦大人 需要水晶對吧？

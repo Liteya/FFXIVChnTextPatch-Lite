@@ -34,9 +34,9 @@ int32,str,str
 22,"TEXT_BANIXA104_01497_SEQ_22",""
 23,"TEXT_BANIXA104_01497_SEQ_23",""
 24,"TEXT_BANIXA104_01497_TODO_00","在「說話」頻道下輸入「乘風而起」
-對元靈幼樹的空力團貨物運送員說暗號"
+對元靈幼樹的空力團貨物運送員說暗號 (With the Wind)"
 25,"TEXT_BANIXA104_01497_TODO_01","將<Sheet(EventItem,2001380,0)/>交給私語巨木鳥欄的內勒蒙"
-26,"TEXT_BANIXA104_01497_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务1级：制作<Sheet(Item,　8094,0)/><Else/>将<Sheet(Item,　8094,0)/>交给劳动者雅泽尔·阿华坦</If>"
+26,"TEXT_BANIXA104_01497_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務1級：製作<Sheet(Item,　8094,0)/><Else/>將<Sheet(Item,　8094,0)/>交給勞動者雅澤爾·阿華坦</If>"
 27,"TEXT_BANIXA104_01497_TODO_03",""
 28,"TEXT_BANIXA104_01497_TODO_04",""
 29,"TEXT_BANIXA104_01497_TODO_05",""
@@ -82,7 +82,7 @@ int32,str,str
 你、你找我有什麼事？！"
 56,"TEXT_BANIXA104_01497_SYSTEM_100_061","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入暗號「乘風而起」。"
-57,"TEXT_BANIXA104_01497_SYSTEM_100_062","乘風而起"
+57,"TEXT_BANIXA104_01497_SYSTEM_100_062","With the Wind"
 58,"TEXT_BANIXA104_01497_IXALGATHERER01497_000_060","這是暗號……你是我們的同伴嗎？！
 給你添麻煩了，因為我很難分辨人類的模樣！
 請你把材料送到實驗場吧！"

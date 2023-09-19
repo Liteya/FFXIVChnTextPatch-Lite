@@ -30,7 +30,7 @@ int32,str,str
 26,"TEXT_AKTKLA305_04150_TODO_02","帶著德布羅依和煉金術製藥堂的煉金術士對話"
 27,"TEXT_AKTKLA305_04150_TODO_03","帶著德布羅依和煉金術製藥堂的煉金術士對話"
 28,"TEXT_AKTKLA305_04150_TODO_04","帶著德布羅依到梅麗德酒房對話"
-29,"TEXT_AKTKLA305_04150_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35844,0)/><Else/>将<Sheet(ItemHQ,35844,0)/>交给德布罗依</If>"
+29,"TEXT_AKTKLA305_04150_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 魔法大學交易：製作<Sheet(ItemHQ,35844,0)/><Else/>將<Sheet(ItemHQ,35844,0)/>交給德布羅依</If>"
 30,"TEXT_AKTKLA305_04150_TODO_06","和精製堂的德布羅依對話"
 31,"TEXT_AKTKLA305_04150_TODO_07",""
 32,"TEXT_AKTKLA305_04150_TODO_08",""

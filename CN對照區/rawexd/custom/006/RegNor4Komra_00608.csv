@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_REGNOR4KOMRA_00608_GAMGG_000_000","啦哩吼！
-<Switch(PlayerParameter(71))><Case(1)>我没见过你啊，你是旅行者吗？</Case><Case(2)>我没见过你啊，你是旅行者吗？</Case><Case(3)>真是不知羞耻……你是来自别处的矮人族吧？</Case><Case(4)>我没见过你啊，你是旅行者吗？</Case><Case(5)>我没见过你啊，你是旅行者吗？</Case><Case(6)>我没见过你啊，你是旅行者吗？</Case><Case(7)>我没见过你啊，你是旅行者吗？</Case><Case(8)>我没见过你啊，你是旅行者吗？</Case></Switch>
+<Switch(PlayerParameter(71))><Case(1)>我沒見過你啊，你是旅行者嗎？</Case><Case(2)>我沒見過你啊，你是旅行者嗎？</Case><Case(3)>真是不知羞恥……你是來自別處的矮人族吧？</Case><Case(4)>我沒見過你啊，你是旅行者嗎？</Case><Case(5)>我沒見過你啊，你是旅行者嗎？</Case><Case(6)>我沒見過你啊，你是旅行者嗎？</Case><Case(7)>我沒見過你啊，你是旅行者嗎？</Case><Case(8)>我沒見過你啊，你是旅行者嗎？</Case></Switch>
 ……算了，如果你有想要了解的事情就來問我！"
 1,"TEXT_REGNOR4KOMRA_00608_GAMGG_100_000","我沒見過你啊，你是旅行者嗎？
 ……算了，如果你有想要了解的事情就來問我！"

@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_LUCKZE010_03444_SEQ_22",""
 23,"TEXT_LUCKZE010_03444_SEQ_23",""
 24,"TEXT_LUCKZE010_03444_TODO_00","在「說話」頻道下輸入「野玫瑰」
-和卡恩斯打招呼"
+和卡恩斯打招呼 (tuktu)"
 25,"TEXT_LUCKZE010_03444_TODO_01","在指定地點調查並獲取<Sheet(EventItem,2002519,0)/>"
 26,"TEXT_LUCKZE010_03444_TODO_02","將<Sheet(EventItem,2002519,0)/>交給卡恩斯"
 27,"TEXT_LUCKZE010_03444_TODO_03",""
@@ -67,7 +67,7 @@ int32,str,str
 是、是誰！"
 54,"TEXT_LUCKZE010_03444_SYSTEM_100_010","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「野玫瑰」的詞句。"
-55,"TEXT_LUCKZE010_03444_SYSTEM_100_011","野玫瑰"
+55,"TEXT_LUCKZE010_03444_SYSTEM_100_011","tuktu"
 56,"TEXT_LUCKZE010_03444_KARNES_000_011","你是從蛇行枝來的？
 難道是瓦爾松擔心我？"
 57,"TEXT_LUCKZE010_03444_KARNES_000_012","我遭到了野獸的襲擊……被毒爪抓傷了。

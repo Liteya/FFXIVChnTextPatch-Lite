@@ -71,7 +71,7 @@ int32,str,str
 可以的話能請您陪我一同在延夏視察嗎？"
 56,"TEXT_STMBDC106_03027_ASAHI_000_008","難得有機會重返多瑪，
 我想好好看看故鄉的現狀。
-有<If(PlayerParameter(4))>她们<Else/>他们</If>同行，夕霧女士也能放心了吧？"
+有<If(PlayerParameter(4))>她們<Else/>他們</If>同行，夕霧女士也能放心了吧？"
 57,"TEXT_STMBDC106_03027_YUGIRI_000_009","……有這兩位同行確實能夠保障大使閣下的安全。
 <Highlight>ObjectParameter(1)</Highlight>，你意下如何？"
 58,"TEXT_STMBDC106_03027_Q1_000_000","如何作答？"

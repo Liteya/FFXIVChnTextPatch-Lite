@@ -30,7 +30,7 @@ int32,str,str
 24,"TEXT_AKTKLA307_04152_TODO_00","和德布羅依對話"
 25,"TEXT_AKTKLA307_04152_TODO_01","再次和德布羅依對話"
 26,"TEXT_AKTKLA307_04152_TODO_02","繼續和德布羅依對話"
-27,"TEXT_AKTKLA307_04152_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35846,0)/><Else/>将<Sheet(ItemHQ,35846,0)/>交给德布罗依</If>"
+27,"TEXT_AKTKLA307_04152_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 魔法大學交易：製作<Sheet(ItemHQ,35846,0)/><Else/>將<Sheet(ItemHQ,35846,0)/>交給德布羅依</If>"
 28,"TEXT_AKTKLA307_04152_TODO_04","和德布羅依對話"
 29,"TEXT_AKTKLA307_04152_TODO_05",""
 30,"TEXT_AKTKLA307_04152_TODO_06",""

@@ -31,8 +31,8 @@ int32,str,str
 21,"TEXT_LUCKSA152_03971_SEQ_21",""
 22,"TEXT_LUCKSA152_03971_SEQ_22",""
 23,"TEXT_LUCKSA152_03971_SEQ_23",""
-24,"TEXT_LUCKSA152_03971_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,31576,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,30767,0)/>与<Sheet(Item,30784,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,30768,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,30769,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,30770,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,30771,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,30775,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,30776,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,30777,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,30778,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,30772,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,30774,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,30773,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,30779,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,30780,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,30781,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,30782,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,30783,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵装库或背包
-将<Sheet(Item,31576,0)/>交给甘戈斯的兹拉坦</If>"
+24,"TEXT_LUCKSA152_03971_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,31576,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,30767,0)/>與<Sheet(Item,30784,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,30768,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,30769,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,30770,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,30771,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,30775,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,30776,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,30777,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,30778,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,30772,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,30774,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,30773,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,30779,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,30780,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,30781,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,30782,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,30783,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
+將<Sheet(Item,31576,0)/>交給甘戈斯的茲拉坦</If>"
 25,"TEXT_LUCKSA152_03971_TODO_01",""
 26,"TEXT_LUCKSA152_03971_TODO_02",""
 27,"TEXT_LUCKSA152_03971_TODO_03",""
@@ -186,5 +186,5 @@ int32,str,str
 所以我才會沒收的啊。"
 103,"TEXT_LUCKSA152_03971_ZLATAN_000_123","不過，多了一雙眼睛幫我盯著他倒也不錯。
 希望義軍武器能讓你在戰場上所向披靡！"
-104,"TEXT_LUCKSA152_03971_GEROLT_000_001",""
-105,"TEXT_LUCKSA152_03971_GEROLT_000_003",""
+104,"TEXT_LUCKSA152_03971_GEROLT_000_001","（★未使用／削除予定★）"
+105,"TEXT_LUCKSA152_03971_GEROLT_000_003","（★未使用／削除予定★）"

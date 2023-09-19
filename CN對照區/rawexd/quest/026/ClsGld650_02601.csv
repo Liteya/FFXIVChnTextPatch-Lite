@@ -34,7 +34,7 @@ int32,str,str
 26,"TEXT_CLSGLD650_02601_TODO_02","和哈爾對話"
 27,"TEXT_CLSGLD650_02601_TODO_03","和艾美洛絲對話"
 28,"TEXT_CLSGLD650_02601_TODO_04","和嘉·凱碧卡對話"
-29,"TEXT_CLSGLD650_02601_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17904,0)/><Else/>将<Sheet(ItemHQ,17904,0)/>交给艾美洛丝</If>"
+29,"TEXT_CLSGLD650_02601_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17904,0)/><Else/>將<Sheet(ItemHQ,17904,0)/>交給艾美洛絲</If>"
 30,"TEXT_CLSGLD650_02601_TODO_06",""
 31,"TEXT_CLSGLD650_02601_TODO_07",""
 32,"TEXT_CLSGLD650_02601_TODO_08",""

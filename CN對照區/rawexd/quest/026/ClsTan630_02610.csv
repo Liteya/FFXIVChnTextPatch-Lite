@@ -34,7 +34,7 @@ int32,str,str
 26,"TEXT_CLSTAN630_02610_TODO_02","在<Sheet(EObj,2008261,0)/>張望 觀察長頸駝的全身"
 27,"TEXT_CLSTAN630_02610_TODO_03","向阿特魯納報告"
 28,"TEXT_CLSTAN630_02610_TODO_04","和製革匠公會附近的阿特魯納對話"
-29,"TEXT_CLSTAN630_02610_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17910,0)/><Else/>将<Sheet(ItemHQ,17910,0)/>交给艾尼恩</If>"
+29,"TEXT_CLSTAN630_02610_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17910,0)/><Else/>將<Sheet(ItemHQ,17910,0)/>交給艾尼恩</If>"
 30,"TEXT_CLSTAN630_02610_TODO_06",""
 31,"TEXT_CLSTAN630_02610_TODO_07",""
 32,"TEXT_CLSTAN630_02610_TODO_08",""
@@ -136,7 +136,7 @@ int32,str,str
 仔細地觀察它的全身吧！"
 82,"TEXT_CLSTAN630_02610_SYSTEM_100_040","接下來就開始觀察了。
 如果你發現了巨大的長頸駝，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行觀察！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行觀察！"
 83,"TEXT_CLSTAN630_02610_ENION_000_040","（★未使用／削除予定★）"
 84,"TEXT_CLSTAN630_02610_ENION_000_041","哇……雖然我在畫上看過長頸駝，
 但活的長頸駝更有魄力呢！
@@ -200,7 +200,7 @@ int32,str,str
 可以通過和相關非玩家角色對話再次獲得材料。"
 108,"TEXT_CLSTAN630_02610_SYSTEM_100_065","讓我們來實際體驗一下吧！
 打開「製作筆記」裡的「特殊配方」，
-從「職業任務」中選擇要製作的道具後，就可以開始製作了。"
+從「職業故事」中選擇要製作的道具後，就可以開始製作了。"
 109,"TEXT_CLSTAN630_02610_ATELLOUNE_000_065","長頸駝就交給我們了。
 等處理好之後，我們在我選的那個展覽地點——
 格里達尼亞製革匠公會的空地上匯合。"

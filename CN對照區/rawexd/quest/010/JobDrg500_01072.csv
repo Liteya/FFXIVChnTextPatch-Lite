@@ -89,14 +89,14 @@ int32,str,str
 就讓我告訴你，誰才是真正的蒼天之龍騎士！"
 63,"TEXT_JOBDRG500_01072_DRAGON_000_030","(-傳入心中的聲音-)……弱者……想要力量嗎……"
 64,"TEXT_JOBDRG500_01072_DRAGON_000_031","(-傳入心中的聲音-)……想要把這憤怒……這憎恨……變成力量嗎……"
-65,"TEXT_JOBDRG500_01072_ESTINIEN_000_032","龍啊……帝龍尼德霍格啊…… "
+65,"TEXT_JOBDRG500_01072_ESTINIEN_000_032","龍啊……帝龍尼德霍格啊……"
 66,"TEXT_JOBDRG500_01072_ESTINIEN_000_033","將你那不屈之牙、之爪……
 將你那龍之血液賜予我吧……"
 67,"TEXT_JOBDRG500_01072_ESTINIEN_000_034","……<Highlight>ObjectParameter(1)</Highlight>？！
 不……這身姿難道是……征龍將哈爾德拉斯？！"
 68,"TEXT_JOBDRG500_01072_ALBERIC_000_035","埃斯蒂尼安呢？
 難道和邪龍尼德霍格一起消失了麼？"
-69,"TEXT_JOBDRG500_01072_ALBERIC_000_036","……我們回阿德內爾占星台吧，<Highlight>ObjectParameter(1)</Highlight>。 "
+69,"TEXT_JOBDRG500_01072_ALBERIC_000_036","……我們回阿德內爾占星台吧，<Highlight>ObjectParameter(1)</Highlight>。"
 70,"TEXT_JOBDRG500_01072_ALBERIC_000_040","那時……當吞噬了埃斯蒂尼安的黑色光芒向我們襲來時……
 你的身影就好似是聖典中描繪的征龍將哈爾德拉斯一樣。"
 71,"TEXT_JOBDRG500_01072_ALBERIC_000_041","你可能不理解我在說什麼……
@@ -111,7 +111,7 @@ int32,str,str
 它就是蒼天之龍騎士鎧！"
 75,"TEXT_JOBDRG500_01072_ALBERIC_000_045","<Highlight>ObjectParameter(1)</Highlight>，
 你真是個不可思議的人。
-難道說你是…… "
+難道說你是……"
 76,"TEXT_JOBDRG500_01072_ALBERIC_000_046","不好意思，忘了我說的吧。
 這鎧甲一定是征龍將哈爾德拉斯
 為回應你的正義與勇氣之心，而送給你的。"
@@ -120,7 +120,7 @@ int32,str,str
 這些又是否與你的覺醒有關呢……"
 78,"TEXT_JOBDRG500_01072_ALBERIC_000_048","現在我能做到的，
 就是祈禱你的力量能傳達到埃斯蒂尼安的心中……
-希望他能夠平安無事。 "
+希望他能夠平安無事。"
 79,"TEXT_JOBDRG500_01072_ALBERIC_000_049","不管他多麼恨我，
 他都是我的弟子，我對他都視如己出……"
 80,"TEXT_JOBDRG500_01072_ALBERIC_000_050","接觸到那黑色光芒時，

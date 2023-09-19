@@ -29,7 +29,7 @@ int32,str,str
 17,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_006_000","提高收藏價值的方法（捕魚篇）"
 18,"TEXT_CTSSFSCHARACTER9_00815_GUIDEMENU_CANCEL","取消"
 19,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_000","通過交納委託品，
-<Sheet(ENpcResident,IntegerParameter(1),0)/>對你的信賴度會漸漸提高。"
+<Sheet(ENpcResident,IntegerParameter(1),0)/>對你信賴度會漸漸提高。"
 20,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_001_001","目前的信賴度會顯示在委託品列表上方的信賴槽中，
 如果信賴槽積滿，信賴等級就會提高。
 另外，信賴等級會用心形圖案來表示。"
@@ -38,7 +38,7 @@ int32,str,str
 22,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_007_000","交納收藏品需要收藏品對應的職業在80級以上才能進行。"
 23,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_007_001","交納時，若收藏品所對應的職業等級為90級，
 將會得到工票作為報酬，
-若對應職業未滿90級，將會得到經驗作為報酬。"
+諾對應職業未滿90級，將會獲得經驗作為報酬。"
 24,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_000","如果想要調查委託品列表中的道具的獲得方法，
 就請活用次級指令與道具說明吧。"
 25,"TEXT_CTSSFSCHARACTER9_00815_GUIDE_002_001","能工巧匠分類的委託品，只需要在打開列表的狀態下，
@@ -119,7 +119,7 @@ int32,str,str
 56,"TEXT_CTSSFSCHARACTER9_00815_TUTORIAL_001_002","另外，每週最多可以交貨6次。
 積極地交納收藏品，提高信賴等級吧！"
 57,"TEXT_CTSSFSCHARACTER9_00815_WEEKLYLIMIT_000_000","本週的交貨次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 58,"TEXT_CTSSFSCHARACTER9_00815_KNOWLEDGE_ANDEN_001_000","說到羊倌會使用的東西……大概是剪羊毛的剪刀、
 羊圈的清掃工具、做飯的炊具以及藥品這些吧。
 你會給我帶來什麼樣的東西呢？"
@@ -327,7 +327,7 @@ int32,str,str
 我們還經常一起吃飯。"
 144,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_019","雖然剛開始見到我時他們很是驚訝，
 但尷尬之後，他們很快就接受了我，
-並且之後每次路過都會來做客！ "
+並且之後每次路過都會來做客！"
 145,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_020","但最開始他們為什麼會感到驚訝呢？
 有什麼在意的地方嗎？"
 146,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_100","說起來，安登總是會被毛絨絨的羊們包圍起來，
@@ -373,10 +373,10 @@ int32,str,str
 165,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_001_001","可以領取老主顧交易的劇情任務了。
 和伊爾美格的安登對話即可接受任務。
 完成任務後，交貨列表將會更新。"
-166,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_001",""
-167,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_002",""
-168,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_003",""
-169,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_004",""
+166,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_001","（★未使用／削除予定★）"
+167,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_002","（★未使用／削除予定★）"
+168,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_003","（★未使用／削除予定★）"
+169,"TEXT_CTSSFSCHARACTER9_00815_AFTRANKUP_002_004","（★未使用／削除予定★）"
 170,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_000","<Highlight>ObjectParameter(1)</Highlight>，謝謝你帶這麼多東西給我！"
 171,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_001_001","而且能和你聊天我也非常高興！
 畢竟這裡能和我聊天的也只有仙子族，
@@ -423,7 +423,7 @@ int32,str,str
 187,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_006_004","你也偶爾得去見見你的老朋友，
 對方一定比你想的要更加關心你。"
 188,"TEXT_CTSSFSCHARACTER9_00815_AFTWEEKLY_000_000","本週向<Sheet(ENpcResident,IntegerParameter(1),0)/>的交貨的次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 189,"TEXT_CTSSFSCHARACTER9_00815_ANDEN_000_000","這微妙的感覺，
 我真的好在意啊。"
 190,"TEXT_CTSSFSCHARACTER9_00815_QUEST_SYSTEM_000_002","若要繼續推進老主顧的劇情任務，

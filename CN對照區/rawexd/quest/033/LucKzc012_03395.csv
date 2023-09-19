@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_LUCKZC012_03395_SEQ_23",""
 24,"TEXT_LUCKZC012_03395_TODO_00","尋找可恩·久付"
 25,"TEXT_LUCKZC012_03395_TODO_01","在「說話」頻道下輸入「可恩·久付」
-在<Sheet(EObj,2009997,0)/>尋找可恩·久付"
+在<Sheet(EObj,2009997,0)/>尋找可恩·久付 (Kenn Gyuf)"
 26,"TEXT_LUCKZC012_03395_TODO_02","向拉德·可恩報告"
 27,"TEXT_LUCKZC012_03395_TODO_03",""
 28,"TEXT_LUCKZC012_03395_TODO_04",""
@@ -71,7 +71,7 @@ int32,str,str
 誰也阻止不了我！"
 55,"TEXT_LUCKZC012_03395_SYSTEM_000_012","向群樹館方向飛走了。
 繼續追趕，將可恩·久付叫出來。"
-56,"TEXT_LUCKZC012_03395_SYSTEM_000_013","可恩·久付"
+56,"TEXT_LUCKZC012_03395_SYSTEM_000_013","Kenn Gyuf"
 57,"TEXT_LUCKZC012_03395_SYSTEM_000_014","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「可恩·久付」的詞句。"
 58,"TEXT_LUCKZC012_03395_BEAVERA03395_100_020","(-像河狸一般的聲音-)嗷嗷！"

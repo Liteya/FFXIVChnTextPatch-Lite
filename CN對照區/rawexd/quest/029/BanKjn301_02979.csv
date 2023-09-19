@@ -30,7 +30,7 @@ int32,str,str
 23,"TEXT_BANKJN301_02979_SEQ_23",""
 24,"TEXT_BANKJN301_02979_TODO_00","和龜甲島正在生氣的碧甲族對話"
 25,"TEXT_BANKJN301_02979_TODO_01","在龜甲島的<Sheet(EObj,2009239,0)/>張望
-討伐出現的<Sheet(BNpcName,6873,0)/>並對其使用<Sheet(EventItem,2002398,0)/>"
+討伐出現的<Sheet(BNpcName,6873,0)/> 並對其使用<Sheet(EventItem,2002398,0)/>"
 26,"TEXT_BANKJN301_02979_TODO_02","向頭巾報告"
 27,"TEXT_BANKJN301_02979_TODO_03",""
 28,"TEXT_BANKJN301_02979_TODO_04",""

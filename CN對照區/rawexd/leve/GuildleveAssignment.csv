@@ -19,10 +19,10 @@ int32,str,str
 15,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_GATHER_MULTI","大規模 採集任務（所需受理限額:<Sheet(LeveSystemDefine,87,1)/>個）"
 16,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_CRAFT_MULTI","大規模 製作任務（所需受理限額:<Sheet(LeveSystemDefine,87,1)/>個）"
 17,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GATHERING","根據任務結果的評價，報酬將會在初期提示的額度上增加<Value>IntegerParameter(1)</Value>%。"
-18,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GCLEVE","根據<If(IntegerParameter(1))>所属军队加成<If(IntegerParameter(2))>及<Else/></If><Else/></If><If(IntegerParameter(2))>任务内容评价<Else/></If>，報酬將有所提高。"
-19,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_DIFFICULTY","<If(IntegerParameter(5))>此外，<Else/></If>獲得了<If(IntegerParameter(1))>难度<If(IntegerParameter(2))>及<Else/><If(IntegerParameter(3))>及<Else/></If></If><Else/></If><If(IntegerParameter(2))>快速完成<If(IntegerParameter(3))>及<Else/></If><Else/></If><If(IntegerParameter(3))>讨伐悬赏魔物<Else/></If>的額外獎勵，
-報酬<If(IntegerParameter(5))>额外<Else/></If>提高<Value>IntegerParameter(4)</Value>檔。"
-20,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_BONUS","<If(IntegerParameter(1))>另外，<Else/></If>獲得了<If(IntegerParameter(2))>快速完成<If(IntegerParameter(3))>及<Else/></If><Else/></If><If(IntegerParameter(3))>讨伐悬赏魔物<Else/></If>的額外獎勵！"
+18,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GCLEVE","根據<If(IntegerParameter(1))>所屬軍隊加成<If(IntegerParameter(2))>及<Else/></If><Else/></If><If(IntegerParameter(2))>任務內容評價<Else/></If>，報酬將有所提高。"
+19,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_DIFFICULTY","<If(IntegerParameter(5))>此外，<Else/></If>獲得了<If(IntegerParameter(1))>難度<If(IntegerParameter(2))>及<Else/><If(IntegerParameter(3))>及<Else/></If></If><Else/></If><If(IntegerParameter(2))>快速完成<If(IntegerParameter(3))>及<Else/></If><Else/></If><If(IntegerParameter(3))>討伐懸賞魔物<Else/></If>的額外獎勵，
+報酬<If(IntegerParameter(5))>額外<Else/></If>提高<Value>IntegerParameter(4)</Value>檔。"
+20,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_BONUS","<If(IntegerParameter(1))>另外，<Else/></If>獲得了<If(IntegerParameter(2))>快速完成<If(IntegerParameter(3))>及<Else/></If><Else/></If><If(IntegerParameter(3))>討伐懸賞魔物<Else/></If>的額外獎勵！"
 21,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_GET_REWARD_BATTLE","非戰鬥菁英或魔法導師的職業，無法獲得經驗值。"
 22,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_ENOUGH_FACTION_TICKET","領取理符所需的特殊部隊信用點不足。"
 23,"TEXT_GUILDLEVEASSIGNMENT_TALK_NOT_SELECTABLE","目前無法選擇該項。"

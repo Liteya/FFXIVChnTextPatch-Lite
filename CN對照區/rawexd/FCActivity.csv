@@ -72,8 +72,8 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 68,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>拆除了部隊工房。",16,0,0,8,15
 69,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>使用部隊合建設備啟動了「<Sheet(Item,IntegerParameter(1),0)/>」的製作工程。",16,14,0,8,15
 70,"推進「<Sheet(Item,IntegerParameter(1),0)/>」工程所必須的素材已經全部準備就緒。",0,14,0,8,15
-71,"「<Sheet(Item,IntegerParameter(1),0)/>」<Switch(IntegerParameter(2))><Case(1)>的工程有所进展。</Case><Case(2)>的工程取得很大进展，合建设备的状态变为“良好”。</Case><Case(3)>的工程取得极大进展，合建设备的状态变为“最佳”。</Case></Switch>",0,14,1,8,15
-72,"<Switch(IntegerParameter(2))><Case(1)>工程有所进展</Case><Case(2)>工程取得很大进展</Case><Case(3)>工程取得极大进展</Case></Switch>，<Sheet(Item,IntegerParameter(1),0)/>製作完成。",0,14,1,8,15
+71,"「<Sheet(Item,IntegerParameter(1),0)/>」<Switch(IntegerParameter(2))><Case(1)>的工程有所進展。</Case><Case(2)>的工程取得很大進展，合建設備的狀態變為「良好」。</Case><Case(3)>的工程取得極大進展，合建設備的狀態變為「最佳」。</Case></Switch>",0,14,1,8,15
+72,"<Switch(IntegerParameter(2))><Case(1)>工程有所進展</Case><Case(2)>工程取得很大進展</Case><Case(3)>工程取得極大進展</Case></Switch>，<Sheet(Item,IntegerParameter(1),0)/>製作完成。",0,14,1,8,15
 73,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>從部隊合建設備中回收了「<Sheet(Item,IntegerParameter(1),0)/>」。",16,14,0,8,15
 74,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>中斷了部隊合建設備中的製作工程。",16,0,0,8,15
 75,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>繪製出了「<Sheet(CompanyCraftDraft,IntegerParameter(1),0)/>」。",16,0,1,8,15

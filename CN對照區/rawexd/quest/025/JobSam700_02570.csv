@@ -189,7 +189,7 @@ int32,str,str
 遠東之國的歷史都將由我們的這場決鬥所決定。"
 108,"TEXT_JOBSAM700_02570_UGETSU_100_061","無雙齋師父和我究竟孰對孰錯，
 今天也能在此做個了斷！"
-109,"TEXT_JOBSAM700_02570_UGETSU_000_061","與我拜在同一師父門下的<If(PlayerParameter(4))>小师妹<Else/>小师弟</If><Highlight>ObjectParameter(1)</Highlight>。
+109,"TEXT_JOBSAM700_02570_UGETSU_000_061","與我拜在同一師父門下的<If(PlayerParameter(4))>小師妹<Else/>小師弟</If><Highlight>ObjectParameter(1)</Highlight>。
 這裡有資格做我對手的，只有你一人……
 讓我們賭上各自秉承之大義，來戰吧！！"
 110,"TEXT_JOBSAM700_02570_UGETSU_000_070","怎麼了？

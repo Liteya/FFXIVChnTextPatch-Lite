@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_AKTKZE013_04252_SEQ_23",""
 24,"TEXT_AKTKZE013_04252_TODO_00","和扭扭捏捏的兔兔族對話"
 25,"TEXT_AKTKZE013_04252_TODO_01","在「說話」頻道下輸入「任我行威」
-說出暗號"
+(going my way) 說出暗號"
 26,"TEXT_AKTKZE013_04252_TODO_02","和任我行威對話"
 27,"TEXT_AKTKZE013_04252_TODO_03","和扭扭捏捏的兔兔族對話"
 28,"TEXT_AKTKZE013_04252_TODO_04",""
@@ -67,7 +67,7 @@ int32,str,str
 53,"TEXT_AKTKZE013_04252_FIDGETLOPORRIT04252_000_013","能請你在我的身邊的位置說一遍暗號嗎？
 只要聽到有人說「任我行威」，他就會放心出來見我們了！"
 54,"TEXT_AKTKZE013_04252_SYSTEM_000_020","（★未使用／削除予定★）"
-55,"TEXT_AKTKZE013_04252_SAYTODO_000_020","任我行威"
+55,"TEXT_AKTKZE013_04252_SAYTODO_000_020","going my way"
 56,"TEXT_AKTKZE013_04252_SYSTEM_000_021","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「任我行威」的詞句。"
 57,"TEXT_AKTKZE013_04252_GOINGMYWAY_000_022","(-神秘的聲音-)我就說有一個沒聽過的腳步聲，

@@ -171,7 +171,7 @@ int32,str,str
 103,"TEXT_SUBCTS670_04523_AMELIANCE_000_069","啊呀，你就是彌剌狄恩啊！
 遠道而來，真是辛苦你了。"
 104,"TEXT_SUBCTS670_04523_AMELIANCE_000_070","我是阿梅莉安絲，這邊這位是……"
-105,"TEXT_SUBCTS670_04523_MILADEEN_000_071","我知道！這是<If(PlayerParameter(4))>令嫒阿莉塞小姐<Else/>令郎阿尔菲诺少爷</If>對吧？！"
+105,"TEXT_SUBCTS670_04523_MILADEEN_000_071","我知道！這是<If(PlayerParameter(4))>令嬡阿莉塞小姐<Else/>令郎阿爾菲諾少爺</If>對吧？！"
 106,"TEXT_SUBCTS670_04523_AMELIANCE_000_072","呵呵、呵呵呵。
 很遺憾，並不是。"
 107,"TEXT_SUBCTS670_04523_AMELIANCE_000_073","這位是我事業上的合作夥伴<Highlight>ObjectParameter(1)</Highlight>。

@@ -194,8 +194,8 @@ int32,str,str
 111,"TEXT_MANFST300_00511_100070_RAUBAHN","在地底與商貿之神納爾札爾的保佑下，
 我們現在已經成為了沙漠的中心，
 並得到了黃金鄉的美名。"
-112,"TEXT_MANFST300_00511_100080_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)請看在勞班總帥身後的那面烏爾達哈國旗。"
-113,"TEXT_MANFST300_00511_100090_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)上面的圖案是以金色天平為題設計的。
+112,"TEXT_MANFST300_00511_100080_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)請看在勞班總帥身後的那面烏爾達哈國旗。"
+113,"TEXT_MANFST300_00511_100090_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)上面的圖案是以金色天平為題設計的。
 天平的左側放置著表示財富的寶石。
 天平的右側則放著表示力量的火焰。"
 114,"TEXT_MANFST300_00511_100100_RAUBAHN","我們烏爾達哈的繁榮，
@@ -207,7 +207,7 @@ int32,str,str
 我們的聯軍得以成功戰勝帝國軍第七軍團！"
 117,"TEXT_MANFST300_00511_100130_CLATTERM","噢！"
 118,"TEXT_MANFST300_00511_100140_CLATTERM","耶！"
-119,"TEXT_MANFST300_00511_100150_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)竟然說戰勝？
+119,"TEXT_MANFST300_00511_100150_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)竟然說戰勝？
 也不想想到底是多虧了誰才獲得了現在的時光。"
 120,"TEXT_MANFST300_00511_100160_RAUBAHN","但是！也有很多的士兵沒能返回家鄉……"
 121,"TEXT_MANFST300_00511_100170_RAUBAHN","讓我們衷心祈禱，
@@ -313,8 +313,8 @@ int32,str,str
 179,"TEXT_MANFST300_00511_300630_KANESENNA","格里達尼亞這棵大樹，
 在這平穩與協調的溫床中，
 接受著大地與豐饒女神諾菲卡的光芒，逐漸繁茂起來。"
-180,"TEXT_MANFST300_00511_300640_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)請看在嘉恩·艾大人身後的那面格里達尼亞國旗。"
-181,"TEXT_MANFST300_00511_300650_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)交纏在一起的兩條白蛇，
+180,"TEXT_MANFST300_00511_300640_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)請看在嘉恩·艾大人身後的那面格里達尼亞國旗。"
+181,"TEXT_MANFST300_00511_300650_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)交纏在一起的兩條白蛇，
 分別代表建國初期的人族和精靈族。
 雙方互相協助才得以有當初的國家。"
 182,"TEXT_MANFST300_00511_300660_KANESENNA","然而，北方的加雷馬帝國，
@@ -419,8 +419,8 @@ int32,str,str
 作為海上的勇士出生成長！"
 237,"TEXT_MANFST300_00511_501060_CLATTERM","耶！"
 238,"TEXT_MANFST300_00511_501070_CLATTERM","哦！"
-239,"TEXT_MANFST300_00511_501080_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)請看在梅爾維布提督身後的那面利姆薩·羅敏薩國旗。"
-240,"TEXT_MANFST300_00511_501090_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)那就是人們口中的「龍船旗」。
+239,"TEXT_MANFST300_00511_501080_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)請看在梅爾維布提督身後的那面利姆薩·羅敏薩國旗。"
+240,"TEXT_MANFST300_00511_501090_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)那就是人們口中的「龍船旗」。
 紅色代表犧牲的同伴的鮮血，
 黑色的長船則是指海盜船。"
 241,"TEXT_MANFST300_00511_501100_MERLWYB","為了對抗侵略艾歐澤亞的加雷馬帝國，
@@ -435,9 +435,9 @@ int32,str,str
 245,"TEXT_MANFST300_00511_501140_MERLWYB","這是一場為了自由和正義的戰鬥，
 讓我們為那些在陸地上苦戰到最後一刻的勇士們
 表示深刻的哀悼！"
-246,"TEXT_MANFST300_00511_501150_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)自由嗎……
+246,"TEXT_MANFST300_00511_501150_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)自由嗎……
 沒錯，人類都是自私的。"
-247,"TEXT_MANFST300_00511_501160_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿尔菲诺</If>-)不過蠻族其實也一樣。
+247,"TEXT_MANFST300_00511_501160_ALPHINAUD","(-<If(Equal(PlayerParameter(74),0))>？？？？<Else/>阿爾菲諾</If>-)不過蠻族其實也一樣。
 人類和蠻族說到底根本沒什麼區別……"
 248,"TEXT_MANFST300_00511_501170_MERLWYB","這5年來，我們抱著必死之心，
 將利姆薩·羅敏薩重建起來。"

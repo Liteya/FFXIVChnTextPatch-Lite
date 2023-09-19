@@ -6,7 +6,7 @@ int32,str,str
 2,"TEXT_COMARMGCARMYTRAINING_00344_MENU_CANCEL","取消"
 3,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_WAITING","進行中： 無"
 4,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_TRAINING","進行中： <Sheet(GcArmyTraining,IntegerParameter(1),4)/>
-完成時間：<If(GreaterThan(IntegerParameter(2),0))>已完成<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>小时<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分后<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分后<Else/>不到1分钟</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
+完成時間：<If(GreaterThan(IntegerParameter(2),0))>已完成<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>小時<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分後<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分後<Else/>不到1分鐘</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
 5,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_EXPEDITION","（★未使用／削除予定★）"
 6,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_001","打開訓練選單"
 7,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_002","中止進行中的訓練"
@@ -16,7 +16,7 @@ int32,str,str
 10,"TEXT_COMARMGCARMYTRAINING_00344_TRAINING_ABORT_010","訓練已經完成，
 無法中止。"
 11,"TEXT_COMARMGCARMYTRAINING_00344_SELECT_ABORT","<Sheet(GcArmyTraining,IntegerParameter(1),4)/>
-完成時間：<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分后<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分后<Else/>不到1分钟</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
+完成時間：<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分後<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分後<Else/>不到1分鐘</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
 要中止訓練嗎？"
 12,"TEXT_COMARMGCARMYTRAINING_00344_SELECT_ABORT_EXPEDITION","（★未使用／削除予定★）"
 13,"TEXT_COMARMGCARMYTRAINING_00344_OFFICER_MESSAGE_000","（★未使用／削除予定★）"

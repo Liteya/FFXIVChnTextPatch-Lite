@@ -27,12 +27,13 @@ int32,str,str
 23,"TEXT_SUBSEA075_00487_SEQ_23",""
 24,"TEXT_SUBSEA075_00487_TODO_00","和妮妮雅對話"
 25,"TEXT_SUBSEA075_00487_TODO_01","在「說話」頻道下輸入「你好！」
-向妮妮雅問好"
+（I come in peace.）向妮妮雅問好"
 26,"TEXT_SUBSEA075_00487_TODO_02","在「說話」頻道下輸入定型文「<Gui(54)/>你好！<Gui(55)/>」
 再次向妮妮雅問好"
 27,"TEXT_SUBSEA075_00487_TODO_03","和興英·斯托姆克勞德對話"
 28,"TEXT_SUBSEA075_00487_TODO_04","在「說話」頻道下輸入「你好！」
-向興英·斯托姆克勞德問好"
+向興英·斯托姆克勞德問好
+（Greetings and salutations!）"
 29,"TEXT_SUBSEA075_00487_TODO_05","在「說話」頻道下輸入定型文「<Gui(54)/>謝謝你。<Gui(55)/>」
 向興英·斯托姆克勞德表示感謝"
 30,"TEXT_SUBSEA075_00487_TODO_06",""
@@ -67,7 +68,7 @@ int32,str,str
 53,"TEXT_SUBSEA075_00487_SYSTEM_100_011","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入「你好！」，
 向妮妮雅問好。"
-54,"TEXT_SUBSEA075_00487_SYSTEM_000_012","你好！"
+54,"TEXT_SUBSEA075_00487_SYSTEM_000_012","I come in peace."
 55,"TEXT_SUBSEA075_00487_NINIYA_000_020","嗯！你好！
 呵呵，你的問候真有活力啊。
 可以再向我問候一次嗎？"
@@ -86,7 +87,7 @@ int32,str,str
 62,"TEXT_SUBSEA075_00487_SYSTEM_100_031","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入「你好！」，
 向興英·斯托姆克勞德問好。"
-63,"TEXT_SUBSEA075_00487_SYSTEM_000_032","你好！"
+63,"TEXT_SUBSEA075_00487_SYSTEM_000_032","Greetings and salutations!"
 64,"TEXT_SUBSEA075_00487_SINGINGSTORMCLOUD_000_040","你好，這麼禮貌的問候，我可不敢當。
 既然巴德龍認可你了，那你也就是我們的同伴了。
 今後請你多多關照。"

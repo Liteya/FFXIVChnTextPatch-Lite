@@ -71,7 +71,7 @@ int32,str,str
 結束後我們到上路客店匯合……拜託你了！"
 55,"TEXT_LUCKZA026_03368_SYSTEM_200_010","開始討伐古拉姆。
 對接近衛兵的古拉姆
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>發射解咒器！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>發射解咒器！"
 56,"TEXT_LUCKZA026_03368_GUARD03368_000_020","謝謝你。
 多虧你幫忙，我找到紀念物了。"
 57,"TEXT_LUCKZA026_03368_GUARD03368_000_021","話說回來，解咒器的效果特別好吧？
@@ -83,5 +83,5 @@ int32,str,str
 59,"TEXT_LUCKZA026_03368_GUARD03368_000_024","好吧，我的委託已經結束了。
 報酬不多還請你收下。
 謝謝你幫忙了。"
-60,"TEXT_LUCKZA026_03368_GUARD03368_000_010",""
-61,"TEXT_LUCKZA026_03368_GUARD03368_000_023",""
+60,"TEXT_LUCKZA026_03368_GUARD03368_000_010","（★未使用／削除予定★）"
+61,"TEXT_LUCKZA026_03368_GUARD03368_000_023","（★未使用／削除予定★）"

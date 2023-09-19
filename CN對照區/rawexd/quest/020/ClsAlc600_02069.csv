@@ -37,7 +37,7 @@ int32,str,str
 26,"TEXT_CLSALC600_02069_TODO_02","和威爾特維克對話"
 27,"TEXT_CLSALC600_02069_TODO_03","和煉金術士公會的塞文利安對話"
 28,"TEXT_CLSALC600_02069_TODO_04","將<Sheet(EventItem,2001708,0)/>交給喪靈鐘的威爾特維克"
-29,"TEXT_CLSALC600_02069_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作<Sheet(ItemHQ,10651,0)/><Else/>将<Sheet(ItemHQ,10651,0)/>交给威尔特维克</If>"
+29,"TEXT_CLSALC600_02069_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作<Sheet(ItemHQ,10651,0)/><Else/>將<Sheet(ItemHQ,10651,0)/>交給威爾特維克</If>"
 30,"TEXT_CLSALC600_02069_TODO_06","和喪靈鐘的威爾特維克對話"
 31,"TEXT_CLSALC600_02069_TODO_07",""
 32,"TEXT_CLSALC600_02069_TODO_08",""

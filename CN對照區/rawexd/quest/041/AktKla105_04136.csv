@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_AKTKLA105_04136_SEQ_23",""
 24,"TEXT_AKTKLA105_04136_TODO_00","和負責進貨的商人對話"
 25,"TEXT_AKTKLA105_04136_TODO_01","和露露夏對話"
-26,"TEXT_AKTKLA105_04136_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35836,0)/><Else/>将<Sheet(ItemHQ,35836,0)/>交给露露夏</If>"
+26,"TEXT_AKTKLA105_04136_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 魔法大學交易：製作<Sheet(ItemHQ,35836,0)/><Else/>將<Sheet(ItemHQ,35836,0)/>交給露露夏</If>"
 27,"TEXT_AKTKLA105_04136_TODO_03",""
 28,"TEXT_AKTKLA105_04136_TODO_04",""
 29,"TEXT_AKTKLA105_04136_TODO_05",""

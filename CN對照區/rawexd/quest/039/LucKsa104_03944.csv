@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_LUCKSA104_03944_SEQ_21",""
 22,"TEXT_LUCKSA104_03944_SEQ_22",""
 23,"TEXT_LUCKSA104_03944_SEQ_23",""
-24,"TEXT_LUCKSA104_03944_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,30886,0)/><Else/>让德米塔尔查看<Sheet(Item,30886,0)/></If>"
+24,"TEXT_LUCKSA104_03944_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,30886,0)/><Else/>讓德米塔爾查看<Sheet(Item,30886,0)/></If>"
 25,"TEXT_LUCKSA104_03944_TODO_01",""
 26,"TEXT_LUCKSA104_03944_TODO_02",""
 27,"TEXT_LUCKSA104_03944_TODO_03",""
@@ -100,4 +100,4 @@ int32,str,str
 67,"TEXT_LUCKSA104_03944_SYSTEM_000_061","「義軍鑑定師」提取出的「失傳技能」
 會被放入旁邊的「失傳技能保管箱」。
 在前往戰場之前，取出需要的技能吧。"
-68,"TEXT_LUCKSA104_03944_SYSTEM_000_060",""
+68,"TEXT_LUCKSA104_03944_SYSTEM_000_060","（★未使用／削除予定★）"

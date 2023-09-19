@@ -199,5 +199,5 @@ int32,str,str
 在此之前，我會和舞團一起努力演出，
 成為更加優秀的舞者等待那一天的到來！"
 115,"TEXT_LUCKBC017_03226_RANAAMIHGO_000_357","那麼，我出發了！
-我的<If(PlayerParameter(4))>师妹<Else/>师弟</If>、對手兼最棒的共演者，
+我的<If(PlayerParameter(4))>師妹<Else/>師弟</If>、對手兼最棒的共演者，
 期待我們有朝一日能再次同台演出！"

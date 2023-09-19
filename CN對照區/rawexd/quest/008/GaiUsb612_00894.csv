@@ -58,7 +58,7 @@ int32,str,str
 50,"TEXT_GAIUSB612_00894_DUMMY_000_010","沿著北面街道調查3處痕跡。
 調查最後的劍後打倒<Sheet(BNpcName,784,0)/>。
 獲得<Sheet(EventItem,2000701,0)/>。"
-51,"TEXT_GAIUSB612_00894_DUMMYTODO_000_010","無"
+51,"TEXT_GAIUSB612_00894_DUMMYTODO_000_010","（★未使用／削除予定★）"
 52,"TEXT_GAIUSB612_00894_STEPHANNOT_000_020","……啊，冒險者你回來啦。
 那傢伙怎麼樣了？"
 53,"TEXT_GAIUSB612_00894_STEPHANNOT_000_030","……在<Sheet(BNpcName,784,0)/>的肚子裡發現了這個指環？

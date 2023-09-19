@@ -78,7 +78,7 @@ int32,str,str
 我在這裡再稍微調整一下呼吸……"
 57,"TEXT_AKTKZH020_04315_SYSTEM_000_025","開始使用吹箭進行射擊。
 如果發現了興奮狀態的創造生物，
-就點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>放出吹箭！"
+就點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>放出吹箭！"
 58,"TEXT_AKTKZH020_04315_OBSERVER04315_000_040","誒，這就已經讓它睡著了嗎？！
 那可以麻煩你把<Sheet(EventItem,2003365,0)/>搬過來嗎？
 我還差一點就可以活動自如了……"
@@ -103,9 +103,9 @@ int32,str,str
 66,"TEXT_AKTKZH020_04315_GLAPHYRA_000_082","如果真能像報告書上所寫的那樣進行改善的話，
 那隻象或許也可以脫胎換骨，成為有用的物種。
 感謝你為他提供幫助！"
-67,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_000",""
-68,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_001",""
-69,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_005",""
-70,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_080",""
-71,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_081",""
-72,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_082",""
+67,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_000","（★未使用／削除予定★）"
+68,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_001","（★未使用／削除予定★）"
+69,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_005","（★未使用／削除予定★）"
+70,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_080","（★未使用／削除予定★）"
+71,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_081","（★未使用／削除予定★）"
+72,"TEXT_AKTKZH020_04315_PUBOBSERVER04315_000_082","（★未使用／削除予定★）"

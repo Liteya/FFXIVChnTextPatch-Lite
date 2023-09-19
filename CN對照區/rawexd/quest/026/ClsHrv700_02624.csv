@@ -30,7 +30,7 @@ int32,str,str
 26,"TEXT_CLSHRV700_02624_TODO_02","與阿拉基利的艾德姬絲匯合"
 27,"TEXT_CLSHRV700_02624_TODO_03","在阿拉基利收集情報"
 28,"TEXT_CLSHRV700_02624_TODO_04","和艾德姬絲對話"
-29,"TEXT_CLSHRV700_02624_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在王家猎场采集<Sheet(Item,17948,0)/><Else/>将<Sheet(Item,17948,0)/>交给田园郡的艾德姬丝</If>"
+29,"TEXT_CLSHRV700_02624_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在王家獵場採集<Sheet(Item,17948,0)/><Else/>將<Sheet(Item,17948,0)/>交給田園郡的艾德姬絲</If>"
 30,"TEXT_CLSHRV700_02624_TODO_06",""
 31,"TEXT_CLSHRV700_02624_TODO_07",""
 32,"TEXT_CLSHRV700_02624_TODO_08",""

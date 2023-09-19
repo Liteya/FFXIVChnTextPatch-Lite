@@ -15,4 +15,4 @@ int32,str,str
 7,"TEXT_OPENINGULDAH_FST_SYSTEM_000_23","請選擇遊戲的操作模式。"
 8,"TEXT_OPENINGULDAH_FST_SYSTEM_Q_01","請選擇要使用的操作模式。"
 9,"TEXT_OPENINGULDAH_FST_SYSTEM_A_01","鍵盤滑鼠模式"
-10,"TEXT_OPENINGULDAH_FST_SYSTEM_A_02","<If(GreaterThan(PlayerParameter(75),1))>控制器<Else/>手柄</If>模式"
+10,"TEXT_OPENINGULDAH_FST_SYSTEM_A_02","<If(GreaterThan(PlayerParameter(75),1))>控制器<Else/>手把</If>模式"

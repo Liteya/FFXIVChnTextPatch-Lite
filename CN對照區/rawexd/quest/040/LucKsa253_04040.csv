@@ -31,8 +31,8 @@ int32,str,str
 21,"TEXT_LUCKSA253_04040_SEQ_21",""
 22,"TEXT_LUCKSA253_04040_SEQ_22",""
 23,"TEXT_LUCKSA253_04040_SEQ_23",""
-24,"TEXT_LUCKSA253_04040_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,32959,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,32651,0)/>与<Sheet(Item,32668,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,32652,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,32653,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,32654,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,32655,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,32659,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,32660,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,32661,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,32662,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,32656,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,32658,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,32657,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,32663,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,32664,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,32665,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,32666,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,32667,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵装库或背包
-将<Sheet(Item,32959,0)/>交给甘戈斯的追忆系统</If>"
+24,"TEXT_LUCKSA253_04040_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,32959,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,32651,0)/>與<Sheet(Item,32668,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,32652,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,32653,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,32654,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,32655,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,32659,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,32660,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,32661,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,32662,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,32656,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,32658,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,32657,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,32663,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,32664,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,32665,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,32666,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,32667,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
+將<Sheet(Item,32959,0)/>交給甘戈斯的追憶系統</If>"
 25,"TEXT_LUCKSA253_04040_TODO_01",""
 26,"TEXT_LUCKSA253_04040_TODO_02",""
 27,"TEXT_LUCKSA253_04040_TODO_03",""
@@ -85,7 +85,7 @@ int32,str,str
 收集完之後投入追憶系統裡就可以了。"
 63,"TEXT_LUCKSA253_04040_SYSTEM_000_020","<Sheet(Item,32959,0)/>可以通過突破女王古殿，
 以及攻略從黑衣森林南部林區的石場水車進入的死者宮殿獲得。"
-64,"TEXT_LUCKSA253_04040_ZLATAN_000_025",""
+64,"TEXT_LUCKSA253_04040_ZLATAN_000_025","（★未使用／削除予定★）"
 65,"TEXT_LUCKSA253_04040_MEMORIZESYSTEM_000_028","嗶嗶……
 需要投入<Sheet(Item,32959,0)/>才能調整義軍武器。"
 66,"TEXT_LUCKSA253_04040_SYSTEM_000_026","<Sheet(Item,32959,0)/>可以通過突破女王古殿，

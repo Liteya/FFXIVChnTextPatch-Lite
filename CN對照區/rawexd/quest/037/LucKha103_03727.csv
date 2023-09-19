@@ -56,7 +56,7 @@ int32,str,str
 是一個表情很可怕的叫做「審問官」的人幹的。"
 51,"TEXT_LUCKHA103_03727_NOALLE_000_011","媽媽和我可沒有做過任何不好的事情啊？
 怎麼辦啊，要是媽媽就這麼不回來了的話……"
-52,"TEXT_LUCKHA103_03727_FRANCEL_000_012","放心沒事的，有<If(PlayerParameter(4))>大哥哥和大姐姐<Else/>大哥哥们</If>在呢，
+52,"TEXT_LUCKHA103_03727_FRANCEL_000_012","放心沒事的，有<If(PlayerParameter(4))>大哥哥和大姐姐<Else/>大哥哥們</If>在呢，
 諾阿勒能帶我們到你母親那裡嗎?"
 53,"TEXT_LUCKHA103_03727_FRANCEL_000_013","<Highlight>ObjectParameter(1)</Highlight>，
 這孩子提到的大門估計是指聖徒門。

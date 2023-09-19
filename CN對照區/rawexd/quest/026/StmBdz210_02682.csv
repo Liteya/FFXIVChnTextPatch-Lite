@@ -59,7 +59,7 @@ int32,str,str
 能看到有人倒下嗎？"
 52,"TEXT_STMBDZ210_02682_SYSTEM_000_006","開始確認是否有倒下的人。
 發現倒下的人的話，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行確認！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 53,"TEXT_STMBDZ210_02682_SYSTEM_000_010","一名藍髮的敖龍族女性，
 正倒在海濱上……"
 54,"TEXT_STMBDZ210_02682_MAN02682_000_020","果然有人倒在那裡啊！

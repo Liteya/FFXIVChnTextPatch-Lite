@@ -30,7 +30,7 @@ int32,str,str
 24,"TEXT_CLSBSM700_02619_TODO_00","和黃金港的雪花對話"
 25,"TEXT_CLSBSM700_02619_TODO_01","和小鍛冶屋的神刀對話"
 26,"TEXT_CLSBSM700_02619_TODO_02","和雪花對話"
-27,"TEXT_CLSBSM700_02619_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17892,0)/><Else/>将<Sheet(ItemHQ,17892,0)/>交给神刀</If>"
+27,"TEXT_CLSBSM700_02619_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17892,0)/><Else/>將<Sheet(ItemHQ,17892,0)/>交給神刀</If>"
 28,"TEXT_CLSBSM700_02619_TODO_04","和神刀對話"
 29,"TEXT_CLSBSM700_02619_TODO_05","向鍛鐵匠公會的布瑞賽爾報告"
 30,"TEXT_CLSBSM700_02619_TODO_06",""

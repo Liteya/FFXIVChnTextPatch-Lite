@@ -56,7 +56,7 @@ int32,str,str
 能請您去從<Sheet(BNpcName,15,0)/>身上弄到5份<Sheet(EventItem,2000845,0)/>嗎？
 說來也不怕您笑話，但以我的能力實在是對付不了那些傢伙。"
 50,"TEXT_GAIUSC610_01010_DUMMY_000_010","討伐5隻狂野野豬"
-51,"TEXT_GAIUSC610_01010_SYSTEM_000_010","無"
+51,"TEXT_GAIUSC610_01010_SYSTEM_000_010","（★未使用／削除予定★）"
 52,"TEXT_GAIUSC610_01010_ISARMOIX_000_020","怎樣了，冒險者朋友？
 您弄到<Sheet(EventItem,2000845,0)/>了嗎？"
 53,"TEXT_GAIUSC610_01010_ISARMOIX_000_021","……喔喔，正是這個，謝謝您啊！

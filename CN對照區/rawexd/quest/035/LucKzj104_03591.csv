@@ -122,7 +122,7 @@ int32,str,str
 77,"TEXT_LUCKZJ104_03591_XEROSHSOOAN_000_061","你、你不要嗎？！
 獲得，好的卵，這可是，無上的榮譽啊？！"
 78,"TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_062","<Highlight>ObjectParameter(1)</Highlight>，你，在說什麼！
-<If(PlayerParameter(4))>身为雌性<Else/>身为人类</If>的你，沒辦法，孵化卵的吧！"
+<If(PlayerParameter(4))>身為雌性<Else/>身為人類</If>的你，沒辦法，孵化卵的吧！"
 79,"TEXT_LUCKZJ104_03591_ONDOQQUEEN03591_000_063","(-鰭人族的母王-)嗯，既然不需要卵的話，那就算了……
 仔細一想，沒有雄性鰭人族，卵，也無法孵化……
 果然鰭人族的卵，只有，鰭人族養育合適。"

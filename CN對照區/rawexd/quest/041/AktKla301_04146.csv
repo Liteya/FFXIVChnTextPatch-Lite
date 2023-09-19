@@ -69,9 +69,9 @@ int32,str,str
 我這就去把那個試製品拿來。"
 58,"TEXT_AKTKLA301_04146_DEBROYE_000_011","如你所見，它看上去就是普通的麵包，
 至於味道……你親口嘗嘗就知道了。"
-59,"TEXT_AKTKLA301_04146_SYSTEM_000_012","剛入口的感覺是<Switch(PlayerParameter(71))><Case(1)>一股厨余垃圾的味道</Case><Case(2)>不存在于这个世界的涩味</Case><Case(3)>各种口味混合的味道</Case><Case(4)>舌尖的麻痹感</Case><Case(5)>口中充满了不协调感</Case><Case(6)>无以言表的不适感</Case><Case(7)>仿佛尝遍了世间的辛酸</Case><Case(8)>恨不得诅咒众神的怪味</Case></Switch>，
-最後剩下的卻是<Switch(PlayerParameter(71))><Case(1)>强烈的反胃感</Case><Case(2)>满心的后悔</Case><Case(3)>令人难受的后劲</Case><Case(4)>虚无</Case><Case(5)>含了异物的感觉</Case><Case(6)>不可名状的绝望感</Case><Case(7)>对命运的无力感</Case><Case(8)>混沌的后味</Case></Switch>。
-總之，毫無疑問非常難吃…… "
+59,"TEXT_AKTKLA301_04146_SYSTEM_000_012","剛入口的感覺是<Switch(PlayerParameter(71))><Case(1)>一股廚餘垃圾的味道</Case><Case(2)>不存在於這個世界的澀味</Case><Case(3)>各種口味混合的味道</Case><Case(4)>舌尖的麻痺感</Case><Case(5)>口中充滿了不協調感</Case><Case(6)>無以言表的不適感</Case><Case(7)>彷彿嘗遍了世間的辛酸</Case><Case(8)>恨不得詛咒眾神的怪味</Case></Switch>，
+最後剩下的卻是<Switch(PlayerParameter(71))><Case(1)>強烈的反胃感</Case><Case(2)>滿心的後悔</Case><Case(3)>令人難受的後勁</Case><Case(4)>虛無</Case><Case(5)>含了異物的感覺</Case><Case(6)>不可名狀的絕望感</Case><Case(7)>對命運的無力感</Case><Case(8)>混沌的後味</Case></Switch>。
+總之，毫無疑問非常難吃……"
 60,"TEXT_AKTKLA301_04146_DEBROYE_000_013","怎麼樣，是不是很難吃？"
 61,"TEXT_AKTKLA301_04146_GALVEROCHE_000_014","(-？？？？-)我製作的完美食料不需要用好不好吃來評價！"
 62,"TEXT_AKTKLA301_04146_DEBROYE_000_015","啊，加爾韋羅什教授……"

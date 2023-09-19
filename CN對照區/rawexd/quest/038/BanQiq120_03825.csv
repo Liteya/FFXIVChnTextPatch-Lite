@@ -28,7 +28,7 @@ int32,str,str
 21,"TEXT_BANQIQ120_03825_SEQ_21",""
 22,"TEXT_BANQIQ120_03825_SEQ_22",""
 23,"TEXT_BANQIQ120_03825_SEQ_23",""
-24,"TEXT_BANQIQ120_03825_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在缪栎的乡愁的矿脉采取<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给柯呫卢利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在缪栎的乡愁的草场采取<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给柯呫卢利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在洛查特尔河钓取<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给柯呫卢利·帕嗦梸</If><Else/></If></If></If>"
+24,"TEXT_BANQIQ120_03825_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟的鄉愁的礦脈採取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在繆櫟的鄉愁的草場採取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在洛查特爾河釣取<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給柯呫盧利·帕嗦梸</If><Else/></If></If></If>"
 25,"TEXT_BANQIQ120_03825_TODO_01",""
 26,"TEXT_BANQIQ120_03825_TODO_02",""
 27,"TEXT_BANQIQ120_03825_TODO_03",""

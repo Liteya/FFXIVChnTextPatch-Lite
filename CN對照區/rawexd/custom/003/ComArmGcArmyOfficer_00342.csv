@@ -8,7 +8,7 @@ int32,str,str
 4,"TEXT_COMARMGCARMYOFFICER_00342_RANK_UP","分隊等級 <Value>IntegerParameter(1)</Value>"
 5,"TEXT_COMARMGCARMYOFFICER_00342_MENU_TITLE_WAITING","執行中： 無"
 6,"TEXT_COMARMGCARMYOFFICER_00342_MENU_TITLE_EXPEDITION","執行中： <Sheet(GcArmyExpedition,IntegerParameter(1),8)/>
-完成時間：<If(GreaterThan(IntegerParameter(2),0))>已完成<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>小时<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分后<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分后<Else/>不到1分钟</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
+完成時間：<If(GreaterThan(IntegerParameter(2),0))>已完成<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>小時<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分後<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>分後<Else/>不到1分鐘</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
 7,"TEXT_COMARMGCARMYOFFICER_00342_MENU_TITLE_TRAINING","（★未使用／削除予定★）"
 8,"TEXT_COMARMGCARMYOFFICER_00342_MENU_001","<If(GreaterThan(IntegerParameter(1),0))><Gui(69)/><Else/></If>確認分隊任務"
 9,"TEXT_COMARMGCARMYOFFICER_00342_MENU_002","<If(GreaterThan(IntegerParameter(1),0))><Gui(69)/><Else/></If>中止執行中的分隊任務"
@@ -25,12 +25,12 @@ int32,str,str
 16,"TEXT_COMARMGCARMYOFFICER_00342_OBTAIN_TITLE","確定要領取報酬嗎？
 下列內容數量已達到上限，無法獲得全額報酬。
 <If(GreaterThan(IntegerParameter(1),0))>
-　·军票<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
-　·金碟币<Else/></If><If(GreaterThan(IntegerParameter(3),0))>
+　·軍票<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
+　·金碟幣<Else/></If><If(GreaterThan(IntegerParameter(3),0))>
 　·<Sheet(Item,IntegerParameter(5),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
 　·<Sheet(Item,IntegerParameter(6),0)/><Else/></If>"
 17,"TEXT_COMARMGCARMYOFFICER_00342_ABORT_YESNO","<Sheet(GcArmyExpedition,IntegerParameter(1),8)/>
-完成時間：<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分后<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分后<Else/>不到1分钟</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
+完成時間：<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分後<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分後<Else/>不到1分鐘</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
 要中止分隊任務嗎？"
 18,"TEXT_COMARMGCARMYOFFICER_00342_ABORT_YESNO_TRAINING","（★未使用／削除予定★）"
 19,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_TITLE","要閱讀哪項內容？"
@@ -54,7 +54,7 @@ int32,str,str
 37,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_280","（★未使用／削除予定★）"
 38,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_281","達成「挑戰筆記」中的項目後，
 偶爾會有志願兵出現。"
-39,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_282","志願兵出現時，會在畫面中央顯示資訊。
+39,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_282","志願兵出現時，會在畫面中央顯示訊息。
 軍營中會放置<Sheet(EObj,2007153,0)/>。"
 40,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_283","此外，志願兵的有無，
 可以在快捷指令的「任務情報」中的「任務情報」裡確認。"
@@ -74,14 +74,14 @@ int32,str,str
 50,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_200_292","（★未使用／削除予定★）"
 51,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_300","（★未使用／削除予定★）"
 52,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_301","（★未使用／削除予定★）"
-53,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_300","「分隊任務」是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>希望分隊執行的任務。
+53,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_300","「分隊任務」是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>希望分隊執行的任務。
 需要在分隊中選擇4名分隊員執行任務。"
 54,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_301","執行分隊任務時，需要向分隊員支付軍票。
 分隊任務所需時間為18小時（地球時間）左右。"
 55,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_302","完成時間可以在快捷指令的「任務情報」中的「任務情報」裡確認。"
-56,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_303","可以在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>處執行分隊任務和確認結果。"
+56,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_303","可以在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>處執行分隊任務和確認結果。"
 57,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_304","分隊任務的完成狀況及理想戰力
-會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。
+會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。
 此外，每個任務1周可以完成1次。"
 58,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_302","（★未使用／削除予定★）"
 59,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_305","（★未使用／削除予定★）"
@@ -137,7 +137,7 @@ int32,str,str
 88,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_341","「隨機獎勵」可以對高難度分隊任務的成功率產生很大影響。
 因此，要注意參考隨機獎勵中的內容安排分隊員。"
 89,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_342","「隨機獎勵」會在普通任務和特殊任務中發生，
-內容會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+內容會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 90,"TEXT_COMARMGCARMYOFFICER_00342_021_000_GRD","（★未使用／削除予定★）"
 91,"TEXT_COMARMGCARMYOFFICER_00342_021_001_GRD","（★未使用／削除予定★）"
 92,"TEXT_COMARMGCARMYOFFICER_00342_021_002_GRD","（★未使用／削除予定★）"
@@ -173,7 +173,7 @@ int32,str,str
 112,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_350","若想將號令添加到普通熱鍵欄中，
 可以從快捷指令的角色→技能選單→行動指令→冒險者分隊
 中進行操作。"
-113,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_351","在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>處可以開始分隊攻略任務或確認任務結果。"
+113,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_351","在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>處可以開始分隊攻略任務或確認任務結果。"
 114,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_360","作戰是影響到分隊攻略任務中分隊員們行動方針與能力值的要素。"
 115,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_361","一開始所有分隊員都只能用「自由」，
 但執行分隊攻略任務歸還時，偶爾能習得新的作戰。"
@@ -198,7 +198,7 @@ int32,str,str
 請您從這些志願兵裡選出新的分隊員！"
 124,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_138","達成「挑戰筆記」中的項目後，
 偶爾會有志願兵出現。"
-125,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_139","志願兵出現時，會在畫面中央顯示資訊。
+125,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_139","志願兵出現時，會在畫面中央顯示訊息。
 軍營中會放置<Sheet(EObj,2007153,0)/>。"
 126,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_140","此外，志願兵的有無，
 可以在快捷指令的「任務情報」中的「任務情報」裡確認。"
@@ -221,13 +221,13 @@ int32,str,str
 136,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_120","這樣一來就做好出擊準備了。
 對了，派遣分隊員執行「分隊任務」需要支付給他們軍票。
 這次就作為特例由下官支付了。"
-137,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_121","我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>可不是不給士兵報酬的那種亂七八糟的組織！
+137,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_121","我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>可不是不給士兵報酬的那種亂七八糟的組織！
 所以從下次開始，<Highlight>ObjectParameter(1)</Highlight>閣下要記得支付軍票哦。"
 138,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_122","分隊任務需要花費一定時間，
 等到任務結束時，您再來下官這裡確認結果吧！"
 139,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_124","（★未使用／削除予定★）"
 140,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_125","（★未使用／削除予定★）"
-141,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_126","和<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>對話，
+141,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_126","和<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>對話，
 即可對分隊任務的結果進行確認。"
 142,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_123","分隊任務的完成時間可以在
 快捷指令的「任務情報」中的「任務情報」裡確認。"
@@ -239,9 +239,9 @@ int32,str,str
 隨著能力的提升，任務的成功率也會上升。"
 145,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_132","（★未使用／削除予定★）"
 146,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_133","（★未使用／削除予定★）"
-147,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_134","以後可以在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>處執行分隊任務和確認結果。"
+147,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_134","以後可以在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>處執行分隊任務和確認結果。"
 148,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_135","分隊任務的完成狀況
-會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。
+會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。
 此外，每個任務1周可以完成1次。"
 149,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_136","下面我來說明一下「訓練」的相關事項吧。
 「訓練」可以提高我們分隊的「分隊綜合能力」。
@@ -252,7 +252,7 @@ int32,str,str
 沒有訓練就沒有勝利！
 ……這是以前的上級告訴下官的。"
 152,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_139","那麼就立刻讓分隊員們進行訓練，
-將我們分隊培養成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>數一數二的精銳部隊吧！"
+將我們分隊培養成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>數一數二的精銳部隊吧！"
 153,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_150","最近，分隊員們的成長非常顯著，
 已經可以挑戰難度更高的分隊任務了。
 完成高難度任務的話，分隊的實力一定能更上一層樓。"
@@ -289,7 +289,7 @@ int32,str,str
 若在獲得了吉兆的情況下直接執行下一任務，吉兆會就此消失。
 因此，獲得吉兆後不要忘記到「吉兆管理」中進行設定。"
 166,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_180","我們分隊的實力越來越強，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作战总部<Else/></If><Else/></If>對我們的期待也越來越高了，
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們的期待也越來越高了，
 說不定接下來就能執行特殊任務了哦。"
 167,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_181","出現了等級到達40級的分隊員，
 可以挑戰提升分隊等級必須完成的分隊任務了。
@@ -307,30 +307,30 @@ int32,str,str
 172,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_193","此外，完成一項特殊任務後，
 在倒數計時重置之前，無法再接受其他特殊任務。"
 173,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_194","特殊任務的完成狀況
-會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 174,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_195","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 175,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_196","鑒於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 176,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_197","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>副漩尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>副牙尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>副耀尉<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 177,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_198","沒錯，是晉升的命令書！
 恭喜您！
 連作為您部下的下官我都覺得無比榮幸！"
-178,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您，
+178,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您，
 我這就開始傳達。"
 179,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_331","現對<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>所率領的冒險者分隊開放「分隊攻略任務」。
 望堅持不懈，英勇奮戰。
 以上。"
 180,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_332","竟然是下達新的任務了！
 這也代表著上層對我們分隊實力的認可！"
-181,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>期待我們做出更多的成績來。
+181,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
 讓我們打起精神來，開始執行分隊攻略任務吧！"
 182,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_334","開放了「分隊攻略任務」。
 分隊攻略任務為冒險者與3名分隊隊員一同前往
 特定副本迷宮進行攻略的任務。"
 183,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_335","完成分隊攻略任務後可以獲得特別的報酬。
-在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>處可以開始執行任務。"
+在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>處可以開始執行任務。"
 184,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_336","另外，關於分隊攻略任務的詳情，
 可以在「閱讀指南」中進行確認。
 推薦在開始執行任務前優先過目一遍。"
@@ -341,7 +341,7 @@ int32,str,str
 187,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_220","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 188,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_221","鑒於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 189,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_222","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>副漩尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>副牙尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>副耀尉<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 190,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_223","沒錯，是晉升的命令書！
@@ -366,10 +366,10 @@ int32,str,str
 沒有訓練就沒有勝利！
 這是下官從過去的上級那裡學到的話。"
 199,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_263","那麼就立刻讓分隊員們進行訓練，
-將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
+將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
 200,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_320","<Highlight>ObjectParameter(1)</Highlight>閣下帶領的分隊的事跡，
-都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>了哦。"
-201,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作战总部<Else/></If><Else/></If>對我們期待頗高，
+都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>了哦。"
+201,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們期待頗高，
 那我們試著挑戰一些重要任務如何？"
 202,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_322","可以在普通任務項中選擇重要任務進行挑戰了。
 如果能成功完成此任務，軍銜將會提升。"
@@ -395,7 +395,7 @@ int32,str,str
 212,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_120","這樣一來就做好出擊準備了。
 對了，派遣分隊員執行「分隊任務」需要支付給他們軍票。
 這次就作為特例由下官支付了。"
-213,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_121","我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>可不是不給士兵報酬的那種亂七八糟的組織！
+213,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_121","我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>可不是不給士兵報酬的那種亂七八糟的組織！
 所以從下次開始，<Highlight>ObjectParameter(1)</Highlight>閣下要記得支付軍票哦。"
 214,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_122","分隊任務需要花費一定時間，
 等到任務結束時，您再來下官這裡確認結果吧！"
@@ -418,7 +418,7 @@ int32,str,str
 沒有訓練就沒有勝利！
 ……這是以前的上級告訴下官的。"
 224,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_139","那麼就立刻讓分隊員們進行訓練，
-將我們分隊培養成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>數一數二的精銳部隊吧！"
+將我們分隊培養成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>數一數二的精銳部隊吧！"
 225,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_150","最近，分隊員們的成長非常顯著，
 已經可以挑戰難度更高的分隊任務了。
 完成高難度任務的話，分隊的實力一定能更上一層樓。"
@@ -430,34 +430,34 @@ int32,str,str
 我們分隊也不能免俗。
 在選擇分隊任務的成員時，您不妨參考一下。"
 229,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_180","我們分隊的實力越來越強，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作战总部<Else/></If><Else/></If>對我們的期待也越來越高了，
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們的期待也越來越高了，
 說不定接下來就能執行特殊任務了哦。"
 230,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_190","我們分隊又完成了這麼高難度的重要任務啊！
 友軍部隊也向我們表示了祝賀！"
 231,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_195","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 232,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_196","鑒於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 233,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_197","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>副漩尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>副牙尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>副耀尉<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 234,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_198","沒錯，是晉升的命令書！
 恭喜您！
 連作為您部下的下官我都覺得無比榮幸！"
-235,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您，
+235,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您，
 我這就開始傳達。"
 236,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_331","現對<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>所率領的冒險者分隊開放「分隊攻略任務」。
 望堅持不懈，英勇奮戰。
 以上。"
 237,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_332","竟然是下達新的任務了！
 這也代表著上層對我們分隊實力的認可！"
-238,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>期待我們做出更多的成績來。
+238,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
 讓我們打起精神來，開始執行分隊攻略任務吧！"
 239,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_210","分隊任務已經完成了！
 請您確認結果！"
 240,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_220","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 241,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_221","鑒於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 242,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_222","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>副漩尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>副牙尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>副耀尉<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 243,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_223","沒錯，是晉升的命令書！
@@ -480,10 +480,10 @@ int32,str,str
 沒有訓練就沒有勝利！
 這是下官從過去的上級那裡學到的話。"
 251,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_263","那麼就立刻讓分隊員們進行訓練，
-將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
+將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
 252,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_320","<Highlight>ObjectParameter(1)</Highlight>閣下帶領的分隊的事跡，
-都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>了哦。"
-253,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作战总部<Else/></If><Else/></If>對我們期待頗高，
+都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>了哦。"
+253,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們期待頗高，
 那我們試著挑戰一些重要任務如何？"
 254,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_100","恭候多時了，<Highlight>ObjectParameter(1)</Highlight>分隊長閣下！
 從今天開始，您就要負責指揮分隊了。
@@ -507,7 +507,7 @@ int32,str,str
 263,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_120","這樣一來就做好出擊準備了。
 對了，派遣分隊員執行「分隊任務」需要支付給他們軍票。
 這次就作為特例由下官支付了。"
-264,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_121","我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>可不是不給士兵報酬的那種亂七八糟的組織！
+264,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_121","我們<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>可不是不給士兵報酬的那種亂七八糟的組織！
 所以從下次開始，<Highlight>ObjectParameter(1)</Highlight>閣下要記得支付軍票哦。"
 265,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_122","分隊任務需要花費一定時間，
 等到任務結束時，您再來下官這裡確認結果吧！"
@@ -530,7 +530,7 @@ int32,str,str
 沒有訓練就沒有勝利！
 ……這是以前的上級告訴下官的。"
 275,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_139","那麼就立刻讓分隊員們進行訓練，
-將我們分隊培養成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>數一數二的精銳部隊吧！"
+將我們分隊培養成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>數一數二的精銳部隊吧！"
 276,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_150","最近，分隊員們的成長非常顯著，
 已經可以挑戰難度更高的分隊任務了。
 完成高難度任務的話，分隊的實力一定能更上一層樓。"
@@ -542,34 +542,34 @@ int32,str,str
 我們分隊也不能免俗。
 在選擇分隊任務的成員時，您不妨參考一下。"
 280,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_180","我們分隊的實力越來越強，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作战总部<Else/></If><Else/></If>對我們的期待也越來越高了，
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們的期待也越來越高了，
 說不定接下來就能執行特殊任務了哦。"
 281,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_190","我們分隊又完成了這麼高難度的重要任務啊！
 友軍部隊也向我們表示了祝賀！"
 282,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_195","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 283,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_196","鑒於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 284,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_197","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>副漩尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>副牙尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>副耀尉<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 285,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_198","沒錯，是晉升的命令書！
 恭喜您！
 連作為您部下的下官我都覺得無比榮幸！"
-286,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給閣下，
+286,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給閣下，
 我這就開始傳達。"
 287,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_331","現對<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>所率領的冒險者分隊開放「分隊攻略任務」。
 望堅持不懈，英勇奮戰。
 以上。"
 288,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_332","竟然是下達新的任務了！
 這也代表著上層對我們分隊實力的認可！"
-289,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>期待我們做出更多的成績來。
+289,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
 讓我們打起精神來，開始執行分隊攻略任務吧！"
 290,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_210","分隊任務已經完成了！
 請您確認結果！"
 291,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_220","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 292,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_221","鑒於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>下達了如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 293,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_222","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>副漩尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>副牙尉<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>副耀尉<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 294,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_223","沒錯，是晉升的命令書！
@@ -592,10 +592,10 @@ int32,str,str
 沒有訓練就沒有勝利！
 這是下官從過去的上級那裡學到的話。"
 302,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_263","那麼就立刻讓分隊員們進行訓練，
-將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
+將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
 303,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_320","<Highlight>ObjectParameter(1)</Highlight>閣下帶領的分隊的事跡，
-都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部<Else/></If><Else/></If>了哦。"
-304,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>军令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作战总部<Else/></If><Else/></If>對我們期待頗高，
+都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部<Else/></If><Else/></If>了哦。"
+304,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們期待頗高，
 那我們試著挑戰一些重要任務如何？"
 305,"TEXT_COMARMGCARMYOFFICER_00342_006_001_LIM","（★未使用／削除予定★）"
 306,"TEXT_COMARMGCARMYOFFICER_00342_006_001_GRD","（★未使用／削除予定★）"

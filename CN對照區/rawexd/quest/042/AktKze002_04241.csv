@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_AKTKZE002_04241_SEQ_22",""
 23,"TEXT_AKTKZE002_04241_SEQ_23",""
 24,"TEXT_AKTKZE002_04241_TODO_00","在「說話」頻道下輸入「開心胡蘿蔔」
-呼喚兔兔族們"
+（carrot of happiness）呼喚兔兔族們"
 25,"TEXT_AKTKZE002_04241_TODO_01","和困醒威對話"
 26,"TEXT_AKTKZE002_04241_TODO_02",""
 27,"TEXT_AKTKZE002_04241_TODO_03",""
@@ -62,7 +62,7 @@ int32,str,str
 他們聽到這個詞立刻就會答應你的！"
 51,"TEXT_AKTKZE002_04241_YAWNINGWAY_000_004","你跟我那三個同伴提一句「開心胡蘿蔔」就行，
 他們聽到這個詞立刻就會答應你的！"
-52,"TEXT_AKTKZE002_04241_SYSTEM_000_010","開心胡蘿蔔"
+52,"TEXT_AKTKZE002_04241_SYSTEM_000_010","carrot of happiness"
 53,"TEXT_AKTKZE002_04241_SYSTEM_000_011","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「開心胡蘿蔔」的詞句。"
 54,"TEXT_AKTKZE002_04241_LOPORRITSA04241_000_020","完了……要來不及了……趕不上了。"

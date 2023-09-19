@@ -6,9 +6,9 @@ int32,str,str
 1,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_001","黃道武器會擁有如下的能力，
 如果你下定決心，我們就開始進行再鑄！"
 2,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_TITLE","請選擇想要再鑄的黃道武器"
-3,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CHOICES","<If(Equal(IntegerParameter(1),9491))>将<Sheet(Item,8649,0)/>再铸成<Sheet(Item,9491,0)/>、<Sheet(Item,8658,0)/>再铸成<Sheet(Item,9500,0)/><Else/>将<Sheet(Item,IntegerParameter(2),0)/>再铸成<Sheet(Item,IntegerParameter(1),0)/></If>"
+3,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CHOICES","<If(Equal(IntegerParameter(1),9491))>將<Sheet(Item,8649,0)/>再鑄成<Sheet(Item,9491,0)/>、<Sheet(Item,8658,0)/>再鑄成<Sheet(Item,9500,0)/><Else/>將<Sheet(Item,IntegerParameter(2),0)/>再鑄成<Sheet(Item,IntegerParameter(1),0)/></If>"
 4,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MENU_CANCEL","取消"
-5,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_MESSAGE","<If(Equal(IntegerParameter(1),9491))>确定再铸<Sheet(Item,9491,0)/>、<Sheet(Item,9500,0)/>？<Else/>确定再铸<Sheet(Item,IntegerParameter(1),0)/>？</If>"
+5,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_MESSAGE","<If(Equal(IntegerParameter(1),9491))>確定再鑄<Sheet(Item,9491,0)/>、<Sheet(Item,9500,0)/>？<Else/>確定再鑄<Sheet(Item,IntegerParameter(1),0)/>？</If>"
 6,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_YES","是"
 7,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_NO","否"
 8,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_030","唔，<If(Equal(IntegerParameter(1),8649))><Sheet(Item,8649,0)/>和<Sheet(Item,8658,0)/><Else/><Sheet(Item,IntegerParameter(1),0)/></If>在哪？

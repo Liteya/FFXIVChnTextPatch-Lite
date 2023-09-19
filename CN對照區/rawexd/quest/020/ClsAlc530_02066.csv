@@ -29,7 +29,7 @@ int32,str,str
 23,"TEXT_CLSALC530_02066_SEQ_23",""
 24,"TEXT_CLSALC530_02066_TODO_00","讓利姆薩·羅敏薩的巴德龍查看<Sheet(EventItem,2001705,0)/>"
 25,"TEXT_CLSALC530_02066_TODO_01","將<Sheet(EventItem,2001705,0)/>交給喪靈鐘的威爾特維克"
-26,"TEXT_CLSALC530_02066_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作<Sheet(ItemHQ,12601,0)/><Else/>将<Sheet(ItemHQ,12601,0)/>交给威尔特维克</If>"
+26,"TEXT_CLSALC530_02066_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作<Sheet(ItemHQ,12601,0)/><Else/>將<Sheet(ItemHQ,12601,0)/>交給威爾特維克</If>"
 27,"TEXT_CLSALC530_02066_TODO_03","在聖寇伊納克調查地和威爾特維克匯合"
 28,"TEXT_CLSALC530_02066_TODO_04",""
 29,"TEXT_CLSALC530_02066_TODO_05",""

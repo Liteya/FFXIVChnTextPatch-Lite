@@ -26,7 +26,7 @@ int32,bit&01,bit&02,bit&04,byte,Image,int32,str
 22,False,True,False,18,61545,3587,"角色扮演中"
 23,False,True,False,19,61515,0,"希望組隊"
 24,False,True,False,20,61516,0,"傭兵"
-25,False,True,False,21,61517,3596,"任務搜索申請中"
+25,False,True,False,21,61517,3596,"任務搜尋申請中"
 26,False,True,False,22,61536,0,"隊員招募中"
 27,False,True,False,31,61540,3592,"指導者"
 28,False,True,False,32,61542,3593,"戰鬥指導者"

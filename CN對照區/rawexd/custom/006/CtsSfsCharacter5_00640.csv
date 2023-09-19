@@ -62,7 +62,7 @@ int32,str,str
 因此，盡量提高品質後做出成品是尤為重要的。"
 32,"TEXT_CTSSFSCHARACTER5_00640_GUIDE_004_002","提高品質成功時，
 自身便會附加「內靜」。"
-33,"TEXT_CTSSFSCHARACTER5_00640_GUIDE_004_003",""
+33,"TEXT_CTSSFSCHARACTER5_00640_GUIDE_004_003","（★未使用／削除予定★）"
 34,"TEXT_CTSSFSCHARACTER5_00640_GUIDE_004_004","盡可能地多積攢內靜，
 最後用「比爾格的祝福」等技能
 一口氣提高品質後，就可以完成製作了。"
@@ -121,7 +121,7 @@ int32,str,str
 57,"TEXT_CTSSFSCHARACTER5_00640_TUTORIAL_001_002","另外，每週最多可以交貨6次。
 積極地交納收藏品，提高信賴等級吧！"
 58,"TEXT_CTSSFSCHARACTER5_00640_WEEKLYLIMIT_000_000","本週的交貨次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 59,"TEXT_CTSSFSCHARACTER5_00640_KNOWLEDGE_KAISHIRR_001_000","製作傳單不僅需要紙張與墨水，
 還需要用來複寫的板子……也就是模具吧。
 要是光靠手寫的話很難大量製作。"
@@ -451,11 +451,11 @@ int32,str,str
 203,"TEXT_CTSSFSCHARACTER5_00640_RANKUP_KAISHIRR_006_006","如果你有時間的話就抽空過來看看吧。
 要是你時間充裕的話，還請你繼續幫忙啦！"
 204,"TEXT_CTSSFSCHARACTER5_00640_AFTWEEKLY_000_000","本週向<Sheet(ENpcResident,IntegerParameter(1),0)/>交貨的次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 205,"TEXT_CTSSFSCHARACTER5_00640_QUEST_KAISHIRR_000_000","波斯塔·甲好像有話要跟你說。
 我想大概是關於歌曲的事情吧。
 麻煩你去找她談談。"
 206,"TEXT_CTSSFSCHARACTER5_00640_QUEST_SYSTEM_000_001","若要繼續推進老主顧的劇情任務，
 需要當前職業為大地使者或能工巧匠。
 和蜂箱夜總會的波斯塔·甲談談吧。"
-207,"TEXT_CTSSFSCHARACTER5_00640_GUIDE_004_001",""
+207,"TEXT_CTSSFSCHARACTER5_00640_GUIDE_004_001","（★未使用／削除予定★）"

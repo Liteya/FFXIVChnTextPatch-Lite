@@ -107,7 +107,7 @@ int32,str,str
 71,"TEXT_BANLOP104_04690_SYSTEM_000_032","冒險者使用的情感動作無法讓舞星威承認自己的失敗。
 再次對舞星威做「跳舞」的情感動作。"
 72,"TEXT_BANLOP104_04690_SHAKINGWAY_000_033","哇！好厲害！把自己的特徵用舞蹈表現得淋漓盡致！
-人類的<Switch(PlayerParameter(71))><Case(1)>魅力</Case><Case(2)>优雅</Case><Case(3)>敏捷</Case><Case(4)>可爱</Case><Case(5)>刚毅</Case><Case(6)>美丽</Case><Case(7)>稳重</Case><Case(8)>神秘</Case></Switch>在這一瞬間就全展現出來了！"
+人類的<Switch(PlayerParameter(71))><Case(1)>魅力</Case><Case(2)>優雅</Case><Case(3)>敏捷</Case><Case(4)>可愛</Case><Case(5)>剛毅</Case><Case(6)>美麗</Case><Case(7)>穩重</Case><Case(8)>神秘</Case></Switch>在這一瞬間就全展現出來了！"
 73,"TEXT_BANLOP104_04690_SHAKINGWAY_000_034","這到底是怎麼回事，心裡的不爽全都消失了，
 好像有一種勇氣充滿了全身……"
 74,"TEXT_BANLOP104_04690_SHAKINGWAY_000_035","我跳的舞實在是沒法與你相比……

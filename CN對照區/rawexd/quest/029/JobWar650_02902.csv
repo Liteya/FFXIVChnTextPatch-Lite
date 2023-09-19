@@ -122,7 +122,7 @@ int32,str,str
 你要不要和我一起走？"
 83,"TEXT_JOBWAR650_02902_DORGONO_000_051","只要成為克累兒部的一員，
 你就能分到一片廣闊的土地和很多很多的馬匹！
-<If(PlayerParameter(4))>你这么强，就算你是女人大家也一定不会介意的……<Else/>你这么强，大家肯定会欢迎你的……</If>"
+<If(PlayerParameter(4))>你這麼強，就算你是女人大家也一定不會介意的……<Else/>你這麼強，大家肯定會歡迎你的……</If>"
 84,"TEXT_JOBWAR650_02902_DORGONO_000_052","（★未使用／削除予定★）"
 85,"TEXT_JOBWAR650_02902_DORGONO_000_053","<Highlight>ObjectParameter(1)</Highlight>，
 和我結婚吧，我們一起在太陽神草原生活！"

@@ -43,7 +43,7 @@ int32,str,str
 「持續使用下去就會變為鬪神」的這句話可能就是答案吧！
 也就是說使用者有可能會變為一種附身型蠻神！"
 16,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_020","說起來在於里昂熱的報告書也提到過類似的例子。
-好像是古代鬪神「奧丁」和「斬鐵劍「來著……"
+好像是古代鬪神「奧丁」和「斬鐵劍」來著……"
 17,"TEXT_CTSERKEUREKA4KRILE_00545_INV00463_000_021","奧丁據說是在古代亞拉戈帝國時代出現的蠻神！
 要真是如此，那被視為本體的黑色利刃——斬鐵劍，
 也可能是創神優雷卡創造的！"
@@ -355,7 +355,7 @@ int32,str,str
 更別說只靠你一個人的性命，那完全是不夠的！"
 136,"TEXT_CTSERKEUREKA4KRILE_00545_EJIKATSUNJIKA_000_516","創神優雷卡為了將這座島嶼從地脈裡撈出來，
 使其重回物質界，已經消耗了大量的乙太。
-就算加上之前回覆的那些乙太，用我一個人的性命也足夠能做到了。"
+就算加上之前回復的那些乙太，用我一個人的性命也足夠能做到了。"
 137,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_517","那就由我來做！
 我是那場災難中唯一的倖存者，
 所以我有責任燃燒自己的生命來消滅創神優雷卡！"
@@ -618,7 +618,7 @@ int32,str,str
 243,"TEXT_CTSERKEUREKA4KRILE_00545_EJIKATSUNJIKA_000_718","……讓我再次感謝你的幫助。
 要是有空的話就再來這座島吧。
 到時候我會好好款待你的。"
-244,"TEXT_CTSERKEUREKA4KRILE_00545_TALK_ACTOR",""
-245,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_524",""
-246,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_527",""
-247,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_150_527",""
+244,"TEXT_CTSERKEUREKA4KRILE_00545_TALK_ACTOR","（★未使用／削除予定★）"
+245,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_524","（★未使用／削除予定★）"
+246,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_000_527","（★未使用／削除予定★）"
+247,"TEXT_CTSERKEUREKA4KRILE_00545_KRILE_150_527","（★未使用／削除予定★）"

@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_BANKOB307_01370_SEQ_23",""
 24,"TEXT_BANKOB307_01370_TODO_00","和第789團輔祭巴戈對話"
 25,"TEXT_BANKOB307_01370_TODO_01","在武伽瑪羅武裝礦山將<Sheet(EventItem,2001278,0)/>設定在<Sheet(EObj,2003906,0)/>上"
-26,"TEXT_BANKOB307_01370_TODO_02","將<Sheet(EventItem,2001279,0)/>設定在<Sheet(EObj,2003912,0)/>並引爆"
+26,"TEXT_BANKOB307_01370_TODO_02","將<Sheet(EventItem,2001279,0)/>設定在<Sheet(EObj,2003912,0)/> 並引爆"
 27,"TEXT_BANKOB307_01370_TODO_03","向第789團清潔工博布報告"
 28,"TEXT_BANKOB307_01370_TODO_04",""
 29,"TEXT_BANKOB307_01370_TODO_05",""
@@ -67,14 +67,14 @@ int32,str,str
 53,"TEXT_BANKOB307_01370_BAGO_000_010","嘿嘿嘿……<Sheet(EObj,2003906,0)/> 確實很堅固呢。
 要破壞那種堅固的東西 就要使用這個了吧。
 用人家特製的 新型炸彈！"
-54,"TEXT_BANKOB307_01370_BAGO_000_011","設定<Sheet(EventItem,2001278,0)/>後
+54,"TEXT_BANKOB307_01370_BAGO_000_011","設定 <Sheet(EventItem,2001278,0)/>後
 再轟地一聲 引爆<Sheet(EventItem,2001279,0)/>
 然後堅固的<Sheet(EObj,2003906,0)/> 也就完蛋了……嘿嘿嘿。"
 55,"TEXT_BANKOB307_01370_BAGO_000_012","不過 <Sheet(EventItem,2001278,0)/>可是很顯眼的。
 會把保護<Sheet(EObj,2003906,0)/>的 <Sheet(BNpcName,2712,0)/>引來的。
 多加小心啊。"
 56,"TEXT_BANKOB307_01370_BAGO_000_015","在武伽瑪羅武裝礦山
-將<Sheet(EventItem,2001278,0)/>設定在<Sheet(EObj,2003906,0)/>上
+將<Sheet(EventItem,2001278,0)/> 設定在<Sheet(EObj,2003906,0)/>上
 再轟地一聲 引爆<Sheet(EventItem,2001279,0)/>……嘿嘿嘿。"
 57,"TEXT_BANKOB307_01370_BAGO_000_013","（★未使用／預定刪除★）"
 58,"TEXT_BANKOB307_01370_BAGO_000_014","（★未使用／預定刪除★）"

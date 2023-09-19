@@ -75,7 +75,7 @@ int32,str,str
 57,"TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_021","（★未使用／削除予定★）"
 58,"TEXT_AKTKZD010_04234_SYSTEM_000_030","終止魔導巨兵行動作戰開始了。
 瞄準魔導巨兵，
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行投擲！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行投擲！"
 59,"TEXT_AKTKZD010_04234_SYSTEM_000_031","魔導巨兵靠近，
 或救援隊的恆輝隊隊員做出迴避行動，即為失敗。"
 60,"TEXT_AKTKZD010_04234_SYSTEM_000_032","迅速投擲魔導等離子球，

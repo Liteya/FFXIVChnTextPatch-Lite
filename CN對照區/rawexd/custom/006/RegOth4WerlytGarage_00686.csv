@@ -73,9 +73,9 @@ int32,str,str
 為此，裝置內還設定有兵員箱。"
 44,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_063","另外，機體前面的機械手還可以使用其他外部裝備，
 只不過在之前的作戰中並沒有用到。"
-45,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_064","順便一提，關於那個名為「反G型彈頭」的特殊武器，
-之前我們都沒有發現尼祿把它偷偷裝了上去。
-那件事過後，我們還被會長大罵了一頓，說我們管理太疏忽了。"
+45,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_064","ちなみに「アンチG弾頭」なる特殊兵装の件ですが、
+我々も搭載されていることに気付いていなかったんです。
+おかげで管理がずさんすぎると会長に怒られてしまいましたよ。"
 46,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_070","這是為了能在背負著巨大神兵捕獲裝置的狀態下高速飛行
 而開發的新型推進裝置。"
 47,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_071","一開始本來說沿用企業精進號搭載的輔助型推進裝置……
@@ -92,9 +92,9 @@ int32,str,str
 51,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_082","至於機體的塗裝，這都是負責最終調整的專家擅自塗改的……
 因沒有時間重新塗色，所以西德會長只能駕駛這台紅色機體出戰，
 這使會長的臉上出現了些許不悅。"
-52,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_083","之前在被普羅科匹厄斯奪去之時，
-我們一時之間手足無措，不知如何是好……
-如今能夠順利奪回，心裡的大石頭也是總算能放下了。"
+52,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_083","プロコピウスの手によって奪取されたときは、
+一時はどうなることかと思いましたが……
+こうして無事に取り戻され、心の底から安堵しましたよ。"
 53,"TEXT_REGOTH4WERLYTGARAGE_00686_GARLONDMECHANIC00686_000_090","如果兩台機體同時啟動力場發生器，
 就可以展開更加強力的魔導力場。
 這便是製作2號機的理由。"

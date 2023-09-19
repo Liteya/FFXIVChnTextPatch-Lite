@@ -56,7 +56,7 @@ int32,str,str
 但是卻有追隨主人也就是龍族的習性。
 你在森林中使用<Sheet(EventItem,2000729,0)/>就可以把它們引出來。"
 50,"TEXT_GAIUSB910_00933_DUMMY_000_010","將<Sheet(EventItem,2000729,0)/>設定在指定地點。討伐2隻跳蜥。"
-51,"TEXT_GAIUSB910_00933_DUMMYTODO_000_010","無"
+51,"TEXT_GAIUSB910_00933_DUMMYTODO_000_010","（★未使用／削除予定★）"
 52,"TEXT_GAIUSB910_00933_FAUCILLIEN_000_020","已經打倒了<Sheet(BNpcName,685,0)/>啊。
 這樣我們進攻石衛塔的障礙就又少了一些。"
 53,"TEXT_GAIUSB910_00933_FAUCILLIEN_000_021","利用眷屬來阻礙我們的進軍路，

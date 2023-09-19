@@ -184,7 +184,7 @@ int32,str,str
 它好像聞到了什麼，我先去追了！"
 112,"TEXT_LUCKHA102_03726_SYSTEM_000_056","幼年風箏貓一臉滿足地哼唧著離開了。
 看來提供了準確的建議！"
-113,"TEXT_LUCKHA102_03726_SYSTEM_000_057",""
+113,"TEXT_LUCKHA102_03726_SYSTEM_000_057","（★未使用／削除予定★）"
 114,"TEXT_LUCKHA102_03726_FONCRINEAU_000_057","哎呀……看來大家沒能得到有用的建議呢。
 看樣子他們可能會再次來拜訪。
 麻煩你再跟他們談談好嗎？"
@@ -236,7 +236,7 @@ int32,str,str
 這在之前絕對是無法想像的事情。"
 135,"TEXT_LUCKHA102_03726_FONCRINEAU_100_082","這都多虧了<Highlight>ObjectParameter(1)</Highlight>大人引導戰爭走向了終結啊。"
 136,"TEXT_LUCKHA102_03726_NOALLE_000_083","(-？？？？-)嗚——
-剛才的<If(PlayerParameter(4))>大哥哥和大姐姐<Else/>大哥哥们</If>！"
+剛才的<If(PlayerParameter(4))>大哥哥和大姐姐<Else/>大哥哥們</If>！"
 137,"TEXT_LUCKHA102_03726_NOALLE_000_084","(-？？？？-)拜託了，幫幫我！
 媽媽出事了！"
 138,"TEXT_LUCKHA102_03726_FRANCEL_000_085","你是剛才和母親在一起的諾阿勒吧？

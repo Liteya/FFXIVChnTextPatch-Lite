@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001","隸屬於<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>的部隊可以在這裡用部隊戰績
+0,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001","隸屬於<Switch(IntegerParameter(1))><Case(1)>黑渦團</Case><Case(2)>雙蛇黨</Case><Case(3)>恆輝隊</Case></Switch>的部隊可以在這裡用部隊戰績
 兌換特殊的強化魔法和各種有用的物品。"
 1,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q","你有什麼事？"
 2,"TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1","使用部隊戰績進行交換（部隊特效）"

@@ -399,7 +399,7 @@ int32,str,str
 看來它願意讓歐米茄它們上來了。"
 216,"TEXT_STMBDR602_04587_OMEGA_000_298","沙沙……？
 原因不明，但似乎獲得了騎乘的許可。
-<Switch(PlayerParameter(71))><Case(1)><Highlight>ObjectParameter(1)</Highlight>，虽然你并非毛茸茸的，但却成功地说服了它。</Case><Case(2)><Highlight>ObjectParameter(1)</Highlight>，虽然你并非毛茸茸的，但却成功地说服了它。</Case><Case(3)>原来如此，你的身体在某种意义上也算是毛茸茸的啊。</Case><Case(4)>也许是你尾巴的蓬松程度得到了它的肯定。</Case><Case(5)><Highlight>ObjectParameter(1)</Highlight>，虽然你并非毛茸茸的，但却成功地说服了它。</Case><Case(6)><Highlight>ObjectParameter(1)</Highlight>，虽然你并非毛茸茸的，但却成功地说服了它。</Case><Case(7)>看来你的蓬松程度在这里具有相当高的地位。</Case><Case(8)>也许是你耳朵的蓬松程度得到了它的肯定。</Case></Switch>"
+<Switch(PlayerParameter(71))><Case(1)><Highlight>ObjectParameter(1)</Highlight>，雖然你並非毛茸茸的，但卻成功地說服了它。</Case><Case(2)><Highlight>ObjectParameter(1)</Highlight>，雖然你並非毛茸茸的，但卻成功地說服了它。</Case><Case(3)>原來如此，你的身體在某種意義上也算是毛茸茸的啊。</Case><Case(4)>也許是你尾巴的蓬鬆程度得到了它的肯定。</Case><Case(5)><Highlight>ObjectParameter(1)</Highlight>，雖然你並非毛茸茸的，但卻成功地說服了它。</Case><Case(6)><Highlight>ObjectParameter(1)</Highlight>，雖然你並非毛茸茸的，但卻成功地說服了它。</Case><Case(7)>看來你的蓬鬆程度在這裡具有相當高的地位。</Case><Case(8)>也許是你耳朵的蓬鬆程度得到了它的肯定。</Case></Switch>"
 217,"TEXT_STMBDR602_04587_OMEGA_000_299","那我們前往月面監視者那裡吧。"
 218,"TEXT_STMBDR602_04587_OMEGA_000_300","沙沙……發現疑似目標的個體。
 原來如此，最佳威兔洞是為了迎合這種尺寸

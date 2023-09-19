@@ -52,9 +52,9 @@ int32,str,str
 48,"TEXT_XXCUSC901_04521_SYSTEM_101_000","需要先放棄進行中的主線任務才可領取此任務。
 請在快捷指令的任務情報中打開日誌，然後放棄該任務。"
 49,"TEXT_XXCUSC901_04521_SYSTEM_100_000","若要領取或繼續推進本任務，
-需要完成任務「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>）」。"
-50,"TEXT_XXCUSC901_04521_SYSTEM_100_001","「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>）」任務可以從
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡军令部的尔·阿夏正漩校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部的沃尔赛勒正牙校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉作战总部的斯威夫特正耀校<Else/></If><Else/></If>處領取。"
+需要完成任務「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>）」。"
+50,"TEXT_XXCUSC901_04521_SYSTEM_100_001","「我的專屬陸行鳥（<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>）」任務可以從
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍令部的爾·阿夏正漩校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>蛇巢司令部的沃爾賽勒正牙校<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝作戰總部的斯威夫特正耀校<Else/></If><Else/></If>處領取。"
 51,"TEXT_XXCUSC901_04521_KANRIKAN_000_050","是拂曉血盟的人吧？你們可終於來了。
 終於要將加雷馬帝國趕出艾歐澤亞了。"
 52,"TEXT_XXCUSC901_04521_KANRIKAN_000_051","首先，先去這裡北面的帝國軍前哨基地討伐敵將里塔提恩。"

@@ -31,9 +31,9 @@ int32,str,str
 24,"TEXT_LUCKBC005_03214_TODO_00","和格里達尼亞的桑松正牙尉對話"
 25,"TEXT_LUCKBC005_03214_TODO_01","和東部林區的讓泰爾對話"
 26,"TEXT_LUCKBC005_03214_TODO_02","在「說話」頻道下輸入含有「吉德洛」的詞句
-在<Sheet(EObj,2010182,0)/>呼喚吉德洛"
+在<Sheet(EObj,2010182,0)/>呼喚吉德洛 (Guydelot)"
 27,"TEXT_LUCKBC005_03214_TODO_03","在「說話」頻道下輸入含有「吉德洛」的詞句
-在<Sheet(EObj,2010183,0)/>再次呼喚吉德洛"
+在<Sheet(EObj,2010183,0)/>再次呼喚吉德洛 (Guydelot)"
 28,"TEXT_LUCKBC005_03214_TODO_04","和格里達尼亞飛艇坪的桑松正牙尉對話"
 29,"TEXT_LUCKBC005_03214_TODO_05","和桑松正牙尉對話"
 30,"TEXT_LUCKBC005_03214_TODO_06",""
@@ -268,4 +268,4 @@ int32,str,str
 143,"TEXT_LUCKBC005_03214_JEHANTEL_000_633","待將來你成為傳說中的吟遊詩人的時候，
 這首詩歌一定也會繼續傳唱下去。
 身為它的創作者之一，我感到非常榮幸！"
-144,"TEXT_LUCKBC005_03214_SYSTEM_000_999","吉德洛"
+144,"TEXT_LUCKBC005_03214_SYSTEM_000_999","Guydelot"

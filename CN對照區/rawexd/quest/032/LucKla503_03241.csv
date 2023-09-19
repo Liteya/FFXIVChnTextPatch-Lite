@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_LUCKLA503_03241_SEQ_23",""
 24,"TEXT_LUCKLA503_03241_TODO_00","和滯潮村附近的弗里斯利克對話"
 25,"TEXT_LUCKLA503_03241_TODO_01","和老年捕魚人對話"
-26,"TEXT_LUCKLA503_03241_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在诺弗兰特大陆坡钓上<Sheet(Item,26751,0)/><Else/>将<Sheet(Item,26751,0)/>交给中庸工艺馆的弗里斯利克</If>"
+26,"TEXT_LUCKLA503_03241_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在諾弗蘭特大陸坡釣上<Sheet(Item,26751,0)/><Else/>將<Sheet(Item,26751,0)/>交給中庸工藝館的弗里斯利克</If>"
 27,"TEXT_LUCKLA503_03241_TODO_03","和煉金醫療館的弗里斯利克對話"
 28,"TEXT_LUCKLA503_03241_TODO_04","和中庸工藝館的弗里斯利克對話"
 29,"TEXT_LUCKLA503_03241_TODO_05",""
@@ -107,7 +107,7 @@ int32,str,str
 70,"TEXT_LUCKLA503_03241_OLDFISHERMAN03241_000_032","富貴病啊……
 那也不是什麼值得你們跑到這裡來問的罕見病啊……
 游末邦的富人們經常得這種病。"
-71,"TEXT_LUCKLA503_03241_OLDFISHERMAN03241_000_033",""
+71,"TEXT_LUCKLA503_03241_OLDFISHERMAN03241_000_033","（★未使用／削除予定★）"
 72,"TEXT_LUCKLA503_03241_OLDFISHERMAN03241_000_034","那些人啊，
 除了吃妙料之外，還會為了嘗鮮去吃一些其他東西……
 最終變得偏食，導致身體不舒服。"
@@ -290,4 +290,4 @@ int32,str,str
 145,"TEXT_LUCKLA503_03241_SYSTEM_000_135","此外，現在所有部門的交易均已完成！
 中庸工藝館的館長卡特莉絲好像有事情想要拜託你。"
 146,"TEXT_LUCKLA503_03241_SYSTEM_000_136","請到中庸工藝館的綜合接待處與卡特莉絲談談。"
-147,"TEXT_LUCKLA503_03241_LOBB_000_065",""
+147,"TEXT_LUCKLA503_03241_LOBB_000_065","（★未使用／削除予定★）"

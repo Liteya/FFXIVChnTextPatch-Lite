@@ -55,7 +55,7 @@ int32,str,str
 旭峰旺盛的求知慾令蕾薇瓦老師都刮目相看，
 真是越來越有意思了。"
 49,"TEXT_JOBAST630_02410_KYOKUHOU_000_000","（★未使用／削除予定★）"
-50,"TEXT_JOBAST630_02410_KYOKUHO_000_000","噢，<If(PlayerParameter(4))>师姐<Else/>师兄</If>！
+50,"TEXT_JOBAST630_02410_KYOKUHO_000_000","噢，<If(PlayerParameter(4))>師姐<Else/>師兄</If>！
 占星院的人告訴我，
 在這裡邊觀天象邊鑽研占星術，就能取得巨大的進步。"
 51,"TEXT_JOBAST630_02410_LEVEVA_000_000","<Highlight>ObjectParameter(1)</Highlight>，我等你好久了。
@@ -103,7 +103,7 @@ int32,str,str
 67,"TEXT_JOBAST630_02410_JANNEQUINARD_000_019","旭峰就拜託你了。
 請引導他打開新的占星術之門。"
 68,"TEXT_JOBAST630_02410_KYOKUHOU_000_020","（★未使用／削除予定★）"
-69,"TEXT_JOBAST630_02410_KYOKUHO_000_020","唔……<If(PlayerParameter(4))>师姐<Else/>师兄</If>，
+69,"TEXT_JOBAST630_02410_KYOKUHO_000_020","唔……<If(PlayerParameter(4))>師姐<Else/>師兄</If>，
 你又幫了我一次……十分感謝。
 淨給你添麻煩了，真是讓我過意不去……"
 70,"TEXT_JOBAST630_02410_KYOKUHOU_000_021","（★未使用／削除予定★）"
@@ -111,12 +111,12 @@ int32,str,str
 是因為收到了故鄉的信，信上讓我速速歸家。
 因此我才急於在回去前打開最後一扇門……"
 72,"TEXT_JOBAST630_02410_KYOKUHOU_000_022","（★未使用／削除予定★）"
-73,"TEXT_JOBAST630_02410_KYOKUHO_000_022","能在這裡遇見<If(PlayerParameter(4))>师姐<Else/>师兄</If>真是太好了。
+73,"TEXT_JOBAST630_02410_KYOKUHO_000_022","能在這裡遇見<If(PlayerParameter(4))>師姐<Else/>師兄</If>真是太好了。
 我打算在打開冰天座之門後，就不回占星院，
 直接回我的故鄉，遠東之國的黃金港了。"
 74,"TEXT_JOBAST630_02410_KYOKUHOU_000_023","（★未使用／削除予定★）"
 75,"TEXT_JOBAST630_02410_KYOKUHO_000_023","我已經下定決心，如果靠自己打不開門，就認命了。
-沒想到<If(PlayerParameter(4))>师姐<Else/>师兄</If>竟然來了！
+沒想到<If(PlayerParameter(4))>師姐<Else/>師兄</If>竟然來了！
 請教教我冰天的知識吧！"
 76,"TEXT_JOBAST630_02410_Q1_000_000","要教授什麼知識？"
 77,"TEXT_JOBAST630_02410_A1_000_001","關於冰天的宮殿"
@@ -129,7 +129,7 @@ int32,str,str
 82,"TEXT_JOBAST630_02410_KYOKUHO_000_025","嗯……暗示著冰天祝福的奧秘卡是「長槍」，
 以此力量，便能獲得冰之宮殿的力量，
 發出如戰神投槍般強大的攻擊！"
-83,"TEXT_JOBAST630_02410_KYOKUHO_000_026","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，謝謝你！
+83,"TEXT_JOBAST630_02410_KYOKUHO_000_026","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，謝謝你！
 好，現在只要仰望冰天座，就能打開天界之門了！"
 84,"TEXT_JOBAST630_02410_KYOKUHOU_000_030","（★未使用／削除予定★）"
 85,"TEXT_JOBAST630_02410_KYOKUHO_000_030","這就是能在艾歐澤亞看到的最後一次星空……"
@@ -153,7 +153,7 @@ int32,str,str
 故鄉的事情刻不容緩，我必須要回去了。
 麻煩你幫我向大家帶個話，請大家原諒我不辭而別。"
 96,"TEXT_JOBAST630_02410_KYOKUHOU_000_036","（★未使用／削除予定★）"
-97,"TEXT_JOBAST630_02410_KYOKUHO_000_036","最後能夠見到<If(PlayerParameter(4))>师姐<Else/>师兄</If>真是太好了。
+97,"TEXT_JOBAST630_02410_KYOKUHO_000_036","最後能夠見到<If(PlayerParameter(4))>師姐<Else/>師兄</If>真是太好了。
 謝謝你的教誨……
 那我走了，你也多保重。"
 98,"TEXT_JOBAST630_02410_JANNEQUINARD_000_039","你回來了啊。

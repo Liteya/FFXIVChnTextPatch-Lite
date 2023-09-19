@@ -35,7 +35,7 @@ int32,str,str
 26,"TEXT_BANMOG606_02318_TODO_02","對沒精打采的莫古力族做「激勵」的情感動作"
 27,"TEXT_BANMOG606_02318_TODO_03","對沒精打采的莫古力族做「甩巴掌」的情感動作"
 28,"TEXT_BANMOG606_02318_TODO_04","和管理員莫古昂對話"
-29,"TEXT_BANMOG606_02318_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(ItemHQ,15745,0)/><Else/>将<Sheet(ItemHQ,15745,0)/>交给没精打采的莫古力族</If>"
+29,"TEXT_BANMOG606_02318_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(ItemHQ,15745,0)/><Else/>將<Sheet(ItemHQ,15745,0)/>交給沒精打采的莫古力族</If>"
 30,"TEXT_BANMOG606_02318_TODO_06","向機靈的莫古艾克報告"
 31,"TEXT_BANMOG606_02318_TODO_07",""
 32,"TEXT_BANMOG606_02318_TODO_08",""

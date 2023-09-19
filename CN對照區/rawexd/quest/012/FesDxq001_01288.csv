@@ -109,7 +109,7 @@ int32,str,str
 為你提供「特別服務」吧！"
 69,"TEXT_FESDXQ001_01288_RESEARCHER_000_030","不用客氣！
 好好享受吧！！"
-70,"TEXT_FESDXQ001_01288_PAFUPAFUA_000_031","哎呀，這位<If(PlayerParameter(4))>可爱的小姐<Else/>帅气的小哥</If>。
+70,"TEXT_FESDXQ001_01288_PAFUPAFUA_000_031","哎呀，這位<If(PlayerParameter(4))>可愛的小姐<Else/>帥氣的小哥</If>。
 
 　　　　　　　　　　　 ▼"
 71,"TEXT_FESDXQ001_01288_PAFUPAFUA_000_032","要不要試試啪嘸啪嘸？

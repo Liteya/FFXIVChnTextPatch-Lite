@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_CLSMIN680_02557_SEQ_22",""
 23,"TEXT_CLSMIN680_02557_SEQ_23",""
 24,"TEXT_CLSMIN680_02557_TODO_00","和羅薇娜綜合文化會館的羅薇娜對話"
-25,"TEXT_CLSMIN680_02557_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在祖灵笑采掘<Sheet(Item,17943,0)/><Else/>将<Sheet(Item,17943,0)/>交给罗薇娜综合文化会馆的罗薇娜</If>"
+25,"TEXT_CLSMIN680_02557_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在祖靈笑採掘<Sheet(Item,17943,0)/><Else/>將<Sheet(Item,17943,0)/>交給羅薇娜綜合文化會館的羅薇娜</If>"
 26,"TEXT_CLSMIN680_02557_TODO_02","將<Sheet(EventItem,2002058,0)/>交給諾諾瓦特"
 27,"TEXT_CLSMIN680_02557_TODO_03","和斯洛菲克斯對話"
 28,"TEXT_CLSMIN680_02557_TODO_04","和斯提克奇克斯工房的諾諾瓦特對話"

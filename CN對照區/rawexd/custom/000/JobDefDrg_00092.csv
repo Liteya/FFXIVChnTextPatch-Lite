@@ -73,7 +73,7 @@ int32,str,str
 33,"TEXT_JOBDEFDRG_00092_ALBERIC_000_221","不過，他還肩負著屬於他自己的使命。
 所以暫時不會與龍騎士團匯合，
 還將繼續單獨行動。"
-34,"TEXT_JOBDEFDRG_00092_ALBERIC_000_222","空"
+34,"TEXT_JOBDEFDRG_00092_ALBERIC_000_222","（★未使用／削除予定★）"
 35,"TEXT_JOBDEFDRG_00092_ALBERIC_000_223","對神聖騎士團和龍騎士團也稱埃斯蒂尼安去執行特殊任務了。
 在他執行任務期間，由厄絲蒂安替他履行職責。"
 36,"TEXT_JOBDEFDRG_00092_ALBERIC_000_201","在埃斯蒂尼安失蹤後，
@@ -167,10 +167,10 @@ int32,str,str
 71,"TEXT_JOBDEFDRG_00092_ALBERIC_000_113","但龍之力是一把雙刃劍……
 如果沒有一顆強大的心，就會立馬被龍族迷惑。
 總而言之，不付出些什麼，是無法獲得強大的力量的。"
-72,"TEXT_JOBDEFDRG_00092_ALBERIC_000_290","空"
-73,"TEXT_JOBDEFDRG_00092_ALBERIC_000_291","空"
-74,"TEXT_JOBDEFDRG_00092_ALBERIC_000_292","空"
-75,"TEXT_JOBDEFDRG_00092_ALBERIC_000_293","空"
+72,"TEXT_JOBDEFDRG_00092_ALBERIC_000_290","（★未使用／削除予定★）"
+73,"TEXT_JOBDEFDRG_00092_ALBERIC_000_291","（★未使用／削除予定★）"
+74,"TEXT_JOBDEFDRG_00092_ALBERIC_000_292","（★未使用／削除予定★）"
+75,"TEXT_JOBDEFDRG_00092_ALBERIC_000_293","（★未使用／削除予定★）"
 76,"TEXT_JOBDEFDRG_00092_ALBERIC_000_330","「龍族是我們伊修加德人民的仇敵，
 而狩獵龍族就是龍騎士的使命。」
 這種說法現已成為了過去。"

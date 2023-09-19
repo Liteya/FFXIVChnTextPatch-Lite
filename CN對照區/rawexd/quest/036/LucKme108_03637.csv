@@ -168,7 +168,7 @@ int32,str,str
 先來練習一下吧！"
 104,"TEXT_LUCKME108_03637_SYSTEM_000_112","開始狙擊戴著不同頭盔的矮人。
 如果發現了目標，
-就點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行射擊！"
+就點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行射擊！"
 105,"TEXT_LUCKME108_03637_GUIDEDWARF03637_000_113","很準嘛！
 不過想射錯也挺難就是了！"
 106,"TEXT_LUCKME108_03637_GUIDEDWARF03637_000_114","好，接下來就要動真格的了！
@@ -184,7 +184,7 @@ int32,str,str
 所以要找出戴著不同頭盔的人再射擊！"
 111,"TEXT_LUCKME108_03637_SYSTEM_000_132","開始狙擊戴著不同頭盔的矮人。
 如果發現了目標，
-就點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行射擊！"
+就點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行射擊！"
 112,"TEXT_LUCKME108_03637_GUIDEDWARF03637_000_133","啦哩吼啦哩吼！太漂亮了！
 看樣子你能成為一名不錯的採礦工啊！"
 113,"TEXT_LUCKME108_03637_GUIDEDWARF03637_000_134","扎莫圖應該也看到你的挑戰了，你去跟他說一聲吧！

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01","這裡可以為與<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>簽訂契約的士兵，
+0,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01","這裡可以為與<Switch(IntegerParameter(1))><Case(1)>黑渦團</Case><Case(2)>雙蛇黨</Case><Case(3)>恆輝隊</Case></Switch>簽訂契約的士兵，
 提供編輯部隊隊徽，和裝飾部隊隊徽的服務。"
 1,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1","有什麼需要？"
 2,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1","編輯部隊隊徽"
@@ -18,6 +18,6 @@ int32,str,str
 10,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1","哎呀，你好像還不屬於任何部隊。
 有了所屬的部隊後，即可享受各種福利。
 請你去尋找適合自己的部隊吧。"
-11,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2","這裡僅為與<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>簽訂契約的士兵提供服務。"
+11,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2","這裡僅為與<Switch(IntegerParameter(1))><Case(1)>黑渦團</Case><Case(2)>雙蛇黨</Case><Case(3)>恆輝隊</Case></Switch>簽訂契約的士兵提供服務。"
 12,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3","不好意思，如果你想編輯或裝飾隊徽，
 請去找自己部隊所屬的大國防聯軍的部隊隊徽負責人吧。"

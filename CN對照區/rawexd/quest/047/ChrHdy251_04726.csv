@@ -31,9 +31,9 @@ int32,str,str
 21,"TEXT_CHRHDY251_04726_SEQ_21",""
 22,"TEXT_CHRHDY251_04726_SEQ_22",""
 23,"TEXT_CHRHDY251_04726_SEQ_23",""
-24,"TEXT_CHRHDY251_04726_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,38940,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,38400)/>与
-<Sheet(Item,38419,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,38401,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,38402,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,38403,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,38404,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,38408,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,38409,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,38410,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,38411,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,38405,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,38407,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,38406,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,38412,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,38413,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,38414,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,38415,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,38416,0)/><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,38418,0)/><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,38417,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵装库或背包
-将<Sheet(Item,38940,0)/>交给曼德维尔家的工匠</If>"
+24,"TEXT_CHRHDY251_04726_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲取<Sheet(Item,38940,0)/><Else/>卸下<If(Equal(IntegerParameter(4),19))><Sheet(Item,38400)/>與
+<Sheet(Item,38419,0)/><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,38401,0)/><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,38402,0)/><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,38403,0)/><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,38404,0)/><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,38408,0)/><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,38409,0)/><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,38410,0)/><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,38411,0)/><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,38405,0)/><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,38407,0)/><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,38406,0)/><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,38412,0)/><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,38413,0)/><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,38414,0)/><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,38415,0)/><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,38416,0)/><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,38418,0)/><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,38417,0)/><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If>放入兵裝庫或背包
+將<Sheet(Item,38940,0)/>交給曼德維爾家的工匠</If>"
 25,"TEXT_CHRHDY251_04726_TODO_01",""
 26,"TEXT_CHRHDY251_04726_TODO_02",""
 27,"TEXT_CHRHDY251_04726_TODO_03",""
@@ -92,13 +92,13 @@ int32,str,str
 請把收集到的<Sheet(Item,38940,0)/>給我吧。"
 65,"TEXT_CHRHDY251_04726_CRAFTER04653_000_040","謝謝！
 看吧！我的戰鬥本能！比那爐火還要灼熱！
-我這就和蓋羅爾特閣下一起強化你的武器！"
+我這就和蓋羅爾特一起強化你的武器！"
 66,"TEXT_CHRHDY251_04726_GEROLT_000_041","好，完成了！
 這就是新一階段的曼德維爾武器……"
 67,"TEXT_CHRHDY251_04726_GEROLT_000_042","<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>！"
 68,"TEXT_CHRHDY251_04726_GEROLT_000_043","<Sheet(Item,IntegerParameter(1),0)/>！"
 69,"TEXT_CHRHDY251_04726_CRAFTER04653_000_044","可真是完美的收尾啊！
-能這樣和蓋羅爾特閣下一起工作，
+能這樣和蓋羅爾特一起工作，
 感覺我又向成為一流工匠邁出了堅實的一步！"
 70,"TEXT_CHRHDY251_04726_GEROLT_000_045","別逗人發笑了！就你這個光膀子的傢伙！
 你的本事就跟新手沒什麼兩樣，別得意忘形了！"
@@ -114,7 +114,7 @@ int32,str,str
 你也是個相當可以的工匠了，不要氣餒，繼續努力吧。"
 76,"TEXT_CHRHDY251_04726_CRAFTER04653_000_051","是！這一次也謝謝你了！"
 77,"TEXT_CHRHDY251_04726_CRAFTER04653_000_060","還是和往常一樣漂亮的收尾啊！
-我會好好吸取和蓋羅爾特閣下一同工作的經驗，繼續進步的！"
+我會好好吸取和蓋羅爾特一同工作的經驗，繼續進步的！"
 78,"TEXT_CHRHDY251_04726_GEROLT_000_061","呵呵呵……有我的本事在身，
 任何武器我都能讓它強化！改頭換面！"
 79,"TEXT_CHRHDY251_04726_CRAFTER04653_000_070","那麼，如果你還有其他需要強化的曼德維爾武器的話，

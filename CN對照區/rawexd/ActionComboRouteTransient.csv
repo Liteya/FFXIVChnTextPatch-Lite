@@ -301,7 +301,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢復自身最大魔力的10%
 
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>王冠之領主<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-對目標發動無屬性魔法攻擊<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270"
+對目標發動無屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270"
 42,"連擊用技能。
 使用時會按下列順序發動能力。
 如果連擊過程中未滿足能力的發動條件，則回到第一個技能重新發動連擊。
@@ -311,7 +311,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢復自身最大魔力的20%
 
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>河流神的卷軸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-為自身與周圍隊員附加河流神的卷軸<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+為自身與周圍隊員附加河流神的卷軸　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>河流神的卷軸效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻擊所造成的傷害提高，自動攻擊間隔縮短，同時戰技與魔法的詠唱及複唱時間也會縮短"
 43,"連擊用技能。
 使用時會按下列順序發動戰技。
@@ -475,7 +475,8 @@ int32,str
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>增盈切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地獄切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※妖異之鐮狀態中，變為斷首。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※妖異之鐮狀態中，變為絞決。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※妖異之鐮且縊殺預備狀態中，變為縊殺。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※夜遊魂狀態中，變為虛無收割。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※夜遊魂且交錯收割預備狀態中，變為交錯收割。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 60,"紳士的連擊技能。

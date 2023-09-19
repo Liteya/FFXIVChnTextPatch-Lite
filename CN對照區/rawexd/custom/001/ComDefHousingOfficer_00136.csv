@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_000","歡迎來到<Switch(IntegerParameter(1))><Case(1)>海雾村</Case><Case(2)>薰衣草苗圃</Case><Case(3)>高脚孤丘</Case><Case(4)>白银乡</Case></Switch>。
+0,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_000","歡迎來到<Switch(IntegerParameter(1))><Case(1)>海霧村</Case><Case(2)>薰衣草苗圃</Case><Case(3)>高腳孤丘</Case><Case(4)>白銀鄉</Case></Switch>。
 我可以為你介紹有關住宅區的事情。"
 1,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2Q1_100_002","想了解什麼？"
 2,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A11_111_002","取消"
@@ -37,11 +37,11 @@ int32,str,str
 32,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A26_126_002","關於搬遷所伴隨的資產轉移"
 33,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A27_127_002","關於搬遷的補充說明"
 34,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A28_128_002","關於倉庫"
-35,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_010","現在<Switch(IntegerParameter(1))><Case(1)>大国防联军黑涡团</Case><Case(2)>大国防联军双蛇党</Case><Case(3)>大国防联军恒辉队</Case><Case(4)>黄金港</Case></Switch>正在推行冒險者的招引活動。"
+35,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_010","現在<Switch(IntegerParameter(1))><Case(1)>大國防聯軍黑渦團</Case><Case(2)>大國防聯軍雙蛇黨</Case><Case(3)>大國防聯軍恆輝隊</Case><Case(4)>黃金港</Case></Switch>正在推行冒險者的招引活動。"
 36,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_011","「土地」、「房屋」以及「公寓」制度作為其中的一環，
 為諸位冒險者提供活動據點……"
 37,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_012","能夠獲得土地，並建造房屋的區域被稱為「冒險者住宅區」，
-比如<Switch(IntegerParameter(1))><Case(1)>海雾村</Case><Case(2)>薰衣草苗圃</Case><Case(3)>高脚孤丘</Case><Case(4)>白银乡</Case></Switch>這裡。"
+比如<Switch(IntegerParameter(1))><Case(1)>海霧村</Case><Case(2)>薰衣草苗圃</Case><Case(3)>高腳孤丘</Case><Case(4)>白銀鄉</Case></Switch>這裡。"
 38,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_013","在各城邦的領土內，分別設立了一個冒險者住宅區。"
 39,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_014","可購入的土地和公寓房間不受大國防聯軍所屬國的限制，
 因此可以在自己喜歡的住宅區所在地購入。"

@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_SUBCTS825_03200_TODO_22",""
 47,"TEXT_SUBCTS825_03200_TODO_23",""
 48,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_001","賣報了賣報了！
-哎呀，那邊路過的<If(PlayerParameter(4))>小姐<Else/>老爷</If>！
+哎呀，那邊路過的<If(PlayerParameter(4))>小姐<Else/>老爺</If>！
 你有沒有興趣了解一下收服了神威的英雄？"
 49,"TEXT_SUBCTS825_03200_Q1_000_000","如何作答？"
 50,"TEXT_SUBCTS825_03200_A1_000_001","就是我！"

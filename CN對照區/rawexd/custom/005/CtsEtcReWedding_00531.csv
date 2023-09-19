@@ -43,7 +43,7 @@ int32,str,str
 20,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_034","「永結同心週年紀念」登記的週年紀念日，
 就是<Sheet(Item,8575,0)/>上銘刻的「永結同心紀念日」中的月和日。"
 21,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_040","非常抱歉……「永結同心週年紀念」登記失敗了。
-<If(Equal(IntegerParameter(1),1))><Else/></If><If(Equal(IntegerParameter(1),2))>请携带<Sheet(Item,8575,0)/>后再试。<Else/></If><If(Equal(IntegerParameter(1),3))>请您带着您的伴侣一起到我这里来。<Else/></If><If(Equal(IntegerParameter(1),4))>您的伴侣已经登记过周年纪念日了。<Else/></If><If(Equal(IntegerParameter(1),5))><Sheet(Item,8575,0)/>上铭刻的名字和您伴侣的名字不一样呢……<Else/></If><If(Equal(IntegerParameter(1),6))>您的伴侣没有携带<Sheet(Item,8575,0)/>。<Else/></If><If(Equal(IntegerParameter(1),7))>您的伴侣处于无法登记周年纪念日的状态。<Else/></If><If(Equal(IntegerParameter(1),8))>您的伴侣好像还没有准备好。<Else/></If><If(Equal(IntegerParameter(1),9))>您的伴侣好像还没有举办完永结同心典礼。<Else/></If>"
+<If(Equal(IntegerParameter(1),1))><Else/></If><If(Equal(IntegerParameter(1),2))>請攜帶<Sheet(Item,8575,0)/>後再試。<Else/></If><If(Equal(IntegerParameter(1),3))>請您帶著您的伴侶一起到我這裡來。<Else/></If><If(Equal(IntegerParameter(1),4))>您的伴侶已經登記過週年紀念日了。<Else/></If><If(Equal(IntegerParameter(1),5))><Sheet(Item,8575,0)/>上銘刻的名字和您伴侶的名字不一樣呢……<Else/></If><If(Equal(IntegerParameter(1),6))>您的伴侶沒有攜帶<Sheet(Item,8575,0)/>。<Else/></If><If(Equal(IntegerParameter(1),7))>您的伴侶處於無法登記週年紀念日的狀態。<Else/></If><If(Equal(IntegerParameter(1),8))>您的伴侶好像還沒有準備好。<Else/></If><If(Equal(IntegerParameter(1),9))>您的伴侶好像還沒有舉辦完永結同心典禮。<Else/></If>"
 22,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_041","<Highlight>ObjectParameter(1)</Highlight>，歡迎您的來訪。
 今天有什麼事情找我嗎？"
 23,"TEXT_CTSETCREWEDDING_00531_Q3_000_000","要做什麼？"
@@ -85,4 +85,4 @@ int32,str,str
 43,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_069","請去準備您的典禮吧。
 祝您幸福美滿，萬事順利。"
 44,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_068","非常抱歉……您好像還沒有做好準備工作。
-<If(Equal(IntegerParameter(1),3))>请您准备好后再来试试。<Else/></If><If(Equal(IntegerParameter(1),4))>请您和伴侣二人结伴过来试试。<Else/></If><If(Equal(IntegerParameter(1),5))>您和伴侣登记的纪念日不是同一天。<Else/></If><If(Equal(IntegerParameter(1),6))>您的伴侣还没有举办完永结同心典礼。<Else/></If>"
+<If(Equal(IntegerParameter(1),3))>請您準備好後再來試試。<Else/></If><If(Equal(IntegerParameter(1),4))>請您和伴侶二人結伴過來試試。<Else/></If><If(Equal(IntegerParameter(1),5))>您和伴侶登記的紀念日不是同一天。<Else/></If><If(Equal(IntegerParameter(1),6))>您的伴侶還沒有舉辦完永結同心典禮。<Else/></If>"

@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_LUCKZI202_03561_TODO_23",""
 48,"TEXT_LUCKZI202_03561_XORUTT_000_000","啦哩吼！
 你難道就是人們說的那位……
-<Switch(PlayerParameter(71))><Case(1)>外来的旅行者啦哩？</Case><Case(2)>外来的旅行者啦哩？</Case><Case(3)>外来的奇妙矮人啦哩？</Case><Case(4)>外来的旅行者啦哩？</Case><Case(5)>外来的旅行者啦哩？</Case><Case(6)>外来的旅行者啦哩？</Case><Case(7)>外来的旅行者啦哩？</Case><Case(8)>外来的旅行者啦哩？</Case></Switch>"
+<Switch(PlayerParameter(71))><Case(1)>外來的旅行者啦哩？</Case><Case(2)>外來的旅行者啦哩？</Case><Case(3)>外來的奇妙矮人啦哩？</Case><Case(4)>外來的旅行者啦哩？</Case><Case(5)>外來的旅行者啦哩？</Case><Case(6)>外來的旅行者啦哩？</Case><Case(7)>外來的旅行者啦哩？</Case><Case(8)>外來的旅行者啦哩？</Case></Switch>"
 49,"TEXT_LUCKZI202_03561_XORUTT_000_001","哇，那還真是稀客啦哩！
 歡迎來到圖姆拉村！
 既然來了，就來體驗一下我們的文化吧啦哩！"

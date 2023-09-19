@@ -123,7 +123,7 @@ int32,str,str
 81,"TEXT_STMBDZ510_02761_SYSTEM_000_131","好像讓闊托塔受到了驚嚇。
 應該如何表態，化解誤會呢……"
 82,"TEXT_STMBDZ510_02761_Q2_000_000","接下來，如何表態？"
-83,"TEXT_STMBDZ510_02761_A2_000_001","表現出<If(PlayerParameter(4))>具淑女风度的<Else/>具绅士风度的</If>態度"
+83,"TEXT_STMBDZ510_02761_A2_000_001","表現出<If(PlayerParameter(4))>具淑女風度的<Else/>具紳士風度的</If>態度"
 84,"TEXT_STMBDZ510_02761_A2_000_000","表現出更加和善的態度"
 85,"TEXT_STMBDZ510_02761_A2_000_002","出其不意"
 86,"TEXT_STMBDZ510_02761_COTOTA_000_160","……"

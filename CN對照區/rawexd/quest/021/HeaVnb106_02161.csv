@@ -66,7 +66,7 @@ int32,str,str
 但看上去也並不是我們招攬失敗的人才。"
 54,"TEXT_HEAVNB106_02161_YSHTOLA_000_023","我們賢人除了負責與各國之間的聯絡外，
 同時也會尋找和招攬擁有特殊能力的人加入。
-就像你是被<Switch(PlayerParameter(70))><Case(1)>我</Case><Case(2)>伊达他们</Case><Case(3)>桑克瑞德</Case></Switch>招攬的一樣。"
+就像你是被<Switch(PlayerParameter(70))><Case(1)>我</Case><Case(2)>伊達他們</Case><Case(3)>桑克瑞德</Case></Switch>招攬的一樣。"
 55,"TEXT_HEAVNB106_02161_THANCRED_000_024","從剛剛的交手看來，
 那些傢伙絕對都是久經沙場的老手。
 恐怕也不是第一次和蠻神戰鬥了。"

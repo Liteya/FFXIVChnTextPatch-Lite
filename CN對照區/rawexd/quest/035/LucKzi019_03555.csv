@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_LUCKZI019_03555_TODO_22",""
 47,"TEXT_LUCKZI019_03555_TODO_23",""
 48,"TEXT_LUCKZI019_03555_RIOTT_000_000","啦哩吼！ 這還真是驚人啊！
-你是<Switch(PlayerParameter(71))><Case(1)>外来的旅行者吧！</Case><Case(2)>外来的旅行者吧！</Case><Case(3)>外来的奇怪矮人吧！</Case><Case(4)>外来的旅行者吧！</Case><Case(5)>外来的旅行者吧！</Case><Case(6)>外来的旅行者吧！</Case><Case(7)>外来的旅行者吧！</Case><Case(8)>外来的旅行者吧！</Case></Switch>
+你是<Switch(PlayerParameter(71))><Case(1)>外來的旅行者吧！</Case><Case(2)>外來的旅行者吧！</Case><Case(3)>外來的奇怪矮人吧！</Case><Case(4)>外來的旅行者吧！</Case><Case(5)>外來的旅行者吧！</Case><Case(6)>外來的旅行者吧！</Case><Case(7)>外來的旅行者吧！</Case><Case(8)>外來的旅行者吧！</Case></Switch>
 居然能到這裡來！"
 49,"TEXT_LUCKZI019_03555_RIOTT_000_001","既然來了這個村子，
 你就要記住「吉古圖」這名字！

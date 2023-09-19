@@ -7,7 +7,7 @@ int32,str,str
 想要參加官方錦標賽的人，請來找我報名！"
 2,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_002","官方錦標賽正在舉辦中！"
 3,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_003","目前無法報名參加官方錦標賽。
-下次舉辦時間： <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),1))><Value>IntegerParameter(2)</Value>分钟<Else/></If>后<Else/><If(GreaterThan(IntegerParameter(2),1))><Value>IntegerParameter(2)</Value>分钟后<Else/>不到1分钟</If></If>"
+下次舉辦時間： <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小時<If(GreaterThan(IntegerParameter(2),1))><Value>IntegerParameter(2)</Value>分鐘<Else/></If>後<Else/><If(GreaterThan(IntegerParameter(2),1))><Value>IntegerParameter(2)</Value>分鐘後<Else/>不到1分鐘</If></If>"
 4,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_000","申請參賽報名"
 5,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_001","確認官方錦標賽的舉辦日程"
 6,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_002","確認幻卡錦標賽的詳細內容"
@@ -39,5 +39,5 @@ int32,str,str
 請提前整理好背包。"
 14,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_010","背包空間不足，無法參加錦標賽。
 請整理背包後再和官方錦標賽接待員交談。"
-15,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_000",""
-16,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_001",""
+15,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_000","（★未使用／削除予定★）"
+16,"TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_001","（★未使用／削除予定★）"

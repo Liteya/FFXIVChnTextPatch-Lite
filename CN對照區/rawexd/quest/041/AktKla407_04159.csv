@@ -25,11 +25,11 @@ int32,str,str
 21,"TEXT_AKTKLA407_04159_SEQ_21",""
 22,"TEXT_AKTKLA407_04159_SEQ_22",""
 23,"TEXT_AKTKLA407_04159_SEQ_23",""
-24,"TEXT_AKTKLA407_04159_TODO_00","<If(Equal(PlayerParameter(68),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在卫辅城下层附近的石场
-采集<Sheet(Item,35848,0)/><Else/>将<Sheet(Item,35848,0)/>交给屯集堂的断金</If><Else/><If(Equal(PlayerParameter(68),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在梅丽奥尔实验农场附近的草场
-采集<Sheet(Item,35848,0)/><Else/>将<Sheet(Item,35848,0)/>交给屯集堂的断金</If><Else/><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>转职为采矿工或园艺工
-采集<Sheet(Item,35848,0)/><Else/>转职为采矿工或园艺工
-将<Sheet(Item,35848,0)/>交给屯集堂的断金</If></If></If>"
+24,"TEXT_AKTKLA407_04159_TODO_00","<If(Equal(PlayerParameter(68),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在衛輔城下層附近的石場
+採集<Sheet(Item,35848,0)/><Else/>將<Sheet(Item,35848,0)/>交給屯集堂的斷金</If><Else/><If(Equal(PlayerParameter(68),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在梅麗奧爾實驗農場附近的草場
+採集<Sheet(Item,35848,0)/><Else/>將<Sheet(Item,35848,0)/>交給屯集堂的斷金</If><Else/><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>轉職為採礦工或園藝工
+採集<Sheet(Item,35848,0)/><Else/>轉職為採礦工或園藝工
+將<Sheet(Item,35848,0)/>交給屯集堂的斷金</If></If></If>"
 25,"TEXT_AKTKLA407_04159_TODO_01","將<Sheet(EventItem,2003098,0)/>交給雛芥子"
 26,"TEXT_AKTKLA407_04159_TODO_02","和斷金對話"
 27,"TEXT_AKTKLA407_04159_TODO_03","和雛芥子對話"

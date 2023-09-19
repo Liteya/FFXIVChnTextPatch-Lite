@@ -40,7 +40,7 @@ int32,str,str
 20,"TEXT_CTSOPN50LEWREY_00622_RYNE_000_030","說不定是伊甸干涉環境乙太的能力
 使水晶的本質發生了改變。
 因此裡面記錄的記憶也可能發生了變化。"
-21,"TEXT_CTSOPN50LEWREY_00622_RYNE_000_031",""
+21,"TEXT_CTSOPN50LEWREY_00622_RYNE_000_031","（★未使用／削除予定★）"
 22,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_032","不管怎樣，這塊水晶還是交給<Highlight>ObjectParameter(1)</Highlight>保管吧。
 這樣也許還能派上什麼用場。"
 23,"TEXT_CTSOPN50LEWREY_00622_RYNE_000_032","是的，我也是這麼想的。
@@ -149,7 +149,7 @@ int32,str,str
 75,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_402","但是我終究只是一名公務員，沒法參加到你們的冒險當中。
 不過像是準備氣墊船或是簡易乙太之光之類的後方支援工作，
 就包在我身上吧。"
-76,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_403",""
+76,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_403","（★未使用／削除予定★）"
 77,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_410","聽說根據蓋婭小姐的記憶
 在游末邦的自由民居住區找到了她居住過的房間。"
 78,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_411","可是……鄰居就連她的名字都不曾知道。
@@ -189,6 +189,6 @@ int32,str,str
 92,"TEXT_CTSOPN50LEWREY_00622_LEWREY_000_452","不過我們相信不管遇到怎樣的困難也一定能夠克服。
 這正是你們教會我們的事情。
 真是非常感謝！"
-93,"TEXT_CTSOPN50LEWREY_00622_TALK_ACTOR",""
-94,"TEXT_CTSOPN50LEWREY_00622_RENRAKU_000_400",""
-95,"TEXT_CTSOPN50LEWREY_00622_A1_000_001",""
+93,"TEXT_CTSOPN50LEWREY_00622_TALK_ACTOR","（★未使用／削除予定★）"
+94,"TEXT_CTSOPN50LEWREY_00622_RENRAKU_000_400","（★未使用／削除予定★）"
+95,"TEXT_CTSOPN50LEWREY_00622_A1_000_001","（★未使用／削除予定★）"

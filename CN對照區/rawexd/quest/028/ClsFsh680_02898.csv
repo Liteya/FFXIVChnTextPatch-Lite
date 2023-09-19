@@ -31,8 +31,8 @@ int32,str,str
 25,"TEXT_CLSFSH680_02898_TODO_01","詢問漁村居民"
 26,"TEXT_CLSFSH680_02898_TODO_02","向黃金港的瓦瓦拉哥報告"
 27,"TEXT_CLSFSH680_02898_TODO_03","和茨菰村附近的瓦瓦拉哥匯合"
-28,"TEXT_CLSFSH680_02898_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在渔场“沉没江船附近”刺鱼
-从出现的鱼影中获取<Sheet(Item,17951,0)/><Else/>将<Sheet(Item,17951,0)/>交给无二江流域的瓦瓦拉哥</If>"
+28,"TEXT_CLSFSH680_02898_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在漁場「沉沒江船附近」刺魚
+從出現的魚影中獲取<Sheet(Item,17951,0)/><Else/>將<Sheet(Item,17951,0)/>交給無二江流域的瓦瓦拉哥</If>"
 29,"TEXT_CLSFSH680_02898_TODO_05","讓漁村的自笑查看<Sheet(EventItem,2002180,0)/>"
 30,"TEXT_CLSFSH680_02898_TODO_06","將<Sheet(EventItem,2002180,0)/>交給碧玉水的浮物"
 31,"TEXT_CLSFSH680_02898_TODO_07","和捕魚人公會的瓦瓦拉哥對話"
@@ -283,6 +283,6 @@ int32,str,str
 141,"TEXT_CLSFSH680_02898_WAWALAGO_000_250","冒險者，你也回來了啊。
 為了成功舉辦海神祭，這次是該我們加油的時候了……"
 142,"TEXT_CLSFSH680_02898_WAWALAGO_000_251","你就在我們準備完成之前繼續磨練自己的捕魚技術吧！"
-143,"TEXT_CLSFSH680_02898_SYSTEM_000_500",""
+143,"TEXT_CLSFSH680_02898_SYSTEM_000_500","（★未使用／削除予定★）"
 144,"TEXT_CLSFSH680_02898_REYNA_000_120","（★未使用／削除予定★）"
 145,"TEXT_CLSFSH680_02898_GOVV_000_125","（★未使用／削除予定★）"

@@ -8,7 +8,7 @@ int32,str,str
 4,"TEXT_AKTKLA505_04164_SEQ_04","薩維奈島的茶·拉恰·提亞的醉乙太症狀似乎很嚴重。代替他前往新港，收集關於擱淺的魚的情報。"
 5,"TEXT_AKTKLA505_04164_SEQ_05","收集了關於擱淺的魚的情報。和新港的茶·拉恰·提亞談談。"
 6,"TEXT_AKTKLA505_04164_SEQ_06","茶·拉恰·提亞表示能通過逆流而上的河魚提取數據。將<Sheet(Item,35849,0)/>交給新港的茶·拉恰·提亞。可以使用醫蛭作為釣餌，在薩維奈島的乳河釣<Sheet(Item,35849,0)/>。"
-7,"TEXT_AKTKLA505_04164_SEQ_07","將<Sheet(ItemMP,35849,0)/>交給了茶·拉恰·提亞。前往舊薩雷安的屯集堂，和正在分析數據的茶·拉恰·提亞談談。"
+7,"TEXT_AKTKLA505_04164_SEQ_07","將<Sheet(Item,35849,0)/>交給了茶·拉恰·提亞。前往舊薩雷安的屯集堂，和正在分析數據的茶·拉恰·提亞談談。"
 8,"TEXT_AKTKLA505_04164_SEQ_08","和茶·拉恰·提亞進行了交談。等獲得了有用的新情報之後，再次和茶·拉恰·提亞對話。"
 9,"TEXT_AKTKLA505_04164_SEQ_09",""
 10,"TEXT_AKTKLA505_04164_SEQ_10",""
@@ -30,7 +30,7 @@ int32,str,str
 26,"TEXT_AKTKLA505_04164_TODO_02","和新港的茶·拉恰·提亞對話"
 27,"TEXT_AKTKLA505_04164_TODO_03","收集擱淺的魚的情報"
 28,"TEXT_AKTKLA505_04164_TODO_04","和茶·拉恰·提亞對話"
-29,"TEXT_AKTKLA505_04164_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在乳河钓<Sheet(Item,35849,0)/><Else/>将<Sheet(Item,35849,0)/>交给新港的茶·拉恰·提亚</If>"
+29,"TEXT_AKTKLA505_04164_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在乳河釣<Sheet(Item,35849,0)/><Else/>將<Sheet(Item,35849,0)/>交給新港的茶·拉恰·提亞</If>"
 30,"TEXT_AKTKLA505_04164_TODO_06","和屯集堂的茶·拉恰·提亞對話"
 31,"TEXT_AKTKLA505_04164_TODO_07",""
 32,"TEXT_AKTKLA505_04164_TODO_08",""
@@ -284,4 +284,4 @@ int32,str,str
 可以從屯集堂的茶·拉恰·提亞那裡領取下一個交納委託品的任務。"
 152,"TEXT_AKTKLA505_04164_SYSTEM_000_121","若要領取或繼續推進下一個任務，
 需要完成「曉月之終途主線任務」的「獲得生與死的答案」。"
-153,"TEXT_AKTKLA505_04164_TLAQATIA_000_090",""
+153,"TEXT_AKTKLA505_04164_TLAQATIA_000_090","（★未使用／削除予定★）"

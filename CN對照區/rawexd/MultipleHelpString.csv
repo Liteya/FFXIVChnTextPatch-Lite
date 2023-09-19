@@ -8,7 +8,7 @@ int32,str,str
 4,"任務緩和","當前版本針對零式大型任務做出以下調整。
 　·各層攻略後不再記錄攻略進度。
 　·各層不再需要按順序攻略。
-　·寶箱必定會出現。
+　·寶箱必定會出現2個。
 　·從寶箱中獲取道具不會有每週獲取限制。
 "
 5,"匹配條件","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配條件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -25,19 +25,18 @@ int32,str,str
 6,"記錄進度","每個玩家自身都會單獨保存最新零式大型任務的挑戰進度，
 當再次進行任務時，會在前一次中斷的位置繼續進行挑戰。
  
-挑戰的進度會在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置。"
+挑戰的進度會在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置。"
 7,"進度與報酬","在最新的零式大型任務中，
 進度超前的玩家在已經完成過的階段不會獲得報酬。
 
 隨著隊伍中進度超前隊員的人數，
-寶箱的出現數量以及報酬數量會發生變化。 
-　·進度超前隊員為0人時寶箱出現數：1個
-　·進度超前隊員有1-4人時寶箱出現數：1個（報酬數量減少）
+寶箱的出現數量會發生變化。 
+　·進度超前隊員有1-4人時寶箱出現數：1個
 　·進度超前隊員有5人或以上時寶箱出現數：0個
  
 以單人或者不滿8人的隊伍參加最新的零式大型任務時，
 根據匹配到的成員的進度不同，
-寶箱的出現數量及報酬數量也可能會發生變化。 "
+寶箱的出現數量也可能會發生變化。"
 8,"職業構成","通過匹配參加最新的零式大型任務時組成的隊伍沒有重覆職業。
 　·進攻職業會按照「近戰」「遠程物理」「遠程魔法」「無指定」的分配組成。
 

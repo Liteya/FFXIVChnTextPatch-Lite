@@ -107,7 +107,7 @@ int32,str,str
 是他們離開的時候只把那個帶走了吧……"
 76,"TEXT_LUCKMC102_03323_SYSTEM_000_080","開始尋找石板。
 如果發現了目標，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行確認！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 77,"TEXT_LUCKMC102_03323_URIANGER_000_082","石板在這裡面？
 我來看看。"
 78,"TEXT_LUCKMC102_03323_THANCRED_000_090","希望這就是我們要找的石板……"

@@ -64,7 +64,7 @@ int32,str,str
 51,"TEXT_BANKJN501_02991_ZUKIN_000_003","（★未使用／削除予定★）"
 52,"TEXT_BANKJN501_02991_SYSTEM_000_011","開始引導年輕的斑鰩。
 如果發現了魅力四射的斑鰩，在縮放、瞄準後
-按下<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>發射戀愛水泡！"
+按下<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>發射戀愛水泡！"
 53,"TEXT_BANKJN501_02991_ATTENDANT02991_000_012","哎呀——，雖然戀愛水泡是射中了，
 但射中的目標卻不怎麼理想啊——
 那孩子已經拒絕好幾隻雄性斑鰩的求愛了——"

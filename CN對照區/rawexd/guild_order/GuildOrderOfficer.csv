@@ -25,6 +25,6 @@ int32,str,str
 19,"TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_YES","是"
 20,"TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_NO","否"
 21,"TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_00","在當前職業或特職下第一次完成該任務，獲得額外的報酬。"
-22,"TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_01","<If(IntegerParameter(1))>另外，<Else/></If><Switch(IntegerParameter(2))><Case(1)>由于小队队员陷入无法战斗状态的次数少，
-<If(IntegerParameter(1))>可额外<Else/></If>获得报酬。</Case><Case(2)>由于小队队员无人陷入无法战斗状态，
-<If(IntegerParameter(1))>可额外<Else/></If>获得报酬。</Case></Switch>"
+22,"TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_01","<If(IntegerParameter(1))>另外，<Else/></If><Switch(IntegerParameter(2))><Case(1)>由於小隊隊員陷入無法戰鬥狀態的次數少，
+<If(IntegerParameter(1))>可額外<Else/></If>獲得報酬。</Case><Case(2)>由於小隊隊員無人陷入無法戰鬥狀態，
+<If(IntegerParameter(1))>可額外<Else/></If>獲得報酬。</Case></Switch>"

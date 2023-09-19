@@ -33,7 +33,7 @@ int32,str,str
 25,"TEXT_CLSWDK630_02442_TODO_01","和奇彌·基恩加爾對話"
 26,"TEXT_CLSWDK630_02442_TODO_02","和無地鼓座的演員們對話"
 27,"TEXT_CLSWDK630_02442_TODO_03","和潮風亭的奇彌·基恩加爾對話"
-28,"TEXT_CLSWDK630_02442_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17878,0)/><Else/>将<Sheet(ItemHQ,17878,0)/>交给害羞的女子</If>"
+28,"TEXT_CLSWDK630_02442_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17878,0)/><Else/>將<Sheet(ItemHQ,17878,0)/>交給害羞的女子</If>"
 29,"TEXT_CLSWDK630_02442_TODO_05","和奇彌·基恩加爾對話"
 30,"TEXT_CLSWDK630_02442_TODO_06",""
 31,"TEXT_CLSWDK630_02442_TODO_07",""
@@ -209,6 +209,6 @@ int32,str,str
 可以通過和相關非玩家角色對話再次獲得材料。"
 117,"TEXT_CLSWDK630_02442_SYSTEM_000_104","讓我們來實際體驗一下吧！
 打開「製作筆記」裡的「特殊配方」，
-從「職業任務」中選擇要製作的道具後，就可以開始製作了。"
+從「職業故事」中選擇要製作的道具後，就可以開始製作了。"
 118,"TEXT_CLSWDK630_02442_SYSTEM_000_105","作為刻木匠提高了對東方文化的見識，
 學會了新的技能「品質精查」！"

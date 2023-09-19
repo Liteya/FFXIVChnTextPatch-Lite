@@ -33,7 +33,7 @@ int32,str,str
 25,"TEXT_CLSALC680_02439_TODO_01","和艾斯泰姆珠寶店的馬塞爾對話"
 26,"TEXT_CLSALC680_02439_TODO_02","和福隆戴爾藥學院的芙·拉敏對話"
 27,"TEXT_CLSALC680_02439_TODO_03","和塞文利安對話"
-28,"TEXT_CLSALC680_02439_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17930,0)/><Else/>将<Sheet(ItemHQ,17930,0)/>交给白玉小巷附近的珀珀库利</If>"
+28,"TEXT_CLSALC680_02439_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17930,0)/><Else/>將<Sheet(ItemHQ,17930,0)/>交給白玉小巷附近的珀珀庫利</If>"
 29,"TEXT_CLSALC680_02439_TODO_05","追上珀珀庫利"
 30,"TEXT_CLSALC680_02439_TODO_06","再次追上珀珀庫利"
 31,"TEXT_CLSALC680_02439_TODO_07",""

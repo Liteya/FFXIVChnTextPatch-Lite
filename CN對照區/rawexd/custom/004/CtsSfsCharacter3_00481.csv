@@ -64,7 +64,7 @@ int32,str,str
 因此，盡量提高品質後做出成品是尤為重要的。"
 37,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_002","提高品質成功時，
 自身便會附加「內靜」。"
-38,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_003",""
+38,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_003","（★未使用／削除予定★）"
 39,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_004","盡可能地多積攢內靜，
 最後用「比爾格的祝福」等技能
 一口氣提高品質後，就可以完成製作了。"
@@ -123,7 +123,7 @@ int32,str,str
 62,"TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_001_002","另外，每週最多可以交貨6次。
 積極地交納收藏品，提高信賴等級吧！"
 63,"TEXT_CTSSFSCHARACTER3_00481_WEEKLYLIMIT_000_000","本週的交貨次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 64,"TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_001_000","這就是基拉巴尼亞醫藥品嗎。
 看上去就很有效呢……聞上去也是。
 都說良藥苦口，想必一定會很有效！"
@@ -506,7 +506,7 @@ int32,str,str
 我會努力讓自己成為能夠和您並肩前行的人，
 今後也請您多多關照。"
 229,"TEXT_CTSSFSCHARACTER3_00481_AFTWEEKLY_000_000","本週向<Sheet(ENpcResident,IntegerParameter(1),0)/>交貨的次數已經全部消耗。
-交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
+交貨次數會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。"
 230,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_001","提高品質的方法大致分為兩種。
 一種是製作時使用優質的材料，
 另一種是活用各種技能。"

@@ -30,7 +30,7 @@ int32,str,str
 23,"TEXT_CLSARM700_02598_SEQ_23",""
 24,"TEXT_CLSARM700_02598_TODO_00","和布蘭修提爾對話"
 25,"TEXT_CLSARM700_02598_TODO_01","和雲龍對話"
-26,"TEXT_CLSARM700_02598_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作制作笔记 职业任务：<Sheet(ItemHQ,17900,0)/><Else/>将<Sheet(ItemHQ,17900,0)/>交给布兰修提尔</If>"
+26,"TEXT_CLSARM700_02598_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作製作筆記 職業任務：<Sheet(ItemHQ,17900,0)/><Else/>將<Sheet(ItemHQ,17900,0)/>交給布蘭修提爾</If>"
 27,"TEXT_CLSARM700_02598_TODO_03","和布蘭修提爾對話"
 28,"TEXT_CLSARM700_02598_TODO_04","向鑄甲匠公會的赫·納恩薩報告"
 29,"TEXT_CLSARM700_02598_TODO_05",""

@@ -7,7 +7,7 @@ int32,str,str
 2,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_002","感謝你提供物資！
 多虧了你的幫助，這週的預算已經全部用光了。
 請你過些日子再來吧！"
-3,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_003","車前會的預算金額會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。
+3,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_003","車前會的預算金額會在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）被重置。
 請在重置後再次進行出讓。"
 4,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_004","非常抱歉。
 現在正在準備下一週的預算金額……
@@ -448,4 +448,4 @@ int32,str,str
 感謝你繼續支援我們的這份心意。"
 215,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_391","剛才還幫助我們舉行了放天燈的儀式，
 真是十分感謝！"
-216,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_352",""
+216,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_352","（★未使用／削除予定★）"

@@ -65,5 +65,5 @@ int32,str,str
 54,"TEXT_GAIUSC804_01028_UJUGHAL_000_020","你回來了啊，平安無事真是太好了！
 竟然真的打倒了海盜德瑞斯納古爾……
 我就知道你能行的！"
-55,"TEXT_GAIUSC804_01028_UJUGHAL_000_021","<If(PlayerParameter(4))>我好崇拜你啊……<Else/>那个……等你有空，能不能和我约会？</If>"
+55,"TEXT_GAIUSC804_01028_UJUGHAL_000_021","<If(PlayerParameter(4))>我好崇拜你啊……<Else/>那個……等你有空，能不能和我約會？</If>"
 56,"TEXT_GAIUSC804_01028_POP_MESSAGE_000","察覺到了敵人的氣息！"

@@ -16,7 +16,7 @@ int32,str,str
 俗話說熟能生巧，首先就從簡單的分隊任務開始
 試著派遣分隊吧。"
 7,"TEXT_COMARMGCARMYINTERVIEW_00345_SYSTEM_000_013","派遣你的分隊執行分隊任務吧。
-和<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>對話，選擇「確認分隊任務」，
+和<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊副耀士<Else/></If><Else/></If>對話，選擇「確認分隊任務」，
 即可派遣分隊員們執行任務。"
 8,"TEXT_COMARMGCARMYINTERVIEW_00345_PLATOONINSTRUCTOR_000_013","（★未使用／削除予定★）"
 9,"TEXT_COMARMGCARMYINTERVIEW_00345_PLATOONINSTRUCTOR_000_014","（★未使用／削除予定★）"

@@ -31,7 +31,7 @@ int32,str,str
 25,"TEXT_CLSWDK700_02445_TODO_01","和格里達尼亞出身的隊員對話"
 26,"TEXT_CLSWDK700_02445_TODO_02","在格里達尼亞舊街和阿拉米格出身的隊員對話"
 27,"TEXT_CLSWDK700_02445_TODO_03","和刻木匠公會的貝亞坦對話"
-28,"TEXT_CLSWDK700_02445_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17884,0)/><Else/>将<Sheet(ItemHQ,17884,0)/>交给盖伊尔哈德</If>"
+28,"TEXT_CLSWDK700_02445_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17884,0)/><Else/>將<Sheet(ItemHQ,17884,0)/>交給蓋伊爾哈德</If>"
 29,"TEXT_CLSWDK700_02445_TODO_05","和碧企鵝瀑布的蓋伊爾哈德對話"
 30,"TEXT_CLSWDK700_02445_TODO_06","和貝亞坦對話"
 31,"TEXT_CLSWDK700_02445_TODO_07",""

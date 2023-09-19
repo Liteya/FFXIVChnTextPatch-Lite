@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ514_02765_TODO_21",""
 46,"TEXT_STMBDZ514_02765_TODO_22",""
 47,"TEXT_STMBDZ514_02765_TODO_23",""
-48,"TEXT_STMBDZ514_02765_BUQATAI_000_000","那邊那個<If(PlayerParameter(4))>勇猛的小姐<Else/>健壮的小哥</If>。
+48,"TEXT_STMBDZ514_02765_BUQATAI_000_000","那邊那個<If(PlayerParameter(4))>勇猛的小姐<Else/>健壯的小哥</If>。
 能不能幫我個忙呢？"
 49,"TEXT_STMBDZ514_02765_BUQATAI_000_001","其實，我想要岩石山上的猛獸所收集的骨頭。
 山上的猛獸為了證明自己的領地，

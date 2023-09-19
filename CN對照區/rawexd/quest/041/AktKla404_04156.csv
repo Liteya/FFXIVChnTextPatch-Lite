@@ -27,10 +27,10 @@ int32,str,str
 21,"TEXT_AKTKLA404_04156_SEQ_21",""
 22,"TEXT_AKTKLA404_04156_SEQ_22",""
 23,"TEXT_AKTKLA404_04156_SEQ_23",""
-24,"TEXT_AKTKLA404_04156_TODO_00","<If(Equal(PlayerParameter(68),16))>将在灵土之剑附近采集的
-<Sheet(ItemMP,35602,0)/>交给雏芥子<Else/><If(Equal(PlayerParameter(68),17))>将在海姆达尔级观察艇附近采集的
-<Sheet(ItemMP,35602,0)/>交给雏芥子<Else/>转职为采矿工或园艺工
-将<Sheet(ItemMP,35602,0)/>交给雏芥子</If></If>"
+24,"TEXT_AKTKLA404_04156_TODO_00","<If(Equal(PlayerParameter(68),16))>將在靈土之劍附近採集的
+<Sheet(ItemMP,35602,0)/>交給雛芥子<Else/><If(Equal(PlayerParameter(68),17))>將在海姆達爾級觀察艇附近採集的
+<Sheet(ItemMP,35602,0)/>交給雛芥子<Else/>轉職為採礦工或園藝工
+將<Sheet(ItemMP,35602,0)/>交給雛芥子</If></If>"
 25,"TEXT_AKTKLA404_04156_TODO_01",""
 26,"TEXT_AKTKLA404_04156_TODO_02",""
 27,"TEXT_AKTKLA404_04156_TODO_03",""

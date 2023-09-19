@@ -93,7 +93,7 @@ int32,str,str
 65,"TEXT_LUCKBC014_03223_MAKOTO_000_038","看到你就嚇跑了，而且還說出了無雙齋大人的名字……
 我們追上去看看吧！"
 66,"TEXT_LUCKBC014_03223_MAKOTO_000_039","你跑不掉了。"
-67,"TEXT_LUCKBC014_03223_OSTYRGREIN_000_040","二位<If(PlayerParameter(4))>女侠<Else/>大侠</If>饒命啊！
+67,"TEXT_LUCKBC014_03223_OSTYRGREIN_000_040","二位<If(PlayerParameter(4))>女俠<Else/>大俠</If>饒命啊！
 自從在船上被你教訓之後，
 我真的就已經洗心革面了啊！"
 68,"TEXT_LUCKBC014_03223_Q1_000_000","要說什麼？"

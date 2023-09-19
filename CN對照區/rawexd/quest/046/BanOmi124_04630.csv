@@ -29,7 +29,7 @@ A4調查平台的斯提格瑪四想要冒險者幫忙籌備素材。"
 22,"TEXT_BANOMI124_04630_SEQ_22",""
 23,"TEXT_BANOMI124_04630_SEQ_23",""
 24,"TEXT_BANOMI124_04630_TODO_00","和至福樂土遊樂區的調理研究型奧密克戎對話"
-25,"TEXT_BANOMI124_04630_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福乐土游乐区采掘<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给调理研究型奥密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福乐土游乐区采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给调理研究型奥密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福乐土游乐区钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给调理研究型奥密克戎</If><Else/></If></If></If>"
+25,"TEXT_BANOMI124_04630_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型奧密克戎</If><Else/></If></If></If>"
 26,"TEXT_BANOMI124_04630_TODO_02","向斯提格瑪四報告"
 27,"TEXT_BANOMI124_04630_TODO_03",""
 28,"TEXT_BANOMI124_04630_TODO_04",""
@@ -79,7 +79,7 @@ A4調查平台的斯提格瑪四想要冒險者幫忙籌備素材。"
 58,"TEXT_BANOMI124_04630_DELIVERER04630_000_021","沙沙沙……已確認到委託物品……
 感謝你此次的協助。
 請從斯提格瑪四那裡領取報酬。"
-59,"TEXT_BANOMI124_04630_DELIVERER04630_000_022",""
+59,"TEXT_BANOMI124_04630_DELIVERER04630_000_022","（★未使用／削除予定★）"
 60,"TEXT_BANOMI124_04630_STIGMA4_000_030","本機已從調理研究型奧密克戎那裡收到了報告。
 對同盟者<Highlight>ObjectParameter(1)</Highlight>的協助給予高度評價。"
 61,"TEXT_BANOMI124_04630_STIGMA4_000_031","雖然想要獲得來自龍星的食材很難，

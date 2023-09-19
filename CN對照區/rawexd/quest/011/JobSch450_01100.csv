@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_JOBSCH450_01100_SEQ_22",""
 23,"TEXT_JOBSCH450_01100_SEQ_23",""
 24,"TEXT_JOBSCH450_01100_TODO_00","調查迷霧濕地<Sheet(EObj,2002385,0)/>"
-25,"TEXT_JOBSCH450_01100_TODO_01","調查<Sheet(EObj,2002385,0)/>並獲取<Sheet(EventItem,2000713,0)/>"
+25,"TEXT_JOBSCH450_01100_TODO_01","調查<Sheet(EObj,2002385,0)/> 並獲取<Sheet(EventItem,2000713,0)/>"
 26,"TEXT_JOBSCH450_01100_TODO_02","將指定物品交給裁衣匠公會的雷多倫特·羅斯 並獲取學者裝束"
 27,"TEXT_JOBSCH450_01100_TODO_03","將<Sheet(EventItem,2000964,0)/>交給賽倫蒂碧提 並獲取學者裝束"
 28,"TEXT_JOBSCH450_01100_TODO_04","將<Sheet(EventItem,2000964,0)/>交給製革匠公會的蓋娃 並獲取學者裝束"

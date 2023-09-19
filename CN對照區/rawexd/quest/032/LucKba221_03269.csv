@@ -91,8 +91,8 @@ int32,str,str
 66,"TEXT_LUCKBA221_03269_A1_000_001","喝！"
 67,"TEXT_LUCKBA221_03269_A1_000_002","不喝……"
 68,"TEXT_LUCKBA221_03269_SYSTEM_000_102","把心一橫，喝光了鼴靈的地酒！
-剛入口的感覺是<Switch(PlayerParameter(71))><Case(1)>泥水味</Case><Case(2)>完全无法想象的泥腥味</Case><Case(3)>沐浴春风般的清爽味道</Case><Case(4)>舌尖的麻痹</Case><Case(5)>没有味道的普通清水</Case><Case(6)>高度酒精</Case><Case(7)>回忆起了遥远的过去</Case><Case(8)>恨不得诅咒众神的怪味</Case></Switch>，
-最後剩下的卻是<Switch(PlayerParameter(71))><Case(1)>喉咙灼烧般的疼痛</Case><Case(2)>对自己所下决定的后悔</Case><Case(3)>微甜的水果余香</Case><Case(4)>虚无</Case><Case(5)>普通的酒精味</Case><Case(6)>轻微的醉意</Case><Case(7)>对明天的希望</Case><Case(8)>喉咙里有沙石般的异物感</Case></Switch>……"
+剛入口的感覺是<Switch(PlayerParameter(71))><Case(1)>泥水味</Case><Case(2)>完全無法想像的泥腥味</Case><Case(3)>沐浴春風般的清爽味道</Case><Case(4)>舌尖的麻痺</Case><Case(5)>沒有味道的普通清水</Case><Case(6)>高度酒精</Case><Case(7)>回憶起了遙遠的過去</Case><Case(8)>恨不得詛咒眾神的怪味</Case></Switch>，
+最後剩下的卻是<Switch(PlayerParameter(71))><Case(1)>喉嚨灼燒般的疼痛</Case><Case(2)>對自己所下決定的後悔</Case><Case(3)>微甜的水果餘香</Case><Case(4)>虛無</Case><Case(5)>普通的酒精味</Case><Case(6)>輕微的醉意</Case><Case(7)>對明天的希望</Case><Case(8)>喉嚨裡有沙石般的異物感</Case></Switch>……"
 69,"TEXT_LUCKBA221_03269_MORDMASTER_000_103","你喝得真痛快啊，跟那個矮人不相上下！
 除了鼴靈族之外，能把這個酒喝第二口的
 就只有你們倆，真讓人吃驚！"

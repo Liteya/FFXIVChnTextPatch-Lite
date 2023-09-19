@@ -311,7 +311,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>農夫之智狀態中（發動機率50%）"
 244,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>捕魚人之計<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>獲得大尺寸的魚時（一定機率）<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),61))>
-钓鱼与刺鱼的发动几率不同<Else/></If><Else/></If>
+釣魚與刺魚的發動機率不同<Else/></If><Else/></If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大檔數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10檔"
 245,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鬥氣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態的機率上升到100%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>戰技暴擊時"
@@ -661,7 +661,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>傷殘命中敵人時，部分特定敵人除外"
 423,"英雄的掠影發動的暗影波動變為暗影使者
 
-向目標所在方向發出無屬性直線範圍魔法攻擊<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
+向目標所在方向發出無屬性直線範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 攻擊複數敵人時，對目標之外的敵人威力降低25%"
 424,"石之心變為剛玉之心"
 425,"極光變為積蓄技能
@@ -869,8 +869,8 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重劈的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>兇殘裂的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暴風斬的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暴風碎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暴風斬的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暴風碎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150"
 506,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重斬的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170

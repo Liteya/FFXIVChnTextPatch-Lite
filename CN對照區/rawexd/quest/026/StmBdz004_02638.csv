@@ -67,7 +67,7 @@ int32,str,str
 你那邊怎麼樣？"
 55,"TEXT_STMBDZ004_02638_BURLYPRIVATE02638_000_011","噢噢噢噢！
 這、這個劃痕的形狀！這不正是我的護身符嘛！
-太感謝了，<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！"
+太感謝了，<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！"
 56,"TEXT_STMBDZ004_02638_BURLYPRIVATE02638_000_012","這是老媽為了剛出生的我，
 去星導寺拜神求來的護身符。
 聽說那個時候，來這裡參拜的人可多，可熱鬧了。"

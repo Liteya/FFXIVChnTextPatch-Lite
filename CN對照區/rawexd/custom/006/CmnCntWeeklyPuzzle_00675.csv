@@ -16,17 +16,17 @@ int32,str,str
 以我的視點講述出來呢。
 所以抱歉，你下次再來吧。"
 9,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_003","每週可以通過與「宗長」對話挑戰幻巧拼圖。
-想要挑戰時需要在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）以後
+想要挑戰時需要在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）以後
 完成「幻巧戰」並再次與宗長對話。"
 10,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_100_003","幻巧拼圖一旦開始便無法中斷，
 如果在挑戰過程中進入了任務，
 將會喪失挑戰的權利，敬請注意。"
 11,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_004","要挑戰「幻巧拼圖」嗎？
 （「幻巧葉」的持有數：<Value>IntegerParameter(1)</Value>/1000）<If(Equal(IntegerParameter(1),1000))>
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※持有数已达上限，
-　无法取得更多的“幻巧叶”。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><If(GreaterThan(IntegerParameter(1),850))>
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※持有数已达上限，如果继续进行挑战的话，
-　将有可能无法获得全部的“幻巧叶”。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If></If>"
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※持有數已達上限，
+　無法取得更多的「幻巧葉」。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><If(GreaterThan(IntegerParameter(1),850))>
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※持有數已達上限，如果繼續進行挑戰的話，
+　將有可能無法獲得全部的「幻巧葉」。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If></If>"
 12,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_005","看來你已經回想起了與荒神激戰的細節。
 好了，快講給我聽聽吧！"
 13,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_006","哦哦……這可是真厲害！
@@ -75,7 +75,7 @@ int32,str,str
 再次完成「幻巧戰」，
 即可重新挑戰「幻巧拼圖」。"
 33,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_022","每週只能獲得一次額外機會。
-此外，額外機會將在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）重置，
+此外，額外機會將在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）重置，
 請多加注意。"
 34,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_023","太厲害了，竟然找到了所有圖案，真是連綿不斷的精彩故事呢。
 那我想想如何在茶會上將你講的故事，
@@ -89,7 +89,7 @@ int32,str,str
 37,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_050","由於未能獲得額外機會，
 本週無法繼續挑戰幻巧拼圖。"
 38,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_051","想要再次挑戰幻巧拼圖時，
-需要在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）以後
+需要在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>週日</Case><Case(2)>週一</Case><Case(3)>週二</Case><Case(4)>週三</Case><Case(5)>週四</Case><Case(6)>週五</Case><Case(7)>週六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）以後
 完成「幻巧戰」並再次與宗長對話。"
 39,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_026","什麼都沒有拿到嗎……想開點，就當是又多了一個話題吧。
 那我想想如何在茶會上將你講的故事，

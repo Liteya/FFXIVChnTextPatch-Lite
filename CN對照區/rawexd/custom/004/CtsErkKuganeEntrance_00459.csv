@@ -15,8 +15,8 @@ int32,str,str
 7,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_003","取消"
 8,"TEXT_CTSERKKUGANEENTRANCE_00459_YESNO_CONTENT","確定要進入「<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>」嗎？<If(Equal(IntegerParameter(2),0))><Else/>
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※元素等级超过<Value>IntegerParameter(2)</Value>级时，
-会自动将元素等级同步到<Value>IntegerParameter(2)</Value>级。<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If>"
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※元素等級超過<Value>IntegerParameter(2)</Value>級時，
+會自動將元素等級同步到<Value>IntegerParameter(2)</Value>級。<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If>"
 9,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_110_010","可能是受到了優雷卡的環境乙太影響，
 其周邊的海域發生了不合季節的大暴風雨。在天氣恢復正常之前，暫時無法前往優雷卡。"
 10,"TEXT_CTSERKKUGANEENTRANCE_00459_Q2_000_000","想了解什麼？"

@@ -58,7 +58,7 @@ int32,str,str
 45,"TEXT_BANIXA005_01490_TODO_21",""
 46,"TEXT_BANIXA005_01490_TODO_22",""
 47,"TEXT_BANIXA005_01490_TODO_23",""
-48,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_000","喂喂喂喂！<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！
+48,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_000","喂喂喂喂！<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！
 你來得正好，我有事要告訴你！"
 49,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_001","終於，終於！迪茲爾·庫瓦蘭號的完成終於有些眉目了！！"
 50,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_002","接下來要做的就是建造飛空艇的心臟部分，
@@ -80,7 +80,7 @@ int32,str,str
 56,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_008","對了！可以用旋床……
 為了切割、加工元件，需要非常結實的<Sheet(EventItem,2001368,0)/>……
 只要有了它，就能製作那些精密元件了！"
-57,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_009","<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>，拜託了！
+57,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_009","<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>，拜託了！
 能不能想辦法幫我們弄到個<Sheet(EventItem,2001368,0)/>？
 這是專門設施才會用的東西，我也知道很難找！"
 58,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_010","不過，關於這東西，我們也只能拜託給身為人類的你！
@@ -200,7 +200,7 @@ int32,str,str
 等得我鳥毛都掉了！"
 102,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_091","哦哦哦哦哦哦哦哦哦哦哦哦哦哦！！
 這就是！！<Sheet(EventItem,2001368,0)/>！！
-幹得漂亮<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！"
+幹得漂亮<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>！"
 103,"TEXT_BANIXA005_01490_SEZULTOTOLOC_000_092","太好了，太好了太好了太好了！！
 這下迪茲爾·庫瓦蘭號就能完成了！
 經歷了千辛萬苦，終於看到了終點！"

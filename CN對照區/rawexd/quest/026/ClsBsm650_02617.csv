@@ -31,7 +31,7 @@ int32,str,str
 23,"TEXT_CLSBSM650_02617_SEQ_23",""
 24,"TEXT_CLSBSM650_02617_TODO_00","和利姆薩·羅敏薩碼頭附近的神刀對話"
 25,"TEXT_CLSBSM650_02617_TODO_01","將<Sheet(EventItem,2002071,0)/>交給錨場的雪花進行諮詢"
-26,"TEXT_CLSBSM650_02617_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17888,0)/><Else/>将<Sheet(ItemHQ,17888,0)/>交给利姆萨·罗敏萨的神刀</If>"
+26,"TEXT_CLSBSM650_02617_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17888,0)/><Else/>將<Sheet(ItemHQ,17888,0)/>交給利姆薩·羅敏薩的神刀</If>"
 27,"TEXT_CLSBSM650_02617_TODO_03","向鍛鐵匠公會的布瑞賽爾報告"
 28,"TEXT_CLSBSM650_02617_TODO_04",""
 29,"TEXT_CLSBSM650_02617_TODO_05",""

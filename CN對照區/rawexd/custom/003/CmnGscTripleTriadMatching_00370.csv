@@ -16,10 +16,10 @@ int32,str,str
 10,"TEXT_CMNGSCTRIPLETRIADMATCHING_00370_Q5_000_000","要申請對局（大賽對局）嗎？
 
 目前的積分：<Value>IntegerParameter(1)</Value>
-報酬：<If(NotEqual(IntegerParameter(3),0))><Sheet(Item,IntegerParameter(3),0)/> × <Value>IntegerParameter(4)</Value><Else/>无</If>
+報酬：<If(NotEqual(IntegerParameter(3),0))><Sheet(Item,IntegerParameter(3),0)/> × <Value>IntegerParameter(4)</Value><Else/>無</If>
 
-下一個積分獎勵：<If(NotEqual(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>以上<Else/>无</If>
-報酬：<If(NotEqual(IntegerParameter(5),0))><Sheet(Item,IntegerParameter(5),0)/> × <Value>IntegerParameter(6)</Value><Else/>无</If>
+下一個積分獎勵：<If(NotEqual(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>以上<Else/>無</If>
+報酬：<If(NotEqual(IntegerParameter(5),0))><Sheet(Item,IntegerParameter(5),0)/> × <Value>IntegerParameter(6)</Value><Else/>無</If>
 "
 11,"TEXT_CMNGSCTRIPLETRIADMATCHING_00370_A5_000_001","是"
 12,"TEXT_CMNGSCTRIPLETRIADMATCHING_00370_A5_000_002","否"

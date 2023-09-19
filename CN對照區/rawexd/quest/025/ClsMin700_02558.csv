@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_CLSMIN700_02558_SEQ_23",""
 24,"TEXT_CLSMIN700_02558_TODO_00","和斯提克奇克斯工房的諾諾瓦特對話"
 25,"TEXT_CLSMIN700_02558_TODO_01","和採礦工公會的阿達爾博塔對話"
-26,"TEXT_CLSMIN700_02558_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在慢水涤采掘<Sheet(Item,17944,0)/><Else/>将<Sheet(Item,17944,0)/>交给斯提克奇克斯工房的诺诺瓦特</If>"
+26,"TEXT_CLSMIN700_02558_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在慢水滌採掘<Sheet(Item,17944,0)/><Else/>將<Sheet(Item,17944,0)/>交給斯提克奇克斯工房的諾諾瓦特</If>"
 27,"TEXT_CLSMIN700_02558_TODO_03","和薩雷安治學區的諾諾瓦特對話"
 28,"TEXT_CLSMIN700_02558_TODO_04","和斯提克奇克斯對話"
 29,"TEXT_CLSMIN700_02558_TODO_05","和薩雷安治學區的諾諾瓦特對話"

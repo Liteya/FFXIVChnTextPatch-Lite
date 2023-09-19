@@ -119,7 +119,7 @@ int32,str,str
 沒想到反而又被學生們超越了呀，娜休梅拉。"
 73,"TEXT_LUCKBB241_03254_NASHMEIRA_000_025","別說笑了拉敏。
 天下哪有老師會嫉妒自己學生的成長。
-我只是為<If(PlayerParameter(4))>她们<Else/>他们</If>自豪，同時稍稍有點寂寞而已……"
+我只是為<If(PlayerParameter(4))>她們<Else/>他們</If>自豪，同時稍稍有點寂寞而已……"
 74,"TEXT_LUCKBB241_03254_FLHAMINN_000_254","<Highlight>ObjectParameter(1)</Highlight>，從娜休梅拉口中聽到你的名字時
 可是把我驚得目瞪口呆。
 緣分真是奇妙呢，沒想到我們會在這裡相遇。"

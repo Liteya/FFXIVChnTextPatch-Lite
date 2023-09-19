@@ -54,7 +54,7 @@ int32,str,str
 我們雙蛇黨此次要接手帝國東方堡的管理，
 因而為了統籌各項事宜，派我來到了此地。"
 50,"TEXT_STMBDZ111_02661_SWETHRYKBROOKSTONE_000_003","你既是優秀的冒險者，
-也是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑涡团<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>双蛇党<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恒辉队<Else/></If><Else/></If>的成員。"
+也是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>恆輝隊<Else/></If><Else/></If>的成員。"
 51,"TEXT_STMBDZ111_02661_SWETHRYKBROOKSTONE_000_004","所以，我以艾歐澤亞同盟軍的名義，打算向你委託任務。
 詳情請找塔拉·莫爾酷協牙尉諮詢。
 這次任務是她負責的……"

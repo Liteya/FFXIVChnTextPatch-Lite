@@ -65,7 +65,7 @@ int32,str,str
 潮氣較重的木材上往往會附有<Sheet(BNpcName,40,0)/>，
 如果發現的話也請你一併驅除。"
 53,"TEXT_GAIUSA908_00803_DUMMY_000_030","調查3處架台"
-54,"TEXT_GAIUSA908_00803_ROUSTEBANT_000_030","無"
+54,"TEXT_GAIUSA908_00803_ROUSTEBANT_000_030","（★未使用／削除予定★）"
 55,"TEXT_GAIUSA908_00803_THIEVENAIX_000_040","<Sheet(BNpcName,40,0)/>果然出現了嗎……
 冒險者閣下，我還有一事相求。
 這件事請千萬不要告訴一個叫作馬爾塞特的女人。"

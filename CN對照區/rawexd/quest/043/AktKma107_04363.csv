@@ -146,7 +146,7 @@ int32,str,str
 可千萬別弄錯了！"
 91,"TEXT_AKTKMA107_04363_SYSTEM_000_100","開始尋找捕捉目標的犀鳥。
 尋找羽毛是綠色並且叫聲為咕哇的鳥類，
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>射出麻醉針！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>射出麻醉針！"
 92,"TEXT_AKTKMA107_04363_ALISAIE_000_110","我稍微瞄了一眼，裡面可以說是伸手不見五指呢……"
 93,"TEXT_AKTKMA107_04363_YSHTOLA_000_115","埃倫維爾提到的中環就在這下面一層。"
 94,"TEXT_AKTKMA107_04363_YSHTOLA_000_116","雖然和最下層的秘密區域不同，

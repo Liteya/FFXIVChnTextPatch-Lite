@@ -29,9 +29,9 @@ int32,str,str
 25,"TEXT_AKTKLA405_04157_TODO_01","和斷金對話"
 26,"TEXT_AKTKLA405_04157_TODO_02","尋找雛芥子的目擊情報"
 27,"TEXT_AKTKLA405_04157_TODO_03","在<Sheet(EObj,2011720,0)/>張望"
-28,"TEXT_AKTKLA405_04157_TODO_04","<If(Equal(PlayerParameter(68),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在狱之盖的矿脉采掘<Sheet(Item,35847,0)/><Else/>将<Sheet(Item,35847,0)/>交给异人街的断金</If><Else/><If(Equal(PlayerParameter(68),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>从自凝岛附近的良材采集<Sheet(Item,35847,0)/><Else/>将<Sheet(Item,35847,0)/>交给异人街的断金</If><Else/><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>转职为采矿工或园艺工
-采集<Sheet(Item,35847,0)/><Else/>转职为采矿工或园艺工
-将<Sheet(Item,35847,0)/>交给异人街的断金</If></If></If>"
+28,"TEXT_AKTKLA405_04157_TODO_04","<If(Equal(PlayerParameter(68),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在獄之蓋的礦脈採掘<Sheet(Item,35847,0)/><Else/>將<Sheet(Item,35847,0)/>交給異人街的斷金</If><Else/><If(Equal(PlayerParameter(68),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>從自凝島附近的良材採集<Sheet(Item,35847,0)/><Else/>將<Sheet(Item,35847,0)/>交給異人街的斷金</If><Else/><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>轉職為採礦工或園藝工
+採集<Sheet(Item,35847,0)/><Else/>轉職為採礦工或園藝工
+將<Sheet(Item,35847,0)/>交給異人街的斷金</If></If></If>"
 29,"TEXT_AKTKLA405_04157_TODO_05","和斷金對話"
 30,"TEXT_AKTKLA405_04157_TODO_06","和屯集堂的雛芥子對話"
 31,"TEXT_AKTKLA405_04157_TODO_07",""

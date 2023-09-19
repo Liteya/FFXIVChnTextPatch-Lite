@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_000","哦，這不是在<If(GreaterThanOrEqualTo(IntegerParameter(1),1))>水晶冲突<Else/>群狼盛宴</If>中位居前列的參與者嗎！
+0,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_000","哦，這不是在<If(GreaterThanOrEqualTo(IntegerParameter(1),1))>水晶衝突<Else/>群狼盛宴</If>中位居前列的參與者嗎！
 請立刻收下這只有取得好成績的人才能獲得的排名獎勵吧！"
-1,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_001","<If(GreaterThanOrEqualTo(IntegerParameter(1),1))>现在正在举办水晶冲突的第<Value>IntegerParameter(1)</Value>赛季。<Else/>现在是水晶冲突的季前赛期间。</If>
-<If(GreaterThanOrEqualTo(IntegerParameter(2),1))>在这里可以领取前一赛季的赛季奖励。<Else/>因之前是季前赛，没有可领取的奖励。</If>
+1,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_001","<If(GreaterThanOrEqualTo(IntegerParameter(1),1))>現在正在舉辦水晶衝突的第<Value>IntegerParameter(1)</Value>賽季。<Else/>現在是水晶衝突的季前賽期間。</If>
+<If(GreaterThanOrEqualTo(IntegerParameter(2),1))>在這裡可以領取前一賽季的賽季獎勵。<Else/>因之前是季前賽，沒有可領取的獎勵。</If>
 如果關於獎勵有不明白的地方也可以問我。"
 2,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_Q1_000_1","有什麼事？"
 3,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_1","領取排名獎勵"
@@ -29,7 +29,7 @@ int32,str,str
 請在新的賽季中努力取得更好的成績！"
 17,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_010","恭喜你！！
 請收下這只有在盛宴中獨佔鰲頭的霸者才能獲得的獎勵！"
-18,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_011",""
+18,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_011","（★未使用／削除予定★）"
 19,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_012","恭喜你！！
 距離霸者之位僅一步之遙的勇猛之士，請收下這份獎勵。"
 20,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_013","恭喜你！！

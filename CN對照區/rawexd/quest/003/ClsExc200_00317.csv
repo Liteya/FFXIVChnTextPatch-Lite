@@ -94,8 +94,8 @@ int32,str,str
 65,"TEXT_CLSEXC200_00317_PFARSTYM_000_62","最近魔物們經常結群出沒，
 我們也正在商議是否去派人確保少年的安全。
 你最好趁早行動，我們也會通知一下斧術師公會。"
-66,"TEXT_CLSEXC200_00317_SYSTEM_000_60","空"
-67,"TEXT_CLSEXC200_00317_SYSTEM_000_70","空"
+66,"TEXT_CLSEXC200_00317_SYSTEM_000_60","使用しない"
+67,"TEXT_CLSEXC200_00317_SYSTEM_000_70","使用しない"
 68,"TEXT_CLSEXC200_00317_SOLKWYB_100_80","<Highlight>ObjectParameter(1)</Highlight>，你有什麼發現嗎？"
 69,"TEXT_CLSEXC200_00317_SOLKWYB_000_80","這看起來應該是小弟弟的東西呢……
 我也有所發現，你看。

@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_LUCKLA502_03240_SEQ_23",""
 24,"TEXT_LUCKLA502_03240_TODO_00","和博物陳列館的弗里斯利克對話"
 25,"TEXT_LUCKLA502_03240_TODO_01","和沉沒教會的弗里斯利克對話"
-26,"TEXT_LUCKLA502_03240_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在身镜湖钓上<Sheet(Item,26750,0)/><Else/>将<Sheet(Item,26750,0)/>交给中庸工艺馆的罗布</If>"
+26,"TEXT_LUCKLA502_03240_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在身鏡湖釣上<Sheet(Item,26750,0)/><Else/>將<Sheet(Item,26750,0)/>交給中庸工藝館的羅布</If>"
 27,"TEXT_LUCKLA502_03240_TODO_03",""
 28,"TEXT_LUCKLA502_03240_TODO_04",""
 29,"TEXT_LUCKLA502_03240_TODO_05",""

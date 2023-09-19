@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANPIX103_03691_SEQ_22",""
 23,"TEXT_BANPIX103_03691_SEQ_23",""
 24,"TEXT_BANPIX103_03691_TODO_00","在「說話」頻道下輸入<Emphasis>「超級小可愛」</Emphasis>
-呼喚仙子族收藏家"
+呼喚仙子族收藏家 (snae ling)"
 25,"TEXT_BANPIX103_03691_TODO_01","和烏因·尼伊對話"
 26,"TEXT_BANPIX103_03691_TODO_02",""
 27,"TEXT_BANPIX103_03691_TODO_03",""
@@ -95,4 +95,4 @@ int32,str,str
 被這麼說的話，無論是哪個仙子，都會開心得受不了的！"
 63,"TEXT_BANPIX103_03691_UINNEE_000_025","嘻嘻，下次再去找他的時候，
 他又會給你展示哪些寶物呢！"
-64,"TEXT_BANPIX103_03691_SAYTODO_000_030","超級小可愛"
+64,"TEXT_BANPIX103_03691_SAYTODO_000_030","snae ling"

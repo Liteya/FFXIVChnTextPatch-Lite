@@ -32,7 +32,7 @@ int32,str,str
 26,"TEXT_JOBPLD680_02574_TODO_02","尋找布萊克·羅塔斯"
 27,"TEXT_JOBPLD680_02574_TODO_03","在白玉小巷收集情報"
 28,"TEXT_JOBPLD680_02574_TODO_04","在「說話」頻道下輸入「懷疑真實」
-對可疑的男子說暗號"
+對可疑的男子說暗號 (Doubt the truth)"
 29,"TEXT_JOBPLD680_02574_TODO_05","在無刺盆地尋找粗魯的男子"
 30,"TEXT_JOBPLD680_02574_TODO_06","在無刺盆地救助小個頭少年"
 31,"TEXT_JOBPLD680_02574_TODO_07","和劍術師公會的密拉對話"
@@ -198,7 +198,7 @@ int32,str,str
 119,"TEXT_JOBPLD680_02574_SUSPICIOUSMAN02574_000_083","今天的交易地點在大霸王樹附近。
 不過因為一些事有個小孩也在那裡，
 可能稍微有點吵，別介意啊。"
-120,"TEXT_JOBPLD680_02574_SYSTEM_000_084","懷疑真實"
+120,"TEXT_JOBPLD680_02574_SYSTEM_000_084","Doubt the truth"
 121,"TEXT_JOBPLD680_02574_CAUTIOUSMAN02574_000_090","你是什麼人？"
 122,"TEXT_JOBPLD680_02574_Q1_000_000","要怎麼回答？"
 123,"TEXT_JOBPLD680_02574_A1_000_001","來打倒你們的！"

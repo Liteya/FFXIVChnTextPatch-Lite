@@ -57,7 +57,7 @@ int32,str,str
 47,"TEXT_FESPDY202_02222_TODO_23",""
 48,"TEXT_FESPDY202_02222_CHAMBERLAIN02222_000_000","你要協助小黃鶯的宣傳活動啊！"
 49,"TEXT_FESPDY202_02222_CHAMBERLAIN02222_100_000","根據我們的調查，
-市民們認為現在的小黃鶯<Switch(IntegerParameter(1))><Case(1)>还是刚成立不久的新组合</Case><Case(2)>算是初出茅庐的明星</Case><Case(3)>是脚踏实地进行活动的明星</Case><Case(4)>是渐渐有了知名度的明星</Case><Case(5)>是有固定拥护者的明星</Case><Case(6)>是不骄不躁一直在努力着的明星</Case><Case(7)>是知名度高到甚至都有昵称的明星</Case><Case(8)>是在乌尔达哈无人不知无人不晓的明星</Case></Switch>。"
+市民們認為現在的小黃鶯<Switch(IntegerParameter(1))><Case(1)>還是剛成立不久的新組合</Case><Case(2)>算是初出茅廬的明星</Case><Case(3)>是腳踏實地進行活動的明星</Case><Case(4)>是漸漸有了知名度的明星</Case><Case(5)>是有固定擁護者的明星</Case><Case(6)>是不驕不躁一直在努力著的明星</Case><Case(7)>是知名度高到甚至都有暱稱的明星</Case><Case(8)>是在烏爾達哈無人不知無人不曉的明星</Case></Switch>。"
 50,"TEXT_FESPDY202_02222_CHAMBERLAIN02222_100_001","小黃鶯的知名度達到了前所未有的高度！
 但是，或許還是會有人不認識她們。
 所以必須要再接再厲，繼續進行宣傳活動！"

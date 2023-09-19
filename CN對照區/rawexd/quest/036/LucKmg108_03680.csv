@@ -130,7 +130,7 @@ int32,str,str
 只要你點個頭，我隨時都可以上！"
 80,"TEXT_LUCKMG108_03680_SYSTEM_000_130","開始誘導采·努茲。
 找出不被塔羅斯和周圍魔物發現的時機，
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>發送信號。"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>發送信號。"
 81,"TEXT_LUCKMG108_03680_CHAINUZZ_000_300","哦哦！成功了！
 就這樣去捕獲下一個塔羅斯吧！"
 82,"TEXT_LUCKMG108_03680_CHAINUZZ_000_320","很好……很順利啊！

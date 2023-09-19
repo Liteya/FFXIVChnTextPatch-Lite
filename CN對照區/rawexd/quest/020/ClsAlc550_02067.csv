@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_CLSALC550_02067_SEQ_22",""
 23,"TEXT_CLSALC550_02067_SEQ_23",""
 24,"TEXT_CLSALC550_02067_TODO_00","和羅薇娜會館的查奈奈匯合"
-25,"TEXT_CLSALC550_02067_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作<Sheet(ItemHQ,12615,0)/><Else/>将<Sheet(ItemHQ,12615,0)/>交给罗薇娜</If>"
+25,"TEXT_CLSALC550_02067_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作<Sheet(ItemHQ,12615,0)/><Else/>將<Sheet(ItemHQ,12615,0)/>交給羅薇娜</If>"
 26,"TEXT_CLSALC550_02067_TODO_02","向威爾特維克報告"
 27,"TEXT_CLSALC550_02067_TODO_03","讓煉金術士公會的塞文利安查看<Sheet(EventItem,2001706,0)/>"
 28,"TEXT_CLSALC550_02067_TODO_04","將<Sheet(EventItem,2001706,0)/>交給喪靈鐘的威爾特維克"

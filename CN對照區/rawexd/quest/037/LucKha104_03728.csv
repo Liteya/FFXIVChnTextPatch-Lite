@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKHA104_03728_SEQ_22",""
 23,"TEXT_LUCKHA104_03728_SEQ_23",""
 24,"TEXT_LUCKHA104_03728_TODO_00","和馬爾塞盧瓦對話"
-25,"TEXT_LUCKHA104_03728_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获得<Sheet(Item,5768,0)/><Else/>将<Sheet(Item,5768,0)/>交给马尔塞卢瓦</If>"
+25,"TEXT_LUCKHA104_03728_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>獲得<Sheet(Item,5768,0)/><Else/>將<Sheet(Item,5768,0)/>交給馬爾塞盧瓦</If>"
 26,"TEXT_LUCKHA104_03728_TODO_02","和奧黛娜對話"
 27,"TEXT_LUCKHA104_03728_TODO_03","在<Sheet(EObj,2010924,0)/>等待"
 28,"TEXT_LUCKHA104_03728_TODO_04","和弗朗塞爾對話"
@@ -101,11 +101,11 @@ int32,str,str
 所以給他提供些軟膏的話，估計他會稍微舒服些吧。"
 70,"TEXT_LUCKHA104_03728_FRANCEL_000_035","類似這樣的東西，你能做出來嗎？"
 71,"TEXT_LUCKHA104_03728_MARCELLOIX_000_036","行，我試試看！"
-72,"TEXT_LUCKHA104_03728_MARCELLOIX_000_037",""
+72,"TEXT_LUCKHA104_03728_MARCELLOIX_000_037","（★未使用／削除予定★）"
 73,"TEXT_LUCKHA104_03728_FRANCEL_000_037","那就前往可以進行作業的地方吧。
 新巢居住區裡有個很適合的地方，
 跟我來！"
-74,"TEXT_LUCKHA104_03728_EHLLTOU_000_038",""
+74,"TEXT_LUCKHA104_03728_EHLLTOU_000_038","（★未使用／削除予定★）"
 75,"TEXT_LUCKHA104_03728_FRANCEL_000_040","這裡是為居民們服務的商店。
 材料費就由我來負擔，你可以隨便使用所有的東西。
 而且我也拿到了租店的許可。"

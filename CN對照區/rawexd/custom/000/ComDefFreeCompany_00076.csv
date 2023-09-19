@@ -183,7 +183,7 @@ int32,str,str
 97,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_86","任意職業達到25級時，
 才可以申請組建部隊、領取部隊組建書。"
 98,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_90","那麼，請決定部隊的簡稱。"
-99,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_95","部隊原本就隸屬於<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>啊。
+99,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_95","部隊原本就隸屬於<Switch(IntegerParameter(1))><Case(1)>黑渦團</Case><Case(2)>雙蛇黨</Case><Case(3)>恆輝隊</Case></Switch>啊。
 如果想要轉移到其他大國防聯軍，
 那麼請和該大國防聯軍的部隊管理負責人對話。"
 100,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_96","看上去部隊才剛剛轉籍不久啊，
@@ -193,7 +193,7 @@ int32,str,str
 不過其他參數、資產、權利和狀態保持不變。"
 103,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99","轉籍後經過24小時（地球時間）才可再次進行轉籍。"
 104,"TEXT_COMDEFFREECOMPANY_00076_Q5_01","要支付15000金幣的轉籍費用，
-轉到<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>嗎？"
+轉到<Switch(IntegerParameter(1))><Case(1)>黑渦團</Case><Case(2)>雙蛇黨</Case><Case(3)>恆輝隊</Case></Switch>嗎？"
 105,"TEXT_COMDEFFREECOMPANY_00076_A5_01","是"
 106,"TEXT_COMDEFFREECOMPANY_00076_A5_02","否"
 107,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_100","那麼，請決定部隊的新名稱。"

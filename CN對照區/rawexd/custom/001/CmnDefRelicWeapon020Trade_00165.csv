@@ -5,9 +5,9 @@ int32,str,str
 你想要強化哪件「上古武器」？
 ……拿來讓我看看。"
 1,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_TITLE","請選擇想要強化的「上古武器·天極」"
-2,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CHOICES","<If(Equal(IntegerParameter(1),6257))>强化<Sheet(Item,6257,0)/>和<Sheet(Item,6266,0)/><Else/>强化<Sheet(Item,IntegerParameter(1),0)/></If>"
+2,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CHOICES","<If(Equal(IntegerParameter(1),6257))>強化<Sheet(Item,6257,0)/>和<Sheet(Item,6266,0)/><Else/>強化<Sheet(Item,IntegerParameter(1),0)/></If>"
 3,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_MENU_CANCEL","取消"
-4,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_MESSAGE","<If(Equal(IntegerParameter(1),6257))>确定要强化<Sheet(Item,6257,0)/>和<Sheet(Item,6266,0)/>吗？<Else/>确定要强化<Sheet(Item,IntegerParameter(1),0)/>吗？</If>"
+4,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_MESSAGE","<If(Equal(IntegerParameter(1),6257))>確定要強化<Sheet(Item,6257,0)/>和<Sheet(Item,6266,0)/>嗎？<Else/>確定要強化<Sheet(Item,IntegerParameter(1),0)/>嗎？</If>"
 5,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_YES","是"
 6,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_YESNO_NO","否"
 7,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_020","咦……我沒看到你想要強化的上古武器啊。

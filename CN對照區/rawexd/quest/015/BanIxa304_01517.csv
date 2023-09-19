@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA304_01517_TODO_00","前往阿德內爾占星台的西側 從<Sheet(BNpcName,　788,0)/>身上獲取<Sheet(EventItem,2001405,0)/>"
 25,"TEXT_BANIXA304_01517_TODO_01","將<Sheet(EventItem,2001405,0)/>和<Sheet(EventItem,2001404,0)/>
 交給阿德內爾占星台的坦普爾頓"
-26,"TEXT_BANIXA304_01517_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务6级：制作<Sheet(ItemHQ,　8103,0)/><Else/>将<Sheet(ItemHQ,　8103,0)/>交给财务官罗佐尔·卡特兰</If>"
+26,"TEXT_BANIXA304_01517_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務6級：製作<Sheet(ItemHQ,　8103,0)/><Else/>將<Sheet(ItemHQ,　8103,0)/>交給財務官羅佐爾·卡特蘭</If>"
 27,"TEXT_BANIXA304_01517_TODO_03",""
 28,"TEXT_BANIXA304_01517_TODO_04",""
 29,"TEXT_BANIXA304_01517_TODO_05",""

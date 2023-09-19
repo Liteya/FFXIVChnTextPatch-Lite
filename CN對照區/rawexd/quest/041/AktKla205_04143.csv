@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_AKTKLA205_04143_SEQ_22",""
 23,"TEXT_AKTKLA205_04143_SEQ_23",""
 24,"TEXT_AKTKLA205_04143_TODO_00","尋找熱羅梅爾"
-25,"TEXT_AKTKLA205_04143_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35840)/><Else/>将<Sheet(ItemHQ,35840)/>交给帅气的男学生</If>"
+25,"TEXT_AKTKLA205_04143_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 魔法大學交易：製作<Sheet(ItemHQ,35840)/><Else/>將<Sheet(ItemHQ,35840)/>交給帥氣的男學生</If>"
 26,"TEXT_AKTKLA205_04143_TODO_02","和熱羅梅爾對話"
 27,"TEXT_AKTKLA205_04143_TODO_03","再次和熱羅梅爾對話"
 28,"TEXT_AKTKLA205_04143_TODO_04","和裘德對話"
@@ -70,7 +70,7 @@ int32,str,str
 56,"TEXT_AKTKLA205_04143_JUDE_000_009","謝謝你！
 我記得他好像說過他所屬的詩吟同好會常在海鸚廣場吟詩。"
 57,"TEXT_AKTKLA205_04143_JUDE_000_010","那我就在沉思林附近等著他過來了。"
-58,"TEXT_AKTKLA205_04143_JUDE_000_015",""
+58,"TEXT_AKTKLA205_04143_JUDE_000_015","（★未使用／削除予定★）"
 59,"TEXT_AKTKLA205_04143_COOLMALE04143_000_050","你是古典天文學研究會僱傭的工匠……對吧？
 找我有什麼事情嗎？
 你不會是真的來我們同好會做客的吧？"

@@ -152,7 +152,7 @@ int32,str,str
 我也覺得露出臉的拉蜜圖比較好。"
 95,"TEXT_LUCKBA241_03271_LAMITT_000_133","阿爾博特……"
 96,"TEXT_LUCKBA241_03271_GIOTT_000_134","我又得開始言不由衷地破口大罵了嗎？
-<Switch(PlayerParameter(71))><Case(1)>没心没肺的尘族</Case><Case(2)>傲慢的菁灵</Case><Case(3)>丢人的矮人</Case><Case(4)>长得像猫的猫秘</Case><Case(5)>肌肉硬邦邦的迦震</Case><Case(6)>浑身鳞片的朵龙</Case><Case(7)>死脑筋的隆索</Case><Case(8)>长着兔耳朵的维斯</Case></Switch><If(PlayerParameter(4))>丫头<Else/>小子</If>！！
+<Switch(PlayerParameter(71))><Case(1)>沒心沒肺的塵族</Case><Case(2)>傲慢的菁靈</Case><Case(3)>丟人的矮人</Case><Case(4)>長得像貓的貓秘</Case><Case(5)>肌肉硬邦邦的迦震</Case><Case(6)>渾身鱗片的朵龍</Case><Case(7)>死腦筋的隆索</Case><Case(8)>長著兔耳朵的維斯</Case></Switch><If(PlayerParameter(4))>丫頭<Else/>小子</If>！！
 你個大哥布林養的醜八怪！！"
 97,"TEXT_LUCKBA241_03271_GIOTT_000_135","你可算是醒了。"
 98,"TEXT_LUCKBA241_03271_GIOTT_000_136","這次可真是嚇到我了。

@@ -2,7 +2,7 @@
 #,ExpansionImage,ActivityFeedJA,ActivityFeedEN,ActivityFeedDE,ActivityFeedFR
 int32,str,str,str,str,str
 0,"ffxiv_activityfeed_v400_01_small.png","ffxiv_activityfeed_v400_01_large.png","ffxiv_activityfeed_v400_01_large.png","ffxiv_activityfeed_v400_01_large.png","ffxiv_activityfeed_v400_01_large.png"
-1,"","","","",""
+1,"ffxiv_activityfeed_v400_01_small.png","ffxiv_activityfeed_v000_01_large.png","ffxiv_activityfeed_v000_01_large.png","ffxiv_activityfeed_v000_01_large.png","ffxiv_activityfeed_v000_01_large.png"
 2,"ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png","ffxiv_activityfeed_large.png"
 3,"ffxiv_activityfeed_v400_01_small.png","ffxiv_activityfeed_v410_01_large_ja.png","ffxiv_activityfeed_v410_01_large_en.png","ffxiv_activityfeed_v410_01_large_de.png","ffxiv_activityfeed_v410_01_large_fr.png"
 4,"ffxiv_activityfeed_v400_01_small.png","ffxiv_activityfeed_v410_02_large_ja.png","ffxiv_activityfeed_v410_02_large_en.png","ffxiv_activityfeed_v410_02_large_de.png","ffxiv_activityfeed_v410_02_large_fr.png"

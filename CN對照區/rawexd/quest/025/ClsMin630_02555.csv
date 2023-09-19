@@ -31,7 +31,7 @@ int32,str,str
 25,"TEXT_CLSMIN630_02555_TODO_01","和克瑞斯特利姆對話"
 26,"TEXT_CLSMIN630_02555_TODO_02","和福克威達對話"
 27,"TEXT_CLSMIN630_02555_TODO_03","向斯提克奇克斯報告"
-28,"TEXT_CLSMIN630_02555_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在条纹丘采掘<Sheet(Item,17941,0)/><Else/>将<Sheet(Item,17941,0)/>交给斯提克奇克斯工房的斯提克奇克斯</If>"
+28,"TEXT_CLSMIN630_02555_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在條紋丘採掘<Sheet(Item,17941,0)/><Else/>將<Sheet(Item,17941,0)/>交給斯提克奇克斯工房的斯提克奇克斯</If>"
 29,"TEXT_CLSMIN630_02555_TODO_05","和諾諾瓦特對話"
 30,"TEXT_CLSMIN630_02555_TODO_06",""
 31,"TEXT_CLSMIN630_02555_TODO_07",""
@@ -193,6 +193,6 @@ int32,str,str
 106,"TEXT_CLSMIN630_02555_NONOWATO_000_112","不好意思，跟你發了牢騷！
 現在暫且沒有拜託給你的工作了，
 過一段時間再來找我吧！"
-107,"TEXT_CLSMIN630_02555_SYSTEM_000_120",""
+107,"TEXT_CLSMIN630_02555_SYSTEM_000_120","（★未使用／削除予定★）"
 108,"TEXT_CLSMIN630_02555_STICKQIX_000_084","（★未使用／削除予定★）"
 109,"TEXT_CLSMIN630_02555_FOHCWYDA_000_085","（★未使用／削除予定★）"

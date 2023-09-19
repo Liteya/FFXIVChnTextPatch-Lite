@@ -74,7 +74,7 @@ int32,str,str
 它與青年才俊一同期盼有人能與它共眠。
 沉眠，是孕育智慧的搖籃。」"
 57,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_024","(-沒有署名的信-)「另外一把鑰匙一邊傾聽著流水奔流而下的叮咚聲一邊等待著你。
-只要有人提到它最喜歡的金帽橡果的話，
+只要有人提到它最喜歡的金帽橡果（golden acorn）的話，
 它就會主動現身吧。」"
 58,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_025","(-沒有署名的信-)「最後一把鑰匙一邊接受著仙女的祝福，
 一邊沉浸於歌頌愛情的吟遊詩人的故事。
@@ -94,7 +94,7 @@ int32,str,str
 不惜隱藏自己的真實身份……"
 64,"TEXT_AKTKZI002_04317_MYSTERYSTUDENT04317_000_052","那麼我的任務已經完成，就先回去了。
 今後也要繼續精進技藝才行啊。"
-65,"TEXT_AKTKZI002_04317_SAYTODO_000_060","金帽橡果"
+65,"TEXT_AKTKZI002_04317_SAYTODO_000_060","golden acorn"
 66,"TEXT_AKTKZI002_04317_MYSTERYBOY04317_000_070","回答正確！
 我就知道你一定會找到我的。
 畢竟你可是那個人認可的冒險者啊。"
@@ -134,7 +134,7 @@ int32,str,str
 80,"TEXT_AKTKZI002_04317_MYSTERYLETTER04317_000_095","(-木箱中的信-)「實在是不好意思當面對你說這些話。
 雖然有些拐彎抹角，不過能告訴你真是太好了。
 謝謝你，<Highlight>ObjectParameter(1)</Highlight>。」"
-81,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_080",""
-82,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_081",""
-83,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_082",""
-84,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_083",""
+81,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_080","（★未使用／削除予定★）"
+82,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_081","（★未使用／削除予定★）"
+83,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_082","（★未使用／削除予定★）"
+84,"TEXT_AKTKZI002_04317_MYSTERYMAN04317_000_083","（★未使用／削除予定★）"

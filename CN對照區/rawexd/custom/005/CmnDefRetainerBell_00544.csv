@@ -51,8 +51,7 @@ int32,str,str
 29,"TEXT_CMNDEFRETAINERBELL_00544_ASK_RESET_CLASS","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>確定要將<Highlight>StringParameter(1)</Highlight>的<Sheet(ClassJob,IntegerParameter(2),0)/>（<Value>IntegerParameter(3)</Value>級）重置嗎？<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※<Highlight>StringParameter(1)</Highlight>的等級會變成1級。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(Equal(IntegerParameter(5),1))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※雇员探险：筹集委托的历史记录会被重置。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Else/></If>"
+"
 30,"TEXT_CMNDEFRETAINERBELL_00544_ASK_RESET_CLASS_CHECK","重置職業或特職"
 31,"TEXT_CMNDEFRETAINERBELL_00544_GO_BACK","返回"
 32,"TEXT_CMNDEFRETAINERBELL_00544_NO_CLASS_WARNING","要委託僱員探險，
@@ -139,8 +138,8 @@ int32,str,str
 85,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_VENTURES_6","可以用軍票交換獲得探險幣，
 也可以通過完成友好部族日常任務、公會理符任務獲得探險幣。"
 86,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_1","委託<Highlight>StringParameter(1)</Highlight>進行探險。"
-87,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_2","這次探險所需時間為<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/>1分钟</If></If>。
-在<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/>1分钟</If></If>後再來確認情況吧。"
+87,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_2","這次探險所需時間為<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/>1分鐘</If></If>。
+在<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分鐘<Else/>1分鐘</If></If>後再來確認情況吧。"
 88,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_3","僱員選單中追加了「查看僱員探險情況」一項。
 可以查看委託的內容和剩餘時間。"
 89,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_4","剩餘時間可以在僱員選單和任務情報中查看。"
@@ -236,7 +235,7 @@ int32,str,str
 163,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_ROEGADYN_FEMALE_TYPE4","有何貴幹？"
 164,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_ROEGADYN_FEMALE_TYPE5","讓你瞧瞧我的工作態度有多端正吧。"
 165,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_ROEGADYN_FEMALE_TYPE6","有事的話就交給我吧。"
-166,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_MALE_TYPE1","喲，<If(PlayerParameter(4))>小姐<Else/>老板</If>！
+166,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_MALE_TYPE1","喲，<If(PlayerParameter(4))>小姐<Else/>老闆</If>！
 今天找我是有什麼事啊！"
 167,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_MALE_TYPE2","跟我不要客氣，有話就說！"
 168,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_MALE_TYPE3","竟然敢直呼我的名字……
@@ -247,7 +246,7 @@ int32,str,str
 可別讓我做太麻煩的事情啊。"
 171,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_MALE_TYPE6","我是隨叫隨到的小跟班！
 我的主人，你找我是有什麼好事嗎？"
-172,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_FEMALE_TYPE1","你找我嗎，<If(PlayerParameter(4))>小姐<Else/>老板</If>？
+172,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_FEMALE_TYPE1","你找我嗎，<If(PlayerParameter(4))>小姐<Else/>老闆</If>？
 有什麼事你儘管說！"
 173,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_FEMALE_TYPE2","既然把我找來，想必是有什麼事吧？"
 174,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_FEMALE_TYPE3","你好像在叫我。
@@ -256,7 +255,7 @@ int32,str,str
 176,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_FEMALE_TYPE5","你確定是……要找我嗎？"
 177,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_AURA_FEMALE_TYPE6","呀吼！
 怎麼怎麼？你是不是想我了？"
-178,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_HROTHGAR_MALE_TYPE1","我來了<If(PlayerParameter(4))>小姐<Else/>老爷</If>。
+178,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_HROTHGAR_MALE_TYPE1","我來了<If(PlayerParameter(4))>小姐<Else/>老爺</If>。
 請問有什麼吩咐？"
 179,"TEXT_CMNDEFRETAINERBELL_00544_ENTER_HROTHGAR_MALE_TYPE2","有事找俺是吧？
 別顧忌什麼，快說吧。"
@@ -375,7 +374,7 @@ int32,str,str
 267,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE_AURA_FEMALE_TYPE6","那麼再見了！
 有什麼事的話可以隨時來找我哦。
 要是我心情好的話會過來看看的！"
-268,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE_HROTHGAR_MALE_TYPE1","能為<If(PlayerParameter(4))>小姐<Else/>老爷</If>服務是我的榮幸。
+268,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE_HROTHGAR_MALE_TYPE1","能為<If(PlayerParameter(4))>小姐<Else/>老爺</If>服務是我的榮幸。
 有事請隨時呼喚我。"
 269,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE_HROTHGAR_MALE_TYPE2","這點小活輕鬆加愉快。
 有事隨時再叫俺！"
@@ -469,7 +468,7 @@ int32,str,str
 343,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_ROEGADYN_FEMALE_TYPE4","我知道了。"
 344,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_ROEGADYN_FEMALE_TYPE5","有眼光，交給我是不會有錯的！"
 345,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_ROEGADYN_FEMALE_TYPE6","誠心誠意為你服務。"
-346,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_AURA_MALE_TYPE1","我會為了<If(PlayerParameter(4))>小姐<Else/>老板</If>上刀山下火海！
+346,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_AURA_MALE_TYPE1","我會為了<If(PlayerParameter(4))>小姐<Else/>老闆</If>上刀山下火海！
 開玩笑啦！你就好好期待我的回歸吧！"
 347,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_AURA_MALE_TYPE2","好嘞，打起精神出發吧！"
 348,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_AURA_MALE_TYPE3","今晚又要有可憐的小羊羔成為我的犧牲品了……
@@ -492,7 +491,7 @@ int32,str,str
 沒問題的！船到橋頭自然直～
 ……不過也不要抱太大希望哦！"
 358,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_HROTHGAR_MALE_TYPE1","放心交給我吧。
-絕不辜負<If(PlayerParameter(4))>小姐<Else/>老爷</If>的信賴。"
+絕不辜負<If(PlayerParameter(4))>小姐<Else/>老爺</If>的信賴。"
 359,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_HROTHGAR_MALE_TYPE2","包在俺身上！
 你就放心等好消息吧！"
 360,"TEXT_CMNDEFRETAINERBELL_00544_ACCEPT_HROTHGAR_MALE_TYPE3","竟敢對本大爺下令……也罷。"
@@ -594,7 +593,7 @@ int32,str,str
 441,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_AURA_MALE_TYPE6","嘿嘿嘿……不必多言。
 你的喜悅心情我已經完全感受到了！"
 442,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_AURA_FEMALE_TYPE1","……你喜歡嗎？
-希望這個能夠帶給<If(PlayerParameter(4))>小姐<Else/>老板</If>你好運！"
+希望這個能夠帶給<If(PlayerParameter(4))>小姐<Else/>老闆</If>你好運！"
 443,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_AURA_FEMALE_TYPE2","嘿嘿！簡直小菜一碟！
 啊，出了點汗還挺舒服！"
 444,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_AURA_FEMALE_TYPE3","拿去吧。
@@ -605,7 +604,7 @@ int32,str,str
 447,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_AURA_FEMALE_TYPE6","你看，是不是覺得把事情交給我去做很明智？
 我這趟可是拼了老命的，只不過表面看不出來罷了！"
 448,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_HROTHGAR_MALE_TYPE1","怎麼樣？
-我還是挺有自信的，希望<If(PlayerParameter(4))>小姐<Else/>老爷</If>喜歡。"
+我還是挺有自信的，希望<If(PlayerParameter(4))>小姐<Else/>老爺</If>喜歡。"
 449,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_HROTHGAR_MALE_TYPE2","接好。
 真是太簡單了。"
 450,"TEXT_CMNDEFRETAINERBELL_00544_COMPLETE_HROTHGAR_MALE_TYPE3","哼，滿意了嗎？
@@ -721,7 +720,7 @@ int32,str,str
 531,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_AURA_MALE_TYPE6","你就那麼急著想見我嗎？！
 哈哈哈，其實我也一樣！"
 532,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_AURA_FEMALE_TYPE1","來了、來了！
-<If(PlayerParameter(4))>小姐<Else/>老板</If>，怎麼了？"
+<If(PlayerParameter(4))>小姐<Else/>老闆</If>，怎麼了？"
 533,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_AURA_FEMALE_TYPE2","別一點小事就叫我回來，真是的！
 沒有我你就什麼都幹不了嗎？"
 534,"TEXT_CMNDEFRETAINERBELL_00544_ENTER2_AURA_FEMALE_TYPE3","竟然在我冒險的時候叫我回來，你還真是會指使人。
@@ -855,7 +854,7 @@ int32,str,str
 627,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_AURA_FEMALE_TYPE6","那我繼續冒險了。
 你要是感到寂寞了我可不管，拜拜！"
 628,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_HROTHGAR_MALE_TYPE1","有事請再叫我。
-為<If(PlayerParameter(4))>小姐<Else/>老爷</If>排憂解難是我的職責。"
+為<If(PlayerParameter(4))>小姐<Else/>老爺</If>排憂解難是我的職責。"
 629,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_HROTHGAR_MALE_TYPE2","你就這點事？
 好吧，那有事再找俺。"
 630,"TEXT_CMNDEFRETAINERBELL_00544_LEAVE2_HROTHGAR_MALE_TYPE3","沒有其他遺漏了吧？
@@ -950,7 +949,7 @@ int32,str,str
 703,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_ROEGADYN_FEMALE_TYPE4","我回來了。"
 704,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_ROEGADYN_FEMALE_TYPE5","結束了一件工作！"
 705,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_ROEGADYN_FEMALE_TYPE6","我回來了。"
-706,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_AURA_MALE_TYPE1","<If(PlayerParameter(4))>小姐<Else/>老板</If>，我回來了！
+706,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_AURA_MALE_TYPE1","<If(PlayerParameter(4))>小姐<Else/>老闆</If>，我回來了！
 這是我給你的禮物！請收下吧。"
 707,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_AURA_MALE_TYPE2","我可是全力以赴了！"
 708,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_AURA_MALE_TYPE3","恭迎我的回歸吧！
@@ -971,7 +970,7 @@ int32,str,str
 717,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_AURA_FEMALE_TYPE6","你回來了！
 ……哎呀不對，是我回來了！誒嘿嘿～"
 718,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_HROTHGAR_MALE_TYPE1","我回來了。
-有些迫不及待想要向<If(PlayerParameter(4))>小姐<Else/>老爷</If>彙報。"
+有些迫不及待想要向<If(PlayerParameter(4))>小姐<Else/>老爺</If>彙報。"
 719,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_HROTHGAR_MALE_TYPE2","俺回來了。
 看到俺帶回來的東西後可別太過吃驚哦？"
 720,"TEXT_CMNDEFRETAINERBELL_00544_ENTER3_HROTHGAR_MALE_TYPE3","你的要求已經全部達成。"

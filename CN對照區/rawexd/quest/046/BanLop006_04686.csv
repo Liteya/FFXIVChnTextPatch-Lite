@@ -83,7 +83,7 @@ int32,str,str
 61,"TEXT_BANLOP006_04686_COININGWAY_000_014","這也是多虧<Highlight>ObjectParameter(1)</Highlight>閣下對我們的活動鼎力支持，
 才有了如今的成果。
 在此請允許我重新向你表示感謝。"
-62,"TEXT_BANLOP006_04686_SYSTEM_000_015"," "
+62,"TEXT_BANLOP006_04686_SYSTEM_000_015","（★未使用／削除予定★）"
 63,"TEXT_BANLOP006_04686_COININGWAY_000_016","沒想到我會收到薩雷安學者的來信……
 這是何等的幸福！"
 64,"TEXT_BANLOP006_04686_INVENTINGWAY_000_020","喲！最近過得怎麼樣？
@@ -91,7 +91,7 @@ int32,str,str
 我一點都沒騙你！"
 65,"TEXT_BANLOP006_04686_INVENTINGWAY_000_021","總有一天我也會做出讓你瞠目結舌的超級機器，
 你就拭目以待吧！"
-66,"TEXT_BANLOP006_04686_INVENTINGWAY_000_022",""
+66,"TEXT_BANLOP006_04686_INVENTINGWAY_000_022","（★未使用／削除予定★）"
 67,"TEXT_BANLOP006_04686_INVENTINGWAY_000_023","從亞伊太利斯來的信件？
 到底是誰寫的？"
 68,"TEXT_BANLOP006_04686_INVENTINGWAY_000_024","讓我瞧瞧……
@@ -105,7 +105,7 @@ int32,str,str
 71,"TEXT_BANLOP006_04686_INVENTINGWAY_000_027","照這樣看來，
 亞伊太利斯開發印有我名字機器的日子應該不遠了！
 啊哈哈哈哈！"
-72,"TEXT_BANLOP006_04686_SYSTEM_000_028",""
+72,"TEXT_BANLOP006_04686_SYSTEM_000_028","（★未使用／削除予定★）"
 73,"TEXT_BANLOP006_04686_INVENTINGWAY_000_029","照這樣看來，
 亞伊太利斯開發印有我名字機器的日子應該不遠了！
 啊哈哈哈哈！"
@@ -128,7 +128,7 @@ int32,str,str
 81,"TEXT_BANLOP006_04686_COOKINGWAY_000_037","方便的話，
 <Highlight>ObjectParameter(1)</Highlight>你也定期過來試吃一下吧，
 我想聽聽你的感想。"
-82,"TEXT_BANLOP006_04686_SYSTEM_000_038",""
+82,"TEXT_BANLOP006_04686_SYSTEM_000_038","（★未使用／削除予定★）"
 83,"TEXT_BANLOP006_04686_COOKINGWAY_000_039","哦，<Highlight>ObjectParameter(1)</Highlight>。
 你定期過來試吃一下吧，
 我想聽聽你的感想。"
@@ -145,14 +145,14 @@ int32,str,str
 我的夢想是長大以後播送廣播！」"
 89,"TEXT_BANLOP006_04686_TALKINGWAY_000_045","沒想到從月球通過電台廣播也能幫到亞伊太利斯上的人……
 沒有比這個更令人高興的事情了。"
-90,"TEXT_BANLOP006_04686_TALKINGWAY_000_046",""
-91,"TEXT_BANLOP006_04686_TALKINGWAY_000_047",""
+90,"TEXT_BANLOP006_04686_TALKINGWAY_000_046","（★未使用／削除予定★）"
+91,"TEXT_BANLOP006_04686_TALKINGWAY_000_047","（★未使用／削除予定★）"
 92,"TEXT_BANLOP006_04686_TALKINGWAY_000_048","不過話說回來，從月球播送廣播這種想法，
 我肯定想不出來。
 夢明威的行動力和想像力都令人佩服啊。"
 93,"TEXT_BANLOP006_04686_TALKINGWAY_000_049","當然，其中也多虧了你的幫忙。
 我要再次謝謝你。"
-94,"TEXT_BANLOP006_04686_TALKINGWAY_000_050",""
+94,"TEXT_BANLOP006_04686_TALKINGWAY_000_050","（★未使用／削除予定★）"
 95,"TEXT_BANLOP006_04686_TALKINGWAY_000_051","對了，還有一件事……"
 96,"TEXT_BANLOP006_04686_TALKINGWAY_000_052","可能是因為我很長時間都是一個人度過的，
 也有可能是因為剛開始廣播，
@@ -173,7 +173,7 @@ int32,str,str
 106,"TEXT_BANLOP006_04686_SYSTEM_000_059","將信件交給了談興威。"
 107,"TEXT_BANLOP006_04686_SYSTEM_100_059","將所有的信件都送到了兔兔族手中，
 向夢明威報告吧！"
-108,"TEXT_BANLOP006_04686_TALKINGWAY_110_059",""
+108,"TEXT_BANLOP006_04686_TALKINGWAY_110_059","（★未使用／削除予定★）"
 109,"TEXT_BANLOP006_04686_DREAMINGWAY_000_060","<Highlight>ObjectParameter(1)</Highlight>！
 信件都送到大家手裡了嗎？"
 110,"TEXT_BANLOP006_04686_DREAMINGWAY_000_061","看來大家都很高興啊！
@@ -184,7 +184,7 @@ int32,str,str
 有很多人想收聽卻聽不了……"
 113,"TEXT_BANLOP006_04686_DREAMINGWAY_000_064","所以為了進一步普及收音機，
 發明威已經開始招募同伴，著手量產收音機了！"
-114,"TEXT_BANLOP006_04686_DREAMINGWAY_000_065",""
+114,"TEXT_BANLOP006_04686_DREAMINGWAY_000_065","（★未使用／削除予定★）"
 115,"TEXT_BANLOP006_04686_DREAMINGWAY_000_066","計劃完成之後贈送給亞伊太利斯！
 這樣一來就會有更多的人來聽我們的廣播了，
 大家都已經開始為此興奮不已了！"

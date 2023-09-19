@@ -34,7 +34,7 @@ int32,str,str
 26,"TEXT_CLSALC650_02438_TODO_02","和艾拉里格墓地的芙·拉敏對話"
 27,"TEXT_CLSALC650_02438_TODO_03","和古雷因法爾對話"
 28,"TEXT_CLSALC650_02438_TODO_04","和煉金術士公會的塞文利安對話"
-29,"TEXT_CLSALC650_02438_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17928,0)/><Else/>将<Sheet(ItemHQ,17928,0)/>交给艾拉里格墓地前的古雷因法尔</If>"
+29,"TEXT_CLSALC650_02438_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17928,0)/><Else/>將<Sheet(ItemHQ,17928,0)/>交給艾拉里格墓地前的古雷因法爾</If>"
 30,"TEXT_CLSALC650_02438_TODO_06",""
 31,"TEXT_CLSALC650_02438_TODO_07",""
 32,"TEXT_CLSALC650_02438_TODO_08",""

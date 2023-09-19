@@ -33,7 +33,7 @@ int32,str,str
 25,"TEXT_CLSWVR630_02432_TODO_01","和琴蝶對話"
 26,"TEXT_CLSWVR630_02432_TODO_02","向啟明報告"
 27,"TEXT_CLSWVR630_02432_TODO_03","和矢切對話並領取<Sheet(Item,17917,0)/>"
-28,"TEXT_CLSWVR630_02432_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17918,0)/><Else/>将<Sheet(ItemHQ,17918,0)/>交给启明</If>"
+28,"TEXT_CLSWVR630_02432_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 職業任務：製作<Sheet(ItemHQ,17918,0)/><Else/>將<Sheet(ItemHQ,17918,0)/>交給啟明</If>"
 29,"TEXT_CLSWVR630_02432_TODO_05",""
 30,"TEXT_CLSWVR630_02432_TODO_06",""
 31,"TEXT_CLSWVR630_02432_TODO_07",""
@@ -142,7 +142,7 @@ int32,str,str
 可以通過和相關非玩家角色對話再次獲得材料。"
 81,"TEXT_CLSWVR630_02432_SYSTEM_000_046","讓我們來實際體驗一下吧！
 打開「製作筆記」裡的「特殊配方」，
-從「職業任務」中選擇要製作的道具後，就可以開始製作了。"
+從「職業故事」中選擇要製作的道具後，就可以開始製作了。"
 82,"TEXT_CLSWVR630_02432_YAGIRI_000_048","禮服的好壞影響著大天屋的未來。
 我會全力協助您的，如果材料不夠的話請跟我說。"
 83,"TEXT_CLSWVR630_02432_YAGIRI_000_049","<Sheet(ItemHQ,17918,0)/>似乎做好了啊，

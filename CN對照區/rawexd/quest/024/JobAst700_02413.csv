@@ -53,7 +53,7 @@ int32,str,str
 45,"TEXT_JOBAST700_02413_TODO_21",""
 46,"TEXT_JOBAST700_02413_TODO_22",""
 47,"TEXT_JOBAST700_02413_TODO_23",""
-48,"TEXT_JOBAST700_02413_KYOKUHO_000_000","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，你來得正好！
+48,"TEXT_JOBAST700_02413_KYOKUHO_000_000","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，你來得正好！
 群雲老爺子去調查結界的情況，
 結果就一去不回了……"
 49,"TEXT_JOBAST700_02413_KYOKUHO_000_001","我擔心他碰上惡靈了，
@@ -63,8 +63,8 @@ int32,str,str
 是不是為了讓你所說的「黃金港危機」成真，
 而親自動手製造災難啊？"
 51,"TEXT_JOBAST700_02413_KYOKUHO_000_009","如你所見，我被麻煩的傢伙纏上了，
-我會隨便應付應付他們的，<If(PlayerParameter(4))>师姐<Else/>师兄</If>快去找群雲老爺子吧。"
-52,"TEXT_JOBAST700_02413_KYOKUHO_000_010","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，找到群雲了嗎？"
+我會隨便應付應付他們的，<If(PlayerParameter(4))>師姐<Else/>師兄</If>快去找群雲老爺子吧。"
+52,"TEXT_JOBAST700_02413_KYOKUHO_000_010","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，找到群雲了嗎？"
 53,"TEXT_JOBAST700_02413_KYOKUHO_000_011","沒找到嗎……他到底去了哪裡？
 祠堂的結界也變得十分不穩定……
 再這樣下去真的危險了！"
@@ -80,7 +80,7 @@ int32,str,str
 57,"TEXT_JOBAST700_02413_KYOKUHO_000_015","哎，真是對牛彈琴！
 你們利慾熏心到這麼強烈的氣息都感受不到了嗎？！
 那隻好奉勸你們趕緊躲好，不要受傷了！"
-58,"TEXT_JOBAST700_02413_KYOKUHO_000_016","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，我們去小防波堤吧！"
+58,"TEXT_JOBAST700_02413_KYOKUHO_000_016","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，我們去小防波堤吧！"
 59,"TEXT_JOBAST700_02413_UDOKU_000_019","哼，散布黃金港危機謠言的投機風水師，
 我們善良的風水師是不會買你自導自演的帳的！"
 60,"TEXT_JOBAST700_02413_KYOKUHO_000_020","群雲老爺子……堅持住！
@@ -103,7 +103,7 @@ int32,str,str
 太得不償失了啊！"
 67,"TEXT_JOBAST700_02413_KYOKUHO_000_027","我不要犧牲任何一方！
 如果風水術派不上用場，那能不能藉助占星術的力量……"
-68,"TEXT_JOBAST700_02413_KYOKUHO_000_028","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，占星術是開闢命運的本領吧？！
+68,"TEXT_JOBAST700_02413_KYOKUHO_000_028","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，占星術是開闢命運的本領吧？！
 你有沒有什麼好辦法？！"
 69,"TEXT_JOBAST700_02413_Q1_000_000","用什麼方法拯救黃金港？"
 70,"TEXT_JOBAST700_02413_A1_000_001","用天之力代替活祭"
@@ -204,7 +204,7 @@ int32,str,str
 當這些因素交匯之時，便能獲得新的希望……
 奧秘卡占卜的結果十分準確……"
 123,"TEXT_JOBAST700_02413_KYOKUHOU_000_080","（★未使用／削除予定★）"
-124,"TEXT_JOBAST700_02413_KYOKUHO_000_080","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，蕾薇瓦老師！！
+124,"TEXT_JOBAST700_02413_KYOKUHO_000_080","<If(PlayerParameter(4))>師姐<Else/>師兄</If>，蕾薇瓦老師！！
 謝謝你們為了黃金港拼上性命！"
 125,"TEXT_JOBAST700_02413_LEVEVA_000_081","我也打心底感謝你們二人的協助。
 多虧<Highlight>ObjectParameter(1)</Highlight>這座「橋樑」，

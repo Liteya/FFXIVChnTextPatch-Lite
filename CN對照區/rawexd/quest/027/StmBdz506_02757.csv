@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_STMBDZ506_02757_SEQ_22",""
 23,"TEXT_STMBDZ506_02757_SEQ_23",""
 24,"TEXT_STMBDZ506_02757_TODO_00","在「說話」頻道下輸入含有「鹹魚乾」的詞句
-提起<Sheet(EObj,2008168,0)/>周圍客人的興趣"
+提起<Sheet(EObj,2008168,0)/>周圍客人的興趣 (smoked fish from Isari)"
 25,"TEXT_STMBDZ506_02757_TODO_01","向善知報告"
 26,"TEXT_STMBDZ506_02757_TODO_02",""
 27,"TEXT_STMBDZ506_02757_TODO_03",""
@@ -67,7 +67,7 @@ int32,str,str
 53,"TEXT_STMBDZ506_02757_SYSTEM_000_005","將聊天頻道設定為「說話」頻道後，
 使用鍵盤或軟鍵盤輸入含有「鹹魚乾」的詞句，
 提起重逢集市上客人們的興趣。"
-54,"TEXT_STMBDZ506_02757_SAYTODO_000_000","鹹魚乾"
+54,"TEXT_STMBDZ506_02757_SAYTODO_000_000","smoked fish from Isari"
 55,"TEXT_STMBDZ506_02757_GUESTA02757_000_010","(-男性獵人-)嘿……鹹魚啊。
 做成乾貨了，肯定方便保存，
 一會去店裡看看好了。"

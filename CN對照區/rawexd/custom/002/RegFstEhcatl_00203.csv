@@ -35,7 +35,7 @@ int32,str,str
 你聽好了！可不要把實驗場的事到處亂說！"
 17,"TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_027","要是敢背叛我們，就把你毛拔光吊起來抽！
 給我記住！"
-18,"TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_100","哦哦哦！我還以為是誰呢，原來是<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>啊！
+18,"TEXT_REGFSTEHCATL_00203_RAZELHUIZAN_000_100","哦哦哦！我還以為是誰呢，原來是<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>啊！
 怎麼了？找我有什麼事嗎？"
 19,"TEXT_REGFSTEHCATL_00203_Q2_000_000","想了解什麼？"
 20,"TEXT_REGFSTEHCATL_00203_A2_000_001","最近怎麼樣？"

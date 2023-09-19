@@ -2,7 +2,7 @@
 #,Name,Description,Page[0],Page[1],Page[2],Page[3],Page[4],Page[5],Page[6],Page[7]
 int32,str,str,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage
 0,"","",0,0,0,0,0,0,0,0
-1,"南方博茲雅戰線","",1,2,3,4,5,6,0,0
-2,"迷宮挑戰","",7,8,9,10,11,12,13,14
-3,"多變迷宮","",15,16,17,18,0,0,0,0
-4,"開拓無人島","",19,20,21,22,0,0,0,0
+1,"THE BOZJAN SOUTHERN FRONT","南方博茲雅戰線",1,2,3,4,5,6,0,0
+2,"CONTENTS : DUNGEON","迷宮攻略",7,8,9,10,11,12,13,14
+3,"VARIANT DUNGEON","英勇地牢",15,16,17,18,0,0,0,0
+4,"ISLAND SANCTUARY","無人島開拓",19,20,21,22,0,0,0,0

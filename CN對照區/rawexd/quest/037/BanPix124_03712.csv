@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_BANPIX124_03712_SEQ_22",""
 23,"TEXT_BANPIX124_03712_SEQ_23",""
 24,"TEXT_BANPIX124_03712_TODO_00","在普拉恩尼茸洞尋找特訓中的仙子
-在「說話」頻道下輸入「河狸」呼喚他"
+在「說話」頻道下輸入「河狸」呼喚他 (Beaver)"
 25,"TEXT_BANPIX124_03712_TODO_01","和烏因·尼伊對話"
 26,"TEXT_BANPIX124_03712_TODO_02",""
 27,"TEXT_BANPIX124_03712_TODO_03",""
@@ -82,4 +82,4 @@ int32,str,str
 58,"TEXT_BANPIX124_03712_UINNEE_000_022","果然還是要像夜之民一樣，
 過著在森林裡捉迷藏似的那種生活才行嗎？
 我們還會繼續努力特訓的！"
-59,"TEXT_BANPIX124_03712_SAYTODO_000_030","河狸"
+59,"TEXT_BANPIX124_03712_SAYTODO_000_030","Beaver"

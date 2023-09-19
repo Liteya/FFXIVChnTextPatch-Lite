@@ -129,9 +129,9 @@ int32,str,str
 87,"TEXT_STMBDY004_03077_PHILIOT_000_046","抱歉，我們有事找凱茲爾·伊茨坎。"
 88,"TEXT_STMBDY004_03077_SEZULTOTOLOC_000_047","什麼？你們是……"
 89,"TEXT_STMBDY004_03077_SEZULTOTOLOC_000_048","喂喂？！
-這不是<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>嘛！
+這不是<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>嘛！
 找我有什麼事嗎！"
-90,"TEXT_STMBDY004_03077_SEZULTOTOLOC_000_049","哦，這不是<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>嘛！
+90,"TEXT_STMBDY004_03077_SEZULTOTOLOC_000_049","哦，這不是<If(PlayerParameter(4))>小美女<Else/>小帥哥</If>嘛！
 找我有什麼事嗎！"
 91,"TEXT_STMBDY004_03077_SEZULTOTOLOC_000_050","什麼？！
 人類大老遠來到這鳥不拉屎的地方有什麼事？！"

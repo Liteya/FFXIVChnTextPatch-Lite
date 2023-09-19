@@ -60,7 +60,7 @@ int32,str,str
 名字就叫……望海天石！"
 51,"TEXT_HEAVNY809_02118_ADVENTURER02118_000_003","從封底橋出去到龍堡內陸低地，
 有一個指路的好心冒險者會給你說明詳情的。
-……那麼<If(PlayerParameter(4))>美女<Else/>帅哥</If>，我們戰場上見了！"
+……那麼<If(PlayerParameter(4))>美女<Else/>帥哥</If>，我們戰場上見了！"
 52,"TEXT_HEAVNY809_02118_ONETIMEGUIDE_000_010","哦，你是想問關於望海天石的事情嗎？
 好啊好啊，我很樂意給你介紹！"
 53,"TEXT_HEAVNY809_02118_ONETIMEGUIDE_000_011","最近挑戰強敵的冒險者逐漸增多了，

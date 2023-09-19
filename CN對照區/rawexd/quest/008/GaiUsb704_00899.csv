@@ -56,7 +56,7 @@ int32,str,str
 ……那傢伙傷了我們家不少傭人和傭兵。
 不要以為只是普通的狼而掉以輕心啊。加油吧。"
 50,"TEXT_GAIUSB704_00899_DUMMY_000_010","討伐狼，獲取4張<Sheet(EventItem,2000703,0)/>"
-51,"TEXT_GAIUSB704_00899_DUMMYTODO_000_010","無"
+51,"TEXT_GAIUSB704_00899_DUMMYTODO_000_010","（★未使用／削除予定★）"
 52,"TEXT_GAIUSB704_00899_CORENTIAUX_000_020","幹掉<Sheet(BNpcName,659,0)/>了嗎？
 如果已經完成的話，就把證物交給我。"
 53,"TEXT_GAIUSB704_00899_CORENTIAUX_100_020","……嗯，這確實是<Sheet(EventItem,2000703,0)/>。

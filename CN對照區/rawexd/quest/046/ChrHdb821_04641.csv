@@ -295,7 +295,7 @@ int32,str,str
 我知道了，我幫你們找那個不明飛行物體就是了！
 我可是這方面的專家！"
 174,"TEXT_CHRHDB821_04641_SYSTEM_000_150","開始尋找不明飛行物體。
-如果發現值得注意的點，在瞄準後點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行確認！"
+如果發現值得注意的點，在瞄準後點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 175,"TEXT_CHRHDB821_04641_NASHUMHAKARACCA_100_151","啊，在那裡！"
 176,"TEXT_CHRHDB821_04641_NASHUMHAKARACCA_000_151","不明飛行物體往那邊飛了！
 快追！"

@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_001","看來你做好準備領取專家之證了？
 那麼，就告訴我你想要在哪條道路上達到終極吧。"
 1,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_TITLE","要接受哪個職業的專家製作認證？"
-2,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CLASS","<Sheet(ClassJob,IntegerParameter(1),0)/> <If(Equal(IntegerParameter(2),1))>[专家制作]<Else/></If>"
+2,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CLASS","<Sheet(ClassJob,IntegerParameter(1),0)/> <If(Equal(IntegerParameter(2),1))>[專家製作]<Else/></If>"
 3,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_EXPLAIN","詢問有關「專家製作」的事情"
 4,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CANCEL","取消"
 5,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_010","你想要將<Sheet(ClassJob,IntegerParameter(1),0)/>認定為專家製作嗎？"

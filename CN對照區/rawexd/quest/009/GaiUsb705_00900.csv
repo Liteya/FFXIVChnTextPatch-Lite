@@ -62,7 +62,7 @@ int32,str,str
 請你去東北的「魔胃洞」，
 討伐那些<Sheet(BNpcName,2918,0)/>。"
 52,"TEXT_GAIUSB705_00900_DUMMY_000_010","討伐4隻<Sheet(BNpcName,2918,0)/>"
-53,"TEXT_GAIUSB705_00900_DUMMYTODO_000_010","無"
+53,"TEXT_GAIUSB705_00900_DUMMYTODO_000_010","（★未使用／削除予定★）"
 54,"TEXT_GAIUSB705_00900_CORENTIAUX_000_020","……什麼，已經打倒那些<Sheet(BNpcName,2918,0)/>了嗎？！
 喔喔……厲害！太精彩了！
 想像你將那些魔物給打得七零八落的景象，我就……"

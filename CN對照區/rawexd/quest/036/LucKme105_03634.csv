@@ -107,7 +107,7 @@ int32,str,str
 現在應該還能看到那個人的身影。"
 73,"TEXT_LUCKME105_03634_SYSTEM_000_110","開始尋找「神秘的人影」。
 如果發現了符合描述的人，在瞄準後
-點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>進行確認！"
+點擊<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>進行確認！"
 74,"TEXT_LUCKME105_03634_ALISAIE_000_111","有人在對吧？
 搞不清楚是誰總覺得有點害怕，
 要不我們追上去看看？"

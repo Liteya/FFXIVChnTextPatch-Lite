@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_LUCKZI011_03547_TODO_22",""
 47,"TEXT_LUCKZI011_03547_TODO_23",""
 48,"TEXT_LUCKZI011_03547_GOURMET03547_000_000","哇哦，你是誰？！
-……啊，你是<Switch(PlayerParameter(71))><Case(1)>从外面来的旅行者吧！</Case><Case(2)>从外面来的旅行者吧！</Case><Case(3)>村长说的住在外面的矮人吧！</Case><Case(4)>从外面来的旅行者吧！</Case><Case(5)>从外面来的旅行者吧！</Case><Case(6)>从外面来的旅行者吧！</Case><Case(7)>从外面来的旅行者吧！</Case><Case(8)>从外面来的旅行者吧！</Case></Switch>"
+……啊，你是<Switch(PlayerParameter(71))><Case(1)>從外面來的旅行者吧！</Case><Case(2)>從外面來的旅行者吧！</Case><Case(3)>村長說的住在外面的矮人吧！</Case><Case(4)>從外面來的旅行者吧！</Case><Case(5)>從外面來的旅行者吧！</Case><Case(6)>從外面來的旅行者吧！</Case><Case(7)>從外面來的旅行者吧！</Case><Case(8)>從外面來的旅行者吧！</Case></Switch>"
 49,"TEXT_LUCKZI011_03547_GOURMET03547_000_001","不好意思啊，因為沒見過你我還嚇了一跳……啦哩吼！
 為了向你表示歉意，要不要一起來吃肉排啊？
 我說的可是有名的壁崖鼴鼠肉排哦！"
