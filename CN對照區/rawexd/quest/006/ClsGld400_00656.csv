@@ -1,0 +1,114 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CLSGLD400_00656_SEQ_00","雕金匠公會的賽倫蒂碧提，想為冒險者介紹工作。"
+1,"TEXT_CLSGLD400_00656_SEQ_01","接受了賽倫蒂碧提的委託。讓烏爾達哈雕金匠公會的賽倫蒂碧提查看<Sheet(ItemHQ,　2125,0)/>。"
+2,"TEXT_CLSGLD400_00656_SEQ_02","讓賽倫蒂碧提查看了<Sheet(ItemHQ,　2125,0)/>。將<Sheet(ItemHQ,　2125,0)/>交給烏爾達哈紅玉大路國際市場的羅羅特恩。"
+3,"TEXT_CLSGLD400_00656_SEQ_03","將<Sheet(ItemHQ,　2125,0)/>交給了羅羅特恩。向烏爾達哈雕金匠公會的賽倫蒂碧提報告。"
+4,"TEXT_CLSGLD400_00656_SEQ_04","向賽倫蒂碧提報告完畢。有關狐狸傑德的傳聞讓整個烏爾達哈惶惶不安。經手高額物品的雕金匠們要注意一下了。對欺詐師提高警惕，同時磨練雕金匠的手藝。
+
+※雕金匠的等級達到45級以上時，可以從賽倫蒂碧提那裡領取下一個雕金匠任務。"
+5,"TEXT_CLSGLD400_00656_SEQ_05","空"
+6,"TEXT_CLSGLD400_00656_SEQ_06","空"
+7,"TEXT_CLSGLD400_00656_SEQ_07","空"
+8,"TEXT_CLSGLD400_00656_SEQ_08","空"
+9,"TEXT_CLSGLD400_00656_SEQ_09","空"
+10,"TEXT_CLSGLD400_00656_SEQ_10","空"
+11,"TEXT_CLSGLD400_00656_SEQ_11","空"
+12,"TEXT_CLSGLD400_00656_SEQ_12","空"
+13,"TEXT_CLSGLD400_00656_SEQ_13","空"
+14,"TEXT_CLSGLD400_00656_SEQ_14","空"
+15,"TEXT_CLSGLD400_00656_SEQ_15","空"
+16,"TEXT_CLSGLD400_00656_SEQ_16","空"
+17,"TEXT_CLSGLD400_00656_SEQ_17","空"
+18,"TEXT_CLSGLD400_00656_SEQ_18","空"
+19,"TEXT_CLSGLD400_00656_SEQ_19","空"
+20,"TEXT_CLSGLD400_00656_SEQ_20","空"
+21,"TEXT_CLSGLD400_00656_SEQ_21","空"
+22,"TEXT_CLSGLD400_00656_SEQ_22","空"
+23,"TEXT_CLSGLD400_00656_SEQ_23","空"
+24,"TEXT_CLSGLD400_00656_TODO_00","讓賽倫蒂碧提查看<Sheet(ItemHQ,　2125,0)/>"
+25,"TEXT_CLSGLD400_00656_TODO_01","將<Sheet(ItemHQ,　2125,0)/>交給紅玉大路國際市場的羅羅特恩"
+26,"TEXT_CLSGLD400_00656_TODO_02","向雕金匠公會的賽倫蒂碧提報告"
+27,"TEXT_CLSGLD400_00656_TODO_03","空"
+28,"TEXT_CLSGLD400_00656_TODO_04","空"
+29,"TEXT_CLSGLD400_00656_TODO_05","空"
+30,"TEXT_CLSGLD400_00656_TODO_06","空"
+31,"TEXT_CLSGLD400_00656_TODO_07","空"
+32,"TEXT_CLSGLD400_00656_TODO_08","空"
+33,"TEXT_CLSGLD400_00656_TODO_09","空"
+34,"TEXT_CLSGLD400_00656_TODO_10","空"
+35,"TEXT_CLSGLD400_00656_TODO_11","空"
+36,"TEXT_CLSGLD400_00656_TODO_12","空"
+37,"TEXT_CLSGLD400_00656_TODO_13","空"
+38,"TEXT_CLSGLD400_00656_TODO_14","空"
+39,"TEXT_CLSGLD400_00656_TODO_15","空"
+40,"TEXT_CLSGLD400_00656_TODO_16","空"
+41,"TEXT_CLSGLD400_00656_TODO_17","空"
+42,"TEXT_CLSGLD400_00656_TODO_18","空"
+43,"TEXT_CLSGLD400_00656_TODO_19","空"
+44,"TEXT_CLSGLD400_00656_TODO_20","空"
+45,"TEXT_CLSGLD400_00656_TODO_21","空"
+46,"TEXT_CLSGLD400_00656_TODO_22","空"
+47,"TEXT_CLSGLD400_00656_TODO_23","空"
+48,"TEXT_CLSGLD400_00656_SERENDIPITY_000_001","<Highlight>ObjectParameter(1)</Highlight>！又有麻煩了……
+涅吉又對羅羅特恩說無禮的話了……"
+49,"TEXT_CLSGLD400_00656_SERENDIPITY_000_002","他對羅羅特恩說什麼：
+「你的、眼光、太膚淺！滾回重練吧！大笨蛋！」
+……然後還把羅羅特恩給趕了出去。"
+50,"TEXT_CLSGLD400_00656_SERENDIPITY_000_003","唉……真是的，涅吉的毒舌太讓人頭疼了。
+啊，對了，羅羅特恩這次來公會的目的是，
+想要拜託你製作<Sheet(ItemHQ,　2125,0)/>。"
+51,"TEXT_CLSGLD400_00656_SERENDIPITY_000_004","這次委託的難度也挺大的，你就加油吧。
+做好了之後拿來給我！"
+52,"TEXT_CLSGLD400_00656_SERENDIPITY_000_010","啊，<Highlight>ObjectParameter(1)</Highlight>！你已經做好<Sheet(ItemHQ,　2125,0)/>了嗎？"
+53,"TEXT_CLSGLD400_00656_GIGI_000_011","嘰嘰嘰嘰……獸……獸角長杖……
+獸……獸……獸獸！
+獸角長杖手腳長！"
+54,"TEXT_CLSGLD400_00656_GIGI_000_012","小樣、做得、不錯嘛！
+滾犢子去！你這腦袋進水的貨！"
+55,"TEXT_CLSGLD400_00656_SERENDIPITY_000_013","……這……
+這是在誇獎你！盛讚哦！
+……大概。"
+56,"TEXT_CLSGLD400_00656_SERENDIPITY_000_014","<Sheet(Item,　2125,0)/>和<Sheet(Item,　2078,0)/>一樣，杖身都是用<Sheet(Item,5436,0)/>削成的。
+不過<Sheet(Item,　2125,0)/>的裝飾則更加考究。"
+57,"TEXT_CLSGLD400_00656_SERENDIPITY_000_015","特別是杖頭，由吞噬了無數生命的<Sheet(Item,5444,0)/>裝飾，
+才能讓手杖成功附帶有不祥的魔力。"
+58,"TEXT_CLSGLD400_00656_SERENDIPITY_000_016","雖然製作材料和<Sheet(Item,　2078,0)/>的材料差不多，
+但你卻能使用這些材料，製作出截然不同的優質咒杖……
+這手藝實在是太精湛了！"
+59,"TEXT_CLSGLD400_00656_SERENDIPITY_000_017","接下來，就請你將這根咒杖交給羅羅特恩吧，
+他現在在紅玉大路國際市場。
+這根咒杖一定會讓他大吃一驚的！"
+60,"TEXT_CLSGLD400_00656_ROROTON_000_020","啊，<Highlight>ObjectParameter(1)</Highlight>！其實我有事想要拜託你……
+是關於新工作的事情……"
+61,"TEXT_CLSGLD400_00656_ROROTON_000_021","啊！這是<Sheet(ItemHQ,　2125,0)/>！
+謝謝你！
+太好了，看來我的意思還是傳達到了。"
+62,"TEXT_CLSGLD400_00656_ROROTON_000_022","其實我到公會裡下訂單了，
+但是又被之前那個魔法人偶趕了出來……
+哈哈，真是不好意思。"
+63,"TEXT_CLSGLD400_00656_ROROTON_000_023","啊，沒事沒事，我並沒有放在心上。
+那個魔法人偶一定是在試探我有沒有身為寶石商人應有的素質。
+活到老學到老嘛。"
+64,"TEXT_CLSGLD400_00656_ROROTON_000_024","對了，有件事你知道嗎？
+最近市場的商人之間流傳著這麼一件事……"
+65,"TEXT_CLSGLD400_00656_ROROTON_000_025","說是人稱「狐狸傑德」的欺詐師在烏爾達哈出沒。"
+66,"TEXT_CLSGLD400_00656_ROROTON_000_026","那是一個身份不明、神出鬼沒的人。
+而且是個變裝高手，別說真面目了，就連種族和性別也是個謎。
+不過有一點是不變的，那就是會盯上高額的裝飾品。"
+67,"TEXT_CLSGLD400_00656_ROROTON_000_027","那個人可以說是我們寶石商人的天敵。
+啊呀，我們可不想成為狐狸的獵物啊。"
+68,"TEXT_CLSGLD400_00656_ROROTON_000_028","特別是雕金匠公會，可正符合那傢伙的胃口。
+你告訴賽倫要多加小心啊。"
+69,"TEXT_CLSGLD400_00656_ROROTON_000_029","雕金匠公會可正符合欺詐師「狐狸傑德」的胃口。
+你告訴賽倫要多加小心啊。"
+70,"TEXT_CLSGLD400_00656_SERENDIPITY_000_030","你回來了。
+看來羅羅特恩很滿意那根<Sheet(ItemHQ,　2125,0)/>啊。"
+71,"TEXT_CLSGLD400_00656_SERENDIPITY_000_031","話說回來，<Highlight>ObjectParameter(1)</Highlight>，我前幾天從老主顧那裡聽到了些傳聞……"
+72,"TEXT_CLSGLD400_00656_SERENDIPITY_000_032","哎？你怎麼知道是關於欺詐師狐狸傑德的？
+那件事果然是真的嗎？"
+73,"TEXT_CLSGLD400_00656_SERENDIPITY_000_033","如果被騙了可就不得了了！
+身為會長的我可得注意一些！"
+74,"TEXT_CLSGLD400_00656_SERENDIPITY_000_034","啊！<Highlight>ObjectParameter(1)</Highlight>，你剛剛那是什麼表情啊？
+是不是覺得我靠不住！真是太過分了！"

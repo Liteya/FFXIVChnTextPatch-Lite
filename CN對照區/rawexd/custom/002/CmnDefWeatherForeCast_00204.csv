@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_000","為了給各位的冒險旅程提供方便，
+我們正在對各地的氣象變化進行觀測。
+那麼現在就向您介紹目前及未來的天氣狀況。"
+1,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050","<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>當前的天氣為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(2),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+稍後，<If(Equal(IntegerParameter(3),IntegerParameter(4)))>会持续为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>，<Else/>将会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(4),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>相继而至，</If>
+明日本時段的天氣將會是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(5),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+2,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100","當前<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>正處於旱季，
+短時間內無降雨來臨，天空只餘無盡光。"
+3,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200","非常抱歉，現在暫時無法預報諾弗蘭特的天氣。"
+4,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300","非常抱歉，現在暫時無法預報當前地區的天氣。"

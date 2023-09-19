@@ -1,0 +1,156 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"",""
+1,"",""
+2,"",""
+3,"",""
+4,"任務緩和","當前版本針對零式大型任務做出以下調整。
+　·各層攻略後不再記錄攻略進度。
+　·各層不再需要按順序攻略。
+　·寶箱必定會出現。
+　·從寶箱中獲取道具不會有每週獲取限制。
+"
+5,"匹配條件","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配條件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+匹配條件中的「任務已完成」只有在曾經完成過對應任務時才能選擇。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+目的「完成任務」只有在尚未獲得週獎勵時才能選擇。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>指定練習階段<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只有目的選擇了「練習」時才可選擇。
+指定練習階段並不表示可以直接跳過其他階段。
+
+在申請狀態下到達每週重置時間時，申請會被取消。"
+6,"記錄進度","每個玩家自身都會單獨保存最新零式大型任務的挑戰進度，
+當再次進行任務時，會在前一次中斷的位置繼續進行挑戰。
+ 
+挑戰的進度會在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置。"
+7,"進度與報酬","在最新的零式大型任務中，
+進度超前的玩家在已經完成過的階段不會獲得報酬。
+
+隨著隊伍中進度超前隊員的人數，
+寶箱的出現數量以及報酬數量會發生變化。 
+　·進度超前隊員為0人時寶箱出現數：1個
+　·進度超前隊員有1-4人時寶箱出現數：1個（報酬數量減少）
+　·進度超前隊員有5人或以上時寶箱出現數：0個
+ 
+以單人或者不滿8人的隊伍參加最新的零式大型任務時，
+根據匹配到的成員的進度不同，
+寶箱的出現數量及報酬數量也可能會發生變化。 "
+8,"職業構成","通過匹配參加最新的零式大型任務時組成的隊伍沒有重覆職業。
+　·進攻職業會按照「近戰」「遠程物理」「遠程魔法」「無指定」的分配組成。
+
+不過，根據「目的」的設定，在「無指定」一項中也可以有重覆職業。
+　·目的選擇「完成任務」時：職業不可重覆
+　·目的選擇「練習」時：職業可重覆
+
+通過匹配參加最新的零式大型任務時，
+隊伍中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「純粹治療職業」不能多於1名，「護罩治療職業」也不能多於1名，<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+否則無法申請匹配。
+　·純粹治療職業：白魔法師、占星術士
+　※最擅長為自身及隊員治療的特職
+　·護罩治療職業：學者、賢者
+　※最擅長為自身及隊員附加能夠抵禦一定傷害的防護罩的特職"
+9,"組隊參加時的進度","挑戰最新的零式大型任務時，
+全隊都會按照隊長的進度進行挑戰。
+
+即使進度有所不同的隊員也可以一同挑戰任務。
+　·比隊長進度落後的隊員，進度會被更新到與隊長相同。
+　·比隊長進度靠前的隊員，進度不會被更新。"
+10,"任務搜尋器","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是供<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不同玩家<UIGlow>01</UIGlow><UIForeground>01</UIForeground>組成小隊
+一起挑戰迷宮等任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>便利功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+訪問進入點，選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>與其他玩家一同進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，
+將會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+11,"申請參加任務","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>勾選想要挑戰的迷宮名稱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，然後<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下參加按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+系統就會自動地將參加相同任務的玩家組成小隊。
+這個過程被稱為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※最多只能同時申請參加5個任務。
+
+※帶有鎖頭圖案的任務表示當前狀態沒有完全符合參加條件，無法申請參加。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12,"申請的預約狀況","開始申請之後，目的列表中會出現搜尋器的圖標，可以隨時查看<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>預約狀況<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+預約狀況窗口中會顯示當前的隊伍情況和伺服器預約情況。"
+13,"出發確認窗口","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出發按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以進行挑戰了！
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若沒有在限制時間內出發，將會取消參加，需要重新進行選擇。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+14,"可以挑戰的迷宮","隨著你的冒險不斷推進，可以挑戰的迷宮數量也會不斷增加。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用劇情輔助器的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
+
+此外成功挑戰過的迷宮也可以重覆進行挑戰。
+可以從<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選單選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次進行挑戰。"
+15,"探索特殊迷宮的方法","和專用的非玩家角色對話，或者選擇快捷指令「任務情報」內的
+「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊迷宮探索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」打開專用的窗口，
+進入特殊迷宮探索任務。
+
+進入任務時所需的情報都會顯示在專用窗口內，
+同時也可以進行各種設定。"
+16,"多變迷宮","特殊迷宮探索之一的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>多變迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+可以以1～4人的任意人數進行探索，
+難度將會根據探索人數進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自動調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+單人進行探索時，難度可能會相對難一些。
+
+想要自己進行探索，或是僅與小隊同伴進行探索時，
+需要關閉<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。
+（初期狀態為關閉）
+
+想要自動匹配為4人小隊再進行探索時，
+需要打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。"
+17,"多變技能","在多變迷宮內可以使用「<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」，
+以方便冒險者通過任意職業構成探索迷宮。
+
+無論是防護職業還是進攻職業，
+都可以使用<UIForeground>0F</UIForeground>特殊的治療和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
+當然，其他的職業同樣也準備了不同的<UIForeground>0F</UIForeground>特殊技能<UIForeground>01</UIForeground>。
+
+探索時可以使用2種不同的多變技能。
+在專用的窗口選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設定多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+就可以隨時從顯示的多變技能一覽中挑選、設定多變技能了。"
+18,"找出迷宮內的故事","多變迷宮需要和相關人物一起探索
+迷宮內的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>分歧路線<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+找出藏在迷宮內的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>故事<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+找到的故事會一個一個
+記載到多變迷宮專用的筆記或記錄冊上。
+
+點擊窗口內的人物，可以打開專用的人物窗口，
+在人物窗口內可以閱讀已發現的故事。"
+19,"挑戰異聞迷宮","開放了特殊迷宮探索的高難度任務——<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+通過點擊窗口上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+可以將窗口內的資訊改為異聞迷宮的資訊。
+
+異聞迷宮中沒有同行的非玩家角色和分歧路線，
+也沒有發現故事等要素。
+異聞迷宮窗口內會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+以及在挑戰迷宮時可以獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>專用貨幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+20,"異聞迷宮的限制","異聞迷宮與多變迷宮不同，
+任務中無法進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職轉換<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+同時，復活等普通技能無法解除無法戰鬥狀態，
+只有專用的多變復活技能可以解除無法戰鬥狀態。
+
+此外，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>零式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>異聞迷宮中，
+將<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>多變技能。
+
+零式異聞迷宮只有組滿4人且全員滿足條件後才可進入。"
+21,"關於隊員介紹","用於顯示各隊員肖像的專用窗口。在迷宮、討伐殲滅戰等任務開始時會自動顯示。任務開始時顯示的專用窗口無法變更大小與顯示位置。
+
+任務開始時顯示的專用窗口可以通過角色設定或從詳細設定變更為非顯示。"
+22,"打開隊員介紹窗口的方法","任務中玩家可以從快捷指令的任務情報，選擇任務搜尋器打開任務選單。通過任務內功能標籤頁的「顯示隊員介紹」按鈕打開隊員介紹窗口。
+
+此外任務開始時顯示的隊員介紹，也會以通知的形式顯示，玩家也可以通過該通知打開隊員介紹窗口。"
+23,"關於詳細設定","打開任務選單選擇「顯示隊員介紹」按鈕，可以從彈出的窗口中進行以下的設定：
+
+　·副本任務開始時顯示隊員介紹
+　·顯示隊員介紹的通知
+　·肖像靠下顯示"
+24,"",""
+25,"特殊迷宮探索的品級","對於特殊迷宮探索任務，以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隨機組隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的形式組成4人小隊時，
+需要申請參加任務的隊員滿足迷宮設定的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>平均品級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+以非組隊或固定隊伍形式進行攻略時，
+可以無視平均品級進入迷宮。"
+26,"異聞迷宮的匹配條件","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配條件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務已完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只有在曾經完成過對應任務時才能選擇。"
