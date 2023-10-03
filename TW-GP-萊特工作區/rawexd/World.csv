@@ -92,6 +92,12 @@ int32,str,str
 101,zone_test,zone_test
 102,trs_test,trs_test
 103,contents_test,contents_test
+104,i-contents10,i-contents10
+105,i-contents20,i-contents20
+106,i-contents30,i-contents30
+107,i-contents10,i-contents10
+108,i-contents20,i-contents20
+109,i-contents30,i-contents30
 110,b-tirica,b-tirica
 111,b-contents,b-contents
 112,b-chiriri,b-chiriri
@@ -140,7 +146,7 @@ int32,str,str
 165,s-guttata,陆行鸟s-guttata
 166,Moogle,莫古力
 167,chs-contents2,chs-contents2
-168,Namazu,Namazu
+168,Namazu,鲶鱼精
 169,chs-contents3,chs-contents3
 170,s-poliogenys,s-poliogenys
 171,s-haematina,陆行鸟s-haematina
@@ -162,6 +168,8 @@ int32,str,str
 187,s-bicolor,莫古力s-bicolor
 188,s-contents5,s-contents5
 189,s-contents6,s-contents6
+190,Mameshiba,豆豆柴
+191,chs-contents4,chs-contents4
 201,Nacontents01,Nacontents01
 202,Nacontents02,Nacontents02
 203,Nacontents03,Nacontents03
@@ -825,6 +833,11 @@ int32,str,str
 2581,krcontents20,krcontents20
 2582,krcontents21,krcontents21
 2583,krcontents22,krcontents22
+3000,Cloudtest01,Cloudtest01
+3001,Cloudtest02,Cloudtest02
+3500,Clcontents01,Clcontents01
+3501,Clcontents02,Clcontents02
+3502,Clcontents03,Clcontents03
 10000,crossworld_range,
 10001,crossworld,
 10002,crossworld,
@@ -846,5 +859,6 @@ int32,str,str
 10018,crossworld,
 10019,crossworld,
 10020,crossworld,
+10098,crossworld,
 65534,outofrange1,
 65535,outofrange2,

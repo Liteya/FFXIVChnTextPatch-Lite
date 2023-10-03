@@ -91,3 +91,17 @@ int32,str,str
 86,Update_AOZ_ReportCompleteCount,custom
 87,Update_VVD_640_Progress,custom
 88,Update_VVD_640_HardComplete,custom
+89,Update_Quest_Tataru650,custom
+90,Update_Trial_650_Complete,custom
+91,Update_Raid24_650_Complete,custom
+92,Update_CustomDelivery_Satisfaction_650,custom
+93,Update_DiscoveryUniqueItem_Mine_650,custom
+94,Update_DiscoveryUniqueItem_Harvest_650,custom
+95,Update_DiscoveryUniqueItem_Fish_650,custom
+96,Update_DD1_Reached200floor_Solo,custom
+97,Update_DD2_Reached100floor_Solo,custom
+98,Update_Quest_Hildy650,custom
+99,Update_VVD_650_Progress,custom
+100,Update_VVD_650_HardComplete,custom
+101,Update_SDG_GetAny_650,custom
+102,Update_Weapon_GetAny_650,custom
