@@ -1038,8 +1038,8 @@ int32,str,str
 1135,,
 1136,,
 1137,e5d1,ex4/08_est_e5/dun/e5d1/level/e5d1
-1138,,
-1139,,
+1138,s5p5,ffxiv/pvp_xx/pvp/s5p5/level/s5p5
+1139,s5p5_ctm,ffxiv/pvp_xx/pvp/s5p5/level/s5p5
 1140,z5fb,ex4/05_zon_z5/fld/z5fb/level/z5fb
 1141,z5fb_2,ex4/05_zon_z5/fld/z5fb/level/z5fb
 1142,o3d1_re,ex2/03_ocn_o3/dun/o3d1/level/o3d1
@@ -1065,7 +1065,7 @@ int32,str,str
 1162,z5e5,ex4/05_zon_z5/evt/z5e5/level/z5e5
 1163,o1a2,ffxiv/ocn_o1/ang/o1a2/level/o1a2
 1164,z5d2,ex4/05_zon_z5/dun/z5d2/level/z5d2
-1165,,
+1165,w1ek,ffxiv/wil_w1/evt/w1ek/level/w1ek
 1166,,
 1167,,
 1168,z5fc,ex4/05_zon_z5/fld/z5fc/level/z5fc
@@ -1076,11 +1076,11 @@ int32,str,str
 1173,e3d7_re,ex2/02_est_e3/dun/e3d7/level/e3d7
 1174,g3d5_re,ex2/01_gyr_g3/dun/g3d5/level/g3d5
 1175,a2fb_3,ex1/03_abr_a2/fld/a2fb/level/a2fb
-1176,,
+1176,o5d1,ex4/09_ocn_o5/dun/o5d1/level/o5d1
 1177,,
 1178,z5r3,ex4/05_zon_z5/rad/z5r3/level/z5r3
-1179,,
-1180,,
+1179,o5d2,ex4/09_ocn_o5/dun/o5d2/level/o5d2
+1180,o5d2_2,ex4/09_ocn_o5/dun/o5d2/level/o5d2
 1181,z5fc_event,ex4/05_zon_z5/fld/z5fc/level/z5fc
 1182,z5r3_event,ex4/05_zon_z5/rad/z5r3/level/z5r3
 1183,,
@@ -1097,7 +1097,7 @@ int32,str,str
 1194,,
 1195,,
 1196,,
-1197,,
+1197,w1el,ffxiv/wil_w1/evt/w1el/level/w1el
 1198,,
 1199,,
 1200,,
