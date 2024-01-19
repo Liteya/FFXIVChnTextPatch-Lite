@@ -1036,7 +1036,7 @@ int32,str,str
 1133,,
 1134,,
 1135,,
-1136,,
+1136,m5fb,ex4/02_mid_m5/fld/m5fb/level/m5fb
 1137,e5d1,ex4/08_est_e5/dun/e5d1/level/e5d1
 1138,s5p5,ffxiv/pvp_xx/pvp/s5p5/level/s5p5
 1139,s5p5_ctm,ffxiv/pvp_xx/pvp/s5p5/level/s5p5
@@ -1077,13 +1077,13 @@ int32,str,str
 1174,g3d5_re,ex2/01_gyr_g3/dun/g3d5/level/g3d5
 1175,a2fb_3,ex1/03_abr_a2/fld/a2fb/level/a2fb
 1176,o5d1,ex4/09_ocn_o5/dun/o5d1/level/o5d1
-1177,,
+1177,ec049,ex4/03_kld_k5/dun/k5d2/level/k5d2
 1178,z5r3,ex4/05_zon_z5/rad/z5r3/level/z5r3
 1179,o5d2,ex4/09_ocn_o5/dun/o5d2/level/o5d2
 1180,o5d2_2,ex4/09_ocn_o5/dun/o5d2/level/o5d2
 1181,z5fc_event,ex4/05_zon_z5/fld/z5fc/level/z5fc
 1182,z5r3_event,ex4/05_zon_z5/rad/z5r3/level/z5r3
-1183,,
+1183,m5fb_event,ex4/02_mid_m5/fld/m5fb/level/m5fb
 1184,z5d2_event,ex4/05_zon_z5/dun/z5d2/level/z5d2
 1185,,
 1186,,
