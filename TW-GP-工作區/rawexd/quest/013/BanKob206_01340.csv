@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANKOB206_01340_SEQ_00,第789洞穴團採礦地的第789團工匠博古，想要消除不滿。
-1,TEXT_BANKOB206_01340_SEQ_01,第789團工匠博古想除掉守護第13洞穴團煉金工房的<hex:02280FFF09>BNpcName<hex:F20A8C0103>。和黑金湖的第13團煉金術士加吉對話，他知道通往第13洞穴團煉金工房的暗道。
+1,TEXT_BANKOB206_01340_SEQ_01,第789團工匠博古想除掉守護第13洞穴團煉金工房的<hex:02280FFF09>BNpcName<hex:F20A8C0103>。和黑金湖的第13團煉金術士加吉談談，他知道通往第13洞穴團煉金工房的暗道。
 2,TEXT_BANKOB206_01340_SEQ_02,第13團煉金術士加吉告訴了冒險者破壞控制<hex:02280FFF09>BNpcName<hex:F20A8C0103>的<hex:02280CFF05>EObj<hex:F61E92BF0103>的方法。為了讓<hex:02280CFF05>EObj<hex:F61E92BF0103>過熱，討伐4隻第13洞穴團煉金工房<hex:02280CFF05>EObj<hex:F61E92BF0103>附近的<hex:02280FFF09>BNpcName<hex:F20A8C0103>。
 3,TEXT_BANKOB206_01340_SEQ_03,討伐了<hex:02280CFF05>EObj<hex:F61E92BF0103>附近的<hex:02280FFF09>BNpcName<hex:F20A8C0103>，成功令<hex:02280CFF05>EObj<hex:F61E92BF0103>過熱。對第13洞穴團煉金工房裡的<hex:02280CFF05>EObj<hex:F61E92BF0103>使用<hex:022811FF0A>EventItem<hex:F61E89460103>，破壞掉它。
 4,TEXT_BANKOB206_01340_SEQ_04,破壞了<hex:02280CFF05>EObj<hex:F61E92BF0103>。向第789洞穴團採礦地的第789團工匠博古報告。

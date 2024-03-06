@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,TEXT_JOBNIN350_00214_SEQ_00,燕很欽佩冒險者。
-1,TEXT_JOBNIN350_00214_SEQ_01,朧在等冒險者。和碼頭小屋裡的朧對話。
-2,TEXT_JOBNIN350_00214_SEQ_02,朧傳授了冒險者新的地之印。再次和朧對話，聽取關於修行的說明。
+1,TEXT_JOBNIN350_00214_SEQ_01,朧在等冒險者。和碼頭小屋裡的朧談談。
+2,TEXT_JOBNIN350_00214_SEQ_02,朧傳授了冒險者新的地之印。再次和朧談談，聽取關於修行的說明。
 3,TEXT_JOBNIN350_00214_SEQ_03,
 4,TEXT_JOBNIN350_00214_SEQ_04,
 5,TEXT_JOBNIN350_00214_SEQ_05,

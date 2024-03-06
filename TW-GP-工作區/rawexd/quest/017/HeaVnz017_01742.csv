@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ017_01742_SEQ_00,福爾唐伯爵宅地附近的煩惱的騎兵正注視著冒險者。
-1,TEXT_HEAVNZ017_01742_SEQ_01,煩惱的騎兵拜託冒險者送一件禮物。在送之前，首先要取得這件禮物。前往伊修加德的忘憂騎士亭與基礎層的名畫家對話。
+1,TEXT_HEAVNZ017_01742_SEQ_01,煩惱的騎兵拜託冒險者送一件禮物。在送之前，首先要取得這件禮物。和伊修加德忘憂騎士亭的基礎層的名畫家談談。
 2,TEXT_HEAVNZ017_01742_SEQ_02,從基礎層的名畫家處獲得了<hex:022811FF0A>EventItem<hex:F61E8B8D0103>。前往庫爾札斯西部高地的隼巢，將<hex:022811FF0A>EventItem<hex:F61E8B8D0103>交給艾姆里瑟爾。
 3,TEXT_HEAVNZ017_01742_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8B8D0103>交給了艾姆里瑟爾。他看著宗教畫，內心的信仰彷彿更加堅定了。只是那笑容之下似乎隱藏著一絲並不純粹的想法……
 4,TEXT_HEAVNZ017_01742_SEQ_04,
@@ -26,7 +26,7 @@ int32,str,str
 21,TEXT_HEAVNZ017_01742_SEQ_21,
 22,TEXT_HEAVNZ017_01742_SEQ_22,
 23,TEXT_HEAVNZ017_01742_SEQ_23,
-24,TEXT_HEAVNZ017_01742_TODO_00,和忘憂騎士亭的基礎層的名畫家對話
+24,TEXT_HEAVNZ017_01742_TODO_00,和忘憂騎士亭的基礎層的名畫家談談
 25,TEXT_HEAVNZ017_01742_TODO_01,將<hex:022811FF0A>EventItem<hex:F61E8B8D0103>交給隼巢的艾姆里瑟爾
 26,TEXT_HEAVNZ017_01742_TODO_02,
 27,TEXT_HEAVNZ017_01742_TODO_03,

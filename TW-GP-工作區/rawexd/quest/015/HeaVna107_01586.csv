@@ -4,8 +4,8 @@ offset,0,4
 int32,str,str
 0,TEXT_HEAVNA107_01586_SEQ_00,正在修理征龍像的蒂耶蒙，很在意冒險者接下來的動向。
 1,TEXT_HEAVNA107_01586_SEQ_01,蒂耶蒙希望冒險者幫忙去送東西，將<hex:022811FF0A>EventItem<hex:F61E8AA50103>交給了冒險者。前往庫爾札斯西部高地的金砧塔，將<hex:022811FF0A>EventItem<hex:F61E8AA50103>交給伊索多爾。
-2,TEXT_HEAVNA107_01586_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8AA50103>交給了伊索多爾。和庫爾札斯西部高地隼巢的雷德沃爾德對話。
-3,TEXT_HEAVNA107_01586_SEQ_03,向雷德沃爾德報告完畢。從他語氣中推測，好像又發生了新的問題。準備好後再次和雷德沃爾德對話。
+2,TEXT_HEAVNA107_01586_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E8AA50103>交給了伊索多爾。和庫爾札斯西部高地隼巢的雷德沃爾德談談。
+3,TEXT_HEAVNA107_01586_SEQ_03,向雷德沃爾德報告完畢。從他語氣中推測，好像又發生了新的問題。準備好後再次和雷德沃爾德談談。
 4,TEXT_HEAVNA107_01586_SEQ_04,
 5,TEXT_HEAVNA107_01586_SEQ_05,
 6,TEXT_HEAVNA107_01586_SEQ_06,

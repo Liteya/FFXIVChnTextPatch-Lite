@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ206_01775_SEQ_00,尾羽集落的盧帕爾希望冒險者去照顧一下新來的獵人。
-1,TEXT_HEAVNZ206_01775_SEQ_01,盧帕爾希望冒險者和新手獵人搭檔狩獵。和龍堡參天高地尾羽集落的新手獵人奇·揚塔對話。
+1,TEXT_HEAVNZ206_01775_SEQ_01,盧帕爾希望冒險者和新手獵人搭檔狩獵。和龍堡參天高地尾羽集落的新手獵人奇·揚塔談談。
 2,TEXT_HEAVNZ206_01775_SEQ_02,向奇·揚塔了解了計劃。在尾羽集落東邊的陸行鳥之森獲得<hex:022811FF0A>EventItem<hex:F61E8B7D0103>。
 3,TEXT_HEAVNZ206_01775_SEQ_03,採集了<hex:022811FF0A>EventItem<hex:F61E8B7D0103>。將<hex:022811FF0A>EventItem<hex:F61E8B7D0103>交給尾羽集落的奇·揚塔。
 4,TEXT_HEAVNZ206_01775_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8B7D0103>交給了奇·揚塔。向尾羽集落的盧帕爾報告。

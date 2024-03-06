@@ -4,8 +4,8 @@ offset,0,4
 int32,str,str
 0,TEXT_GAIUSD202_01200_SEQ_00,拉姆布魯斯準備開始加工超高純度水晶。
 1,TEXT_GAIUSD202_01200_SEQ_01,為了加工超高純度水晶，需要收集靈砂作為研磨劑。從拉姆布魯斯那裡領取了<hex:022811FF0A>EventItem<hex:F61E88CB0103>，將其轉交給烏爾達哈雕金匠公會的賽倫蒂碧提，協助收集靈砂。
-2,TEXT_GAIUSD202_01200_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E88CB0103>交給賽倫蒂碧提時，遇到了同樣在收集靈砂的比格斯。經過一番交涉，比格斯將<hex:022811FF0A>EventItem<hex:F61E88C90103>讓給了冒險者。為了打聽其餘靈砂的情報，和雕金匠公會的比格斯對話。
-3,TEXT_GAIUSD202_01200_SEQ_03,比格斯的搭檔魏吉好像正在北薩納蘭尋找<hex:022811FF0A>EventItem<hex:F61E88CA0103>。前往藍霧營地，和魏吉僱用的老練的冒險者對話。
+2,TEXT_GAIUSD202_01200_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E88CB0103>交給賽倫蒂碧提時，遇到了同樣在收集靈砂的比格斯。經過一番交涉，比格斯將<hex:022811FF0A>EventItem<hex:F61E88C90103>讓給了冒險者。為了打聽其餘靈砂的情報，和雕金匠公會的比格斯談談。
+3,TEXT_GAIUSD202_01200_SEQ_03,比格斯的搭檔魏吉好像正在北薩納蘭尋找<hex:022811FF0A>EventItem<hex:F61E88CA0103>。前往藍霧營地，和魏吉僱用的老練的冒險者談談。
 4,TEXT_GAIUSD202_01200_SEQ_04,在從盜賊手中奪回<hex:022811FF0A>EventItem<hex:F61E88CA0103>時，老練的冒險者和魏吉走散了。前往艾瑪吉娜秘銀廢礦對魏吉進行搜救。
 5,TEXT_GAIUSD202_01200_SEQ_05,成功地找到了魏吉。在艾瑪吉娜秘銀廢礦內尋找他在逃跑途中丟失的<hex:022811FF0A>EventItem<hex:F61E88CA0103>。
 6,TEXT_GAIUSD202_01200_SEQ_06,找到了<hex:022811FF0A>EventItem<hex:F61E88CA0103>。讓魏吉進行查看。

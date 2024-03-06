@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNA311_01612_SEQ_00,伊塞勒想通了骨頜族為何會召喚蠻神。
-1,TEXT_HEAVNA311_01612_SEQ_01,為討伐蠻神，先去收集骨頜族的情報。和龍堡參天高地尾羽集落的馬塞尚對話。
+1,TEXT_HEAVNA311_01612_SEQ_01,為討伐蠻神，先去收集骨頜族的情報。和龍堡參天高地尾羽集落的馬塞尚談談。
 2,TEXT_HEAVNA311_01612_SEQ_02,和馬塞尚進行了交談。為從離群的骨頜族那裡獲得情報，需要先為他們準備禮物。從寬慰河的<hex:02280FFF09>BNpcName<hex:F20DF20103>身上獲取3份<hex:022811FF0A>EventItem<hex:F61E8AAC0103>。
 3,TEXT_HEAVNA311_01612_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E8AAC0103>。將<hex:022811FF0A>EventItem<hex:F61E8AAC0103>交給龍堡參天高地邪龍雕像北邊的阿爾菲諾。
 4,TEXT_HEAVNA311_01612_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8AAC0103>交給了阿爾菲諾。大家各自出力，將禮物準備完畢。前去和離群的骨頜族交易。

@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_JOBBLM300_01073_SEQ_00,咒術師公會的雅雅凱，有事情想要委託給冒險者。
 1,TEXT_JOBBLM300_01073_SEQ_01,接受了雅雅凱的委託。前往東薩納蘭的跨天橋，調查<hex:02280CFF05>EObj<hex:F61E8DFD0103>，並討伐出現的妖異，獲取<hex:022811FF0A>EventItem<hex:F61E883A0103>。
 2,TEXT_JOBBLM300_01073_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E883A0103>。在東薩納蘭的跨天橋，將<hex:022811FF0A>EventItem<hex:F61E883A0103>銘刻於<hex:02280CFF05>EObj<hex:F61E8DFD0103>。
-3,TEXT_JOBBLM300_01073_SEQ_03,銘刻了<hex:022811FF0A>EventItem<hex:F61E883A0103>。前往烏爾達哈的咒術師公會，和雅雅凱對話。
+3,TEXT_JOBBLM300_01073_SEQ_03,銘刻了<hex:022811FF0A>EventItem<hex:F61E883A0103>。前往烏爾達哈的咒術師公會，和雅雅凱談談。
 4,TEXT_JOBBLM300_01073_SEQ_04,和雅雅凱進行了交談。前往烏爾達哈的密爾瓦內斯禮拜堂，向菈菈伊報告。
 5,TEXT_JOBBLM300_01073_SEQ_05,向菈菈伊報告完畢。菈菈伊告訴冒險者庫庫魯卡在禮拜堂裡面進行冥想，她將會替庫庫魯卡傳言。<hex:02100103><hex:02100103>※黑魔法師的等級達到35級以上時，可以從菈菈伊那裡領取下一個黑魔法師任務。
 6,TEXT_JOBBLM300_01073_SEQ_06,

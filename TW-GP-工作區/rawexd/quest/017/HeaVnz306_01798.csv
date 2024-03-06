@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_HEAVNZ306_01798_SEQ_00,尾羽集落的馬塞尚正在準備應戰。
 1,TEXT_HEAVNZ306_01798_SEQ_01,接受委託，幫忙驅趕大陸行鳥。前往龍堡參天高地的陸行鳥之森，和前去查看壞掉的陷阱的老練的獵人談談。
 2,TEXT_HEAVNZ306_01798_SEQ_02,老練的獵人遭到了<hex:02280FFF09>BNpcName<hex:F20FCF0103>的襲擊。追趕逃往陸行鳥之森東北邊的<hex:02280FFF09>BNpcName<hex:F20FCF0103>，對方發起攻擊的話就將其討伐。
-3,TEXT_HEAVNZ306_01798_SEQ_03,打倒了<hex:02280FFF09>BNpcName<hex:F20FCF0103>。和在陸行鳥之森查看情況的老練的獵人對話。
+3,TEXT_HEAVNZ306_01798_SEQ_03,打倒了<hex:02280FFF09>BNpcName<hex:F20FCF0103>。和在陸行鳥之森查看情況的老練的獵人談談。
 4,TEXT_HEAVNZ306_01798_SEQ_04,和老練的獵人進行了交談。將結果向尾羽集落的馬塞尚報告。
 5,TEXT_HEAVNZ306_01798_SEQ_05,向馬塞尚報告完畢。陸行鳥是一種聰明的動物，如果它們襲擊人類，那只能狠下心來將它們驅除。
 6,TEXT_HEAVNZ306_01798_SEQ_06,

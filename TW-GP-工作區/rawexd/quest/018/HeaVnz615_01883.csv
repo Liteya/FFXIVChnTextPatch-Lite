@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ615_01883_SEQ_00,南方牆壁的南方偵察隊的龍騎士非常在意前往另一個戰場遺跡的調查員。
-1,TEXT_HEAVNZ615_01883_SEQ_01,南方偵察隊的龍騎士非常在意前往另一個戰場遺跡的調查員。前往翻雲霧海的西方水泉，和北方偵察隊的龍騎士對話。
+1,TEXT_HEAVNZ615_01883_SEQ_01,南方偵察隊的龍騎士非常在意前往另一個戰場遺跡的調查員。和翻雲霧海西方水泉的北方偵察隊的龍騎士談談。
 2,TEXT_HEAVNZ615_01883_SEQ_02,北方偵察隊的龍騎士委託冒險者幫忙奪回<hex:022811FF0A>EventItem<hex:F61E8AFC0103>。在西方水泉討伐<hex:02280FFF09>BNpcName<hex:F20E2D0103>。
 3,TEXT_HEAVNZ615_01883_SEQ_03,打倒了<hex:02280FFF09>BNpcName<hex:F20E2D0103>，沒能找到<hex:022811FF0A>EventItem<hex:F61E8AFC0103>。繼續討伐<hex:02280FFF09>BNpcName<hex:F20E2D0103>，奪回<hex:022811FF0A>EventItem<hex:F61E8AFC0103>。
 4,TEXT_HEAVNZ615_01883_SEQ_04,奪回了<hex:022811FF0A>EventItem<hex:F61E8AFC0103>。將<hex:022811FF0A>EventItem<hex:F61E8AFC0103>交給西方水泉的北方偵察隊的龍騎士。

@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_BANSYL101_01257_SEQ_00,妖精暫留地的特那克希亞有事情想要委託給冒險者。
 1,TEXT_BANSYL101_01257_SEQ_01,接受了特那克希亞的委託。將<hex:022811FF0A>EventItem<hex:F61E88DD0103>放置到霍桑山寨的<hex:02280CFF05>EObj<hex:F61E90D30103>。
-2,TEXT_BANSYL101_01257_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E88DD0103>放置到了霍桑山寨的<hex:02280CFF05>EObj<hex:F61E90D30103>。和霍桑山寨的羅爾佛·霍桑對話。
+2,TEXT_BANSYL101_01257_SEQ_02,將<hex:022811FF0A>EventItem<hex:F61E88DD0103>放置到了霍桑山寨的<hex:02280CFF05>EObj<hex:F61E90D30103>。和霍桑山寨的羅爾佛·霍桑談談。
 3,TEXT_BANSYL101_01257_SEQ_03,和羅爾佛·霍桑進行了交談。向妖精暫留地的特那克希亞報告。
 4,TEXT_BANSYL101_01257_SEQ_04,向特那克希亞報告完畢。羅爾佛好像不是很喜歡特那克希亞準備的蔬菜，但還是感謝了其心意。下次有機會再協助特那克希亞。
 5,TEXT_BANSYL101_01257_SEQ_05,

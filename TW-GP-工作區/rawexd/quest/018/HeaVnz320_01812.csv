@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ320_01812_SEQ_00,不潔三塔的艾斯·卡斯直勾勾地盯著冒險者。
-1,TEXT_HEAVNZ320_01812_SEQ_01,看了冒險者與自己孩子們的戰鬥，艾斯·卡斯也熱血沸騰了起來。前往龍堡參天高地的阿瓦隆尼亞古陸，和科姆·庫爾對話，和<hex:02280FFF09>BNpcName<hex:F210B40103>對戰。
-2,TEXT_HEAVNZ320_01812_SEQ_02,戰勝了<hex:02280FFF09>BNpcName<hex:F210B40103>。和阿瓦隆尼亞古陸的科姆·庫爾對話。
+1,TEXT_HEAVNZ320_01812_SEQ_01,看了冒險者與自己孩子們的戰鬥，艾斯·卡斯也熱血沸騰了起來。前往龍堡參天高地的阿瓦隆尼亞古陸，和科姆·庫爾談談，和<hex:02280FFF09>BNpcName<hex:F210B40103>對戰。
+2,TEXT_HEAVNZ320_01812_SEQ_02,戰勝了<hex:02280FFF09>BNpcName<hex:F210B40103>。和阿瓦隆尼亞古陸的科姆·庫爾談談。
 3,TEXT_HEAVNZ320_01812_SEQ_03,從科姆·庫爾那裡獲得了<hex:022811FF0A>EventItem<hex:F61E8ADE0103>。將<hex:022811FF0A>EventItem<hex:F61E8ADE0103>交給不潔三塔的艾斯·卡斯。
 4,TEXT_HEAVNZ320_01812_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8ADE0103>交給了艾斯·卡斯。艾斯·卡斯很是高興，向冒險者述說了過去自己的父親與人類騎士對戰的往事。
 5,TEXT_HEAVNZ320_01812_SEQ_05,

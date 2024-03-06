@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_BANSYL207_01273_SEQ_00,妖精暫留地的頗妮希亞想要讓森林的空氣變清新。
-1,TEXT_BANSYL207_01273_SEQ_01,接受了頗妮希亞的委託。和妖精領入口附近的神秘的妖精對話。
+1,TEXT_BANSYL207_01273_SEQ_01,接受了頗妮希亞的委託。和妖精領入口附近的神秘的妖精談談。
 2,TEXT_BANSYL207_01273_SEQ_02,和神秘的妖精進行了交談，身上被他施加了隱身咒文。在透明狀態下獲取3杯<hex:022811FF0A>EventItem<hex:F61E891E0103>。<hex:02100103><hex:02100103>※透明狀態在一定時間後就會失效。接觸<hex:02280CFF05>EObj<hex:F61E91890103>可以延長透明狀態的持續時間。
 3,TEXT_BANSYL207_01273_SEQ_03,獲得了<hex:022811FF0A>EventItem<hex:F61E891E0103>。對月芽叢的<hex:02280CFF05>EObj<hex:F61E91390103>使用<hex:022811FF0A>EventItem<hex:F61E891E0103>。
 4,TEXT_BANSYL207_01273_SEQ_04,對<hex:02280CFF05>EObj<hex:F61E91390103>使用了<hex:022811FF0A>EventItem<hex:F61E891E0103>。向妖精暫留地的頗妮希亞報告。

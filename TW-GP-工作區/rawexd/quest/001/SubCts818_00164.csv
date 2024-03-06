@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_SUBCTS818_00164_SEQ_00,喪靈鐘的斯拉佛伯恩正在尋找冒險者。
-1,TEXT_SUBCTS818_00164_SEQ_01,據斯拉佛伯恩說，有人來找冒險者了。和喪靈鐘秘密工房的傑西對話。喪靈鐘的斯拉佛伯恩會帶領冒險者前往秘密工房。
+1,TEXT_SUBCTS818_00164_SEQ_01,據斯拉佛伯恩說，有人來找冒險者了。和喪靈鐘秘密工房的傑西談談。喪靈鐘的斯拉佛伯恩會帶領冒險者前往秘密工房。
 2,TEXT_SUBCTS818_00164_SEQ_02,接受了傑西的委託，去收集部件，以用來修理魔導裝甲。調查摩杜納帝國中央堡的<hex:02280CFF05>EObj<hex:F61E955A0103>，獲取<hex:022811FF0A>EventItem<hex:F61E89BB0103>、<hex:022811FF0A>EventItem<hex:F61E89BC0103>和<hex:022811FF0A>EventItem<hex:F61E89BD0103>。
 3,TEXT_SUBCTS818_00164_SEQ_03,收集齊了修理魔導裝甲的部件。將<hex:022811FF0A>EventItem<hex:F61E89BB0103>、<hex:022811FF0A>EventItem<hex:F61E89BC0103>和<hex:022811FF0A>EventItem<hex:F61E89BD0103>交給秘密工房的傑西。
 4,TEXT_SUBCTS818_00164_SEQ_04,將部件交給了傑西。魔導裝甲上壞掉的魔導加農砲和魔導光子砲可以使用了。但由於沒有正式的維修設備，因此無法用於戰鬥。傑西因此而越發有幹勁，為研發新產品而摩拳擦掌。

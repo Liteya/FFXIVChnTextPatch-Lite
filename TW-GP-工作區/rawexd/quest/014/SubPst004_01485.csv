@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_SUBPST004_01485_SEQ_00,郵差莫古力前輩有個送往鄧斯坦哨塔的包裹要交給冒險者。
 1,TEXT_SUBPST004_01485_SEQ_01,接受了郵差莫古力前輩的委託，前去送包裹。前往中央林區的鄧斯坦哨塔，將包裹交給在附近的博物學家馬爾塞特。
-2,TEXT_SUBPST004_01485_SEQ_02,將包裹交給了馬爾塞特。但是商品好像訂錯了。為了獲取馬爾塞特需求的<hex:022811FF0A>EventItem<hex:F61E89B20103>，前往中薩納蘭的王立娜娜莫菜園和園藝工對話。
+2,TEXT_SUBPST004_01485_SEQ_02,將包裹交給了馬爾塞特。但是商品好像訂錯了。為了獲取馬爾塞特需求的<hex:022811FF0A>EventItem<hex:F61E89B20103>，前往中薩納蘭的王立娜娜莫菜園和園藝工談談。
 3,TEXT_SUBPST004_01485_SEQ_03,和園藝工佳佳莉進行了交談。在王立娜娜莫菜園的<hex:02280CFF05>EObj<hex:F61E95340103>放上雜草。
 4,TEXT_SUBPST004_01485_SEQ_04,在<hex:02280CFF05>EObj<hex:F61E95340103>放上了<hex:022811FF0A>EventItem<hex:F61E89B10103>。用<hex:022811FF0A>EventItem<hex:F61E89B00103>點燃這捆雜草，將鼴鼠熏出來。
 5,TEXT_SUBPST004_01485_SEQ_05,將鼴鼠熏出來了。獲取<hex:022811FF0A>EventItem<hex:F61E89B20103>。
