@@ -300,9 +300,9 @@ int32,str
 295,
 296,
 297,
-298,
-299,
-300,
+298,weapon/pc_contentsaction/human_sp019
+299,weapon/pc_contentsaction/human_sp021
+300,weapon/special/cutscene_raisingflame
 301,weapon/event_base/event_base_fishing_stand_nomal
 302,weapon/event_base/event_base_fishing_stand_dynamic
 303,
@@ -317,7 +317,7 @@ int32,str
 312,weapon/event_base/event_base_fishing_stand_start
 313,weapon/event_base/event_base_fishing_stand_dy_no
 314,
-315,
+315,weapon/pc_contentsaction/human_sp031
 316,
 317,
 318,
